@@ -1,0 +1,180 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shiba Akinao"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q47603$BC09773E-2928-4625-AD5E-F8E40DD658F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47603$C5BFE0C4-FD26-42A3-8AEA-97EF59D7F605",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47603$1CAA1CFD-198B-4778-A2C9-6B26E757670D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56290",
+              "numeric-id": 56290
+            }
+          },
+          "hash": "b3221cac96b5f31849e36d3d4be92864c6a7da93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47603$180532D3-1DE9-4F8A-A361-30BB6220BC3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47603$3795FA83-4F10-46AC-9541-C80F4ACFDCD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1548-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad4fe05c6474871313abe9372ccfcc0f05d8f0dd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47603$F2D33DB6-7DEF-4F8A-8EA4-EF7AB3339DA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11500879"
+          },
+          "hash": "0ee5e725a1807e430dd7b6d02dea4c0c739f8f96",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47603$67C7E15D-A520-4294-ACAC-14E275064ADF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shiba Akinao Arms.svg"
+          },
+          "hash": "96c43ae05555a52c6adbb897c673285a3801968d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代の大名・武将。高水寺斯波氏当主（最後）。斯波詮真の嫡男。治部大輔"
+    }
+  },
+  "id": "Q47603",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shiba Akinao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "斯波詮直"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акинао Сиба"
+    }
+  },
+  "lastrevid": 17452782,
+  "modified": "2025-09-16T10:34:03Z",
+  "ns": 860,
+  "pageid": 63377,
+  "sitelinks": {},
+  "title": "Item:Q47603",
+  "type": "item"
+}

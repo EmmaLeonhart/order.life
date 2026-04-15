@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshiyuki"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q21819$BCD9F0FD-C5DA-462A-B410-C1CE448DA260",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560107"
+          },
+          "hash": "628cb904773d7c8b09743d1efafcb7c8788cd4a3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21819$CC483709-8373-4B49-9EA1-48E734491CD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21819$D47F49F8-9206-497B-98BE-04A9D8D3B896",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q21819$C8FD3A6A-66FE-421E-9F5A-0696EDB74E54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34467",
+              "numeric-id": 34467
+            }
+          },
+          "hash": "23a17ad15ed738eca4dce174645bf255de01a649",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21819$29F6DC88-2251-45C7-869B-6153BDA7E653",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33202",
+              "numeric-id": 33202
+            }
+          },
+          "hash": "5140188a1974e62b0456c67da474fd1b5e9ef34e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21819$662C748B-7782-40A3-8C7C-7E357048F41A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21819$04CD291E-9260-4C64-94A0-1034C9046229",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1730-01-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a919a3f12b0f8397488999bc5c930aeff7af814a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21819$92F448F1-F005-40AA-AF9A-0F35E0AA5B66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1762-10-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "079ab4288e477b52f01af9870a15394723f7ad1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21819$30223678-E474-4C19-BA18-8BD1C4557790",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11397426"
+          },
+          "hash": "bf224304a2ab4cd37d82a304342d37ae702f46e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21819$F7E99542-B617-4899-B348-FE9E2F7C1D89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshiyuki Arms.svg"
+          },
+          "hash": "0c8ecd12e36a92bbda9501618572983dca410080",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期～後期の大名。越中富山藩4代藩主前田利隆長男で、富山藩5代藩主。従四位下出雲守"
+    }
+  },
+  "id": "Q21819",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshiyuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利幸"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосиюки Маэда"
+    }
+  },
+  "lastrevid": 17420834,
+  "modified": "2025-09-16T02:28:54Z",
+  "ns": 860,
+  "pageid": 43832,
+  "sitelinks": {},
+  "title": "Item:Q21819",
+  "type": "item"
+}

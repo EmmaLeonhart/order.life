@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alghu //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q40760$F3CC7849-170A-472B-B2F9-C799F07B57E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00374622"
+          },
+          "hash": "f39886e2d05ae2a833f875f852a63026203f0da6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q40760$7452D105-51C8-4AAF-8F7D-BD3AE16CE04E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43019",
+              "numeric-id": 43019
+            }
+          },
+          "hash": "cba1d386627a5f73c2d47e2afe84ef6816139d6d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q40760$E5341E49-FC2E-4ED0-B10E-6EF7C60FF738",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40760$16498D33-8E64-44A9-9307-7759CD41E706",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q40760$B10E362D-BF67-421C-B4AD-E59B886ACA39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38893",
+              "numeric-id": 38893
+            }
+          },
+          "hash": "bcdd2bc9e948e07362736fda53ef56116ee2f3ee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40760$8C4C71D9-09BA-4F42-9E44-C5CA5426CA92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38973",
+              "numeric-id": 38973
+            }
+          },
+          "hash": "0fe5132a6244a72bc0cd7abb2a0a543b2184bbc8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40760$DB8C95C8-4FCA-4201-8E68-4690E84B385A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40760$BCDBC355-E440-4EFB-8508-FEAD8B849CEC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40760$60D385BB-B8EE-4E0E-B11B-A9BD6CC9DBF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1266-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95da04714644bfecc705ccfe5e13b4431cbf0b78",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40760$3D12246B-A97C-49D0-BFBE-8FA1F9B84DA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1370244"
+          },
+          "hash": "ccf924ecdffc7f50d2ec16f2c41f0bc67e69304c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40760$8EF27CDA-6DE6-40BB-9C3C-B892F7C8BD68",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alghu Arms.svg"
+          },
+          "hash": "2d5c33f827d33acac2e0a73bdc8e8d5995ba295f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "Monqol İmperiyasının xaqanı"
+    },
+    "en": {
+      "language": "en",
+      "value": "Khan of the Chagatai Khanate"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khan mongol du Khanat de Djaghataï"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "chan ułusu Czagataja"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "пятый правитель Чагатайского улуса"
+    }
+  },
+  "id": "Q40760",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ألغو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الجو"
+    },
+    "az": {
+      "language": "az",
+      "value": "Alqu xan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Алгу"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alghu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alguj"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alghu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alghu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "الغو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alghu"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלגו"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルグ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알루구"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Алгуй"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alghu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ałgu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алгу"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Algu"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Алгу"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "அல்கு"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Algu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Алгу"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Algu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿鲁忽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿鲁忽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿魯忽"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿魯忽"
+    }
+  },
+  "lastrevid": 17444030,
+  "modified": "2025-09-16T08:26:52Z",
+  "ns": 860,
+  "pageid": 58259,
+  "sitelinks": {},
+  "title": "Item:Q40760",
+  "type": "item"
+}

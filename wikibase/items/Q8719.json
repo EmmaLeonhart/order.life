@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Tsugukage"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8719$F02C6116-4FB0-486E-AC50-3A6F95D18675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8630",
+              "numeric-id": 8630
+            }
+          },
+          "hash": "258f6066eb4ffe53fb22348564cc95233f462bb1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8719$B7D32421-EAC0-4FF9-8868-9BCF4F5F39E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8719$DD234468-F44A-4FE6-B7C5-BB748C4742AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8719$3880FD71-B024-4EBA-ADB0-8C6B51054F81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8479",
+              "numeric-id": 8479
+            }
+          },
+          "hash": "4ed94ec1885237725666be5bac9fd650505dd9a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8719$3F2437F0-BB19-46C5-9133-9DCA430F2FC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8422",
+              "numeric-id": 8422
+            }
+          },
+          "hash": "944b16b9206a28b467ffed53b60325a03ec2de38",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8719$A45DC959-8459-45CF-AE16-22CE5618B457",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8719$6B228516-0095-4E2B-9E69-191BF3FB76E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8719$5E901469-687F-49C2-A425-C99DC6555EE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22126967"
+          },
+          "hash": "9b0eefa231a0a33f5eca772194e3bf4b9f1e714e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代前期の貴族。従五位上・大和守、伊勢守"
+    }
+  },
+  "id": "Q8719",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Tsugukage"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原継蔭"
+    }
+  },
+  "lastrevid": 17409454,
+  "modified": "2025-09-15T23:00:08Z",
+  "ns": 860,
+  "pageid": 31204,
+  "sitelinks": {},
+  "title": "Item:Q8719",
+  "type": "item"
+}

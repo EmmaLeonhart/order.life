@@ -1,0 +1,299 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Ariko"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q11723$0AF88815-17B8-4C01-B2ED-C52DE44BD006",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523753"
+          },
+          "hash": "dd4580b38d2244da4ddb1e985378010cbaa435c1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11723$4D8E4F87-89DB-4F70-BFBE-F09356A8C82D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11810",
+              "numeric-id": 11810
+            }
+          },
+          "hash": "6fd6425b8d219b928970ad9231781717d21164cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11723$19E244F5-CF7A-4587-A034-7C3373CDF431",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11723$D62F7BAC-8BA0-414F-BCEF-E2BC500438F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11723$22A53FA5-D0DD-4FD4-847A-D60A3A277EC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11056",
+              "numeric-id": 11056
+            }
+          },
+          "hash": "d2061b11f7c9055607b0b97f67b51df037ac6da4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11723$3986CD27-05F9-4694-8DBE-58B9F6A4200B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11144",
+              "numeric-id": 11144
+            }
+          },
+          "hash": "759c1bbb747323cd91c6d27b207080bb38eb39d3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11723$4FB27446-0F21-4864-9EE4-3CF5DEF13F88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11723$A7E6D82B-8F07-4E36-9607-B04D24DBF3FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1171-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "803285d7ca0e8c66b9aef6246af9f6226eaa2974",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11723$BDDA07A7-0070-4DC8-9CEC-30D94AFBEE96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1257-08-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de32565f473ea786277ee96b4e8aac98982471e1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11723$E748EB1F-6144-4E1A-AAB1-908BD5B5FAC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564038"
+          },
+          "hash": "9ba01fdf64a4e9eb0349a2ef919827efafc21827",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11723$4EC1BA43-614D-4EC4-B5BD-B3871A30BC19",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Ariko Arms.svg"
+          },
+          "hash": "2a8d156f3a25953f441bfc68ae37de3492e548c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "court lady of Japanese emperor Go-Toba. mother of Tsuchimikado"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "能円女、源通親養女、後鳥羽天皇の妃・女院・後宮。土御門天皇の生母"
+    }
+  },
+  "id": "Q11723",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Ariko Minamoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Ariko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میناموتو نو آریکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源在子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Арико"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Minamoto no Ariko"
+    },
+    "th": {
+      "language": "th",
+      "value": "มินะโมะโตะ โนะ อะริโกะ"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "源在子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源在子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源在子"
+    }
+  },
+  "lastrevid": 17413102,
+  "modified": "2025-09-15T23:50:57Z",
+  "ns": 860,
+  "pageid": 34082,
+  "sitelinks": {},
+  "title": "Item:Q11723",
+  "type": "item"
+}

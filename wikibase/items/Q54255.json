@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Constantine Strategopoulos //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q54255$8514CBD9-7CFD-4806-8427-980A262D3548",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54255$85D394EE-70E2-4B4F-AB5E-49B1A44F42E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q54255$9E26A7ED-E716-448C-9D9B-DA7797F0417B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49502",
+              "numeric-id": 49502
+            }
+          },
+          "hash": "83df2c553d1c7c097a5c078bd46e55a98918217c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54255$2E99CA55-2139-484B-8E75-06225AD2D465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50195",
+              "numeric-id": 50195
+            }
+          },
+          "hash": "81691d200453bf06a015dcbc438142e1938588f1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54255$06D5F175-5F64-483C-BDFE-AB9E1C8B1134",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54255$F46461D2-6A51-493D-ABEE-486804F06789",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1292-06-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1445ba600dbe52b3c7487473190daf13517aab9f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54255$9947B802-06D6-4F13-96B6-5A201DF2AF05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111784549"
+          },
+          "hash": "8a56fac46aa24413834e76d9226893811e239eef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54255$1DDEB6FA-5215-426C-A6A0-AC1436BAE4BA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Constantine Strategopoulos Arms.svg"
+          },
+          "hash": "64c08ec7847043a37867594938874c0e5a442ca8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски аристократ от XIII век"
+    }
+  },
+  "id": "Q54255",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Константин Стратегопул"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Constantí Estrategopul"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κωνσταντίνος Στρατηγόπουλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Constantine Strategopoulos"
+    }
+  },
+  "lastrevid": 17461616,
+  "modified": "2025-09-16T12:43:25Z",
+  "ns": 860,
+  "pageid": 69086,
+  "sitelinks": {},
+  "title": "Item:Q54255",
+  "type": "item"
+}

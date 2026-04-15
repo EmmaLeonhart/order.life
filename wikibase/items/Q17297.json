@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nijō Hisamoto"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q27564$3297459D-4598-4779-86D9-72A2BA6357C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "974033"
+          },
+          "hash": "39f7dc4101e090b898b7daba218a88084d1ddd4f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q27564$C059042D-160C-4775-9D02-5BD6BB3F14DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523623"
+          },
+          "hash": "7d2c32de6ac58ba078c133945c02fb00857993a3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q27564$69E053FC-2D5F-4195-88FD-D22ADE7FEE9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30774",
+              "numeric-id": 30774
+            }
+          },
+          "hash": "55eaafb4725c7060ba8f35f6966cd0475ffbac88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q27564$D3BDB96A-15D0-4152-ADBC-DE07DC101AB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Nijō_晴良-3"
+          },
+          "hash": "39886254c19755ef07ce15cf98e933fe6d1b3630",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q27564$84D363AF-8363-4E38-94B2-3DCD5578A7BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27564$A16933F5-0788-4185-B733-32E8DEE0FDE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27564$76B1C620-FD28-47C4-9B8C-063504B7ED2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27564$CB44086B-FEC5-4323-B5EA-9A2F2578B511",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1471-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4669e436b6c0d69bc55ab44a1919a5b549b2de2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27564$2DA0C2CC-6586-46AF-82A6-AF0879152BCA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1497-11-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "59e94f3aec64b415db486f37ffb8389c96ba14f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27564$1490BC66-32C7-47DE-90B8-2645C3EC79BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3341472"
+          },
+          "hash": "bf697dd7029483211e0ff0b3adefd8e64a63c5f6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q27564$B38D698B-7E96-42DC-ABED-2639F52F09AE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nijō Hisamoto Arms.svg"
+          },
+          "hash": "2ebe98a6adfd2c376c3cb7254aa1373179a2321d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の公卿、二条家第12代当主"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (1471 – 1497)"
+    }
+  },
+  "id": "Q27564",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nijō Hisamoto"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hisamoto Nidžó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nijō Hisamoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nijō Hisamoto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nijō Hisamoto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nijō Hisamoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "二条尚基"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nijō Hisamoto"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nijō Hisamoto"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "二條尚基"
+    }
+  },
+  "lastrevid": 17426818,
+  "modified": "2025-09-16T04:18:25Z",
+  "ns": 860,
+  "pageid": 48465,
+  "sitelinks": {},
+  "title": "Item:Q27564",
+  "type": "item"
+}

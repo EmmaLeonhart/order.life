@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Udono Ujinaga"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16765$A1CB867B-F5B5-49BB-A5E3-5DBF402F77B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16765$2C22E099-ECD6-4E57-877C-928107C710A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16765$AFA13C7A-2489-4CDA-B293-C991A33FF88F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15964",
+              "numeric-id": 15964
+            }
+          },
+          "hash": "06477fd54db27bb9cff46ba97f5d34200cf79429",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16765$F6C041D5-AFCF-44CB-BB51-3E59371BC125",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16765$320ABDC6-8890-40C9-8EF3-5CE8F6A3F178",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1549-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1296e6c5d35e8aa9fd72deb48d7a801df399d21",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16765$CE18200E-8B34-421B-B705-CC50342A3EFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1624-07-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bff44ff94fa55fc951534ee5c600bc2963d047ac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16765$1A6E1894-6EF4-4AA3-BDD4-123551826889",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11675726"
+          },
+          "hash": "8452b235d14db6602bd10138ab02ec7d5531216a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16765$AC3FA714-4B68-481B-82ED-D142C023FF83",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Udono Ujinaga Arms.svg"
+          },
+          "hash": "fadde8281d4da12dc21a839eca5b9899ff1c02a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国～江戸時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q16765",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Udono Ujinaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鵜殿氏長"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Удзинага Удоно"
+    }
+  },
+  "lastrevid": 17416318,
+  "modified": "2025-09-16T00:38:59Z",
+  "ns": 860,
+  "pageid": 39016,
+  "sitelinks": {},
+  "title": "Item:Q16765",
+  "type": "item"
+}

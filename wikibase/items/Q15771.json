@@ -1,0 +1,219 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yamana Noriyuki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15771$F1FFF975-CFFE-4A39-9139-E41B2FC4443C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16551",
+              "numeric-id": 16551
+            }
+          },
+          "hash": "b1f383a9a7cd8f251b59e6edeb734e95bba4a710",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15771$4B95915F-DDEE-4965-A25E-5009B3878218",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26433",
+              "numeric-id": 26433
+            }
+          },
+          "hash": "e9de7bbd5d06e8bdb99f45e14288686acad9af24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15771$646E79F5-12C2-4C76-88BB-36DDDACEC20E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15771$AF6309D2-CC3C-4C6C-B1E0-537BB16E9E4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15771$50B59BA6-EDDC-4B88-84A8-06E31D9DDF07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15297",
+              "numeric-id": 15297
+            }
+          },
+          "hash": "4a1f6365cf344b8a2c2a228b04917d74848a366f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15771$444E796A-79C5-403F-852D-91E147A1F3BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15771$305369B2-1631-455A-ADBD-D1670A15E3CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1473-02-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fac82ce48f37222601f8842e7c44126303b1a46",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15771$8839A190-24F8-45CA-9696-EA3852078275",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11467586"
+          },
+          "hash": "99c7e626ca0a737aac1b83f3e049ab898ea42382",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15771$3B187AAB-BDB5-4BF6-BAD9-5C78A01139D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yamana Noriyuki Arms.svg"
+          },
+          "hash": "1875fa50c271809e18c5d7ae759c7ba7b97e3f09",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q15771",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Norijuki Jamana"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yamana Noriyuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "山名教之"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нориюки Ямана"
+    }
+  },
+  "lastrevid": 17415436,
+  "modified": "2025-09-16T00:23:17Z",
+  "ns": 860,
+  "pageid": 38052,
+  "sitelinks": {},
+  "title": "Item:Q15771",
+  "type": "item"
+}

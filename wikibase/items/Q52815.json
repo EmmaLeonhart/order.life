@@ -1,0 +1,478 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bumin Qaghan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q52815$43F359AF-3E76-4566-802F-47BC0811A9E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47215",
+              "numeric-id": 47215
+            }
+          },
+          "hash": "5fcd164a7b2e08dffb41d2e35260d495a75560d7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52815$00EF45C8-AD33-499C-9FE9-007E70590610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44781",
+              "numeric-id": 44781
+            }
+          },
+          "hash": "ab1f87ba881a12f034f083fe4295bafb5d57bba0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52815$D73ECE3D-3328-4794-A2C1-6416F6E6D159",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44793",
+              "numeric-id": 44793
+            }
+          },
+          "hash": "197fcbea74ad3878e0def18ee484f0b3d44c273c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52815$9441FF59-8CFB-42BE-B831-41B25D7DAEF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59730",
+              "numeric-id": 59730
+            }
+          },
+          "hash": "b23d082141c7844ae673f0ee9c2e20c8affcd5fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q52815$1023C5B4-8BA7-4FB6-ACE6-62FE2231946E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52815$BF2AEFFB-7AD4-4C89-B675-5F96F08C049B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q52815$B63125EE-2E6E-4572-8F74-AAD70FDF6633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59724",
+              "numeric-id": 59724
+            }
+          },
+          "hash": "9f6d598c0ba8b84e9bda08edb7606a5421cb2817",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q52815$98C3739E-EA09-4EBE-8067-3814AE6C28B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q52815$68E78247-166D-4DD7-8373-5DB1089DE105",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0490-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "afcc84d0d47adfb2407b4dab4a50be8f706abb82",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q52815$C4647277-B690-4FCC-B217-C31930BC28E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0552-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8033004dc850a4ee6c3adc21d7e0f91e8126244",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q52815$36DC01E2-2A9B-4BA2-9218-EC3E7F1F6E1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29001"
+          },
+          "hash": "889d50c45e549967fc01d498d2e9d5b371060872",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q52815$EA356E9E-5690-4DCB-B35A-DE74A6B29BF3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bumin Qaghan Arms.svg"
+          },
+          "hash": "4ed47f6d86150c27d1e0b24ec4b5a05865de9c6e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أول خاقان للخانية التركية"
+    },
+    "az": {
+      "language": "az",
+      "value": "Göytürk xaqanlığının qurucusu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Begründer des Göktürkischen Reiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "founder of the Turkic Khaganate"
+    },
+    "es": {
+      "language": "es",
+      "value": "fundador del imperio de los Köktürks"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بنیانگذار و نخستین خان خاقانات ترک"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fondateur de l'empire des Göktürks"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az első Türk Birodalom megalapítója"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "основатель Тюркского каганата"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Göktürk Kağanlığı'nın kurucusu"
+    }
+  },
+  "id": "Q52815",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Bumin"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الخاقان بومين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Bumin"
+    },
+    "az": {
+      "language": "az",
+      "value": "Bumın xaqan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بومین خاقان"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Бумън"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bumin"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bumin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bumın Kagan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bumin Qaghan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ĥano Bumin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bumin"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Bumin"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بومین خان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bumin Qaghan"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Bumin"
+    },
+    "he": {
+      "language": "he",
+      "value": "בומין ח'אן"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Bumin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bumin Qaghan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊利可汗"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Бумын қаған"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Бумын каган"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "阿史那土门"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Буман хаан"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Bumin Khan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bumin"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Bumin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Bumin"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Bumin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бумын"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Bumin Kagan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bumin kagan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bumin Qaghan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bumin"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பூமின் ககான்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bumin Kağan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бумин-каган"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Bumin"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Bumin Qaghan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "土门"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿史那土门"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿史那土门"
+    }
+  },
+  "lastrevid": 17459124,
+  "modified": "2025-09-16T12:06:41Z",
+  "ns": 860,
+  "pageid": 67646,
+  "sitelinks": {},
+  "title": "Item:Q52815",
+  "type": "item"
+}

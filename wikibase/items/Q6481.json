@@ -1,0 +1,615 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Annei"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q6481$BD5D0D12-5A99-4403-9D1A-80FE715CB499",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485808"
+          },
+          "hash": "7561214a700d1deac4d37af4f1a7d8294a5f9506",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q6481$A134597D-052D-4CFC-B9DE-23DA5E9B3490",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6536",
+              "numeric-id": 6536
+            }
+          },
+          "hash": "0abe434d5b55360b5fc79b64a634031abe8cd713",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6481$7AE5273D-8229-4156-BEA0-C86B70A4939B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6538",
+              "numeric-id": 6538
+            }
+          },
+          "hash": "a47f1c6d69df4e9ea9e13629c37bf85917320a0d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6481$9BAFC0AD-B3B9-4119-B3DD-8F5BBB38BDC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6540",
+              "numeric-id": 6540
+            }
+          },
+          "hash": "0fb4ce2e4dba30bed715c0a6ac93f278f6ca547f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q6481$C2531CDC-523D-4FEA-9E3A-DE608F43F953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6481$4668562A-31B6-4725-8EFF-9CA586FFC64F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q6481$1C3C0883-1E14-45AC-834E-AF564CD34002",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6524",
+              "numeric-id": 6524
+            }
+          },
+          "hash": "58eca6911bff0fe84cafabb4346e96fc6468bc62",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q6481$C119433D-8BDC-4D98-B335-D3D17B941404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6456",
+              "numeric-id": 6456
+            }
+          },
+          "hash": "914ede2d879ab1c33fcde66ed4fc57b18bcd763f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q6481$22B81AAA-0E32-4611-9FA9-F4FE469603FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6471",
+              "numeric-id": 6471
+            }
+          },
+          "hash": "edcff61c685e0c35316f669956f7d5a92b3b83fb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6481$5C5E41D4-47E6-4255-977C-4A1E6EBD8FFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6481$7E32133A-31BF-4853-B904-64F58068ED85",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0577-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3de27c192632c7419ac3f45e3c94143a1a29e3f2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6481$B9849460-692B-4538-9F64-5B56FD30F413",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0511-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f15b02e388a98d7a6062774232e91d827e57a81e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q6481$39C95AFB-8F35-4629-881F-75EA9A0B3CDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tennō Annei thumb.jpg"
+          },
+          "hash": "27c6ab825ba361a3cde5c98f9d5142099091ae26",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6481$2A079F1F-C9EC-4E66-87DD-A4C0C3169684",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313345"
+          },
+          "hash": "67737dbc802bb431c59c2f26544876c3be6f6c60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6481$69D4916F-62C8-4CD7-A3E5-04C39F33FA21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Annei Arms.svg"
+          },
+          "hash": "3a007345af4c40590efdd9480c0084cc52f53b5c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (-577–-510)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Kaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "legenda tennoo de Japanio"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador japonés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "japanski car"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "kaisar ke-3 Jepang"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の伝説上の天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제3대 천황"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (577v Chr-510v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "3. cesarz Japonii"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărat al Japoniei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "император Японии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'nın geleneksel veraset düzenine göre üçüncü imparatoru"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng thứ 3 của Nhật Bản"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本第3代天皇"
+    }
+  },
+  "id": "Q6481",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور أنيي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور انيى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "آنیی"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Аней"
+    },
+    "br": {
+      "language": "br",
+      "value": "Annei"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Annei"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر ئانێی"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Annei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Annei"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Ανέι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Annei"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Annei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Annei"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور آنیی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Annei"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Annei"
+    },
+    "he": {
+      "language": "he",
+      "value": "אני, קיסר יפן"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Annei"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Annei japán császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Annei"
+    },
+    "it": {
+      "language": "it",
+      "value": "Annei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安寧天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანეი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안네이 천황"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "安寧天皇"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maharaja Annei"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Annei Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Annei"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Annei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador An'nei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador An'nei"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Împăratul Annei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Аннэй"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Annei"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Annej"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Annei"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Анеи"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Annei"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอันเน"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Annei"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emperor Annei"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Анней"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Annei"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Annei"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "安寧天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安寧天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安宁天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安宁天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安寧天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安寧天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安宁天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安寧天皇"
+    }
+  },
+  "lastrevid": 17406151,
+  "modified": "2025-09-15T22:18:30Z",
+  "ns": 860,
+  "pageid": 28976,
+  "sitelinks": {},
+  "title": "Item:Q6481",
+  "type": "item"
+}

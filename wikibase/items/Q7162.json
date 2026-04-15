@@ -1,0 +1,521 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sushun"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7162$83D69C2F-7621-4DA3-BB55-EC4F6B0D5F79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719973"
+          },
+          "hash": "e72dac3ec97a5c45a238489d2f8d8dd8f17aee1e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7162$3E470BDE-ACF2-4623-82F1-FD4FE1E73663",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7215",
+              "numeric-id": 7215
+            }
+          },
+          "hash": "36fcba212d2fa6609831137acb0e56dc07596e8f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7162$8D26F928-AFDA-46FD-A008-D1E0F653CD2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7162$044B1DBE-1B3B-4CBB-9245-3BDBA828B183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7162$3514B2E8-A292-4D63-A16D-E2421585BDC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7190",
+              "numeric-id": 7190
+            }
+          },
+          "hash": "a4482e337c566e66ca7390eb86b9f5ca973d0e4f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7162$D5D57740-D7B5-4753-832B-6BA5A1DA7EFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7142",
+              "numeric-id": 7142
+            }
+          },
+          "hash": "4e92ccf1b2d4895e8fe982eaa5927b3d864d9887",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7162$B3817CCF-BD9C-4B52-9918-E9A08FD2C3E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7130",
+              "numeric-id": 7130
+            }
+          },
+          "hash": "f0dbc6ce33232f0175b4602d662d71689d6f3648",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7162$DB1D60BB-B819-4957-93DF-672789958839",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7162$BE8949C3-61E7-437F-B4B7-9BEF1D0E3472",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0520-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1377611f7a18f5828c09e57f2dcc3d95392e9ae9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7162$AD7F9ED7-A79E-4C62-AA22-00F180D7F563",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0592-12-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b87d83592b2997b4b42b92dca1497c03ea98a98c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7162$C0B79142-D19D-435E-AC51-0A8A80E3013B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Sushun.jpg"
+          },
+          "hash": "77e85e5b870c6e1c9a5413b38d9014b626455d3f",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7162$41B393B5-B3DD-4A5F-8210-390336C27E06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q349238"
+          },
+          "hash": "b2b5cec150c294937860a43cf210a97caf5bf439",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7162$7C9ADB4D-97B9-4A28-BB44-A62FFFDEF1E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sushun Arms.svg"
+          },
+          "hash": "bdbb6584bf31e0015f3373691e6f58240f72513b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (523–592)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "32. japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιάπωνας αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador japonés"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور ژاپن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第32代天皇"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "32-asis Japonijos imperatorijus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (523-592)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński władca"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    }
+  },
+  "id": "Q7162",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور سوشون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور سوشون"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سوشان"
+    },
+    "br": {
+      "language": "br",
+      "value": "Sushun"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador Sushun"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sušun"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sushun"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σουσούν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sushun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Sushun"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور سوشان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sushun"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Sushun"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sushun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "崇峻天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სუსიუნი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스슌 천황"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Sušunas"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Susyûn Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sushun"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sushun"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Sushun"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Sushun"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Сусюн"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Sushun"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Sušun"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sushun"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sushun"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิซุชุง"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Sushun"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sushun"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Сусюн"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Sushun"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Sushun"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Sushun"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "崇峻天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "崇峻天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "崇峻天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "崇峻天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "崇峻天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "崇峻天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "崇峻天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "崇峻天皇"
+    }
+  },
+  "lastrevid": 17407063,
+  "modified": "2025-09-15T22:30:14Z",
+  "ns": 860,
+  "pageid": 29657,
+  "sitelinks": {},
+  "title": "Item:Q7162",
+  "type": "item"
+}

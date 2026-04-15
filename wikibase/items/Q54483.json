@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margaret of Taranto //"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Маргарита Таренто"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q54483$C9AD238C-CBCD-4FDC-9BC3-85CBB8226E90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "712758"
+          },
+          "hash": "80bca344c7eac59d0ce0034b24cfb14e1afbe31f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q54483$3789B518-C0DE-4F0D-AC08-9E0145B51237",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00079812"
+          },
+          "hash": "3bd08a210f3838fddb640932bbfcc56a3c8429bb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54483$F0508FC7-D6D0-45EB-A542-AD5958ED8F8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54483$33978A69-E075-4E55-ACD5-519A97E7F418",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q54483$7C90CF76-8795-4DDD-878B-18729AD888F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Margaret_of_Taranto_(1)"
+          },
+          "hash": "06a1c67179e3bb3d83c6ffabaa5defaa79088f92",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54483$EE3B24A7-7955-4C4D-AA4E-A0071E3E7BF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49583",
+              "numeric-id": 49583
+            }
+          },
+          "hash": "dbd82a62d7f37a923ea527ec1e17177dc1c9d4fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54483$93DF8EB9-E79E-46D3-9081-BCBF5B064ACF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54467",
+              "numeric-id": 54467
+            }
+          },
+          "hash": "db639a12994cc278fd74d24d3ddbe794f127b031",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54483$C883DC5C-BB83-418A-8C17-7F0A89CD7D0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54483$BAB72905-EE25-4D40-B5A6-63FA1BB6A215",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1325-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c93b93696e0939b58879abfeb9df69c9c4fc0445",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54483$29ABE1CE-4CC2-4562-B03D-6CA54050467C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1380-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaeaec415c1eecd451e3d0382f58220042b9fa2f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54483$492060EA-611A-42FB-8469-2077B05BC669",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q770469"
+          },
+          "hash": "220570ba04e3215d8ed7e39f2feed3e181fd5fc5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q54483$FDB7D4AF-CA3A-44E1-8ECC-F3AA4DF8E970",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marguerite;n=d anjou;oc=3"
+          },
+          "hash": "f8f6d6113197206743c9dcd5a54cbb1f813ec607",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54483$E729D577-87A0-4BFD-81EF-FB7FEA218DCB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Margaret of Taranto Arms.svg"
+          },
+          "hash": "0eb8407699f324d2848dd56855b984ebb6edfb0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "skotská královna choť, taranstká kněžna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort of Scotland, Princess of Taranto"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "tarantói hercegnő"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Шотландии; герцогиня Андрии"
+    }
+  },
+  "id": "Q54483",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Markéta z Taranta"
+    },
+    "da": {
+      "language": "da",
+      "value": "Margaret af Taranto"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαργαρίτα του Τάραντα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margaret of Taranto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marguerite de Tarente"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Anjou Margit skót királyné"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Margaret of Taranto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маргарита Тарентская"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маргарита Тарентська"
+    }
+  },
+  "lastrevid": 17462008,
+  "modified": "2025-09-16T12:49:09Z",
+  "ns": 860,
+  "pageid": 69314,
+  "sitelinks": {},
+  "title": "Item:Q54483",
+  "type": "item"
+}

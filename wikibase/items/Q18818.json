@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sukekiyo Ota"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q18818$D242B8F3-4AFA-4CAA-A68F-DC273598FCBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28852",
+              "numeric-id": 28852
+            }
+          },
+          "hash": "6db2f76c4700852a95bf48656a9d10da9af78634",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18818$FAC3A3BC-BDF3-4B9F-B83E-DEA615A167FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32701",
+              "numeric-id": 32701
+            }
+          },
+          "hash": "b216a50b733e2e1eea09cfa5e15a31d9657fc934",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18818$672C3E7B-5E87-49A8-AA8B-D4D61482B6F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32468",
+              "numeric-id": 32468
+            }
+          },
+          "hash": "6faca5e7abc1afc28efee435cee519dd93981f02",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18818$EC75EBA4-6741-4588-814E-23E1FA421AE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18818$E48111C6-62D5-43BF-9F95-BCE4C355EBCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18818$D33597B8-918B-4E6F-807D-99342E086AF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27546",
+              "numeric-id": 27546
+            }
+          },
+          "hash": "24c14d1339b71ce53d086a23e8a3e417df3f476a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q18818$004D105A-DD2E-4D8B-9432-95E9CD1ECACE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "209461289"
+          },
+          "hash": "08467ebb21b7e7d247ba05fdd9d6778be369fd5d",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18818$6855285A-2854-41DC-89C4-984D2905CEDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18818$E754E258-F02B-4FF8-82A4-1BB2D3F35FC1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1411-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ed3be44066a96a52b04400e0cb1047ada3ea3733",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18818$2B88E9FB-3DE7-4933-AADC-332921B8F9F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1492-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14cbb451556daf1a13c086ed2a2e3cd74febf8e8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18818$390B2EBE-89EA-49F8-8465-A47024FDCD7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q210773"
+          },
+          "hash": "bc5787807ec7d2fd9b0cf527947898e5146dd8f1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18818$D68416FB-2E65-4892-A328-A1423E56AE25",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sukekiyo Ota Arms.svg"
+          },
+          "hash": "9c7d1fb97bfdd3efc7b082e2497716735fe767fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese warrior (1411-1492), known as the \"Warranter of the Kanto Warriors\", from middle of Muromachi to early of Sengoku (Warring States) periods"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期から戦国時代前期の武将。室町幕府 相模守護代、扇谷上杉家の家宰"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本室町時代中期至戰國時代前期的武將 (1411-1492)"
+    }
+  },
+  "id": "Q18818",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sukekiyo Ota"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "太田資清"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "太田資清"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "太田资清"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "太田资清"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "太田資清"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "太田資清"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "太田资清"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "太田資清"
+    }
+  },
+  "lastrevid": 17418174,
+  "modified": "2025-09-16T01:23:52Z",
+  "ns": 860,
+  "pageid": 40987,
+  "sitelinks": {},
+  "title": "Item:Q18818",
+  "type": "item"
+}

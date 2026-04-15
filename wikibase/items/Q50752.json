@@ -1,0 +1,222 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q17507$130BD590-5436-439D-96DD-83E9C61E769E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17507$541D1796-A851-465B-BC71-FC2F05416375",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17507$28081169-A6FE-4921-B151-C9054CF2DA09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16401",
+              "numeric-id": 16401
+            }
+          },
+          "hash": "c02610eaecdd1cad74b618ed94c877fd5de449db",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17507$71449332-5647-4D9B-A9B7-CC994B542E79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28924",
+              "numeric-id": 28924
+            }
+          },
+          "hash": "b18181924722d1b7983c89b1018929f647a15d82",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17507$C350BE92-EEDF-4772-8A68-F7608B5331A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17507$F9A12D22-1F88-45D7-A199-7A46E3C06897",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1656-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b1065fdc904df5bec10419f8bed9ca7f6676b57a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17507$C671832C-A4A7-4C4D-B190-0C09A67B4FE2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1681-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d6c418b62c8ded0e40be802d47d71b2f8043b8c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17507$B9352D0B-41E1-4A6D-AA1E-650A965E14E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109307094"
+          },
+          "hash": "fde6b1785e28042b095ff9c30e8829a2df616013",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17507$49CDC312-B33D-47A5-8AC3-D17E7131E4FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Atago Tomiko Arms.svg"
+          },
+          "hash": "9e5206848e9fca196476dce4c1ae82d903af246e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "霊元天皇の掌侍・内侍。子に寛隆法親王（1672.11.1-1707.10.11、次男、二宮、覚寛、覚助、寛蓮、仁和寺、一品、師永親王、性承法親王資、後金剛定院宮）、綱宮（1676.1.12-1677.7.24、四女、紅玉院宮、紅玉院祐厳珠林）"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская фрейлина"
+    }
+  },
+  "id": "Q17507",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Atago Tomiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "愛宕福子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Атаго Томико"
+    }
+  },
+  "lastrevid": 17416976,
+  "modified": "2025-09-16T00:55:57Z",
+  "ns": 860,
+  "pageid": 39739,
+  "sitelinks": {},
+  "title": "Item:Q17507",
+  "type": "item"
+}

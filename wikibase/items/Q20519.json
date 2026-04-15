@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogasawara Nagamichi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20519$2FFC5281-ACF0-4F3D-9074-963AED45CDFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22477",
+              "numeric-id": 22477
+            }
+          },
+          "hash": "8358de601af5526c6ee5e1fa855c55746b9beda7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20519$79AED054-1830-48E0-8E77-8D17C09820B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22475",
+              "numeric-id": 22475
+            }
+          },
+          "hash": "ba044b677989614db38425deb16fea5fabc9954e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20519$D49A1C1C-634C-4C62-8E4B-25C47ED9BC79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38930",
+              "numeric-id": 38930
+            }
+          },
+          "hash": "656955cd6ade3bd48e852db7523de14f1e610727",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q20519$8482BDD4-EC9E-4722-99B6-13C743F593F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "小笠原-12"
+          },
+          "hash": "c031abee576313035fbc801b3d52d4c0f723b889",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20519$490EDC02-CCEE-42E0-90B4-BB41F9075E02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20519$FF2A9758-9FDC-42C2-91A1-1BAC0B029461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20519$59E946E2-564C-4477-B341-F19C0A15DA37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18769",
+              "numeric-id": 18769
+            }
+          },
+          "hash": "76d2d8ca7eeb2a1f6daa8bafd39e487b177d057c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20519$7DC8D76D-9E74-4520-B519-F4BE4A40641B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20519$64969A84-D016-4473-8FA6-6E87C585AECB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1713-03-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32ec4fc1dced457c0f45102f4e1c49844308874e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20519$EA129296-547A-43E9-A7ED-5D3E7E6CEDAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1770-10-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "96cfbd4468843019fc0ca91407105db77d1eb26b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20519$FB91390C-3DFF-4608-8C91-29B230E7DF2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10859981"
+          },
+          "hash": "c5bc5e49bbe535ea2a45b42c3f1cdb2d1ea88414",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20519$D4E33E3A-6AA2-4374-ADBD-ECD3B43E909A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogasawara Nagamichi Arms.svg"
+          },
+          "hash": "f2505ee3ae77bd4709e6dace346464c8cb2053a8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1713-1770)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "播磨安志藩2代藩主。忠脩系小笠原家7代。従五位下・信濃守。小笠原忠基の次男。母は松室氏（側室）。"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1713-1770)"
+    }
+  },
+  "id": "Q20519",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ogasawara Nagamichi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ogasawara Nagamichi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ogasawara Nagamichi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ogasawara Nagamichi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原長逵"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "小笠原長逵"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "小笠原長逵"
+    }
+  },
+  "lastrevid": 17419598,
+  "modified": "2025-09-16T01:59:58Z",
+  "ns": 860,
+  "pageid": 42596,
+  "sitelinks": {},
+  "title": "Item:Q20519",
+  "type": "item"
+}

@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Chou"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45749$6FC5A5A0-0CD9-4EA4-A2A2-6F003F9F3386",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54343",
+              "numeric-id": 54343
+            }
+          },
+          "hash": "3ffb708b5ac78c28ea7d88ba45a5fba86e065da5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45749$F4B6DEF4-7537-4CA7-838F-A043B0FFC9C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54347",
+              "numeric-id": 54347
+            }
+          },
+          "hash": "aabed8d9d858aa2a2eede8493e66755d7522690f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45749$B2272E01-01D7-498B-89D7-CD21AC925982",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45749$6D4A20D5-68F6-4FFA-94C1-2D80FFE9C6BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45749$819FE685-BAC7-4DE1-800A-F209E81CBFA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23425",
+              "numeric-id": 23425
+            }
+          },
+          "hash": "a829593641270f0557a887eea85df92482bbe0d6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45749$3F765D49-936F-479C-87FF-E18A9587A8EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45749$7CBB25BA-6CB4-46A0-82E0-ECB34530071E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0793-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "233a5e94cfa6d7fe2f12b04f875b98c7cf50b330",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45749$D010E6D4-BE5D-4A54-9BD2-701EAA0FD9F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45519378"
+          },
+          "hash": "dfb6a7ea40e029cb7662a7345c224394da440e2f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q45749$57E6B2DD-0BD8-44E5-BB49-E925275B7481",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075060401254"
+          },
+          "hash": "b2b0dcbb2b255b29bcd6e47385a09dfbf5c47054",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45749$5177555F-923F-4F0D-B2A4-3B24F54A70E6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Chou Arms.svg"
+          },
+          "hash": "888f7d83ee8eb312a67e1b06577829ca6e12f5fe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188735"
+    }
+  },
+  "id": "Q45749",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Chou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Chou"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李稠"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Chou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李稠"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李稠"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李稠"
+    }
+  },
+  "lastrevid": 17450394,
+  "modified": "2025-09-16T09:59:36Z",
+  "ns": 860,
+  "pageid": 61994,
+  "sitelinks": {},
+  "title": "Item:Q45749",
+  "type": "item"
+}

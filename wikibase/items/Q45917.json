@@ -1,0 +1,401 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexios Palaiologos //"
+      },
+      {
+        "language": "en",
+        "value": "Alexios Palaiologos"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q45917$5DAD5BC2-1AAB-4F82-90DA-CB7FCC42CA25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139078"
+          },
+          "hash": "4a804f2b1e7c03d94f318316ad6293075a58f898",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q45917$0A7232E3-1C48-4727-A9F8-97F5C046DA83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43180",
+              "numeric-id": 43180
+            }
+          },
+          "hash": "ec950d3b44d5304f21a642bd1669d257486ab297",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45917$26A8E717-C2C5-4233-A82D-65051849C57D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45917$EF82BB09-C36C-4739-B672-27E3AF30BA83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q45917$DF02FADE-88A5-4179-A02E-52FFF3D06059",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexios_Palaiologos_(5)"
+          },
+          "hash": "6e5c11957f2f6db45931f44941a887a831578d21",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q45917$A1C4488C-B750-4AB6-B116-A9C5088204C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45921",
+              "numeric-id": 45921
+            }
+          },
+          "hash": "4cfbb275831f030e6292187015cd1ec51fd1ae9b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45917$437AA9BF-B4B4-44C1-856C-CC6D2363368E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49358",
+              "numeric-id": 49358
+            }
+          },
+          "hash": "56c395f881b6ae1de14f637c4cf150975c966e9c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q45917$8E1D7444-21F8-4960-82B0-DABC9BF78A7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49362",
+              "numeric-id": 49362
+            }
+          },
+          "hash": "0fcf4117642355502d04565635b235cc5feef5af",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45917$57CF6980-8E45-4E65-91C9-C3DD79860D7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45917$D1F1B9AB-2B3E-4A95-AAC6-401D6DCDC78A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45917$174BD421-09F9-49B2-AD04-A9DDAAF9A4CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1203-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecac5411117630face68211ed1b5df26cc028525",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45917$E69E47D1-6BA3-4B4B-8D01-B3ACB64989F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2834617"
+          },
+          "hash": "060c8a048659f12b1d37e55bad1311e6f0e5cf9b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45917$FE87DF3E-043C-455C-8100-A10216C33485",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexios Palaiologos Arms.svg"
+          },
+          "hash": "0ebda36046a61e63019a2a666a50abdf729e1eb2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски аристократ, севастократор и деспот"
+    },
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Aristokrat, Schwiegersohn und Thronfolger von Kaiser Alexios III."
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine nobleman and heir apparent to Emperor Alexios III Angelos"
+    },
+    "la": {
+      "language": "la",
+      "value": "nobilis Byzantinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Byzantijnse Rijk (-1203)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "um nobre bizantino"
+    }
+  },
+  "id": "Q45917",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Аляксей Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Алексий Палеолог"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Aleksije Komnen Paleolog"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aleix Paleòleg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alexios Palaiologos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξιος Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexios Palaiologos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Alexios Palaiologos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Alexios Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejo Paleólogo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexis Paléologue"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Aleksije Komnen Paleolog"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alexius Palaeologus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alexios Palaiologos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aleksy Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aleixo Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aleixo Paleólogo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алексей Палеолог"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Alexios Palaiologos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Алексије Палеолог"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олексій Палеолог (деспот)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿歷克塞·巴列奧略"
+    }
+  },
+  "lastrevid": 17450644,
+  "modified": "2025-09-16T10:03:10Z",
+  "ns": 860,
+  "pageid": 62119,
+  "sitelinks": {},
+  "title": "Item:Q45917",
+  "type": "item"
+}

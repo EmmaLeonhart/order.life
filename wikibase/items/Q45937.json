@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Михаил Врана Палеолог"
+      },
+      {
+        "language": "en",
+        "value": "Q61017906"
+      },
+      {
+        "language": "en",
+        "value": "Q61017906 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q45937$AF4C9CB0-1747-49FD-85EC-89B59816202F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45937$BC9F77CC-9C0E-47F4-A9AC-4320A649520E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45937$D0042CEB-1157-40B7-91D7-2632BBF34912",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43184",
+              "numeric-id": 43184
+            }
+          },
+          "hash": "e7a563760031884292f1b319123fb701d23999b4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q45937$2B977F8A-2F79-42B2-A216-DB0342B9A1C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45925",
+              "numeric-id": 45925
+            }
+          },
+          "hash": "ea97c8e7f74c097d58c16469855b97702e70523a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45937$C206957F-9A20-476B-8307-674678E616C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45937$89C8E74D-BFB4-4575-881D-5820401F937F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1259-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7059d8972d7f5c9cb20089d4359e2e9340e1a99a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45937$6A4E4D8D-7A95-4886-A59C-15BCB98497D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61017906"
+          },
+          "hash": "2bfb02d0666d7de1aad757025fa0fb65723c5f24",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45937$3C7F9138-84F2-4B56-BC07-9AF2382042D9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mikhael Palaiologos Arms.svg"
+          },
+          "hash": "f4c227ad2b19568509d73f0df6c724ecc03c1751",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός ευγενής"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "adel uit Byzantijnse Rijk"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијски племић"
+    }
+  },
+  "id": "Q45937",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Михаил Врана Палеолог"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιχαήλ Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mikhael Palaiologos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Михаило Комнин Врана Палеолог"
+    }
+  },
+  "lastrevid": 17450674,
+  "modified": "2025-09-16T10:03:35Z",
+  "ns": 860,
+  "pageid": 62134,
+  "sitelinks": {},
+  "title": "Item:Q45937",
+  "type": "item"
+}

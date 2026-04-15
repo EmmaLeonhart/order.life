@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tagaya Mitsutsune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q47583$DF49A675-9CE9-471F-94B7-B9362F451C80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47583$BAC870D8-94A4-4332-A89B-20500613EBDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47583$BEACF08B-9A1A-4437-9A6A-4479D58007F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41236",
+              "numeric-id": 41236
+            }
+          },
+          "hash": "80b241250d778e92d941cc35b45e3671461cf363",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47583$D4FB942A-70D8-4443-B1CC-438D68E99B9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47583$1299A54E-CA30-44FC-ADF0-808967CC0859",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1578-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6257a8e6ca9e191b003ad35441f0f7546b5cfcc1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47583$C6C124BF-CBFF-4C4C-9E60-19AE36499E07",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1607-09-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b96512e1981f5e2e0e35f293507ebcc69e7649b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47583$4F1C716B-1924-41D9-BACF-80C6FD310D49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11431098"
+          },
+          "hash": "874f656250eb1dd82ffcedba04ca08f1dd0152b3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47583$08744651-A5F1-4422-BB56-C8C3A8B1F839",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tagaya Mitsutsune Arms.svg"
+          },
+          "hash": "3a954676581e7d1ec0241008adcd1b40cbf4812a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将 (1578-1607)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q47583",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tagaya Mitsutsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "多賀谷三経"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tagaya Mitsutsune"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "多賀谷三經"
+    }
+  },
+  "lastrevid": 17452758,
+  "modified": "2025-09-16T10:33:42Z",
+  "ns": 860,
+  "pageid": 63362,
+  "sitelinks": {},
+  "title": "Item:Q47583",
+  "type": "item"
+}

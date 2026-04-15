@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "庭田雅秀"
+      },
+      {
+        "language": "en",
+        "value": "Ting Tian Ya Xiu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q43712$DBEE8C35-8DB6-4999-9E1F-091949E14D23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43712$E47EEA9E-8CA1-4816-BA37-1E8B8235DF86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43712$752BCDE4-43F9-440F-96CD-ACA7676AAD8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39535",
+              "numeric-id": 39535
+            }
+          },
+          "hash": "d06207a9a5610bfa43b2cd562385f264a473d3ba",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43712$B06A573E-A3DB-4923-AA0D-9D26C3E08C36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43712$063599EA-8D08-4198-B4CA-A99BA28FA87E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1648-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b982b62a6900bd05e35fe91e1ed332889d73c2fc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43712$86A849CB-B920-4BC1-9883-0C20984CB7FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1667-11-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc44190c7d8ab981374e8ba0bde819c2a7272df6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43712$F7A4853D-3558-4A9D-B093-600AD22BC4DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110469919"
+          },
+          "hash": "996e4111379145612cdfc36e20387ca408b14dd2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "母は家女房。従五位上、侍従"
+    }
+  },
+  "id": "Q43712",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "庭田雅秀"
+    }
+  },
+  "lastrevid": 17447912,
+  "modified": "2025-09-16T09:22:18Z",
+  "ns": 860,
+  "pageid": 60471,
+  "sitelinks": {},
+  "title": "Item:Q43712",
+  "type": "item"
+}

@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Muratoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q56628$A39D1F2B-A47D-4009-A66E-041A10DD566B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62542",
+              "numeric-id": 62542
+            }
+          },
+          "hash": "cb0d393de5e0c0e966cb1309b3ee6b48a6cab492",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56628$5D836ADA-C142-47B6-A72A-729E4F39303C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62545",
+              "numeric-id": 62545
+            }
+          },
+          "hash": "cabee582d4d961170602ba448241cab8a6d92c28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56628$5EC09A25-5A70-4B2B-825C-CCBA5DB2F0FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56628$DFF59130-17AE-4738-AEBF-826A3FC73C32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56628$95E22EDD-7F38-4C8A-B534-7DC43921F360",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48180",
+              "numeric-id": 48180
+            }
+          },
+          "hash": "668225505152e09fbd245a5157a0a83ed29f7397",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56628$BC418034-5329-4979-BB53-4695C97BB3A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56628$82E41432-0891-4D68-ACFB-2B474540F38E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1713-12-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32543083c65bf5875903a6fe7a7ff1291b7e66c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56628$F1CB6041-12FA-4DBE-B263-1BFCAB4FDBAE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1754-01-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01bcd32ba6845fb8ab390535a2456bbcaa8066b2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56628$C23EE152-0F01-4EED-8860-94E8E0F4CC39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380799"
+          },
+          "hash": "1b3e86514945a97d07eb0cccb444121ddb1fca49",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56628$15E91C2C-6CA3-4716-AA0D-8B0F585C7CF3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Muratoshi Arms.svg"
+          },
+          "hash": "bfd5b32ee545183402ea5bcb7f8b7ce0f302c9c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "astronomer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "astronoom"
+    }
+  },
+  "id": "Q56628",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Muratoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達村敏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Муратоси Датэ"
+    }
+  },
+  "lastrevid": 17465112,
+  "modified": "2025-09-16T13:35:42Z",
+  "ns": 860,
+  "pageid": 71459,
+  "sitelinks": {},
+  "title": "Item:Q56628",
+  "type": "item"
+}

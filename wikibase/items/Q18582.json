@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Katasada"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q18582$58509540-B86D-47A3-9977-5CF3819C531D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-321"
+          },
+          "hash": "d9b5d78fe2d94e394eb38167676b40b673624fa0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18582$CFAA6EF2-0453-43F5-A451-6FFD88327891",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18582$4A8E845F-7B03-4ED7-BDF6-0FE4ED543611",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18582$58C70295-A760-4CE3-94A5-35C177C9FB73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34020",
+              "numeric-id": 34020
+            }
+          },
+          "hash": "ffe5c54dda185f35c3def3a50edbc9890d31c4a0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18582$8ECFD09D-7D62-49F2-BC82-FA299FDC1E5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17137",
+              "numeric-id": 17137
+            }
+          },
+          "hash": "21f589d5e13d16cefe2f37ce6c17990001512e6e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q18582$170A055F-A32C-4B1B-B517-3737188CF9D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30247",
+              "numeric-id": 30247
+            }
+          },
+          "hash": "c7c155ba44d0c7038e42a6b1eeaae6f2906383c3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18582$DEB313D6-1355-468A-BE44-98AFE5D7F62A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18582$715CA030-B3FA-4F76-A246-2735D2090481",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1724-10-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a755aab98baaeae7e7545b6ad44a4e99100ea03f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18582$1BBFA205-CD4A-4B51-9304-E0275D60D4DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1750-10-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8f8a39cc81c9145a605a9f3eeb59adb532de995",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18582$C3378CEF-6759-4822-B788-E3D4EAC7B5A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11239086"
+          },
+          "hash": "5f37844c770e4ed9985d96ddc8abd8e2108c1561",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18582$C4CB6757-C3F0-497D-9E78-5A68DEF99773",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Katasada Arms.svg"
+          },
+          "hash": "4b077f2e4c6cc98f736b5bf00fd88fee6d54efd7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the middle Edo period; 4th lord of Aizu"
+    }
+  },
+  "id": "Q18582",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Katasada"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Katasada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Katasada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Katasada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平容貞"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰다이라 가타사다"
+    }
+  },
+  "lastrevid": 17417952,
+  "modified": "2025-09-16T01:18:40Z",
+  "ns": 860,
+  "pageid": 40762,
+  "sitelinks": {},
+  "title": "Item:Q18582",
+  "type": "item"
+}

@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Ienaga"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13678$4FA9EF21-450A-4B21-944B-732E9AC66771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13678$8F1DB772-4EA9-4C17-AA99-5F9FD1EBFD5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q13678$727C9BB8-92B9-4B58-8310-31C1C32D1F89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14208",
+              "numeric-id": 14208
+            }
+          },
+          "hash": "8c2fd1944657fb8db7d70009e94341aef5f0c489",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13678$02891A28-A9A0-4733-A7FB-86AED0131C72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13678$73BAD46B-16CA-4F24-A751-BE79B9E7C8BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1170-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f527d94239ae14991438b318d089792fe8966ff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13678$F8FF85AE-8128-4454-B522-674417F125F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1234-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5afbeae0487c4f53d11d7d11df030d463bf5f16",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13678$23AD1963-C3DA-4F90-A23C-CC7647FE4A62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564057"
+          },
+          "hash": "a9d446e6c4a5286e120f4c239526a844b7a118fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13678$10C0E582-9D46-46BD-94F3-70BE41955627",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Ienaga Arms.svg"
+          },
+          "hash": "b39b90c32981e010c71936024ecaf1861e726856",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble and poet"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代から鎌倉時代の貴族、歌人 (1170?-1234)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter"
+    }
+  },
+  "id": "Q13678",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Minamoto no Ienaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Ienaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Minamoto no Ienaga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Minamoto no Ienaga"
+    },
+    "it": {
+      "language": "it",
+      "value": "Minamoto no Ienaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源家長"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Minamoto no Ienaga"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мінамото но Ієнаґа"
+    }
+  },
+  "lastrevid": 17414080,
+  "modified": "2025-09-16T00:04:38Z",
+  "ns": 860,
+  "pageid": 35995,
+  "sitelinks": {},
+  "title": "Item:Q13678",
+  "type": "item"
+}

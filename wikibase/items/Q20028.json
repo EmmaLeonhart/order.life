@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Okabe Motonobu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20028$89FF3930-BA17-44F4-A900-C1632F19C74E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37738",
+              "numeric-id": 37738
+            }
+          },
+          "hash": "4653b70dd8cc6e766de82389984c620f5a029d30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20028$2630D2F2-8A61-4674-BDB9-FAA79E8E26E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37742",
+              "numeric-id": 37742
+            }
+          },
+          "hash": "4260831f60053978382dad5db66c0d754f444c7b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20028$71547DCD-45EF-4FBF-B048-86D14F0A8E9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20028$DB953D9F-F312-42E3-B28D-D7A81DD5374E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20028$1290340A-68CF-4A94-A94A-1EF23CC0CDEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20027",
+              "numeric-id": 20027
+            }
+          },
+          "hash": "3522a76cde57a2e4bce92214e59f00054fe84643",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20028$71369B82-5418-4A39-B518-ED3837CC4522",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20028$6C0D6B4A-F5D3-4F4B-90A4-50151BED61CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1505-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c3ca86f9c48a36e79cb03be5540dd30479c6175",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20028$A3FEC7BD-76BA-4C74-AFB3-88FFE78E8426",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1581-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa6c5ca2f8c9b29ff98225f00b4989e406394e42",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20028$FF4767E3-4CD8-4451-82EF-B655D088F341",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1073455"
+          },
+          "hash": "71597e5934c071a454cac7a6832dc733b7386371",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20028$750F3C16-80A0-40E9-8181-1FD300D054E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Okabe Motonobu Arms.svg"
+          },
+          "hash": "f4c6e30b074e1ef34adc6472c3f452c4b00ab66c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1505–1581)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (?-1581)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1505 – 1581)"
+    }
+  },
+  "id": "Q20028",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Okabe Motonobu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Okabe Motonobu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Okabe Motonobu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Okabe Motonobu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوکابه موتونوبو"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Okabe Motonobu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Okabe Motonobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岡部元信"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Okabe Motonobu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мотонобу Окабэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Okabe Motonobu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Okabe Motonobu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Okabe Motonobu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "岡部元信"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "冈部元信"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "岡部元信"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "岡部元信"
+    }
+  },
+  "lastrevid": 17419188,
+  "modified": "2025-09-16T01:49:28Z",
+  "ns": 860,
+  "pageid": 42125,
+  "sitelinks": {},
+  "title": "Item:Q20028",
+  "type": "item"
+}

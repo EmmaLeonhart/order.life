@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ao Ping Zhen Zhi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q30041$F6A68A08-5F90-4F33-B26A-ED1CF4016720",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30041$4C7708DE-43C7-409A-BC4A-F32BBD394175",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q30041$EF29C96E-1BC8-4FEB-9D8C-6C3ADC1DE973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17072",
+              "numeric-id": 17072
+            }
+          },
+          "hash": "71c35a885e3e109d351581b482fbacec46919175",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30041$C3230AAE-AD19-4B57-9F7A-A2BC01ED3893",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q30041$EEAC5D8E-AC90-4220-B382-748FE23925B5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30041$ECBCB50E-EDCB-45C1-962C-FB7F94598DC1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1600-10-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0806e686a26518635eb9dbcba858c3620fc9c346",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30041$4FF78027-03CA-4B0F-9197-AAEEE2DFAC09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11445794"
+          },
+          "hash": "82de13f07d42abfc5733bb8f12d60524da57bf11",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代にかけての武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q30041",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "奥平貞治"
+    }
+  },
+  "lastrevid": 17429566,
+  "modified": "2025-09-16T04:58:15Z",
+  "ns": 860,
+  "pageid": 50247,
+  "sitelinks": {},
+  "title": "Item:Q30041",
+  "type": "item"
+}

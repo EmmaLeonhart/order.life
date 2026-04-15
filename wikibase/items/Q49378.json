@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Synadenos //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q49378$99C05DCF-D069-4935-9B9F-7204ECCC59D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49390",
+              "numeric-id": 49390
+            }
+          },
+          "hash": "a60c63b36819de95c6124c71cfcfe329e79e5b4a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49378$4EE3697E-F10A-4FD7-BD11-46FB8107670B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49382",
+              "numeric-id": 49382
+            }
+          },
+          "hash": "a4832a06491a31fc718498b9b8091debd9c30e6b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49378$2DA99FA1-82F2-4709-84B6-00E697549D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49386",
+              "numeric-id": 49386
+            }
+          },
+          "hash": "1e29578429e139ccd849b38a2bb3be955964bd07",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49378$BFB7359E-0905-4D50-B6D9-4CA84969E55B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49378$1CA12580-7FFA-45DE-ADE2-E81F0A49842F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q49378$B003F9F6-1089-4735-A048-8CEACEDC87C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "John_Synadenos_(1)"
+          },
+          "hash": "75ad39d599d13eb61c4c3c5b74d45731cf7fcfd0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q49378$1E29DB1D-1948-48BD-8590-98F665F2BD57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45929",
+              "numeric-id": 45929
+            }
+          },
+          "hash": "16d2f341c6cef9d6e1ab22852d567bd93465d0a9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49378$B190C018-9372-4B69-AD4C-8032342C82E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49378$D11F9F69-A469-4624-B05D-1EB73B149C98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "891a8fd1e3ea1f5ffde392231c3c7525a14fc1d6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49378$26EF51AB-BA0A-4851-9B4D-C21888F10DFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q349358"
+          },
+          "hash": "e9ccf38f3b0783dee9ce7d00fa0b38df36251d55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49378$FA291331-99A3-434C-8D04-8DA68BBFD75F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Synadenos Arms.svg"
+          },
+          "hash": "80dfa47af2f7df11064c2e0cc0d696e5d379cbfb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός στρατηγός - μέγας στρατοπεδάρχης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine general"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale bizantino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "edelman uit Byzantijnse Rijk (-?)"
+    }
+  },
+  "id": "Q49378",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Комнин Ангел Дука Синадин"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Συναδηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Synadenos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Synadenos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Synadenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Sinadeno"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni Sinadeno (megas stratopedarches)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Synadenos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Sinadeno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Sinadeno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Синадин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Synadenos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Синадин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван Дука Синадин"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰·西纳德诺斯"
+    }
+  },
+  "lastrevid": 17455144,
+  "modified": "2025-09-16T11:07:54Z",
+  "ns": 860,
+  "pageid": 64702,
+  "sitelinks": {},
+  "title": "Item:Q49378",
+  "type": "item"
+}

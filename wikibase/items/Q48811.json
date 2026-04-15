@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sacha beki //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q48811$072E2702-6B8E-4E59-8054-A8F4A2E5C641",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1427104"
+          },
+          "hash": "262abdec00e0eee34e51ea54e7cee89e43d91003",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48811$CA274116-CAF8-4B65-A0F1-094D3CBBC454",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48811$53435FD2-9CA0-48FB-BA6C-C78D39959345",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48811$B04DA297-D532-429D-B577-D002B71DDFA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45596",
+              "numeric-id": 45596
+            }
+          },
+          "hash": "c12a21bc2cfb15359a57ddb434f766b98de6f379",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48811$3EF74DED-AB04-4E5B-A712-397C80AB9098",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48811$B23EAC01-1472-46ED-B7C8-9EBD7C86BF82",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48811$41307261-8600-449A-B3A6-77C902D28781",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1197-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12622958b6d1815c428953ddee86474bf0f1326a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48811$AE0F1341-AB7F-4CBA-817A-2A6AD91A3D17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65063155"
+          },
+          "hash": "e9b434445d694f443785cb78c2e84aa425c8fa0c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48811$4336839C-1568-4DA8-9714-D276411D977A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sacha beki Arms.svg"
+          },
+          "hash": "a57eddf8122256ce65beab670b49f9d22202783b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "12th century Jurkin ruler"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "предводитель джуркинов XII века"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "中国古代历史人物"
+    }
+  },
+  "id": "Q48811",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sacha beki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sacha beki"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Setchè-bèki"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Сача бэхи"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sacha beki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сача-беки"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "撒察别乞"
+    }
+  },
+  "lastrevid": 17454392,
+  "modified": "2025-09-16T10:57:10Z",
+  "ns": 860,
+  "pageid": 64279,
+  "sitelinks": {},
+  "title": "Item:Q48811",
+  "type": "item"
+}

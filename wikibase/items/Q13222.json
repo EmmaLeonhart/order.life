@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nagai Yasuhide"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13222$F82BCEA0-94B5-4B1A-8B61-D542E68CBFA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13222$00545BF9-3980-4320-A819-1BBA254392A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13222$AAB45952-569A-4D8A-B244-ADCF870BB80C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12503",
+              "numeric-id": 12503
+            }
+          },
+          "hash": "59c2a109a33d74ebfd325e9c8b30a70759a0d9e7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13222$42667C4A-E344-435E-A9F4-012F292EFA9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13222$465FACF6-4300-4B89-A200-E96CB84AB2E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1212-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d509a54e9651af805dafae00262590314a03af78",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13222$811EDD94-95FA-426B-B029-619AB2B28D93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1254-01-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "096c737728b5aceab29e5d24edeb6b978862b08a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13222$DDF06768-5A15-4142-B487-4BD8F4EE98A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11651464"
+          },
+          "hash": "8c518cc86c9cbd8891af648570da314ba59dd927",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13222$898F042D-8375-471F-9C1D-ED66116DFB46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nagai Yasuhide Arms.svg"
+          },
+          "hash": "39eaa4e3343b4cf500118e9347b0d99f38a27297",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "長井氏嫡流、大江氏惣領"
+    }
+  },
+  "id": "Q13222",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nagai Yasuhide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "長井泰秀"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ясухидэ Нагаи"
+    }
+  },
+  "lastrevid": 17413842,
+  "modified": "2025-09-16T00:01:20Z",
+  "ns": 860,
+  "pageid": 35545,
+  "sitelinks": {},
+  "title": "Item:Q13222",
+  "type": "item"
+}

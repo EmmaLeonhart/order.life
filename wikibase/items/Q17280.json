@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Munetoki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q17280$EFB2E19B-7189-4284-AF99-8087627CD7CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17280$1EB68EDB-3AD2-41D5-A23D-6F6BC981CA01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17280$55644086-2731-45AD-B171-5A961B61ECFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16869",
+              "numeric-id": 16869
+            }
+          },
+          "hash": "b06ee308bf37fb7fa7fe695e6bbdad540222cf1a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17280$AE7422EE-156B-41D9-8F32-D654DAA73F02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17280$1C88E0D4-1FFB-4C88-A3E4-CD5707891967",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1615-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2a2d3c04963fb38a7cc31c3ca45e2e9c06d2255",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17280$DCA18665-3F11-41A5-A3D3-66EE793B83F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1653-06-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a11923cba062c1fe81e65069204e7e2e68d52ad",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17280$6287ED73-3FF9-4970-86B5-615F002A5842",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380723"
+          },
+          "hash": "32296a0fec9742c427c73beaf4978b9a4ff45d6f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17280$C3C47CA3-9A7A-4287-A809-DECA93B6E6C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Munetoki Arms.svg"
+          },
+          "hash": "bd424fe6c0c21915477847f4c4b2432440594805",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q17280",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Munetoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達宗時"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мунэтоки Датэ"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伊達宗時"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "伊達宗時"
+    }
+  },
+  "lastrevid": 17416844,
+  "modified": "2025-09-16T00:51:13Z",
+  "ns": 860,
+  "pageid": 39513,
+  "sitelinks": {},
+  "title": "Item:Q17280",
+  "type": "item"
+}

@@ -1,0 +1,365 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Wencheng"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25205$0ED2A02E-ED1A-4312-B98D-BFD15D6184CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1206022"
+          },
+          "hash": "785b594e9d4ac0101ba4f7ab21aa8f8fb68160cd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25205$F59ABF5A-E024-4328-A4F6-02459C91CA71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25205$1EFEDC38-62B2-4591-B444-0FE09BA03324",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q25205$920C4B0C-27E1-4347-B080-D6F1EFADD818",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51996",
+              "numeric-id": 51996
+            }
+          },
+          "hash": "8ec0e2b59a15293c4fa256543fbfe525a670983d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25205$872EDEFD-F150-4484-87F2-2DC880406B03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25205$3F782832-D388-4746-8AE3-F4A3BA2203C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0628-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "826660d90693c1e3138507b0bf131d7cb2644b40",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25205$E21E7134-3D2C-46A7-8F80-9D151032FCDE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0680-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e13f8e9f2d598d0fa8e64952496e9876317fa93",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25205$18656D0A-ECEC-4D96-A3AF-211CCE5FDDF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q256555"
+          },
+          "hash": "80eb4200d10daa463e990d2cb7fa9456e6ed6e11",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25205$13B0DB26-FACA-4444-840B-99B9B1C61163",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Wencheng Arms.svg"
+          },
+          "hash": "9c3d0bb2235781adcb20fc98eda082ce7fd992c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "tchangská princezna provdaná do Tibetu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prinzessin der chinesischen Tang-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chinese princess, Tibetan empress (628–680)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai hercegnő, tibeti királyné"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "prinses"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "princesa chinesa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐朝公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "唐朝時和親至西藏之公主"
+    }
+  },
+  "id": "Q25205",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "ওয়েংচেন গোংঝু"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ལྷ་གཅིག་ཨོང་ཅོང་།"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Wen-čcheng"
+    },
+    "da": {
+      "language": "da",
+      "value": "Prinsesse Wencheng"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wen Cheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Wencheng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Wencheng"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wencheng"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Vencseng hercegnő"
+    },
+    "id": {
+      "language": "id",
+      "value": "Putri Wencheng"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wencheng Kongjo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "文成公主"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "문성공주"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Вэньчэн гүнж"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wencheng"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wencheng"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Wen Cheng"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Wen Cheng"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Принцесса Вэньчэн"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Princeza Wencheng"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Wen Cheng"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจ้าหญิงเหวินเฉิง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Prenses Wencheng"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Công chúa Văn Thành"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "文成公主"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "文成公主"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "文成公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "文成公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "文成公主"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "文成公主"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "文成公主"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "文成公主"
+    }
+  },
+  "lastrevid": 17424040,
+  "modified": "2025-09-16T03:39:04Z",
+  "ns": 860,
+  "pageid": 46962,
+  "sitelinks": {},
+  "title": "Item:Q25205",
+  "type": "item"
+}

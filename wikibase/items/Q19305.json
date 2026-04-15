@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Nanyang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19305$82952132-D37B-43A3-A8DA-1639EA9C5BBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21185",
+              "numeric-id": 21185
+            }
+          },
+          "hash": "41f2786a0a9854f102838b174385047b55e1f02b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19305$52A030B3-1B59-4CAB-9083-38DC02B3A550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19305$1C2D47B4-5FA5-4259-9D14-2A0CA4B84620",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q19305$14B78D4A-FF1E-4BB9-8617-B4C835786307",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19290",
+              "numeric-id": 19290
+            }
+          },
+          "hash": "8a50b152e3240ed3863b0c53b571ca957aaf6572",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19305$8FC2C8BD-08B7-42B8-8A5F-CE07B7DFEBFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19288",
+              "numeric-id": 19288
+            }
+          },
+          "hash": "caf4f61096e43ec5aa9594f00b9d027b8ff9540b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19305$D4ED1E90-1544-47B6-AEBB-3B3B47FCBBC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19305$72332AD7-64A5-46E5-8CCF-7E487863CB4E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19305$E0910E7C-818D-49D0-AC95-37AC58CF06FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10909275"
+          },
+          "hash": "819b547633911be9880f6141c1185ae861fb9914",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19305$4CF7E7AD-9192-4C42-9E57-6E611A319104",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Nanyang Arms.svg"
+          },
+          "hash": "21f7b4bcc6aad86fe76f7a9b53b9fb76455de146",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "princess of Sui, surnamed Yang, daughter of Emperor Yang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "隋朝の姫"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Суй Ян-ди"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "công chúa nhà Tuỳ, họ Dương, con gái Dạng Đế"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "隋朝之公主"
+    }
+  },
+  "id": "Q19305",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Princess Nanyang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Nanyang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Nanyang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南陽公主"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наньян"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nam Dương công chúa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "南陽公主"
+    }
+  },
+  "lastrevid": 17418538,
+  "modified": "2025-09-16T01:33:17Z",
+  "ns": 860,
+  "pageid": 41460,
+  "sitelinks": {},
+  "title": "Item:Q19305",
+  "type": "item"
+}

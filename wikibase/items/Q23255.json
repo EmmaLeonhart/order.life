@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Jing"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23255$B70051B5-C574-41BB-85BC-9B9DACC672D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23255$4A74E441-AF18-4485-BA3E-43091BB34BFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23255$13D70CDD-AE43-42B4-B039-D29F19237801",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23249",
+              "numeric-id": 23249
+            }
+          },
+          "hash": "2297488373bb74b4c8083ac909e2053bc552a3cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q23255$5E6E4380-B6E0-4DA0-81E4-FB5AB02E7E71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23250",
+              "numeric-id": 23250
+            }
+          },
+          "hash": "594e37610deb0b06a9e3ba4f63e980ffd58e5325",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23255$A60757C6-C162-4499-99C2-E15BB8436560",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23255$9587F5FF-2B2B-4048-92D1-60C47905FF4A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23255$0E91958F-3A01-4E81-B3DB-3FFA0854E867",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0632-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6f259d2126608580211b77a21f791dfe64877eb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23255$D4A91C00-5128-4238-86C0-F256C44C4D80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16075361"
+          },
+          "hash": "c684ce64826b61696f2185d87efcbdc726b11b03",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23255$858610EE-D161-4975-855B-55B73ADE6526",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Jing Arms.svg"
+          },
+          "hash": "5747abddc297ec447c3b3752493cf121fb5c617d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171681"
+    }
+  },
+  "id": "Q23255",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Jing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Jing"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Jing"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭璟"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Jing"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Cảnh"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭璟"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧璟"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭璟"
+    }
+  },
+  "lastrevid": 17422098,
+  "modified": "2025-09-16T02:59:03Z",
+  "ns": 860,
+  "pageid": 45209,
+  "sitelinks": {},
+  "title": "Item:Q23255",
+  "type": "item"
+}

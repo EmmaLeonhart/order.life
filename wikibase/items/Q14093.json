@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yukichika Nei"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q14093$BA08D363-790E-4CE7-9E1A-FBEAF71BB017",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14580",
+              "numeric-id": 14580
+            }
+          },
+          "hash": "663b056d4b50522c34b96ae90f7cac4e223ef2b0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14093$DB8F5CF5-B58E-450F-94F3-E11D035E0ED8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14093$0C934A09-4AB4-4C64-8C18-66A6782F0B1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14093$F7328BCA-1A75-4B5F-B16D-C2587ECFAF17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14093$E115A8EA-1BE7-4871-9650-1F0AF29E9B49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1184-03-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a23e554faf4a5ac165d2047f7d2ea81b0eb3148d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14093$541B1D5E-A04A-432C-9CFE-93A2F2E2911D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kisokanja-minamoto-yoshinaka-oyobi-sono-itimon.jpg"
+          },
+          "hash": "6e2ccdf65b96badbce37d1ab8716a8cb93ba0f7a",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14093$88A8FD7F-B140-48AC-AEF3-A94C917B51A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11536232"
+          },
+          "hash": "8390a91c40b74feb513ec7f1a959be60c3441faa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14093$D42483D6-6303-4028-9B96-D91CF5805BE0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yukichika Nei Arms.svg"
+          },
+          "hash": "f2d9a5ffb31b45802677858ef25b39e67a8094d2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "?-1184?, 平安時代末期の武将"
+    }
+  },
+  "id": "Q14093",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yukichika Nei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "根井行親"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "根井行親"
+    }
+  },
+  "lastrevid": 17414332,
+  "modified": "2025-09-16T00:08:02Z",
+  "ns": 860,
+  "pageid": 36403,
+  "sitelinks": {},
+  "title": "Item:Q14093",
+  "type": "item"
+}

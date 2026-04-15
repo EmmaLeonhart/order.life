@@ -1,0 +1,585 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Izumi Shikibu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9884$F8F25ABE-F1B1-4F18-97E9-3F4663C72C6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9827",
+              "numeric-id": 9827
+            }
+          },
+          "hash": "023b57f5481a1bc7665a3e2d9eb3f8c319b1b6f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q9884$14470126-C665-49AB-A4C0-84A0C974F3BB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Izumi Shikibu"
+            }
+          },
+          "hash": "60fa14e0e4f6d5c69f334ad179e11c2196a7b34a",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9884$8AF6D1DE-E607-4ED0-83B2-1533B6E0F0F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9884$33EB33AA-B45F-4B27-A3D2-50B23A865B15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9884$4C5E5868-C1E6-484E-9880-934E7FCE0A15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9716",
+              "numeric-id": 9716
+            }
+          },
+          "hash": "f61c6e8c09f4c2c486f9b729eb741ff6b0de0bdd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9884$A225AA6E-DE36-4626-9F74-C0325D7714C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10278",
+              "numeric-id": 10278
+            }
+          },
+          "hash": "96b0230d1a4f312d76b17e1439107c70ca914f35",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9884$480E211D-B498-4FA8-AEE9-355C3362E26D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Izumi Shikibu"
+            }
+          },
+          "hash": "668562ed922371b025c9a60d5ddab1297b20410e",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9884$D8891E52-657E-4F2C-A8BB-DFF71D321284",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9884$D918E10A-1AE3-4E7E-B771-EFD8B16E80A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0976-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0c2b8a03d1b74f793011c427d2507bc826db055",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9884$D43B2C26-9C6D-4ED5-8046-794662F00F55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1033-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f288518f003ed3362a63304b2701d9063905838f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q9884$D631CAFF-D261-4071-BA37-B765DE23F246",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Izumi Shikibu.png"
+          },
+          "hash": "61a2ae4caa743bbf1f970eb17a0c4aac6ed97c1e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9884$EF667686-1F70-4394-9801-263F969E2329",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q239898"
+          },
+          "hash": "eeaf1aff037b2282e06b5b646a15e032289d40fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9884$AC531722-AF39-4DA7-A721-333E0EBF17B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Izumi Shikibu Arms.svg"
+          },
+          "hash": "500a08dcee7b83fa30e4229591381e6bddd9d28d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعرة يابانية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponesa"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poetessa japonesa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonská spisovatelka a básnířka"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ paɣa"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanische Dichterin der Heian-Zeit"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese poet"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese poet"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poetisa japonesa"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "japanilainen runoilija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poétesse japonaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poetisa xaponesa"
+    },
+    "he": {
+      "language": "he",
+      "value": "משוררת יפנית"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Onye na-ede uri Japan"
+    },
+    "it": {
+      "language": "it",
+      "value": "scrittrice e poetessa giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安時代の女性歌人"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤이안 시대 일본의 시인 (978~?)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichteres (976-1033)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japońska poetka i pamiętnikarka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poetisa japonesa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "poetisa japonesa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poetă japoneză"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская писательница, прозаик и поэтесса"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poete japoneze"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (976 – 1033)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японська поетка"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "nhà thơ Nhật Bản"
+    }
+  },
+  "id": "Q9884",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Izumi Shikibu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Izumi Shikibu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Izumi Šikibu"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Izumi Shikibu"
+    },
+    "da": {
+      "language": "da",
+      "value": "Izumi Shikibu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Izumi Shikibu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Izumi Shikibu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Izumi Shikibu"
+    },
+    "et": {
+      "language": "et",
+      "value": "Izumi Shikibu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایزومی شیکیبو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Izumi Shikibu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Izumi Shikibu"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Izumi Shikibu"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Izumi Sikibu"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Izumi Shikibu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Izumi Shikibu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "和泉式部"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Идзуми Шикибу"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이즈미 시키부"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "和泉式部"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഇസുമി ഷികിബു"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Izumi Shikibu"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Izumi Shikibu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Izumi Shikibu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Izumi Shikibu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Izumi Shikibu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Izumi Shikibu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Идзуми-сикибу"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Izumi Shikibu"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Izumi Shikibu"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิซูมิ ชิกิบุ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Izumi Shikibu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ідзумі Сікібу"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Izumi Shikibu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "和泉式部"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "和泉式部"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "和泉式部"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "和泉式部"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "和泉式部"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "和泉式部"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "和泉式部"
+    }
+  },
+  "lastrevid": 17411778,
+  "modified": "2025-09-15T23:31:28Z",
+  "ns": 860,
+  "pageid": 32313,
+  "sitelinks": {},
+  "title": "Item:Q9884",
+  "type": "item"
+}

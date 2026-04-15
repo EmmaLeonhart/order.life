@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogier of Savoy //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q55248$11B4E0E3-9778-4246-B764-A02C85475075",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55248$53E6A6BD-C1A9-47DF-AA03-2F792D24D545",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55248$F80FE5F7-5BC4-465B-9C2A-1AAB3BC133A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49833",
+              "numeric-id": 49833
+            }
+          },
+          "hash": "90aae0485afc949abb7acb652b67d373ae7b7537",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55248$5C8B9600-1FB8-41D7-AE4B-43E8260B8801",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55248$D84E8095-0A99-49B1-9296-67D57518D0AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1333-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1f1b3d4d0905e854528b1742aa52e732f15bc1fe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55248$10B607E8-01CF-4DA7-9CDF-F64F95AE0DA4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1373-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db1ace8870f4677163ed9b998520586825f6c6f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55248$CA122667-23EF-4591-BB11-092165876171",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7080037"
+          },
+          "hash": "7c5f4557b1ca0bd62c888709e1b407fa578dbd86",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55248$EA8656C8-8D27-4437-856B-2F01365728C4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogier of Savoy Arms.svg"
+          },
+          "hash": "431eaeeff1663aaa1b82d2bd6ea1a6bda1cb1f18",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian noble"
+    }
+  },
+  "id": "Q55248",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ogier of Savoy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ogier de Saboia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ogier de Saboia"
+    }
+  },
+  "lastrevid": 17463146,
+  "modified": "2025-09-16T13:05:56Z",
+  "ns": 860,
+  "pageid": 70079,
+  "sitelinks": {},
+  "title": "Item:Q55248",
+  "type": "item"
+}

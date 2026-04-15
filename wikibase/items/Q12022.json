@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hime no mae"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q12022$648740A4-D748-4070-AFC3-C4CAD4B6AD00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11753",
+              "numeric-id": 11753
+            }
+          },
+          "hash": "755b308e9f5e3593b19df992b20cc3c50822cfda",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12022$F2701BCD-371F-4D27-BCE7-6855521A5D4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12022$28DF118B-DCB5-439B-91FF-20BF96231F45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q12022$C6BC2E22-19F4-46F3-B3F8-FAE2C403E4F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11631",
+              "numeric-id": 11631
+            }
+          },
+          "hash": "1402cd286e0753fc53084506ac96aa88d9457259",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12022$7FC1E74B-0B8E-426E-94EE-14ACD6C676A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12755",
+              "numeric-id": 12755
+            }
+          },
+          "hash": "35b46d19d044c2e7a1022f33fe5e9119a83ba35c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12022$E9AFCC30-BC15-4F33-843A-39218771BE56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12022$D8F89C21-EF6F-489F-B4B1-2CD5715EDA49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1207-04-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f902b7b957233ec2319ffd99de39f6f761c06165",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12022$8FCF9D7F-42CE-4D86-B6D8-55F7E7BF1659",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11447372"
+          },
+          "hash": "8348394e3abb924a107087133935676aa78abb7b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12022$A26BED91-0939-452D-BEB3-3D9DF45A29C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hime no mae Arms.svg"
+          },
+          "hash": "bbeae7e0f1048df63cd35bd4261b79232be47d1f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Hōjō Yoshitoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の鎌倉時代の女性、比企朝宗の娘、鎌倉幕府執権・北条義時の正室"
+    }
+  },
+  "id": "Q12022",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hime no mae"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hime no mae"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hime no mae"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هیمه نو مائه"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "姫の前"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히메노마에"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "姬之前"
+    }
+  },
+  "lastrevid": 17413298,
+  "modified": "2025-09-15T23:53:39Z",
+  "ns": 860,
+  "pageid": 34371,
+  "sitelinks": {},
+  "title": "Item:Q12022",
+  "type": "item"
+}

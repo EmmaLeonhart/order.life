@@ -1,0 +1,179 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Li Yuan Yi Lai"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q26802$E489C23B-1BA7-4719-AC76-EDE6DE517CD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q26802$1241761F-A3FC-4469-AAFB-17A5FBED6751",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q26802$1957BA25-C921-419F-A08D-08052D4CC3D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15961",
+              "numeric-id": 15961
+            }
+          },
+          "hash": "0ca154b0ccfa478c939c1d95313d2affdea1176a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q26802$3F32E447-F31B-4AA2-B188-7D2F3ADABB1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q26802$2527DF3F-9CF6-43E3-8F97-7FAB3386091A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1535-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9f048e16cfa757fa32735f9dda6d6662dd9aab1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q26802$574F5853-81B5-4C14-B9CF-A8C217FC7934",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1613-10-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "371716caf526a61560f8299015c780d7386bc184",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q26802$319CA50F-8679-4815-87E6-1D9EB9CC585C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20039170"
+          },
+          "hash": "3649892e789bfca7ab0d924b95369061eb37599e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q26802",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "小笠原義頼"
+    }
+  },
+  "lastrevid": 17425860,
+  "modified": "2025-09-16T04:04:08Z",
+  "ns": 860,
+  "pageid": 47964,
+  "sitelinks": {},
+  "title": "Item:Q26802",
+  "type": "item"
+}

@@ -1,0 +1,924 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Saga"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q7713$42F88632-B622-4596-BFCA-027C6D685CEE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485615"
+          },
+          "hash": "38b41761acdd2f72902f424c04e5f937773b706b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q7713$FFD8DC8A-41C8-4341-9959-F105A2D2C8C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523859"
+          },
+          "hash": "33397b283540cf17374d278d0d5bfb27997a86ee",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7713$4B6AFE7D-7A9C-4E15-BF76-5FBFBE3CDD97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7951",
+              "numeric-id": 7951
+            }
+          },
+          "hash": "f33941fb1951c88bd0a227bcee8b94e4f3ad0ddd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$B132473E-9076-47D9-A7DF-E8BA74FEE114",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7952",
+              "numeric-id": 7952
+            }
+          },
+          "hash": "c949026c34e38799008fe27ac02febfdac1eda2a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$6A9D5992-E20C-4990-B7AD-09E429E2EA8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7953",
+              "numeric-id": 7953
+            }
+          },
+          "hash": "98007776e559f4fd9478a54c3d07e242a7699194",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$FE1497A9-16E3-4B4A-AA54-3C00929BC973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7967",
+              "numeric-id": 7967
+            }
+          },
+          "hash": "53286b207354380edbc60748482bc045bbb806a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$63214E5C-19E6-46ED-A508-7F142FA28C45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7958",
+              "numeric-id": 7958
+            }
+          },
+          "hash": "10f37116a3a1476299ec4852e9bdbcc2ad623def",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$45E8B984-0DEE-4800-84C4-E57CE542D91C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7962",
+              "numeric-id": 7962
+            }
+          },
+          "hash": "fd0fd0695702f1d99caf7f899be64cb9ba74a348",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$7DD1F44F-7349-4129-8F2E-7ACF041EA4D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7972",
+              "numeric-id": 7972
+            }
+          },
+          "hash": "41701d4e081b1770292b45b68a39eacfe3445643",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$B9C52859-3F3D-45D0-9E82-970ECEBFDF30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7960",
+              "numeric-id": 7960
+            }
+          },
+          "hash": "e65bd0ed73efd8f28aa57f248ff0d8bbdc768e48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$B019E0D2-6D7E-4C14-8F8F-D36F80610388",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7955",
+              "numeric-id": 7955
+            }
+          },
+          "hash": "186002fc96870c81a68231f6fdd59e44a21191ba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$C84F6ABA-7BBC-41F0-8067-DB0C7F77D27C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7956",
+              "numeric-id": 7956
+            }
+          },
+          "hash": "a69aec97847ad41030f66aa1661b865c958f0255",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$1F7B713E-7E23-4836-8CF5-097E33661346",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7957",
+              "numeric-id": 7957
+            }
+          },
+          "hash": "f4123c252dfba40353e4b989adcfa8d45ec88ea6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$02415524-9CE1-4CB1-9789-74D7B9B0C2AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7961",
+              "numeric-id": 7961
+            }
+          },
+          "hash": "353965888b3eebf02b732a3d4866aa387e44d891",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$D6281584-8A36-4BFB-A594-B61C86FC2D2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7963",
+              "numeric-id": 7963
+            }
+          },
+          "hash": "71ba54c86c61e8e2af1cb45085759204cb3e1418",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$B324BE66-1B97-43D5-A47A-C4237E17662D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7964",
+              "numeric-id": 7964
+            }
+          },
+          "hash": "6a2271f9667aa0dc56fb31251114e7c108bc3b13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$0989AB4E-6DB4-4E67-BB7C-97028BCECD68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7966",
+              "numeric-id": 7966
+            }
+          },
+          "hash": "bd14834f76cfab64e9fee2fad207e198523bb42f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7713$07A52211-DCB4-42BE-90D3-5EF2FF71FEB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$1D06D25A-86EC-463F-8979-65B6A4FFD921",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7713$5D4206CF-B01C-4261-A04D-4CC051B895B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7876",
+              "numeric-id": 7876
+            }
+          },
+          "hash": "fcecade1fc2233976d653a7776336fae2d1ced79",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$E74F1725-9644-426E-9952-84FDF73911CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7935",
+              "numeric-id": 7935
+            }
+          },
+          "hash": "88fdb04b295e2e58f45088859eaa5587f3502c25",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$D865AA8C-5A93-4443-929E-83D6177D6917",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7941",
+              "numeric-id": 7941
+            }
+          },
+          "hash": "aab8ede29069b6e29ee86643dc4cbb0ca3298907",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$DE70160C-F260-4624-A5A4-4F0A1E41AC70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7813",
+              "numeric-id": 7813
+            }
+          },
+          "hash": "aada68acf2dcf8e8b8812deeaf04fe8ba48a7dbc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7713$35D0FD56-269D-469C-A3EC-FD624C08A659",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7880",
+              "numeric-id": 7880
+            }
+          },
+          "hash": "4f9c2537f7b5b613f51221535da15f3ac9004039",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7713$76D4D534-DC66-480D-A297-5CA21E779565",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7508",
+              "numeric-id": 7508
+            }
+          },
+          "hash": "7b7c607c5db3bf050899b58e185f536e63c5aaae",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7713$FD466BDA-6FDC-4CC8-A077-F4D5F4D0134B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7692",
+              "numeric-id": 7692
+            }
+          },
+          "hash": "7bff882c6ee3df95392cfa845997c1b8b611bcb3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7713$DF0BB50C-47DD-43F2-B7FE-AAA20C476D6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7713$3016004B-C7BA-49DA-8015-F4306D439F57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0786-10-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4038fb5806100cc68143859c82cbe26dd5be7e48",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7713$30E7ED26-7C60-4FA8-822F-80DCF0DB3816",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0842-08-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1bcd210b1deeac35dc3f58a4f2052883d953ade",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7713$DD8CBE6D-DFE6-4002-9CA9-B15EBC7BB13F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Saga large.jpg"
+          },
+          "hash": "65069bb34540390700dbd3402e2f11c777b3a356",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7713$FA47E5DC-56F0-4196-ACAA-8B5653CBAFE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316654"
+          },
+          "hash": "8152a73bc3c90803a13c9ef5a1689679700f6a49",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7713$E4B1154C-4C03-43F8-B0FB-644B6E8639A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Saga Arms.svg"
+          },
+          "hash": "5c0fff80f9d02e3082c02019d66c9d57bcabcb48",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "خطاط ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "calígrafu xaponés (786–842)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emperador del Japó"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپڕاتۆریەکی ژاپۆنی"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "52. Tennō von Japan (809–823)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "tennoo de Japanio"
+    },
+    "es": {
+      "language": "es",
+      "value": "calígrafo japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani keiser"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Impire na Seapáine"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Jepang"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第52代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz Japonii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "император Японии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本天皇"
+    }
+  },
+  "id": "Q7713",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "ساقا (ایمپیراتور)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Імператар Сага"
+    },
+    "br": {
+      "language": "br",
+      "value": "Saga"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Saga"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر ساگا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Saga"
+    },
+    "da": {
+      "language": "da",
+      "value": "Saga"
+    },
+    "de": {
+      "language": "de",
+      "value": "Saga"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Σάγκα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Saga"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Saga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Saga"
+    },
+    "et": {
+      "language": "et",
+      "value": "Saga"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Saga Enperadorea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور ساگا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Saga"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Emperor Saga"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szaga"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Saga"
+    },
+    "it": {
+      "language": "it",
+      "value": "Saga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "嵯峨天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사가 천황"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Saga Thian-hông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Saga"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Saga"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Saga"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Saga"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Saga"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Saga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Saga"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Сага"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Saga"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Saga"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Saga"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Saga"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Saga wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิซะงะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Saga"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emperor Saga"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Саґа"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Saga"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Saga"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "嵯峨天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "嵯峨天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "嵯峨天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "嵯峨天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "嵯峨天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "嵯峨天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "嵯峨天皇"
+    }
+  },
+  "lastrevid": 17407643,
+  "modified": "2025-09-15T22:37:32Z",
+  "ns": 860,
+  "pageid": 30206,
+  "sitelinks": {},
+  "title": "Item:Q7713",
+  "type": "item"
+}

@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mori Ranmaru"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q21621$49105CA1-74EC-4839-8968-3AA62D7F625C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "森-4"
+          },
+          "hash": "9d05ddeebec35d3eac7d44cba65465980252a010",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21621$A47A4F64-2C06-4D51-8B93-5AB7335B940D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21621$D4C8F344-DB4A-44DB-A98E-DBD5E5AAF27A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21621$E6526897-5823-46A4-BCFC-3ED65AADED25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19647",
+              "numeric-id": 19647
+            }
+          },
+          "hash": "61f746b78ab0a8be5a5d0fdab80e58758e2a02eb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21621$2A678D18-5DF6-40E9-AB56-8C435CC94EBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21621$95FDB181-61AB-4ABB-8520-77AE91C0BBD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1565-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5582a8179cf616d70bf760d6faed59b2bd7dbfe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21621$3F7FA564-0902-426A-8B11-EA01ACA92982",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1582-06-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8673f6fb0154f8b1dae6c725cbd9758add2952f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21621$D070120C-E03A-4E47-8B59-77AA265FD141",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1365528"
+          },
+          "hash": "20df36944b97a1b18902b80aa88790dd1eb22703",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21621$E880C8E0-367C-4A47-874C-DA46BDD51AED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mori Ranmaru Arms.svg"
+          },
+          "hash": "48e9e336b08516a31a2b4cd4b95be3831c182160",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1565–1582)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese samurai"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "guerrier japonais du XVIe siècle"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代の武将、武将・織田信長の近習"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-1582)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский самурай"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1565 – 1582)"
+    }
+  },
+  "id": "Q21621",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Mori Ranmaru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mori Ranmaru"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mori Ranmaru"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "موری رانمارو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mori Ranmaru"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mori Ranmaru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "森成利"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "모리 나리토시"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "森蘭丸"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mori Ranmaru"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ranmaru Mori"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ranmaru Mori"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мори Наритоси"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ranmaru Mori"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mori Ranmaru"
+    },
+    "th": {
+      "language": "th",
+      "value": "โมะริ รันมะรุ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mori Ranmaru"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Морі Нарітоші"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mori Ranmaru"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "森蘭丸"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "森兰丸"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "森兰丸"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "森蘭丸"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "森蘭丸"
+    }
+  },
+  "lastrevid": 17420688,
+  "modified": "2025-09-16T02:24:05Z",
+  "ns": 860,
+  "pageid": 43637,
+  "sitelinks": {},
+  "title": "Item:Q21621",
+  "type": "item"
+}

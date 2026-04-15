@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seion'in"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22073$43F8F1CA-75F3-4469-97D4-76B502E75FA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22075",
+              "numeric-id": 22075
+            }
+          },
+          "hash": "d6f3a05ae35ed2500b87164b5a7c38fb50e358b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22073$4B17F8F8-58C6-4EB6-BA50-5AE21DB59E34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22073$440B6D90-717D-42C5-A697-0BDF82ED67AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q22073$2D3D353E-4F2C-4D4D-8FF2-0BFE676292DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20148",
+              "numeric-id": 20148
+            }
+          },
+          "hash": "882095b970ed0b3e093e9ab431d43c9c09974262",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22073$821C3E83-F756-4126-B83D-0220DDF14F6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21912",
+              "numeric-id": 21912
+            }
+          },
+          "hash": "bc22881320687b083213fcbd20998aaadbb1716d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22073$30980714-E8DB-4F02-8A93-CCD504C9FC26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22073$1195D022-EF89-4060-898E-5CBE87DC68D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22073$E81D7073-FED0-46E2-A6CE-02E45C21F338",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1619-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65e63cf3a0382a1404d4dabba788361660bb8da1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22073$F282CE12-8114-4889-A8D3-3C9A4D2DBAAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28689491"
+          },
+          "hash": "1d44660fa33b9fd74411f973be2ac9870961b3e6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22073$12B98A5D-847E-402F-885B-3DEA1EB7B271",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seion'in Arms.svg"
+          },
+          "hash": "bed56790cbc4bdcba534e4dfec7a205d66b49995",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Sanada Nobutsuna's daughter, Sanada Nobuyuki's first wife and later concubine"
+    }
+  },
+  "id": "Q22073",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Seion'in"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seion'in"
+    },
+    "es": {
+      "language": "es",
+      "value": "Seion'in"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "清音院殿"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "幸"
+    }
+  },
+  "lastrevid": 17421026,
+  "modified": "2025-09-16T02:34:52Z",
+  "ns": 860,
+  "pageid": 44081,
+  "sitelinks": {},
+  "title": "Item:Q22073",
+  "type": "item"
+}

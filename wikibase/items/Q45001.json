@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiêu Lạc"
+      },
+      {
+        "language": "en",
+        "value": "Q16075293"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q45001$D7299550-306E-4A2D-96ED-4D2C9923B302",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45001$A1013E65-BFA9-4968-AEA5-BD1F6742D740",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45001$490D8568-5718-4265-AEB7-DD26C68D426C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44989",
+              "numeric-id": 44989
+            }
+          },
+          "hash": "e95bfbd71b78e67f4d1b2ec8431c2f4ac0fb6ed7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q45001$99FA2E89-E1D5-4434-8B4E-A40C1FCD0E0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53389",
+              "numeric-id": 53389
+            }
+          },
+          "hash": "f1c256ad7ba672d5b04373a9d9313f492cc30442",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45001$AE248240-6A6C-4D5C-A9C4-439A9F3AB3B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45001$6F5B1734-207B-4E71-870A-2C7D9677DB88",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45001$6B06A11D-8825-4F0F-B941-899F88702602",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16075293"
+          },
+          "hash": "ebe2e04ad1ddec0cf3971e49830b6cb63f292d54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45001$C69019AF-2F9A-426F-9F47-AA73619D43C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tieu Lac Arms.svg"
+          },
+          "hash": "790f6a39c76e4a1ecf453deee5c933e25af250a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q45001",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tieu Lac"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "소요"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Lạc"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萧嶚"
+    }
+  },
+  "lastrevid": 17449344,
+  "modified": "2025-09-16T09:44:37Z",
+  "ns": 860,
+  "pageid": 61434,
+  "sitelinks": {},
+  "title": "Item:Q45001",
+  "type": "item"
+}

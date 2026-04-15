@@ -1,0 +1,251 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55375$0DAFF51F-48BD-4A68-B5CB-8A65E14247D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00298708"
+          },
+          "hash": "e642908d3691267e1f1f1524dd004a46ebbdca60",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55375$31493219-98B7-4BC9-9DA6-BFF54396B501",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55375$FBAE7EFE-569A-4FBE-8378-A846F166C0A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55375$18A4972E-C614-49A0-8056-2E268037CCA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55367",
+              "numeric-id": 55367
+            }
+          },
+          "hash": "d576b30f1c87c4a634b97952dcf0ac2beee8b574",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55375$D91D3D9F-629B-4DBD-93B9-373C5B3D9710",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49865",
+              "numeric-id": 49865
+            }
+          },
+          "hash": "4afbec74f2e50c49d8e469891ac1708aa8be4f8f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55375$F3434B1D-4D61-4A66-81A5-544D305CC5BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55375$BDB091CD-BE46-415D-AEB4-CA85424BEC8D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1378-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd869902e9497234c19304f85b0d39050781fe26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55375$24811B4B-B04E-42BB-BE5F-BBAC66438C05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1430-05-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4ca4f9ad9450b9e7f35f824ed66fbd50c41190f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55375$69BE8655-E0B3-42AB-8545-E8ADF5F405F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q54233073"
+          },
+          "hash": "021dd5f3a00a2ce606919b7436b622af081c2afe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55375$BC3FC7BA-EBD5-430A-9CF8-7B15BA270C89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elionor d'Arago-Urgell Arms.svg"
+          },
+          "hash": "41669aafea6c75417e379014894490c1bfc41594",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Infanta d'Urgell i ermitana"
+    }
+  },
+  "id": "Q55375",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Elionor d'Aragó-Urgell"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Eleonora z Urgellu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elionor d'Arago-Urgell"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leonor de Aragón y Montferrato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Éléonore d'Aragon et Montferrat"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elionor d'Aragó i Montferrat"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элеонор Урхель-Монферратская"
+    }
+  },
+  "lastrevid": 17463336,
+  "modified": "2025-09-16T13:08:42Z",
+  "ns": 860,
+  "pageid": 70206,
+  "sitelinks": {},
+  "title": "Item:Q55375",
+  "type": "item"
+}

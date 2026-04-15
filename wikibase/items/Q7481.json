@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abe no Hironiwa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7481$CB1F0B12-2671-40AC-A4B6-47337A5684D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7481$13F32C33-6CA0-4271-A9D7-BCE3760DBC85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7481$6779DAA7-01F0-43D7-BB1E-25107DF1E6F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7363",
+              "numeric-id": 7363
+            }
+          },
+          "hash": "87a8cc80b150ed310da27bde91e1082637cf4cf2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7481$221598F8-9B80-4BA3-905F-08C0561FFBEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7481$AEED4025-6DA9-4CE6-BD31-F24F1508D1B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0659-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "222e61529767c45685baf31b5d159f492a39f66b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7481$68F33204-3D65-450C-8C48-D4AB4893949C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0732-03-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84325599c4e3ea56b76f4817d4086ca272df84a5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7481$307C3B47-A9F5-43B3-8086-91C2DD98B7A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11657244"
+          },
+          "hash": "b6f5ea3baa2ade8a4877e9d4ad1965160f433edb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7481$96748D82-8A60-4747-B938-664E216908E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abe no Hironiwa Arms.svg"
+          },
+          "hash": "407902fe220571a3f60c31976b29ef865866b84c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese waka and kanshi poet"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の奈良時代の貴族"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter"
+    }
+  },
+  "id": "Q7481",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Abe no Hironiwa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abe no Hironiwa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آبه نو هیرونیوا"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "阿倍広庭"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Abe no Hironiwa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿倍广庭"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿倍广庭"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿倍广庭"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿倍廣庭"
+    }
+  },
+  "lastrevid": 17407429,
+  "modified": "2025-09-15T22:34:52Z",
+  "ns": 860,
+  "pageid": 29974,
+  "sitelinks": {},
+  "title": "Item:Q7481",
+  "type": "item"
+}

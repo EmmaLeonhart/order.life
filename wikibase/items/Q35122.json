@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pokjan //"
+      },
+      {
+        "language": "en",
+        "value": "Pokjan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q35122$83467FA3-ECC1-46A5-84AC-E83EBE1EA003",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35122$9398B946-63EE-4248-9BE0-696D6CC1DFF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q35122$86FE79E0-FC0E-4A2E-8186-D2EFE12E6603",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34806",
+              "numeric-id": 34806
+            }
+          },
+          "hash": "3f0d857485211a04b4d00a6dffdf22b1c00451e7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q35122$80492516-DD28-451F-84D9-0D71550204CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35565",
+              "numeric-id": 35565
+            }
+          },
+          "hash": "bfe5727dff03a4641443ecd208e84c83e00c685e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35122$A2A2DA16-99ED-4D80-B323-6A4739B97FFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q35122$4B8CBA4A-2A7F-48DE-9193-09AB565F7B23",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1112-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6be62004cfff39c31710b7227546186571f93736",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q35122$C4DBC7BA-F4A6-4F4C-9AEE-8D1122AABFBB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1195-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf216d549f6b39c8a6a7673dabcbf0a35c25dea4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q35122$8EFB2492-3CB9-4334-82A6-9C13E2378EF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11064499"
+          },
+          "hash": "c3b4748e0a169f50660b780cdcb583a7fa82f6b3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q35122$E18FF487-0C1F-46AC-9FB5-B080AEF397EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pokjan Arms.svg"
+          },
+          "hash": "d549597f362cefecba4bc99130f3016f9371635e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Korean noblewoman"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려 인종의 부인"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "знатная кореянка"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Koreas drottning 1125-1126"
+    }
+  },
+  "id": "Q35122",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pokjan"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "복창원주"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Покчхан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bokchang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "廢妃李氏 (李資謙四女)"
+    }
+  },
+  "lastrevid": 17436582,
+  "modified": "2025-09-16T06:40:29Z",
+  "ns": 860,
+  "pageid": 54047,
+  "sitelinks": {},
+  "title": "Item:Q35122",
+  "type": "item"
+}

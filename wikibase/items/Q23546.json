@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Zhenyang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23546$43430AEA-212A-4411-AE9E-F277FE651811",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23546$0A9A6B91-48AC-4140-83DE-D2BBC220DAC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23546$6FC3C9B0-FC20-4197-8842-DAA1266367A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46553",
+              "numeric-id": 46553
+            }
+          },
+          "hash": "f84f03985b516ad3a3c5d531f5d2f3135d748e19",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23546$09EADAF2-FA4F-4AAB-B45A-E28C8334AEA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46557",
+              "numeric-id": 46557
+            }
+          },
+          "hash": "ae60b0f7ff71c1f9bb748afffcc00ce071823a57",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23546$0E9E13F6-488F-4C2E-B84A-CACAE36B5A69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "bcb7a20e89226ee4ff14368fd103ba418f9f4c9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23546$87776D84-3D49-46B8-A7BA-556E5EE86907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23546$65C52C68-94A2-43BC-9E9C-BA9956AB1FAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0771-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8cc6f6df17096aa93b24d16987fbbfd25e7d2e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23546$A1A3BADD-9C68-4ADB-A4AD-8D758E6069B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10721233"
+          },
+          "hash": "8ef4c48f81c5d0e9a0324877201ca691bdbbcc45",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23546$6D323E4E-F159-46C7-950A-8F540CC28865",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074767506018"
+          },
+          "hash": "d33dba582667f792640a1f4d7df95f43d5eacc7f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23546$01EEDE21-7F15-4EC0-855E-3DB31951CA36",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074767547840"
+          },
+          "hash": "64b3ea799b563b3bcb3755cd8a827a27e3907e37",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23546$6676D519-2C04-45F2-B7C4-238C10FDA5E9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Zhenyang Arms.svg"
+          },
+          "hash": "a398340535e0c73bbbd48a29b2d52d1068707cf7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera císaře Süan-cunga"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Κινέζικου αυτοκράτορα Σουαν-τζόνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Chinese emperor Xuanzong of Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Сюань-цзуна"
+    }
+  },
+  "id": "Q23546",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Čen-jang"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ζενγιάνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Zhenyang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Zhenyang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zhenyang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Zhenyang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чжэньян"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "真陽公主"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "真陽公主"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "真阳公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "真阳公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "真陽公主"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "真陽公主"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "真陽公主"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "真阳公主"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "真阳公主"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "真陽公主"
+    }
+  },
+  "lastrevid": 17422544,
+  "modified": "2025-09-16T03:05:17Z",
+  "ns": 860,
+  "pageid": 45437,
+  "sitelinks": {},
+  "title": "Item:Q23546",
+  "type": "item"
+}

@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Narita Nagayasu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16856$83EE15FE-8D94-45DD-83F1-B191A9737213",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16009",
+              "numeric-id": 16009
+            }
+          },
+          "hash": "3364cc07020939aad5c8ce19d24abcf15400642a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16856$40CD985A-4976-4559-A2B0-767AB0897048",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29462",
+              "numeric-id": 29462
+            }
+          },
+          "hash": "3a6ecbfde3cbce0060f9797293e5d1d87adfc28c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16856$94911AFA-C0F8-4CB0-A32B-D3E3B36EA367",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16856$F74A4FC2-AEC0-4F04-82A4-9BF9201EA616",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16856$7F68B6E3-89F8-4E13-8EA6-B96B5FBF716E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29458",
+              "numeric-id": 29458
+            }
+          },
+          "hash": "fb436fdc0f752374da5a30d8f8e2ac96f2a18322",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16856$1FDE129D-FF08-46BC-8C95-12F3B51789E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16856$BEDC2075-205B-4833-B906-F5C6DFB6DDD5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1495-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14bce0d07865a2c7d1167ce1102fcdbb1241d23a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16856$079A20DB-2EC0-4E26-84D9-4D4068F1302E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1574-01-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1f7db12c0ba8991b1a242638ca8d318a079b04f7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16856$8D9BFE45-2012-4A2E-A126-2414EAB0E286",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11495749"
+          },
+          "hash": "14094b0288e6a1865565f0999259a37cf87b2767",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16856$85BD6086-FCF9-4C85-9B6C-2FCA35746DD3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Narita Nagayasu Arms.svg"
+          },
+          "hash": "b9b5d5b2d3216b568f24e65d319fe40eeb8a60e0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q16856",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Narita Nagayasu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Narita Nagayasu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ناریتا ناگایاسو"
+    },
+    "it": {
+      "language": "it",
+      "value": "Narita Nagayasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "成田長泰"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Narita Nagayasu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成田长泰"
+    }
+  },
+  "lastrevid": 17416406,
+  "modified": "2025-09-16T00:41:03Z",
+  "ns": 860,
+  "pageid": 39106,
+  "sitelinks": {},
+  "title": "Item:Q16856",
+  "type": "item"
+}

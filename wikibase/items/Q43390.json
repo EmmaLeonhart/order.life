@@ -1,0 +1,334 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Constantine I of Imereti //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q43390$A8C7B5ED-81A5-40F6-B8EC-6D2FB7AADA5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1143856|1302673"
+          },
+          "hash": "13a3266050468ae44bcde83298c0fcbf14da1d6b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43390$328DB3D9-8E46-4B1B-A431-942C5BF3401C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43390$A8F1F082-41B4-4294-909D-F2CC07280A38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q43390$F9E1041E-35EC-4A42-BBDB-02ABE2EF917A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Constantine_I_of_Imereti_(1)"
+          },
+          "hash": "905b97a6b3926352659f98847ff353bf2906272c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43390$2A080D80-CAE1-4014-B9E2-E2D1D339803F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43382",
+              "numeric-id": 43382
+            }
+          },
+          "hash": "af0d649351af0b78284c1bb9a2ac305d7bb8b606",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43390$035F041A-EDA4-431B-B31A-F5FCB3EEE7A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43390$03D98CB8-5425-4855-92D9-A566E8A16781",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43390$637E0ADB-C446-4A49-B4FD-60F50A514952",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1327-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1aee021142b9534554355371bc7adb59c6d671d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43390$76DE0ED5-1B54-4105-8C70-8D0F6EB7FA2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2461780"
+          },
+          "hash": "157c758f7bd9e17828a557fd3abf79c5d1321145",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43390$62062257-C30C-4439-8041-EEE1CEC14C9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Constantine I of Imereti Arms.svg"
+          },
+          "hash": "625e73b6a36ce06f4e9fcb36e58902e30f73dfda",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας της Ιμερετίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Imereti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Iméréthie (Caucase), de 1293 à 1327"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך אימרתי"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Իմերեթի արքա"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イメレティ王国の王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Koninkrijk Imeretië (-1329)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Имерети"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İmeretya kralı"
+    }
+  },
+  "id": "Q43390",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "I Konstantin"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Constantí I d'Imerècia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Konstantin I. Imeretský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konstantine I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κωνσταντίνος Α΄ της Ιμερετίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Constantine I of Imereti"
+    },
+    "es": {
+      "language": "es",
+      "value": "Constantine I of Imereti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Constantin Ier d'Imérétie"
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסטנטין הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Konstantin I. od Imeretije"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կոստանդին I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コンスタンティネ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კონსტანტინე I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Constantijn I van Imeretië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Константин I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Constantine I of Imereti"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Konstantin"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Костянтин I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "君士坦丁一世"
+    }
+  },
+  "lastrevid": 17447502,
+  "modified": "2025-09-16T09:16:03Z",
+  "ns": 860,
+  "pageid": 60230,
+  "sitelinks": {},
+  "title": "Item:Q43390",
+  "type": "item"
+}

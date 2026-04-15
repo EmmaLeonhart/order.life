@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Matate"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7477$E696AD8A-E25E-4A74-87E3-AB411A11F271",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523638"
+          },
+          "hash": "517f4249e6a1c867f8e10b868ec634180977c612",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7477$E1933B39-184A-4133-842C-2BEC9B2ABEBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7671",
+              "numeric-id": 7671
+            }
+          },
+          "hash": "ee089f322e30922f01a6f0d6268d82a6ccbdfa94",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7477$35A069A2-7915-4627-9FBE-D7E2AD8EB731",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7673",
+              "numeric-id": 7673
+            }
+          },
+          "hash": "0c4cd1d5e3e66aaba677576ee865381b4528ee57",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7477$80CF4C1F-5A52-4022-8CAC-F5CE5E56DD9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7477$EE982E08-55B9-41D5-9B4E-A0A567F8A0CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7477$4C4C9A4A-06EA-4610-AF6F-1662BEBEE0D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7389",
+              "numeric-id": 7389
+            }
+          },
+          "hash": "7c388954d6aea1dd47c02ee429d169bc534d7a4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7477$FBD78638-38D5-4EF2-9978-9A59CFF621B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7358",
+              "numeric-id": 7358
+            }
+          },
+          "hash": "84136bfed4f698365e18d0734a116782937754ee",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7477$CAAEEDEF-A591-4FC9-8942-8C4A171EA258",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7477$4EE4BF5F-3D69-4446-A58F-F9D1C427141F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0715-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "99aa383797944ed9fd38d74ed18b2e11352d80fa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7477$118EE188-3A05-4A9D-B7BE-8454FFA9F142",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0766-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ab214503170c84dfc6b30d4bf42e4919b20347b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7477$8C475F7E-60E5-4153-B0CB-57FDBA6CB16F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Matate.jpg"
+          },
+          "hash": "6103c0a015787fedaf97370c3b7ba5118eda8d4e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7477$77C8ED01-DA65-42FD-B672-C2B23CA0F39E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623426"
+          },
+          "hash": "eb4645526e27538aeba0776ada76af220b80c5a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7477$87926B44-CEB1-4407-8372-F15D5AF00512",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Matate Arms.svg"
+          },
+          "hash": "8bc71bacf004ad3c712d5e276b81857273bbd760",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (715–766)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "奈良時代の公卿。藤原房前の三男。正三位・大納言兼式部卿、贈太政大臣従一位。氏長者。万葉四期歌人。勅撰集『続古今和歌集』に1首入集。子孫は五摂家など"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-766)"
+    }
+  },
+  "id": "Q7477",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Matate"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Matate"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Matate"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Matate"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Matate"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Matate"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原真楯"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Matate"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Matate"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Matate"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Мататэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fujiwara no Matate"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фудзівара но Матате"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "藤原真楯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原真楯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原真楯"
+    }
+  },
+  "lastrevid": 17407423,
+  "modified": "2025-09-15T22:34:47Z",
+  "ns": 860,
+  "pageid": 29970,
+  "sitelinks": {},
+  "title": "Item:Q7477",
+  "type": "item"
+}

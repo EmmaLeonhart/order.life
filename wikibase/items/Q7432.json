@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ki no Kotsuo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q7432$1249442E-FEFE-44DB-B1D2-D6DB8FB52397",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7595",
+              "numeric-id": 7595
+            }
+          },
+          "hash": "1ac632b14de30a76a12b55341bed97ee8b6bac88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7432$15DAA266-72C8-40AA-A61A-8C81DA388F19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7593",
+              "numeric-id": 7593
+            }
+          },
+          "hash": "b7c4c40002e24540c522d6108729531d4f4a87bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7432$8877A591-45F2-47BA-B51D-172631F129C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7592",
+              "numeric-id": 7592
+            }
+          },
+          "hash": "6a2330c8f915bcae70c0e7e77036ece94c5fb6b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7432$5947EADF-BDCA-4AAD-9FD4-069070398CE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7594",
+              "numeric-id": 7594
+            }
+          },
+          "hash": "4e886bce2746e0cdd4efa45b95f48f517a848527",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7432$4EDF59C9-DD83-4F0D-B2AF-EC19B63272D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7432$BE6E37D5-F561-4C2C-B9D5-1E9BD5CCCF66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7432$FE5D237A-7287-4710-BA8F-0C7F7E26DA8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7432$10D4A0F5-D12D-4AC0-8812-FA76AE2AAB78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7432$E631CDE0-5261-4D27-A745-6F5E1778DA59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11605069"
+          },
+          "hash": "b2e70514045b350106bf613d324260edbcb9ac32",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7432$E920DF56-3C5C-4141-8312-7981D9759A87",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ki no Kotsuo Arms.svg"
+          },
+          "hash": "3adaebe623342b88a1d72dd3af8bbb75c16fd066",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q7432",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ki no Kotsuo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紀木津魚"
+    }
+  },
+  "lastrevid": 17407383,
+  "modified": "2025-09-15T22:34:17Z",
+  "ns": 860,
+  "pageid": 29925,
+  "sitelinks": {},
+  "title": "Item:Q7432",
+  "type": "item"
+}

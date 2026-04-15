@@ -1,0 +1,501 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Asatada"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q8708$24BDEA8F-6A4E-40B3-8724-0A7E981A3D47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "812431"
+          },
+          "hash": "3be71851b5930ae07817ad414c07a760d25ff8b7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q8708$524FB1BD-BD8C-4AAC-BACB-F737AF203A22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9032",
+              "numeric-id": 9032
+            }
+          },
+          "hash": "33b15f23b8f120c9a759e9b43077aca047e53b85",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8708$8E62F147-89F1-4B08-A476-DB2BE1D5A64C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9030",
+              "numeric-id": 9030
+            }
+          },
+          "hash": "27015d5911c1a81e9605697d524bec6f3ec8e8db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8708$49395A86-85D0-435E-B7D1-96922623AF0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9031",
+              "numeric-id": 9031
+            }
+          },
+          "hash": "4d9eb1a54d029d6252ce8949a8b9b2da4e1f64d1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8708$164D6A51-3DA2-4278-AB66-4B82C247C394",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8708$1F5CE7E0-2761-4515-ADD1-4C43FA545FEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8708$23441346-D609-4A46-8095-CFEA7B543874",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8707",
+              "numeric-id": 8707
+            }
+          },
+          "hash": "35979345085e358978e43de12b23594ec6a0a031",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8708$53E83129-8A70-4B59-BBD6-A8DCD1250F45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8418",
+              "numeric-id": 8418
+            }
+          },
+          "hash": "b333c361ddcc1b07be5d55157663db65ae81c6f2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8708$90CC5FB7-30C1-4B7D-97A4-BB930CD597BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8708$932EE848-DE80-4CC1-9FC7-65A0403C64FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0910-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a5abbd00b8396e3f1ab48e4b3e0fd86d2a9fb59",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8708$FBBCF340-BCD9-42CB-A56A-19E1754177D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0967-01-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "26cab6e2f201e62ae48b3e21b0bdf3f917d9045d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8708$F0FF9CC8-8685-418C-B713-268496AD8275",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hyakuninisshu 044.jpg"
+          },
+          "hash": "af16ebdd2cc4e8e12f007cc907f2d46608fe0d05",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8708$32841A2A-1A60-481E-80BC-52F51D8C1CFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2598268"
+          },
+          "hash": "a00749a8599a274fdd2d4c30c06c5c7eb63a2153",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعر ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponés (910–967)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Poeta i noble japonès del segle X"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Dichter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "משורר יפני"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の公卿・歌人"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤이안 시대 일본의 시인 (910~967)"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "കവി"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (-967)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "poeta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poet japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский вака-поэт и аристократ периода Хэйан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poet japonez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (910 – 967)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський поет"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本平安時代中期的公卿、歌人"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本平安時代中期的公卿、歌人"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日本平安時代中期的公卿、歌人"
+    }
+  },
+  "id": "Q8708",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Asatada"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Asatada"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Asatada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Asatada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Asatada"
+    },
+    "et": {
+      "language": "et",
+      "value": "Fujiwara no Asatada"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Asatada"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Asatada"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Fudzsivara no Aszatada"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fujiwara no Asatada"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fujiwara no Asatada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原朝忠"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "후지와라노 아사타다"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Asatada"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Asatada"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Асатада"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fujiwara no Asatada"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фудзівара но Асатада"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Asatada"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原朝忠"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "中纳言朝忠"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "中纳言朝忠"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "藤原朝忠"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原朝忠"
+    }
+  },
+  "lastrevid": 17409426,
+  "modified": "2025-09-15T22:59:49Z",
+  "ns": 860,
+  "pageid": 31193,
+  "sitelinks": {},
+  "title": "Item:Q8708",
+  "type": "item"
+}

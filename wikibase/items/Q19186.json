@@ -1,0 +1,179 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Di Wei Liang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q31830$0527655F-023F-41C7-AE58-B74575A68D21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31830$5B46F8AD-A95B-4E56-A712-47DB880D0195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31830$AD173AD8-9B65-4450-A079-6CB229A9468F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35964",
+              "numeric-id": 35964
+            }
+          },
+          "hash": "a5aaafcddb7d7a4178c37d83d02103ecf26a302b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31830$E2F4F5E5-BD73-48C9-A2A0-4F99C82F0241",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31830$6601EAB6-1825-4233-B87D-B6B8BBE8F6D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1690-07-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b354231d0ca8e3e19c418574fd14f5f999cd9b6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31830$2432D5E9-9F34-4ED5-9938-7EE8B529A4EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1754-03-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b5d1ebba524a7f5cfea97f475de2120fa781419",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31830$B9228902-E40E-4E35-A2B8-A56076C16C34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110067374"
+          },
+          "hash": "22041a30906ce338cff2f766e12f4345ca090194",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "堤家5代。母は家女房。従五位上、左京権大夫。返上位記、月日出奔。摂津尼崎初島明神神主"
+    }
+  },
+  "id": "Q31830",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "堤為量"
+    }
+  },
+  "lastrevid": 17431904,
+  "modified": "2025-09-16T05:31:28Z",
+  "ns": 860,
+  "pageid": 51585,
+  "sitelinks": {},
+  "title": "Item:Q31830",
+  "type": "item"
+}

@@ -1,0 +1,158 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "陳叔斉"
+      },
+      {
+        "language": "en",
+        "value": "Chen Shu Qi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q40580$E66AAB84-F85F-492F-9703-C0A9F436C018",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40580$F90F4B80-8F3C-436F-8109-28381AEBDA29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40580$74858720-AE59-4DB3-A101-E72D2F5C420A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23272",
+              "numeric-id": 23272
+            }
+          },
+          "hash": "174e56ef20be6cc2c5dadd4465772bc54579632e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40580$B81DEAB7-DE6E-449D-BC16-F2B5FA470471",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40580$87E5A3F3-FD04-43B5-9BF2-DB2DFA7DA490",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0569-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc9c1e31c2baa6bfa37bd7bbb4059cfe5d6a73d1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40580$0CD6AF0F-9D65-472E-9863-9A875CF18549",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10565476"
+          },
+          "hash": "378127af0118e056854a2fec08ceb71b0268e0ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q40580",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "陳叔斉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陳叔齊"
+    }
+  },
+  "lastrevid": 17443770,
+  "modified": "2025-09-16T08:23:14Z",
+  "ns": 860,
+  "pageid": 58125,
+  "sitelinks": {},
+  "title": "Item:Q40580",
+  "type": "item"
+}

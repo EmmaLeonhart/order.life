@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asutai //"
+      },
+      {
+        "language": "en",
+        "value": "Asutai"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q37504$9898E113-047B-4044-AC8A-15593E800063",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00301546"
+          },
+          "hash": "c93a2f9c76893b8a8d62eefa2fa4674d48051fd0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37504$2F7AB824-8A85-479B-9E7A-4664DADC1336",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37504$92FB5377-CEE8-434E-8DEC-EEE079E21707",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37504$4ED048BE-F5AA-4FBC-B30E-C4CDE25DF8B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36514",
+              "numeric-id": 36514
+            }
+          },
+          "hash": "7a2a826179a885e91d88dfa861722dac528b4d26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37504$F05D1781-D856-43BB-982F-F714F2471288",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37504$A129CAB4-7C51-4D87-AD0D-7582AC458826",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37504$07B99701-ED7B-45C2-8565-75C25CFD1CB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7070714"
+          },
+          "hash": "dfee17a210066b5aba3d511fa10f7e63aae4bfce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37504$66E6FCB2-7056-4A7E-B6B2-C166986C9B62",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asutai Arms.svg"
+          },
+          "hash": "ac5e6e1368c2cf07f84e97127ec606c47f5590bd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Mongke Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Möngkh Khagan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Мунке"
+    }
+  },
+  "id": "Q37504",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Asutai"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Asutai"
+    },
+    "de": {
+      "language": "de",
+      "value": "Asutai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asutai"
+    },
+    "es": {
+      "language": "es",
+      "value": "Asutai"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Asutai"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aszutáj"
+    },
+    "it": {
+      "language": "it",
+      "value": "Asutai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アスタイ"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Асутай"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Asutai"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Asutai"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Asutai"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Asutai"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Асутай"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿速台"
+    }
+  },
+  "lastrevid": 17439954,
+  "modified": "2025-09-16T07:28:55Z",
+  "ns": 860,
+  "pageid": 55826,
+  "sitelinks": {},
+  "title": "Item:Q37504",
+  "type": "item"
+}

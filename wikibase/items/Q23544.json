@@ -1,0 +1,303 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Linjin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23544$45CFA2C3-1F2F-4985-A281-F4C2240F777F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23544$B23F40FF-ED86-4566-A063-5E23D9567DE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23544$4050B7E2-C355-4BCD-9C8D-E42D3C7CD78A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23591",
+              "numeric-id": 23591
+            }
+          },
+          "hash": "64c37294c412a24f15760cdc593f1b4dedec0bc7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23544$CB131176-8D67-48FC-BD1E-F3E4EE9DD884",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "bcb7a20e89226ee4ff14368fd103ba418f9f4c9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q23544$B8A33BCC-8D1A-4E05-AF82-19FAC0F8AFE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23506",
+              "numeric-id": 23506
+            }
+          },
+          "hash": "114726eae9e1df43c5f6c6c1cbc46390f7fbe393",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23544$F738BC9D-0416-4103-BD9C-FA3B4E76B5FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23544$5B04A35D-3D22-4F69-8A95-B93DFF28ABF4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23544$7002256A-6A5F-403B-939C-DEB5078FC134",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0771-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8cc6f6df17096aa93b24d16987fbbfd25e7d2e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23544$7AB0BC19-A550-487C-A917-AA0DBE012522",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10721148"
+          },
+          "hash": "8aff3e12de530784944e02c2dfad4a8bd4bb8717",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23544$4103FFA6-22BA-411A-8FC2-8017783D8192",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074767796848"
+          },
+          "hash": "a61cd75e8e78f330d2ef5702969dbbf348743330",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23544$EBACEB3F-19B2-4387-99E4-B769E910B75D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Linjin Arms.svg"
+          },
+          "hash": "4a9cab0016bc6abd097e5901b78ab2a563068970",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "κόρη του Κινέζικου αυτοκράτορα Σουαν-τζόνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Chinese emperor Xuanzong of Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Сюань-цзуна"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "中国古代历史人物"
+    }
+  },
+  "id": "Q23544",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λίντζιν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Linjin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Linjin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Linjin"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李氏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Линьцзинь"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "臨晉公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "临晋公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李氏"
+    }
+  },
+  "lastrevid": 17422540,
+  "modified": "2025-09-16T03:05:14Z",
+  "ns": 860,
+  "pageid": 45435,
+  "sitelinks": {},
+  "title": "Item:Q23544",
+  "type": "item"
+}

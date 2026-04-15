@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shimazu Tadatake"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24795$EA35F79D-D56D-46FC-B80E-5F57861FA761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50674",
+              "numeric-id": 50674
+            }
+          },
+          "hash": "7bc84dc4a109210b3416faeb038391118eda42bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24795$CF56F034-DBC7-46B6-BC82-363716D7FE1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50682",
+              "numeric-id": 50682
+            }
+          },
+          "hash": "f5ceb35445dbd5265081bf5acbbf23ababa4784f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24795$3CF66C6A-599B-4227-8AFD-556CE76E34EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24795$A7FBE839-6949-48D2-AC0B-B86F03B73169",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24795$E328375D-CFA1-47C4-891B-2AE20903C886",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22591",
+              "numeric-id": 22591
+            }
+          },
+          "hash": "e3eddea2d89124677cfa0756413c1cb032bf1b89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24795$59E81910-58F1-4020-BA8D-F835504532E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24795$67B0D19B-1C45-4E97-923C-1D1A33571166",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1551-08-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7739782108a889b4251d86ad7b43f124f8f482d0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24795$81E657A6-84B0-489B-AB3E-317606CD95CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1610-12-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "728a882561e8a84fa091957b08dae88a8ddaaa09",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24795$3BB33F8D-C303-4E4B-ABB6-230490709F58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11163042"
+          },
+          "hash": "26303fdef76a3cd66f05f86fe46333d2ea3a5176",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24795$271AD37A-AB2D-470E-855D-A29CF71BCA55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shimazu Tadatake Arms.svg"
+          },
+          "hash": "7d3a55832a3e93baafead813cd0c9a7749ca7a29",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q24795",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Shimazu Tadatake"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shimazu Tadatake"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shimazu Tadatake"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "島津忠長"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Shimazu Tadanaga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Shimazu Tadanaga"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shimazu Tadatake"
+    }
+  },
+  "lastrevid": 17423696,
+  "modified": "2025-09-16T03:31:44Z",
+  "ns": 860,
+  "pageid": 46571,
+  "sitelinks": {},
+  "title": "Item:Q24795",
+  "type": "item"
+}

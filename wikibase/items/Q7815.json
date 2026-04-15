@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kiyohara no Natsuno"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7815$8B0CB07E-4CA1-4343-95F6-B721560551FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7815$9608B0D5-723C-417A-B6E8-D96759E51165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7815$9472673B-3672-4043-A1D3-485E185A225A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7563",
+              "numeric-id": 7563
+            }
+          },
+          "hash": "0a769f3eff55ecce3a9447d809f6b0e125880375",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7815$DB1331EA-D668-40B4-A507-9884DF87C3B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7815$749B032C-E3B2-450A-AF17-91E85D32930C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0782-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ef3c33c6d2e621608be2ca337033c01a62e2530",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7815$DFC8E7A9-928F-4EB5-9582-97EB084A64CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0837-11-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5e20cb2130311715fd286923b5957080a9f21227",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7815$67ACB398-464F-415B-B911-83ED6F7D68DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "清原夏野.jpg"
+          },
+          "hash": "141e933d10470fe7efbf8411160658f3425dd993",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7815$A84325E9-BF42-4CFC-A3A5-2CC1A126DA4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11560500"
+          },
+          "hash": "7f3dd65a6d464314e8a5957d32065809eb5638a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7815$1BE133CC-841E-42AF-A187-CCD965B3495F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kiyohara no Natsuno Arms.svg"
+          },
+          "hash": "892717f96dade563c19f394ac2aa34a49a602e1a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代初期の皇族・公卿・政治家。小倉王の五男。従二位・右大臣、贈正二位。"
+    }
+  },
+  "id": "Q7815",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kiyohara no Natsuno"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kiyohara no Natsuno"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kiyohara no Natsuno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kiyohara no Natsuno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "清原夏野"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kiyohara no Natsuno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kiyohara no Natsuno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Киёхара-но Нацуно"
+    }
+  },
+  "lastrevid": 17407732,
+  "modified": "2025-09-15T22:38:38Z",
+  "ns": 860,
+  "pageid": 30307,
+  "sitelinks": {},
+  "title": "Item:Q7815",
+  "type": "item"
+}

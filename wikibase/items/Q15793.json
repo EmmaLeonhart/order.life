@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Mochinaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15793$D36F2D0D-4CF0-408C-82E9-93BA714911D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15793$9B236338-40CA-49B9-A6A7-E00EA2026DB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15793$BC7E6910-494C-48BD-B209-A5BA6FA78066",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15309",
+              "numeric-id": 15309
+            }
+          },
+          "hash": "f4e55be7a15a5fe70b4174039a5dab42a1d96158",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15793$054441A7-5EFF-4E05-A52E-74251C48BD0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15793$F051D13E-DD0C-4401-BE83-B25A1F3F06A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1417-01-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "974ed4b615197e61fd0e5c167535cc66b96ab424",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15793$2E7CDE54-266A-4118-AFC1-AAC93B9545D4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "足利持仲.jpg"
+          },
+          "hash": "a51d12f0667cc4ad4fbb9568f26a993b79c73bcf",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15793$782CBBD1-C1F2-46E8-9226-5041AEE93A88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11636784"
+          },
+          "hash": "4522970d6b5cc11dca2404e22cdf7040ebe5fcc1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15793$4D89E6AC-7230-49B7-9CAA-EAA8B0888A68",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Mochinaka Arms.svg"
+          },
+          "hash": "8fad31c2f580ee5d0f762d196cc491854f559432",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Muromachi period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "?-1417, 室町時代の武将"
+    }
+  },
+  "id": "Q15793",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ashikaga Mochinaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Mochinaka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Mochinaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利持仲"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "足利持仲"
+    }
+  },
+  "lastrevid": 17415450,
+  "modified": "2025-09-16T00:23:28Z",
+  "ns": 860,
+  "pageid": 38072,
+  "sitelinks": {},
+  "title": "Item:Q15793",
+  "type": "item"
+}

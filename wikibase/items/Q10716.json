@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sanuki no Suke"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10716$5D7C0C61-6FAA-4DE5-B2E1-778DBBB7ED1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10716$6B3E437A-6609-4125-9BE4-5518D784A363",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10716$2F084660-6903-47BB-9CC2-D2E0C81CC83E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10161",
+              "numeric-id": 10161
+            }
+          },
+          "hash": "c01525e393d5d51d23602a61da9c80f6a6588285",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10716$095DF120-1512-474B-84F2-9B893AF19DC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10716$5E2878AB-98AC-4DB6-B215-3B3F2F9C4AAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1079-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5849578a6577f9a108b37ceb8f48eb6452b054c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10716$EBCA6C35-9449-4197-9D27-75E8FAD8C34E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1133-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "454bbfb1ef590d80698fd0f73bdaa200479d21e2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10716$9AA693C5-CA26-4A29-B948-51B4AEB0D917",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623617"
+          },
+          "hash": "5a7a6f75be3494fb1e7ed87c4e62feaae10099b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10716$0E501EBA-37E8-4594-9669-A50B8A683CAE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sanuki no Suke Arms.svg"
+          },
+          "hash": "72e63c539a6eff5347bba2fa2eccd5343e639cd3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "escriptora japonesa del període Heian"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanische Autorin und Bedienstete des Tenno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安時代の女官、歌人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver"
+    }
+  },
+  "id": "Q10716",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sanuki no Suke"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Kaneko"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Nagako"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sanuki no Suke"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sanuki no Suke"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Kaneko"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sanuki no Suke"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原長子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사누키노스케"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Kaneko"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "讚岐典侍"
+    }
+  },
+  "lastrevid": 17412454,
+  "modified": "2025-09-15T23:41:11Z",
+  "ns": 860,
+  "pageid": 33116,
+  "sitelinks": {},
+  "title": "Item:Q10716",
+  "type": "item"
+}

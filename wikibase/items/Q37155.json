@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Tsunetō"
+      },
+      {
+        "language": "en",
+        "value": "Oda Tsuneto"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q37155$32F86241-B979-4582-B7AB-B582C9A3260C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41724",
+              "numeric-id": 41724
+            }
+          },
+          "hash": "631f5fcfe9de6bc3d5bc01dc36a08d8a9c828d96",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37155$2EE37AAF-C26B-43DF-9ECA-F5840C551B72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37155$3CA177FB-047A-4677-9F70-ACDAE5ABA695",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37155$639DFEE6-6E20-445E-8854-2CEA19CDD042",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21726",
+              "numeric-id": 21726
+            }
+          },
+          "hash": "f92eda4b3fc2bc59ee799a4e169248181e36c375",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37155$36564A32-80B8-4477-AF3F-D9710ACC0AB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37155$8B3B9E1A-FB14-4B1C-9D9B-3F1914FF4393",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1506-10-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b69133b021ecf202446545aeb16163f9cbf4fb2d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37155$5DECC853-78F3-4B73-BDFB-0D23839074A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608366"
+          },
+          "hash": "3851371463ea91b3b094404403b7ebb09c0a59b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37155$C0814229-819C-483E-85EC-2401516F18CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Tsunetō Arms.svg"
+          },
+          "hash": "774512e7ca448c93cc4f30505ade16f964c270ff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Sengoku period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将。清洲織田家の家臣。尾張楽田城主織田久長の子で、織田藤左衛門家2代当主。官位は丹波守。於田井城主を勤めた"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q37155",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oda Tsunetō"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Tsunetō"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Tsunetō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田常寛"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Oda Tsuneto"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ода Цунето"
+    }
+  },
+  "lastrevid": 17439446,
+  "modified": "2025-09-16T07:21:35Z",
+  "ns": 860,
+  "pageid": 55565,
+  "sitelinks": {},
+  "title": "Item:Q37155",
+  "type": "item"
+}

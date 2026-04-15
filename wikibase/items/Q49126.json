@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nanbu Toshitomo"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q49126$6E5159C4-1073-4705-BA44-1346C682665A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "南部-48"
+          },
+          "hash": "e99ae9231c4be4f878f871133d69133c086d1a54",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49126$CFD612D5-F48B-4166-B2B9-65FAE41463DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49126$CEEB3317-1EBC-4D0D-9A91-D9F415D38263",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49126$746B00F3-37DE-4118-B8B4-B20A6CD5B79A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24328",
+              "numeric-id": 24328
+            }
+          },
+          "hash": "733929e01aa2cf8d6a41fafb059b6a95ef2733b4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49126$56DA68EB-45BD-402D-8660-D5B6B28B3110",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49126$C27CC96E-DB7D-412D-BB68-C8E84EA29E7F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1824-01-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e08c3c8a10ef3064df8aa95294d44fb4a8ef4ae2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49126$95F8FEDA-0140-4222-AA62-02643D5130DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1888-08-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "947756101cc96ff190e790c851c7bfa1b7a9fa3e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49126$C2A2B1A5-2AB7-4ED3-99DC-4C213F3AC540",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8513986"
+          },
+          "hash": "d337367604eb79afd58082791b3bf726784152e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49126$AAB2F34E-D8AD-4660-A0B8-60746F419AD7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nanbu Toshitomo Arms.svg"
+          },
+          "hash": "275435179d8d51add352eee793be6888923e94df",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "12 Jan 1824 - 21 Aug 1888"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代後期の大名。陸奥盛岡藩13代藩主。正四位・甲斐守。南部利済の長男"
+    }
+  },
+  "id": "Q49126",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nanbu Toshitomo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nanbu Toshitomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nanbu Toshitomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南部利義"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "난부 도시토모"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "南部利義"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "南部利義"
+    }
+  },
+  "lastrevid": 17454812,
+  "modified": "2025-09-16T11:03:09Z",
+  "ns": 860,
+  "pageid": 64514,
+  "sitelinks": {},
+  "title": "Item:Q49126",
+  "type": "item"
+}

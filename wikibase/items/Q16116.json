@@ -1,0 +1,303 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "O-hime"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q16116$04551015-1A89-4707-AACE-85E4841C0197",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-41"
+          },
+          "hash": "fb0d0c0fa1fdee5d12f2556af7e0207a4cb80fbd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16116$D0DD28C3-03DC-4D13-8F83-B9318D8CC71F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16116$AE6EA709-E04C-47D0-9A89-28FE5A796D1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16116$5A4D3363-3428-4071-9F53-E42AAFD5A413",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15469",
+              "numeric-id": 15469
+            }
+          },
+          "hash": "d54d920a85e2adfabc2cf3279ce1935ede48ee11",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16116$CE58AF87-2961-40C2-A639-B5B851DE77BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17090",
+              "numeric-id": 17090
+            }
+          },
+          "hash": "f16aa405e4782fd22d9ce10fbc1258446faed498",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16116$B524C69F-BCE6-4F9D-AFC3-CEB46E7ECB43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17102",
+              "numeric-id": 17102
+            }
+          },
+          "hash": "ea4c74898f95515af8f951387340984e12841343",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16116$0EBB0C6C-1284-4EA1-943B-E6B3570FA68A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16116$3A36127C-EFB8-4243-9B00-55F5394841FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1585-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "faa0fe10c7e7555f6c341d6c670752d8f828cd3e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16116$5C4DF075-6328-47E5-823E-CB8EB4A571CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1591-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc7f2acc4325954d8cfc05c940a38357c60298a7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16116$80A6A426-439C-499D-8DB8-646E9BECA148",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11459592"
+          },
+          "hash": "637330c39a91d153cdcb5227a0bf161fddf8bbc6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16116$49F175CA-C8F9-4F6F-9125-589D119AC212",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "O-hime Arms.svg"
+          },
+          "hash": "6d48a020bf39fc062dddfa62d2647a608fb0149f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera Nobukacua Ody"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Oda Nobukatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代の女性。織田信雄の長女。徳川秀忠の最初の正室。早世"
+    }
+  },
+  "id": "Q16116",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "O-hime"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ohime"
+    },
+    "en": {
+      "language": "en",
+      "value": "O-hime"
+    },
+    "es": {
+      "language": "es",
+      "value": "O-hime"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوهیمه"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小姫"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오히메"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "O-hime"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "O-hime"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "О-хіме"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小姬"
+    }
+  },
+  "lastrevid": 17415766,
+  "modified": "2025-09-16T00:28:18Z",
+  "ns": 860,
+  "pageid": 38383,
+  "sitelinks": {},
+  "title": "Item:Q16116",
+  "type": "item"
+}

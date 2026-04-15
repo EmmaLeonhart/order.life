@@ -1,0 +1,444 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anna of Trebizond //"
+      },
+      {
+        "language": "en",
+        "value": "Anna of Trebizond"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q46207$0309284D-765B-4ECC-BBC1-0C7F85B78AC3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764359"
+          },
+          "hash": "7d5ef3c942e4eb27e576e48de94b7fb8db444b7b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46207$84A40626-B4B1-43F0-B8A3-48372DD8652F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46207$ADB06A36-D3AC-4AE4-86E6-9CFF6249EA93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q46207$B57FC974-2662-4A5D-BC1C-65A4395B7461",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Anna_of_Trebizond_(2)"
+          },
+          "hash": "350677f636fd9b9e8e32ae45ebaa9a5c429ab3a9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q46207$CDD701B1-C11A-44D9-B878-A75A36E1C215",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21913.htm#i219122"
+          },
+          "hash": "cedb5033e3764057b82bf62b0ad05d22b7cdc3f7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46207$C962E869-5810-4922-AAD2-9DC354CE81EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43298",
+              "numeric-id": 43298
+            }
+          },
+          "hash": "2f2b37b73c9a18629a36ad79871c6c94f9536290",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46207$9877373E-8617-41A5-BD3E-09189E3C8F2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46195",
+              "numeric-id": 46195
+            }
+          },
+          "hash": "30e60b90088f4964578bbe0f40568a766fa338ab",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46207$91D6D11B-7993-432D-9722-C22D04743625",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46207$337BF9D0-4F70-46B0-ABB7-A2C5E971D5B5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "891a8fd1e3ea1f5ffde392231c3c7525a14fc1d6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46207$72497C67-8B8F-4F3D-A1BF-5BBB104857FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1342-09-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eabe25020eb1254575eb06cdda35d341d2318318",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46207$E8CBE6AC-EB05-4900-B4B0-35308721D52F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q439701"
+          },
+          "hash": "6c4aa21903183e3261c0c7c7ae7a1c2f1d718590",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46207$44B574F7-9064-4252-8397-83C9C73A79DC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anna of Trebizond Arms.svg"
+          },
+          "hash": "fc83721a3ce787f35d6e772828db7f8a0c16a622",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "трапезундска императрица"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperadriu de Trebisonda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiserin von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress regnant of Trebizond, nun (1312-1342)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice régnante de Trébizonde (1341-1342)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Emperadora e Autócrata de Todo o Leste e Perateia"
+    },
+    "he": {
+      "language": "he",
+      "value": "שליטת האימפריה של טרפזונטס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "apáca"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zuster uit keizerrijk Trebizonde (?-1342)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "императрица Трапезунда"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kejsarinna"
+    }
+  },
+  "id": "Q46207",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "آنا الطربزونية"
+    },
+    "az": {
+      "language": "az",
+      "value": "Anna (Trabzon imperatriçası)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Анна Велика Комнина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Anna de Trebisonda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Anna Trapezuntská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Anna Anachutlu Komnene"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άννα Μεγάλη Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anna of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Anno de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ana Paleóloga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anne de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ana de Trebisonda"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנה מטרפזונטס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ana Anachoutlou"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Anna trapezunti császárnő"
+    },
+    "it": {
+      "language": "it",
+      "value": "Anna Anachoutlou"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンナ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანა (ტრაპიზონი)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Anna"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Anna Anachoutlou"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anna of Trebizond"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Anna Anachutlu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ana da Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ana da Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анна Великая Комнина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ана Велика Комнина"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ана Велика Комнина"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Ana Velika Komnina"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Anna av Trabzon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzonlu Anna Anakutu Komnene"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ганна Комніна"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安娜·阿纳卓特鲁"
+    }
+  },
+  "lastrevid": 17451076,
+  "modified": "2025-09-16T10:09:18Z",
+  "ns": 860,
+  "pageid": 62335,
+  "sitelinks": {},
+  "title": "Item:Q46207",
+  "type": "item"
+}

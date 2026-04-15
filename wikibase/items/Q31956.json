@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Deokcheon //"
+      },
+      {
+        "language": "en",
+        "value": "Prince Deokcheon"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q31956$3DD33654-46A5-4080-9212-F10434DF7486",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31956$637D6BB9-3810-4AE5-8AE7-AA473322F4CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31956$918330A8-0517-4F65-9B11-A21992DE7BF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31125",
+              "numeric-id": 31125
+            }
+          },
+          "hash": "a7f9facf835db4810dfd08b6a0d69014c9af01c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31956$D307F7E7-D818-4C96-9ECA-B279B57D17DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31956$748B4DB9-45D3-424A-88DE-7919B233B8F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1397-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e944522975f706aa2d9d2e86d580d6538fee0840",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31956$19FD2C33-EF06-4C24-858F-36E03F4E9BA5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1465-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49ea4562e2f05439df7d1ab5ed48e9ae2d797c46",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31956$A3E610F9-A5C3-43F3-992A-F38F1239259E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12592850"
+          },
+          "hash": "264180b8f96622ff6c0db20036e90c2cfe5317a4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q31956$127D4C79-2A69-45C2-AB49-AAA6976D18E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Deokcheon Arms.svg"
+          },
+          "hash": "24b5a6c21ef8956b75afe4654c60b64ccfc2a1fa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Joseon prince (1397 - 1465)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 정종의 왕자"
+    }
+  },
+  "id": "Q31956",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Prince Deokcheon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Deokcheon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Prince Deokcheon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李厚生"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "덕천군"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đức Tuyền quân"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德泉君"
+    }
+  },
+  "lastrevid": 17432080,
+  "modified": "2025-09-16T05:34:11Z",
+  "ns": 860,
+  "pageid": 51680,
+  "sitelinks": {},
+  "title": "Item:Q31956",
+  "type": "item"
+}

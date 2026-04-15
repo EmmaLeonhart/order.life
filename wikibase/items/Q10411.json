@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Tsunenaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10411$7C3AB479-7ACD-406A-97B6-43AA41694F5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10411$AFBAFFFD-8432-495B-B884-A38EE60182AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10411$EAA62CE2-063D-4F5A-98A4-4AC92E0AA8A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9902",
+              "numeric-id": 9902
+            }
+          },
+          "hash": "7aa5067ed2d6b71f382d26cd3bdaad9ebe52e8b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q10411$AB277FC2-DF29-4C1E-8773-4C215C0BBACE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9952",
+              "numeric-id": 9952
+            }
+          },
+          "hash": "8394171cddb7d98be0cbbbbe474fc83b4adc4845",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10411$0DC4038F-AA6A-44DC-81E5-08292B6EDB26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10411$89604FA5-CDB6-4124-A632-FEAFE47A6302",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4d95d13c4f9a70aac522bcef9b84ee6effbf891",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10411$A1D27EFB-F3C0-47BE-980A-540FF8B2227D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564244"
+          },
+          "hash": "4ddf3c52da84b2e61526c5a277c8ba0218bbdfeb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10411$5455D3E3-2163-495D-872B-2A4188BC7058",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Tsunenaka Arms.svg"
+          },
+          "hash": "656ff1a6f3fd4318da1649a569ee513e39043b2f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "metropolitan area in the Netherlands"
+    }
+  },
+  "id": "Q10411",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Tsunenaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源経仲"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿納姆-奈梅亨都會區"
+    }
+  },
+  "lastrevid": 17412244,
+  "modified": "2025-09-15T23:38:07Z",
+  "ns": 860,
+  "pageid": 32817,
+  "sitelinks": {},
+  "title": "Item:Q10411",
+  "type": "item"
+}

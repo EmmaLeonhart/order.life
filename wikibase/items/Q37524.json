@@ -1,0 +1,408 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Doquz Khatun //"
+      },
+      {
+        "language": "en",
+        "value": "Doquz Khatun"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q37524$933B71FC-56F0-42DB-8BDF-3F7F7B288026",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279414"
+          },
+          "hash": "79ecf82a139433d4a0f801653096b71cfd0358ff",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q37524$5A820663-09AA-4118-878B-79C08F2C9501",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00298898"
+          },
+          "hash": "b5a0da132d52d09c631cc50bc25441c4d1cec371",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37524$B815B692-5AB3-4ECD-ABC2-1B331C297169",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37524$FC4F2835-7FC8-4A39-9B75-AC62467BF33D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37524$60FA0F7A-5C39-4038-861F-C9BA52FCE698",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36518",
+              "numeric-id": 36518
+            }
+          },
+          "hash": "9077dd9112d0fc7b0e32f515f514cb492cf5e878",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37524$BABBC738-9EB0-40DA-BE2A-90A6C25A9E39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39077",
+              "numeric-id": 39077
+            }
+          },
+          "hash": "5cec54dc3bb3543c551124df37c763acd396551d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37524$22D82231-DE63-4A09-9AA8-9CD966E2DC06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39081",
+              "numeric-id": 39081
+            }
+          },
+          "hash": "fe7c55606017fcf9a1e122dacd5f2974fe21031a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37524$C4ACA03A-4BF5-40E4-ABA0-EEE334D52417",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37524$B5253035-8959-4E01-BFB9-C94E7982E231",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37524$126FA652-0C41-4891-A53A-6E460054FD21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1265-06-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fd944519a83a538556bfb4a8fc35a8cd461a084d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37524$384FB3A3-BC35-48E1-8552-D6C75B2B3609",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q154196"
+          },
+          "hash": "81afe3e8f7e39c57c803ecb342946500d442f316",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37524$59466094-9275-4B65-B324-49B3B45E1226",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Doquz Khatun Arms.svg"
+          },
+          "hash": "f79db4625c197d944bf240859a99901146ae444c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "keraitische Prinzessin und Ehefrau des Ilchans Hülegü"
+    },
+    "en": {
+      "language": "en",
+      "value": "13th-century Keraite princess and consort to Ilkhanate Khan, Hulagu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ケレイト族出身の13世紀の王女。フレグの大ハトゥン。"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "keraitisk prinsessa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "13. yüzyılda yaşamış ve Moğol hükümdar Hülagû ile evli olan bir Kerait prensesi"
+    }
+  },
+  "id": "Q37524",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "دوقوز خاتون"
+    },
+    "az": {
+      "language": "az",
+      "value": "Doqquz Xatun"
+    },
+    "be": {
+      "language": "be",
+      "value": "Дакуз-хатун"
+    },
+    "de": {
+      "language": "de",
+      "value": "Doquz Khatun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Doquz Khatun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oroqina Khatun"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دوقوز خاتون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Doquz Khatun"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Doqouz Khatoun"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Doquz Khatun"
+    },
+    "he": {
+      "language": "he",
+      "value": "דוקוז חאתון"
+    },
+    "id": {
+      "language": "id",
+      "value": "Doquz Khatun"
+    },
+    "it": {
+      "language": "it",
+      "value": "Doquz Khatun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ドクズ・ハトゥン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Doquz Khatun"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Doquz Khatun"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dokuz-chatun"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Докуз-хатун"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Doquz Khatun"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Dokuz Hatun"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Докуз-хатун"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "دوقوز خاتون"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Doquz xotun"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "脫古思可敦"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "脱古思可敦"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "脱古思可敦"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "脫古思可敦"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "脫古思可敦"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "脱古思可敦"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "脫古思可敦"
+    }
+  },
+  "lastrevid": 17439984,
+  "modified": "2025-09-16T07:29:20Z",
+  "ns": 860,
+  "pageid": 55841,
+  "sitelinks": {},
+  "title": "Item:Q37524",
+  "type": "item"
+}

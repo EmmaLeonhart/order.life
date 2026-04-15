@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tomoko joō //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q41348$783D338D-ECC0-424B-9DE1-87B98C54D63E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "14791"
+          },
+          "hash": "1d0adee81e69c59804c42893923b0a37054a3fcf",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q41348$045C6910-C8CD-4E0E-BD54-92E90506C4DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41348$559BFCEB-00DA-4123-B5F8-0CC02CF7A55D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q41348$5CB933BC-6C97-4B2D-8433-F34DAFA90B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17576",
+              "numeric-id": 17576
+            }
+          },
+          "hash": "fbb96044692b47ff2ae3fd6516d3e88ba22297a4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q41348$13D0FDF0-6747-4789-9F40-6395E26938CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41336",
+              "numeric-id": 41336
+            }
+          },
+          "hash": "4b7f5072e827061898e9c58af6c9f0e04bfe2054",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q41348$E20BE1D9-962E-485B-86D1-F594087CC1DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43747",
+              "numeric-id": 43747
+            }
+          },
+          "hash": "7d8ed609243e7be043e3599668c2245356f48e86",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q41348$19F35282-37C0-4F51-B54F-92E4A0B1D3DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q41348$10AA15FE-60E2-4B94-8F99-BE23EC19FF64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1738-03-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ffe8cf85d06d8f8f819fa0cca0a7dd08c765db19",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q41348$752E6736-C953-4D81-AC31-DBD1CBE73BD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1771-09-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "141278764393878c0662aa9902475d7bb46b6af1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q41348$5EF17058-DB90-4931-9981-877183B56D6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11387064"
+          },
+          "hash": "71faee9738dece6d098051fd39f0b9b6be9aa777",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q41348$262533D6-6BA9-48F8-A2C5-CBD1DFBC5EDE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tomoko joō Arms.svg"
+          },
+          "hash": "ee5daee3cc0280f978f3bad4b78b9cb9f784ceda",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka Ieharua Tokugawy"
+    },
+    "en": {
+      "language": "en",
+      "value": "spouse of Tokugawa Ieharu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代の女性皇族、征夷大将軍・徳川家治の正室"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에도 시대 후기의 황족, 간인노미야 나오히토 친왕의 6녀, 도쿠가와 이에하루의 미다이도코로, 종3위, 증종1위"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "супруга Токугавы Иэхару"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德川家治的正室"
+    }
+  },
+  "id": "Q41348",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tomoko joō"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tomoko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tomoko joō"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tomoko joō"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توموکو جوئو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "倫子女王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이소노미야 토모코 여왕"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томоко-дзё"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tomoko joō"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "倫子女王"
+    }
+  },
+  "lastrevid": 17444878,
+  "modified": "2025-09-16T08:39:02Z",
+  "ns": 860,
+  "pageid": 58699,
+  "sitelinks": {},
+  "title": "Item:Q41348",
+  "type": "item"
+}

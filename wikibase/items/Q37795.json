@@ -1,0 +1,159 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "長坂信宅"
+      },
+      {
+        "language": "en",
+        "value": "Chang Ban Xin Zhai"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37795$0360C21F-C3CD-4670-B357-853D552B2DC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37795$A9294CF1-534D-4CB1-8B21-E8B79056B0CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37795$E79D8904-F9D8-4E8C-AFA6-35ADD6B5E5F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20055",
+              "numeric-id": 20055
+            }
+          },
+          "hash": "372ab331aa373711caacab38c6ef5b83dffb194d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37795$C5F729FB-67EB-41A9-AB83-6BD5401AD88B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37795$EF542D51-BC97-4123-AA44-FEACB3D823B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1542-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e04452e161488a28000a9e8e6d3817be5c5fc27f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37795$74987C91-2D02-49EB-98DD-ADC4ABB7842C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24867249"
+          },
+          "hash": "27ffaa92d1ce8cfc61918d082ab75ee068d347f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q37795",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "長坂信宅"
+    }
+  },
+  "lastrevid": 17440384,
+  "modified": "2025-09-16T07:35:20Z",
+  "ns": 860,
+  "pageid": 56043,
+  "sitelinks": {},
+  "title": "Item:Q37795",
+  "type": "item"
+}

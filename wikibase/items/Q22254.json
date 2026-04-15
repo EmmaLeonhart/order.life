@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "毛利就詮"
+      },
+      {
+        "language": "en",
+        "value": "Mao Li Jiu Quan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q38401$38F3DBF2-3D51-4085-93B0-7D5ECE624106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34153",
+              "numeric-id": 34153
+            }
+          },
+          "hash": "c4c4dc091b9847b5cef4757261bdd526905d19ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38401$D0AA5415-EF9B-42EC-A851-003847780D2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38401$884FC89D-484A-44AC-82F9-FC8916CD0E84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38401$9EDF3FB0-50EA-4927-B246-FC7381AF8D89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38401$A64248FE-3924-4B82-9916-BF1CE90CC29C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1631-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e01ff33a64888829ce4ac80010f6e7c64c45cf2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38401$5ADFD4A3-CCFC-4937-B619-AA4E3BD478FC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1714-05-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6527da8c0f8ef23dcbf27eee9f864784878a1fc0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38401$FCD65DE7-FA5B-43D2-8463-2BB60695AC55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11547611"
+          },
+          "hash": "ea473e34bc61ecae36c7238b6fc6d40b6f69596a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "大野毛利家2代。子に毛利熊之助"
+    }
+  },
+  "id": "Q38401",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "毛利就詮"
+    }
+  },
+  "lastrevid": 17441046,
+  "modified": "2025-09-16T07:44:39Z",
+  "ns": 860,
+  "pageid": 56496,
+  "sitelinks": {},
+  "title": "Item:Q38401",
+  "type": "item"
+}

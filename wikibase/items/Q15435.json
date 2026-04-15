@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hirosawa no Tsubone"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15435$B03A5298-C81D-4EA6-BFD3-9C9DB2240F13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15435$48243E73-D854-4930-95B1-CAD9D02A47BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15435$7BE057AF-F557-4C36-BD0E-72349293EAAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15008",
+              "numeric-id": 15008
+            }
+          },
+          "hash": "ae28e14afc535574ada2ffef43e9fd6a75917567",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15435$922778CB-A1C2-497B-980A-38AAA16EE21C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15435$D6D00DC5-D647-4287-93F5-3B74E97A0CD9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1573-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc31ccfb3061ac8e321eb328689b9ad43f2e7c4b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15435$1AF08E33-BADE-43E4-9555-586628EF15AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1636-05-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e60665f0d40235e552412f75f0dd054088e74980",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15435$BDCB1F68-4847-4AB2-B1F5-6C5BC5C80A92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11485492"
+          },
+          "hash": "6aa5ca935b53f30602d2acdbd29fcba6f1426cb3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15435$2917E0CF-EDEE-4DCD-BDF5-72748A05B1FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hirosawa no Tsubone Arms.svg"
+          },
+          "hash": "d66e551b171597c4ad5dbda10812e2ef532ca6d1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka Hidejošiho Tojotomiho"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "名護屋経勝（肥前垣添城主）の娘で豊臣秀吉の側室"
+    }
+  },
+  "id": "Q15435",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Cubone Hirosawa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hirosawa no Tsubone"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هیروساوا نو تسوبانه"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "広沢局"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hirosawa no Tsubone"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "廣澤局"
+    }
+  },
+  "lastrevid": 17415170,
+  "modified": "2025-09-16T00:19:37Z",
+  "ns": 860,
+  "pageid": 37722,
+  "sitelinks": {},
+  "title": "Item:Q15435",
+  "type": "item"
+}

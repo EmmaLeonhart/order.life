@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nobunori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16929$CDA37F21-E53C-4F08-833B-7FEA3A2D2FCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16929$B808BEB5-B170-44EC-BDEB-0ADDCE5C7FE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16929$F8974681-8D69-404E-AB8E-F6F0B02D0DB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16027",
+              "numeric-id": 16027
+            }
+          },
+          "hash": "d4af7107393791f91896e4761f10c35900518d74",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16929$837906DC-1B75-4AF1-A946-077FAB80B061",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16929$4D2D3B80-9870-497D-B452-6E387B751D25",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1599-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1384827cc92e1b65c86d728b55adec59adb952c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16929$ABC6DFCD-FC66-4510-8B1F-D493AA02FF8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1630-02-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "001d00cb90baee6314ed5a77ccaf3ba1821215c4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16929$A39F7F0A-E1A6-4AA8-8743-94B82C90A6CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608265"
+          },
+          "hash": "d8ed3b75cd6eb89acb3eac53814b4bdefc24defd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16929$CC51EABC-3685-4739-814F-23C8EF19AB21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nobunori Arms.svg"
+          },
+          "hash": "0b4f6c6c00110d652a13a8f5b9444eff3290cf76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q16929",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oda Nobunori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田信則"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобунори Ода"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Oda Nobunori"
+    }
+  },
+  "lastrevid": 17416484,
+  "modified": "2025-09-16T00:42:37Z",
+  "ns": 860,
+  "pageid": 39177,
+  "sitelinks": {},
+  "title": "Item:Q16929",
+  "type": "item"
+}

@@ -1,0 +1,482 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Maro"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q7393$1D3A4DB5-9D94-4CCD-A897-D3BD83B333CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "812486"
+          },
+          "hash": "2e9bbcbdf89b9ed11f2440fde3112c70194ce31a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7393$9D31D0BF-02B1-4FD0-B4A9-BCC2EAE11308",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7545",
+              "numeric-id": 7545
+            }
+          },
+          "hash": "cea3c2aa898db6eadc82ed5dd0fc2220919e43ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7393$2BB64F33-5DFC-4604-8A45-7B2D56BE3FBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7546",
+              "numeric-id": 7546
+            }
+          },
+          "hash": "d796cf88ec8838b401d4a90fd8e79146936965f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7393$C0CFB792-F1BF-48B0-9A5D-9175C2F8C049",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7547",
+              "numeric-id": 7547
+            }
+          },
+          "hash": "8e7761761d9b34b249290854ae3d1e717a1fcd6b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7393$AE0256FB-1308-4012-B47F-B9E68CA5818A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7393$414D287A-4FA1-41EC-81AE-B82D09343053",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7393$B7F328FE-D358-4DFB-9575-1637ED037345",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7295",
+              "numeric-id": 7295
+            }
+          },
+          "hash": "16e3f980ac71b733406fde77b49f149440e6e3e6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7393$C36494CF-C0A7-4378-A670-F9EA87982A31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7296",
+              "numeric-id": 7296
+            }
+          },
+          "hash": "4d500813d677be1dc983ebc32ad9926a7585ee9c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7393$79259FFD-CE49-4202-A55B-F23C57191569",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7393$1F0D2D6C-1B0F-4C66-9326-6546C6A81D49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0695-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1775c76d69aa5f2b9d29a2405fbaa040bd3a997e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7393$ED24B23D-2FF7-4188-AC28-BD86A49B49BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0737-08-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd9553d86ab9bab9e474777533c21553898f03de",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7393$E1847B7A-1500-4BDC-819E-D10C46BDF88C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Muchimaro and Maro.png"
+          },
+          "hash": "3011ad60c15821dc6a82857409eabe72e6e79775",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7393$AE049CEC-1A87-4276-A990-E34A0A950E68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q426317"
+          },
+          "hash": "4020e15ab7549774a88931d71255ece4da93921e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7393$5A06B4D5-D8AA-43BF-98C3-8ECB0AF9FA2E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Maro Arms.svg"
+          },
+          "hash": "65af45e63406ff5e1400a66aba34e27c28cc2434",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (695–737)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "noble japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský šlechtic"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese noble (695-737)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Seapánach (695-737)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の貴族・政治家"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Japan (0695-0737)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (695 – 737)"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q7393",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Maro"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Maro"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fudžiwara no Maro"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Maro"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Maro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Maro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو مارو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Maro"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Maro"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Fujiwara no Maro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fujiwara no Maro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原麻呂"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Maro"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Maro"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Maro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Maro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Маро"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fujiwara no Maro"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AFujiwara no Maro"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фудзівара но Маро"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Maro"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Fujiwara no Maro"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "藤原麻呂"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原麻呂"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原麻呂"
+    }
+  },
+  "lastrevid": 17407365,
+  "modified": "2025-09-15T22:34:05Z",
+  "ns": 860,
+  "pageid": 29887,
+  "sitelinks": {},
+  "title": "Item:Q7393",
+  "type": "item"
+}

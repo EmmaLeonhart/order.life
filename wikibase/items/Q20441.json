@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nabeshima Naotomi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20441$68C80E86-8CF5-42D2-9F24-9A472A8974CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20441$1AB24425-C074-4A33-83D7-3CB8ADED7147",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20441$886C0E4F-AFB3-47DE-9A6A-47214FB45453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18711",
+              "numeric-id": 18711
+            }
+          },
+          "hash": "1df7d0200ac21555de6c3e8de2fc3570ee9298f9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20441$E1735B66-B6CB-48D1-BE9F-06DD68CE29F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20441$AF5D18A6-D727-4305-9361-3354691CB214",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1673-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "35c31d75f89ed2618208ae68b4bbcf35ff452988",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20441$3E8B7B3C-1342-45F2-8E80-C5DBDEB75EB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1694-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "673f970f38b16ac3a7a0d60fa092b9eca8512b87",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20441$798DE768-82D7-4054-A5C1-4414A249016A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11650668"
+          },
+          "hash": "3d66b47e2a6df160da54b11d40e8ab58341b8513",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20441$12A39499-D10A-4E38-9AD3-E969F5AE3BB8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nabeshima Naotomi Arms.svg"
+          },
+          "hash": "7b9fe78571f8c0fb641a88f7f9cbda383d2abc95",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q20441",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nabeshima Naotomi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鍋島直富"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Набэсима Наотоми"
+    }
+  },
+  "lastrevid": 17419528,
+  "modified": "2025-09-16T01:58:13Z",
+  "ns": 860,
+  "pageid": 42519,
+  "sitelinks": {},
+  "title": "Item:Q20441",
+  "type": "item"
+}

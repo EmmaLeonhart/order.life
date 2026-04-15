@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ting Tian Zhong You"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q27906$EB8AFF5C-E73D-4C3B-BB2E-EB328114ED89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27721",
+              "numeric-id": 27721
+            }
+          },
+          "hash": "20cd46e85ad4ba5f2112323a55c20d0b401ef98a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27906$6DE1FE91-085C-4409-BDFA-A33BA021F12D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31276",
+              "numeric-id": 31276
+            }
+          },
+          "hash": "6941823ee054e90d5ae2a0d8815ae78a6b13fe37",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q27906$C01C0D23-6FBE-4BBA-98D3-40792A87A1E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27906$A21132C7-8B98-4D67-9AF2-3B699E80C979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q27906$72964E9B-51B6-40CA-87C5-02487BFB3E1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16363",
+              "numeric-id": 16363
+            }
+          },
+          "hash": "dc58801ae82f4d5364dda24f37ee3ae67023ce43",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27906$E1638721-D643-4C0C-BE84-78BDFB25B137",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27906$7C6B1000-E386-44DC-AD0F-AEF90589F40B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1378-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd869902e9497234c19304f85b0d39050781fe26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27906$6EA2FA90-377C-4567-A6DF-8A7FEA246E36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1440-08-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f8b8107d428ed11aa23c66409fb32dc0dbb7a832",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27906$09A49461-06B7-4021-A5CF-5E396D81FB5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108840904"
+          },
+          "hash": "e92edb7a9536c22e9d3492497be51cf0229a7f9d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "正三位・権大納言。出家。庭田家14代。子に日応（僧正。妙蓮寺。法華宗）"
+    }
+  },
+  "id": "Q27906",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "庭田重有"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "庭田重有"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "庭田重有"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "庭田重有"
+    }
+  },
+  "lastrevid": 17427230,
+  "modified": "2025-09-16T04:24:14Z",
+  "ns": 860,
+  "pageid": 48691,
+  "sitelinks": {},
+  "title": "Item:Q27906",
+  "type": "item"
+}

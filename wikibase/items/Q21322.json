@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Yuzhen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21322$5A998039-BE99-453E-8D65-C18F38C9B79E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21322$48FFC972-7D1C-419D-9CFC-65670D06957D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21322$691521E7-92A4-414E-B63B-7DBBBACB74E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19352",
+              "numeric-id": 19352
+            }
+          },
+          "hash": "944127702063018bb60e31a520e19f499eb1405e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21322$F3A16648-6966-45C8-A148-CDFF4D366356",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21322$666FEC7B-F8D1-40E5-B4A4-49C2EF8ABA41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0691-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c7d043dc2342ef75a644249eaa348b88d45d624",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21322$85E512C9-9E15-4BC5-BAE7-E16C7856BB0D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0762-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2887bf4eccd45b77de6b79db900019d148cb8962",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21322$9A07DAE5-D54C-46A8-97CA-379B3D2D96D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q13422714"
+          },
+          "hash": "ce02d50539f74f1d0ff637df6ba0a6f717798380",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21322$F54C824B-B9B7-476F-A3F1-CFE74FEFCF57",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Yuzhen Arms.svg"
+          },
+          "hash": "b9f3fe1e5f623c31fc7858873b091f6bd3cc57c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daughter of Emperor Ruizong of Tang"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tang Zsuj-cung császár lánya"
+    }
+  },
+  "id": "Q21322",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Γιουζέν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Yuzhen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Yuzhen"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jü-csen hercegnő"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "玉真公主"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "玉真公主"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "玉真公主"
+    }
+  },
+  "lastrevid": 17420352,
+  "modified": "2025-09-16T02:16:48Z",
+  "ns": 860,
+  "pageid": 43362,
+  "sitelinks": {},
+  "title": "Item:Q21322",
+  "type": "item"
+}

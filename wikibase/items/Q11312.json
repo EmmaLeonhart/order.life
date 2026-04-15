@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Toki Mitsusada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11312$222AAB59-2109-4489-98CD-A0C5DEEA8C3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12145",
+              "numeric-id": 12145
+            }
+          },
+          "hash": "feb0b7b7b60cc0aa12e97a3b0ee2164fe7c950ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11312$FED908F4-18A7-4A0A-B0A8-9CA8F3755A7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12144",
+              "numeric-id": 12144
+            }
+          },
+          "hash": "7985dde2e920f27ec2693282a209951b76b5f757",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11312$0DE77CA2-F8FD-4D0E-9911-FD050353BDF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11312$048E6EB0-720D-4852-AAE5-16E0A2186305",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11312$6325D828-1414-481D-BDCB-65B4085CB680",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12137",
+              "numeric-id": 12137
+            }
+          },
+          "hash": "b03ac19f8827b5c1ff36ec12dd3dbdbd8cfbb23e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11312$C064D005-AAB6-4DB0-9081-BC7954B4FBF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11312$192C7179-2EDE-483B-92F5-00E9B1689493",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1281-09-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d6aebb119abce59e1a1f86650a43c94de63cc5a4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11312$3677B338-B9A3-4203-8C55-3771734713DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11423359"
+          },
+          "hash": "0e7257425c575d2fbfb93abe783738d39728f23b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11312$FE32DBEF-8DD2-40D5-B34A-AF5B158133FE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Toki Mitsusada Arms.svg"
+          },
+          "hash": "ef49b2269da2fb53bd6137058865f11c97d84f15",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期の武将。美濃土岐氏3代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q11312",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Micusada Toki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Toki Mitsusada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土岐光定"
+    }
+  },
+  "lastrevid": 17412882,
+  "modified": "2025-09-15T23:47:44Z",
+  "ns": 860,
+  "pageid": 33686,
+  "sitelinks": {},
+  "title": "Item:Q11312",
+  "type": "item"
+}

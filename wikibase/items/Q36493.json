@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lu Ming Sheng Zi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q36493$67EC1059-9CB5-45D5-9221-ED50AD3B2A8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41196",
+              "numeric-id": 41196
+            }
+          },
+          "hash": "4ead957ffa502b1cc631242ad24e037009760258",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q36493$A037CE8C-BA76-48E3-BCFD-4936ADD7A504",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36493$2D5DDA5C-57FD-4904-A3E2-DBE00A893A92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36493$A112E910-BD46-41F5-AA6D-49319FA8AF7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32165",
+              "numeric-id": 32165
+            }
+          },
+          "hash": "3a7b191b0d223927c9e9aab4e3eb801e4204abe9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36493$7958DA16-A1EF-4BCC-92BD-B54E4900DCB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36493$23FB3C3C-CEA9-4929-B119-3884DF87683A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1482-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2b504cf2986fc5b4387c39e8cfffe548ec1cf3e3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36493$75F9E6D7-C751-4F21-99E0-D9DAE01D1650",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1521-03-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "adf3367bc76afc8c4014ee6dac22da12637fe387",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36493$92F9AAFF-3687-4B1C-9E90-529323E12477",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11625149"
+          },
+          "hash": "10bd0d46d0c3ce2b9d9fc61990269d291435f801",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "zh": {
+      "language": "zh",
+      "value": "日本战国时代芦名氏第14代当主"
+    }
+  },
+  "id": "Q36493",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "蘆名盛滋"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "芦名盛滋"
+    }
+  },
+  "lastrevid": 17438580,
+  "modified": "2025-09-16T07:09:05Z",
+  "ns": 860,
+  "pageid": 55071,
+  "sitelinks": {},
+  "title": "Item:Q36493",
+  "type": "item"
+}

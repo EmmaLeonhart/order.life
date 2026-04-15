@@ -1,0 +1,390 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Baraq //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q43063$B7520E8E-0EEE-4B8A-B26F-E0290449B47F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00361816"
+          },
+          "hash": "7ab77862078f272334ee5bc0bdadd19096f6674f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43063$DDF53842-2525-4E1A-951B-998BA80AC25D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45760",
+              "numeric-id": 45760
+            }
+          },
+          "hash": "8be06e95e13fcdad9887e9f4f089e3144074f01d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43063$24C9E49B-9B62-481F-8583-7CA2A10B1350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43063$69DDA1A5-40C1-4814-8CB3-EF12A1B5282C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43063$03A35C62-1692-4C3C-ACCF-FB5D427A35D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40843",
+              "numeric-id": 40843
+            }
+          },
+          "hash": "5723bbf0d8a9ec8c7974b122e4639e828edcada9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43063$7F892417-6783-4EEE-8026-17CE50A28F34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43063$D47337BB-B0F3-4131-81D8-F8CEB078C9FC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43063$CC428230-9452-4104-A008-275D5381C1AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1271-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6dfef472a20942465135850f9c92479610d1547a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43063$60BC0132-988C-41B0-9D24-6DD2FBB16EFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1341161"
+          },
+          "hash": "9604a90a66538c693643ccb06fce6350b9cb3bd3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43063$278EAE21-592A-4EF9-9214-135B9A0049D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Baraq Arms.svg"
+          },
+          "hash": "28a844925ad2918e06c04f021ccf41af97b11c54",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "líder militar mongol (1250–1271)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মোঙ্গল সাম্রাজ্যের মুসলিম শাসক"
+    },
+    "en": {
+      "language": "en",
+      "value": "Khan of the Chagatai Khanate (r. 1266–1271)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan de Djaghataï"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "चुग़ताई ख़ानत का राजा था।"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kan uit Mongolië (?-1271)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "chan Czagataidów"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Çağatay Hanlığı Hanı (1266-1271)"
+    }
+  },
+  "id": "Q43063",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غياث الدين باراق"
+    },
+    "as": {
+      "language": "as",
+      "value": "গিয়াথ আল-দিন বাৰাক"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Барая хан"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "গিয়াসউদ্দিন বারাক"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Burak Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Baraq"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ghiyas-ud-din Baraq"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "غیاثالدین براق"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Baraq"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Baraq"
+    },
+    "he": {
+      "language": "he",
+      "value": "באראק"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "गयासुद्दीन बाराक़"
+    },
+    "it": {
+      "language": "it",
+      "value": "Barak Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "バラク"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "바락"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Барак"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Baraq"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Barak-chan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Борак-хан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Baraq"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Барак-кан"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கியாசுதீன் பரக்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Бароқхон"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gıyaseddin Barak"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "باراق"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Барак-хан"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "غیاث الدین براق"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Gilsaddin Barak"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "八剌"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "八剌"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "八剌"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "八剌"
+    }
+  },
+  "lastrevid": 17447044,
+  "modified": "2025-09-16T09:09:30Z",
+  "ns": 860,
+  "pageid": 59986,
+  "sitelinks": {},
+  "title": "Item:Q43063",
+  "type": "item"
+}

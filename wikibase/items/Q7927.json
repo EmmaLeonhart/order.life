@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ise no Tsugiko"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7927$548684ED-923C-46DB-A4C4-2DEB82C0E72D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7927$721473EE-CAC1-4E1C-A6D8-444B5F6D128F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7927$7768C9C1-FB7C-4555-8060-FBBCDB87C4F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7712",
+              "numeric-id": 7712
+            }
+          },
+          "hash": "11fc1cbe21ab319ecfa193f24f4692072dc58f98",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7927$E8E6B91E-EEFE-4DB4-BA4C-86E3EE5CCA4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7927$249BB444-633E-4F21-84A8-D3EFDA4CF645",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0772-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "82185eac399d735dc90087497a146eb27ea5aca9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7927$7F75B0E6-B588-418F-BB14-3EF585B44867",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0812-08-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f3867604e52c9300d194d707e2f6cdcb471421cb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7927$02A915A7-2C33-4B5B-96FA-503F9E44DF27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11379118"
+          },
+          "hash": "cc0855ff0eab870580a5854c67b6fe08474e7f88",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7927$B3D0755B-961A-4046-9475-DBAED87CFC83",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ise no Tsugiko Arms.svg"
+          },
+          "hash": "ef8be41ff6f1f711dcef5248e1f756dfbedecf6d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "court lady of emperor heizei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平城天皇の側室"
+    },
+    "th": {
+      "language": "th",
+      "value": "นางสนองพระโอษฐ์ในจักรพรรดิเฮเซ"
+    }
+  },
+  "id": "Q7927",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ise no Tsugiko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ise no Tsugiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊勢継子"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิเสะ โนะ สึงิโกะ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊勢繼子"
+    }
+  },
+  "lastrevid": 17407824,
+  "modified": "2025-09-15T22:39:46Z",
+  "ns": 860,
+  "pageid": 30418,
+  "sitelinks": {},
+  "title": "Item:Q7927",
+  "type": "item"
+}

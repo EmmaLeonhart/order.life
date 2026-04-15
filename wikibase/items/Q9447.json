@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Yoshikane"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q9447$C7B19708-51AC-4834-BF3D-684520B7794E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "810139"
+          },
+          "hash": "72bcfb6ee7b6c06fb82e777a2fca4912302bfaaa",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q9447$1A6B0AD9-F2B7-4CD3-B8EC-80DCF47BD94D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9905",
+              "numeric-id": 9905
+            }
+          },
+          "hash": "3de7463f35df4c2204ce3d7a6c51c1f41662901f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9447$6249D1FA-D247-461A-B0EA-BF11A9C12ECB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9906",
+              "numeric-id": 9906
+            }
+          },
+          "hash": "616eabd394b3d33860d23750afcf746f8d4a6a42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9447$CA281672-79FD-41E9-8F54-FFF9F18DD36F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9447$D9183641-794E-4D55-A0CB-65EDF117EF8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9447$064231C3-1E9C-4B62-A267-50EA39ED1C08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9596",
+              "numeric-id": 9596
+            }
+          },
+          "hash": "6802c7227345471f88aff3432229865ab2141e78",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9447$D95A899A-052D-4834-8FDB-A30634C63C60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9337",
+              "numeric-id": 9337
+            }
+          },
+          "hash": "85aa7b3a453407900ccc3810408739a212f4e466",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9447$027BB493-7032-40AF-A9E9-E37243A84541",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9447$8271444E-EDBB-42DF-938E-CCDF5BC27A85",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0957-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b3d929492126db9fa8a5c49c27a6ea17bdf50884",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9447$32A74B14-7058-4147-9EEA-737576DA9FCB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1021-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44e2a756b0afdae713787505bea238758fb63a02",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9447$7C191FCF-D179-4805-92CC-6A73FACF97CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5507551"
+          },
+          "hash": "ce5de1ab22d9befa6124b659e4c2240bcb6a271c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の公卿"
+    }
+  },
+  "id": "Q9447",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Yoshikane"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Yoshikane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Yoshikane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Yoshikane"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو یوشیچیکا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Yoshikane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原義懐"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Yoshikane"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原義懷"
+    }
+  },
+  "lastrevid": 17410958,
+  "modified": "2025-09-15T23:19:36Z",
+  "ns": 860,
+  "pageid": 31900,
+  "sitelinks": {},
+  "title": "Item:Q9447",
+  "type": "item"
+}

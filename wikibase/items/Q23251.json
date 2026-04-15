@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q16603439"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23251$0F89C5F4-30EF-4FBF-800A-F1034F836190",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23251$8FC8FC39-CA58-40F0-93AE-84A971AEB3D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23251$2F67CC3F-FC32-4102-B997-2EEA05964E01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23249",
+              "numeric-id": 23249
+            }
+          },
+          "hash": "2297488373bb74b4c8083ac909e2053bc552a3cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23251$1A9A7916-E4B0-4636-8246-904DA4A9DF85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23251$D9B6FEC2-36EE-4A91-9E5F-B098D36FDD9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0558-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd933a2d8b3ddc9eaa23bcbecc4aa5a37ce45945",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23251$1C7C935E-F749-4BF6-B40D-7EE2158B0EAC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0614-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f583fe6a7d6d7ee6964c2ea91e27d3ab5dc9d97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23251$3C20356F-79AC-47F4-A08B-ABC52C403E1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16603439"
+          },
+          "hash": "f493645b8f934ac014cfb881bfc51c748dc89f67",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23251$D90F638C-1F82-4760-84EA-7F5679BD00A9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cong chua Tan An Arms.svg"
+          },
+          "hash": "dfe19e348454c29609aa519592f4088dca8ae9ed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q23251",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cong chua Tan An"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Công chúa Tấn An"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "晋安郡长公主"
+    }
+  },
+  "lastrevid": 17422092,
+  "modified": "2025-09-16T02:58:57Z",
+  "ns": 860,
+  "pageid": 45205,
+  "sitelinks": {},
+  "title": "Item:Q23251",
+  "type": "item"
+}

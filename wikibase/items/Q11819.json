@@ -1,0 +1,645 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nichiren"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11819$C17AEAE1-D02A-4DD4-8553-186B21BFDC1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11819$2DCE5772-9996-4C22-A0F8-09B4F115421A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11819$7B71BD30-E527-4A51-9011-10843EED49AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11056",
+              "numeric-id": 11056
+            }
+          },
+          "hash": "25ccf9c1647401f302c584ddbab18f01b7996efb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11819$138A17F0-9F05-4720-B421-347BD80E7876",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11819$CD82E2F9-52E7-48D2-9C3F-5E995EE9F82A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1222-03-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "91aacd89215a70137bf7f00f128ab13bfc654894",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11819$FA264F8F-301B-495D-8C1C-0CB7725152A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1282-11-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4afb7d62de21689e26992d55ad34204e0716723a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11819$27F358B4-FDA9-4697-AAE6-64B20F61ADD0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nichiren statue Japan.jpg"
+          },
+          "hash": "7446987ad526d987af5a31e07f3085c2bbd9881e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11819$7DCD1A87-0C86-4B09-9D92-051308E5D7B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q311478"
+          },
+          "hash": "6152107b524e121aed9442bc004d57f7dbb59e43",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11819$5F2525CC-3D2B-4CE8-BAD9-5F7356D32296",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nichiren Arms.svg"
+          },
+          "hash": "82fa87d16b47bc63ac845eb7614d4183e447bc24",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Japannese Boeddhistiese hervormer"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Основател на будизма на Ничирен в Япония"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানে নিচিরেণ বৌদ্ধধর্মের প্রতিষ্ঠাতা"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fundador del budisme Nichiren al Japó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "buddhistický mnich"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sylfaenydd Bwdhaeth Nichiren yn Japan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Grundlægger af Nichiren-buddhismen i Japan"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer buddhistischer Reformer"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Founder of Nichiren Buddhism in Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "japana bikŝuo; fondinto de budhisma skolo nomita laŭ li"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fundador del budismo Nichiren en Japón"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nichiren Budismoaren sortzailea Japonian"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بنیانگذار آیین بودایی نیچی در ژاپن"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nichiren-buddhalaisuuden perustaja Japanissa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fondateur de l'école du bouddhisme Nichiren au Japon"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "monxe e filósofo budista xaponés do período Kamakura"
+    },
+    "he": {
+      "language": "he",
+      "value": "נזיר תקופת קמאקורה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a japán Nicsiren-buddhizmus alapítója"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pendiri Buddhisme Nichiren Jepang"
+    },
+    "it": {
+      "language": "it",
+      "value": "monaco buddhista giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の僧"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Жапониядағы Ничирен буддизмінің негізін қалаушы"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Жапониядағы Ничирен буддизмінің негізін қалаушы"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본 니치렌 불교 창시자"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "जपानमधील निचिरेन बौद्ध धर्माचे संस्थापक"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans schrijver"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Założyciel buddyzmu Nichirena w Japonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fundador do Budismo Nichiren no Japão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "fundador do budismo Nitiren"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "fondator al budismului Nichiren în Japonia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Основатель буддизма Нитирэн в Японии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "ustanovitelj šole ničirenskega budizma na Japonskem"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Оснивач ничиренског будизма у Јапану"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Оснивач ничиренског будизма у Јапану"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Grundare av Nichiren Buddhism i Japan"
+    },
+    "th": {
+      "language": "th",
+      "value": "ผู้ก่อตั้งศาสนาพุทธนิกายนิจิเรนในญี่ปุ่น"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon Niçiren Budizmi'nin kurucu keşişi (1222–1282)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Засновник буддизму Нічірена в Японії"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Người sáng lập Phật giáo Nichiren ở Nhật Bản"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本日蓮佛教創始人"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日本佛教比丘"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本佛教比丘"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日本日蓮佛教創始人"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "日本佛教比丘"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "日本佛教比丘"
+    }
+  },
+  "id": "Q11819",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Nichiren"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "نيشرين"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "نيشرين"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ничирен"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "নিচিরেন"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nichiren"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ničiren"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Nichiren"
+    },
+    "da": {
+      "language": "da",
+      "value": "Nichiren Daishonin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nichiren"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nichiren"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Niĉiren"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nichiren"
+    },
+    "et": {
+      "language": "et",
+      "value": "Nichiren"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nichiren"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نیچیرن"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nichiren"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nichiren"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Nichiren"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Nichiren"
+    },
+    "he": {
+      "language": "he",
+      "value": "ניצ'רן"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "निचिरेन"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nicsiren"
+    },
+    "id": {
+      "language": "id",
+      "value": "Nichiren"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nichiren"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日蓮"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Дзэннити"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "دزەننىيتىي"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "دزەننىيتىي"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Дзэннити"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Дзэннити"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Dzénnïtï"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Dzénnïtï"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "니치렌"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Nichiren"
+    },
+    "min": {
+      "language": "min",
+      "value": "Nichiren"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "निचिरेन"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nichiren"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nichiren"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Nichiren"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Nichiren"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nichiren Daishōnin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nitiren"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Nitiren"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Nichiren"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нитирэн"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nićiren"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ničiren"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nichiren"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Нићирен"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Нићирен"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Nićiren"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nichiren"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระนิชิเร็ง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nichiren"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нітірен"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nichiren"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日莲"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "日莲"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日莲"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日蓮"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日蓮"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "日莲"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "日蓮"
+    }
+  },
+  "lastrevid": 17413172,
+  "modified": "2025-09-15T23:51:54Z",
+  "ns": 860,
+  "pageid": 34174,
+  "sitelinks": {},
+  "title": "Item:Q11819",
+  "type": "item"
+}

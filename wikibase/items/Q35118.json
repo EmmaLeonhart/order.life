@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yeon Tok //"
+      },
+      {
+        "language": "en",
+        "value": "Yeon Tok"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q35118$60D32AA8-531C-4FD4-9B2E-EDA04C7134CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35118$51C0F41B-1A0C-4491-B5A9-93FB888E4F19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q35118$CF5991DF-41FC-4C6E-BC0A-E77D8904CEE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34806",
+              "numeric-id": 34806
+            }
+          },
+          "hash": "3f0d857485211a04b4d00a6dffdf22b1c00451e7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q35118$2B9CEE40-246C-4AD4-845A-0B3B3B148CAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35565",
+              "numeric-id": 35565
+            }
+          },
+          "hash": "bfe5727dff03a4641443ecd208e84c83e00c685e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35118$E3B1760B-1295-4275-BBC3-636C78FB072D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q35118$5BC4B52D-73EF-4E46-84E4-C3BEFBFC9ADE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1139-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3741b214b3e3551cb4f188fdaa002e2511488f4a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q35118$1A6A0259-EAE5-4B32-91FE-DB31018E8A85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11064497"
+          },
+          "hash": "f147a954c5129333da99b9f3d574550269882107",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q35118$88C090A7-F2C6-4DD9-A9E3-6F4F1CADBB6E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yeon Tok Arms.svg"
+          },
+          "hash": "a08927e9cdcf0d655ce000f9d9b3f5bfc612ea0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Korean noblewoman"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려 인종의 부인"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "знатная кореянка"
+    }
+  },
+  "id": "Q35118",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yeon Tok"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "연덕궁주"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёндок"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "廢妃李氏 (李資謙三女)"
+    }
+  },
+  "lastrevid": 17436576,
+  "modified": "2025-09-16T06:40:24Z",
+  "ns": 860,
+  "pageid": 54044,
+  "sitelinks": {},
+  "title": "Item:Q35118",
+  "type": "item"
+}

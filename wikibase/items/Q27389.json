@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "De Chuan Yu Ji"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q27389$42166824-3DE3-42D1-A676-69B6BF4E850B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27389$C3F02261-7C68-40B9-BA53-BE3A71CCEE2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q27389$E0D12C99-9BC9-4493-ABBE-0C7C0F82BB97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18652",
+              "numeric-id": 18652
+            }
+          },
+          "hash": "60b0497b44b1e8240e92c6f2d7c05a34b4ac14fc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q27389$15A24156-3C74-48DB-BDC3-3CA3E6B5171F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16148",
+              "numeric-id": 16148
+            }
+          },
+          "hash": "897f17e05224269270e6efbf79de831e2c8ead21",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27389$EAC62E15-D140-4BB4-BD4A-8647DDC3BEC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27389$588EC995-CA07-4C72-B290-D07007E85BEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1675-03-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c617a8db1377bef6576a723062e0754b8570414",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27389$4D14BC89-7864-4483-B7FA-92A4C9F0A240",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1693-09-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5edd65cccb80365c986b2a2a70d60e8dbbb6aa8a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27389$AE0EB0BB-5AA8-4D53-8454-3B91F4BAEC59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110901310"
+          },
+          "hash": "cfb79f46e80d8afa1445e9d9aa725afe8d8400c6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "徳川光貞の四女。母は林光院（側室）。佐竹義苗の正室"
+    }
+  },
+  "id": "Q27389",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "徳川育姫"
+    }
+  },
+  "lastrevid": 17426610,
+  "modified": "2025-09-16T04:15:18Z",
+  "ns": 860,
+  "pageid": 48354,
+  "sitelinks": {},
+  "title": "Item:Q27389",
+  "type": "item"
+}

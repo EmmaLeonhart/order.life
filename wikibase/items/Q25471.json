@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Duke Li of Qi //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q25471$C665BD77-E8EC-4AD2-90BB-306EB53AB286",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25485",
+              "numeric-id": 25485
+            }
+          },
+          "hash": "535b7306ecf1349c8baf47f9d3aa48ceac2c2476",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25471$88F8E0FE-B21B-4EB1-B369-7590874C91C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25471$695A8F83-5FDD-462C-A689-BED3B2EF59EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25471$7099C640-7001-40B1-9B5A-0AC1BCF435CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25470",
+              "numeric-id": 25470
+            }
+          },
+          "hash": "2bdd6d770e6d0ba335337876a4947f3428447415",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25471$8BD1E408-28F6-4D60-8388-C33327ACD0BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25471$0E4956B9-A697-45ED-8F28-628045593207",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0816-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b58abf228327a28ef694d3fcc93a2f9179e6bc2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25471$EEA727D7-3E06-4CF4-A4CE-03E05B639FFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q709452"
+          },
+          "hash": "c731b72ba5ea5ba57a85be8f79b279d218236336",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25471$9B733B9E-4A30-4D06-8426-8DAD04BCB7A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Duke Li of Qi Arms.svg"
+          },
+          "hash": "1c3d4ba6af6998d66c4116e237327cf1d0283753",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ruler of Qi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q25471",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Duke Li of Qi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke Li of Qi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "厲公"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "제 여공"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "齊厲公"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chê Lē-kong"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duke Li of Qi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tề Lệ công"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "齊厲公"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "齐厉公"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "齊厲公"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "齊厲公"
+    }
+  },
+  "lastrevid": 17424308,
+  "modified": "2025-09-16T03:42:47Z",
+  "ns": 860,
+  "pageid": 47115,
+  "sitelinks": {},
+  "title": "Item:Q25471",
+  "type": "item"
+}

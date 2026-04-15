@@ -1,0 +1,188 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "国分盛廉"
+      },
+      {
+        "language": "en",
+        "value": "Kokubun Moriyasu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48172$8862FDD1-6D43-4C47-8E43-175A02760F72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48172$126A6197-5004-457D-9712-395F95428575",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48172$28E760A7-75A7-4E93-B96C-810446014215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41824",
+              "numeric-id": 41824
+            }
+          },
+          "hash": "01a198f2c9a12c995322b91991e932247670cb29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48172$8A966E92-A05A-4817-AD07-3935257211FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48172$CCC7CC56-CEE3-49BB-AFDC-4DB42F5708FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1536-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "37f7b551849967a935ccd40319ab695bce80fedd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48172$3DFF01B6-8A95-4373-86EE-2960E6F8A7FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11420554"
+          },
+          "hash": "7fb00236cf72352fe6cc7a03ad29861a94951e74",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48172$A821A775-39A9-4E47-B5CD-7210D120AE88",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kokubun Moriyasu Arms.svg"
+          },
+          "hash": "5238c8d2a2aa8454c47280c7d525a3070f29215f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武士 (1536?-1570?)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q48172",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kokubun Moriyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "国分盛廉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "國分盛廉"
+    }
+  },
+  "lastrevid": 17453542,
+  "modified": "2025-09-16T10:44:59Z",
+  "ns": 860,
+  "pageid": 63801,
+  "sitelinks": {},
+  "title": "Item:Q48172",
+  "type": "item"
+}

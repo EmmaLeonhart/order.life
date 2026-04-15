@@ -1,0 +1,341 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tughlugh Timur //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q53736$EDE4D023-D0EF-4EDE-B748-8F4191DBEE7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00361819"
+          },
+          "hash": "07270cb8f1457e0970786fb05f76d77e65bb4f62",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53736$A34DBF8B-F97D-4760-AB87-E3A509F13752",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53736$C0D8497D-6A23-4741-8E4E-92DD42F8723D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53736$4EBDD41B-AD58-46AF-85F0-4EDB58444504",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49113",
+              "numeric-id": 49113
+            }
+          },
+          "hash": "657256644604e84a21002a6bd175e34c4f18aa5c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53736$09BF4FA7-64B9-4A57-9953-0858BC289FCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53736$6A1E68CB-3503-478B-8D3A-FF9CA8FCDF1A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1329-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3536511d7dbbe180f35529722719871ab1510e27",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53736$0506DCC0-BC96-424D-B654-4863ADCDC50B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1363-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8bdd74912c504c80d93d3ce3679f1e1a58539b62",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53736$4AE1CB2E-9D59-44F3-877D-16F111A64994",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1194934"
+          },
+          "hash": "fc50f0ba14d20490457b2de0716225018c59e15a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53736$BC80A22A-773F-49E7-94DD-955DA2CE8116",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tughlugh Timur Arms.svg"
+          },
+          "hash": "036d46668eaf6a7c07ae967508f009c0bb1379e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Khan der Tschagatai-Mongolen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Khan of the Chagatai Khanate from c.1360 to 1363"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "चगताई खानत का मंगोल बादशाह"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Moʻgʻuliston davlati asoschisi va xoni"
+    }
+  },
+  "id": "Q53736",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تغلق تيمور"
+    },
+    "as": {
+      "language": "as",
+      "value": "টিমৰ বন্ধ হৈ যায়"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tuğluq Teymur xan"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "তিমুর বন্ধ করে দেয়"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tughluq Timur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tughlugh Timur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tughlugh Timur"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tuglug Timur"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tughlugh Timur"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "طغلق تیمور"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "तुगलक तैमूर"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tughluq Timur"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トゥグルク・ティムール"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Тоғылық Темір хан"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "투글루크 티무르"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Тоглук-Темир"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Төглөгтөмөр"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tughlugh Timur"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "تغلق تیمور خان"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тоглук-Тимур"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "துக்லுக் தைமூர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tuğluk Timur"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "تۇغلۇق تۆمۇرخان"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Туглуг-Тимур"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تغلق تیمور خان"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Tugʻluq Temur"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "禿忽魯帖木兒"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "秃忽鲁帖木儿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "禿忽魯帖木兒"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "禿忽魯帖木兒"
+    }
+  },
+  "lastrevid": 17460770,
+  "modified": "2025-09-16T12:30:57Z",
+  "ns": 860,
+  "pageid": 68567,
+  "sitelinks": {},
+  "title": "Item:Q53736",
+  "type": "item"
+}

@@ -1,0 +1,543 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Konoe"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q11483$287F7133-F1B0-4087-8493-D366086B8768",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719935"
+          },
+          "hash": "49bde1d970bb6a8528eb9572a3db860cde180f54",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11483$B10F4285-33A1-4D7B-AC13-3C2C6DFCBBCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11483$038AF9DD-1339-4AB2-89D0-9AACA368374F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11483$D1393BA1-2614-44A0-92EF-9C75F564A85B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10975",
+              "numeric-id": 10975
+            }
+          },
+          "hash": "947873902169395dd272eefd11220e81d5cd4aaa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11483$F5C87666-33F4-41E4-9063-C12933C1E717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11532",
+              "numeric-id": 11532
+            }
+          },
+          "hash": "80d1346c1d35275fbc91b026eabf323aa0d7e9cd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11483$0FC756F8-ADCC-47DC-8F25-8C2703CC812C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10816",
+              "numeric-id": 10816
+            }
+          },
+          "hash": "73410dcd2ad32259ee80f8e333f6eb7058611d09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q11483$FD844931-214C-4CFD-9DA2-1F26AC152893",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10942",
+              "numeric-id": 10942
+            }
+          },
+          "hash": "6ef2577837b8ada7777d8757166c0b61447c649f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11483$357FC45C-F0BC-4B80-9467-A989E0857E6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11483$ABE8FB48-D09A-4441-B5EE-933DEB295386",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1139-06-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b3e73156f1f8969033d83ee67f9134a188837a1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11483$F4274F14-5E99-4A60-950B-3367E4952F0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1155-08-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e422c6aa505f68529d04fbdfebcf0f4cd4ee8ea0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11483$B341DAA9-9667-41B3-B70F-C4815E47164D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Konoe by Kōtarō Miyake.jpg"
+          },
+          "hash": "58b54b4154273c4f0f2168727d9325d04d235a10",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11483$CAAE0A2C-8D15-463E-898C-EE16E9DA9FDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q373997"
+          },
+          "hash": "b3e4a22ebf358ed2e33f369354710a47de838e08",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11483$003EDAF9-83F0-4A70-AE8F-33CE01E82999",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Konoe Arms.svg"
+          },
+          "hash": "7d25a74338d40426cf688c2dd995bf1e4100943b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1139–1155)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař (1142–1155)"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "76. Tennō von Japan (1142–1155)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan (1139–1155)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Impire na Seapáine (1139–1155)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第76代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (1139-1155)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk kejsare"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิแห่งญี่ปุ่น"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'nın geleneksel veraset düzenine göre 76. imparatoru"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Là Thiên hoàng thứ 76 của Nhật Bản theo danh sách kế thừa truyền thống"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q11483",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبيرور كونوي"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "کونوئه (ایمپیراتور)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Konoe"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Konoe"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر کۆنۆیێ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Konoe"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konoe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Konoe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Konoe"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور کونوئه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Konoe"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Emperor Konoe"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Emperador Konoe"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Konoe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Konoe"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "近衛天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고노에 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "कोनो"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Konoe Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Konoe"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Imperador Konoe"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Konoe"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Konoe"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Konoe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Коноэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AKonoe"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Konoe"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Konoe wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโคะโนะเอะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Konoe"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emperor Konoe"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Коное"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Konoe"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Konoe"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "近衛天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "近卫天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "近卫天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "近衛天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "近衞天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "近卫天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "近衛天皇"
+    }
+  },
+  "lastrevid": 17412976,
+  "modified": "2025-09-15T23:49:02Z",
+  "ns": 860,
+  "pageid": 33855,
+  "sitelinks": {},
+  "title": "Item:Q11483",
+  "type": "item"
+}

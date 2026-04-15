@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Biao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q54415$DC6B457C-52D0-4DC1-A211-288AA0871EDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61028",
+              "numeric-id": 61028
+            }
+          },
+          "hash": "805ae555c5909229f368a3c943296b5354fe88a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54415$7F0B691D-E776-48AF-9059-0AEA3FBD0B91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61031",
+              "numeric-id": 61031
+            }
+          },
+          "hash": "8924e70b23c7976f8def3e5ad207f4634a3fedcb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54415$8722788D-C0F3-4AD5-8807-6CE41F7D9F74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54415$5B7DE61B-F7DB-45E0-AF3B-669E45ED3DE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54415$463D5F9A-BC8D-4537-8EE6-B3B909C9A32A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45798",
+              "numeric-id": 45798
+            }
+          },
+          "hash": "8bf0a1e19bbfc506852b42c5e9fa43d2ee3d6de2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54415$DD620D70-1A70-4CBB-98A1-BEEE6021ADDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54415$46DA1F77-08F1-4E27-B64C-82ADC80F31CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0820-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b3d22aae1923ea18684c76d6c1cc8a500d5888be",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54415$0B860492-E5E0-4398-9B4A-8626C4955D97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45523043"
+          },
+          "hash": "0d4b0c831f4d492e16da417f1170f6a6a95e2591",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q54415$71C7807B-553F-4697-AF38-D3FFCF651D62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075060755149"
+          },
+          "hash": "00b5ec1ef7a7f50e0081ba2b7b112bd99c38f6ab",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54415$4F45D2D1-133F-488D-8D90-5D70251FC76B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Biao Arms.svg"
+          },
+          "hash": "45db1d8a8adfff96cb72325b54a737eeef49cf77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188793"
+    }
+  },
+  "id": "Q54415",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Biao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Biao"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李摽"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Biao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李摽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李摽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李摽"
+    }
+  },
+  "lastrevid": 17461904,
+  "modified": "2025-09-16T12:47:38Z",
+  "ns": 860,
+  "pageid": 69246,
+  "sitelinks": {},
+  "title": "Item:Q54415",
+  "type": "item"
+}

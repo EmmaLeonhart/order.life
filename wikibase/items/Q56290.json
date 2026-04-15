@@ -1,0 +1,179 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shiba Akizane"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q56290$17F7A963-16B0-4B9F-B3D2-BCA6774B7E66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47603",
+              "numeric-id": 47603
+            }
+          },
+          "hash": "d2977e0dbcab77c4e441ed2a39f07f9e7f901a22",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56290$2CED5F57-CEBA-4AA5-896E-B83725F0392C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56290$EF7B20E9-0D52-49F0-9EC8-012E8E163AF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56290$CF213DB5-CDEF-4FC2-9C06-B7CF8BBD4369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56290$249F6775-2875-4FE4-9E01-34D1414E6F4A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1524-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c6c9f48d127853d5f03f7e403959c2afc5beb775",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56290$4789F39E-9306-40E0-AC0F-DD328548D0F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11500880"
+          },
+          "hash": "0d49b0f5658aa031ee0bb641a58c7e737f228524",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56290$87A85027-9DE8-4DEB-9897-989318DECBE4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shiba Akizane Arms.svg"
+          },
+          "hash": "6a251cb266bd721abfc3568276e241ca728230a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q56290",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shiba Akizane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "斯波詮真"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акидзанэ Сиба"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯波詮真"
+    }
+  },
+  "lastrevid": 17464684,
+  "modified": "2025-09-16T13:29:22Z",
+  "ns": 860,
+  "pageid": 71121,
+  "sitelinks": {},
+  "title": "Item:Q56290",
+  "type": "item"
+}

@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Kawashima"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7289$18F7DD6C-5165-474D-A4EC-03D0FF962C58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7289$918A7C04-A9D7-40A6-8517-D735AA1CC54E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7289$BC8B0D3B-9AEC-4F51-BFF5-4E3068AF5514",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7316",
+              "numeric-id": 7316
+            }
+          },
+          "hash": "d40dd2e0dc3df67aea58354a76f10fdea92dee6e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7289$499002FD-AA99-479B-B785-E0DA863D681E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7229",
+              "numeric-id": 7229
+            }
+          },
+          "hash": "6b41d282a7a27c833a6e53cfacdecc77ad5c7ceb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7289$6B01B2CA-021C-4CF4-BCCE-442E02B80AAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7289$01C0FD0E-5D3D-4419-BA5E-CA2F55C83F5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0657-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c02a6aa20576ca1fad35ffc5126d31b069edc78",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7289$D479A00B-2F05-4C59-B250-6B704FAF618D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0691-10-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75b59f070403a72749bb4b1b8fd6d9c8524515e3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7289$4235E67D-4F0F-41B7-8B87-CE9549E1C8CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11055223"
+          },
+          "hash": "5b57a987364745402a52acb7a2b93a59c5e46e22",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7289$36F6AA09-E9D2-4768-BEE2-661FE5056588",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Kawashima Arms.svg"
+          },
+          "hash": "72c2affc25b1972889f7aa7aa736d6b4ff0ee3e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "657-691, 飛鳥時代の皇族。天智天皇の第二皇子。河島皇子とも記される。冠位は浄大参。勅撰集『新古今和歌集』に1首入集"
+    }
+  },
+  "id": "Q7289",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Kawašima"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Kawashima"
+    },
+    "es": {
+      "language": "es",
+      "value": "Prince Kawashima"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kawashima"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "川島皇子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кавасима-но Мико"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "川島皇子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "川島皇子"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "川岛皇子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "川岛皇子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "川島皇子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "川島皇子"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "川島皇子"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "川岛皇子"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "川岛皇子"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "川島皇子"
+    }
+  },
+  "lastrevid": 17407245,
+  "modified": "2025-09-15T22:32:33Z",
+  "ns": 860,
+  "pageid": 29783,
+  "sitelinks": {},
+  "title": "Item:Q7289",
+  "type": "item"
+}

@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Masatoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q17210$CC3E19ED-3756-42AF-8DD3-F821F7E22D6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17210$BBF027D6-5569-41E5-AA97-4EA5344F5DA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17210$D2F8BA2B-CE6E-4B69-B9CD-1C6F878050ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30496",
+              "numeric-id": 30496
+            }
+          },
+          "hash": "b0a1878b7198fb5e81047566184cade00d452985",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17210$ABE89139-4140-4F2F-ADA9-39CFD1ECE376",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17210$90148429-4992-45A1-BDA7-A1DD1FE7F47D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1641-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "47a710dfcf32783b0205431c34a43f4e164a3c0c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17210$A5C68807-5064-4937-999D-6893D33A7902",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1707-12-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0fdc97be950f9aa9e530a5b5ea6b5eef855dc9a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17210$525FEB4B-4A52-481D-81A9-016F28E6EC7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8515533"
+          },
+          "hash": "c913203cd703b77c24f001b9863531f65f8ad184",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17210$4EF467C0-31BF-406B-BD0D-A10F52DCE343",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Masatoshi Arms.svg"
+          },
+          "hash": "0385ed728b657233a2fe426d8d2fcd383e05562c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Daimyo of Akashi and Mutsu-Okubo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の大名。大和郡山支藩主、播磨明石藩主、陸奥大久保藩主。従五位下出雲守"
+    }
+  },
+  "id": "Q17210",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Masatoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多政利"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "혼다 마사토시"
+    }
+  },
+  "lastrevid": 17416768,
+  "modified": "2025-09-16T00:49:21Z",
+  "ns": 860,
+  "pageid": 39446,
+  "sitelinks": {},
+  "title": "Item:Q17210",
+  "type": "item"
+}

@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishii Tadakiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47846$76095274-CE1A-4BCF-A65F-D4861F01449C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23947",
+              "numeric-id": 23947
+            }
+          },
+          "hash": "4c2a25521bf933f8decf763015993909bd64fe18",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47846$BD95FC7E-199B-4E7A-B129-6B23C8E240EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47846$C311BCC2-5E29-4BE8-A152-AA83F64486CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47846$AD8AA3CA-4F89-449E-8624-6DDB595AA4F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56421",
+              "numeric-id": 56421
+            }
+          },
+          "hash": "477a357537f21c9b747e2086a430b4f50b3e26ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47846$4DE06671-5F06-45B4-ACE6-5EFBEBD8EB54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47846$CEF185C9-1302-48EA-8F43-42B9334FD2E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1553-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b79b2a904e277acc717c3d4e318f5cacf52f8cb4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47846$8CD38964-1AE9-4352-8206-A23A6CCB038D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11584957"
+          },
+          "hash": "ec93a362f5bb5d1e7dbe653130b0056bc00aae7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47846$2F5B6013-3FD0-4C5F-B173-F837F19E12A9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishii Tadakiyo Arms.svg"
+          },
+          "hash": "8bf908b1137674a109f2a9bcae9b8f2ace3116e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the sengoku period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q47846",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ishii Tadakiyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ishii Tadakiyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ishii Tadakiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石井忠清"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исии Тадакиё"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ishii Tadakiyo"
+    }
+  },
+  "lastrevid": 17453102,
+  "modified": "2025-09-16T10:38:36Z",
+  "ns": 860,
+  "pageid": 63558,
+  "sitelinks": {},
+  "title": "Item:Q47846",
+  "type": "item"
+}

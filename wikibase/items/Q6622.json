@@ -1,0 +1,514 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q6622$D3981E0F-B89C-4B16-80F7-E8F5A8D17052",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6641",
+              "numeric-id": 6641
+            }
+          },
+          "hash": "42ea3273df31ed062445d52c75dba220f0f666df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6622$E64F0C29-31A1-4215-A02B-D835E3DA283F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6639",
+              "numeric-id": 6639
+            }
+          },
+          "hash": "857ba2a94d9694ea73604b4fea6dce6e8faf6abf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6622$919615C9-4BB4-405A-AD7F-DD2B49D7E48D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6637",
+              "numeric-id": 6637
+            }
+          },
+          "hash": "6951cab44bc358fbf07c74094c33d3ae8937103d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q6622$AB730ACC-2807-44E4-8EEE-EFB30D3AB2D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6622$D86C85C8-0336-4094-8318-BB7AFA2695DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q6622$30CCC6E6-0E85-4D3C-BF92-803CD426F172",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6607",
+              "numeric-id": 6607
+            }
+          },
+          "hash": "fdbb864ba14ae7d0f56a29c40230beace33e16e0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q6622$D09F6B9B-9199-40CC-B293-A6AB12088D36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6620",
+              "numeric-id": 6620
+            }
+          },
+          "hash": "3164c1cba470d181f2ef2bb1d9296867c7aedea4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6622$9A081765-04E2-427C-9A33-28086F6CA65F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6622$DA86F8C9-73D7-4070-A120-9DB399DA38C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1675-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "21815da31b24ec707fc62f72facd616d015819a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6622$CE322CB0-8A3B-4378-A602-BA830E0D1946",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1646-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f055235bac41b5d9ffd170502c8475de51273516",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q6622$8DC166CA-7040-431F-BC8A-37D32E72B1E8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Tang of Shang.jpg"
+          },
+          "hash": "9fd7add4c979335be0c5f19106bf4de7bf8225a5",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6622$31720211-399C-45E2-B67D-D23BA2E9325D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q471820"
+          },
+          "hash": "726e3b3d4021ad5dd8a9d465e9359f5d8377228b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q6622$27FC2C9C-C553-4F4F-BAC4-9D9B75B28179",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645919410"
+          },
+          "hash": "c1cc4ae4540f8e380207ffd0f1fa4015d0f1607c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6622$B2410738-6B0A-4744-9413-F9C3607C00FB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tang Arms.svg"
+          },
+          "hash": "1f31c4c656fc1223afce7c71fcd782b5d316827c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي صيني"
+    },
+    "de": {
+      "language": "de",
+      "value": "chinesischer König, Gründer der Shang-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Legendary first king of the Shang dynasty in ancient China"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بنیادگذار سلسله شانگ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "商朝（殷）の創始者・初代王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees politicus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "商朝的第一任君王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "商朝君主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "商朝開國之君，子姓，名履"
+    }
+  },
+  "id": "Q6622",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ታንግ"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "تانغ من شانغ"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "تانق"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "تانگی شانگ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cheng Tang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tang"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تانگ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cheng Tang"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Tang od Shanga"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Shāng Tāng"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tang dari Shang"
+    },
+    "it": {
+      "language": "it",
+      "value": "Shang Tang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "天乙"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "탕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "商湯"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡧᠠᠩ ᡤᡠᡵᡠᠨ ᡳ ᡨᠠᠩ ᠸᠠᠩ"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯁꯥꯡ ꯀꯤ ꯇꯥꯡ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Sêng-thong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kong Tang av Shang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Shang Tang"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Cheng Tang"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "تانګ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tang"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тан (император Китая)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tang od Shanga"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Čeng Tang"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Shang Tang"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซางทัง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tang (Shang)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Шан Тан"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thành Thang"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "商汤"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "商湯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "商汤"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "商汤"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "商汤"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "商湯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "商湯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "商汤"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "商湯"
+    }
+  },
+  "lastrevid": 17406433,
+  "modified": "2025-09-15T22:22:03Z",
+  "ns": 860,
+  "pageid": 29117,
+  "sitelinks": {},
+  "title": "Item:Q6622",
+  "type": "item"
+}

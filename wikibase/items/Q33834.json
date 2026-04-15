@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Tadatoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q33834$A9FF5A9F-7667-46D3-8908-3E6FE86D4777",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33834$110B0AFD-34C0-48CD-A779-56A66AA3F0E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33834$295DD60D-1ACF-4445-BEE7-8E7D4E2471E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18507",
+              "numeric-id": 18507
+            }
+          },
+          "hash": "b245b0c09a43d5a065313259a73a5141e6715ca6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33834$BA14442E-6662-4DFE-9C92-27B0DCBC944C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33834$0D4F4030-4282-4A54-B760-49FBB6D2232B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1635-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d1d0a4c770ea3d573f7f523df6a75736ec74342",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33834$F6C84099-B01B-4D9B-B9CA-F36685F901B5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1700-06-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8fc54929b6093f248f8e912204e0b4c5f1cec2e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33834$D3F736AB-0FC4-4CD8-8C2A-165B9983CF7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8515510"
+          },
+          "hash": "daf9d39add307e4010ccd2cef506b875eb9b1aa5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33834$C8CD60BB-6BA9-42AF-A448-150AED787D67",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Tadatoshi Arms.svg"
+          },
+          "hash": "58ce6ffdf565ec684505ef7e65003c09fec4249b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q33834",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Tadatoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多忠利"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "혼다 다다토시"
+    }
+  },
+  "lastrevid": 17434714,
+  "modified": "2025-09-16T06:12:08Z",
+  "ns": 860,
+  "pageid": 53085,
+  "sitelinks": {},
+  "title": "Item:Q33834",
+  "type": "item"
+}

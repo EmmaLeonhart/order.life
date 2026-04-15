@@ -1,0 +1,193 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q56756$4E190B09-EA53-4E87-A3D5-6908CE4098E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56756$FFFB717F-5452-4F86-9362-CE10D2042627",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56756$60F41B6A-1249-4EF3-8264-1340FF4A3106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56589",
+              "numeric-id": 56589
+            }
+          },
+          "hash": "efe9a901d765763dd13872c4ba900913654e4385",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q56756$07079D71-4418-4EFB-BAB2-27EF39964A3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48437",
+              "numeric-id": 48437
+            }
+          },
+          "hash": "8b578f78770d653f8e2d903ba0e3b055fbb5edef",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56756$1C454C29-427C-495F-8402-126344798BA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56756$78A988CD-A465-4568-A5E4-5F2E00292149",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1811-01-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5cca59f5c88b7d04482dc6502a93a434ee51a032",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56756$FBBFDA8E-65F2-46C8-AA1B-BF8FF496D94C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1839-09-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b09be9649d58e4023e6d42e9e2ae714a77182541",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56756$498D4BBB-1503-4FFF-B32B-E3426B9E6D18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q54292105"
+          },
+          "hash": "db731e3e8f68e514fd4db702f92cbb31a71a04c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代後期の大名。備中鴨方藩（1人目の）8代藩主（当初）。池田政養の三男"
+    }
+  },
+  "id": "Q56756",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "池田政広 (鴨方藩主)"
+    }
+  },
+  "lastrevid": 17465270,
+  "modified": "2025-09-16T13:37:58Z",
+  "ns": 860,
+  "pageid": 71587,
+  "sitelinks": {},
+  "title": "Item:Q56756",
+  "type": "item"
+}

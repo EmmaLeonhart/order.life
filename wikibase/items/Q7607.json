@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Torisao"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7607$F5E9D2A1-81B0-4532-8D04-86778D00B1BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7607$672339FE-2941-42CA-A364-9578ECFFDBCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7607$F9662289-AC1A-4CAB-BC74-2116A160FD0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7434",
+              "numeric-id": 7434
+            }
+          },
+          "hash": "d272d48044e659c04f3601b21d738405f43550da",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7607$CEEDDF01-3F23-4FB3-8A34-4E2CFAF7C99F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7607$5AA49639-8248-40A7-97CB-D3CCC9E838BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7607$692C5C15-B9D4-477B-8407-721E3A870A21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0764-10-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "017ed1973338197d4c7f7f3d1f7c12a22cce2ac1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7607$640412F4-4717-4F77-A9A4-2DB76B4B0263",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96713082"
+          },
+          "hash": "a70d3a918d7c8973f8f3100996ac5ad43001c55c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7607$399F9024-C457-4E82-9C28-4C4F8850F623",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Torisao Arms.svg"
+          },
+          "hash": "6be28e80dbe14457c81c7a16091b43ca37951ded",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "奈良時代の貴族。藤原仲麻呂の九男。従五位下・美濃守"
+    }
+  },
+  "id": "Q7607",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Torisao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原執棹"
+    }
+  },
+  "lastrevid": 17407548,
+  "modified": "2025-09-15T22:36:21Z",
+  "ns": 860,
+  "pageid": 30100,
+  "sitelinks": {},
+  "title": "Item:Q7607",
+  "type": "item"
+}

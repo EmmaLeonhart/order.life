@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kakue"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11565$B4B93462-9F27-4AC3-99F2-8E54B470E4A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11565$192308DC-221C-480E-BBCA-6A093BF10E99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11565$9C9F8903-AE7C-4B1C-B711-5AD9BDF60829",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10883",
+              "numeric-id": 10883
+            }
+          },
+          "hash": "15fb2dfdb35da1f0598638086fbde0f852ced122",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11565$D6BDFF7A-255A-41C2-A25D-976A6D4343A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11565$CAB5A474-389D-4DC4-A9F1-C21F297C78A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1151-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "732eaa8a1272a0df1c5961d0757e8aebf14be0a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11565$456A2C7A-D8D4-47FF-8A96-6F534FC18E05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1184-11-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "337e08bdf81f4a5e490d4f599f6733f82dc44609",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11565$6F326930-C56F-4BE2-BD23-937973C81FB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11630328"
+          },
+          "hash": "155cfbe0287493c39503adb319ae32569b376ab0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q11565$C89DBAF6-2B48-45FB-AB31-875373AE3B93",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Kakue"
+          },
+          "hash": "60145e3956001892e2927daab80de2bad926febd",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11565$5441A006-B73C-4FC6-B1CA-4CF7F1EF37DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kakue Arms.svg"
+          },
+          "hash": "24cc178da831fe566e9aa554fe9d48f382238cbb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "syn císaře Sutoku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の皇族・真言僧。"
+    }
+  },
+  "id": "Q11565",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kakue"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kakue"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kakue"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kakue"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "覚恵 (真言宗)"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Kakue"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Какуэ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kakue"
+    }
+  },
+  "lastrevid": 17413022,
+  "modified": "2025-09-15T23:49:50Z",
+  "ns": 860,
+  "pageid": 33932,
+  "sitelinks": {},
+  "title": "Item:Q11565",
+  "type": "item"
+}

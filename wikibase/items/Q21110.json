@@ -1,0 +1,836 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Wen of Sui"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q21110$3A241432-D151-49EC-A027-C80C18D788B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1420122"
+          },
+          "hash": "51d53111d570c41dacc36e72dfe5af9b2ab12779",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q21110$9967D3E9-3906-4EA8-BFA7-3CE53CC4B2C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21113",
+              "numeric-id": 21113
+            }
+          },
+          "hash": "835d5a31aad322de82f0fc52f1d5507b78bd2f88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$06152AE2-D75F-4A47-A14B-74E416F5C5FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21117",
+              "numeric-id": 21117
+            }
+          },
+          "hash": "b4dc36398a80ec56e1dc2b818d21decc2fe2796b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$5CC04A5D-A93D-4A55-91A5-03941D1987E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21116",
+              "numeric-id": 21116
+            }
+          },
+          "hash": "348f0d0a98abc480cee88e01f82c1ccfad0ebb53",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$9AA2670D-472F-4098-8F1C-08382BFF1FD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21114",
+              "numeric-id": 21114
+            }
+          },
+          "hash": "5c0773ecf62e15e0f6d2ac37f8316220bf906701",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$45F7EBDF-C124-4163-8808-F57AC4C1BE7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19288",
+              "numeric-id": 19288
+            }
+          },
+          "hash": "73a80d7c62eed716664ab5beae471e459b7707a8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$2A239ADF-E7BD-4971-B39C-C8A0C09D2DDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21112",
+              "numeric-id": 21112
+            }
+          },
+          "hash": "e37e9c808eeb812266afc2110902d5f67e0dfd84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$B733066F-AA95-447D-98D6-A97285FCE611",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21115",
+              "numeric-id": 21115
+            }
+          },
+          "hash": "07c6600f7f072f607ba417541a7c4d16b98df6df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$814CEADB-2FF6-4B19-ADDA-2006E3369ABF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21111",
+              "numeric-id": 21111
+            }
+          },
+          "hash": "df964e21242bd5762c7eb6899236dd7590ed16c5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$8FCCF527-B5AD-4978-8B78-4AAB700C1D14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21170",
+              "numeric-id": 21170
+            }
+          },
+          "hash": "922c511eb817f01cb45123a6aa80b9a1eae76198",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$95997116-F1CE-4DC3-B94C-2B83AF561225",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21171",
+              "numeric-id": 21171
+            }
+          },
+          "hash": "98d62291f1831b173e754b5df6a740808efb9f51",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21110$D5C09159-C80B-4A25-AC00-2BA468BD0800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$D5370146-C6B2-41FA-A4B9-62CE45279FB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q21110$8F19FF68-B410-4B73-BC7B-29812DA9544D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19264",
+              "numeric-id": 19264
+            }
+          },
+          "hash": "b53d5152707ecb2a140f93b295c857c1c7c3e432",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$9560BFD1-0BE5-4740-8EB1-89084017FC43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21176",
+              "numeric-id": 21176
+            }
+          },
+          "hash": "dcd56a626eaa34c0793f4f7f7b1117d82436f487",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$4B0ED99C-6969-4D12-9EE7-81A5139AB611",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40488",
+              "numeric-id": 40488
+            }
+          },
+          "hash": "c07ed371d4c10c3bcd1b0f9139ff019d5a952ee7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$ABCB11E0-CF0D-4CD7-897A-483D5A844CBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40492",
+              "numeric-id": 40492
+            }
+          },
+          "hash": "bacd8a64a0cca37602efbcee0dea34e81845032e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21110$944BEA8A-356C-4B50-89C9-EEC99919354B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21177",
+              "numeric-id": 21177
+            }
+          },
+          "hash": "ef5766205a7086a6ba5f76a29ea03ed2a932199c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21110$83FAADB3-CD01-47B7-80C2-2CD9AAA9FD28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23126",
+              "numeric-id": 23126
+            }
+          },
+          "hash": "fb1f59d513ae00cb8fb4863fdd766519160abe44",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q21110$BC935F57-FCBF-452A-B0D3-B1A2D9CD4351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23127",
+              "numeric-id": 23127
+            }
+          },
+          "hash": "c007f366a32cfa4eaca7b5c647c8d785515ab639",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21110$5352993A-A8B8-4388-AE3D-4261B390F492",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21110$E620C192-0395-4D25-8A94-7272C12BC829",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0541-07-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "21eb9ec93356be5a25b7d8a636fc4d14f7661c22",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21110$9CA757E6-4C7C-4367-B91A-927CD88C5E24",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0604-08-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d86684a94db828d10b15239cd8b6ddf834b6062",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21110$E34F80D1-3057-4865-8C6B-F88D16B13EA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7418"
+          },
+          "hash": "c655e58d5dfe87018b6a354ca31ddae45905d860",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q21110$5E9E9F4F-FB0C-492C-A6B1-58B25E09CCB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075327685274"
+          },
+          "hash": "147b8abc37e6320b142328c9bb99b2fc3b0212f0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21110$BFDD8454-00F3-4A78-8565-1D0B5952FC35",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Wen of Sui Arms.svg"
+          },
+          "hash": "c533aa762450b18bd88b1e0cb0f4adfcc3e8f95f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور صيني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من الصين"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "čínský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "chinesischer Kaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "founding emperor of the Sui Dynasty (541-604)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "ĉina imperiestro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Primer Emperador de la Dinastía Sui del Imperio chino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר סין"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai uralkodó, a Szuj-dinasztia alapítója (581–604)"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "隋の初代皇帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "수나라의 제1대 황제"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "隋朝開國之君"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees keizer (0541-0604)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "imperador chinês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "китайский император, основатель династии Суй"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "mga"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Суй"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "隋朝第一位皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "隋朝开国皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "隋朝開國皇帝"
+    }
+  },
+  "id": "Q21110",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور وين من سوي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور وين من سوى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ян Цзянь"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সুই সম্রাট ওয়েন"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emperador Wen de Sui"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Sùi Ùng-dá̤"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Wen-ti"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sui Wendi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Wen of Sui"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Emperor Wen of Sui"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Emperor Wen of Sui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Jian"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یانگ جیان (سلسله سوئی)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sui Wendi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sui Wendi"
+    },
+    "he": {
+      "language": "he",
+      "value": "ון, קיסר סין"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jang Csien"
+    },
+    "id": {
+      "language": "id",
+      "value": "Wen dari Sui"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sui Wendi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楊堅"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "수 문제"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Sui Wendi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "隋文帝"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Суй Вен Ти"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Sûi Bûn-tè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Keiser Wen av Sui"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sui Wendi"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Sui Wendi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sui Wendi"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "سوئی وین تی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Yang Jian"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Yang Jian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вэнь-ди (династия Суй)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Wen od Suija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sui Wen"
+    },
+    "szy": {
+      "language": "szy",
+      "value": "Suy-wen-di"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิสุยเหวิน"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "mga emperador sa tsina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Wen"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "ياڭ جىيەن"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ян Цзянь"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سوئی وین تی"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tùy Văn Đế"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "隋文帝"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "楊堅"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杨坚"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "杨坚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨坚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊堅"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "楊堅"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "楊堅"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "杨坚"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "杨坚"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "楊堅"
+    }
+  },
+  "lastrevid": 17419986,
+  "modified": "2025-09-16T02:11:36Z",
+  "ns": 860,
+  "pageid": 43172,
+  "sitelinks": {},
+  "title": "Item:Q21110",
+  "type": "item"
+}

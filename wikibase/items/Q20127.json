@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Masamoro"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20127$E99E6952-A180-4968-8005-92C46E650C6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22048",
+              "numeric-id": 22048
+            }
+          },
+          "hash": "be50c8c2c4584a42046ace00ae386ee7a3d6aa0b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20127$C18E9557-3D2C-4223-9AF9-1DB20C7F6BA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20127$5583DBAE-6A4E-4796-836D-FF2F54C3960C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20127$FFF8284F-9A77-4DCF-934B-E4720DA40812",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18474",
+              "numeric-id": 18474
+            }
+          },
+          "hash": "31d4bd5d77e90e599485405865914d22a23001f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20127$5E094537-A35B-452A-8A3D-8461483CF900",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20127$06BD86E1-D1D3-4C72-9912-628547F7A8C1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1613-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "423a506d00f146a3a4c502aad2abc40c54238f30",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20127$1314B1F4-1E81-4C4D-B348-03408D94CEF6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1638-09-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "13350de92a708b7fd1cb85e5087ce1b1a174e645",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20127$A4FE2FE4-479C-47A5-A414-FFEAD3ACA6CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10522507"
+          },
+          "hash": "c4459c4d52bdf94a5883ddb88869e178985f76af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20127$1764C907-61AF-41F9-9E81-7DA8E9E69531",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Masamoro Arms.svg"
+          },
+          "hash": "492dd0b882dcf935e2a544db069de5d125be065b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Daimyo in the early Edo period; lord of Enomoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の大名、下野榎本藩2代藩主。加賀藩筆頭家老本多政重の次男"
+    }
+  },
+  "id": "Q20127",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Honda Masamoro"
+    },
+    "de": {
+      "language": "de",
+      "value": "Honda Masamoro"
+    },
+    "en": {
+      "language": "en",
+      "value": "Honda Masamoro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Honda Masamoro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多政遂"
+    }
+  },
+  "lastrevid": 17419260,
+  "modified": "2025-09-16T01:51:53Z",
+  "ns": 860,
+  "pageid": 42222,
+  "sitelinks": {},
+  "title": "Item:Q20127",
+  "type": "item"
+}

@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shigenoi Kinsumi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19073$E31E1D69-2090-440B-A646-FEC49E3B8D26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35663",
+              "numeric-id": 35663
+            }
+          },
+          "hash": "75e37ac6397aa4e24c8f62f2a6dc96a87623cbe7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19073$8C881916-A8FC-40F9-8B50-D310EEA66BC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28023",
+              "numeric-id": 28023
+            }
+          },
+          "hash": "426188e80b6c81bdc0ffa43a0fd00e02b06189f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19073$C099D87F-9999-4997-91DB-2F2B0044FC83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35659",
+              "numeric-id": 35659
+            }
+          },
+          "hash": "d74b2783f6e625d71e099b1219bddb092009c373",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19073$030CFAB9-F7CB-45C2-B5D0-9A7E07B0BD1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20846",
+              "numeric-id": 20846
+            }
+          },
+          "hash": "7f99c55af8f8bde4d7e5480be7e5c75e9d3fe68f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q19073$33DAC788-9FDB-46E3-A9F5-455D102BC3F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "高倉-2"
+          },
+          "hash": "a450af96b0ae8b99e004e28001f5d2efbf47250f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19073$EC7B3D67-7B26-47C0-996A-CAA20E909691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19073$25D9CB1B-E904-4D7F-8659-6E560C35ECDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19073$526A1D9E-FD7E-457F-9C95-EB1DB6664A9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19073$5060B368-3926-48EF-BF35-ABB9A5F0626E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1671-01-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74a7f28a4399865a5314309a5ec22b4903835f49",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19073$1C491E46-5542-4C08-A95F-D66BB6602A42",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1756-08-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "67c867d2f1032f1649fb5ac1e957e694362de441",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19073$5C72FEDE-8216-4927-A5CD-2FC8B6A42C32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564983"
+          },
+          "hash": "90f60ac96df79103bb2c113995fab85da0671280",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19073$FB800AD3-A64D-421F-928A-9CA8DF883191",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shigenoi Kinsumi Arms.svg"
+          },
+          "hash": "2b95e8ce37585e43862fe53f0cb11c120eae9de0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "2 Jan 1671 - 20 Aug 1756"
+    }
+  },
+  "id": "Q19073",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shigenoi Kinsumi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "滋野井公澄"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кинсуми Сигэнои"
+    }
+  },
+  "lastrevid": 17418338,
+  "modified": "2025-09-16T01:29:38Z",
+  "ns": 860,
+  "pageid": 41238,
+  "sitelinks": {},
+  "title": "Item:Q19073",
+  "type": "item"
+}

@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Suan //"
+      },
+      {
+        "language": "en",
+        "value": "Princess Suan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q34622$9DD7BFB4-B446-450D-B5F0-B363669F4B24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q34622$56EE7FBB-5038-42EE-B4FB-FD3F4251AFD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q34622$5A729B34-9C20-44F6-AEED-03C100178A8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34610",
+              "numeric-id": 34610
+            }
+          },
+          "hash": "5cdb3c3e8a705f073c511c7378303823a5fd37c2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q34622$07D44D17-CEAD-49D3-A578-E32A3C3AD5C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34614",
+              "numeric-id": 34614
+            }
+          },
+          "hash": "915107e45cb968d5d16ffbe355cc049af6233dd9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q34622$C03FB129-DBAB-4CBB-BCC2-C7FC867BE172",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q34622$CC170685-D94E-44D1-8969-12C2E1F79B96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1199-06-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecf11700691228cc5c555c846da52ff81582f754",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q34622$0DD511F5-D8DF-4FE9-B10D-8C4DAFCC4056",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12603218"
+          },
+          "hash": "c52b54484c63c4dc0d68e7fc53f44ff4506255d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q34622$2C0C49AD-D664-4B9F-B3D7-5BC9D770D3B5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Suan Arms.svg"
+          },
+          "hash": "618846a11dc22b84cf12f9aa2880558eb8671e51",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "princess of Goryeo"
+    }
+  },
+  "id": "Q34622",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Suan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "寿安宮主"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "수안궁주"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "壽安宮主"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "壽安宮主"
+    }
+  },
+  "lastrevid": 17435852,
+  "modified": "2025-09-16T06:28:25Z",
+  "ns": 860,
+  "pageid": 53674,
+  "sitelinks": {},
+  "title": "Item:Q34622",
+  "type": "item"
+}

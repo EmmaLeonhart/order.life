@@ -1,0 +1,314 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Moge //"
+      },
+      {
+        "language": "en",
+        "value": "Moge"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q36530$6038D317-7915-4A87-A865-BBCC7959C471",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37577",
+              "numeric-id": 37577
+            }
+          },
+          "hash": "b0c4e87f8b781ced58ded0bc03737a1c61c3d2ad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q36530$6542F51F-79C6-4E95-A0E0-C786606907EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36530$A761C8BD-AAA0-498C-9E24-C3304EEB71F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36530$82C34B52-D857-4626-B3AB-75AF3C9A9158",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36498",
+              "numeric-id": 36498
+            }
+          },
+          "hash": "08b12807dd1ae2f0e3ea368c010ed22ee6166db6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36530$5324DC9D-7E22-4D54-A9E9-6A5C80DD4086",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36530$6DFE16BA-9FAC-4902-807C-0E894019762A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1261-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a48de2b5adbce516d736e13c355ba0a7a2a2bcb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36530$C0211289-2E65-40E2-87F3-54A237AED3EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7069436"
+          },
+          "hash": "772de0ede9d7c0552535b405263e7239f7971137",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q36530$5510C521-B35C-4D9C-A630-4FEBF0805F62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791819956"
+          },
+          "hash": "520487aa01eabd40eb01e9ddd6549abf2d576e50",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36530$2B0AFEB1-58A3-4659-8396-AAF490BB1B2B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Moge Arms.svg"
+          },
+          "hash": "525c3e01a787a2891f85be85e40447b4fe9efbc9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Yuan dynasty person CBDB = 115471"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Toluj mongol nagykán fia"
+    }
+  },
+  "id": "Q36530",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Moge"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Moge"
+    },
+    "da": {
+      "language": "da",
+      "value": "Moge"
+    },
+    "de": {
+      "language": "de",
+      "value": "Moge"
+    },
+    "en": {
+      "language": "en",
+      "value": "Moge"
+    },
+    "es": {
+      "language": "es",
+      "value": "Moge"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Moge"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Moge"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Möge"
+    },
+    "it": {
+      "language": "it",
+      "value": "Moge"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "モゲ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "무가"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "末哥"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Мөгэ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Moge"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Moge"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Moge"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Moge"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Моге"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Moge"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Моге"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "موگے"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "末哥"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "末哥"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "末哥"
+    }
+  },
+  "lastrevid": 17438634,
+  "modified": "2025-09-16T07:09:50Z",
+  "ns": 860,
+  "pageid": 55099,
+  "sitelinks": {},
+  "title": "Item:Q36530",
+  "type": "item"
+}

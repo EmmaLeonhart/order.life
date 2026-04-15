@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q21262$185F537B-8BC2-4EC4-BEF7-F08D63A85B17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00428304"
+          },
+          "hash": "22ae6bf54ecfa341ca8a0ea549e996619e74fed0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q21262$8B3C9558-6B36-4370-95AB-85C4F4EC1BC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21263",
+              "numeric-id": 21263
+            }
+          },
+          "hash": "c1bcdd6586dd74e1c7a5b2f2a9d8b5302496e425",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21262$7EDA15A0-9969-4EDD-9DAC-803675771561",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19342",
+              "numeric-id": 19342
+            }
+          },
+          "hash": "146247dccd5497c414bdc57dc9391c8328bac925",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21262$F156962E-B604-46DC-8E17-D2100665C131",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21262$6FA63FF3-7CD2-495F-BE71-A70E7B452133",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q21262$9D76D13C-279E-47C0-9BF4-AE810AF24C32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21261",
+              "numeric-id": 21261
+            }
+          },
+          "hash": "f8d4f34b63af4660ba688ec0cce126180e5b0609",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21262$1B97FC89-C3A3-4B86-BF12-E6287A5DBF71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23367",
+              "numeric-id": 23367
+            }
+          },
+          "hash": "efceb5ba6f2a2cc9f6031281595eb5a89e34392f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21262$FF20897A-2B01-4ED6-9256-99D35FEE8FF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21262$BD8B1BE1-D4BD-4911-865D-E365D7BACB70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0579-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a6f8824e035eebfb301fbaea4b26f83415e8c616",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21262$75CA58C9-BE5C-43BD-9E15-2D0B6A0C7C5D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0670-10-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c30ed3c56189a9de332963d13fcaa70786b9c58e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21262$D52DD901-02DE-4CB7-8077-DA853ED7156C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8255089"
+          },
+          "hash": "c1e5b6581d6bd58012d243781f8eaadc1587d027",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q21262$A535EF18-F7D2-4239-9B3D-13B1B1A70ABF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075338227940"
+          },
+          "hash": "f50988f1d08a080618ec57400917c13b0f23395c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21262$731ED544-7752-43F0-B305-AB2C777456F1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Arms.svg"
+          },
+          "hash": "524954ec3af94e670bad6a501b249f3f1e2cc808",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "noblewoman; mother of Wu Zetian"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Vu császárnő anyja"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мати У Цзетянь"
+    }
+  },
+  "id": "Q21262",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Impératrice Li Minggao"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楊夫人"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Arlodhes Yang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊氏"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Yang"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Yang"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пані Ян"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hiếu Minh Cao hoàng hậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "孝明高皇后"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "孝明高皇后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊氏"
+    }
+  },
+  "lastrevid": 17420244,
+  "modified": "2025-09-16T02:15:18Z",
+  "ns": 860,
+  "pageid": 43307,
+  "sitelinks": {},
+  "title": "Item:Q21262",
+  "type": "item"
+}

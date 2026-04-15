@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Izumi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7293$5D368AF3-BE96-4840-8FE7-4991558E7047",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7293$E81D2455-D104-4068-B364-E8097EC57752",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7293$E16471C0-EA62-4ABC-B8FB-744AB0A7CEDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7229",
+              "numeric-id": 7229
+            }
+          },
+          "hash": "6b41d282a7a27c833a6e53cfacdecc77ad5c7ceb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7293$FD9BB9B1-66CB-41AF-8AF9-FBB347595B39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7293$0A8E0B0D-6604-4456-893F-A4185B079C4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0650-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66c84cf9fa6c25f3e27ccab7fe12552d826abe6d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7293$F8AF706F-0DFF-43AB-B2DD-DD5076387892",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0734-03-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e4839a4e9e712c7baadac55b38361c2171da639",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7293$E648C60C-DE21-4C93-86F7-5C66DD8B7CD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7244656"
+          },
+          "hash": "5eab4649f05216aa41bc11cd3a8ab5c3f37e5360",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7293$DDDD6237-902A-494D-9925-66F6C3A8CF7C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Izumi Arms.svg"
+          },
+          "hash": "43f53d056064f35a711348ddf954060054d144de",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese princess"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская принцесса"
+    }
+  },
+  "id": "Q7293",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Izumi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Izumi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Izumi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Izumi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "泉皇女"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Идзуми-но химэ-мико"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ідзумі-но хіме-міко"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "泉皇女"
+    }
+  },
+  "lastrevid": 17407251,
+  "modified": "2025-09-15T22:32:38Z",
+  "ns": 860,
+  "pageid": 29787,
+  "sitelinks": {},
+  "title": "Item:Q7293",
+  "type": "item"
+}

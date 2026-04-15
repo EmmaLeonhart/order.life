@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Masatomo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20128$CD2CBAE0-DFBC-429E-A16E-88933E900796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20128$0D2539C4-D7A0-49E8-AD07-1CB0A033F86C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20128$E46A4805-5B46-47AA-BA76-BB63C761EF66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18474",
+              "numeric-id": 18474
+            }
+          },
+          "hash": "31d4bd5d77e90e599485405865914d22a23001f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20128$0CD61622-13E7-4A9F-A8B6-0D49DF17751C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20128$17A3A020-4DEE-427B-8501-9807B552376A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1620-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "416ba009d8f53c593eaebad523cee3d2006c53f4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20128$06F6A2EE-99C7-41D1-9390-2A52887EBDE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1661-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce051e0fd59f95fcf3efceffd23d25fe447f4fc8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20128$E9D14591-30BA-43D7-9F80-7F1F0DE18E49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q121998607"
+          },
+          "hash": "bb18ce299ec42e7f2cc41bb088210870fdb073b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20128$DFC7E72A-92B1-4C5B-9C8C-2451919A86CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Masatomo Arms.svg"
+          },
+          "hash": "f3bdb25b0ee5c745090cc9ee2a0b6dde72b5bb10",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[本多政朝] Hatamoto in the early Edo period; grandson of Honda Masanobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の大身旗本。加賀藩家老・本多政重の三男。"
+    }
+  },
+  "id": "Q20128",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Masatomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多政朝"
+    }
+  },
+  "lastrevid": 17419262,
+  "modified": "2025-09-16T01:51:55Z",
+  "ns": 860,
+  "pageid": 42223,
+  "sitelinks": {},
+  "title": "Item:Q20128",
+  "type": "item"
+}

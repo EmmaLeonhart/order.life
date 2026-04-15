@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Orii Masatatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48869$D8D7C938-257A-45F4-A5D3-66DD50D88E10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42251",
+              "numeric-id": 42251
+            }
+          },
+          "hash": "c8664f367fa3b575c7f5605a265fa5b9df62d678",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48869$57C503BD-C716-4919-8FDB-D2AD5C6A4B9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48869$A96523A8-0EA3-4F1A-BC6D-ADFE82273029",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48869$19D24400-00EF-42EA-9D1F-299CD6D076E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48869$A3ED1BB8-6AEF-4321-999E-1CDEF76C77B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1650-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3806830c3fa00ca17bf79e728a358779cbca6603",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48869$A2D4ED62-96C3-484C-A5F3-F9BD1D71053C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1729-07-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0b9f6358a57a1aed357120db093c84d9d0761ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48869$C4C12763-8537-46AE-ADDD-730BFFB91463",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11497479"
+          },
+          "hash": "8ddbf5bd071beb3f313b51f7c144fd3762a9ec95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48869$67DC894D-6C45-42D4-8590-9463044ED871",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Orii Masatatsu Arms.svg"
+          },
+          "hash": "cec2b70a9687c4557711d7675fa648fcfe6a860e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の旗本。淡路守"
+    }
+  },
+  "id": "Q48869",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Orii Masatatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "折井正辰"
+    }
+  },
+  "lastrevid": 17454478,
+  "modified": "2025-09-16T10:58:23Z",
+  "ns": 860,
+  "pageid": 64322,
+  "sitelinks": {},
+  "title": "Item:Q48869",
+  "type": "item"
+}

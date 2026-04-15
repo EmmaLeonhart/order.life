@@ -1,0 +1,607 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Birutė //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q56031$2D0FBC5D-7339-49E8-864F-DC94EAB4074D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "258134"
+          },
+          "hash": "74c52fe3a348126ffbbeab08a05b9e911788f9bd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q56031$5E4D8E3D-3A7B-482B-A7CA-A6E9B218E079",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00174625"
+          },
+          "hash": "aabf42b5f203f09206d7cbda5990168c5469cf8d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q56031$A3E318E9-D5AE-4A39-8107-204AD42F8B96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56063",
+              "numeric-id": 56063
+            }
+          },
+          "hash": "4b4b75ac22f7e6dd4ec00b527640f0898a945ad0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$1584E89D-029E-40D8-B9A3-7F3024EED98C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56055",
+              "numeric-id": 56055
+            }
+          },
+          "hash": "259e381eab0a35bf523df5ae35a12f171dfc23f4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$E2A78B13-747D-4D38-8D5D-F115FEC8BE8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56043",
+              "numeric-id": 56043
+            }
+          },
+          "hash": "6f5051b9c9ba1e40968ccde55b27698de7198879",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$4D3B7D18-F901-4175-AA58-4B2F00E2231E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56035",
+              "numeric-id": 56035
+            }
+          },
+          "hash": "61c04b3ed8b1a4cfacd284cf479fb25951fd21b7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$F501398D-D2EE-4C08-B0CD-61CF3C9CE7B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56039",
+              "numeric-id": 56039
+            }
+          },
+          "hash": "557a8ddd7d0cbe1ceec5f64acf090fa49c7d8712",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$45F9C7AF-B823-45EF-9A48-3D96F5708C33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56059",
+              "numeric-id": 56059
+            }
+          },
+          "hash": "ed60f82dd060e3624e1388a77bfee80b75f0f900",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$D7B49153-1DB5-4CCE-87B8-326D3FADA1BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56071",
+              "numeric-id": 56071
+            }
+          },
+          "hash": "479cd12355a66e5d073f0f3c71c2689cc1be13cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$0F0473D2-D294-4CF9-B6FD-C96030D82017",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56051",
+              "numeric-id": 56051
+            }
+          },
+          "hash": "5c0cacf16b77a17b133db1f04b70115471525381",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$152DE52D-5ABE-4C8A-87A2-693319598448",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56047",
+              "numeric-id": 56047
+            }
+          },
+          "hash": "b3a279db15ebc9001ed83907447469e07e54c9f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56031$5D5B1151-49D3-4DC9-B694-6C992A420B12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56031$6CD07722-956D-413D-957E-8743E5932D6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q56031$727542B1-47C0-42DB-9CB6-4AA84C25311D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Birutė_(1)"
+          },
+          "hash": "faeb4b0e81c71b595dc6e91f9f7c919d60b8edcd",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q56031$5E61ACA9-9776-46FC-9035-EB465BA74DE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50361",
+              "numeric-id": 50361
+            }
+          },
+          "hash": "d7d6839d39f09802b4274193d2f9fb293a33b3a3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56031$264C7FEB-A327-46A2-9039-090835F69539",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56031$902183D3-291C-4C47-B63D-36109D2B4316",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1325-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c93b93696e0939b58879abfeb9df69c9c4fc0445",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56031$85183640-D092-4930-962B-C3129D5CDCD4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1382-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "51404317e0f9f032f57e2b8a35c3955a4d9d2762",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56031$7022A4A2-5364-41DE-A6FA-B3EEC58A3258",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2371160"
+          },
+          "hash": "644a6536a29c64347ed814003585ce5b64e2438a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q56031$A4E182C5-E527-4F0B-ADF7-6719FE94735E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001398561082"
+          },
+          "hash": "6207bec657e35c3045418bc298ce487de7f55f59",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q56031$FFF5A0D0-B7F4-4E9B-A426-855E059AF223",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=bierute;n=n"
+          },
+          "hash": "421546f83b90fa8de86ff2e91e8207b5617c88fc",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q56031$13E31C4A-A8A9-4894-9FE2-7126CEA34F91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.2012"
+          },
+          "hash": "43a21bf2c156abdf583bfbed0cf67dc1caf720a0",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56031$8FEE765A-9913-4124-8476-13CA5F4CF643",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Birutė Arms.svg"
+          },
+          "hash": "f64ba66d62e55c28ebdca143036c26a06bab4c5b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "жонка Кейстута"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "вялікая княгіня літоўская"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "litevská kněžna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Großfürstin von Litauen"
+    },
+    "en": {
+      "language": "en",
+      "value": "consort of Prince Kestutis"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Liettuan suurruhtinatar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble de Lituanie, née en 1325"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ukochana żona księcia Kiejstuta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "литовская княгиня"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "mke wa Prince Kestutis"
+    }
+  },
+  "id": "Q56031",
+  "labels": {
+    "as": {
+      "language": "as",
+      "value": "বিৰুটে"
+    },
+    "be": {
+      "language": "be",
+      "value": "Бірута"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Бірута"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Biruta Litevská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Birutė"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπιρουτέ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Birutė"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Birutė"
+    },
+    "es": {
+      "language": "es",
+      "value": "Birutė"
+    },
+    "et": {
+      "language": "et",
+      "value": "Birutė"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Birutė"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Birutė"
+    },
+    "he": {
+      "language": "he",
+      "value": "בירוטה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Birutė (moglie di Kęstutis)"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Birutė"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Biruta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Birutė"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Biruta"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Birutė"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бирута"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Biruta"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Birute"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Birutė"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Birutė"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бірута"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "比盧塔"
+    }
+  },
+  "lastrevid": 17464324,
+  "modified": "2025-09-16T13:23:43Z",
+  "ns": 860,
+  "pageid": 70862,
+  "sitelinks": {},
+  "title": "Item:Q56031",
+  "type": "item"
+}

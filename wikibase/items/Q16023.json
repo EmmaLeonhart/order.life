@@ -1,0 +1,376 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshinaga"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q16023$003F683B-67D5-4890-9FF5-4C37A9C8FF2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560013"
+          },
+          "hash": "879aa3596802c3a084b89c59d777dda63d0b466b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16023$AF80415C-5A6C-420A-80FE-9A8555558AA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16023$CB1BBC4F-1F6D-430B-A711-297E7CC32F23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16023$1B89E6A6-7BD8-4B44-A5E5-03FAF0AEC8A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26992",
+              "numeric-id": 26992
+            }
+          },
+          "hash": "b0d1c7ecd6ac390d4347f8f785ab651765d3fa3c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16023$660AC86D-BDA1-403D-9374-B3C790E39555",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16014",
+              "numeric-id": 16014
+            }
+          },
+          "hash": "80d474c17ca844f3e590ba68ee2512a094020fc6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16023$BFA54E34-109A-4174-B181-308CD36E9858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16015",
+              "numeric-id": 16015
+            }
+          },
+          "hash": "fdde0ca4ace16a8953c78cdb6d3de20306cd44fc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16023$F5D3BD0F-EC61-4D66-9713-035504F1D8BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16023$662AE363-3DFC-417A-B3E0-034F2C095A14",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1562-02-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e9c8c6fced8ac61b6005482f3041e0bc9e0727d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16023$E5DC5281-1628-4F9F-9111-1376618F0C1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1614-06-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75c325916619d3427030f4d12f1a23e598d8f7cc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16023$71CE9272-D239-4151-B403-66117A8DAB6D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshinaga.jpg"
+          },
+          "hash": "e4857c677a999d4ab6872959996d7c22fb61bd8f",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16023$BF7D9517-F6C2-40E7-B70E-3D97A95D3AE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1186742"
+          },
+          "hash": "178826ba86f70ac9ba08618e1e6d46ac5d9f48e8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16023$C224346D-9164-4C98-85C8-532335789A58",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshinaga Arms.svg"
+          },
+          "hash": "c7ce07e6e61817db7c13bb7f76b47316938508a3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1562–1614)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(1562-1614) samurai i dàimio de Kaga durant el període Edo"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo (1562-1614)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代初期の武将、大名。加賀藩初代藩主。前田利家の長男（嫡男）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1562-1614)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1562 – 1614)"
+    }
+  },
+  "id": "Q16023",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Maeda Toshinaga"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maeda Toshinaga"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tošinaga Maeda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maeda Toshinaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshinaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maeda Toshinaga"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مائدا توشیناگا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maeda Toshinaga"
+    },
+    "it": {
+      "language": "it",
+      "value": "Maeda Toshinaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利長"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마에다 도시나가"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maeda Toshinaga"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маэда Тосинага"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maeda Toshinaga"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Maeda Toshinaga"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "前田利長"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "前田利长"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "前田利長"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "前田利長"
+    }
+  },
+  "lastrevid": 17415662,
+  "modified": "2025-09-16T00:26:32Z",
+  "ns": 860,
+  "pageid": 38296,
+  "sitelinks": {},
+  "title": "Item:Q16023",
+  "type": "item"
+}

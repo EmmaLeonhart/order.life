@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Ariho"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8448$9DA8B48C-FD79-4F1B-B0BB-3E9AB0AB85DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8740",
+              "numeric-id": 8740
+            }
+          },
+          "hash": "06689e0b4fd48500648694980fa7effd9cb45eb8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8448$9FA7E76F-06EE-4BBD-BC76-45B85699C8E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8448$8F5CA954-51AF-4A60-A9D0-A7B66977A6BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8448$3FCC139C-7DF2-4689-BA10-600C71E8DF20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8158",
+              "numeric-id": 8158
+            }
+          },
+          "hash": "2a7c25b44373470a4245a4faa05ed5ad897af3bf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8448$0A705576-D246-4E5E-BDC2-5F32C5041655",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8448$697B54E7-9F03-44E8-9351-798E6890DC8D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0838-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7811a8d72f2ac2559bb89f0102506142714a10ae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8448$E163FC0A-96CB-4A31-AA46-381221B4BC78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0908-01-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcb7f961aec8860150ef7c5c13462683592c6093",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8448$47DE228C-94D6-4ED1-AB16-3DAEC32AA731",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623334"
+          },
+          "hash": "d01796b2afe84fbf1ce14a989b2244cbb3675111",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble in the early Heian period"
+    }
+  },
+  "id": "Q8448",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Ariho"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原有穂"
+    }
+  },
+  "lastrevid": 17408860,
+  "modified": "2025-09-15T22:52:45Z",
+  "ns": 860,
+  "pageid": 30935,
+  "sitelinks": {},
+  "title": "Item:Q8448",
+  "type": "item"
+}

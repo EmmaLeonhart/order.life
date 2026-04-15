@@ -1,0 +1,338 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "George VI of Georgia //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q43378$7C3B562B-2D61-40B7-94D2-820524050DC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "585737"
+          },
+          "hash": "4f982765a197ade55f12f93bcf668b39e077caf5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43378$5A00CD0C-D93B-48FC-8EE8-5140CDE02F7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43378$C12A8B73-8B4C-44B3-9E55-DCCB8399C208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q43378$563C7070-7694-4302-BC03-B091F2D72661",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "George_VI_of_Georgia_(1)"
+          },
+          "hash": "02b49d12696b1bf86387f925da51da99c90040d9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43378$347B3537-2A83-4F6B-91BD-DDC128129C88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41004",
+              "numeric-id": 41004
+            }
+          },
+          "hash": "f2938d331332673d2329731ab31f50c6f941c989",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43378$6F1181B6-A162-45DE-B624-658BD069B32E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43378$11FE8AFE-BE41-41A6-AF72-A2786526D522",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1308-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19a5ad6ef33442021a9955b0de0f6b74aaf4e0aa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43378$79F3D513-8DA6-40F2-B647-0ACCEC65AB4B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1313-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fae6a4a7b71dcc30ae275b0b8752f1840ef8bf8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43378$3D16FE73-94AA-45F7-BA1B-7E33EC9DE019",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888692"
+          },
+          "hash": "211b237cc45d752fc78d8905bfe3082cdbf87a2f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43378$3499D250-D54C-45A7-A9E1-683C08921149",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "George VI of Georgia Arms.svg"
+          },
+          "hash": "02d161da723b0875ab9cada5f036c3b9eb0cba05",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "actor infantil xeorxanu (1308–1318)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "král Gruzie"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Georgien"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Georgia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de Georgia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí na Seoirsia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך גאורגיה"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Georgia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "georgisk monark"
+    }
+  },
+  "id": "Q43378",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Giorgi VI de Geòrgia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jiří VI. Gruzínský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Giorgi VI."
+    },
+    "el": {
+      "language": "el",
+      "value": "Γεώργιος ΣΤ΄ της Γεωργίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "George VI of Georgia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Georgio la 6-a e Kartvelio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jorge VI de Georgia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Georges VI de Géorgie"
+    },
+    "he": {
+      "language": "he",
+      "value": "גיאורגי השישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Đuro VI. Gruzijski"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գեորգ VI"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giorgio VI di Georgia"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გიორგი VI მცირე"
+    },
+    "mdf": {
+      "language": "mdf",
+      "value": "Георгий VI"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "George VI van Georgië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Георгий VI Малый"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Georg VI av Georgien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VI. Giorgi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Георгій VI Малий"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "吉奧爾基六世"
+    }
+  },
+  "lastrevid": 17447484,
+  "modified": "2025-09-16T09:15:48Z",
+  "ns": 860,
+  "pageid": 60221,
+  "sitelinks": {},
+  "title": "Item:Q43378",
+  "type": "item"
+}

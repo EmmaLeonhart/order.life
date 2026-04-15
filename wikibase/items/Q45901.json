@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexios Palaiologos //"
+      },
+      {
+        "language": "en",
+        "value": "Alexios Palaiologos"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q45901$0FAFDF9B-BEC4-408E-AF07-940C3EB3C538",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139079"
+          },
+          "hash": "4697647187c4a25c483be704210a9230df5a7a1c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q45901$919D3B0E-1424-4E33-B7FA-F4AEE059A799",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45909",
+              "numeric-id": 45909
+            }
+          },
+          "hash": "d23edbe0e9d87fd15ec8cd8bc35ed7ecd699fe92",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45901$4CFD2C72-E4DF-46CA-AA88-57DF175E26C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43176",
+              "numeric-id": 43176
+            }
+          },
+          "hash": "f14d2db5cc7b94453b5e5054aad8cf9553439695",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45901$BCD416AC-C25F-4D70-9542-3EB7576DFCFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45901$483DCB24-EB67-470B-BCAB-853CFE03530D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q45901$8D5650AE-49B0-48C8-8A2D-1387DB9868B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45905",
+              "numeric-id": 45905
+            }
+          },
+          "hash": "0a544715c0699adc453a80c692560759dfb200e4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45901$AEF0D090-F5DC-42F8-8CA2-E16FD62B1BBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49334",
+              "numeric-id": 49334
+            }
+          },
+          "hash": "6138928ccc9f086f7aab63bbbcb35c18d8030e60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45901$5A138B63-BCDB-4E57-8616-BFED770ADE7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45901$699DBBA0-023A-499E-BDD0-C515D5A9EC84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b77a02bf3d1b65e76819a0e6802e2ee8ff68bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45901$8DA8BAFD-FACB-449D-8C51-6BA0DEF94E99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q56205709"
+          },
+          "hash": "d881b1c572e1ec0bf6f56eb6c0bb70a7a7d5e59b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45901$DC331CA6-8EE8-41BC-9DA3-FC37C2A0908D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexios Palaiologos Arms.svg"
+          },
+          "hash": "0ebda36046a61e63019a2a666a50abdf729e1eb2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски аристократ, велик дука"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "megaduc de l'Imperi Romà d'Orient"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός μέγας δουξ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine ''megas doux''"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate byzantin, mégadux"
+    },
+    "it": {
+      "language": "it",
+      "value": "(Megaduca)"
+    }
+  },
+  "id": "Q45901",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Аляксей Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Алексий Палеолог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aleix Paleòleg"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξιος Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexios Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejo Paleólogo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexis Paléologue"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Aleksije Paleolog"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alessio Paleologo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alejo Paleólogo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алексей Палеолог"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Алексије Палеолог (велики војвода)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олексій Палеолог"
+    }
+  },
+  "lastrevid": 17450620,
+  "modified": "2025-09-16T10:02:50Z",
+  "ns": 860,
+  "pageid": 62107,
+  "sitelinks": {},
+  "title": "Item:Q45901",
+  "type": "item"
+}

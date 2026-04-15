@@ -1,0 +1,250 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q14407$DABFCA6E-B132-4720-B5EE-0B804ABF30CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46684",
+              "numeric-id": 46684
+            }
+          },
+          "hash": "81f93b5b342fe163ee4621c2658dfe9c436c52b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14407$CC44A8B9-4025-4CC9-B08D-A8348833E76B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14407$50C2BA46-CE7F-495B-90B0-BFE027F5D3B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q14407$B4B83FA3-A274-4AE9-8859-C40A404169DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50947",
+              "numeric-id": 50947
+            }
+          },
+          "hash": "852b6056b78321659bbc140c0910865c6a0eb075",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14407$AB2DBB70-F301-4A23-BAB8-B2576C389D60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14407$CD3C065C-E600-4B5F-B036-CB03BBD9EB3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1336-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71f2215be6826c6115aebbdbb3bb1334a0e096f6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14407$2F01AEC2-1186-4568-8A2D-628DC5C0F680",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1427-06-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "484653d97258e7942994cbd465540070471ec191",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14407$675F3990-7612-47AD-84C5-F22F8D7A83D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11485456"
+          },
+          "hash": "e569a278bed17bf0b0531759b4f13dab442bb3c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14407$896139AF-51F5-4DF7-8F25-A36657DE66C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Nakako Arms.svg"
+          },
+          "hash": "f86cd9ba8184fbd9415c26b78a50b8bb674e30fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の室町時代の女性。女院。後光厳天皇の典侍。比丘尼御所の大慈院（南御所）開基。子に永助法親王（1362.4.24-1437.3.16、五男、煕永親王、熙永、仁和寺御室、空助、熈仁、一品、後常瑜伽院御室、永助入道親王）"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระราชมารดาในจักรพรรดิโกะ-เอ็งยู"
+    }
+  },
+  "id": "Q14407",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Nakako"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Nakako"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Nakako"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Nakako"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Nakako"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "広橋仲子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히로하시 주시"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хирохаси Накако"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ นะกะโกะ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "廣橋仲子"
+    }
+  },
+  "lastrevid": 17414456,
+  "modified": "2025-09-16T00:09:43Z",
+  "ns": 860,
+  "pageid": 36708,
+  "sitelinks": {},
+  "title": "Item:Q14407",
+  "type": "item"
+}

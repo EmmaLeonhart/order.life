@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Xuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23240$419289C1-E2A2-4757-80E0-13E58872EE55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21165",
+              "numeric-id": 21165
+            }
+          },
+          "hash": "f6efe293b40a3d7a62750bae73b7f41048b5ef46",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23240$3886D07E-CB7E-4862-8BB8-7F76DBDCBC08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23240$51C7600D-7BD0-4891-BC7E-A19D6096D629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23240$0DCB055B-B29D-4FB6-B428-D69DBE31AAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44934",
+              "numeric-id": 44934
+            }
+          },
+          "hash": "d32ebdc9431d29687de20525d420f1765c6412ce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23240$80A945AC-4EE4-4E47-B2BA-9FFEFF5BC7B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23240$BB413653-F867-4F47-B2AD-39E12A019140",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0526-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7ce658eca7728dc8aa062525ab5b173ef9d8dc97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23240$89AEBF8C-47E6-4FEB-A1D0-10E12F248F38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15910881"
+          },
+          "hash": "628c010bfa3671e6eea049b7af3621f0de5b877b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23240$DBE23B4A-4072-4355-810B-10DD96A76B23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074705589245"
+          },
+          "hash": "e7b83cdf9e6781e6794e77d13305c8ba2af5a29d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23240$910E55A2-7E23-4738-9E4F-C517DA6FDE86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074733417916"
+          },
+          "hash": "d35538575d0e04e5658ed4e9704f72dbfc932208",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23240$93FE25D2-C5E3-4733-AC16-A84620771586",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Xuan Arms.svg"
+          },
+          "hash": "74ffab25e74de295d1f5f5a86ee44be84bc0d461",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Western Wei person CBDB = 12366"
+    }
+  },
+  "id": "Q23240",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Xuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Xuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Xuan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊暄"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Xuan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dương Huyên"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杨暄"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨暄"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊暄"
+    }
+  },
+  "lastrevid": 17422074,
+  "modified": "2025-09-16T02:58:41Z",
+  "ns": 860,
+  "pageid": 45195,
+  "sitelinks": {},
+  "title": "Item:Q23240",
+  "type": "item"
+}

@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gao Xuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21368$7EC9A48F-35E5-406B-9A17-FB3932253875",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23672",
+              "numeric-id": 23672
+            }
+          },
+          "hash": "c02799eac31cb8801e17612c8fa5a3022ba78a17",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21368$3483D54F-1040-469A-8B8C-2872897D9768",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23673",
+              "numeric-id": 23673
+            }
+          },
+          "hash": "e442438d1f00e74067c6537163024a8f5f064dbd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21368$781FABF5-7CC3-4875-8CA8-2AC7B3ECF455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21368$AC45DC15-D826-4ABB-ADEF-FEA6D6592CF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21368$7D4B0EAD-1C14-46B7-8A72-74ED549ADDE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19387",
+              "numeric-id": 19387
+            }
+          },
+          "hash": "2f9d5c9ac0312541489c6c9e49639f9eff218e64",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21368$12B1CD57-AC67-4D86-8840-9A566956EC8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21368$B78E3728-3A61-4C66-AAC2-3419EBD31310",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0710-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "37fce814676ea579f95c4a8b2199af5bf0d8383b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21368$D81FAC47-BB44-4D86-BE3A-D9EA8844871E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45514403"
+          },
+          "hash": "4008481c2055ca6f086175b90fb3abe2d2cd9833",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21368$DE566035-C85F-471B-A5D1-0D614FC0B606",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gao Xuan Arms.svg"
+          },
+          "hash": "7adf5b212e07e0bafbd4729efe6380b4ead651d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172878"
+    }
+  },
+  "id": "Q21368",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gao Xuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gao Xuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gao Xuan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "高琁"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gao Xuan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "高琁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "高琁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "高琁"
+    }
+  },
+  "lastrevid": 17420436,
+  "modified": "2025-09-16T02:17:59Z",
+  "ns": 860,
+  "pageid": 43404,
+  "sitelinks": {},
+  "title": "Item:Q21368",
+  "type": "item"
+}

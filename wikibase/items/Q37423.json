@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yi Shi Zhen Zhu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q37423$7184F029-3879-4B97-B7D4-8755C7333FB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41911",
+              "numeric-id": 41911
+            }
+          },
+          "hash": "3f7d4d47fe2d851670ac5dc57fbda0a47358926a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37423$DF984A1C-97B3-4B79-8DAC-DD6DC5330AC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37423$FA5FAB47-9BF0-4129-9B20-E2AB67C04587",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37423$6D39C5F2-0E69-47D5-8519-356064F4A8DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33210",
+              "numeric-id": 33210
+            }
+          },
+          "hash": "2d8269bed2f81af64106de35a9d5cc73cd397f4f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37423$06378B04-A3EE-4CE5-AECD-98D897480825",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37423$A55D1AC7-4BB7-404A-98E3-9FD00A051419",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1504-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55df1b641051c86400ba40a38e957451e842b179",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37423$21390601-050A-4834-BFDF-E3BEE81684AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1575-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "07f6d3f8de2e1c82f38e330d365e993670cac21d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37423$04F79D7E-4162-43A0-B67E-FF751B991E17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q62601439"
+          },
+          "hash": "94272a3c93deb311ea55256da465c9453431e472",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の室町幕府 幕臣・奉公衆・申次衆"
+    }
+  },
+  "id": "Q37423",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "伊勢貞助"
+    }
+  },
+  "lastrevid": 17439834,
+  "modified": "2025-09-16T07:27:14Z",
+  "ns": 860,
+  "pageid": 55765,
+  "sitelinks": {},
+  "title": "Item:Q37423",
+  "type": "item"
+}

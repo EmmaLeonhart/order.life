@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wake no Matsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8781$9026F7FE-796A-4E83-A0EC-994263BC3A8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8781$C4B4DCAC-BA30-402D-8468-BFAA98F43E63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8781$24BEC485-43C0-4C48-A25E-C9AC95215105",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8497",
+              "numeric-id": 8497
+            }
+          },
+          "hash": "d8f4f459e227de1fb551c86a37a10ba1eae13f71",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8781$5521C89D-2173-4788-8103-A97814D26A83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8781$AC6EB0EB-2ABB-431D-806C-667BD207EA09",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0783-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19d4606eceb0df77724eda9b841a7d5e4d5ef4c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8781$51D656EC-0866-41D9-82BA-7E07D7BC4EC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0846-10-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "41348ef3b18ae701004014b876bf41b09dc0023e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8781$79BA52F0-D55F-4670-BD18-4F25B511951C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wake no Matsuna.jpg"
+          },
+          "hash": "41f795a041803ca3f9f6b747822d4071dc513e1e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8781$8DB4D6E9-85D9-4F14-A6D8-DF86B6516FF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11417735"
+          },
+          "hash": "14a47293eb32c89eea9a25a165fa9a8bcf8d1d33",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代初期の公卿。和気清麻呂の五男。従四位上・参議、贈正三位。子に和気豊永（三河守）、和気好道（和泉守）"
+    }
+  },
+  "id": "Q8781",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wake no Matsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "和気真綱"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вакэ-но Мацуна"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "和氣真綱"
+    }
+  },
+  "lastrevid": 17409593,
+  "modified": "2025-09-15T23:01:50Z",
+  "ns": 860,
+  "pageid": 31265,
+  "sitelinks": {},
+  "title": "Item:Q8781",
+  "type": "item"
+}

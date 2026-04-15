@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jayasena"
+      },
+      {
+        "language": "en",
+        "value": "King Jayasena of Kosala"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q1928$4A7EF9CE-F380-41A8-BD43-10E0769DFC2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2260",
+              "numeric-id": 2260
+            }
+          },
+          "hash": "8a5be6a86f1f51dd9661f395500db17cc4ed3383",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1928$A0DE6B15-3740-4FB3-89F5-0DECB4E40358",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1911",
+              "numeric-id": 1911
+            }
+          },
+          "hash": "97db83011e4467b2024353546b6d3922ea0e2548",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1928$E8CAF90D-51A2-441B-9631-E5A4E604D385",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1927",
+              "numeric-id": 1927
+            }
+          },
+          "hash": "91102025d8c1e35970d31de0527f8eb752e9d9d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q1928$DFC93DB5-E411-408D-BE06-176D1F189635",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1928$3B925695-2D34-44DD-80CC-FC0953CC981B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q1928$EE9475B1-5465-4F28-988C-7D9061E4B7D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1945",
+              "numeric-id": 1945
+            }
+          },
+          "hash": "3ba56329d034808297a2456a0551815112ed9a2b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1928$2A2F0523-6FEB-4B64-A5A9-959F081035FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q1928$E11E9BB2-0682-400F-8542-C14F84C5F529",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King Jayasena of Kosala //"
+            }
+          },
+          "hash": "fe495b2d7788e169c25b9216ea2508a92525266f",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1928$8C04EE1A-F5DB-408E-8ED4-25A0EF2864B1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jayasena Arms.svg"
+          },
+          "hash": "8b510a772a88a93283ad80183372f459ce3cd607",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q1928",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jayasena"
+    }
+  },
+  "lastrevid": 17404379,
+  "modified": "2025-09-15T21:36:37Z",
+  "ns": 860,
+  "pageid": 20196,
+  "sitelinks": {},
+  "title": "Item:Q1928",
+  "type": "item"
+}

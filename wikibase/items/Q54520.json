@@ -1,0 +1,807 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip VI of France //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q54520$CAB519A7-8CAA-467F-AD12-B3426EA37607",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "28832"
+          },
+          "hash": "fae419964845045465ce6660aabdc0ea55cf3359",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q54520$EAA153DD-0BB6-4EBC-BFB1-6C444F152625",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00000226"
+          },
+          "hash": "b77dbf304efb08707a1166f943cb2e6ce46fa0fa",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q54520$0A72F7E2-63E2-46EE-925B-743742966DDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Valois-119"
+          },
+          "hash": "348726d14c8b10a81ba29ad0c297ebab7879f582",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q54520$817E92FE-A0AA-4ED3-8FF4-FCBFFFE9573E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I3150"
+          },
+          "hash": "0c292dc188a301243dfe018bd11c3de4cff58b5e",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54520$8F87A58E-E34D-46D6-842F-2EF1CFD017F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54520$184DB4EB-22F6-4C8B-B7DD-5A2461AB1349",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q54520$373038DF-A6D4-407D-B491-FC9E50437951",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip_VI_of_France_(1)"
+          },
+          "hash": "ccd58e61c9b98293cb147e7b6f599ebdb809d0a1",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q54520$56B37DBE-0F15-4287-B754-D38C96CE829A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10314.htm#i103134"
+          },
+          "hash": "e729308b7d985cde0e5901a8b7fc6280e183b1e4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54520$C0049E3C-2F2D-4185-8547-58E5DD247165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54516",
+              "numeric-id": 54516
+            }
+          },
+          "hash": "98ba2c0e9d0d613004aede8f42e6eb75956915e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54520$A896A575-939E-4502-B381-E956AA19DC21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49600",
+              "numeric-id": 49600
+            }
+          },
+          "hash": "76c0c0be568f004952bc4b2a93fd13adbdf97b6c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q54520$88342AB5-9991-43F6-B3CC-99ECB8426937",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "21104"
+          },
+          "hash": "07b294741cf49637027ed7c582bb61178753f2e9",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54520$A076D0E9-EE2E-4209-B538-01FB26EEB76C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54520$6FBF7866-F54F-4584-BCF2-2125DB0078F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1293-11-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01523ac02fa6cc7d9153762166606726628a4c8a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54520$239B1C92-9F3D-4138-8150-EF7DF1796142",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1350-08-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a0486b0c629cbb4860b142adf2414f61f1b0ba9d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54520$3D733AC6-CA53-4E4E-9995-392085BB024B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q170586"
+          },
+          "hash": "1c5a3c42abd79dd0fa8b3ae99ff6188bcf6bcc77",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q54520$D36B6434-DFDC-473A-A21F-4D5BD3644030",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004526669032"
+          },
+          "hash": "c06409afe545d5bcefb0531f7e4b141d0e3b945a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q54520$99F9ECC0-F6D4-496E-8282-F77D7DB7981E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=philippe;n=de valois;oc=6"
+          },
+          "hash": "406ed30b797b83a7b4b4c3c71bfd49c958788f35",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q54520$B2723386-9BA9-48D1-8EFE-7B94BEC0AC15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sg.138150"
+          },
+          "hash": "325237cca8100085677ed79a92e5ec1dcb70eecf",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54520$2D34BE6D-E46C-4FD1-833D-0D230579DE55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip VI of France Arms.svg"
+          },
+          "hash": "68018aaa71712d9d230ad5f46d6db3a4fd04f495",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي فرنسي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "soberanu francés (1293–1350)"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Францыі (1328—1350)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "francouzský král"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin neu frenhines (1293-1350)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Konge af Frankrig"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Frankreich (1328–1350)"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of France from 1328 to 1350"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Francia. Primer monarca francés de la Casa Real de Valois rama de la Dinastía de los Capetos."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه فرانسه در قرن چهاردهم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de France de 1328 à 1350"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei de Francia e primer monarca francés da Casa Real de Valois"
+    },
+    "he": {
+      "language": "he",
+      "value": "ראשון למלכי שושלת ולואה, מלך על צרפת מ-1328 עד מותו, רוזן אנז'ו מן ובלואה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "francia uralkodó (1328-1350), az első Valois-házi király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Francia (r. 1328-1350)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴァロワ朝フランス王初代。アンジュー伯、メーヌ伯"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Francijas karalis no 1328. līdz 1350. gadam"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Franse koning (1293–1350)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Król Francji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei da França"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Франции (1328–1350)"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "francúzsky kráľ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Francije (1328–1350)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fransk regent"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransa kralı (1293-1350; hd. 1328-1350)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q54520",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Felipe VI de Francia"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فيليب السادس ملك فرنسا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فيليب السادس ملك فرنسا"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Philippe VI (gazik ke Franca)"
+    },
+    "az": {
+      "language": "az",
+      "value": "VI Filipp (Fransa kralı)"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سککیزینجی فیلیپ"
+    },
+    "be": {
+      "language": "be",
+      "value": "Філіп VI Валуа"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филип VI"
+    },
+    "br": {
+      "language": "br",
+      "value": "Fulup VI"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Filip VI, kralj Francuske"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Felip VI de França"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "فیلیپی شەشەم"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Filip VI. Francouzský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Philippe VI, brenin Ffrainc"
+    },
+    "da": {
+      "language": "da",
+      "value": "Filip 6. af Frankrig"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp VI."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Philipp VI."
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος ΣΤ΄ της Γαλλίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip VI of France"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Philip VI of France"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Philip VI of France"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Filipo la 6-a de Francio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Felipe VI de Francia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Philippe VI"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Filipe VI.a Frantziakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فیلیپ ششم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Filip VI"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe VI de France"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Filipe VI de Francia"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפ השישי, מלך צרפת"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Filip VI., kralj Francuske"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VI. Fülöp francia király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ֆիլիպ VI"
+    },
+    "id": {
+      "language": "id",
+      "value": "Philippe VI dari Prancis"
+    },
+    "io": {
+      "language": "io",
+      "value": "Filip 6ma di Francia"
+    },
+    "is": {
+      "language": "is",
+      "value": "Filippus 6."
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo VI di Francia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィリップ6世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ფილიპ VI"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "필리프 6세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Philippus VI"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Filips VI"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Филип VI Валоа"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "सहावा फिलिप"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Philip VI dari Perancis"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Felipe VI de Fráncia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Filip VI av Frankrike"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Filips VI van Frankrijk"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Filip VI av Frankrike"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Philippe VI de France"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Felip VI de França"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Filipe VI ed Franche"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip VI Walezjusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filipe VI de França"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filipe VI de França"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Filip al VI-lea al Franței"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп VI"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Filip VI., kralj Francuske"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Filip VI."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Filip VI. Francoski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Филип VI Валоа"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Филип VI Валоа"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Filip VI Valoa"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Filip VI av Frankrike"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าฟีลิปที่ 6 แห่งฝรั่งเศส"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VI. Philippe de France"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіп VI"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "فلپ ششم، فرانس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Philippe VI của Pháp"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Philippe VI van Vrankryk"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "腓力六世 (法兰西)"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Filip 6k ilẹ̀ Fránsì"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "菲臘六世 (法國)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腓力六世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "腓力六世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "腓力六世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "腓力六世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "腓力六世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "腓力六世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "腓力六世"
+    }
+  },
+  "lastrevid": 17462064,
+  "modified": "2025-09-16T12:49:59Z",
+  "ns": 860,
+  "pageid": 69351,
+  "sitelinks": {},
+  "title": "Item:Q54520",
+  "type": "item"
+}

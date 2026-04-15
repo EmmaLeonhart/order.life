@@ -1,0 +1,141 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Itaru"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8264$BA955CD4-4DBB-4376-8385-66BD87E4C25E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8264$E703CFD4-14A1-45FE-BE52-0E4B71496AA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8264$D26FA72B-5709-453D-8E12-28F7D71CCB13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8264$B574BB24-0BD0-46E0-B888-763F56F008E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8264$6F5CB65D-3D44-482D-B47B-8F459AC93E8B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17214017"
+          },
+          "hash": "2156f1299957bd643e44b305eb36d0fbe2da21dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8264",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Itaru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源効"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Minamoto no Itaru"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源效"
+    }
+  },
+  "lastrevid": 17408466,
+  "modified": "2025-09-15T22:47:45Z",
+  "ns": 860,
+  "pageid": 30752,
+  "sitelinks": {},
+  "title": "Item:Q8264",
+  "type": "item"
+}

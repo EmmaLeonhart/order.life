@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Dowager Hanshi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q8015$E4896657-6704-4AA8-8B14-1D90A19DF5D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523789"
+          },
+          "hash": "e273762be5f4884ac4579d4f98430acef5f4687d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q8015$83B88E14-65D8-4610-9D4D-EC3932EC205A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8321",
+              "numeric-id": 8321
+            }
+          },
+          "hash": "871c038016644810dcd0875301eb180b3c8eecbf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8015$E97F714E-E988-49BF-BCF2-1D9214EEF786",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8324",
+              "numeric-id": 8324
+            }
+          },
+          "hash": "481c99e95b22cd1671a59d59cb5cee3bb39c1efe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8015$CE636073-CA40-4BE0-B01B-5981C4FF5CF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8015$304915E2-6A4E-4E8A-B3F6-F2AC9E184F11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8015$C120757A-9D2B-4861-BD4D-D8031BA66FC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8015$92F759FD-98EE-421E-8967-D41D71954E20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0833-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c5337ab47aba3eb8bbe6972604001e4e971a3260",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8015$E63C098C-9362-4A25-B959-2A84F4DFA604",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0900-05-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2502e156a61b7214aea6b349d0685d88448aaa30",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8015$BC72A1C8-3E95-429F-AB72-D3B4B56390E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11573356"
+          },
+          "hash": "fafed53d334837b14be7604b0293f81b64f6cb39",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8015$1E29B98B-E972-4CE4-B1BC-682F5FA9F711",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Dowager Hanshi Arms.svg"
+          },
+          "hash": "1a5040b429693c0d5e3a84eaa1874a6c8bf84652",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "choť císaře Kókóa"
+    },
+    "en": {
+      "language": "en",
+      "value": "spouse of emperor Koko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代の皇族。母は当宗氏（贈正一位、当麻氏）。光孝天皇の女御・皇太夫人・皇太后。寛平御時后宮歌合の主催者。従二位"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "супруга императора Коко"
+    }
+  },
+  "id": "Q8015",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Hanši"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dowager Hanshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Dowager Hanshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Empress Dowager Hanshi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hanshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "班子女王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "императрица Ханси"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "班子女王"
+    }
+  },
+  "lastrevid": 17407934,
+  "modified": "2025-09-15T22:41:12Z",
+  "ns": 860,
+  "pageid": 30506,
+  "sitelinks": {},
+  "title": "Item:Q8015",
+  "type": "item"
+}

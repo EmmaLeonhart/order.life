@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shimazu Hisaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20056$8076E55F-496B-46FC-BCC3-91D26382D9A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20056$4EA826FF-54CD-4188-A0A2-8801D22D4231",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20056$8D882F24-A44F-4407-B6DD-5826F8FBB9C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29932",
+              "numeric-id": 29932
+            }
+          },
+          "hash": "686e4c45f585444c7592646269d234d08fcfe1de",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20056$B997119F-1255-42C3-9AB8-1507BDB4DADA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20056$3CD7C832-6088-40DE-B81B-06CB1122D0D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1582-02-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e17bdc1caf8b4710ce6ffefa2838402cf2691de",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20056$E3B79A6B-D8C3-4BB8-8A34-AAA62BDB80A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1644-04-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7bda76bbc40add110958bc3ab71060484e68daf7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20056$1B08048C-1E22-4C3C-874D-F232499BAE37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11163292"
+          },
+          "hash": "37d1337dabfab80cbb22b89d40be672947f49bde",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20056$DF4AE311-5105-4FA1-8751-503D9A451E64",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shimazu Hisaka Arms.svg"
+          },
+          "hash": "53f89912a1e6d27250452095fa0dc64bdfbecb6b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "薩摩の武将 (1582-1644)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20056",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shimazu Hisaka"
+    },
+    "de": {
+      "language": "de",
+      "value": "Shimazu Hisaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shimazu Hisaka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shimazu Hisaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "島津久賀"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shimazu Hisaka"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "島津久賀"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "島津久賀"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "島津久賀"
+    }
+  },
+  "lastrevid": 17419206,
+  "modified": "2025-09-16T01:50:19Z",
+  "ns": 860,
+  "pageid": 42153,
+  "sitelinks": {},
+  "title": "Item:Q20056",
+  "type": "item"
+}

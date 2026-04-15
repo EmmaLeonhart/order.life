@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ziyuan //"
+      },
+      {
+        "language": "en",
+        "value": "Ziyuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q30893$472F2823-B083-4A4D-B855-810DDFAEFA74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31664",
+              "numeric-id": 31664
+            }
+          },
+          "hash": "1431913e82b3f066fae02be266d9967f4fe6f656",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q30893$C6DC8820-DB42-4980-A4AC-8132950E2585",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30893$4A41DD40-0159-4503-A711-C20CB09B6644",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q30893$640ED9CA-3937-42B9-924A-432A46B969EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30881",
+              "numeric-id": 30881
+            }
+          },
+          "hash": "ef0dc94905cfcf1c3b745736ede50692e0e4b63d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30893$E4BEC93D-0047-4915-89F9-9E189427934B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30893$66C2229A-BBC8-4E6D-B182-EC6CD2798411",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0664-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "949e16dce2881aa31e2d02f4f9710514a3875399",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30893$8783A5EB-B2B3-4390-BC85-F402D16239C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10944058"
+          },
+          "hash": "f0afffdb0447d56d3c74fd0f92d051d3cd4e33be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30893$B597D5A2-29D5-43B5-9B49-2A391DE78364",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ziyuan Arms.svg"
+          },
+          "hash": "782ec6c467d5f4233e591862c88078e1ab850081",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Person"
+    }
+  },
+  "id": "Q30893",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ziyuan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tử Nguyên"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "子元"
+    }
+  },
+  "lastrevid": 17430584,
+  "modified": "2025-09-16T05:12:39Z",
+  "ns": 860,
+  "pageid": 50883,
+  "sitelinks": {},
+  "title": "Item:Q30893",
+  "type": "item"
+}

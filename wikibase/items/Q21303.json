@@ -1,0 +1,147 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Xindu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21303$44A025C9-7BDE-457D-8032-4E652683FF4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21303$8CBDAE75-0E63-4E9A-BB44-5FFD7F3583A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21303$0CF0CC0E-21ED-4150-AEA9-660BCBA9BDBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19351",
+              "numeric-id": 19351
+            }
+          },
+          "hash": "9ccc1e0bba05a8adc27bb54bd46307882000168f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21303$F22712F9-634E-4B65-A2A0-D2DAEF48C345",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21303$337FB97C-9C73-4EAB-88CC-B75E1600A773",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11084400"
+          },
+          "hash": "c1486cb42fe723bb61859e14b7c0fa24f41f7fee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21303$FA03C0C1-E0FF-46EA-B6AC-9A1DF174699D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Xindu Arms.svg"
+          },
+          "hash": "d46a7fe0f79384576ae53d78546e810ee20e2016",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q21303",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Xindu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "新都公主 (唐中宗)"
+    }
+  },
+  "lastrevid": 17420316,
+  "modified": "2025-09-16T02:16:18Z",
+  "ns": 860,
+  "pageid": 43344,
+  "sitelinks": {},
+  "title": "Item:Q21303",
+  "type": "item"
+}

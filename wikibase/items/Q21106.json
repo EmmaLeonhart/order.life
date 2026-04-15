@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Shou"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21106$92252EFB-C9D1-4F74-962A-B2218905FDDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21106$C7BB01DC-131E-4D05-A39A-DE20A65E907F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21106$D53B4E7D-E68B-4ABF-9D5E-9DCE91F8FF92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31971",
+              "numeric-id": 31971
+            }
+          },
+          "hash": "48ca69c88d461dd4ca403683045b3b9a18fde634",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21106$39FD72A3-405B-4D89-B9FE-B6164AFC770B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21106$62CC5788-DFAF-49BD-B8F8-3575A7CF5985",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0577-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d8ae1eaf2fe816622c84d48a8fc5be5a4e7f506",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21106$4797C4D3-B4DB-4129-8681-8FAF33A5DA92",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0630-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "29f605b51bb0c4cabeaa50df831f40aa1033b3ed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21106$9E7C3D2C-87F6-495D-AC3D-57AFD0B38BF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45586392"
+          },
+          "hash": "5ffa5a27b497b6e13a4965b6da797cf67872eeb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21106$AE921ABF-EEA9-4112-A7EF-F9F9062853CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Shou Arms.svg"
+          },
+          "hash": "c140e1e7818db5aeeab661703a900952f4b958ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 138740"
+    }
+  },
+  "id": "Q21106",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Shou"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李壽"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李壽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李寿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李壽"
+    }
+  },
+  "lastrevid": 17419978,
+  "modified": "2025-09-16T02:11:30Z",
+  "ns": 860,
+  "pageid": 43168,
+  "sitelinks": {},
+  "title": "Item:Q21106",
+  "type": "item"
+}

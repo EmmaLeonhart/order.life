@@ -1,0 +1,925 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gediminas //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q50346$7EC8227B-4CA8-4228-B49F-2B181CECE77B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "116523|701541"
+          },
+          "hash": "1f965722d99b89070d4492711f9c97f4ce9fcc81",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q50346$13C81411-BD46-4EF7-A65E-8DE2FD5BEB31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00081643"
+          },
+          "hash": "ddd3666cba7423a0e9f07affcc511f4323ab99e1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q50346$2ABC6B1A-1B7D-4514-95BC-3FD3C6A0ADDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55991",
+              "numeric-id": 55991
+            }
+          },
+          "hash": "5b3c5a4d4a6b9573e7b1ddc9b3ce14ed38a8d54c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$B89F4CB2-819B-48FE-AA05-A42BFA9A1552",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50365",
+              "numeric-id": 50365
+            }
+          },
+          "hash": "8a171d30dfac034909c18960001837d7c06defe2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$7F3266E8-377B-491F-823D-49966D814C45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50353",
+              "numeric-id": 50353
+            }
+          },
+          "hash": "94e72d126782ddc1eda7abd83670f591b76db2e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$B4B23396-5770-4DBB-8218-36CDFBE8DBBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46387",
+              "numeric-id": 46387
+            }
+          },
+          "hash": "63472cfe9eaac858ef792ea13405bb0725b15058",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$121466DE-45C1-41CF-A543-328C6D666C7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50373",
+              "numeric-id": 50373
+            }
+          },
+          "hash": "66f87ef7f74b5806bb8a1c671af4ea24641df065",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$2A9F67A5-D1FC-4FCD-8526-6F05C04ED8D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50361",
+              "numeric-id": 50361
+            }
+          },
+          "hash": "b0c34cd37af674b50149f6537e3573b6b80666a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$D5660443-E3B3-4B1B-9A1C-83AD90F05FC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50357",
+              "numeric-id": 50357
+            }
+          },
+          "hash": "8a0e7d860eb2b6b6a5b45a21c486d135c826e50a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$07E6569A-E5CC-4816-9F62-8EC9B88AEFFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50377",
+              "numeric-id": 50377
+            }
+          },
+          "hash": "f5e79f7c8f69e3b0080bc36481468c772fb56950",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$AB8D30B8-B2A0-43C4-B904-84DD1321623A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50381",
+              "numeric-id": 50381
+            }
+          },
+          "hash": "dc89fafabbddc894e129b450d0d6508ae48a6a4d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$F3126CE4-251A-44AE-9B49-CCC44C4CD52E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56003",
+              "numeric-id": 56003
+            }
+          },
+          "hash": "94a3873b8952b17c12dc2516c6b1a70648b2b7e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$0A1A4DBF-1675-4D2F-BB9D-832EA353C28E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50369",
+              "numeric-id": 50369
+            }
+          },
+          "hash": "c857734ce9803281836f9c41a08e20954965f5e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$97F6FE1F-B9A5-4C6F-A8C3-017E672409A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55999",
+              "numeric-id": 55999
+            }
+          },
+          "hash": "4309aab03be433b056f3a42456ec09159c6fd5cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$9865B661-7322-43FB-B807-33CD580747DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55995",
+              "numeric-id": 55995
+            }
+          },
+          "hash": "7b5f30b49048650770cc99e999487c7e1d45fb28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q50346$1605E1F8-2818-4E87-8101-278958008BEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lietuvos-2"
+          },
+          "hash": "657c09d10196cb68ecec21b6ba61428fcfc31dfc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50346$2047D705-4BE2-43B9-BA9E-1354E6863876",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$F55EDD03-F5F4-477E-AD7C-BEC9160D3E82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q50346$FAFDFF6E-D631-4C94-A556-0532FF4E72D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gediminas_(1)"
+          },
+          "hash": "77ef5457d66fbe1942dc76c122cc0ae5008c5998",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50346$C70AB0E1-9A28-4C96-B2BC-D3BEE69BDFB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50350",
+              "numeric-id": 50350
+            }
+          },
+          "hash": "45dcf61ac70a5e262aed2a06f1c52ef1f8377559",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50346$E03389F7-8538-46FC-856A-4E2BA9BD3A36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55987",
+              "numeric-id": 55987
+            }
+          },
+          "hash": "6f8a850c57afe6a607d2bef6cddb018496ff8de7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q50346$067F03BA-F097-4DE2-B9F4-6D29910ABEA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11468.htm#i114674"
+          },
+          "hash": "63a075dbf232005d0939a79bcb0285e1c91d4521",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50346$772FE68C-4F41-47B1-8FEE-4BF045D8ED46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55971",
+              "numeric-id": 55971
+            }
+          },
+          "hash": "1537d60ee0f21b5c87006965ca38bb99fe20520f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50346$81EDC613-D608-4DF7-A2D2-B555745C8E39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50346$4DD0C803-A90B-4AF6-A13C-84214E8BF181",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1275-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3b556f44c642c1c26d7bf29eb64d9e6b175f37a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50346$BEF5FAA3-E4F5-4DEA-9A65-7C566197C9AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1341-12-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fbb078180ff0081d362d59a5fbdf300fdd5f549c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50346$347496AB-77D6-46E2-B46F-784A03B62F89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q244852"
+          },
+          "hash": "f02d5a4a2c2853e497c37497829c35c08e5fe78d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q50346$7D02E03F-18FF-4427-AE94-A11CBDED48EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000671822547"
+          },
+          "hash": "91b66421f4e7b7f329420883f9e4686c0a1f4eb0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q50346$D41994FD-343E-4833-B770-CB40DE26582C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gedymine;n=de lithuanie"
+          },
+          "hash": "6f350103c39d2ace463ca1762b878965b9cd6550",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q50346$184D509F-875B-4A82-8FC7-18B2A25321A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11.218.2"
+          },
+          "hash": "b21f279f2d18e02f27916064deafb96dc32cc5e2",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50346$E829AA36-D063-4699-B106-537141C3E7BB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gediminas Arms.svg"
+          },
+          "hash": "262c50914378d072370eb6c4a2b33c1a85c0abc3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من دوقيه لتوانيا الكبرى"
+    },
+    "be": {
+      "language": "be",
+      "value": "вялікі князь літоўскі (1316—1341)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "вялікі князь літоўскі (1316—1341)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gran Duc de Lituània"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "litevský velkokníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Großfürst von Litauen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Grand Duke of Lithuania (1316-1341)"
+    },
+    "es": {
+      "language": "es",
+      "value": "gobernante lituano"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Liettuan suurruhtinas 1316–1341"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Souverain historique de Lituanie"
+    },
+    "he": {
+      "language": "he",
+      "value": "דוכס גדול של ליטא (1341-1316), מייסד שושלת הגדימינים"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(1275–1341) litván uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "granduca di Lituania (r. 1316-1341)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リトアニア大公国の大公"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "리투아니아 대공"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wielki książę litewski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "великий князь Литовский (1316—1341)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "литваски владар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "storfurste av Litauen"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Litvanya büyükdükü (1316-1341)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "10-й Великий князь Литовський"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "立陶宛历史人物"
+    }
+  },
+  "id": "Q50346",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Gediminas"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "غيديمين"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جيديمين"
+    },
+    "az": {
+      "language": "az",
+      "value": "Gediminas"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гедзімін"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Гедымін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гедимин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gediminas"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gediminas"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gediminas af Litauen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gedimin"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκεντιμίνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gediminas"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gediminas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gediminas"
+    },
+    "et": {
+      "language": "et",
+      "value": "Gediminas"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جدمینس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gediminas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gediminas"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gediminas"
+    },
+    "he": {
+      "language": "he",
+      "value": "גדימינאס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gediminas"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gediminas litván nagyfejedelem"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գեդիմին, Գեդեմինաս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gediminas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gediminas"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゲディミナス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გედიმინასი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "게디미나스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Godeminnus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Gediminas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Ģedimins"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gediminas av Litauen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gediminas"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gediminas av Litauen"
+    },
+    "os": {
+      "language": "os",
+      "value": "Гедимин"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Giedymin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gediminas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gediminas"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gediminas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гедимин"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Gediminas"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Gedemėns"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gediminas"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gediminas"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гедимин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gediminas"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gediminas"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Гедимин"
+    },
+    "udm": {
+      "language": "udm",
+      "value": "Гедимин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гедимін"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Gedimin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "肯通米納斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "盖迪米纳斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "格迪米纳斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "格迪米納斯"
+    }
+  },
+  "lastrevid": 17456520,
+  "modified": "2025-09-16T11:28:05Z",
+  "ns": 860,
+  "pageid": 65425,
+  "sitelinks": {},
+  "title": "Item:Q50346",
+  "type": "item"
+}

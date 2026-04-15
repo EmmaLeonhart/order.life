@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Miao Jiang //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q25962$25FC6E54-23C5-47B0-AC54-CFB9EFAF179F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25964",
+              "numeric-id": 25964
+            }
+          },
+          "hash": "1d86f403f5db2725fbf92a4041ed6f6d9dbecac8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25962$BCD1F8C3-5184-40A6-A209-A70A25A1FD5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25970",
+              "numeric-id": 25970
+            }
+          },
+          "hash": "8f3456985d69b6f18a2e5dd7ea898d1cf55240ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25962$EDB166A2-48F5-4F75-9E07-93C3ADC0FA7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25962$C963B015-C480-4A2A-BE1B-6BD09CE29881",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q25962$5BBB25D1-0518-44D2-8AAD-E9587DFD7B5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25861",
+              "numeric-id": 25861
+            }
+          },
+          "hash": "792c519f08d61b32e2216614ac01d5be30ad9d50",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25962$04246A63-54B0-4F91-A289-0460ED1F4491",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25962$1CE4DB96-891B-4160-8F78-FE0F705361EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0564-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71fc5b6420b733830275641feb0168f0114f962b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25962$69353F25-4DF5-423D-98DB-5D92DA6BA9E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15912703"
+          },
+          "hash": "52bae85566edc7785146de7645d6342f64d239a2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25962$15BDC7BB-8669-4478-B234-BA7AC7F07D9A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Miao Jiang Arms.svg"
+          },
+          "hash": "78ccac76374d05b5c242970f26bd684d88bc85e6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 135500"
+    }
+  },
+  "id": "Q25962",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Miao Jiang"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mu Ťiang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Miao Jiang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miao Jiang"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mu Jiang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "穆姜"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "繆姜"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Miao Jiang"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mục Khương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "穆姜"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "穆姜"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "繆姜"
+    }
+  },
+  "lastrevid": 17424858,
+  "modified": "2025-09-16T03:50:12Z",
+  "ns": 860,
+  "pageid": 47390,
+  "sitelinks": {},
+  "title": "Item:Q25962",
+  "type": "item"
+}

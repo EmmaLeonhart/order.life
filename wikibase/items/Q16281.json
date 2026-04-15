@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Serada Mitsuyoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16281$ABE99137-2050-4C06-BB15-083C67640079",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15581",
+              "numeric-id": 15581
+            }
+          },
+          "hash": "2a4356cd4c8cfdec4e7deb0516883807e255519d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16281$45D92EB5-85E1-4C55-BD02-6A384254BCF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16281$0CBC7DCC-25E8-4234-845B-D2ABA6E6817B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16281$B01A8E69-788D-4426-8D6A-20DA7408E3EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16281$D5548C74-9CF7-49E0-82E6-733E57FBEE3C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1304-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c9ba08b722e561b8cd599829293433b4cc831c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16281$FE64FFC5-79D5-4D2E-B6BA-9FADACCAB694",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1368-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7c3d4995c8ffbdd442dd2a69b045d89cbf2fd72",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16281$2C21377D-D555-48D6-8573-67CF90963561",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q60989727"
+          },
+          "hash": "833ea611ef0e788ca9bbf85d3caf932f4f4ce96f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16281$187C028F-955D-43AF-8CE8-3BC23FF7450C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Serada Mitsuyoshi Arms.svg"
+          },
+          "hash": "cf331861473e84445ad4c2ed4a2d3ffc9067581c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期から南北朝時代の武将 (1304-1368)"
+    }
+  },
+  "id": "Q16281",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Serada Mitsuyoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "世良田満義"
+    }
+  },
+  "lastrevid": 17415906,
+  "modified": "2025-09-16T00:30:15Z",
+  "ns": 860,
+  "pageid": 38543,
+  "sitelinks": {},
+  "title": "Item:Q16281",
+  "type": "item"
+}

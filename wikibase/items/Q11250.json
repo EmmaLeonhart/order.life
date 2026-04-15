@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Satake Masayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11250$8D75FC57-A614-4C22-9A11-3E904F8F55D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814687"
+          },
+          "hash": "c65f1b7f6c2d537442708027503d51d051a1104b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11250$9ED479B9-A011-4E43-B5E4-E4DBF3D770C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11992",
+              "numeric-id": 11992
+            }
+          },
+          "hash": "20e3a1f84f4be3ef1831020641f9d7593c4cf16d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11250$8B86B40D-BD10-4370-8F9E-45CCC5F8ABC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12003",
+              "numeric-id": 12003
+            }
+          },
+          "hash": "8b87398f54e4a8cd7e9d0310c6b2094ca9f0d482",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11250$8D2276C3-2325-44BE-85ED-7DA34F07A7BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11250$3FD0C4F9-C607-4D8C-B3E4-BD94F3AFEAAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11250$F4F989C5-2DB6-4417-8796-621D983DCAD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11236",
+              "numeric-id": 11236
+            }
+          },
+          "hash": "b0c3dd4384ba5609c0efa40b3df6246f2343bf7a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11250$2688839C-6CCC-43F2-8134-C72513978740",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11082",
+              "numeric-id": 11082
+            }
+          },
+          "hash": "0a104c65e2c756f47b4f1448b1341090f53013d9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11250$BA4FA59B-ECB5-4B9E-94E7-5ABCA107C3AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11250$EB6427A9-7C1E-4D16-805E-CBB9074EF836",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1081-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0719420c70c06701b8f3b8dd4eccb66abd93f516",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11250$3F2EFF14-0385-4AA7-A8E6-4DE845712010",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1147-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f415f66552d0ad4cb680f8ab7532f23b0cde5c8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11250$B504F9C6-88EE-43A6-9A10-E100BE5C8AB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3473845"
+          },
+          "hash": "a6844d90cc1fda785b888b75a0d62fdd66a8e520",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11250$938001FA-DD4F-41B1-A57C-39ADC00B80C4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Satake Masayoshi Arms.svg"
+          },
+          "hash": "5df6838ad00e1322717e77dd449445e289eed9e5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1081–1147)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安時代後期の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1081-1147)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1081 – 1147)"
+    }
+  },
+  "id": "Q11250",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Satake Masayoshi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Masajoši Satake"
+    },
+    "de": {
+      "language": "de",
+      "value": "Satake Masayoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Satake Masayoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Satake Masayoshi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ساتاکه ماسایوشی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Satake Masayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐竹昌義"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Satake Masayoshi"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Satake Masayoshi"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Satake Masayoshi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масаёси Сатакэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Satake Masayoshi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Satake Masayoshi"
+    }
+  },
+  "lastrevid": 17412842,
+  "modified": "2025-09-15T23:47:10Z",
+  "ns": 860,
+  "pageid": 33625,
+  "sitelinks": {},
+  "title": "Item:Q11250",
+  "type": "item"
+}

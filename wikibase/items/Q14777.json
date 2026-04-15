@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kenshun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14777$7D634B1C-122E-481A-9476-0FAB94719B15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14777$5E130A4D-1BA6-4116-8425-04F787F97819",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14777$A488B8B1-7321-4248-A967-171C4D78EA24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14354",
+              "numeric-id": 14354
+            }
+          },
+          "hash": "036be2a309b30e17f5d9b0900ed9a2aaf6aeb5d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14777$AF00AE44-46E0-4970-97D4-8ED6C882B00C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14777$CE05767E-705C-419D-8A58-EC11A685A076",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1299-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a5cc0f37575bf6d8e7d97f518e0d413645be2fd4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14777$5B632583-22C4-4463-9F1A-35000242ACE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1357-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1a2783853d3de9485a54c7a7528f28961e52c1a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14777$9CCF7F31-8447-47DE-80B7-BB7CF60852B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sanbō-in Kenshun.jpg"
+          },
+          "hash": "84f021e5a18f2405d73ae2f9d1955406882b6d62",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14777$FEE22BED-4D9A-4428-9000-E3F67F863092",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11635076"
+          },
+          "hash": "937d01e9bcc0c90b2df595833d5e0db8414c35cc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14777$87894F79-C3D6-4432-A573-972080BE47B1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kenshun Arms.svg"
+          },
+          "hash": "0a1da3cb6ab1a3a243d694e1d513b76296905d23",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "1299-1357, 南北朝時代の真言宗の僧。日野俊光の子。俗名は日野 賢俊。勅撰集『風雅和歌集』以下に10首入集"
+    }
+  },
+  "id": "Q14777",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kenshun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "賢俊"
+    }
+  },
+  "lastrevid": 17414682,
+  "modified": "2025-09-16T00:12:47Z",
+  "ns": 860,
+  "pageid": 37075,
+  "sitelinks": {},
+  "title": "Item:Q14777",
+  "type": "item"
+}

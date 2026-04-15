@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Ling"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q25194$04FB5044-CC96-464D-9525-490946862E7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51940",
+              "numeric-id": 51940
+            }
+          },
+          "hash": "cee873863fc696755b5dff58a31f44d43399a8b9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25194$AF276281-6F63-474C-96C8-CB4C222F49F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51944",
+              "numeric-id": 51944
+            }
+          },
+          "hash": "e7261a25788fd40f4705322e7d3f370921a2b9de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25194$C2F1B014-E707-4C47-A8A0-9CD7FB9BADEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25194$0479F1E7-1221-4A33-BFC4-00D96839B828",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25194$E543C3C1-A9FA-4A60-B3D9-54D4D31EE90E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23081",
+              "numeric-id": 23081
+            }
+          },
+          "hash": "06bff29e43f674339908e99df573785be160f5e8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25194$4152BBEA-12AE-4EDD-833E-12352E94B96C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25194$F309AA1A-C20A-498D-B8C3-64D2EC262820",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0598-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ba376baaf078eaf5232a2ca3290ffd1bac7bf66",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25194$11C1A151-73A6-4336-B43C-AE8FBE59F4AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45692233"
+          },
+          "hash": "dfa12f2e1e4d8a36797aff7ebd5d0867d3375d64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q25194$4C164DFD-7A53-430F-8EA6-0AE6F2B51D43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074733865348"
+          },
+          "hash": "54cce7edc039f95c5d42b2dc25cc0f7d61f68988",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25194$1B5D9E84-464B-4442-8144-909C4D9CC4E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Ling Arms.svg"
+          },
+          "hash": "629d3dfa06072ade6c3f5c66cc7297920a8c9999",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 186958"
+    }
+  },
+  "id": "Q25194",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Ling"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Ling"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Ling"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李泠"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Ling"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李泠"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李泠"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李泠"
+    }
+  },
+  "lastrevid": 17424030,
+  "modified": "2025-09-16T03:38:55Z",
+  "ns": 860,
+  "pageid": 46957,
+  "sitelinks": {},
+  "title": "Item:Q25194",
+  "type": "item"
+}

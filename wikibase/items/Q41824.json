@@ -1,0 +1,206 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "国分盛氏"
+      },
+      {
+        "language": "en",
+        "value": "Guo Fen Sheng Shi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q41824$B147429D-D7F6-4C65-B89D-347D951136AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37358",
+              "numeric-id": 37358
+            }
+          },
+          "hash": "10d584f5bbaa30fbcce904496ed6bab68f0957c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41824$3985915A-377E-4D6B-9CAC-567B9EA737EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48172",
+              "numeric-id": 48172
+            }
+          },
+          "hash": "e53c6193ef99635487559af0712075e60e1b9158",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41824$77DABD7B-8858-4A3A-A706-BEBD4F919789",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48168",
+              "numeric-id": 48168
+            }
+          },
+          "hash": "1672fed3c2c471fa7810f84e3562d2695ead4f0c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q41824$59408E10-D3E2-4093-9918-65EF7C9CA961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41824$A89EE3C6-E280-4F34-98F8-4DA22A7C07FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q41824$BA36EB79-D610-462E-890D-39006E4357CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q41824$EEFFE30B-B0BC-462F-981D-A1E9490FD3EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11420557"
+          },
+          "hash": "a24623ab3f94ce0c2478b0af42a6d608d69999f9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q41824$B208F638-EBF0-4D52-B5D5-4892C21D607E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Moriudzi Kokubun Arms.svg"
+          },
+          "hash": "514f3b491711da3a96483e22b5805c5e10a6337c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。国分氏当主。子に郷六盛政、横沢駿河"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q41824",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Moriudzi Kokubun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "国分盛氏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мориудзи Кокубун"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "國分盛氏"
+    }
+  },
+  "lastrevid": 17445410,
+  "modified": "2025-09-16T08:46:41Z",
+  "ns": 860,
+  "pageid": 59056,
+  "sitelinks": {},
+  "title": "Item:Q41824",
+  "type": "item"
+}

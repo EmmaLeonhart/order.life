@@ -1,0 +1,362 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Behter //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q38833$49A58F75-C2D3-4ED2-911E-4BF89E0AD0F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00299839"
+          },
+          "hash": "1df8818c2b87cd06a455cfec9b30669b8032b23c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38833$3D0B4EBB-441E-4CF0-BC6B-C5A2F40F389B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38833$6265C996-76F1-4AB7-A9D8-929674A9AAE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q38833$D9D90A56-0252-45ED-A678-694D5AB878E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38821",
+              "numeric-id": 38821
+            }
+          },
+          "hash": "ef6daf80826f6d0ea0d63554c9d032fe80162e00",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q38833$3EAA227B-9230-4FF5-9C3E-580543C42152",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40642",
+              "numeric-id": 40642
+            }
+          },
+          "hash": "95fc62481f73d222acc4f0a01f70e844a115a823",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38833$C6FE3333-E470-4C08-BDC3-6E7EFFDD459B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38833$2BB50FF1-50F1-4155-9B77-D0F192734E54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38833$4FAEF382-16BD-4B30-955C-668BADB7988B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1180-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "273ba961bbd065c2ca1f1062f48d48e4780feab3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38833$1EF961D2-7D42-4747-9893-6431AC1871E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1067326"
+          },
+          "hash": "cb1691899b24cf24760afc433881e59534678e50",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38833$306FAD0D-206A-4C33-8498-3EDE497EABB3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Behter Arms.svg"
+          },
+          "hash": "8cac5f402d94fd8699c2fc2e4ac843d359f7a4e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "half-brother of Genghis Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuan dynasty person CBDB = 114140"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "demi-frère de Gengis Khan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "halfbroer van Dzjengis Khan"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "fratele vitreg al lui Ginghis-Han"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "anh em trai của Thành Cát Tư Hãn"
+    }
+  },
+  "id": "Q38833",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Bieketieer"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Behter"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bekter"
+    },
+    "da": {
+      "language": "da",
+      "value": "Bieketieer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Behter"
+    },
+    "es": {
+      "language": "es",
+      "value": "Behter"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بهتر"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bekhter"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Behter"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բեքթեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Behter"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベグテル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "벡테르"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "別克帖兒"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Бэгтэр"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "बेख्तेर"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Behter"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Begter"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Bectar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бектер"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Begter"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பெக்தர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bekter"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Biệt Khắc Thiếp Nhi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "別克帖兒"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "别克帖儿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "別克帖兒"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "別克帖兒"
+    }
+  },
+  "lastrevid": 17441552,
+  "modified": "2025-09-16T07:51:52Z",
+  "ns": 860,
+  "pageid": 56819,
+  "sitelinks": {},
+  "title": "Item:Q38833",
+  "type": "item"
+}

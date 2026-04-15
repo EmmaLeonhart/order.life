@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "諫早茂門"
+      },
+      {
+        "language": "en",
+        "value": "Jian Zao Mao Men"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48692$E4085C10-880B-4E1F-8042-9D9AAA83027E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48692$B0D5A7B4-2785-4FB1-A4C3-D39BA8058F0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48692$3543408C-186C-4342-AC7F-838601DC7A6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42151",
+              "numeric-id": 42151
+            }
+          },
+          "hash": "75764a70fd07baee39590772a0c2544c0e83cbed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48692$4FDFE742-B715-43E3-B827-995D2A24A197",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48692$0420FC78-2B98-43CE-9A6E-C44BA7F6A1A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1663-02-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "57ae5f7b3905d65f1d4c10f230a04736ddeab745",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48692$66FD53EE-CC98-4FA7-A2ED-1F28CE6463AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1680-04-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af457bb1607fcae3dc7b684fc0b5118b2f334fa1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48692$4414571E-4B88-4E28-9137-9B87F4EE88DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q59551787"
+          },
+          "hash": "dfd0f993e0ead2d3b1d7c25b9e40f3d6d28d0eeb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48692$658AD224-8F24-4884-8369-3BF99382F894",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isakhaya Sigekado Arms.svg"
+          },
+          "hash": "e439c1883b67e1d5007ed24264c0d84e6ec1d1d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q48692",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isakhaya Sigekado"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "諫早茂門"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исахая Сигэкадо"
+    }
+  },
+  "lastrevid": 17454224,
+  "modified": "2025-09-16T10:54:48Z",
+  "ns": 860,
+  "pageid": 64190,
+  "sitelinks": {},
+  "title": "Item:Q48692",
+  "type": "item"
+}

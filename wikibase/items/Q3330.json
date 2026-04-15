@@ -1,0 +1,232 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32824$EF2D0DB5-3185-49DA-8A6E-CDAA8A36B968",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32824$A8283F4B-FF34-46DB-ACA7-49737D2D4F74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32824$32268CCC-F1FA-4E69-A021-42AAD6B2E578",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31597",
+              "numeric-id": 31597
+            }
+          },
+          "hash": "b71532f1450174bf1f6f38fbd3a4f90b27564f82",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q32824$D9841261-42BF-42F0-B64C-1A668A3892E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92696",
+              "numeric-id": 92696
+            }
+          },
+          "hash": "eb103173e2364019d55837bfe50229299beffb59",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q32824$B73F57CA-82A7-48B2-B80A-418B9B116E57",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gaspar /Polanco/"
+            }
+          },
+          "hash": "581a843b8db14791e2c4ff33defb5a5f774c43b4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32824$BD80C172-6BFC-4FC3-8B6C-58E695B088D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32824$FBE1091E-0BBB-4518-AFBE-8DE762ABDB70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1490-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e51b527f03d602076fb2198e4c03bb1b9e3fdf7b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32824$A580487F-0FBB-439E-8F45-D4E0249BDBF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1538-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2664699a8fb23d6d1a37dd34354098bc6312ba60",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q32824$9D882993-F309-4A8E-B1EE-1DB336006187",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000076393988925"
+          },
+          "hash": "52cf1d90a78e26d212dd7b767f26b7c28971e780",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32824$1A8FFF75-FEE7-4FAF-842B-3311EB51C301",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaspar  Polanco Arms.svg"
+          },
+          "hash": "3303a9169393c20142059a3940ebd8fa2ca44a46",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q32824",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gaspar  Polanco"
+    }
+  },
+  "lastrevid": 17433300,
+  "modified": "2025-09-16T05:52:04Z",
+  "ns": 860,
+  "pageid": 52329,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q32824",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q32824"
+    }
+  },
+  "title": "Item:Q32824",
+  "type": "item"
+}

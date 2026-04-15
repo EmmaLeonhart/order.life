@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ninagawa Chikayo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20618$BA2847BC-B7B7-4E01-828F-366F510EA2AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20632",
+              "numeric-id": 20632
+            }
+          },
+          "hash": "db50d9f2dbd6f528ac9d8b0fc34a30491c33ab20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20618$71A56247-C39D-4411-8D1F-67D7AD89326F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20618$B4E4EC5A-6049-443F-941D-605200BECA7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20618$8DC6FBAA-91C5-4162-9CD0-7373B3E1D8B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30878",
+              "numeric-id": 30878
+            }
+          },
+          "hash": "d07cf3c9b8c4ef1a2e044bc5b964c237d546e592",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20618$7038257A-69F6-40B8-A69D-E24BDB04E645",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20618$2F650BBD-E4D9-4E00-B118-9EC35847F748",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1569-12-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b134af47bc15a82f41acee23b450903cb31e04c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20618$6A01FC53-F103-4D50-9E7A-BB0FA4CF1D09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11625746"
+          },
+          "hash": "489b6cad1c4ddf480664427f927295696abeb67a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20618$1EA08F29-397B-45E8-A229-61AB4A900BC7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ninagawa Chikayo Arms.svg"
+          },
+          "hash": "c4e93ef1d1b1b105136207aeff7b135b2fac8119",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将、「蜷川親俊日記」"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20618",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Čijako Ninagawa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ninagawa Chikayo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蜷川親世"
+    }
+  },
+  "lastrevid": 17419662,
+  "modified": "2025-09-16T02:02:08Z",
+  "ns": 860,
+  "pageid": 42690,
+  "sitelinks": {},
+  "title": "Item:Q20618",
+  "type": "item"
+}

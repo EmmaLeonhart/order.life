@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sanada Nobunari"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22077$86133574-24C2-4716-A1D0-88242F675612",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22077$37760C82-D588-4E9A-86D4-173A3DB30438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22077$707EBCCB-1FA6-4979-9951-2245E0009D1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20149",
+              "numeric-id": 20149
+            }
+          },
+          "hash": "1f08ce5aeb82e6d8bfc3ec4820363940f17f028c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22077$BEB630AD-7292-46B6-B249-C3A2C79D287E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22077$856C2E51-E252-413A-8B4A-93DC9050D810",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4993a8d02f5e2402e4e00dfd0ac872af9ca2b33",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22077$BDD0727B-6368-47A3-96A3-1228272660C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1695-12-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a0209cb47f1eaa2d70b04e0a9f0e14b9771db236",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22077$459826B5-D03D-43C5-8421-0F8DA706124E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11583363"
+          },
+          "hash": "b14d34d5779137404eebbbc20d0bc228688e2707",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22077$9D953DAC-5EE3-4629-B703-04A3957D24C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sanada Nobunari Arms.svg"
+          },
+          "hash": "4d029e4ea9ca97221c29e51b18f8426ddedd7107",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期の武士。松代藩2代藩主真田信政長男。真田勘解由家初代当主"
+    }
+  },
+  "id": "Q22077",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sanada Nobunari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "真田信就"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобунари Санада"
+    }
+  },
+  "lastrevid": 17421030,
+  "modified": "2025-09-16T02:34:59Z",
+  "ns": 860,
+  "pageid": 44085,
+  "sitelinks": {},
+  "title": "Item:Q22077",
+  "type": "item"
+}

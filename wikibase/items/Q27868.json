@@ -1,0 +1,162 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "朱奠壘"
+      },
+      {
+        "language": "en",
+        "value": "Q11093805"
+      },
+      {
+        "language": "en",
+        "value": "Q11093805 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q27868$6918E9C7-E007-44E7-A581-22E5B187D400",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27868$61C08F70-9E2F-46C9-A088-DC1C10BA162E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q27868$76346C86-4D6F-46AC-A928-2CDA00BD6F20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27451",
+              "numeric-id": 27451
+            }
+          },
+          "hash": "0dd896b4fc4bccf02c966ebceecd2ad60b250a7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27868$FC85D65A-9B9A-4F71-9089-F64E41E49E55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27868$8217CED2-5851-4E11-8EFC-0CE152847B6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1427-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eb4d59dc47ec772f88f8654cf1f0d98b7b7379fb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27868$5E060BD0-B006-421E-85E1-7348439C77A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11093805"
+          },
+          "hash": "a17485898f3dc4db896e3a479d26c32664abfc5e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q27868",
+  "labels": {
+    "gan": {
+      "language": "gan",
+      "value": "朱奠壘"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱奠壘"
+    }
+  },
+  "lastrevid": 17427184,
+  "modified": "2025-09-16T04:23:35Z",
+  "ns": 860,
+  "pageid": 48666,
+  "sitelinks": {},
+  "title": "Item:Q27868",
+  "type": "item"
+}

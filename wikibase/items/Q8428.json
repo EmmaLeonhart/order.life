@@ -1,0 +1,157 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tomo no Iyatsugu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8428$005F4425-6E1C-4242-B98D-264C29756CD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8428$5696DA2F-EDB3-4309-91B9-0B3867A3A4A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8428$06219BA1-F41F-48A5-B058-D135E6F330BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8428$43BC166A-0078-462D-B4A8-D9E53E96524C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0761-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b7e4f161ee9dd83b25b245a5bfa83a526f912fbf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8428$2FB9A992-DE26-4EE5-BE95-5BED3E70A18F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0823-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7939773e2fd07f135ff9a4977407bccf9113eb06",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8428$DF737DF2-4E37-43D0-8A3E-DBFF8E01F7FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11381523"
+          },
+          "hash": "1ab0ff9c6d13a6fbf80714317a714bd2ed501210",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8428",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tomo no Iyatsugu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伴弥嗣"
+    }
+  },
+  "lastrevid": 17408816,
+  "modified": "2025-09-15T22:52:12Z",
+  "ns": 860,
+  "pageid": 30915,
+  "sitelinks": {},
+  "title": "Item:Q8428",
+  "type": "item"
+}

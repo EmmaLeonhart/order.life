@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chi Ming Yuan Ji Shi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q31915$D187C921-9F7E-4FAF-87E6-4E7746BDC4BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36193",
+              "numeric-id": 36193
+            }
+          },
+          "hash": "e785802ae2454e39f725ecad05ce2694aad0d092",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q31915$3E439689-9B1C-4E39-B6F5-98D6FD8E58F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31915$E6ACB6AC-68A2-4196-88F3-D5F0C99C47A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31915$CC0272FA-79BA-43F6-9001-8A68B9EBAE1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36185",
+              "numeric-id": 36185
+            }
+          },
+          "hash": "b6b363fa7f909d0efe727263370e8c51ad5bcca4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q31915$52CD5450-6FCD-46CB-9550-22B8AE2D255B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36189",
+              "numeric-id": 36189
+            }
+          },
+          "hash": "f2e140de2403c7a4772d4f6952bd314ee0025a31",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31915$5B09440C-3B3B-4875-A1F8-7F00BB619233",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31915$99862724-948A-4088-AE68-BA4BE7CA89DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1635-10-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "36bb352cc5cdcf6750d41c4879891554dab4d14c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31915$FFEF2ADF-7B1D-43E1-8F3D-1299565F6A7F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1704-04-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a05c39471038c05eb346e92f86069623a2e8eb26",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31915$EFAE49B2-72AC-48F9-A055-5ABD025984ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108841142"
+          },
+          "hash": "3a73394c06e73f05883e81e28047e7bcbdc969ab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "持明院家20代。正二位・権大納言"
+    }
+  },
+  "id": "Q31915",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "持明院基時"
+    }
+  },
+  "lastrevid": 17432028,
+  "modified": "2025-09-16T05:33:20Z",
+  "ns": 860,
+  "pageid": 51649,
+  "sitelinks": {},
+  "title": "Item:Q31915",
+  "type": "item"
+}

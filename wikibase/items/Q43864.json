@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "三条西公里"
+      },
+      {
+        "language": "en",
+        "value": "San Tiao Xi Gong Li"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q43864$4CD96E08-B009-4E37-91E7-94E7BC915009",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43864$C69A9A88-3686-4FB2-9BB4-E61747C9A0B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43864$91150323-A10D-450E-A066-60174ADB25CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39775",
+              "numeric-id": 39775
+            }
+          },
+          "hash": "7af840a964be9692eb820a817b59b33765d800c8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43864$29F23F6E-F70B-42D7-A44D-106E6E37DF41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43860",
+              "numeric-id": 43860
+            }
+          },
+          "hash": "9151b383157c8feb1e4a7e3421c8663a16f5dc0e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43864$A017D90E-FA7B-43A3-8629-015401C8922B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43864$45E409F8-4933-4180-9591-43BA13D1136C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1749-06-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b2f2c353293d6bb44f55ad71ec9b5bbe846f442",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43864$589579FC-D68D-4455-BCBC-9FEA8B4EB5B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1765-09-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c89e19f94e78734f9c43da967ed06e8e1b98272",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43864$B48CCCAA-372C-42CE-BA25-D0580A7FC0CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110167125"
+          },
+          "hash": "67a46b91fcf809d0739058bfaaa95a9527173ed6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "三条西家13代。右中将、正四位下"
+    }
+  },
+  "id": "Q43864",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "三条西公里"
+    }
+  },
+  "lastrevid": 17448078,
+  "modified": "2025-09-16T09:24:38Z",
+  "ns": 860,
+  "pageid": 60585,
+  "sitelinks": {},
+  "title": "Item:Q43864",
+  "type": "item"
+}

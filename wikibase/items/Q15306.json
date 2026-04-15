@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iwaki Tsunetaka"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15306$BFC7416C-724C-45AE-97B8-58AFCF863099",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15788",
+              "numeric-id": 15788
+            }
+          },
+          "hash": "1ada6a6bd14f254bbc58de75da5124c1bba9a138",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15306$1D8BCE0E-107A-4565-8C5F-8D78F5E10C87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15787",
+              "numeric-id": 15787
+            }
+          },
+          "hash": "e26d2e2e8ef3d29704766b8895f0bd19c2449dcf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15306$D82A24B7-33A0-438F-83D2-CF0858E250C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15306$5946028A-2024-4F74-BD86-B6A1E107FCAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15306$9B77C662-EAA8-4959-B128-C9DF81499980",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14915",
+              "numeric-id": 14915
+            }
+          },
+          "hash": "18e6b4bcf52206b51b54911ac74c2d7dbab2b7ca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15306$89C4E402-25B9-48A2-87AA-D01E5691958E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15306$BA495FE9-B845-4C06-A43A-6DFA13E4DB6E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1542-02-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d1ee41e7d3c9b11dbf90b661260920296480277",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15306$BED5231F-6E27-49AB-8DE0-B7FEC4411652",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11474309"
+          },
+          "hash": "a6027d25d9f6cedafe79cd9c2902706a7d985251",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15306$E452FF33-096E-42F1-A18C-290AB1ADCF89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iwaki Tsunetaka Arms.svg"
+          },
+          "hash": "233d20629c38244fb7517117491cd959db422a6f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代から戦国時代にかけての武将、岩城氏11代当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q15306",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Iwaki Tsunetaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岩城常隆 (下総守)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Iwaki Tsunetaka"
+    }
+  },
+  "lastrevid": 17415076,
+  "modified": "2025-09-16T00:18:19Z",
+  "ns": 860,
+  "pageid": 37595,
+  "sitelinks": {},
+  "title": "Item:Q15306",
+  "type": "item"
+}

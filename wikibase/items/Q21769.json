@@ -1,0 +1,230 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hōjuin Yūshinni"
+      },
+      {
+        "language": "en",
+        "value": "Hojuin Yushinni"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q37282$74BDC6E2-4A1A-4605-929A-14FDB068D866",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37286",
+              "numeric-id": 37286
+            }
+          },
+          "hash": "aab1833dd1a1fcf62aa3cdeee2ed608dad26c623",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37282$BC636F74-D883-4216-BAC8-1513BB4DE702",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37282$5BB5C6E0-79B0-4BF5-AC33-BC7A1F4B6FF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37282$55604586-B310-4ED2-AD81-C92C49D037E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33050",
+              "numeric-id": 33050
+            }
+          },
+          "hash": "ff861eecd2e8614a676e13438aed665852d3f8dd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37282$FEAC680A-2D57-4141-89EF-C3343B5D920A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37282$032A98DE-1DB7-43FB-9614-0E5A9E659972",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1565-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5582a8179cf616d70bf760d6faed59b2bd7dbfe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37282$8BD82B59-1395-4DC8-B620-C48BC73C0A22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22126894"
+          },
+          "hash": "4390ef1af699b660d7c80662397551690d5f6912",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q37282$C7F02D34-1DC5-4933-9F85-CD4628D65CC4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hojuin Yushinni"
+          },
+          "hash": "d0179ee477235384381c652f34cbd84855b06caa",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37282$F93B1550-1C53-4932-B893-D2C848C2F4A2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hōjuin Yūshinni Arms.svg"
+          },
+          "hash": "ae3b5fda9f0fc7cd493794bc537b86fce83a9eac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代後期から江戸時代初期の女性。"
+    }
+  },
+  "id": "Q37282",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hōjuin Yūshinni"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hōjuin Yūshinni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "宝寿院祐心尼"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hojuin Yushinni"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юсинни Ходзюин"
+    }
+  },
+  "lastrevid": 17439630,
+  "modified": "2025-09-16T07:24:11Z",
+  "ns": 860,
+  "pageid": 55660,
+  "sitelinks": {},
+  "title": "Item:Q37282",
+  "type": "item"
+}

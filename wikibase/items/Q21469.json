@@ -1,0 +1,298 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asakura Iekage"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21469$781AAB00-3930-4264-8A9E-2D0F0D299B91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36529",
+              "numeric-id": 36529
+            }
+          },
+          "hash": "08494e5fbb7cf5836f509b95dcec6ad53632af98",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21469$BE679D6C-4CC8-4F77-B2EE-D22ADFE95FB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21471",
+              "numeric-id": 21471
+            }
+          },
+          "hash": "1045c3071783148bfd2aa405bc467b0954b52858",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21469$61F83F5B-B32C-45D2-BF56-210809F20D51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21472",
+              "numeric-id": 21472
+            }
+          },
+          "hash": "9441ac5109485d9ff72fd97799af52e98d9098cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21469$50A91742-750F-41FF-8127-BB8B03C62723",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19480",
+              "numeric-id": 19480
+            }
+          },
+          "hash": "128b7bb104efe61de9046b6fcf8a0c62937385be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21469$95E50D32-BDC1-4BD4-A6DD-7370617AF8B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21469$ABF45FC7-E4B9-4268-823E-3BB7EFC19A13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21469$47A1C1C3-740C-4ED5-A954-65AB1D7EF741",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41200",
+              "numeric-id": 41200
+            }
+          },
+          "hash": "f5c54e9167919db73b70f6b277ec7795914ad8ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21469$BFA4769C-B2A1-43F4-B16B-68193535E3AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21469$0E3B613E-C8F3-496C-94D5-4EED4094A21A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1402-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "97d8c83659570877d3bf355c94dae86a5eaecf41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21469$E133644D-FD5B-4FE0-A825-9A218262F3A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1451-01-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fd71d3904444ef9384122d7b1eeaabe495e1124",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21469$77263F52-52AE-4B04-9C89-5792A8470994",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11068413"
+          },
+          "hash": "100fd3dc39d805b2cc5e24419f60b92a1198cb92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21469$F8E53B09-2556-4A07-8852-632B3ED06E44",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asakura Iekage Arms.svg"
+          },
+          "hash": "e15c15ac1186af1a20ed98171486597d145c7aa0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "6th head of Asakura clan."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "越前朝倉氏6代当主"
+    }
+  },
+  "id": "Q21469",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Asakura Iekage"
+    },
+    "de": {
+      "language": "de",
+      "value": "Asakura Iekage"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asakura Iekage"
+    },
+    "es": {
+      "language": "es",
+      "value": "Asakura Iekage"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朝倉家景"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иэкагэ Асакура"
+    }
+  },
+  "lastrevid": 17420574,
+  "modified": "2025-09-16T02:20:17Z",
+  "ns": 860,
+  "pageid": 43488,
+  "sitelinks": {},
+  "title": "Item:Q21469",
+  "type": "item"
+}

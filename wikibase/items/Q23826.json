@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Kunitaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23826$03B64059-74BA-401A-B3DF-2CF41BD4C96B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23826$66423C39-12BF-45F9-AE09-40F959636328",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23826$F8B23310-3AFC-4D03-B4B6-3AD6C9C777FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21511",
+              "numeric-id": 21511
+            }
+          },
+          "hash": "74db6d32812d03a7a08eb84ba7c484fa3e05a05b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23826$36386C01-3F2D-49F0-A0C3-7B000873C3E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23826$E306544E-5598-407B-8ED6-954A27D42753",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1614-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19367710f011cd33384087949ed234f7eba792e6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23826$A45CEC71-CD47-4D9C-BA81-8F99BF4B6766",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1648-10-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df300707b448974b7d30eeaf325370a725b76efa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23826$E08C83C1-5D53-4F81-A0A4-6579DF585481",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380698"
+          },
+          "hash": "d0c78dcef53d2b14a46cccabd0a882429ecbf281",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23826$29263ED5-A445-4996-8550-D642E4077650",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Kunitaka Arms.svg"
+          },
+          "hash": "a602bcf91221812ddaebcdc76fb6a7992ff26d7a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の武士。仙台藩一門第六席・岩谷堂伊達家2代"
+    }
+  },
+  "id": "Q23826",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Kunitaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達国隆"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кунитака Датэ"
+    }
+  },
+  "lastrevid": 17422890,
+  "modified": "2025-09-16T03:10:28Z",
+  "ns": 860,
+  "pageid": 45635,
+  "sitelinks": {},
+  "title": "Item:Q23826",
+  "type": "item"
+}

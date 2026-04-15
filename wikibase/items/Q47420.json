@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Shangxi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47420$8A3BB621-2922-41EF-B9C3-DA9F290C370D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56191",
+              "numeric-id": 56191
+            }
+          },
+          "hash": "48430605f2000ddd53596147a811e9e563e2f976",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47420$E6D1BBFA-F8AC-43DD-9C8A-A1BE82ECD869",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56194",
+              "numeric-id": 56194
+            }
+          },
+          "hash": "16141c1d220281edd4b35d944fd525aa5d7f867d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47420$303D1D66-0B3C-4662-B4D3-8BD02E88E19E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47420$3D443200-02E2-4413-8546-D3AFE1C3F90E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47420$F71E9922-5FBE-499E-9270-378FDF9065F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23765",
+              "numeric-id": 23765
+            }
+          },
+          "hash": "4b00b68a83e7021c8cdec68049b0ebdf2fd03d21",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47420$F27D95A7-9850-4A87-8075-CEAB38EE421C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47420$2C829F0E-290B-4852-8AF2-FE7F2DC00CD0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0787-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "167d5ab7a069075e1db128204d8d493d7e90be21",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47420$E962C115-44E9-43C0-A038-72AD2E081B57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45487152"
+          },
+          "hash": "16442a1b27dd7d974cb761f44b25ec889d09c16b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q47420$67D18556-5F3D-4FEC-AEA5-3EA9E4D3E604",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075060986923"
+          },
+          "hash": "32f8067e73cf65081772f54820f48c85e5f853e8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47420$8F758526-B282-4AD9-A8DB-A79EFA2DBBC3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Shangxi Arms.svg"
+          },
+          "hash": "4cb41ff2961b90d208786fc247b028d86dce653b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188202"
+    }
+  },
+  "id": "Q47420",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shangxi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Shangxi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李尚羲"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shangxi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李尚羲"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李尚羲"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李尚羲"
+    }
+  },
+  "lastrevid": 17452530,
+  "modified": "2025-09-16T10:30:30Z",
+  "ns": 860,
+  "pageid": 63241,
+  "sitelinks": {},
+  "title": "Item:Q47420",
+  "type": "item"
+}

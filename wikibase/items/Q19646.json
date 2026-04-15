@@ -1,0 +1,302 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shiokawa Nagamitsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19646$5564F4EA-8CFC-4C58-9B76-417D257EAE98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18018",
+              "numeric-id": 18018
+            }
+          },
+          "hash": "fe863a7b44c5abc24b5a45fbf963bcde2ce719bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19646$825D3542-7709-4636-BD95-28605FCC3118",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30556",
+              "numeric-id": 30556
+            }
+          },
+          "hash": "dd1b8a3370626d8526449cc53b9bc31b888953ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q19646$0432C638-7FE5-4173-ACCC-648711C5BE4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "塩川-2"
+          },
+          "hash": "b8ac98a976b4b583a275820c8b1597adc70470e4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19646$EC71E3F0-9702-4A78-B8C0-44AFF08087BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19646$70E1EA05-937F-4E03-A5EF-3E16AB2A9353",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19646$4AC6C720-1657-4D6E-ADB1-AB813949DD4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36901",
+              "numeric-id": 36901
+            }
+          },
+          "hash": "8eabec383bc0f914097c4702b46147a4cd4cee8d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q19646$511A16DD-A533-4704-B293-06BE479460F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36905",
+              "numeric-id": 36905
+            }
+          },
+          "hash": "96b1fb1d25a7dce40583c4a98c17be62f55ef07f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19646$D1105AE5-6282-4491-BBB3-6B56D624C480",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19646$79A81907-E08F-460E-B464-18A5827839C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1538-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "28eed49c4586397c23127eab09a1ce5a311e6881",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19646$3FB67FC3-C3F1-4468-BE6E-68E9356D145F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1586-11-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "722095cdf8cc5ef4abe49638e0b4ee2c832e201e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19646$F4400996-819D-4125-BFDE-CA3A2D657CCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20040463"
+          },
+          "hash": "89dc8b9792891be7507ab3720fcbeb9e0bdaa49e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19646$F600D383-1AD2-498E-B211-794CD2AE65A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shiokawa Nagamitsu Arms.svg"
+          },
+          "hash": "da58f4e5f0a092b83ee805b58ee40a122a86cac7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1538 - 15 Nov 1586"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代の武将。伯耆守。子に塩川頼面（愛蔵）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский военный деятель"
+    }
+  },
+  "id": "Q19646",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Nagamicu Šiokawa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shiokawa Nagamitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "塩川長満"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сиокава Нагамицу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鹽川長滿"
+    }
+  },
+  "lastrevid": 17418896,
+  "modified": "2025-09-16T01:41:03Z",
+  "ns": 860,
+  "pageid": 41756,
+  "sitelinks": {},
+  "title": "Item:Q19646",
+  "type": "item"
+}

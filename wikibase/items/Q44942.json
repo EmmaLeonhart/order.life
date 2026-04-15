@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Kuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q44942$250D45F2-97C3-4C52-A5E1-53D4D6655D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53246",
+              "numeric-id": 53246
+            }
+          },
+          "hash": "59b58292a2405605d2c3d6cf9aeba93be60dd218",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44942$DEBA1E3E-BD3C-4656-B578-94BFBDC09F7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53250",
+              "numeric-id": 53250
+            }
+          },
+          "hash": "61e67e9fffdf34e4054203024fd986c39f476f03",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44942$B78E27D5-E413-4522-BAEB-5797664911B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53254",
+              "numeric-id": 53254
+            }
+          },
+          "hash": "b286115fb7f53013952af2cf4ec4a8c9c80be6f5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q44942$6994DBCA-B913-4D83-84E5-A704839B15B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44942$C5ADCF89-E5D6-46F6-BAC8-28EB6A2D78D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q44942$2392697C-A9F3-41BD-849B-D8FB47FD3468",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44934",
+              "numeric-id": 44934
+            }
+          },
+          "hash": "d32ebdc9431d29687de20525d420f1765c6412ce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q44942$AC739C0B-F9C9-4160-AF77-0E6F8561C01B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q44942$F2819808-C35C-4CB0-AD27-E28712BE435A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0557-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaa3b23582934e4597f784d026aa7fb0c5d5f105",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q44942$7959CDD6-202F-44B2-B6D6-101E9E84F57C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15904558"
+          },
+          "hash": "754854b12548b7191947ba176d0d4b66867aecc0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q44942$D37BF14F-B795-4E98-89CB-05F2EDCAF5CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074706130908"
+          },
+          "hash": "15e8a5bc75b49d4f045a00a4ff28adeb0ac0a678",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q44942$D7722576-18A2-41CB-A11D-D037FA274131",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Kuan Arms.svg"
+          },
+          "hash": "2d418175df6a96fb95d678c22b3052abb06d5467",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Western Wei person CBDB = 22509"
+    }
+  },
+  "id": "Q44942",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Kuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Kuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Kuan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楊寛"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊寬"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Kuan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dương Khoan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杨宽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨宽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊寬"
+    }
+  },
+  "lastrevid": 17449284,
+  "modified": "2025-09-16T09:42:34Z",
+  "ns": 860,
+  "pageid": 61389,
+  "sitelinks": {},
+  "title": "Item:Q44942",
+  "type": "item"
+}

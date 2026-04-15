@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Keirin-in"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14992$C2D91820-1727-41F0-BEA0-BFBED743FA15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14992$B37FF703-1D36-46AF-8968-C785B3348A21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q14992$2871D558-C2E1-4DCF-9491-D7A941FADFCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15399",
+              "numeric-id": 15399
+            }
+          },
+          "hash": "53ddb46f8c34d24fb6694aa06596659252ca6f53",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14992$C94C2B0D-5DCC-45E4-BCB4-5633F3301DF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14985",
+              "numeric-id": 14985
+            }
+          },
+          "hash": "4cc068c83d34ed3b28ef4e543ab4a28f6ac70e69",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14992$51C8799F-2851-499E-A76A-987E471A1808",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14992$0D82CAE0-CB18-4196-A166-E30DD67D5CD4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1564-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc879bd968cf0fd170a44fbeddd6d3e42ef922fc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14992$A4EA11FA-6E9E-42B8-A929-E658A812634D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1582-04-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eb336e488c75f6b2882fd9bf62d2f1fdd2b6207",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14992$69905FC5-8A46-49FB-9A42-E51DE1CC8897",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "北条夫人.jpg"
+          },
+          "hash": "152dd89303a596bcbbbedebdce3a8ad40f91fb96",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14992$0B311A3F-A5FB-4CBE-B0C0-152ECD6BC96E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11402094"
+          },
+          "hash": "0badaa3deb0746eebcdfe96b13ccdc830b0c2473",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14992$D6DA026C-FF1D-4C49-8009-1980C872757A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Keirin-in Arms.svg"
+          },
+          "hash": "20862f1360cbb800f0c49854c77fac38f9d185d7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka Kacujoriho Takedy"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of daimyo Hōjō Ujiyasu. wife of Takeda Katsuyori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国大名北条氏康の六女、武田勝頼の継室"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская знатная дама"
+    }
+  },
+  "id": "Q14992",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Keirin-in"
+    },
+    "br": {
+      "language": "br",
+      "value": "Keirin-in"
+    },
+    "co": {
+      "language": "co",
+      "value": "Keirin-in"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Keirin"
+    },
+    "da": {
+      "language": "da",
+      "value": "Keirin-in"
+    },
+    "de": {
+      "language": "de",
+      "value": "Keirin-in"
+    },
+    "en": {
+      "language": "en",
+      "value": "Keirin-in"
+    },
+    "es": {
+      "language": "es",
+      "value": "Keirin-in"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هوجوفوجین"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Keirin-in"
+    },
+    "id": {
+      "language": "id",
+      "value": "Keirin-in"
+    },
+    "it": {
+      "language": "it",
+      "value": "Keirin-in"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "北条夫人"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Keirin-in"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Keirin-in"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Keirin-in"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Keirin-in"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Keirin-in"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кэйринъин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Keirin-in"
+    },
+    "ty": {
+      "language": "ty",
+      "value": "Keirin-in"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "北條夫人"
+    }
+  },
+  "lastrevid": 17414870,
+  "modified": "2025-09-16T00:15:21Z",
+  "ns": 860,
+  "pageid": 37285,
+  "sitelinks": {},
+  "title": "Item:Q14992",
+  "type": "item"
+}

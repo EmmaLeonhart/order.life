@@ -1,0 +1,386 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chupan //"
+      },
+      {
+        "language": "en",
+        "value": "Chupan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q46299$C6360400-9C03-4A97-9F3E-B5DF8E26C6B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46295",
+              "numeric-id": 46295
+            }
+          },
+          "hash": "209f13895a5c39f752cd69a6e6dd5c6b1d8b3d0e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46299$A1815E4D-51C0-467D-9C4D-5C0CF206D8A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50239",
+              "numeric-id": 50239
+            }
+          },
+          "hash": "77deddb7441ccc9e90575d8b68a6b4ea816d00af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46299$E411561A-26F0-45CE-AB80-60D3D6DF317C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46307",
+              "numeric-id": 46307
+            }
+          },
+          "hash": "3424ce656366be68fec3d4d99c5abe06479eef34",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46299$B3A817CA-11F0-445A-8580-9ACC7F74B20E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46299$AFCE35D4-D6D4-4FD6-B28A-C115D2F95E79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q46299$01C7C36C-9470-451D-8B69-968DAC7ADB5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43350",
+              "numeric-id": 43350
+            }
+          },
+          "hash": "5c2b5b77f84ca943833d4d5f8dc8eb0678f5f8d2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46299$88EA0613-9FB2-44D6-BE20-FB071444996C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43354",
+              "numeric-id": 43354
+            }
+          },
+          "hash": "7bba3262b4970932a1636fa56c585c00fa7f7b8d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46299$CBB3698E-AED9-4510-ABBE-7A74805085CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46299$5F30E973-6DEA-4E93-8604-4234F7537210",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1262-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7024b1633cc2d89d0526548022a27c1aac12e080",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46299$AD7E634B-ECCD-4947-802A-427C44D0CE3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1327-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84ed70d296c2fe26a9a8fcd7c695d991fa075e90",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46299$E1D44EB9-00A4-4331-8B12-B11D76F02E93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q471985"
+          },
+          "hash": "f528dab9698336d6c813d110078af610be520ee7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46299$87BCA1D8-E844-4F3B-B9A8-E1BFAD589864",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chupan Arms.svg"
+          },
+          "hash": "d02bd2233305a3f8709761309571f0cddf13ce09",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "نبيل جوباني من الدولة الإلخانية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "líder militar mongol (1262–1327)"
+    },
+    "de": {
+      "language": "de",
+      "value": "chupanidischer Fürst der Ilchane und der Namensgeber der Chupanidendynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chupanid noble"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سپهسالار سلطان محمد خدابنده اولجایتو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général mongol, des Chupanides"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider uit Mongolië (-1327)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "generał mongolski, założyciel dynastii Czobanidów"
+    }
+  },
+  "id": "Q46299",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أمير جوبان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Əmir Çoban Sulduz"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Amir Coban"
+    },
+    "de": {
+      "language": "de",
+      "value": "Amir Tschupan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chupan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Chupan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امیرچوپان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Chupan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Chupan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Chupan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "チョバン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჩობანი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "추판"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chupan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Czoban"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чобан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Chupan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emir Çoban"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чобан (емір)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "出班"
+    }
+  },
+  "lastrevid": 17451212,
+  "modified": "2025-09-16T10:11:14Z",
+  "ns": 860,
+  "pageid": 62404,
+  "sitelinks": {},
+  "title": "Item:Q46299",
+  "type": "item"
+}

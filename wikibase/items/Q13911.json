@@ -1,0 +1,402 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konoe Iemoto"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q13911$FA583FB5-87BC-44BF-995D-4F174A808B44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805040"
+          },
+          "hash": "4839558d56412328dd9dd401959337c0262f2405",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q13911$762550C6-EE9B-4A57-805E-10CCEFFFEF72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14197",
+              "numeric-id": 14197
+            }
+          },
+          "hash": "7e1f2a5bec80b62efadcc83bf596735a5105dfa2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13911$E22B6514-5030-4161-8579-92A2F83BB745",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14264",
+              "numeric-id": 14264
+            }
+          },
+          "hash": "815782b3cfb56e8445abdb4cb66234170d981115",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13911$1B05DC5D-6DD5-45D0-BED6-C5104D1A2280",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13911$9AF3BFBE-29C0-4452-AD52-424FFAC4734D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13911$EC331BA7-2BB4-4201-B5E3-69D9C9A69429",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13313",
+              "numeric-id": 13313
+            }
+          },
+          "hash": "6f9f9249e729a77844d21e8ededad6e62c0e0f9c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13911$ED10551A-DA1F-4820-A374-A85C103FDE5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13911$C274DCA3-2C10-4AAF-9C94-CFC87045CB63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1261-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6dac4335134b2fbf73b59a38d953024362e874b7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13911$B7530515-6743-4D90-8862-321E80DC52A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1296-07-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "526bcb8a4f470a488fa41a54d840c1ee4f6a22bd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13911$7CC2DCE9-ECC2-4B35-A063-488A7C6E1E37",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "近衛家基.jpg"
+          },
+          "hash": "78887a2830a8e7afb0799dbb04d39e5eb2d4c735",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13911$56980742-D3B1-43DF-8D28-0D67A6000D65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3198712"
+          },
+          "hash": "1a823a57c3f42bb458afa6daf64871c2be1e1b14",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13911$3A0F259F-CF64-4EF5-B862-4623FA54A793",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konoe Iemoto Arms.svg"
+          },
+          "hash": "9824f0917ebb66b1bc754faf82c2860066423e8f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1261–1296)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský dvořan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "kugyō"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate japonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期の公卿。近衛基平の長男・嫡男。母は家女房。従一位、関白、右大臣。勅撰集『続拾遺和歌集』以下に13首入集。藤氏長者。近衛家6代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (1261-1296)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'da en önemli işlerden sorumlu saray görevlisi/kugyō (1261 – 1296)"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q13911",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Konoe Iemoto"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Iemoto Konoe"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konoe Iemoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Konoe Iemoto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Konoe Iemoto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Konoe Iemoto"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Konoe Iemoto"
+    },
+    "it": {
+      "language": "it",
+      "value": "Konoe Iemoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "近衛家基"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Konoe Iemoto"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Konoe Iemoto"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Konoe Iemoto"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Konoe Iemoto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иэмото Коноэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AKonoe Iemoto"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Konoe Iemoto"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Konoe Iemoto"
+    }
+  },
+  "lastrevid": 17414170,
+  "modified": "2025-09-16T00:05:56Z",
+  "ns": 860,
+  "pageid": 36221,
+  "sitelinks": {},
+  "title": "Item:Q13911",
+  "type": "item"
+}

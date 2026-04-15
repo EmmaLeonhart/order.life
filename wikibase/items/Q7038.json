@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ichinobe-no Oshiwa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7038$FE35FD2D-5960-4067-9A0F-4CF1075D6BF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719982"
+          },
+          "hash": "94032640c1f61d2b55b6a45091aa8ffd4bd53f59",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7038$F5C09CB2-3BB0-45F9-B7CE-D3636D9A82A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7077",
+              "numeric-id": 7077
+            }
+          },
+          "hash": "323072fcc3ff8d201ca2359a38a1671cf214af64",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7038$AECE1979-C4B7-4303-A312-BA661844359F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7038$4C8A79BB-C972-4A83-B520-4D383C43CC17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7038$DFE37A22-1F1D-46CE-BBC1-A3D0AD081D4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7038$6413CBFB-327F-4A4C-A1F1-00665FAAB065",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db34a25e810e4a38761e77dbdbfd966b2022e20e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7038$38376F9D-8843-4FF9-9FAA-FA3615861047",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "+0456-10-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a2c6ca4ccf74a6d09e655f79b2e543783f0bee5c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7038$44C500F6-E1C4-4203-88A4-92CC3079197B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2297842"
+          },
+          "hash": "3b83dbeba5d75d9e143553bc2de05707a6811914",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7038$3E3E9C8C-34FD-448F-8E56-1EAEB7097576",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ichinobe-no Oshiwa Arms.svg"
+          },
+          "hash": "45892be36096959784e9e1969f7cd60ed7d6c0bc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "japonský princ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese prince"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский принц"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日本古坟时代的皇族"
+    }
+  },
+  "id": "Q7038",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ičinobe no Ošiha"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ichinobe no Oshiwa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "市辺押磐皇子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이치노헤노시하 황자"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ičinobė no Ošiha"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Итинобэ-но Осиха"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิจิโนเบะ โนะ โอชิวะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ichinobe-no Oshiwa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ітінобе-но Осіха"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "市邊押磐皇子"
+    }
+  },
+  "lastrevid": 17406911,
+  "modified": "2025-09-15T22:28:22Z",
+  "ns": 860,
+  "pageid": 29533,
+  "sitelinks": {},
+  "title": "Item:Q7038",
+  "type": "item"
+}

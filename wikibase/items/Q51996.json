@@ -1,0 +1,547 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Songtsän Gampo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q51996$D7732AC7-B0F4-4F98-A3BE-A927A02F7566",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "548189"
+          },
+          "hash": "f520d6cb7e4993801832f2c9a44ec3d1ff5468dc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q51996$C2F1D0C0-055E-4893-922C-B70D51D0F0B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58770",
+              "numeric-id": 58770
+            }
+          },
+          "hash": "77e930aefdd6b63cfdd5f18e45b1278c37b7e607",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q51996$84121B4A-2912-4848-B0C9-842709583A1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q51996$83CCD55D-A19D-4519-86AC-C3460C9E91F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q51996$0DAE5675-CAC7-4759-8CD3-32A596239F34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25205",
+              "numeric-id": 25205
+            }
+          },
+          "hash": "838bd974d988c015ab3a79b4670673ea8d8788d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q51996$7DE64FE4-8AA6-4AC1-9E70-20D3F362D4D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58767",
+              "numeric-id": 58767
+            }
+          },
+          "hash": "855c7c7ae9f7e52d819a58746d44b72a1a2cbd84",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q51996$ECED472B-CCBE-49B9-90B9-5F8577EA6FD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58761",
+              "numeric-id": 58761
+            }
+          },
+          "hash": "d098fcd2661e1434aeaeda56372d0fbbbd292800",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q51996$49B10D02-CD3D-4F42-A121-DC341656F120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58764",
+              "numeric-id": 58764
+            }
+          },
+          "hash": "c5c7be7213bee65599860e4d009e3bbe611579bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q51996$2DB2AA8A-87BB-4A70-9A6F-A42C1CD38D7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q51996$2EC52853-2E71-415D-B5CD-4AF6FBCF8023",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0604-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c87dbac7977db8c6cf7700abcb2784137d51d9f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q51996$2A02514B-3B6C-4AD2-AE28-9951EB3A43F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5022f751a0b569b0d23b4b6d417dfd9b96f27c1f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q51996$124AE3C3-5D7B-4477-BCC8-8F34B655EB37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q320122"
+          },
+          "hash": "efb96bba52e1dd643614913eca19987bfeae885e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51996$0E637A7D-7751-475B-9F11-0149B6344365",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Songtsän Gampo Arms.svg"
+          },
+          "hash": "3240b8f9a0df657e2a5604e8a82b461d8b888792",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "emperador tibetà"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Tibet"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tibetan emperor (604-650)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "tibeta imperiestro (604-650)"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador tibetano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "33e roi du Tibet"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר טיבט (604-650)"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "तिब्बत के पूर्व नरेश एवं तिब्बती साम्राज्य के संस्थापक"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "tibeti uralkodó"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "古代チベット・チベット帝国の王・ツェンポ・皇帝。チベット初の統一王国（吐蕃）を樹立、チベットに初めて仏教を導入した"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "토번의 제33대 첸포"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tibetaanse koning (605-650)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Tybetu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "33-й царь Ярлунгской династии Тибета"
+    }
+  },
+  "id": "Q51996",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سونغتسين غامبو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сонгцен Гампо"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "স্রোং-ব্ত্সন-স্গাম-পো"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཆོས་རྒྱལ་སྲོང་བཙན་སྒམ་པོ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Songtsen Gampo"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Songcän Gampo"
+    },
+    "da": {
+      "language": "da",
+      "value": "Songtsen Gampo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Songtsen Gampo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σονγκτσάν Γκάμπο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Songtsän Gampo"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Songtsen Gampo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Songtsen Gampo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Songtsen Gampo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سونگتسن گامپو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Songtsen Gampo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Songtsen Gampo"
+    },
+    "he": {
+      "language": "he",
+      "value": "סונגסן גמפו"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सोंगत्सेन गम्पो"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szongcen Gampo"
+    },
+    "id": {
+      "language": "id",
+      "value": "Songtsen Gampo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Songtsen Gampo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ソンツェン・ガンポ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "송짼감뽀"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Songcen Gampo"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Songtsen Gampo"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Songtsän Gampo"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "स्रङचङ गम्पो"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Songtsen Gampo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Songcen Gampo"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "سونگتسین گمپو"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Songtsen Gampo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Songtsen Gampo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сонгцэн Гампо"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Songtsen Gampo"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Songcän Gampo"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Songcen Gampo"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Songtsän Gampo"
+    },
+    "szy": {
+      "language": "szy",
+      "value": "Suncen-kanpu"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าซรอนซันกัมโป"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Songtsän Gampo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сронцангамбо"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tùng Tán Cán Bố"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "松赞干布"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松赞干布"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "松赞干布"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "松赞干布"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "松贊干布"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "松贊干布"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "松赞干布"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "松贊干布"
+    }
+  },
+  "lastrevid": 17457880,
+  "modified": "2025-09-16T11:48:29Z",
+  "ns": 860,
+  "pageid": 66827,
+  "sitelinks": {},
+  "title": "Item:Q51996",
+  "type": "item"
+}

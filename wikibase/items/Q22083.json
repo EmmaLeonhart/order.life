@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Tadanao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22083$7AB9CE4C-8A02-4267-B1EE-69BD2F291CC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24272",
+              "numeric-id": 24272
+            }
+          },
+          "hash": "c35d14c310cb73141d4d0a74cd9356a0effcf0ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22083$7B61D41D-3360-40F0-9B8B-48EDF95961FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24271",
+              "numeric-id": 24271
+            }
+          },
+          "hash": "32ca064f351764f17b532d2d71049161a19ed02b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22083$77537980-6168-484C-9B3E-5E57258826DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24273",
+              "numeric-id": 24273
+            }
+          },
+          "hash": "402f5adb756d748fc5e7638a8da7830fa9482684",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22083$25055444-0139-43BF-84B1-3B6757F42C15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24270",
+              "numeric-id": 24270
+            }
+          },
+          "hash": "965442f0bb096ea41480b46ac656d56d732322a9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22083$E0E471AC-E230-4D99-9510-6CA583C5A35E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22083$10F22F7B-144B-47A9-83E7-48A40F012419",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22083$D991D632-7594-4373-99AF-434D607B16BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20153",
+              "numeric-id": 20153
+            }
+          },
+          "hash": "eb498facd7b8d1f8542e544f1c94eb736de70b66",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22083$45CB9018-DE46-476E-9815-8E9DA4BA1ABA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22083$1412D266-8E3D-4DCB-BC18-DA1DEA7FE027",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1670-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "39f51e23242a59dedb3e08eca5aaa61592d783f1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22083$1691BA96-0A5C-4702-9A8D-74C2F86712BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1717-06-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e6576fdce5eb8e5592ac98e3de3b5c8f7797681",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22083$B2EC136A-F93C-4D95-A7A7-4D43337D6C0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11520027"
+          },
+          "hash": "e537517330def5b2eefa111cfdef1c87a5b280dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22083$F0B29F5C-CE26-400C-B2AB-1A06E17855F5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Tadanao Arms.svg"
+          },
+          "hash": "82b2421fbf54511231b4966b679aa5e13799620c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "大和国郡山藩主"
+    }
+  },
+  "id": "Q22083",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Tadanao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多忠直"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "혼다 다다나오"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таданао Хонда"
+    }
+  },
+  "lastrevid": 17421034,
+  "modified": "2025-09-16T02:35:08Z",
+  "ns": 860,
+  "pageid": 44091,
+  "sitelinks": {},
+  "title": "Item:Q22083",
+  "type": "item"
+}

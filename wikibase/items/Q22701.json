@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Soma Yoshitane"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22701$97792560-531A-4F67-8FF4-8073D78BF697",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39527",
+              "numeric-id": 39527
+            }
+          },
+          "hash": "bae0c2b2efcef9dde524fd57d6d2ab438c05f836",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22701$70CA67D3-EBB3-41DA-8BD8-CDB5ECB9AAC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22701$B8A6DA3F-1872-4549-8160-0A0159069FB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q22701$82E5533E-C991-4B97-BC79-8325FB14E538",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35494",
+              "numeric-id": 35494
+            }
+          },
+          "hash": "c981bb569cfbd38e710ff545be4e6587e31facbd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22701$BB120D2B-7343-4DED-85E2-7677F5045249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21773",
+              "numeric-id": 21773
+            }
+          },
+          "hash": "2c5dc6ec863d4704fe73923a281d710a103ab2b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22701$05CBDA4A-CB6E-4A78-BF89-3C5A72D64BE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22701$5EEF901D-2C6C-4574-AA8C-4EAA29B640D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1548-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44f1906238911a83fd2ef7a882b85a15c38f0d59",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22701$F3E7BB36-AAE8-4655-B4E9-2FD66677B345",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1635-12-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dae41dc633f0b1865569cd18f0289d240f8d2851",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22701$7C137870-02E9-40F9-BA03-2DE7CF28C13C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7559115"
+          },
+          "hash": "713b157642f971da0799afd20cfa6f2b2efc8784",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22701$4D275DB5-D538-45D6-981D-C636C545B786",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Soma Yoshitane Arms.svg"
+          },
+          "hash": "eb2cf20fa43deb44529a61d9c8b047cf25722428",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1548–1635)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代から江戸時代の武将。戦国大名。陸奥相馬氏16代。従五位下、長門守。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-1635)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1548 – 1635)"
+    }
+  },
+  "id": "Q22701",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Soma Yoshitane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Soma Yoshitane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Soma Yoshitane"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سوما یوشیتانه (۱۶۳۵-۱۵۴۸)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sōma Yoshitane"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sōma Yoshitane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "相馬義胤 (十六代当主)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Soma Yoshitane"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёситанэ Сома"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Soma Yoshitane"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Soma Yoshitane"
+    }
+  },
+  "lastrevid": 17421514,
+  "modified": "2025-09-16T02:48:13Z",
+  "ns": 860,
+  "pageid": 44680,
+  "sitelinks": {},
+  "title": "Item:Q22701",
+  "type": "item"
+}

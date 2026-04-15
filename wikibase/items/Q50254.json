@@ -1,0 +1,618 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "George IV of Georgia //"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "ლაშა გიორგი"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q50254$186B7C23-4166-43E5-8864-9D6644B8FFA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00559141"
+          },
+          "hash": "a83203e2b6468313756fe5987f861232248cdabd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q50254$336A5F26-015E-41ED-8450-EE302A33EEE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46311",
+              "numeric-id": 46311
+            }
+          },
+          "hash": "901b5832a8297d071c9be5efe13bb294d4d41180",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50254$4878C494-DFB1-40C7-814C-0B5F776AE06E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50054",
+              "numeric-id": 50054
+            }
+          },
+          "hash": "0a49ae636c99b595b0fc9808be0ac430cc310bed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50254$5F0A201E-155D-4A50-83F9-87BF166B135E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167254",
+              "numeric-id": 167254
+            }
+          },
+          "hash": "b8dd11b167961c4dec2d9b7b9eab3502623a00ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50254$AA50CD92-15A1-43F0-B5E9-D18FDBC3D809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167256",
+              "numeric-id": 167256
+            }
+          },
+          "hash": "b3536a2a6f567419d5a055aa8e0b95fdace4153a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50254$FA0A5C06-54F6-4D18-8DA1-4EFBC9E9D77D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50254$93496F65-827E-494F-A804-18F01C1DFD99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q50254$609A158A-4D53-4DEA-B1F8-F88E1E2ED7CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "George_IV_of_Georgia_(1)"
+          },
+          "hash": "9641e757fac8ff37254543c22ef477f52dd0f8ae",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50254$1FE45506-E972-4E1E-82A6-5B14EB53666B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50258",
+              "numeric-id": 50258
+            }
+          },
+          "hash": "4031b93d7ce29a984c8a0d67ed11c355c4f584b9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50254$E3B0775D-D15F-4316-8E0A-C2335C90B076",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167255",
+              "numeric-id": 167255
+            }
+          },
+          "hash": "3e6b3bef3ae4107f53c7cf58946bc2bb10072893",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50254$6991E0FF-9AEB-48B3-BC7D-3D2BAFBD160B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50306",
+              "numeric-id": 50306
+            }
+          },
+          "hash": "88da5433017e447860c0c0682dd2fb43774807b2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50254$22463EB5-1C36-42A5-A613-D9A6838AE3F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167215",
+              "numeric-id": 167215
+            }
+          },
+          "hash": "057ec232ca4b7408ec336b369220c0b075fc39f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50254$86A1110F-3930-4B7D-972C-C41AE1900CF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50310",
+              "numeric-id": 50310
+            }
+          },
+          "hash": "5d24154c27dd353a26082107a7fe8d9717800b2a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50254$A4DC8225-9B4D-4FE1-937C-51239C2A04EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167240",
+              "numeric-id": 167240
+            }
+          },
+          "hash": "c2a00cd28145e58292f62bc129596b25f3cfda7e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50254$3C2085E4-2E93-43C4-A960-ADC1CDB8F3DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50254$1C398FAF-2862-442A-A569-DC0AFDEFAEA6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1191-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5313e05f9595b9a9e00e6d9568af91faf28d218",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50254$9E4FCAA4-19F1-4C85-A9C1-732B44BA2511",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1223-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d47d6c5adccff8c3d7945687dd29d7b4c3a4df2b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50254$38CAEEDC-6758-4367-9B67-5B72357CC58D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q714595"
+          },
+          "hash": "7b19e8e4011bf37fafe96792fa61f3643311c4c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q50254$475F5A78-29A0-486F-9CD5-862C48C7761A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008528686507"
+          },
+          "hash": "d9d9a4ac117de3fe51ed9da7bf50fb86751298e9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50254$BEB8F531-401B-45E8-B77B-CCCC4798DAF9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "George IV of Georgia Arms.svg"
+          },
+          "hash": "1af3ba0c32d21b2b198eddecdc9534f297391a5a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "ملك من جيورجيا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "rei xeorxanu (1191–1223)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "грузінскі цар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "цар на Грузия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Geòrgia (1213 -1223)"
+    },
+    "de": {
+      "language": "de",
+      "value": "georgischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Georgia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí na Seoirsia"
+    },
+    "he": {
+      "language": "he",
+      "value": "המלך העשירי של ממלכת גאורגיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a középkori Grúzia uralkodója a mongol hódítás előtt"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վրաց արքա"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Georgia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning uit Georgië (1191-1223)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Gruzji"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "gruzinski kralj"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "georgisk monark"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "גרוזיניעשער מלך"
+    }
+  },
+  "id": "Q50254",
+  "labels": {
+    "ab": {
+      "language": "ab",
+      "value": "Гьаргь IV"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جورج الرابع ملك جورجيا"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Георгі IV Лаша"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гиорги IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jordi IV de Geòrgia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jiří IV. Gruzínský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Giorgi IV. Lascha"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γεώργιος Δ΄ της Γεωργίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "George IV of Georgia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Georgo la 4-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jorge IV de Georgia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گیورگی چهارم گرجستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Georges IV de Géorgie"
+    },
+    "he": {
+      "language": "he",
+      "value": "גיאורגי הרביעי לאשה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Đuro IV. Gruzijski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. György grúz király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գեորգի VI Լաշա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giorgio IV di Georgia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギオルギ4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გიორგი IV ლაშა"
+    },
+    "mdf": {
+      "language": "mdf",
+      "value": "Гиорги IV Лаша"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "George IV Lasja"
+    },
+    "os": {
+      "language": "os",
+      "value": "Георги IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jerzy IV Lasza"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Георгий IV Лаша"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jurij IV. Gruzinski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Георгије IV Грузијски"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Georg IV av Georgien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Giorgi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Георгій IV Лаша"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "גיארגי דער פערטער לאשא"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "乔治四世"
+    }
+  },
+  "lastrevid": 17456382,
+  "modified": "2025-09-16T11:26:07Z",
+  "ns": 860,
+  "pageid": 65356,
+  "sitelinks": {},
+  "title": "Item:Q50254",
+  "type": "item"
+}

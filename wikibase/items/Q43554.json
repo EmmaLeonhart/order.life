@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chen Li //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q43554$BD94251A-1EFF-40DC-8C15-CE1382D15D59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43554$71BBCA1B-7BF4-4782-B01D-46400A8544B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43554$54021ADD-811C-480F-ABD9-C7DF235604EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41217",
+              "numeric-id": 41217
+            }
+          },
+          "hash": "fad8cb98d0b81ee4b9be72afe4d0c573f8c0bfe3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43554$001D9030-7F63-4355-951D-14517E2F64D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43554$89E90211-6A33-4C56-8838-73BB214364F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1351-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a5eb831c6f43984214803683b6c883e1554767a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43554$35FFCC81-C545-4731-8BC7-5C83DAB391ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1408-06-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "56363b930817b0c6691bd024bf868095388fe7ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43554$3537FDC7-D04F-42EC-990D-6413111A666E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q703102"
+          },
+          "hash": "342b97a3fb943609c172e6be9fec38b1e2a04173",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43554$26857E46-3430-4E5E-9AF6-1D7F12924CCC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chen Li Arms.svg"
+          },
+          "hash": "41f12327cc1f2976478eef6364ec3d0cdd06de94",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "last emperor of the Chen Han (Dahan, Great Han) during the Yuan dynasty Ming dynasty transition (1351-1408)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "kinesisk keiser (1351-1408)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陈友谅之子 (1351-1408)"
+    }
+  },
+  "id": "Q43554",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Chen Li"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "چێن لی"
+    },
+    "de": {
+      "language": "de",
+      "value": "Chen Li"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chen Li"
+    },
+    "es": {
+      "language": "es",
+      "value": "Chen Li"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "陳理"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "陳理"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Chen Li"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chen Li"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trần Lý"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陈理"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "陈理"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "陳理"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "陳理"
+    }
+  },
+  "lastrevid": 17447740,
+  "modified": "2025-09-16T09:19:48Z",
+  "ns": 860,
+  "pageid": 60353,
+  "sitelinks": {},
+  "title": "Item:Q43554",
+  "type": "item"
+}

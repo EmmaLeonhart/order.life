@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsugaru Nobuoki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24389$407BCBD6-3093-45D9-8BFF-ABB5851E15BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24389$92CA113C-D433-4665-B84A-82DE9930D64C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q24389$CF84FEEE-4978-4213-9EE0-70D8A910FD71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38180",
+              "numeric-id": 38180
+            }
+          },
+          "hash": "d8bfd1ade085793f4ae1a44a14bd1e18a1cbb804",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24389$D7DE20E8-0CB4-448C-974F-A039EFF8A1D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24389$BB78CB33-8482-455F-8CB4-2A305D273808",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1695-09-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5556b7250eb515271f2be85748068c7a2fb601b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24389$D083F773-AC34-448C-9DB9-6CA8E9783B8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1731-01-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fa43fbd6bfe965d8b26d3b2f4e81f008dccb7b2c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24389$3F457544-8EC1-4CA4-A008-FA2264DA852C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11255668"
+          },
+          "hash": "95efbf7129f84ee6989e2c1ae8c757d80d72cc89",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24389$2635A43A-9FD8-44AC-B400-6D2B878BF8FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsugaru Nobuoki Arms.svg"
+          },
+          "hash": "eb5304d77b4be2a0bee69a9f1f1be6e7fc7fd634",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q24389",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsugaru Nobuoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "津軽信興"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쓰가루 노부오키"
+    }
+  },
+  "lastrevid": 17423386,
+  "modified": "2025-09-16T03:22:53Z",
+  "ns": 860,
+  "pageid": 46185,
+  "sitelinks": {},
+  "title": "Item:Q24389",
+  "type": "item"
+}

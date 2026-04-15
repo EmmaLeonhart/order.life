@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "小倉季永"
+      },
+      {
+        "language": "en",
+        "value": "Xiao Cang Ji Yong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q40215$E8376EDC-0424-4D22-AEF1-A6EE6C9DB4E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40215$AFC91C98-A18B-4582-BE68-CE39BB0E02CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40215$796403CD-C653-40B3-9D51-9E59088FCCF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35936",
+              "numeric-id": 35936
+            }
+          },
+          "hash": "291a9121dfb3f7580861d065ae4748fa7e6de121",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40215$F597536E-1C44-4B1F-AC35-6C37D689E8BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40215$065310C7-CC9D-4D12-AF8A-C74BA051869D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1684-04-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d27460e6d77d1a3fabb432bf54b8866e9d960b03",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40215$0EB8BB0C-B0BE-482D-AC3E-7357A63FD9A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1707-08-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b230be55833181dffef48041e28b7b13ab5dc951",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40215$25A083AE-9F52-4C4F-B037-CBB0EC8B3363",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110137403"
+          },
+          "hash": "4e28014de67007cb0db75c43f6ecb9cac5a203ba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "小倉家16代。正五位下、左少将"
+    }
+  },
+  "id": "Q40215",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "小倉季永"
+    }
+  },
+  "lastrevid": 17443236,
+  "modified": "2025-09-16T08:15:41Z",
+  "ns": 860,
+  "pageid": 57852,
+  "sitelinks": {},
+  "title": "Item:Q40215",
+  "type": "item"
+}

@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Doukas //"
+      },
+      {
+        "language": "en",
+        "value": "John Doukas"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q46251$A1D4C511-8757-42C8-BCCF-88DECF7684A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46251$7F0D3B8B-C734-45C9-964A-A3EB1A2C06EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46251$E615A3D9-9DA3-41AE-A01A-16464DBDCB60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46227",
+              "numeric-id": 46227
+            }
+          },
+          "hash": "ad1173ded532ff7498d16483f02f50764648fda4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46251$8F286327-3B3D-4FF4-B23D-E50E8AD4BB25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46231",
+              "numeric-id": 46231
+            }
+          },
+          "hash": "4960526568a1977836cdc119c23dd3076aea8a72",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46251$100A3A74-F6F7-4C92-BA41-58A726580072",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46251$78E9308C-1AFD-44FD-8A79-06D00E84730D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46251$F364666C-72CC-48F4-AC47-6AABF0E1A0E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1280-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8f7238aa6a10d6ce8bc43f9e143e76ec2a8ff6a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46251$EED7E5C2-BA64-46F5-8D1E-6855FAA57E5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21055295"
+          },
+          "hash": "2779129a52d442e58ee9da9eb67f4ec9102314f4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46251$9F7C8F1B-20BB-4D80-9744-9908FC4D72CF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Doukas Arms.svg"
+          },
+          "hash": "0ed8729517a27d837fc65b5be6cbf5020f87f51c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill de Miquel III de l'Epir, ostatge a Constantinoble"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Δεσπότη της Ηπείρου Μιχαήλ Β΄ Κομνηνού"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Michael II of Epirus, hostage in Constantinople"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Михаила II Комнина Дуки"
+    }
+  },
+  "id": "Q46251",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Дука"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Ducas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Δούκας"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Doukas"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Doukas"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Doukas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Ducas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John Doukas"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ioannes Doukas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni Ducas (figlio di Michele II)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Doukas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Dukas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Ducas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Ducas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Дука"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Анђел Дука"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰·杜卡斯"
+    }
+  },
+  "lastrevid": 17451142,
+  "modified": "2025-09-16T10:10:14Z",
+  "ns": 860,
+  "pageid": 62368,
+  "sitelinks": {},
+  "title": "Item:Q46251",
+  "type": "item"
+}

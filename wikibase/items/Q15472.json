@@ -1,0 +1,400 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Tadateru"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q15472$73413602-8E3F-4241-9163-303BDE22B404",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-10"
+          },
+          "hash": "1311e67c7b03af88009e3826accf9b56f463c706",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15472$647A2AC0-AF0F-406A-9FC1-05D7EAEF4BB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15472$444C888D-370C-4F66-8B17-C120C2A20E8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15472$AAEC3E65-27CC-476B-99EB-F035C282EBC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16140",
+              "numeric-id": 16140
+            }
+          },
+          "hash": "bd3dc6eabe3808a5ee1558a0bcbaeaa8c1507f89",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15472$B1C7D286-9BF0-45E7-9F10-619E6A89BBF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "089ba1da763f7f139ebf040efcb6385f1e349758",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q15472$AECE0E61-E07A-49DB-ACEF-A64C1F60D45E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15453",
+              "numeric-id": 15453
+            }
+          },
+          "hash": "bc8b5e654010eabc3bf4e80ceedb37d533fb79d2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15472$7975DA9E-807C-485C-A5B3-3C45523E64CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15472$7E2D3151-AD4E-4F9E-A426-438D38377784",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1592-02-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8cb12cafe3ca316bb06ac9123c5b628c381ee776",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15472$C52A8BB4-669C-427A-9B94-DDB55B35859B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1683-08-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "38250ccff38fbe043d2443fe644913f02c22538a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15472$F531A4BB-A1D7-450A-B575-9C9D941E23AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Tadateru.jpg"
+          },
+          "hash": "86f4d725930e913eb390cd8b2ba11b254de1fc2a",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15472$8CC63626-A58E-4526-9630-22F61EA04E29",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q837867"
+          },
+          "hash": "f7d0a494a9039453a14cd9552624b26ecf502083",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15472$5725ED0E-1B91-49E5-9256-D2AFF19BE340",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Tadateru Arms.svg"
+          },
+          "hash": "c94a1277bb99897518582f4ebc2e1c12724220c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "ساموراى من شوجونيه توكوجاوا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1592–1683)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese feudal lord (1592–1683)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山 - 江戸時代の大名"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samoerai uit Tokugawa-shogunaat (1592-1683)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本安土桃山時代至江戶時代中期的大名"
+    }
+  },
+  "id": "Q15472",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماتسودايرا تاداتيرو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Tadateru"
+    },
+    "be": {
+      "language": "be",
+      "value": "Такугава Тадатэру"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tadateru Macudaira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Tadateru"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ματσουντάιρα Ταντατέρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Tadateru"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Matsudaira Tadateru"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Tadateru"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماتسودایرا تاداترو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matsudaira Tadateru"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nacudaira Tadateru"
+    },
+    "it": {
+      "language": "it",
+      "value": "Matsudaira Tadateru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平忠輝"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Токугава Тадатэру"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰다이라 다다테루"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Matsudaira Tadateru"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matsudaira Tadateru"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Токугава Тадатэру"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Tadateru"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Tadateru"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Токугава Тадатеру"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平忠輝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "松平忠辉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "松平忠輝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "松平忠輝"
+    }
+  },
+  "lastrevid": 17415224,
+  "modified": "2025-09-16T00:20:20Z",
+  "ns": 860,
+  "pageid": 37759,
+  "sitelinks": {},
+  "title": "Item:Q15472",
+  "type": "item"
+}

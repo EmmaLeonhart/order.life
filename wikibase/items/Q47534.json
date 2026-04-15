@@ -1,0 +1,264 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikeda Mitsushige"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47534$98D3DE8D-9B5F-4511-80EC-C3B5CB051CE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56275",
+              "numeric-id": 56275
+            }
+          },
+          "hash": "1c8c485e85e366eaf265f57563f3a2af31930eba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47534$90D78845-B47F-4D6B-BF7A-4727EC7812AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56272",
+              "numeric-id": 56272
+            }
+          },
+          "hash": "0603246a347f051116042a44c951496e0c692ed9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47534$70804000-D51A-417F-8016-4ADE87EB727A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47534$495BAEF5-481D-49B0-A4EB-D6DC03931B36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47534$CC7C5E0F-FECE-47E5-8607-13267D1EBCA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41192",
+              "numeric-id": 41192
+            }
+          },
+          "hash": "f8e2170e3fe1ba76e1f38289fadafd7b28ca3dc1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47534$C097A591-94EF-4206-8979-5502CAE13E95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47534$53F17E95-9B25-486B-A52C-34DC6EE7B3D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47534$ACF66D9D-01B9-4FB7-B8D1-F1819A9C32F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1628-06-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b447fe74a8fa6479b93659dc33f83361a118fc79",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47534$F8EF64D4-35FD-4E52-B20A-20346E3D9AB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11551727"
+          },
+          "hash": "05d88cf619200f371c8f48381016bd7cf0603c5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47534$09F33759-61DF-4285-AF60-9EAD12EF8884",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda Mitsushige Arms.svg"
+          },
+          "hash": "41c1c2b3c80b21cbdefb7e40169416bf75f50c83",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代前期の武将。従五位下・備後守。池田長正の次男。摂津国人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q47534",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ikeda Mitsushige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ikeda Mitsushige"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ikeda Mitsushige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田光重"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ikeda Mitsushige"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "池田光重"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "池田光重"
+    }
+  },
+  "lastrevid": 17452698,
+  "modified": "2025-09-16T10:32:51Z",
+  "ns": 860,
+  "pageid": 63326,
+  "sitelinks": {},
+  "title": "Item:Q47534",
+  "type": "item"
+}

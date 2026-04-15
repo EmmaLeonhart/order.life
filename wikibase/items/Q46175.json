@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "George, Emperor of Trebizond //"
+      },
+      {
+        "language": "en",
+        "value": "George, Emperor of Trebizond"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q46175$581CDC1C-E0D0-4BE5-B378-27879BBDA7BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764358"
+          },
+          "hash": "20eb76cf7b0059846f4826232ae640d964eb9888",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46175$9DFD438D-5E1E-4386-B306-3BE8CFABE0DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46175$2952590E-C5CF-4D31-A406-A4205D6C4943",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q46175$ABABDA5E-75DB-4EA4-BA4D-58D107ED2A77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "George,_Emperor_of_Trebizond_(1)"
+          },
+          "hash": "9bffcdea93c9e465b43eb41a9a4593d7475cb09b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q46175$8494317A-D517-4718-A721-FF7CF6F0CBAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21912.htm#i219112"
+          },
+          "hash": "322a205cb6a39e0a0611710963dc1c136f4fb848",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46175$AD776AEE-46D3-46E0-9D0D-12FAB3CBA103",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46167",
+              "numeric-id": 46167
+            }
+          },
+          "hash": "1bcbb2350c793d1677c4dcd27072353d96dd448d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46175$6F53DDA7-BEFB-4744-B583-FA6568453969",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46171",
+              "numeric-id": 46171
+            }
+          },
+          "hash": "d726206dcce28d41558de9a1315a58742b42d14b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46175$29CB1E08-78D9-48C9-AB57-FD38DCCB02A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46175$7079C805-AD6A-4BF9-87DF-EE8B5A8737E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1255-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "543104dc414904fa60d4437c1ec8843effacb57d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46175$AC790F0F-39B4-476A-9500-D661125FDEC3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q452001"
+          },
+          "hash": "ead1198ab4c83df6350dc84b18abf2b3d0a41968",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46175$2E095191-25B8-4ADF-BE70-050AA6CEEB81",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "George, Emperor of Trebizond Arms.svg"
+          },
+          "hash": "c8e7fc71a12a4cf5cdcbf3f3abefd203f1695b34",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "ملك من امبراطوريه طرابزون"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "император на Трапезунд"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de Trébizonde (1267-1280)."
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador de Trebisonda"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "trapezunti császár 1266-tól 1280-ig"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore trapezuntino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit keizerrijk Trebizonde (1255-?)"
+    }
+  },
+  "id": "Q46175",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جورج امبراطور طرابزون"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qriqori (Trabzon imperatoru)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Георги I Велики Комнин"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Georgije Trapezuntski"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jordi Comnè"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jiří Trapezuntský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Georg Komnenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γεώργιος Μέγας Κομνηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "George, Emperor of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Georgo la 1-a de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jorge"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Georges Ier de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xurxo, emperador de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Georgije Trapezuntski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Geórgiosz trapezunti császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giorgio di Trebisonda (Mega Comneno)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゲオルギオス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გიორგი I"
+    },
+    "la": {
+      "language": "la",
+      "value": "Georgius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Jurgis Megas Komninas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Georgios Komnenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Georgios Megas Komnenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jerzy Wielki Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jorge I da Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jorge I da Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Георгий Великий Комнин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "George, Emperor of Trebizond"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ђорђе Велики Комнин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ђорђе Велики Комнин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Đorđe Veliki Komnin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "George Megas Komnenos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzonlu George Komnenos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Георгій I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "乔治"
+    }
+  },
+  "lastrevid": 17451028,
+  "modified": "2025-09-16T10:08:36Z",
+  "ns": 860,
+  "pageid": 62311,
+  "sitelinks": {},
+  "title": "Item:Q46175",
+  "type": "item"
+}

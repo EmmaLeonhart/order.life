@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Hanzhang //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53211$EFD5FCF9-8882-4DD8-B52E-D77B510DDB3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53211$55352AFC-F969-4916-B9A6-CC141AE31455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53211$2F898D17-EBD3-4539-9EF5-F84F89794C41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53199",
+              "numeric-id": 53199
+            }
+          },
+          "hash": "f5b0d2ed686c4f59dd245027fa365f18c7808265",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53211$6940C6A8-3504-4D70-81E5-17CF889ED824",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53211$098C5760-45DB-4C07-8CF3-359E1684C6CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1821-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aca6b7456208b6ab6f1b4dc1433c044e59802a84",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53211$7D61DF51-BE8E-4D56-8B77-EB06E2A3BC02",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1899-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84fe599190c1ae759b7b14339496b45e8ba3384c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53211$654071AA-34C9-4E55-A30D-4D99882F5CCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11097344"
+          },
+          "hash": "0626a0795d902d4f75130a72988ab4fbc0a0c55b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53211$C5375A34-40C9-485A-B289-E950C9BA189C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011627494933"
+          },
+          "hash": "537bdd14018b6ee9ee1ba4aec30bf569e4837dd9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53211$547EC11F-E3E9-4604-B71C-0B10874B6CB3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Hanzhang Arms.svg"
+          },
+          "hash": "b66ef15f4107207302b66bd9dd5088444ccf604b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "gwleidydd (1821-1899)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Qing dynasty politician"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "청나라의 관리"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Qing-dynastie (1821-1899)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик династії Цін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中国清朝末期官员、李鸿章长兄"
+    }
+  },
+  "id": "Q53211",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Hanzhang"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Li Hanzhang"
+    },
+    "de": {
+      "language": "de",
+      "value": "Li Hanzhang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Hanzhang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Hanzhang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Li Hanzhang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李瀚章"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이한장"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李瀚章"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李瀚章"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李瀚章"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李瀚章"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "李瀚章"
+    }
+  },
+  "lastrevid": 17459826,
+  "modified": "2025-09-16T12:17:11Z",
+  "ns": 860,
+  "pageid": 68042,
+  "sitelinks": {},
+  "title": "Item:Q53211",
+  "type": "item"
+}

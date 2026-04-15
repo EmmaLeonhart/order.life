@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Nobushige"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18359$E8B0F003-5D59-4815-832B-0A32C64672E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18359$9A7EFBE7-E260-4747-AAA7-1F68BBB691D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18359$D39FC42C-1D79-4189-B785-86E6A2C92165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16998",
+              "numeric-id": 16998
+            }
+          },
+          "hash": "54d09c06d9beba9f39aef1b18c3e3bb66649dd7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18359$9E2AD246-3767-49F3-A174-082F67ABE21A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18359$40BFE973-1A50-4DD8-A58F-EAACBD3A37F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1632-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8fbdbdf547aed3614963550658e15a73bd98ae1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18359$A6DA5EDC-4B50-465E-B603-2DBCD7F2CA7C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1714-12-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "35f7c8f41596b0eabea59225b20796d57c61368f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18359$F2356D2D-3637-4AAA-9846-00614343F599",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11069774"
+          },
+          "hash": "1eb05998e2349d77312a647eb413f0b70a909bfb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18359$26D4661F-7AF2-4D88-BABB-48C3522197E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Nobushige Arms.svg"
+          },
+          "hash": "86ce5041b7a0d1b44c887f1096b8128eaa5207a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[松平信重] hatamoto from Fujii-Matsudaira clan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期から中期の旗本寄合、藤井松平家"
+    }
+  },
+  "id": "Q18359",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Nobushige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Nobushige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Nobushige"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Nobushige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平信重"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобусигэ Мацудаира"
+    }
+  },
+  "lastrevid": 17417724,
+  "modified": "2025-09-16T01:13:49Z",
+  "ns": 860,
+  "pageid": 40552,
+  "sitelinks": {},
+  "title": "Item:Q18359",
+  "type": "item"
+}

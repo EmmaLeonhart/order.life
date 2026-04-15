@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sim Jong //"
+      },
+      {
+        "language": "en",
+        "value": "Sim Jong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32045$CDC99393-8FF5-4515-A16D-4938006C019F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32045$C5D91994-0BC3-4ABD-A074-A0EB61941731",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32045$15D52B11-2932-4F3D-ADCA-F758F23A6420",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31161",
+              "numeric-id": 31161
+            }
+          },
+          "hash": "2d934e00028fa7b1859dbbc6aa19b6527a7c1db9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32045$AA0EEACA-7F58-41A2-83A1-77E38A315F06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32642",
+              "numeric-id": 32642
+            }
+          },
+          "hash": "03221065858d1c2b8b6f42ab1adf85af9cb98465",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32045$1D43D8A9-6D77-4320-BF4F-078B1299D82F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32045$00267C1C-4DDE-4CE6-857E-FC55CC6B2387",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1418-03-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17cbd477e6cb2a668e29b80959ee24e5ea6edf52",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32045$F1DA7779-53A6-49D9-BD94-7FF9142D0590",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17314245"
+          },
+          "hash": "8578269d7406a2e5934ec6f77a926df81b1d7696",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32045$310BB5CF-6664-4885-9ED1-9493994EC711",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sim Jong Arms.svg"
+          },
+          "hash": "71dc35122e7046c02c5949dfbab9acb954b48467",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "여말선초의 관리"
+    }
+  },
+  "id": "Q32045",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sim Jong"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "심종"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "沈悰"
+    }
+  },
+  "lastrevid": 17432188,
+  "modified": "2025-09-16T05:35:46Z",
+  "ns": 860,
+  "pageid": 51746,
+  "sitelinks": {},
+  "title": "Item:Q32045",
+  "type": "item"
+}

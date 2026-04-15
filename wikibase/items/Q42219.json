@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "土方雄隆"
+      },
+      {
+        "language": "en",
+        "value": "Tu Fang Xiong Long"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42219$17043AA9-D7AF-4398-92F2-5B2330A8B89C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42219$52048E48-A017-44FE-85AD-721C2928C176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q42219$62A323BD-8B0F-45A1-99F8-4091BC0A4C05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42215",
+              "numeric-id": 42215
+            }
+          },
+          "hash": "44bb6ac171eee7cfa2b8c8116d23900f7cfdcb7a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q42219$9D310350-D79E-47E9-92FF-E554604B4B4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37823",
+              "numeric-id": 37823
+            }
+          },
+          "hash": "4632276bcf82fdb3404a76e44d2741bcf9eb3eb0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42219$5231433D-881A-4ED9-B36B-659F520D945D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42219$8F2B181B-64FF-434F-9097-7B96CE9E27DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1642-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8e9ce220247d3d31df8e4f32f01c760f536341e2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42219$F80BBF8A-EDD0-4CBC-89BD-AFD878196EA6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1691-07-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d376f0fe4eae8d7a1a849e3bee3ea6feb2e23b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42219$1DF33B4C-B91E-4B23-9E07-83B9EFBEF21E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514875"
+          },
+          "hash": "7948478a73dbba41f4f45da87da9ede70f2a8455",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q42219",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "土方雄隆"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히지카타 가쓰타카"
+    }
+  },
+  "lastrevid": 17445934,
+  "modified": "2025-09-16T08:54:08Z",
+  "ns": 860,
+  "pageid": 59355,
+  "sitelinks": {},
+  "title": "Item:Q42219",
+  "type": "item"
+}

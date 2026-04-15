@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sasaki Takauji"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q14532$864F4C49-DF80-47BC-A8CE-A76793F5022C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "820355"
+          },
+          "hash": "72f7f721ceee89d1552f1efa48d777d90524aff6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q14532$028AC95B-4E48-4A9D-A38E-64E57EEF7D8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14939",
+              "numeric-id": 14939
+            }
+          },
+          "hash": "86213bbb32803e98237e642e0f65d3cbd255235b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14532$9EB6150A-EB71-4F62-98B1-612C6C607A62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14938",
+              "numeric-id": 14938
+            }
+          },
+          "hash": "462d9305113ebaba420f3ff85fcd1b7a8b08f67e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14532$C15E22CE-95EC-4DAE-8634-580046FA79D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14532$BB1639CD-D74E-4442-874D-41B384A152BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14532$82F68A49-21C7-43D8-B9E8-B4BB64A2452E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14048",
+              "numeric-id": 14048
+            }
+          },
+          "hash": "1e78ffa4d72b18e36190610baa9d1f12a4e20207",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14532$8214944E-D4B8-4C10-BEFA-0E23A8A36DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14532$92CD9DA9-827F-4A0A-8F29-EE6C85D6DB6B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1296-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "631f4fc67be1fe867561370b784842241b86a3ac",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14532$3711FD31-4338-4261-8659-0DD6F23D81D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1373-09-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe59a502959d82ec0f5cbb6e8bb18513807484ef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14532$90DF87C8-A897-4B4F-AEC2-0191E164AE22",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasaki Dōyo.jpg"
+          },
+          "hash": "e9a237e4eafd88443768ed294c27904807f6db97",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14532$0A32A50C-CF16-4474-A637-6477C4F0B554",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1036907"
+          },
+          "hash": "f37a104c00fabf1c3ef6803d49e3423e3a58360a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14532$92BBE645-B396-4738-8FA5-E96A5C9FDFEC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasaki Takauji Arms.svg"
+          },
+          "hash": "41bdec54dd1ad41725384cf5ab23f9b26b24f7cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Bushi und Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai of the Nanbokucho period"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général japonais"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代末期から南北朝時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1296-1373)"
+    }
+  },
+  "id": "Q14532",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sasaki Takauji"
+    },
+    "az": {
+      "language": "az",
+      "value": "Sasaki Takauci"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sasaki Takauji"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sasaki Takauji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sasaki Takauji"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ساساکی تاکائوجی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sasaki Takauji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐々木道誉"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사사키 도요"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sasaki Takauji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sasaki Takauji"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sasaki Takauji"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Доё Сасаки"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sasaki Takauji"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sasaki Takauji"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佐佐木道譽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "佐佐木道誉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "佐佐木道譽"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "佐佐木道譽"
+    }
+  },
+  "lastrevid": 17414594,
+  "modified": "2025-09-16T00:11:31Z",
+  "ns": 860,
+  "pageid": 36833,
+  "sitelinks": {},
+  "title": "Item:Q14532",
+  "type": "item"
+}

@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "西郷延員"
+      },
+      {
+        "language": "en",
+        "value": "Xi Xiang Yan Yuan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37968$19B4D638-F221-4988-862B-45F92B59069F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37968$8E04029B-0194-495F-8D74-2AB65279615A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37968$381CEEEA-03EE-4E00-8C94-2C3527E5FEAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33810",
+              "numeric-id": 33810
+            }
+          },
+          "hash": "56871ac6719963c783e422ad4bd4498fc84bd2d1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37968$4518197C-BC72-4070-878F-3B9A5A7F3911",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37883",
+              "numeric-id": 37883
+            }
+          },
+          "hash": "fc9630835cc6a5dbf8ffc1b08d143cfbf9568aaa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37968$E38F3FC6-BD1F-46BF-8D6A-41336692501B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37968$5EEF091B-A7BF-4FA9-95F8-7CBB31B5F1C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1614-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5e744718066f2e03a35ff4cefecbbb34b8b93176",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37968$0607F88B-4A51-4F2A-A1EB-06BDE0597D91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1697-06-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f356da23cecb7e6b31f39f795ebbe07130fef9b2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37968$A312D935-A0EF-41DA-97E1-A698B1C902F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11629664"
+          },
+          "hash": "34e93d3f620fdfa17b4e4a7c595eb9dbb4d97b1d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の大名。安房東条藩2代藩主。西郷正員の長男"
+    }
+  },
+  "id": "Q37968",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "西郷延員"
+    }
+  },
+  "lastrevid": 17440588,
+  "modified": "2025-09-16T07:38:11Z",
+  "ns": 860,
+  "pageid": 56172,
+  "sitelinks": {},
+  "title": "Item:Q37968",
+  "type": "item"
+}

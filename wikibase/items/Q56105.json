@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Lulu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q56105$EBEA3473-F58C-44FD-8762-7F4B09EC03A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56105$AF7817D6-8A8A-47F9-B983-70489089C0FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56105$A0472EB5-4FFE-4CD3-8B4D-C0F0743BDB63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47367",
+              "numeric-id": 47367
+            }
+          },
+          "hash": "a0817a57ad6f8cdebeacf4c9cc771148406fc064",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56105$8D8B9D8F-2278-4DED-A07F-D49B7D249B5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56105$FF5E5AD3-8DB9-424A-9FFC-48FCFFD5D863",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0799-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d69182d4be437e599ffad06eb48df4ae3d5e29f2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56105$1AA3CBF0-F6F5-400D-976D-CD9B5F4F246B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0808-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fabb0b4f6cbabdc3ed2d14538f29322de9e13ac4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56105$46C67D96-7586-4824-BA6F-7C7B4D2FD0C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45443235"
+          },
+          "hash": "7cf1b475a9c7a358bc753e4c3b0a7f61962c9533",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q56105$FB0E5231-1DAD-44B7-9C97-E4F6A306F746",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074749787889"
+          },
+          "hash": "80b7f60334e7d12f437cd883bd59baef61282a85",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56105$447217B6-3735-41B9-8E2C-99E45206E7C8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Lulu Arms.svg"
+          },
+          "hash": "6f39d86c9b6787d04e538b8b922b388687fff82e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 145073"
+    }
+  },
+  "id": "Q56105",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Lulu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Lulu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Lulu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛魯魯"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Lulu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛魯魯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛鲁鲁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛魯魯"
+    }
+  },
+  "lastrevid": 17464428,
+  "modified": "2025-09-16T13:25:14Z",
+  "ns": 860,
+  "pageid": 70936,
+  "sitelinks": {},
+  "title": "Item:Q56105",
+  "type": "item"
+}

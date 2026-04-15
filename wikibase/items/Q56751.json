@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikeda Narishige"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q56751$9F81EFDF-C016-472F-857E-1C7A17943141",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56751$8633F555-0D83-4B29-B2D0-83DE3D6E9A61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56751$43D7E146-426E-4DC3-91BA-C00457D0008B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48429",
+              "numeric-id": 48429
+            }
+          },
+          "hash": "564a00a3fcb306fd6499c5aa7db4af89602e4900",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56751$75904BD8-F2E7-4E75-96ED-DCB59A3D56FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56751$6B069D20-5D6A-4247-8BAF-E3BFDECDABEA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1809-12-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d820405ab0279a8b5c4a8e031ab4418c290fd973",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56751$9198809E-2B5D-469C-BF42-21A5C017A45A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1826-09-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4769b7e171febdc61fee97e0b8ed3a5aa8e295d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56751$6ADC2DC5-631B-43A9-B7B2-695CDD4D1667",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11551947"
+          },
+          "hash": "09c275c528af3f92d6ce39b36f3e6a68246c6b7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56751$2EEB163A-EC9C-4201-A0AB-A0BDC73B4DFD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda Narishige Arms.svg"
+          },
+          "hash": "bc2c51a57250553c5e7dc1a493a904d1a7268c93",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代後期の備前岡山藩の世嗣。紀伊守、侍従。父はあるいは牧野成著（旗本）。神尾守富（旗本）の養子"
+    }
+  },
+  "id": "Q56751",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ikeda Narishige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田斉成"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нарисигэ Икэда"
+    }
+  },
+  "lastrevid": 17465264,
+  "modified": "2025-09-16T13:37:53Z",
+  "ns": 860,
+  "pageid": 71582,
+  "sitelinks": {},
+  "title": "Item:Q56751",
+  "type": "item"
+}

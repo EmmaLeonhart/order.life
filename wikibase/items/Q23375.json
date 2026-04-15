@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Chongli"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23375$2ACD3A93-E7BC-4C70-AD39-5D6953D1A083",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45501",
+              "numeric-id": 45501
+            }
+          },
+          "hash": "369db3da27a72501b248eabb376f8839dc77481d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23375$DAB04C2C-A8A7-4D4A-81A2-F450161CFB2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45497",
+              "numeric-id": 45497
+            }
+          },
+          "hash": "22d75f9eaa5d9dc6d6476d9826949a3efa2fa532",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23375$A822DB93-C7C9-4A11-ACD6-3ECDD834BBF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45505",
+              "numeric-id": 45505
+            }
+          },
+          "hash": "4a7d5f86287da8f6170bbd6232abf664fa6c1146",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23375$A6C87C50-7CE3-48F6-A094-377997EBF998",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45509",
+              "numeric-id": 45509
+            }
+          },
+          "hash": "3cf4500bfd80c4ac44053352d493ac037c628da6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23375$00796762-7369-4D80-A525-549496D82A28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23375$44069C46-BD6E-495A-8DDB-B0E7246D4E53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23375$D9462187-7D90-4829-A4F4-08CA62D6435B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21223",
+              "numeric-id": 21223
+            }
+          },
+          "hash": "fae665192601dbf0a585c16167720485a3eab06b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23375$91CA7FF8-6315-4EC9-B6F4-EA907E828D4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23375$945760B0-7CE0-4622-8D0A-B3B30E744B91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0647-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7969db276a8d82741cf9c0c757b4a2fcb63e54af",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23375$57DACDB5-DC5D-484F-8C58-819105CFCC7C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0736-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "59e68478cd35bd0305787a815e32a402dffc25c9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23375$028E0F34-540C-451E-9B5C-7428351475DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q25926853"
+          },
+          "hash": "0cbdb4c3241357479b54631fad523c22921f8c60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23375$57291F15-56BF-4596-9657-5017BF145E42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075328555838"
+          },
+          "hash": "2d0fc7afa733398e77164ffe7ef111fe15502019",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23375$E89D5F7D-464B-4995-98E2-4AB99EF85646",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Chongli Arms.svg"
+          },
+          "hash": "5a954366fb07386a7dd7ff9a84778278561ea4e6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Yang Zhengdao, descendant of Emperor Yang of Sui"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con trai Dương Chính Đạo, hậu duệ Tuỳ Dạng Đế"
+    }
+  },
+  "id": "Q23375",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Chongli"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Chongli"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Chongli"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "杨崇礼"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊崇禮"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Chongli"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dương Sùng Lễ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杨崇礼"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨崇礼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊崇禮"
+    }
+  },
+  "lastrevid": 17422312,
+  "modified": "2025-09-16T03:02:07Z",
+  "ns": 860,
+  "pageid": 45321,
+  "sitelinks": {},
+  "title": "Item:Q23375",
+  "type": "item"
+}

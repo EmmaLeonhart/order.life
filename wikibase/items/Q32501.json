@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takeda Nobutaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32501$F7E473B7-B600-490A-839D-8EAB6ADA58CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32501$1554D7C1-0EA6-4E63-A320-D153F9AFD565",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32501$8D98CF3B-2B0D-4F32-845E-992360A2E6B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17965",
+              "numeric-id": 17965
+            }
+          },
+          "hash": "c7e2fd6f03df4b50f7ea1cc986379a46dd942214",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32501$358706D6-BD70-4FDA-9FDB-10B174ECB404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32501$2B540DA0-02F9-46AB-96FF-444914FE12A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1521-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4747a7b393f2eecc19445d09f2d3fe2b904cedb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32501$703DA077-2D38-48D9-AD84-853FC99DAADA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1556-11-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9bfed45ae57403c530958622fda0ab0888f5a4f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32501$EF249D4C-9938-437A-B415-9D73936E3E5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17210270"
+          },
+          "hash": "69827557a6b4f1c362a569c648a04dd2394552ec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32501$F94CD1AE-8CDA-4448-81F2-37FC34835A34",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takeda Nobutaka Arms.svg"
+          },
+          "hash": "53f30b75bbf8b2d5206563f3dbd8554554cd57cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[武田信高] son of Takeda Motomitsu, daimyo of Wakasa province"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。若狭武田氏。新保山城（霞美ヶ城）主。宮内少輔。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q32501",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takeda Nobutaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takeda Nobutaka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takeda Nobutaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "武田信高 (若狭武田氏)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобутака Такэда"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Takeda Nobutaka"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "武田信高 (若狹武田氏)"
+    }
+  },
+  "lastrevid": 17432846,
+  "modified": "2025-09-16T05:45:16Z",
+  "ns": 860,
+  "pageid": 52087,
+  "sitelinks": {},
+  "title": "Item:Q32501",
+  "type": "item"
+}

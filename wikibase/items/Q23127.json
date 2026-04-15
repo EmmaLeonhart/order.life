@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lü Kutao"
+      },
+      {
+        "language": "en",
+        "value": "Lu Kutao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23127$E0BE719C-DB98-47EB-8037-A5A766191182",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40484",
+              "numeric-id": 40484
+            }
+          },
+          "hash": "fde4378a0bba62a88c13629816c41c0c6fcc04c9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23127$E26138E8-C603-4ECD-95DD-003705D98256",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40480",
+              "numeric-id": 40480
+            }
+          },
+          "hash": "73da67a9e9ba7a1193a360b1d389b6be94ffc3e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23127$85A460D8-17AC-4899-A70F-DF2AE8574A12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21110",
+              "numeric-id": 21110
+            }
+          },
+          "hash": "dfa03096266b40ef97a9152329f565c437ec47da",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23127$337C19B0-DB2D-4A0D-8265-C9DFF6165C66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23127$1B32DFF3-8DE6-4772-B427-0216DCF6E8BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23127$5AF15079-16A1-4B09-8D3C-778E9850128D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23126",
+              "numeric-id": 23126
+            }
+          },
+          "hash": "51a8f4e94a03528230f1b8c445008bb6556263d3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23127$ED07087E-62D7-4911-83AC-8675274AD4BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25253",
+              "numeric-id": 25253
+            }
+          },
+          "hash": "fbea1763c7d145cb1cb8151e419c8223cbfbc0d5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23127$A157EBF1-04B5-4DF1-9C78-00BEF8F09CBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23127$B649F616-31EF-4F23-986D-D0B2D74C4E30",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23127$072E5149-968C-4B1C-8707-43310388C9CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8258754"
+          },
+          "hash": "9ff5ca5a69f7263132b546cf8d10d3d8df08a8a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23127$F28A1D74-F409-4DAE-A03B-FFA0DC2F9B97",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lü Kutao Arms.svg"
+          },
+          "hash": "1619ced127b9212bfc715742cd9cb2ee33eeddab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "mother of Chinese emperor Wen of Sui"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "мать китайского императора Вэнь-ди"
+    }
+  },
+  "id": "Q23127",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Lü Kutao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lü Kutao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lü Kutao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "呂苦桃"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lü Kutao"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lü Kutao"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Люй Кутао"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "呂苦桃"
+    }
+  },
+  "lastrevid": 17421888,
+  "modified": "2025-09-16T02:55:35Z",
+  "ns": 860,
+  "pageid": 45090,
+  "sitelinks": {},
+  "title": "Item:Q23127",
+  "type": "item"
+}

@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsuchimikado Akichika"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11756$C9519DE6-239A-4C98-9A80-ED578589ADFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11756$FE343181-7326-4230-A133-4D2E80A836BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11756$7A8FD944-B389-4C7A-8B30-F3D8666FA625",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10998",
+              "numeric-id": 10998
+            }
+          },
+          "hash": "b2fc8f570b06c46016cc68406c86e197cae2ab95",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q11756$31B619F2-8936-47EC-8CBC-E4776C3F6FB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11753",
+              "numeric-id": 11753
+            }
+          },
+          "hash": "6dbe4b9794fccac4990feb1e0b42461a6be06cf2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11756$95ABA13A-AA36-4A83-955E-86D50495AE6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11756$0B4368D9-76F7-48FB-A518-032373F5B180",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1222-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d06388279e64217e8fe09e3ed126b6ce7bed453e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11756$DC40AF74-7864-45EB-9AE3-D296B926432E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28689375"
+          },
+          "hash": "5d6b2e3b5c0e61123f485a14161075eba2b7c69c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11756$72614F0C-FFB3-40DA-83F4-EE8F1CCCD5E9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsuchimikado Akichika Arms.svg"
+          },
+          "hash": "a4d6f65c87d6aef218216e45606ef03d075c1314",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代前期から中期にかけての公卿。土御門定通の二男。従二位・権中納言。"
+    }
+  },
+  "id": "Q11756",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsuchimikado Akichika"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土御門顕親"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акитика Цутимикадо"
+    }
+  },
+  "lastrevid": 17413126,
+  "modified": "2025-09-15T23:51:17Z",
+  "ns": 860,
+  "pageid": 34115,
+  "sitelinks": {},
+  "title": "Item:Q11756",
+  "type": "item"
+}

@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Masashige"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q33790$259898BD-348E-4EA2-9308-1378650E3BBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33790$8BDE642C-4F19-428A-B0D9-656C246B0BA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33790$C5C4AC20-7CD7-4E46-8FE5-8A9731DC9CB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18471",
+              "numeric-id": 18471
+            }
+          },
+          "hash": "dee5f4b7be4e878015fab2a2fcde7917fcaa5097",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33790$F2828361-F928-4B40-93B9-E3A3C7679BD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33790$BFB1421D-E37A-4F55-98A0-E79D25987CFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1545-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc1c57fca909411b15253e63b4b9ec020fb7b2a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33790$3EDBD447-CBD8-4682-9D10-4C22F55AFE91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1617-08-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "107db463623d3fab39086313ed5ca65de3eb5f30",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33790$B37E3DBF-CE24-4741-8999-94C89D25432D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10521158"
+          },
+          "hash": "783fd0600f408afbd8f24da85978cae04a0262a5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33790$5BF05459-E44C-46AF-872C-D1EA876BD5A2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Masashige Arms.svg"
+          },
+          "hash": "7923d78c6a73977e857626fbabd12124b4899669",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[本多正重] brother of Honda Masanobu. daimyo of the early Edo period."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から江戸時代前期の武将、大名"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q33790",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Honda Masashige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Honda Masashige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Honda Masashige"
+    },
+    "es": {
+      "language": "es",
+      "value": "Honda Masashige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多正重"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "혼다 마사시게"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Honda Masashige"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "本多正重"
+    }
+  },
+  "lastrevid": 17434650,
+  "modified": "2025-09-16T06:11:08Z",
+  "ns": 860,
+  "pageid": 53052,
+  "sitelinks": {},
+  "title": "Item:Q33790",
+  "type": "item"
+}

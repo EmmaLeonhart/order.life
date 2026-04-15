@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikeda Masayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48401$7DE52521-4A41-48BC-B0F6-34F641404E5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48401$53DBECC6-A012-4D0C-BCFB-994E773A98F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48401$56B5BB92-21A8-469A-AA59-8A6BA52C0360",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24125",
+              "numeric-id": 24125
+            }
+          },
+          "hash": "f82218af3121995d7d0da244f38302671b6d17e1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48401$E1E0BE7F-8F2F-4CD1-8056-A942D5975BAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48401$CBFA0917-83A8-4238-A497-3D485F992EDA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1759-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8e0c9553268a690efc9d912a03a8720a70230978",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48401$DF7E6A61-2CAC-4E18-98ED-55993A301B86",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1774-06-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d5e083e2f4228b13f08bf41e16b3988095c4c57",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48401$EB8DF111-E437-4098-9C36-639DC70012FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11551931"
+          },
+          "hash": "adf67ad55883f81ff33f4dd783939e2960ebe43e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48401$AF438F78-E297-4595-903A-24F39873025A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda Masayoshi Arms.svg"
+          },
+          "hash": "76d3a823a67686e76208f11585d3dd7d1165379c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q48401",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ikeda Masayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田政良"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масаёси Икэда"
+    }
+  },
+  "lastrevid": 17453798,
+  "modified": "2025-09-16T10:48:40Z",
+  "ns": 860,
+  "pageid": 63972,
+  "sitelinks": {},
+  "title": "Item:Q48401",
+  "type": "item"
+}

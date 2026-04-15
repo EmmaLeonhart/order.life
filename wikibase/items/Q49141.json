@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tabuyan //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q49141$5C067D2D-657C-484B-81C9-39AA7AD0F039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49145",
+              "numeric-id": 49145
+            }
+          },
+          "hash": "1e6e026a72c1928b715045235b52ff9521b2aba5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49141$8D11DC48-B099-4AB3-ACAD-5C71120C15F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45793",
+              "numeric-id": 45793
+            }
+          },
+          "hash": "24e321ee4d9a15355eb6cf6ff4c4a474bc46e182",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49141$8DFD643B-05D0-4E21-B548-BCB3507E6AC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49141$485BBD91-D5FA-43E7-AE41-DA3500EC44C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q49141$4167A6C7-0705-47A6-9FB1-058FBAE6B248",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49137",
+              "numeric-id": 49137
+            }
+          },
+          "hash": "3629fdc8329b481c98c793557cd8254a9a5dac32",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49141$307899FD-535D-4309-83B3-09F293D661A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49141$2FBFDF4D-6FE3-49BB-B915-58C2A6053718",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1098-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fea704f91950a3dc9ce3a8f9748b3256652584ed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49141$19EB9D5D-C82E-41F9-82D7-556326336DFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6713105"
+          },
+          "hash": "03bae8cba10c8510062baf2d6e5aaa5d7bf39f21",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49141$77DE35B2-B0EE-4665-93D9-C501FA157C65",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tabuyan Arms.svg"
+          },
+          "hash": "f6be02c8b962fcdf2e257ea97ef6150265df52b0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Empress"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Carica"
+    }
+  },
+  "id": "Q49141",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tabuyan"
+    },
+    "az": {
+      "language": "az",
+      "value": "Hsiao Tabuyan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tabuyan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tabuyan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tabuyan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tabuyan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tabuyan"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Xiao Tabuyan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tabuyan"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "소탑불연"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭塔不煙"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Сяо Табуянь"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tabuyan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tabuyan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tabuyan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tabuyan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Табуян"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Табуянь"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Tháp Bất Yên"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭塔不煙"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧塔不烟"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭塔不煙"
+    }
+  },
+  "lastrevid": 17454834,
+  "modified": "2025-09-16T11:03:28Z",
+  "ns": 860,
+  "pageid": 64525,
+  "sitelinks": {},
+  "title": "Item:Q49141",
+  "type": "item"
+}

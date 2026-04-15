@@ -1,0 +1,606 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jezebel"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q4652$3AD4FD25-C764-42CB-8FA3-781262305694",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "174176"
+          },
+          "hash": "f63de4623472bb683754c3c856182430cb9a02fe",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q4652$435B74EE-DFD5-4E7A-902D-F407F2A66362",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135028",
+              "numeric-id": 135028
+            }
+          },
+          "hash": "9f8a65146c16816b1092257d32d336310926da9b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q4652$AD260956-8E49-45CA-A92A-10EFAD9507A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135029",
+              "numeric-id": 135029
+            }
+          },
+          "hash": "e6aa207648c4432e53b6a1e7bd61d56a5d88e229",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q4652$E5DB5E85-FAD7-415A-AFF0-79D574EC6C47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38135",
+              "numeric-id": 38135
+            }
+          },
+          "hash": "dc5e392242611fbbd0c4f366377aef074d7c8fb3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q4652$400638DC-C2F1-42A0-A18D-63038E7B8F0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q4652$461D904B-C490-483F-8B33-B11BAA56316E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q4652$B27AF1C9-AD7A-4701-8477-31A57527F7A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38146",
+              "numeric-id": 38146
+            }
+          },
+          "hash": "0662f090806478ef1cc76fadd49ff08958553998",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q4652$B1A76DFB-E067-4A3A-B458-9FACE0118ECB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38158",
+              "numeric-id": 38158
+            }
+          },
+          "hash": "3abe051f693c0d8f1c4262122e6efd89da0a5ef9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q4652$B0CB5E84-9F04-4642-9A68-A3BDA1F276E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q4652$1022A0E5-4C4B-4F08-9C08-CF58D9CFBF16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b7e14b9c796252f1b3b5585d5fb0c2ed9b06c4b0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q4652$F15DF75A-9AAF-44AB-9098-9DD7B83C9E3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0841-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fac9ddf051e3266834fa111576ae952c423c0295",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q4652$51DFCA84-536B-4581-91F6-68CD09CBEEFB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Liston Byam Shaw 003.jpg"
+          },
+          "hash": "e6d7ca9ad12dc9aa564afd40159a3b534a9e0851",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q4652$6C845166-71BD-48C6-84E1-EEE3ACACF81E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q721295"
+          },
+          "hash": "b8d12a12ab2740a6403fc8f5be044af78cc88f6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q4652$11089042-64D1-4022-956F-D30108873FAA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jezebel Arms.svg"
+          },
+          "hash": "837487c6d320f07682bd2495fc3f83c09d946ba7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q4652$8AD02E32-A6DC-4C40-9B89-F2AB8B633283",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/6b463a66-5ba4-42a5-90a3-f9a18d85cd6b"
+          },
+          "hash": "65b4d680967de8198a64a005741be0e93fcd1ea1",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "podle bible manželka krále Achaba (9. stol. př. n. l.) a uctívačka Baala"
+    },
+    "de": {
+      "language": "de",
+      "value": "Name zweier Frauen in der Bibel"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical Phoenician princess"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "biblia persono; reĝino de Izraelo, edzino de Aĥabo; laŭ la Hebrea Biblio, fiega virino"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Itobaal I; reina consorte del Reino de Israel, esposa de Acab"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Israelin kuningatar Raamatun mukaan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse phénicienne, personnage biblique"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "библиска личност"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sydońska księżniczka, żona Achaba"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rainha consorte do Reino de Israel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, жена израильского царя Ахава"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "karaktär inom judisk mytologi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen Fenikeli prenses (1. Krallar 16:31)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "біблійна персонажка, фінікійська принцеса"
+    }
+  },
+  "id": "Q4652",
+  "labels": {
+    "ak": {
+      "language": "ak",
+      "value": "Jesebel"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إيزابل"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іезавель"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йезавел"
+    },
+    "br": {
+      "language": "br",
+      "value": "Izevel"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jezabel"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jezábel"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Jesebel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jezabel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Isebel"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιεζάβελ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jezebel"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Izebel"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jezabel"
+    },
+    "et": {
+      "language": "et",
+      "value": "Iisebel"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jezabel"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایزابل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Isebel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jézabel"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Izébel"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ízeibil"
+    },
+    "he": {
+      "language": "he",
+      "value": "איזבל"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Izebel"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հեզաբել"
+    },
+    "id": {
+      "language": "id",
+      "value": "Izebel"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gezabele"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イゼベル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이세벨"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iezabel"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Jezabel"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Jezabelė"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "耶洗別"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jezebela"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Језавела"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jesabel"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Izebel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Izebel"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jezabel"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Izabela"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иезавель"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Jezabel"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "جیزبل"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Језавеља"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jisebel"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Yezebeli"
+    },
+    "th": {
+      "language": "th",
+      "value": "เยเซเบล"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İzebel"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ієзавель"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جیزبل"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Jezebel"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "耶洗別"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "耶洗别"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "耶洗別"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "耶洗別"
+    }
+  },
+  "lastrevid": 17405601,
+  "modified": "2025-09-15T22:11:25Z",
+  "ns": 860,
+  "pageid": 25390,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q4652",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q4652"
+    }
+  },
+  "title": "Item:Q4652",
+  "type": "item"
+}

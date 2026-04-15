@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "[?] Paleòleg"
+      },
+      {
+        "language": "en",
+        "value": "Q60925781"
+      },
+      {
+        "language": "en",
+        "value": "Q60925781 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q46279$BA3C79F1-FC4D-4BFF-82AF-45EE84C28B17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46279$3AEF7C1B-3A97-411D-ADFD-E4DC6A95A11F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46279$21B4FDD2-E8F8-41DF-9BC2-6310E728DEB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43322",
+              "numeric-id": 43322
+            }
+          },
+          "hash": "be135c041e233fdc0f368801d61ae3de19a1ff9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46279$A78580C0-D0AF-4900-A7C7-D64E66E3F9B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46271",
+              "numeric-id": 46271
+            }
+          },
+          "hash": "1c5ecc496a96e21808b24fbc25b5a5c39a669aa8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46279$E0414888-FE9D-4F52-8E00-84C4EE6A474F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46279$C62124D1-D28A-4BF1-9338-3626B369BD41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1332-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "47a1398fab8fb1e52ce650164a824d365cc3b0e4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46279$FF1DB654-5F64-45F5-8493-5FC6648B149F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q60925781"
+          },
+          "hash": "17bef0f840a5aca6ca5e31534df7b60f53e41e96",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46279$D2866838-49FF-41DF-8A97-28EDF591E3B5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "[?] Paleoleg Arms.svg"
+          },
+          "hash": "62080665aada07c1e09781599318eb9ed3eb49fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "γιος Ιωάννη"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Byzantijnse Rijk (?-1332)"
+    }
+  },
+  "id": "Q46279",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "[?] Paleòleg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "syn Jana Palaiologa-Komnena"
+    },
+    "el": {
+      "language": "el",
+      "value": "Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "[?] Paleoleg"
+    }
+  },
+  "lastrevid": 17451184,
+  "modified": "2025-09-16T10:10:51Z",
+  "ns": 860,
+  "pageid": 62389,
+  "sitelinks": {},
+  "title": "Item:Q46279",
+  "type": "item"
+}

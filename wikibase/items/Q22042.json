@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hōjō Ujisada"
+      },
+      {
+        "language": "en",
+        "value": "Hojo Ujisada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q37944$F91C4B85-14E0-4803-989C-38D954D47F52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42255",
+              "numeric-id": 42255
+            }
+          },
+          "hash": "ccfce648f88536785b826b6fd724081619825fad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37944$ADF19666-F220-4922-B9CE-BE083BF1D414",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37944$22486D12-E0A4-4AA6-ACDC-266766F10CB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37944$48B29101-5250-4C86-AF4A-A15C7556DA81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33782",
+              "numeric-id": 33782
+            }
+          },
+          "hash": "b91e34b21cc6f13f99680a32afdcfe17d18bd20a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37944$18103B8A-44C2-4D76-BDDA-AAF3A48B5010",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37944$86F2CF7D-A7E9-4C3A-B96D-71C17ABE2E2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1703-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca8c84e990f0bc3e8de98f46a1a17b1a684786e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37944$AE931F66-A9EC-49AD-A448-C90CFEF12EB3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1758-06-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "787e2ee11f0f22201e358f6750a319dbac0292b9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37944$3B383D4C-B0D3-47DA-8679-F4E5E509F64C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11402165"
+          },
+          "hash": "36a781a217adee3819cd89a4e57c6b5ce9199684",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37944$2F7FEC92-D533-475F-8363-D361F8868A04",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hōjō Ujisada Arms.svg"
+          },
+          "hash": "c1b2aeb7f172bf883de4b18d7c2ba63aec85107f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo of the middle Edo period; 6th lord of Sayama"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期～後期の大名。河内狭山藩5代藩主北条氏朝長男で、狭山藩6代藩主。従五位下相模守・美濃守。狭山新町及び狭山池支配を勤めた"
+    }
+  },
+  "id": "Q37944",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Udžisada Hódžó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hōjō Ujisada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hōjō Ujisada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hōjō Ujisada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "北条氏貞"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Удзисада Ходзё"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "北條氏貞"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "北條氏貞"
+    }
+  },
+  "lastrevid": 17440560,
+  "modified": "2025-09-16T07:37:46Z",
+  "ns": 860,
+  "pageid": 56154,
+  "sitelinks": {},
+  "title": "Item:Q37944",
+  "type": "item"
+}

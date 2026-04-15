@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Geun-bi Lee //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q39420$AD1A00B2-0456-454D-A412-4F42876CFE81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39424",
+              "numeric-id": 39424
+            }
+          },
+          "hash": "7ca75659c05e4c6fbdc28584c10ec4389e5c50d6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39420$E996D5B8-350C-47BA-BC2E-AF48A2EE3413",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39420$C8843DE9-D196-40AC-B36A-6A6751C39207",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q39420$829249B5-D3F4-4CA3-B66C-C979CBA51218",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37836",
+              "numeric-id": 37836
+            }
+          },
+          "hash": "d6c59b833e77646e55a1809c6c0a6d9ece12dc73",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39420$8D72340E-054F-4941-8162-5806CA1D8ECD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41265",
+              "numeric-id": 41265
+            }
+          },
+          "hash": "69bc57f7f1951a5bfbdf278893619484708efcfb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39420$6B03853E-0CD6-46EC-B482-D894F14E0EA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39420$5CB91193-0348-49C1-B8E1-4381BC9B1C00",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7df256e389e91afb4bf544e4fd35740c5bb3f3d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39420$EE1360BD-2B94-4D02-BD60-452C95E57140",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12586339"
+          },
+          "hash": "6fa93bf890944d776e640787616230b0df521808",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39420$399ED693-39A1-468E-AF3C-BC808B66D428",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Geun-bi Lee Arms.svg"
+          },
+          "hash": "8005aca41ba40bfac6bb95d5561cf817428f9d6f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Royal Consort of Goryeo"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려 우왕의 왕후"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Koreas drottning 1379-1388"
+    }
+  },
+  "id": "Q39420",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Geun-bi Lee"
+    },
+    "en": {
+      "language": "en",
+      "value": "Geun-bi Lee"
+    },
+    "es": {
+      "language": "es",
+      "value": "Geun-bi Lee"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "근비 이씨"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Geun-bi Yi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "謹妃李氏"
+    }
+  },
+  "lastrevid": 17442318,
+  "modified": "2025-09-16T08:02:39Z",
+  "ns": 860,
+  "pageid": 57258,
+  "sitelinks": {},
+  "title": "Item:Q39420",
+  "type": "item"
+}

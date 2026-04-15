@@ -1,0 +1,180 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kurushima Michikata"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24643$72D1E3B5-5CBD-4B7A-A3C9-CA90871ADE4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24643$532B69D4-DCE6-4644-93C2-DAEDCED66426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24643$B85CEBBF-8DF2-4B04-AC32-4C875DADDF4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38746",
+              "numeric-id": 38746
+            }
+          },
+          "hash": "90696d0093c7076ad2eb2c49b15eb7c7a8f182e6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24643$14C908BC-F831-46BB-B959-F1C0B6620304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24643$85E41D6D-78F7-4D7F-8D1D-4455AF63941D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1663-04-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d788bc7b9531646d3dd661013ba76b4e77bcc9e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24643$156566C1-E72E-46C6-ACC1-CD0EB80748CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11369497"
+          },
+          "hash": "f5e9d9f957bd0b6392a76f3ed1c7365f574de38c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24643$ADE666C9-C2A4-4D4B-861F-91A30448DB02",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kurushima Michikata Arms.svg"
+          },
+          "hash": "de99855ebd8770ac77589fc46c15f40233344363",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士。豊後森藩2代藩主久留島通春の子"
+    }
+  },
+  "id": "Q24643",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kurushima Michikata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "久留島通方"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Митиката Курусима"
+    }
+  },
+  "lastrevid": 17423582,
+  "modified": "2025-09-16T03:28:09Z",
+  "ns": 860,
+  "pageid": 46428,
+  "sitelinks": {},
+  "title": "Item:Q24643",
+  "type": "item"
+}

@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hoshina Masamitsu"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q16993$8C5C18BE-4EF7-41EE-874A-74DDE005EE83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "保科-21"
+          },
+          "hash": "e762d9b91227db37c76e0ef29a79dfc77d7651f6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16993$79AB2FF0-3A28-4115-9D4A-F4BA6E7DB7A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16993$535122FF-3E7E-4160-8224-377914F7D74A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16993$3154EBF9-596B-4BBD-B513-4F379FE27EC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29800",
+              "numeric-id": 29800
+            }
+          },
+          "hash": "9fc5258c6eabcdda5359db359e63053eaea5a6b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16993$4B50C232-CFBA-479B-8F62-8379C0F1B998",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16060",
+              "numeric-id": 16060
+            }
+          },
+          "hash": "4647e1a647b1d35f3be38e5cc97d158820575876",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16993$48185299-21CF-4B9F-8918-FA8E1E7812DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29796",
+              "numeric-id": 29796
+            }
+          },
+          "hash": "c0a3cff632459a70a1bfea88b5f916cc392c3e38",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16993$4EB6A890-685D-44CA-9E5A-4928F115B4B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16993$8285B2C2-F016-4D52-8295-961BD7137F17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1561-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "69adb5bfe6fc92cb4b45983744842cf4def66571",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16993$58B72F18-C16F-4425-AC33-5E4A40A14CD5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1631-10-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fbb90832d03f4c1ecdb2cfaa61dbf7d653fb565",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16993$A176D219-5593-47D1-AB30-448CB01FE5B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hoshina Masamitsu.jpg"
+          },
+          "hash": "815091e17a52aa434baf91193efa54b7ccd5129e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16993$AB45005E-996E-45AF-ACF8-BD9D81271658",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2478488"
+          },
+          "hash": "7bf2633f2ec0c0bd81aead36d3a05fb201368c75",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16993$1EAEF109-FF14-4722-B5D2-83BF387AE4CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hoshina Masamitsu Arms.svg"
+          },
+          "hash": "60e7df710d491c8d43e5792ae3e5df502146f060",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1561–1631)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo of the Edo period"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から江戸時代前期の武将・大名、下総多胡藩主、信濃高遠藩初代藩主、保科正直の長男、従五位下、肥後守"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1561-1631)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1561 – 1631)"
+    }
+  },
+  "id": "Q16993",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هوشينا ماساميتسو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Hoshina Masamitsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hoshina Masamitsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hoshina Masamitsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hoshina Masamitsu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hoshina Masamitsu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hoshina Masamitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "保科正光"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "호시나 마사미쓰"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hoshina Masamitsu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hoshina Masamitsu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hoshina Masamitsu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масамицу Хосина"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hoshina Masamitsu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hoshina Masamitsu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "保科正光"
+    }
+  },
+  "lastrevid": 17416534,
+  "modified": "2025-09-16T00:44:08Z",
+  "ns": 860,
+  "pageid": 39240,
+  "sitelinks": {},
+  "title": "Item:Q16993",
+  "type": "item"
+}

@@ -1,0 +1,407 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John III of Trebizond //"
+      },
+      {
+        "language": "en",
+        "value": "John III of Trebizond"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q46191$D5FB3D06-C0B8-4552-B5B5-E1C2D81CFBB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764363"
+          },
+          "hash": "8f8c9e7803f15d3d927b6ee55b4b314b5390bddf",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46191$E8E82196-3DB6-4E54-99A0-42CBE9F446A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46191$F64DF35E-36E9-4162-B47E-03604B6744A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q46191$14892B8A-0C46-4E54-A077-2DF8277B5190",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21913.htm#i219125"
+          },
+          "hash": "bd83576a3336aff965f918c41af5d2075df612a5",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46191$1BBA93A6-076E-472A-816F-CF8F52C59009",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43294",
+              "numeric-id": 43294
+            }
+          },
+          "hash": "ac0a02e42be2906fd8a3bb8cae9b7f16bd1f60ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46191$EAFCE76F-D892-4A55-86BA-31DB5D267882",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46187",
+              "numeric-id": 46187
+            }
+          },
+          "hash": "0c961bf6a053c64ac86345d7327878b73df0c42a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46191$7C9B6E9F-E68C-44D2-B2C3-E380C4D68C83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46191$3591B228-EF0D-4A92-A449-37D536491A9D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1321-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b22bf84e2467c609974ada6921ff4357dc8a5fc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46191$8DFFA978-AC98-4A47-BD7D-CF71D7F841BF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1362-03-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "376ef0e5e6637e7a307a68f6a3d1c2137ef55964",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46191$7AD27C6A-2EBD-4B67-841B-34707B475D43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q729502"
+          },
+          "hash": "42c834563561315a8089b237dba66fc64b78a5f5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46191$75F5C61B-587E-40EE-BD07-CF3D99A78050",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John III of Trebizond Arms.svg"
+          },
+          "hash": "e8397dfa740f5ca7899146bbd9267f752d8a7fff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "Trabzon imperatoru"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de Trébizonde (1342-1344)."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Komnénosz-ház uralkodója Trapezuntban"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore trapezuntino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit keizerrijk Trebizonde (1321-1362)"
+    }
+  },
+  "id": "Q46191",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "III İohann"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан III Велики Комнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan III Comnè"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan III. Trapezuntský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Γ' Μέγας Κομνηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "John III of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Johano la 3-a de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan III de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean III de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán III de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ivan III. Trapezuntski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Ióannész trapeznti császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հովհաննես III Մեծ Կոմնենոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni III di Trebisonda"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იოანე III (ტრაპიზონი)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes III"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johannes III Megas Komnenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John III of Trebizond"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan III Wielki Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João III da Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João III da Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн III Великий Комнин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John III of Trebizond"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован III Велики Комнин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јован III Велики Комнин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Jovan III Veliki Komnin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johannes III av Trapezunt"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzonlu III. Yuhannes Komnenos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван III Комнін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰三世"
+    }
+  },
+  "lastrevid": 17451052,
+  "modified": "2025-09-16T10:08:57Z",
+  "ns": 860,
+  "pageid": 62323,
+  "sitelinks": {},
+  "title": "Item:Q46191",
+  "type": "item"
+}

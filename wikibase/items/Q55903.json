@@ -1,0 +1,391 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "George VII of Georgia //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55903$A735BF1F-784E-4CF5-AD62-3F2CFEDC86B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "585761"
+          },
+          "hash": "e330352e82e7863643c58b9cceac165fc2704422",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q55903$0A73BC6A-3D79-4F7F-9367-04781AC7257D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00763569"
+          },
+          "hash": "23cdd4c07d54a2415954d6f47c35e1cec66ccdd2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55903$CFD6E987-22EF-4B61-9842-CF684DFF3E2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55903$EA4E49DD-C27A-4492-8130-EC2DA1CA840E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55903$277028EA-EFC1-4675-A28D-526DAA038DBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50291",
+              "numeric-id": 50291
+            }
+          },
+          "hash": "a53a089eeb7aadb7160854978763dc9e3d3d1bba",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55903$98E523D1-EDB5-44E3-A8DB-1EA394683476",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55899",
+              "numeric-id": 55899
+            }
+          },
+          "hash": "c9a9a0c014869b523f0b2655f1c3cd351cbda4d5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55903$0AA0DD22-32FE-457C-BCB7-97A7BEFA4A79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55903$9B6DC843-B0DF-48FD-9457-0406B744AD71",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1366-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c1d6777effea47bcdb2d0148c71a7cc50b00951",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55903$1EC84A02-71AC-4E69-A26B-CF7915C6C672",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1407-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0eafcc982a902cb98eeaf10fb60562b20c1fb34c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55903$3EBC11D6-2008-4191-B9AE-01F045C0A506",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2756704"
+          },
+          "hash": "2a1ab90fb82d982fe8977b88342365665e709fd9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55903$C8FF086C-7CA7-465F-A3AD-30AC2711070D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "George VII of Georgia Arms.svg"
+          },
+          "hash": "ceacb119280930d2a2a525781970b89dfb393891",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "gruzínský král"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Georgia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Georgia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך גאורגיה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վրաց թագավոր"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Georgia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョージア王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koning van Georgië"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Gruzije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "georgisk monark"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цар Грузії"
+    }
+  },
+  "id": "Q55903",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جورج السابع ملك جورجيا"
+    },
+    "az": {
+      "language": "az",
+      "value": "VII Georgi (Gürcüstan çarı)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Giorgi VII de Geòrgia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jiří VII. Gruzínský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Giorgi VII."
+    },
+    "el": {
+      "language": "el",
+      "value": "Γεώργιος Ζ΄ της Γεωργίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "George VII of Georgia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Georgo la 7-a de Kartvelio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jorge VII de Georgia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Georges VII de Géorgie"
+    },
+    "he": {
+      "language": "he",
+      "value": "גיאורגי השביעי, מלך גאורגיה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Đuro VII. Gruzijski"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գեորգի VII"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giorgio VII di Georgia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギオルギ7世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გიორგი VII"
+    },
+    "mdf": {
+      "language": "mdf",
+      "value": "Гиорги VII"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "George VII van Georgië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jerzy VII"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Георгий VII"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Giorgij VII. Gruzijski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гиорги VII од Грузије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Georg VII av Georgien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VII. Giorgi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Георгій VII"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "吉奧爾基七世"
+    }
+  },
+  "lastrevid": 17464130,
+  "modified": "2025-09-16T13:20:56Z",
+  "ns": 860,
+  "pageid": 70734,
+  "sitelinks": {},
+  "title": "Item:Q55903",
+  "type": "item"
+}

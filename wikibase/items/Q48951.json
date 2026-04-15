@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Minghui //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48951$0DEBA464-A398-4467-943D-0B4E3A933DDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48955",
+              "numeric-id": 48955
+            }
+          },
+          "hash": "ad175c12711d6c7440e56cb7a2fa154ab2256ebb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48951$B6102F80-8745-4A60-A0FA-A97048566673",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48951$B15EAFCB-2912-4542-A537-40DA5C6CB60A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q48951$A62A885D-A352-4FA4-872F-7708EDB369A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45680",
+              "numeric-id": 45680
+            }
+          },
+          "hash": "0933dcffd726231d49a4331d832b1352d43bfc36",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48951$00B236D8-5C87-4D76-8B62-7E0F11C4E4AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48951$AB0B08D3-17DC-428F-821D-54400C823840",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48951$616223AF-5862-4869-9840-4B3333E81098",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8253396"
+          },
+          "hash": "bd913f1832b207223a171cd0f6788d52a04c7da6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48951$8DE2F880-4677-4D2E-BC25-0D748C33659F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Minghui Arms.svg"
+          },
+          "hash": "61ed3bc381e5c26fd00a28d273e3ae921470bc02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "mother of Emperor Aizong of Jin"
+    }
+  },
+  "id": "Q48951",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Empress Minghui"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明恵皇后"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минхуэй"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明惠皇后"
+    }
+  },
+  "lastrevid": 17454600,
+  "modified": "2025-09-16T11:00:09Z",
+  "ns": 860,
+  "pageid": 64384,
+  "sitelinks": {},
+  "title": "Item:Q48951",
+  "type": "item"
+}

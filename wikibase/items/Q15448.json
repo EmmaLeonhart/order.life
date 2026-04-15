@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsukiyama-dono"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15448$18FE2C35-8E4D-4855-92F2-78ED463959F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15468",
+              "numeric-id": 15468
+            }
+          },
+          "hash": "13713eac16c5ad769b1e404b3d43e19b160e944d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15448$62E6237A-4726-41E3-A3E9-58C4F4FC7C74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15478",
+              "numeric-id": 15478
+            }
+          },
+          "hash": "623d1d2508618771b4e5ec7064cb5bdc2b5210f5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q15448$46CCFD5C-6DFB-41AB-983B-7C39A70FA4C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "関口-1"
+          },
+          "hash": "51f868b43179a5b1eafee4ab6c431f138335b030",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15448$B27C866B-583D-4C8B-BB04-20333ABEE385",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15448$99195FAF-29DE-4BC1-9DBF-CB95A1863261",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15448$80D3BD81-E8DD-49A0-87AB-809E7DC8DED2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "45c3786c144f06aa20e3f5d24932a969e3f265b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q15448$EC42CD3A-8AD0-47E2-BC67-D11A2F511BB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15415",
+              "numeric-id": 15415
+            }
+          },
+          "hash": "11b51bf4330bdb83f5ffcb578566a45d3b594910",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15448$5762E0DE-53B5-4FD3-A663-6131EC472099",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15448$3C6EBD4B-AFEE-414A-814D-B45182977A36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1542-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c675aa02910012200f9cc6f5c92c985f6d015ee4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15448$70C5C01F-AF67-4674-8950-AEF05812ABEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1579-09-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8fef25038439554bcda0cccb1c399a451b1b2908",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15448$9092C807-FA3B-49CF-92EE-C5EBFC88D62F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "築山殿.jpg"
+          },
+          "hash": "0de0cf5c04ac0ba4e1c76aea03464448f9ac94df",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15448$468FF165-A078-412A-AB11-BD8523569AAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4415657"
+          },
+          "hash": "26a06408665d1ddce191a72998fe458e3e9e7f98",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15448$BBF46EBD-9FD1-4BE8-B021-72EB7ECAC2CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsukiyama-dono Arms.svg"
+          },
+          "hash": "c7e0240200254f770a66e2e69920aabe17f891f7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Épouse du shogun Tokugawa Ieyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国～安土桃山時代の女性、征夷大将軍・徳川家康の正室"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (1542 – 1579)"
+    }
+  },
+  "id": "Q15448",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Цюкіяма-дона"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Cukijama"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τσουκιγιάμα-ντόνο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tsukiyama-dono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tsukiyama"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تسوکییاما-دونو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tsukiyama-dono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "築山殿"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쓰키야마도노"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tsukiyama-dono"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tsukiyama-dono"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tsukiyama-dono"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Цукияма-доно"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tsukiyama-dono"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "築山殿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "筑山殿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "築山殿"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "築山殿"
+    }
+  },
+  "lastrevid": 17415192,
+  "modified": "2025-09-16T00:19:55Z",
+  "ns": 860,
+  "pageid": 37735,
+  "sitelinks": {},
+  "title": "Item:Q15448",
+  "type": "item"
+}

@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shōnyo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q29727$D71AB34B-2DDE-440E-94CB-19C4600D1331",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27098",
+              "numeric-id": 27098
+            }
+          },
+          "hash": "3f8cd9ab82d28037b78d0a9a99daf57dc347afcd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29727$C0F5419F-27FD-40F1-9705-AF4530019CCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29000",
+              "numeric-id": 29000
+            }
+          },
+          "hash": "f98fea52ac16d658d7845190a0e6c80f30914520",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29727$A37330A6-3923-4C78-81B6-41ACDD886750",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29727$0CB2423C-D089-4B29-9F8D-9CB632FD47A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q29727$35B1B91F-D288-4434-802A-C23D66EF5E2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32613",
+              "numeric-id": 32613
+            }
+          },
+          "hash": "d09658710d5fa163a407308caa43e45535019f79",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29727$18242001-18A2-4D66-AE09-82C5583E5D41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19967",
+              "numeric-id": 19967
+            }
+          },
+          "hash": "036ffd28c0bc621f07ceedbbd88378358ec65e7a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q29727$1D5B27AA-5C64-4DF9-8F04-B76731484B39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19968",
+              "numeric-id": 19968
+            }
+          },
+          "hash": "1ab0dbb1de3063bfd8470ad709cb8dad1a760d1a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29727$F23CCDF7-BF7E-4C91-B9AE-BA67A993C2A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29727$7EE56863-8E69-4E98-9CB2-359ECFF02AA2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1516-12-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa45ccc20ee3213e5815665cac387adf2a6e2b12",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29727$0E348C27-8F2B-415D-8742-128E77AB67BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1554-09-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "125d767fc294abbf7380e2ee00215312dd0850f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29727$AF138E5D-F4A7-4672-AD45-68A998F59118",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6606602"
+          },
+          "hash": "51ab3a32b6c9c7bd426de6085993248799c4d677",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29727$E1FFDB50-9144-4D26-BE01-F66E9C0326FE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shōnyo Arms.svg"
+          },
+          "hash": "0b95c98810387a34153fe6ad7647bb929f4ab0ad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の浄土真宗の僧。浄土真宗本願寺派10世宗主・真宗大谷派10代門首。山科本願寺住職。法印権僧正"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q29727",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shōnyo"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Šónjo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shōnyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shōnyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Shōnyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "証如"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쇼뇨"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shonyo"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "證如"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "證如"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "證如"
+    }
+  },
+  "lastrevid": 17429188,
+  "modified": "2025-09-16T04:52:33Z",
+  "ns": 860,
+  "pageid": 50013,
+  "sitelinks": {},
+  "title": "Item:Q29727",
+  "type": "item"
+}

@@ -1,0 +1,239 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tunggul Ametung"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q1713$4E09B9B2-703F-485E-BB4E-365CED6BC86D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1706",
+              "numeric-id": 1706
+            }
+          },
+          "hash": "8c0c8e6ddfb9a1e02c03d8e269ae63923fa171a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q1713$984FC5DA-0A43-4305-9E4E-000C174E2E74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1713$DACD7B05-F3E9-4645-AAED-86A0AD82BFCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q1713$03838688-287C-4A65-8ADC-8E063490E480",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48456",
+              "numeric-id": 48456
+            }
+          },
+          "hash": "759b3733bed637ca2d70ca0c5ea241a715c41e28",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q1713$D1D6DE0C-2F20-4045-90C5-663469AC0464",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48501",
+              "numeric-id": 48501
+            }
+          },
+          "hash": "801eac8a56673a98f82b0d4df72560965069ec77",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1713$56340E9F-E9EF-4DFF-9ECE-3EC4C27D7FE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153236",
+              "numeric-id": 153236
+            }
+          },
+          "hash": "5a8e86f4c55612943cee865df037ae25fd6dd905",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q1713$96D8F950-C881-4347-8BB4-7948BB5EFA16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153237",
+              "numeric-id": 153237
+            }
+          },
+          "hash": "49ccc42bc31fe5d7c805a5168446325f46fe52a2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1713$EF091F1A-4B20-46E2-8117-D5CA52A1933E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q1713$C14A2AB1-5B23-4C58-BB39-E924F4CC0EB3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1222-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e67cdde537ca2571218d33f3965dea6e79018ddf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1713$A2826028-92EC-4127-84D4-EDA8C3D4F135",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tunggul Ametung Arms.svg"
+          },
+          "hash": "b1dc7329c867d518493e7168460e614e492f3d70",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q1713",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tunggul Ametung"
+    }
+  },
+  "lastrevid": 17404228,
+  "modified": "2025-09-15T21:33:56Z",
+  "ns": 860,
+  "pageid": 19823,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q1713",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q1713"
+    }
+  },
+  "title": "Item:Q1713",
+  "type": "item"
+}

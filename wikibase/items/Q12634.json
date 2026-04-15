@@ -1,0 +1,472 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Go-Horikawa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q12634$6891791E-11B5-4F29-B367-F2E4D1F51D16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719923"
+          },
+          "hash": "6eb420a853a6bc2524d388b0b286285bd8117e03",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12634$363B1A69-2F6E-4236-BA4C-610B52254761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12634$74FAA265-10A7-4DB1-9378-0AA600D1020C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q12634$2806C03F-FB14-4572-91C2-35D143837A3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13074",
+              "numeric-id": 13074
+            }
+          },
+          "hash": "cba6ad5bd8f2e85cc8b29014fa1b2e8a52f6d9fa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12634$C8FD200D-2508-43B9-ACB5-84F610390C2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13140",
+              "numeric-id": 13140
+            }
+          },
+          "hash": "43748188e54aae1657d8078f4425514dcdabeca9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12634$C7A64D76-06B0-4C30-BCB0-24C54E4EFF7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12828",
+              "numeric-id": 12828
+            }
+          },
+          "hash": "24ac5bacc5b9896fabdba878bfa35bfddc120f06",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12634$31784A0F-BA5D-49DB-88A2-33EF33CE2EFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12634$67F5D879-4A3F-44A3-9176-E7E6A4FCD833",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1212-03-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b68a81a1fa94a081f515dfbd97dc62554f0cda54",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12634$135C7328-E217-458E-A115-FE7D1C50E5E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1234-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6856f03b48a962868686ccbef6f0e9af2615b855",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q12634$7ADBB432-7611-429B-A281-FDF3E7D3C3BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Go-Horikawa.jpg"
+          },
+          "hash": "303622d1559f389a7cbe17d179d0b73baa173832",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12634$4985028C-F7B3-4702-9454-7DAFECD21049",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q357221"
+          },
+          "hash": "444cbeacabda7ae1f674db8d419eb5e71b92c0dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12634$BEBAB985-A68E-4EF3-9515-2321C2A96262",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Go-Horikawa Arms.svg"
+          },
+          "hash": "df82a24cca32e730c78680ae89908d95af60b955",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu xaponés (1212–1234)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(1212-34) 86è Emperador del Japó (1221-32)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "86. japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "86. Tennō von Japan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第86代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans soeverein (1212-1234)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński suweren"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "86-й император Японии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "86. japonski cesar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    }
+  },
+  "id": "Q12634",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جو هوريكاوا"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قو-هوریکاوا"
+    },
+    "br": {
+      "language": "br",
+      "value": "Go-Horikawa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Go-Horikawa"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپڕاتۆر گۆ-ھۆریکاوا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Go-Horikawa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Go-Horikawa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Go-Horikawa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Go-Horikawa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور گو-هوریکاوا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Go-Horikawa"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Go-Horikawa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Go-Horikawa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "後堀河天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고호리카와 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "गो-होरिकावा"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Go-Horikawa Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Go-Horikawa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Go-Horikawa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Go-Horikawa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Go-Horikawa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Го-Хорикава"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Go-Horikava"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Go-Horikawa"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Go-Horikawa wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโกะ-โฮะริกะวะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Go-Horikawa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Go-Horikawa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ґо-Хорікава"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Go-Horikawa"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Go-Horikawa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "后堀河天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "后堀河天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "后堀河天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "後堀河天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "後堀河天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "后堀河天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "後堀河天皇"
+    }
+  },
+  "lastrevid": 17413604,
+  "modified": "2025-09-15T23:57:54Z",
+  "ns": 860,
+  "pageid": 34967,
+  "sitelinks": {},
+  "title": "Item:Q12634",
+  "type": "item"
+}

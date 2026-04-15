@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hannamgun //"
+      },
+      {
+        "language": "en",
+        "value": "Hannamgun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q29664$5056A8BE-3C41-40C0-A2C5-EBAA76E45B86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29664$6D380539-1A5C-4E23-94A1-9F1DA3381A70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29664$BB0C8152-5F1C-425E-93A3-5D661962B26F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29608",
+              "numeric-id": 29608
+            }
+          },
+          "hash": "2ab8abeae0bee03427aec6f97c59225e792bb859",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q29664$FFCB3577-610F-4F2D-AA09-BCD25201707A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30507",
+              "numeric-id": 30507
+            }
+          },
+          "hash": "6b6b678718e88befe6ffe66a9e13888c9d790392",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29664$1C2F056F-FD09-450D-AE9A-427BAF611ED9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29664$DD43CA0C-1B78-4021-AAA9-14CC3B266B2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1429-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2ef97a2950bcee3f5f15c56eca3ed953936a984",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29664$1596B3E3-C86D-4553-A036-437345549177",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16171523"
+          },
+          "hash": "8d31a74040beb033f7533bb340b026240c0023c3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29664$A0A09F02-C687-437D-A3CE-0CC29ADFBBC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hannamgun Arms.svg"
+          },
+          "hash": "06090891aed36b23aa84a1862a25dc4230a839c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "korejský princ"
+    }
+  },
+  "id": "Q29664",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Hannamgun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hannamgun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "漢南君"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "한남군"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "漢南君"
+    }
+  },
+  "lastrevid": 17429126,
+  "modified": "2025-09-16T04:51:26Z",
+  "ns": 860,
+  "pageid": 49966,
+  "sitelinks": {},
+  "title": "Item:Q29664",
+  "type": "item"
+}

@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nagao Kagemochi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13615$BE8A2051-817D-47A0-8C9C-A3C5F42B0113",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13615$9BCBC56D-A555-47D8-8CD4-340B351DE225",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13615$8F698E93-F663-4793-AD40-D4834085914C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14166",
+              "numeric-id": 14166
+            }
+          },
+          "hash": "3677b792ba9d4e909a7db04b7742c6b1201cc963",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13615$0D91FF0C-6AF8-4CC3-9822-2C730062B49E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13615$55AA4D10-47CF-4071-9129-79E87848B4CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1247-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "168bf23c5b1cc6f4e608fb9a6d93da972f048c34",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13615$9941CF6D-D164-4645-890B-C281A97EE54D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11651865"
+          },
+          "hash": "09aeff37f2cb062d1de39e2b76fd0a0ef2a2ec61",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13615$1764ABF8-F975-44CF-B3A5-CDDFCB539492",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nagao Kagemochi Arms.svg"
+          },
+          "hash": "d8fc66aeb0fd48d4990815257ad1c96e77568db5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の武士。長尾氏3代当主。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q13615",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Kagemoči Nagao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nagao Kagemochi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "長尾景茂"
+    }
+  },
+  "lastrevid": 17414070,
+  "modified": "2025-09-16T00:04:29Z",
+  "ns": 860,
+  "pageid": 35932,
+  "sitelinks": {},
+  "title": "Item:Q13615",
+  "type": "item"
+}

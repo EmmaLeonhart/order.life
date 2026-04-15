@@ -1,0 +1,364 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsukura Shigemasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24095$23E9232A-40F6-457E-9E13-27EDE5C1B559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48308",
+              "numeric-id": 48308
+            }
+          },
+          "hash": "f317b4a1beb89c4cb7e411e17502cb011644daed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24095$6014D131-EB4A-4E8B-8F0C-B4937B7544D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37439",
+              "numeric-id": 37439
+            }
+          },
+          "hash": "111739406cb6370b9ec59b46176c0af07c59e837",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24095$421C0A13-16F2-453A-AB40-86524C599794",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48304",
+              "numeric-id": 48304
+            }
+          },
+          "hash": "8177ff8b8344310b8ce89fb3e0b3f45be950a9eb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q24095$24FD92AF-FB9D-4A11-84D8-8ECBA76D8F53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松倉-1"
+          },
+          "hash": "a0fb9abf502f0897cab321c5594a077e5f0b2596",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24095$954B3670-77B0-4E5A-B873-61FC1A2D68F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24095$784B096B-2968-4D38-B323-4EC1FD31BB08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24095$A2B3A1C7-57ED-443B-A5BB-F13E328C7EC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48300",
+              "numeric-id": 48300
+            }
+          },
+          "hash": "f0e3a594825a8b4b641cdb6f36dba125bab4213a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24095$94D923EA-B18F-4607-8ED6-38BD182C9497",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24095$5B9951BD-CDBA-419C-9163-8EDC972A431C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1574-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44a16a59b26a64cc2d828d2a6acb77231f72d99e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24095$D26565CE-70D1-4C2B-814A-37DA858B13A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1630-12-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4bac55817e6c0995374a5f62c89876580932594",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24095$BB8B93FE-2070-48FA-B8BA-98ABA2B22AFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8192211"
+          },
+          "hash": "d7b54878f0d3974d8509b07c6a63471155bdb959",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24095$F9CAD962-FD0B-47AD-86EF-B03ECE04FCA9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsukura Shigemasa Arms.svg"
+          },
+          "hash": "baa7240ceb50cc43d63b4092fd32e1fd09ce4a71",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1574–1630)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo of the late Sengoku and early Edo periods"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から江戸時代前期の武将、大名。大和五条藩主、肥前日野江藩初代藩主。松倉重信の長男。島原の乱の主因を作った。従五位下、豊後守。子に松倉重利（-1655）、松倉三弥"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japanse daimyo uit de late Sengoku en de vroege Edo periode"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1574 – 1630)"
+    }
+  },
+  "id": "Q24095",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsukura Shigemasa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsukura Shigemasa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsukura Shigemasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsukura Shigemasa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماتسوکورا شیگهماسا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matsukura Shigemasa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Matsukura Shigemasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松倉重政"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰쿠라 시게마사"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matsukura Shigemasa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Matsukura Shigemasa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Matsukura Shigemasa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэмаса Мацукура"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsukura Shigemasa"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мацукура Шигемаса"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsukura Shigemasa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松仓重政"
+    }
+  },
+  "lastrevid": 17423092,
+  "modified": "2025-09-16T03:16:39Z",
+  "ns": 860,
+  "pageid": 45902,
+  "sitelinks": {},
+  "title": "Item:Q24095",
+  "type": "item"
+}

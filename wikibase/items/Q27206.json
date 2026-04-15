@@ -1,0 +1,599 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jianwen Emperor //"
+      },
+      {
+        "language": "en",
+        "value": "Jianwen Emperor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q27206$2D718959-C417-4E71-95BE-5482FF17DA7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "843442"
+          },
+          "hash": "51089e895006605a994c78fe148ad29de64274e5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q27206$82BFBB5C-3FB6-4192-A8F0-0474F7FEFFAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27686",
+              "numeric-id": 27686
+            }
+          },
+          "hash": "fed1333c9a1ad5a6cd6c057faec2e5915f310ca6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27206$8FDD61D1-6626-41CA-B2E8-BC7476AC6478",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27683",
+              "numeric-id": 27683
+            }
+          },
+          "hash": "e41622925c4d709d41cc507eb1ae544cc16010c7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q27206$9BF02415-D37F-4927-9EAB-B27BEEE8B1C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27206$76D5E660-CD2E-444D-8A54-3960BC29218B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q27206$ED160ACB-D701-4D07-8F27-9E32590E70CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27680",
+              "numeric-id": 27680
+            }
+          },
+          "hash": "86eadfd18b3410c3b189bfa6ae591d30a32e73d2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q27206$5402E32F-E264-47C7-91B1-94D5859364A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26891",
+              "numeric-id": 26891
+            }
+          },
+          "hash": "249fd1361e3a5eaf6df271a60d3897d5e23ba89b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27206$CB2A2144-4D4E-4A24-A071-9EDA4BD0D08F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27206$8B317111-94ED-46E5-BADE-C8C2C90483B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1377-12-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e85ecdf94d7113b026fc746e0a1336bf08c25a0e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27206$66D17A46-D47B-435F-8506-68F55B1B00A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1402-07-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b994def227c8efeb3c7b11eb0aea23548bcc7e00",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27206$AE3D202A-A61F-4D21-8A3F-0E1C19A741D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9961"
+          },
+          "hash": "bb70d84cc3a054c0d28afa4e194d3497439c332a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q27206$CFE5B28B-ABF7-4559-BA41-3080EAAF7580",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075326687901"
+          },
+          "hash": "3415e5d16026224ae7a9bd3bf4bb043d6fb5d07a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q27206$0AA8F019-5FB6-439A-89A2-25EDFCFD3680",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jianwen Emperor Arms.svg"
+          },
+          "hash": "f06e8085d2d43ff9eda689811a97ded946c4cc6e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "persona de la dinastía Ming"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "císař říše Ming"
+    },
+    "de": {
+      "language": "de",
+      "value": "chinesischer Kaiser der Ming-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhu Yunwen, Emperor of China"
+    },
+    "es": {
+      "language": "es",
+      "value": "Segundo Emperador de la Dinastía Ming del Imperio chino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明朝の第2代皇帝。朱元璋の皇太孫。"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "명나라의 2대 황제"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡩᠠᡳᠮᡳᠩ ᡤᡠᡵᡠᠨ ᡳ ᠵᠠᡳ ᡥᡡᠸᠠᠩᡩᡳ (1377-?)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees keizer (1377-1402)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz Chin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "второй император Китая династии Мин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "andra kejsaren av den kinesiska Mingdynastin"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ming Hanedanlığı'nın ikinci imparatoru"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор династії Мін"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hoàng đế thứ 2 của nhà Minh"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明朝第2位皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "明朝第二位皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "明朝第二位皇帝，年號建文"
+    }
+  },
+  "id": "Q27206",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Jianwen"
+    },
+    "an": {
+      "language": "an",
+      "value": "Jianwen"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الامبراطور جيانوين"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور جيانوين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Jianwen Emperor"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "جیانون"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jianwen"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Gióng-ùng Huòng-dá̤"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ťien-wen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jianwen-kejseren"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jianwen"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Jianwen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jianwen Emperor"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Jianwen Emperor"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Jianwen Emperor"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jianŭen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jianwen"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Jianwen"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جیانون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jianwen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ming Jianwen"
+    },
+    "gan": {
+      "language": "gan",
+      "value": "朱允炆"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Jianwen"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Kien-vùn Fòng-ti"
+    },
+    "he": {
+      "language": "he",
+      "value": "ג'יינון, קיסר סין"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ming Csien Ven"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Jianwen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jianwen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "建文帝"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Kaisar Jianwen"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Цзяньвэнь"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "건문제"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "明惠宗"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Жяньвэнь"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᠮᡳᠩ ᡤᡠᡵᡠᠨ ᡳ ᡤᡳᠶᠠᠨ ᠸᡝᠨ ᡥᡡᠸᠠᠩᡩᡳ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "चियानवन"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maharaja Jianwen"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "جیانون"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Bêng Hūi-chong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jianwen-keiseren"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jianwen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jianwen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Jianwen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Jianwen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чжу Юньвэнь"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Jianwen Emperor"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jianwen Emperor"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Цар Јианвен"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jianwen-kejsaren"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิเจี้ยนเหวิน"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jianwen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чжу Юньвень"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Minh Huệ Đế"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "建文帝"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "朱允炆"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "建文帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "建文帝"
+    }
+  },
+  "lastrevid": 17426372,
+  "modified": "2025-09-16T04:11:50Z",
+  "ns": 860,
+  "pageid": 48232,
+  "sitelinks": {},
+  "title": "Item:Q27206",
+  "type": "item"
+}

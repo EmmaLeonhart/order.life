@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Duo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q52295$8C5A86C7-6349-4FF0-B6DD-5E58FF05EE66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59129",
+              "numeric-id": 59129
+            }
+          },
+          "hash": "e46ffd9b652b423bf15f5f56c591ea898559b92c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52295$DEC94903-0F12-497F-8233-80C498C89753",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59132",
+              "numeric-id": 59132
+            }
+          },
+          "hash": "091c8db426db9917a574cef6ff48cf1a2d96d825",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52295$E3DC7621-F6A9-4A67-87A5-377956568EAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59135",
+              "numeric-id": 59135
+            }
+          },
+          "hash": "c2374e0f8b5640344303bf1599907594fd7a1df8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q52295$25F08C2A-188E-4DEE-998B-E82FB798EE4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52295$084FC26A-F5D1-4401-8E98-9C4C83462B97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q52295$727267F4-3588-4F36-B0EB-CDA5B1F237EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44548",
+              "numeric-id": 44548
+            }
+          },
+          "hash": "5490c051f58a835ed0c7eda3397f6c826093afca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q52295$5981BBE1-D020-4AE4-826D-6F1D534F53C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q52295$3BC01AE7-6017-4EF6-BA94-14D428E32818",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0760-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7eee55f25d00adc93c516532e803f313f8056900",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q52295$A3D2300F-076B-4622-BC31-588444738D4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45455226"
+          },
+          "hash": "cc3e6590e739d62fb260280ab514b6a548d83542",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q52295$598E2DCC-F8E6-4D71-B19D-48A97758AC67",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Duo Arms.svg"
+          },
+          "hash": "3780981d085b4fd6d4a6487263a26ddfa1961dbe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187672"
+    }
+  },
+  "id": "Q52295",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Duo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Duo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Duo"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李椯"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Duo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李椯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李椯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李椯"
+    }
+  },
+  "lastrevid": 17458262,
+  "modified": "2025-09-16T11:54:05Z",
+  "ns": 860,
+  "pageid": 67126,
+  "sitelinks": {},
+  "title": "Item:Q52295",
+  "type": "item"
+}

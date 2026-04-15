@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seki Nagamasa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24002$D51A52C6-46F1-4BCB-9FAD-F7333FCEDF42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24002$6CDD2A1E-C456-457F-8078-B3D1E663F2B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24002$1751D450-11E2-4C88-BD22-58D54F2E715E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37091",
+              "numeric-id": 37091
+            }
+          },
+          "hash": "2e4f089bf2620c522e4b7804e200315a8ae86156",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24002$5D45E7AA-A02A-4816-AD61-373BBBF2BBE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24002$0CF5BD10-ACC5-4D1A-B279-DF682823C17B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1612-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2575a97da6c9b3f2a91fc751b65f68897aa437bf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24002$B7E1D23E-CC0A-4197-9EB7-07F5DE043743",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1698-08-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3597c2267c73adc79b401bb9e07be5f6680eee85",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24002$2A9539D2-EF21-42FD-A6AA-B182C1EED72E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11656468"
+          },
+          "hash": "47dbb4529a82ff87751f7026cb7a8295991f2140",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24002$2FC42500-1491-44D9-9FDA-8E2053017CA6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seki Nagamasa Arms.svg"
+          },
+          "hash": "def64b845cd0543a4387c931f442ca075f76a39c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の大名。美作津山藩家老関成次次男で、美作宮川藩初代藩主（1万8700石）。新見藩関家初代。従五位下但馬守・備前守"
+    }
+  },
+  "id": "Q24002",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Seki Nagamasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "関長政"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагамаса Сэки"
+    }
+  },
+  "lastrevid": 17423030,
+  "modified": "2025-09-16T03:14:41Z",
+  "ns": 860,
+  "pageid": 45811,
+  "sitelinks": {},
+  "title": "Item:Q24002",
+  "type": "item"
+}

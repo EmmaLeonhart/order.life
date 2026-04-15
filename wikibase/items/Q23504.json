@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang, Empress Yuanxian"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23504$498020ED-F43F-414A-937F-0F3CA3D5FD38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23512",
+              "numeric-id": 23512
+            }
+          },
+          "hash": "250062eb97e4248da384afb1c92dbbb8f7ec36f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23504$C0ADAA80-53C6-4609-AC79-DCFDEC559A63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23504$CCDEB37E-E248-400C-B06E-BCE9728D6049",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23504$4958FD18-2161-4E38-BD6C-577DE97E7EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "4751af75f444456a01daf8eff9b811cd34b52971",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23504$5CFF8770-FEAC-424C-BB42-B7C4A95ED86D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46075",
+              "numeric-id": 46075
+            }
+          },
+          "hash": "5707dfaf969db94d9621f6c683715c37be849e75",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23504$815BE16E-8BC3-4B23-8107-E83A90DD42FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23504$E5327895-CFE7-4631-900B-7C5339079C5D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0729-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "265771076008802eb291a380fc3bf550d16ff9fd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23504$428D64D7-B1F8-47F3-8B2E-2FD5B17350B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8251541"
+          },
+          "hash": "883722c14bfb0b495a8f2499f5a3ed63ddee7138",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23504$D3897F71-C3E0-4A4F-B299-05E599C0618E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075337633126"
+          },
+          "hash": "91c6a4e8b4e395fa525c4fbb67771e20a7627817",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23504$E15277DD-66F0-4389-AE8D-6113992174D6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang, Empress Yuanxian Arms.svg"
+          },
+          "hash": "0935c7e561a06d0e7dad83231132f92e75cdbfa9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "noblewoman; Tang dynasty person CBDB=31212"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "당 현종의 황후"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "наложница императора Сюань-цзуна"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đường Túc Tông sinh mẫu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐玄宗的貴嬪、唐肅宗生母"
+    }
+  },
+  "id": "Q23504",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang, Empress Yuanxian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang, Empress Yuanxian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang, Empress Yuanxian"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "元献皇后"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "원헌황후"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊氏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юань"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dương quý tần"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "元獻皇后"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "元献皇后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊氏"
+    }
+  },
+  "lastrevid": 17422498,
+  "modified": "2025-09-16T03:04:39Z",
+  "ns": 860,
+  "pageid": 45414,
+  "sitelinks": {},
+  "title": "Item:Q23504",
+  "type": "item"
+}

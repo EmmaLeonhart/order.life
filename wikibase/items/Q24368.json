@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Masatoki Ikeda"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q24368$1944B310-F8DF-4F94-8A48-74D89F62CCF2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "池田-99"
+          },
+          "hash": "f3e694f9b6fa8235249f73a010351325425ab1ce",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24368$4F152F9A-045C-4215-9350-7673A77E1D3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24368$BA4C3F41-044F-4CA0-9313-01B4637EC8E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24368$9D49D680-4C4F-4165-A470-1948655116F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38152",
+              "numeric-id": 38152
+            }
+          },
+          "hash": "c3aec3d954534511545220751e7059b8be557cdc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24368$E564CA9D-D2E0-46E4-86EC-459DA2B6FBCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24368$FE3BE38D-2860-484F-A7BC-66E777D31456",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1872-10-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32ef72ab45e3715cd1fa216477db822248bd7858",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24368$B54A857C-6E0A-41C0-82E9-2635D42B73F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1940-07-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "97c352e5823b77a7cc4610af97780f34432b3483",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24368$AECD4F18-3128-497C-80C2-3D3F9F942B3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q51574635"
+          },
+          "hash": "c31ff7653242e591645c6796df13f3d01ad1e740",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24368$A255A175-4FAC-463F-AE9C-9DBD35DAFBA6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Masatoki Ikeda Arms.svg"
+          },
+          "hash": "e04c13b68f1febfb5ce4cc79181e493659b4e516",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1 Oct 1872 - 9 Jul 1940"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明治から昭和期の政治家、華族。貴族院子爵議員。正三位勲二等。池田慶政の四男。生坂藩主家9代、子爵生坂池田家2代"
+    }
+  },
+  "id": "Q24368",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Masatoki Ikeda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田政時"
+    }
+  },
+  "lastrevid": 17423374,
+  "modified": "2025-09-16T03:22:27Z",
+  "ns": 860,
+  "pageid": 46165,
+  "sitelinks": {},
+  "title": "Item:Q24368",
+  "type": "item"
+}

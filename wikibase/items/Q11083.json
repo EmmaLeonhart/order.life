@@ -1,0 +1,318 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Yoshikiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11083$179551C2-CBFB-4E3C-819D-53567D2C7CC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814685"
+          },
+          "hash": "bcfc7a5ed413e047cddffaba304cd27cb07fd7ad",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11083$205C7224-97FF-496D-899E-C45A0A70B101",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11853",
+              "numeric-id": 11853
+            }
+          },
+          "hash": "63404b4eb4f5673c7793cb52a8b5fc821bec869e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11083$7B277FDB-5E30-4FBC-8712-CDD238E3512A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11851",
+              "numeric-id": 11851
+            }
+          },
+          "hash": "707654b306ebe97e0aff388b78ffcd71212e1e27",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11083$699048A9-677F-4D1E-81E6-068EF1112E34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11083$56B9A45D-AFBE-4618-9DD1-1C6D02BFBDED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11083$449F7A89-DC75-48B3-A68D-40F4EEFBB832",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11849",
+              "numeric-id": 11849
+            }
+          },
+          "hash": "483f959d1f88de9438fe8e08b37e572a16d03213",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11083$9C5011AF-C14F-4962-8D25-2862BE6754A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10467",
+              "numeric-id": 10467
+            }
+          },
+          "hash": "4a08b9a7dbebe84a6a684bad4d35210fb1bfaf4e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11083$613BBB61-BCD2-4B40-A0A5-5D43A9C4F561",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11083$0A0C8B9B-E908-48E2-8F6F-5E8E643AD522",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1075-05-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4c77e24438d218c0baff28a6d7df928e3be3daf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11083$E7FF6BC2-94FA-4336-B5CB-B10638E95A47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1149-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74e23d6a190480daf626775cde64cb75981b1f90",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11083$37A28A97-C790-47AE-AA1A-7B5D3162E045",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6863154"
+          },
+          "hash": "ca317de69a0a7d18a77c91c01a430c3dd137619c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11083$6C98306B-A772-4EDF-912C-61836FBDDFB1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Yoshikiyo Arms.svg"
+          },
+          "hash": "0692ac3531cab2eb7af5e1760c27d9ec580f3660",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "en": {
+      "language": "en",
+      "value": "Founder of the Takeda line"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代後期の武将。源義光の次男?三男?。配流甲斐市河庄"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский военачальник"
+    }
+  },
+  "id": "Q11083",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Minamoto no Jošikijo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Minamoto no Yoshikiyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Yoshikiyo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میناموتو نو یوشیکیو"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Minamoto no Yoshikiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源義清"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Ёсикиё"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "源義清"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源義清"
+    }
+  },
+  "lastrevid": 17412716,
+  "modified": "2025-09-15T23:45:02Z",
+  "ns": 860,
+  "pageid": 33464,
+  "sitelinks": {},
+  "title": "Item:Q11083",
+  "type": "item"
+}

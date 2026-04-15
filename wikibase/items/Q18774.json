@@ -1,0 +1,222 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shosen'in"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q18774$7A59A22C-85D1-4FE7-9053-87261CAFE9FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30681",
+              "numeric-id": 30681
+            }
+          },
+          "hash": "7440c12e7953dc57aa99d9b3adbafc9086fd3873",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18774$162CD33C-6D35-44D0-95E3-A035AAD8DFE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18774$EFFD21F2-E1D3-46AB-9EC4-5B637AE45D32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18774$0DDEFBCA-6626-4620-955D-9BC167E9863E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17260",
+              "numeric-id": 17260
+            }
+          },
+          "hash": "937d21e813816599fd44d93e5d1baa4d644ecea3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18774$0971FB85-7661-405F-A83A-42D56CC49F38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20521",
+              "numeric-id": 20521
+            }
+          },
+          "hash": "3155ea60d5a3d6e055a6a97f8a01b92c1156c721",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18774$16AE00D2-A13D-4BEC-B172-5D7B0995B71B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18774$F50C1018-6071-49E6-8474-B65EA13AA8D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1642-01-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77f5e86a443a23e216d1a404b6e53826144cc201",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18774$C58EEF3D-B6FA-42F3-BC62-5B5C68EC4C74",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108747016"
+          },
+          "hash": "5a1dbe41fb1295080869920483752719b481132d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18774$F1358492-7CF5-480C-91B0-24666101DAC6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shosen'in Arms.svg"
+          },
+          "hash": "eca6a9e240967537ce33ff1643d67c92cc7f5f22",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "福島正則の継室"
+    }
+  },
+  "id": "Q18774",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Šosenin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shosen'in"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "昌泉院"
+    }
+  },
+  "lastrevid": 17418124,
+  "modified": "2025-09-16T01:22:53Z",
+  "ns": 860,
+  "pageid": 40944,
+  "sitelinks": {},
+  "title": "Item:Q18774",
+  "type": "item"
+}

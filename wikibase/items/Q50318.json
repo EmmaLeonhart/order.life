@@ -1,0 +1,329 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pervâne //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50318$7A8DB7A3-FFEA-453B-8734-BAB1AD7F2A11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50318$339F6ECD-268B-4DD3-9D16-B20A584A1D7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q50318$859AD056-458A-40AE-AE98-3AB82D909E58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pervâne_(1)"
+          },
+          "hash": "ba42f9b9e33adad600742c3087567571570f712c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50318$83831437-D1D8-4282-B82A-E632C423A717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46371",
+              "numeric-id": 46371
+            }
+          },
+          "hash": "faa09b2cc9b243293b5d21d464ad1f1853a0260b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50318$E1C6AC3B-EBC7-4B1D-85BE-CA31167E866C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50318$56965FB0-C595-4632-B73D-066EF4F13038",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "891a8fd1e3ea1f5ffde392231c3c7525a14fc1d6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50318$FF79B245-0522-4CF7-BBB8-69F16BC8EDF4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1277-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "298d9674edcd88b391c5c213313e54cdd90553af",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50318$221FF56D-AFB3-4682-989B-A262E7486766",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2072756"
+          },
+          "hash": "ebadbf1b2dcfd86d26bf343efe84f9171f289722",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50318$78D77DA6-41A3-413C-9830-A1A798D975CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pervâne Arms.svg"
+          },
+          "hash": "05ae0d7e6acc95d509ac9d2cada98d711e092b2e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كان رجل دولة فارسي"
+    },
+    "de": {
+      "language": "de",
+      "value": "anatolisch-seldschukischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Persian statesman, a key player in 13th-century Anatolian politics"
+    },
+    "es": {
+      "language": "es",
+      "value": "estadista persa y participante clave en la política de Anatolia del siglo XIII"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "vizir de la dynastie seljouqide en Anatolie au XIIIe siècle"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare ottomano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "staatsman uit Sultanaat van Rûm (?-1277)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "государственный деятель Конийского султаната"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ایرانی نژاد سیاستدان اور سلجوقی سلطنتِ روم کا طاقتور وزیر"
+    }
+  },
+  "id": "Q50318",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بروانه معين الدين سليمان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Muiniddin Pərvanə"
+    },
+    "be": {
+      "language": "be",
+      "value": "Перванэ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pervâne"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pervâne"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pervane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pervâne"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mu'in al-Din Parwana"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "معینالدین پروانه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mu'in ad-Din Suleyman"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pervâne"
+    },
+    "he": {
+      "language": "he",
+      "value": "מועין א-דין פרוואנה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mu'in al-Din Sulayman"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムイン・アッディーン・スライマーン"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Перуане"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pervâne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Перванэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pervane"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Муъинуддини Парвона"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pervâne Muineddin"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "معین الدین پروانہ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佩瓦內·穆爾因丁·蘇萊曼"
+    }
+  },
+  "lastrevid": 17456478,
+  "modified": "2025-09-16T11:27:30Z",
+  "ns": 860,
+  "pageid": 65404,
+  "sitelinks": {},
+  "title": "Item:Q50318",
+  "type": "item"
+}

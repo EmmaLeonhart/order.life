@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhu Cilang //"
+      },
+      {
+        "language": "en",
+        "value": "Zhu Cilang"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q32763$CE6C59E9-2EC6-4CD0-9A82-9B51CD925B13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "844011"
+          },
+          "hash": "b11c9b24256dfc3ab7f246e81959a15666a802b4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q32763$668E9B71-16DA-4F87-B770-99BCD9E1FE37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "朱-4"
+          },
+          "hash": "ed5854be8c828e82e367877d93506ba713faf6b0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32763$70AD46B2-2130-4955-91FE-16B0EA876BFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32763$863CC963-343F-4882-8212-26E30FFB4B54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32763$A457284F-8A00-42B1-8F32-8B802B42850C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33275",
+              "numeric-id": 33275
+            }
+          },
+          "hash": "db81cb31c90c93b75f20450599840c4858a96056",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32763$AC17A9F8-CF4A-4BCE-80B9-0D75BADC9EF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32181",
+              "numeric-id": 32181
+            }
+          },
+          "hash": "ec1daf261d432430e1a8258b4732f976cccff4bd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q32763$05DFA878-9FE7-409E-916B-6F8F08132D5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32735",
+              "numeric-id": 32735
+            }
+          },
+          "hash": "23f68d6e55ebe8efe688a863a421abff682da62d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32763$CB88D7F2-7A4A-4F70-97DB-222434D4FE37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32763$66219BCE-B4F1-41F4-9EE1-C588C567AB81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1629-02-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d0306abf2df3fe2076d6728894f4c483d7c591b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32763$B597DAD1-B887-42B8-837B-9C0DB0F353EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1644-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "68787c76dd067310c94117fd00110268d98d04f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32763$4C7FE458-7F50-4C5D-8D25-56E191A56A20",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5953335"
+          },
+          "hash": "aba63239756476d91599f34ee555384f2017dcda",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32763$24249E60-C76A-4291-ABFC-C45E30B3F2ED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhu Cilang Arms.svg"
+          },
+          "hash": "5a5e46e628fb136c9082a8f08620c95abc043291",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "crown prince of Ming Dynasty"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明末期の皇太子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明思宗皇太子"
+    }
+  },
+  "id": "Q32763",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zhu Cilang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhu Cilang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhu Cilang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朱慈烺"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "주자랑"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "獻愍太子"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chu Chû-lóng"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chu Từ Lãng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱慈烺"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "朱慈烺"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朱慈烺"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "朱慈烺"
+    }
+  },
+  "lastrevid": 17433212,
+  "modified": "2025-09-16T05:50:49Z",
+  "ns": 860,
+  "pageid": 52283,
+  "sitelinks": {},
+  "title": "Item:Q32763",
+  "type": "item"
+}

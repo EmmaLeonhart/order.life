@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asakura Kōkyū"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q36529$7F71B814-9562-4C77-9431-23BC627DB5E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36529$D43EF74D-5121-4326-9032-AAF6EF56C9F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36529$892D6247-0C1C-4241-BBC4-F4756FD90611",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21469",
+              "numeric-id": 21469
+            }
+          },
+          "hash": "6b8593fc88c195eb6c1d7015f8755b0206c5d297",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36529$C0A34B8F-9708-403C-9F25-F5C20B490174",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36529$C44FD22E-A18D-4776-8DD5-11B57B22DC50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1440-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6734652513696baafad946bb7d4c65ae3cd5f8e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36529$9D90B03A-FB2D-4407-B06C-8190095D30C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1494-02-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6514e0f998b05447c455a118c515a73ce0e8ea6a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36529$6773C438-8422-498E-8B3B-645DF2A25CB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11068393"
+          },
+          "hash": "5947cc4409ba45c0f8103aa4322e654da30b8d38",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36529$87964CE9-44E5-4EE4-BF1A-50CFEA6B1D29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asakura Kōkyū Arms.svg"
+          },
+          "hash": "e1420c6b185063725917f902604b9849a470f423",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Befehlshaber"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese samurai and monk of the Muromachi period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代の武将・僧"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1440 – 1494)"
+    }
+  },
+  "id": "Q36529",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Asakura Kōkyū"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asakura Kōkyū"
+    },
+    "es": {
+      "language": "es",
+      "value": "Asakura Kōkyū"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朝倉光玖"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кокю Асакура"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Asakura Kokyu"
+    }
+  },
+  "lastrevid": 17438632,
+  "modified": "2025-09-16T07:09:49Z",
+  "ns": 860,
+  "pageid": 55098,
+  "sitelinks": {},
+  "title": "Item:Q36529",
+  "type": "item"
+}

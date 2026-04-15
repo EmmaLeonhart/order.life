@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fang Yi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q55802$4AC06073-7B71-4CCB-A9CF-341A696990BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47114",
+              "numeric-id": 47114
+            }
+          },
+          "hash": "4d6dc0ef048b79ceb5b4449b8fd456a203ae02c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55802$8764258D-E048-4CFC-9C92-C4BECA470701",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61986",
+              "numeric-id": 61986
+            }
+          },
+          "hash": "da933aaba64b1f2631df09f027bf9d0b0d49da04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55802$84AD7BF9-0C6A-4E78-A814-1ACB881E31D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55802$8B5001C1-C746-4FAA-8C7B-C08FB326C4E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55802$8301BAE7-FDD4-4EFD-8582-F3CF24938316",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61983",
+              "numeric-id": 61983
+            }
+          },
+          "hash": "55d8bdfe4f3a3d4a9749247323bd7d7dca18362b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55802$51854A83-8BDD-4362-A87C-FFF5FD09B51D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55802$EE54DE06-0D98-4E76-BB24-23C595969C59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0532-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f6ba25bbdb360dc8468f97cff4f3c683af68a66",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55802$9F097A71-CCC6-45C2-B782-9B0DA5BB32CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45385211"
+          },
+          "hash": "bef9dd71457107ab790b5f8fd6c60fe684ce2da5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55802$22B69FA5-69BC-44E3-9E68-0AE6D40132E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000021150949252"
+          },
+          "hash": "d4802edd0d91e128c8026c0501ef364f39acc26c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55802$9BA584FF-DAA7-4D07-ADAD-D7A81F3CE809",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fang Yi Arms.svg"
+          },
+          "hash": "983811aa573bf2c20f92beb36e5e5137dda3120b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei person CBDB=194334"
+    }
+  },
+  "id": "Q55802",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fang Yi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fang Yi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fang Yi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "房翼"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fang Yi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "房翼"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "房翼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "房翼"
+    }
+  },
+  "lastrevid": 17463976,
+  "modified": "2025-09-16T13:18:41Z",
+  "ns": 860,
+  "pageid": 70633,
+  "sitelinks": {},
+  "title": "Item:Q55802",
+  "type": "item"
+}

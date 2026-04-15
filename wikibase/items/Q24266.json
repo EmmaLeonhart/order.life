@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Tadazane"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24266$9B2D27C4-A1E0-4D04-8FBD-2FFC141063DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24266$9BE78C2A-611E-4372-82E1-D03E7B0F5D18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24266$1AF272B6-3BFE-4BAE-8AEB-D505282D089C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22071",
+              "numeric-id": 22071
+            }
+          },
+          "hash": "47c8d13ab8f8161203623fd646e2436ed51305f2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24266$C07DCA1A-7ABA-406D-9C25-71BB09264123",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24266$05701681-9C6C-4A12-82AA-AA864DA73C74",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1535-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9f048e16cfa757fa32735f9dda6d6662dd9aab1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24266$74826316-D71C-4404-B439-40533CBFB025",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1573-01-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f6145e3ef3936c273f6270aafc1ad7f4605f27d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24266$10D4FDAD-0FB3-4783-80D3-5909A0A8928B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11520029"
+          },
+          "hash": "2478562abea596132b088e4ec7133ac34e0a245f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24266$DCEC3644-DB50-4575-98F7-6163E408B519",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Tadazane Arms.svg"
+          },
+          "hash": "d5f999f629ef7f1219d85c3b3fc84c5bf0c8aba7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q24266",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Tadazane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多忠真"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "本多忠真"
+    }
+  },
+  "lastrevid": 17423254,
+  "modified": "2025-09-16T03:20:34Z",
+  "ns": 860,
+  "pageid": 46066,
+  "sitelinks": {},
+  "title": "Item:Q24266",
+  "type": "item"
+}

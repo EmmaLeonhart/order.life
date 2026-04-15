@@ -1,0 +1,605 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Genmei"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7283$A5A8F045-2970-48AB-A962-7612B5B2241F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719959"
+          },
+          "hash": "0c12db05307c6c918c4315cb7859748971bbd064",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7283$D3DAE54F-6C1A-4624-A0CE-1F179AF40713",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7370",
+              "numeric-id": 7370
+            }
+          },
+          "hash": "c48a4227e5a1ece3b64ff3fa933f31440500c167",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7283$47C868C8-E3CB-4E2B-9D1E-FFEFFF2930E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7283$80758933-CB69-4C69-85AB-B717D02E977D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7283$A590D2D7-413A-4D33-9DEE-E1B05C03C86B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7301",
+              "numeric-id": 7301
+            }
+          },
+          "hash": "07a34c192d788b6403606756f4ea1813d2831617",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7283$60D857DF-0D5D-4039-9953-3523EF839DC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7229",
+              "numeric-id": 7229
+            }
+          },
+          "hash": "6b41d282a7a27c833a6e53cfacdecc77ad5c7ceb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7283$3C920593-B0B4-4C06-90DC-0081ADFBDC70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7274",
+              "numeric-id": 7274
+            }
+          },
+          "hash": "f9b1a5ed1bae97ea5b8f017cd0edb923b9ccf1ca",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7283$6B62AEC2-BCA4-473A-A143-CA2C96C1EF74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7283$01764A8A-34BF-4C89-9A48-49C92817D012",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0660-04-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab5b70efb170a5fd5b09202d95f69e90c3a69907",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7283$2103D163-3E04-4A51-A4A2-57455F1E4916",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0721-12-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c39edecf11e7481b4298da9766d4659bc9c15480",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7283$2D6503C2-849E-42D7-8050-7351BD16BAA8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Gemmei.jpg"
+          },
+          "hash": "bbbe9dc6edc91e126ed201d46d4bc4e125c21540",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7283$64BEA1A4-D2B2-46D9-8282-CB61F2B60DD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q233224"
+          },
+          "hash": "c490adb13bb4d420fe081d56510eb8f9a745fcb0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7283$90232784-FC43-48C5-8099-5A0B323130AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Genmei Arms.svg"
+          },
+          "hash": "2d21977acf4ddf38e506c0e11a08d3046fbde12d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعرة يابانية"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaerezh Japan"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk poet"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanische Kaiserin (43. Tenno 707–715)"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress regnant of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "tennoino de Japanio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperatriz de Japón (661-722)"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani valitseja ja luuletaja"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر ژاپنی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Japanin hallitsija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice régnante du Japon"
+    },
+    "he": {
+      "language": "he",
+      "value": "הקיסרית ה-43 של יפן"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Japán 43. uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "quarantatreesima imperatrice del Giappone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第43代天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제43대 천황 (661–721)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "japansk poet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (661-2002)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk poet"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "43na emperairitz de Japon"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk poet"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Gemmei"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本第43代天皇・奈良時代的第一位天皇"
+    }
+  },
+  "id": "Q7283",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطورة غيميه"
+    },
+    "az": {
+      "language": "az",
+      "value": "İmperatriça Qenmey"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "امپراتریس قمهای"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Emperatris Genmei"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gemmei"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Genmei"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپڕاتۆر گێنمێی"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gemmei"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gemmei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gemmei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Genmei"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Genmei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperatriz Genmei"
+    },
+    "et": {
+      "language": "et",
+      "value": "Gemmei"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتریس گمهای"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gemmei"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Genmei"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Genmei"
+    },
+    "he": {
+      "language": "he",
+      "value": "גנמיי"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "साम्राज्ञी गैमी"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Genmei"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Wanita Gemmei"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gemmei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "元明天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "겐메이 천황"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gemmei (imperatrix)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "元明天皇"
+    },
+    "min": {
+      "language": "min",
+      "value": "Maharani Genmei"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maharani Genmei"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Genmei Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Genmei"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Genmei"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Genmei"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gemmei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperatriz Gemmei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperatriz Gemmei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Императрица Гэммэй"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Carica Gemmei"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesarica Genmej"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gemmei"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gemmei"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பேரரசி ஜென்மெய்"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดินีเก็มเม"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperatris Gemmei"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gemmei"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ґеммей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gemmei"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "元明天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "元明天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "元明天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "元明天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "元明天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "元明天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "元明天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "元明天皇"
+    }
+  },
+  "lastrevid": 17407233,
+  "modified": "2025-09-15T22:32:25Z",
+  "ns": 860,
+  "pageid": 29777,
+  "sitelinks": {},
+  "title": "Item:Q7283",
+  "type": "item"
+}

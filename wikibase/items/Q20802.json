@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rusu Akimune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20802$A675B287-B44D-4912-A621-6CDD89837383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20802$4C11C923-2D00-4FDE-B270-F919A550127C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20802$9E420D95-0706-4889-899F-87B2223A7E97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19030",
+              "numeric-id": 19030
+            }
+          },
+          "hash": "93dc07bd3a202d5b7e39305099b46dd04f5a3659",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20802$4127C4E5-F4BE-4E7C-9E69-DED033826452",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20802$163435A6-8C92-4864-83A4-441ACB9BF87C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1519-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c51277701284f93d5e1761c49e2931a79b73b7b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20802$EB638B65-0FB0-4B0F-8532-CBD781E029D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1586-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9e513919cf38ddf45de5274a74c572d7b1501f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20802$F6F380AF-3147-4173-AEC9-3D5C84402AFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11578536"
+          },
+          "hash": "667358e07a7d4c93ff7b1d2f361bad7a2b14a8c7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20802$BD38D764-6821-4D5F-B878-A86BE31AF05B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rusu Akimune Arms.svg"
+          },
+          "hash": "c468437fbfdcd6f078352683ef848e7227f47340",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20802",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rusu Akimune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "留守顕宗"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акимунэ Русу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "留守顯宗"
+    }
+  },
+  "lastrevid": 17419754,
+  "modified": "2025-09-16T02:05:58Z",
+  "ns": 860,
+  "pageid": 42872,
+  "sitelinks": {},
+  "title": "Item:Q20802",
+  "type": "item"
+}

@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taidula //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q49008$90EF02F0-3A2F-4A6A-882E-F44C20B052C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "643301"
+          },
+          "hash": "864ffdc0609e06483ec58a55e6633e5cc4d2c40a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49008$6F87F016-AF6A-4112-B0C9-1961383A9C35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49012",
+              "numeric-id": 49012
+            }
+          },
+          "hash": "717292ae5630c2961736b90dc0b004c75d271a3a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49008$063A1200-7DF3-4A04-B04F-ECB27AFFE324",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49016",
+              "numeric-id": 49016
+            }
+          },
+          "hash": "8addcc15c7a28e1986d6d12ead236a03bf22c877",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49008$83BCD5D3-E153-4E4B-BBDB-A0F050A91F94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49008$AC229E87-FA00-41B7-9596-1C9CA6531D98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q49008$22A5A3A7-94A2-4530-B6A3-3DE0A36F2914",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45716",
+              "numeric-id": 45716
+            }
+          },
+          "hash": "5c794105aefb4979e41c1f386e0cb4b696658a7b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49008$C0931DF2-3B74-4858-98DA-510745EE33E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53592",
+              "numeric-id": 53592
+            }
+          },
+          "hash": "5747ea09abc7f52db741eb8fd7ca3d0396f9fdcd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49008$DE39EBA8-E641-40BD-AA65-AE206C692C04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49008$B0594D06-123C-4AB0-BF75-1CB0822BB147",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1361-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a47f9b099a92b029142e5a5ee089e8bbc2e77ce8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49008$72D807FC-ADC9-4648-9B79-8F87E0755CF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4449843"
+          },
+          "hash": "a9fb3b9bb0e4ef09fbe15e8d5cc37d097c92ea78",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49008$CEDD6068-00AA-4F96-8429-340E886732B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taidula Arms.svg"
+          },
+          "hash": "75e2a7f5d87eec0f459499e3bc51e63bb16fbe8b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Queen Consort of the Golden Horde"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khatan mongole de la Hode d'Or"
+    }
+  },
+  "id": "Q49008",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Taidula"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тайдула"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Taidula"
+    },
+    "de": {
+      "language": "de",
+      "value": "Taidula"
+    },
+    "en": {
+      "language": "en",
+      "value": "Taidula"
+    },
+    "es": {
+      "language": "es",
+      "value": "Taidula"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Taidula"
+    },
+    "it": {
+      "language": "it",
+      "value": "Taidula"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Тайдула Бегім"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Taidula"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Taidula"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Taidula"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Taidula"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Taidula"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Taidula"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тайдула"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Тайдула"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Тайдулла"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Taydula"
+    }
+  },
+  "lastrevid": 17454678,
+  "modified": "2025-09-16T11:01:16Z",
+  "ns": 860,
+  "pageid": 64426,
+  "sitelinks": {},
+  "title": "Item:Q49008",
+  "type": "item"
+}

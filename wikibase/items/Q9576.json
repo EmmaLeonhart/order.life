@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "源忠季"
+      },
+      {
+        "language": "en",
+        "value": "Yuan Zhong Ji"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9576$6FEDDE0B-E440-43EF-B05C-683441CC5FE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9576$11CDA57E-B525-462E-92F8-65BEBDEFDC35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9576$80BBCDB8-2AD7-4617-8E70-86F81C91563B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Zhong Ji Arms.svg"
+          },
+          "hash": "f761a227366ae65a2ea88046cbff2c3acf8c73c5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q9576",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yuan Zhong Ji"
+    }
+  },
+  "lastrevid": 17411200,
+  "modified": "2025-09-15T23:23:02Z",
+  "ns": 860,
+  "pageid": 32021,
+  "sitelinks": {},
+  "title": "Item:Q9576",
+  "type": "item"
+}

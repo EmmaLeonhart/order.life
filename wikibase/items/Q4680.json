@@ -1,0 +1,619 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julia Maesa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q4680$1EA47480-2453-407E-B5EB-ED75E6B51D5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351444"
+          },
+          "hash": "ecd07d0ee29691eb2eb25466c0b26d8ba10f98a3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q4680$3C7A7C53-C32B-42C8-A746-E79963461DBB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446879"
+          },
+          "hash": "5cbc9cf496b87ca6f02eb9b17a0039ec6aa01b13",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q4680$E3A3AEEE-E1D0-4872-8B71-17566F6ED0D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148329",
+              "numeric-id": 148329
+            }
+          },
+          "hash": "94c3192380d702cc6c4b5005a0a537eb1648a10f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q4680$6C677DFA-DE64-4649-8411-8F3B867A0C0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4681",
+              "numeric-id": 4681
+            }
+          },
+          "hash": "c26286d7d7b04834ab14b98729c30185928aa639",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q4680$266E11A1-420C-44B2-95F4-5F665E32B0C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q4680$E259A0A6-68EB-43DA-B437-B8D373CD4E48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q4680$502AF2CA-89B4-4DAF-BE4A-A16FC8E38F06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia_Maesa_(1)"
+          },
+          "hash": "595720ae6097b99e83a4530ed5d7028771584709",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q4680$319166CD-6BF3-4704-96C8-E7691B3BFAA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151864",
+              "numeric-id": 151864
+            }
+          },
+          "hash": "5ce0aae094f22082714c912fd16bfc6ae2ea4376",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q4680$CAFF9D86-B26F-4121-A6F9-BF235CCB1A88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64615",
+              "numeric-id": 64615
+            }
+          },
+          "hash": "38da2fa0d6ca4f1951f1d7c96cf5f0bf57c5c32f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q4680$91EA1A27-614D-47BE-BBF4-BD6B2EF9E049",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q4680$21FB3A0D-9A61-4975-8F73-72AA738DFDA5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0160-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "703fd2de453cdeabbfa26b4235f6f1f4429fe924",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q4680$BDCE622F-E5AD-4D95-BBDF-DC74FA8A2A9A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0224-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a6d97770fd9f6bccfb057903f0f07ab4bd6eba2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q4680$97F13DE9-5A69-46AE-8880-CF369DF2DE22",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "As-Julia Maesa-Sidon AE30 BMC 300.jpg"
+          },
+          "hash": "88a44bfae30a7fd50b0e93e63add78e274e2504c",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q4680$EE4DA311-505C-4CA2-BF78-94AB3F0D0CBC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q231258"
+          },
+          "hash": "f95d2d32e555bcf3aa9a681d7d93acdceac33153",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q4680$D7679851-E199-4F34-A7B0-6814614DA458",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia Maesa"
+          },
+          "hash": "fb7e5560b20f651a0505d04c99dcb2a60d219cc8",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q4680$899B6E1D-EC56-4577-B35F-20579254CFED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:33953"
+          },
+          "hash": "0d7d0b1de425b0b4dff41e713c3bf036d87ab63f",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q4680$0146938B-A948-4382-8A42-C3545C8170D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia Maesa Arms.svg"
+          },
+          "hash": "aa65a50fd3892cc7247d9ae379d88e8805d55645",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q4680$3D0511B5-3513-4CA9-8D61-3C9F21CE21F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/33bfac98-a0cd-44ef-8e77-e6da44574e14"
+          },
+          "hash": "0b07cfa6d985938aeea9c7684e572af5eeb18521",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "(~160-~224) dama de la família severa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schwester der Julia Domna, Großmutter Elagabals und des Severus Alexander"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαία αυτοκράτειρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "grandmother of Roman emperors Elagabalus and Severus Alexander"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble romana de la dinastía Severa, abuela de Heliogábalo y Alejandro Severo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "אצילה רומית"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana, nonna degli imperatori Eliogabalo e Alessandro Severo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Oude Rome (165-224)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императрица"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "babica rimskih cesarjev Elagabala in Severja Aleksandra"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mormor till de Romerska Kejsarna Heliogabalus och Severus Alexander"
+    }
+  },
+  "id": "Q4680",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يوليا ميزا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Julia Mesa"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юлия Меса"
+    },
+    "br": {
+      "language": "br",
+      "value": "Julia Maesa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Júlia Mesa"
+    },
+    "da": {
+      "language": "da",
+      "value": "Julia Maesa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Julia Maesa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουλία Μαέσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julia Maesa"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Julia Maesa"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Julia Maesa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julia Mesa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Julia Mesa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Julia Maesa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Julia Maesa"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליה מאיסה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "जूलिया मेसा"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Julia Mesa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giulia Mesa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユリア・マエサ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჯულია მაესა"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iulia Maesa"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Julija Mesa"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јулија Меса"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Julia Maesa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Julia Maesa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iulia Maesa"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Julia Maesa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Julia Maesa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Júlia Mesa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Júlia Mesa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юлия Меса"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Julija Meza"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Julija Maesa"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јулија Меза"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јулија Меза"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Julija Meza"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julia Maesa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Julia Maesa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юлія Меза"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جولیا مائیسا"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Julia Maesa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尤利亞·瑪伊莎"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "尤利亚·玛伊莎"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尤利亚·玛伊莎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尤利亞·瑪伊莎"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "尤利亞·瑪伊莎"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "尤利亚·玛伊莎"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "尤利亞·瑪伊莎"
+    }
+  },
+  "lastrevid": 17405623,
+  "modified": "2025-09-15T22:11:42Z",
+  "ns": 860,
+  "pageid": 25446,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q4680",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q4680"
+    }
+  },
+  "title": "Item:Q4680",
+  "type": "item"
+}

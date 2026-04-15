@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "津軽政兕"
+      },
+      {
+        "language": "en",
+        "value": "Tsugaru Masatake"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42757$E6FC796B-1AEE-416A-9AE8-44C4A8FEA477",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42757$C48D5358-55C5-4A54-A63F-9D9DB029758E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q42757$0569EC53-DD81-4578-BE74-1CAEFFEEB507",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38457",
+              "numeric-id": 38457
+            }
+          },
+          "hash": "5d273c0e3cc2b72955aaa636c0b4f1214eb8586f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42757$58ECDA77-8BD1-4F4F-A0A8-076CF014CE84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42757$63DC14CF-2C9A-4128-983D-07436683645C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1667-07-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cf864651a0ba094208176237d3b719a7026a5180",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42757$1BB91F2D-976A-4E9F-91A7-C2D64A1FA93F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1743-02-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5293f4088bd8f65fae1877090e7e239f71694fe5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42757$66EB0219-1D4A-4A90-AB4F-A65CA494BCEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11255679"
+          },
+          "hash": "e7ca217b9c9fd8dae274b66ae06976df9be3a71b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q42757$6BB3B3D6-E58A-427A-AC75-80A5996A612A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsugaru Masatake Arms.svg"
+          },
+          "hash": "4269fc29049cab9d4e6ea310ee80e20afbc61dc1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期から中期にかけての旗本"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "visser"
+    }
+  },
+  "id": "Q42757",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsugaru Masatake"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "津軽政兕"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쓰가루 마사타케"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "津輕政兕"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "津輕政兕"
+    }
+  },
+  "lastrevid": 17446614,
+  "modified": "2025-09-16T09:03:30Z",
+  "ns": 860,
+  "pageid": 59757,
+  "sitelinks": {},
+  "title": "Item:Q42757",
+  "type": "item"
+}

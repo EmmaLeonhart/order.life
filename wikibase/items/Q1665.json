@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Brawijaya I Kertawijaya or Bhre Tumapel III Majapahit 1447-1451"
+      },
+      {
+        "language": "en",
+        "value": "Kertawijaya (Maharaja Majapahit ke7: 1447-1451)"
+      }
+    ]
+  },
+  "claims": {
+    "P12": [
+      {
+        "id": "Q1665$6BD22BEE-CA1C-4BDA-958E-7EBE4B78C531",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Bhre Tumapel"
+            }
+          },
+          "hash": "260f1d314a0f74c9ec89d0d838413948a984a70e",
+          "property": "P12",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1665$F914421D-5582-4AB8-A566-845649360B80",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "King"
+            }
+          },
+          "hash": "7698d7aa0d8e436b5b9f0643ae5bbe0b31a52389",
+          "property": "P12",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q1665$8A9685D4-3A48-48CF-A4FC-7D26B89C1CF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153203",
+              "numeric-id": 153203
+            }
+          },
+          "hash": "215037171129ced8576573b40ee1e1304c545ef2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q1665$68F58739-9FC3-48BF-80A8-4CBE209C210D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1665$C971E3DE-D88B-421D-9E83-24787FA23259",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q1665$CA364DAF-E1CC-45FA-98D2-2CCC533E3D6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153206",
+              "numeric-id": 153206
+            }
+          },
+          "hash": "5fefdb23d1691973e975f5015fb1e72dd82cffbe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q1665$D389893B-2A01-4948-A2D9-BC16BE44855A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153208",
+              "numeric-id": 153208
+            }
+          },
+          "hash": "cf277e5183e0243b485e9f756b523621242fdaba",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1665$E33808D1-CA67-41DD-99DB-0AE9BF429EE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q1665$745E24D6-8825-4CB0-A0CB-2B816C924F8C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1390-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1f8595b52129b31ae10924a4b3c048d2fd91131b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q1665$8D48BD7A-CB5F-45A2-B7A6-FFA91609DEF9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1451-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "027edc7899cc0031da4b3a6432ba516abe9664df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q1665$139119E2-523A-417B-ADD5-A6F467388283",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Kertawijaya (Maharaja Majapahit ke7: 1447-1451) //"
+            }
+          },
+          "hash": "f7e0e9e807ef8af76ed2f5be23587dcc76b3a892",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1665$3C6F2ECB-3ABA-4ED6-938C-CF3CBB445D7E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Brawijaya I Kertawijaya or Bhre Tumapel III Majapahit 1447-1451 Arms.svg"
+          },
+          "hash": "8d2732b7141aeb2105c7ca2676ed3f098ecf8068",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q1665",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Brawijaya I Kertawijaya or Bhre Tumapel III Majapahit 1447-1451"
+    }
+  },
+  "lastrevid": 17404176,
+  "modified": "2025-09-15T21:33:16Z",
+  "ns": 860,
+  "pageid": 19742,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q1665",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q1665"
+    }
+  },
+  "title": "Item:Q1665",
+  "type": "item"
+}

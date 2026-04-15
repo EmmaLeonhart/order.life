@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shibukawa Yoshitoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15801$6BA138DC-547D-4A67-9B70-CC2AB6821E6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26481",
+              "numeric-id": 26481
+            }
+          },
+          "hash": "eb8e76ed13b57b50e61889182c3f6d2e8cab94ff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15801$E9BD9D17-5FBF-4928-96AA-E0451C90CEB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15801$7716E357-8EC7-4947-81D7-20926017293E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15801$20D9DCD8-66B0-49AB-934F-9ECF971FC98F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15801$459F7A2A-1911-4FB4-8273-00B277684ABC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "197ee9c87fa153ef60efdc36f9114e30d295e981",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15801$3BC2977B-5219-4FFB-BED0-9EF03B096662",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1434-12-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77d2d83560bbc1774e7e27b5d6ac7af42984f74d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15801$EFED00A2-BFE7-421A-B384-D9F9F75746E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11561595"
+          },
+          "hash": "06b501270f4b03e986f5932e8cb38e02c43b5034",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15801$73874E70-9EB0-4F34-A7FB-879DA3769038",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shibukawa Yoshitoshi Arms.svg"
+          },
+          "hash": "b89f0eadcb3782f2cbaee66a5ac44b1a9ef09b47",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q15801",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shibukawa Yoshitoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "渋川義俊"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시부카와 요시토시"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёситоси Сибукава"
+    }
+  },
+  "lastrevid": 17415460,
+  "modified": "2025-09-16T00:23:37Z",
+  "ns": 860,
+  "pageid": 38080,
+  "sitelinks": {},
+  "title": "Item:Q15801",
+  "type": "item"
+}

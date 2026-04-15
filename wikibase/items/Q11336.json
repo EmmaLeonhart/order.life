@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogasawara Nagakiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11336$5892723C-8C2B-479A-B534-389CB5352DBD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "952988"
+          },
+          "hash": "718d24e0cc0c027ea6ce9ac850c6033a46343e1c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11336$ABB25FC2-4051-437A-ABEC-60B461CDAD88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12163",
+              "numeric-id": 12163
+            }
+          },
+          "hash": "789766a300611633b1a3f4c08055a01b30364e4a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11336$C57DC3C9-B7B9-49BE-88EB-8483C59C6537",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12164",
+              "numeric-id": 12164
+            }
+          },
+          "hash": "2a8a27b659651343f8d075997c66af5bd7653b6d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11336$6C93B98C-042A-40C9-9113-AD54BC41F163",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11336$37038D38-B262-4F18-9C65-5FA41C7BE0DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11336$8B8E789B-4134-4128-806D-F2EB4197E3B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11336$1322FA2E-1C0A-4BFB-ADEB-85A11E534C5C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1162-04-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "131640efe0cff58fe912d96c8d2d6a8b8dc5aba6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11336$1AFDDEF1-D01A-4BDB-9A36-96E62FFDE029",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1242-08-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "246b75892563170be87e31834c25f462252c82a0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11336$B6A009EA-8086-40CC-AADD-F3314B1A2B4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7079829"
+          },
+          "hash": "7f83a1dae92ca03649782491e3e7419a23326782",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11336$F735A748-339B-4D54-981B-D2E883113FA8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogasawara Nagakiyo Arms.svg"
+          },
+          "hash": "9741aaebdd6180e75e0f1eeb402bf9d2d6c2fb85",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Bushi"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai of the early Kamakura period; founder of Ogasawara clan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期～鎌倉時代前期の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans bushi (1162-1242)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "samuraj zgodnjega obdobja kamakura, ustanovitelj klana Ogasavara"
+    }
+  },
+  "id": "Q11336",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ogasawara Nagakijo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوگاساوارا ناگاکیو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原長清"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагакиё Огасавара"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ogasavara Nagakijo"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ogasawara Nagakiyo"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "小笠原長清"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "小笠原長清"
+    }
+  },
+  "lastrevid": 17412890,
+  "modified": "2025-09-15T23:47:50Z",
+  "ns": 860,
+  "pageid": 33710,
+  "sitelinks": {},
+  "title": "Item:Q11336",
+  "type": "item"
+}

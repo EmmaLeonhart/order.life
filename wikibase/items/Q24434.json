@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "難波宗種"
+      },
+      {
+        "language": "en",
+        "value": "Nan Bo Zong Zhong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42621$E7C4DB12-7699-4D34-98E2-1D6143D8E923",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42621$F8EE7FD3-38B4-4DB1-AF05-3E08934B3E0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q42621$235F2D3D-0CCA-4C30-A12F-BB501DA8FA28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38349",
+              "numeric-id": 38349
+            }
+          },
+          "hash": "fb8ef51e9d870437288daea32174ba4d902071c2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42621$F145A4B4-B7FF-4AF3-B67B-416E62DB05E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42621$36674F05-0A58-496B-B20A-BE2B17975A8B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1610-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d3f36feac269cb32517134e6d0ad75cbbaef936",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42621$86AD6C20-022B-4603-9C9D-23FDF167F24B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1659-04-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1af5fceb8690dcf2742dde7db6196f42b7852e8c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42621$29D3A4A8-1374-4BF0-BD1E-264C22FE6061",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109923719"
+          },
+          "hash": "27d13b58477b8743ee7bb80c54775a8833dd70d6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "難波家15代。従二位・権中納言"
+    }
+  },
+  "id": "Q42621",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "難波宗種"
+    }
+  },
+  "lastrevid": 17446414,
+  "modified": "2025-09-16T09:00:44Z",
+  "ns": 860,
+  "pageid": 59655,
+  "sitelinks": {},
+  "title": "Item:Q42621",
+  "type": "item"
+}

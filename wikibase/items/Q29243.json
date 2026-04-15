@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Shanhua //"
+      },
+      {
+        "language": "en",
+        "value": "Princess Shanhua"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q29243$C8FC22FC-76B5-44FD-92DE-096796C833AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29243$5B46F279-5EF2-4F97-A5F0-03671E258ED1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29243$58A45126-443D-4D1B-80F2-5DF4B15AB95A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28492",
+              "numeric-id": 28492
+            }
+          },
+          "hash": "82ee93044bfe0afe6cfc1352e1787807ba70b5d1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q29243$E4FB6DCF-F129-409F-822E-F5D461109DC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30090",
+              "numeric-id": 30090
+            }
+          },
+          "hash": "510edb5313a3886e5fc0b3ae0bfff2f33d8ec6f1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29243$A54D6AD8-510E-4B4E-9EE3-D974AFB2524F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29243$697D6669-C89F-4CBB-9047-F1EE04897AAB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1503-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7dd5d8e8e5bb532b0c6160d66bd9d1c6e1ad03df",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29243$B494B637-5E36-4B7B-BAFC-156C75FECF49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10923422"
+          },
+          "hash": "44169f0e57f0e6c10f7c536b3f3c19c03e286baf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29243$E5F7A11C-8E0B-4F79-BE7B-A106727AB2B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Shanhua Arms.svg"
+          },
+          "hash": "38b6353e32c30afe920d0eea6e622fc74329bb5c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q29243",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Princess Shanhua"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Shanhua"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Shanhua"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "善化公主"
+    }
+  },
+  "lastrevid": 17428626,
+  "modified": "2025-09-16T04:44:12Z",
+  "ns": 860,
+  "pageid": 49651,
+  "sitelinks": {},
+  "title": "Item:Q29243",
+  "type": "item"
+}

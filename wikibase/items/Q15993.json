@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asahidono"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15993$0DA65621-0B59-4A71-9671-4FA5DEB3FBCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15426",
+              "numeric-id": 15426
+            }
+          },
+          "hash": "7a04e5b7742be588d40af4e2d59baf22abccfca2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15993$F91F5177-3B0C-4949-BA71-92F7F8236E92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15995",
+              "numeric-id": 15995
+            }
+          },
+          "hash": "6225c9fdb81ce05daf2cc67e6be68d82e43c30db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q15993$7CFC9E08-95F1-4B4C-A9C8-8E933F482A0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "杉原-4"
+          },
+          "hash": "54775a6bf77aa26077ef19e8611efe1776756f5a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15993$154A6311-5E09-4B11-94C7-442CC8FE1592",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15993$F0D47CBA-D636-408A-9EDD-B1CF051BFEFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15993$38E75B5B-D400-482B-84E6-957636CEED7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15992",
+              "numeric-id": 15992
+            }
+          },
+          "hash": "d8bb142a9ece4f971fa5487270d2db51cec7c81a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15993$5467AD9B-8983-44FD-8FED-DFF63B43EFC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26883",
+              "numeric-id": 26883
+            }
+          },
+          "hash": "1bdde6df6da109c5e8f8cd9ae975f26fdf8510eb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15993$76A8C443-DD5E-4431-85DE-6FA2B902384F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15993$65CA37A1-21CD-43F1-82AF-C770F937E4D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1598-09-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16b209f38904a12d738a54a01fcce56e352f6730",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15993$3F45D979-E84D-42C0-AD48-CD7586D22415",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asahi no tubone.jpg"
+          },
+          "hash": "27b5a5d779f32eca28c042cf2824f7ecaaeb5325",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15993$0B22BDAF-A687-4DF2-B6F4-EB10289521E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11517552"
+          },
+          "hash": "5592455bf5a1b8b0c4a9d4c2dd6162e815b7a7aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15993$424852E4-FDEC-4E60-BA9D-CA5B362BE794",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asahidono Arms.svg"
+          },
+          "hash": "bfd986c7a0884260d9656d2431f292d2a3356ae1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "-1598"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代・安土桃山時代の女性。杉原家利の娘。"
+    }
+  },
+  "id": "Q15993",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Asahidono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朝日殿"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Asahidono"
+    }
+  },
+  "lastrevid": 17415624,
+  "modified": "2025-09-16T00:25:54Z",
+  "ns": 860,
+  "pageid": 38267,
+  "sitelinks": {},
+  "title": "Item:Q15993",
+  "type": "item"
+}

@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tachibana Tanechika"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48580$CCA79D79-FE98-4ABC-9CDC-F138C49986B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56816",
+              "numeric-id": 56816
+            }
+          },
+          "hash": "e462025bbe07e2c01d43c6f73046303998660810",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48580$6457D65A-210A-4A34-BED6-A004ECB2DC0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49110",
+              "numeric-id": 49110
+            }
+          },
+          "hash": "aa848b22baf6cad7978194eaba5b9af7ead109b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48580$C1F41A39-E072-49EE-A2CE-8CF5CC80F17E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56819",
+              "numeric-id": 56819
+            }
+          },
+          "hash": "0eae24fa5c7962e66fcc4367cf45f783d77bc35e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q48580$92FC62E8-83BC-436B-B664-2E6812E5C092",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "立花-37"
+          },
+          "hash": "ffb01c5e2efbc99eeb3362742dcc0526692989dc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48580$78342150-3FDE-4970-B6D4-2C6EE9E07ED6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48580$DED550AE-465D-4FEE-AAA5-2B939EFA1288",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48580$6A9B3E12-D752-4ABA-B54C-98A22F2D1F7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24186",
+              "numeric-id": 24186
+            }
+          },
+          "hash": "4d88d75e5fec69ff84660801a9b67b16322d88fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48580$26A77279-CBA0-4880-BEE3-2AE7A1616459",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48580$0909280C-7CA6-4016-A04F-9E24FD09357C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1744-09-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "176cc652e093eb2d3a4ae5e871206b19e959a96d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48580$83BCDB9C-4907-4660-B90A-4C603A7E4E05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1809-11-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a905ffcad483eb5abfc3ff03f088ac238aaae18",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48580$6322B7D5-A94F-46E5-87DB-36466869147D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11598184"
+          },
+          "hash": "9ea6bc86ad04b6b5bedacd1695f5848b1d92f061",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48580$B99B1F7B-1EBF-4F0B-B8E3-908D54064A6E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tachibana Tanechika Arms.svg"
+          },
+          "hash": "d35bd2ebd0aeb4db287bd656ccbbf20c060a9d66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "14 Sep 1744 - 22 Nov 1809"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "筑後国三池藩の第6代藩主"
+    }
+  },
+  "id": "Q48580",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tachibana Tanechika"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "立花種周"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Танэтика Татибана"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tachibana Tanechika"
+    }
+  },
+  "lastrevid": 17454058,
+  "modified": "2025-09-16T10:52:22Z",
+  "ns": 860,
+  "pageid": 64106,
+  "sitelinks": {},
+  "title": "Item:Q48580",
+  "type": "item"
+}

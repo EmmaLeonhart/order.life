@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hatakeyama Shura"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18892$017AEE39-85E0-4C73-87B1-8A52752B9FA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18892$4F69E092-230E-4414-A7F9-622465747E67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18892$ED27749E-FB1E-4AC7-B8CA-E3E75C18091C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17352",
+              "numeric-id": 17352
+            }
+          },
+          "hash": "46eece31f06a83af241c5ade43013d91fe339823",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18892$907306E3-98ED-4E64-982E-25D5AA4D3F8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18892$CA4669A3-113E-4140-AA3F-9601E34F57FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1468-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "73dcb2fbff392ed092afa4da94d0d8a90f59938d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18892$C72B3DDE-924F-4121-BDDA-0D7C80579792",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1483-12-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e242c99c677c0e92bdc2bd16d24ed78a716a1bc4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18892$565FD6E6-1C14-4F81-B504-AA62DC3E310A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11578611"
+          },
+          "hash": "5b6075ae8a8c80bc6de19f8bc93e196cdc844f2b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18892$9BAC5FD7-C662-422A-BAE4-C8958971AB1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hatakeyama Shura Arms.svg"
+          },
+          "hash": "17e2b9eeda3eabf477066dbf23b8f5f6955109fe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q18892",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hatakeyama Shura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "畠山修羅"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сюра Хатакэяма"
+    }
+  },
+  "lastrevid": 17418226,
+  "modified": "2025-09-16T01:25:35Z",
+  "ns": 860,
+  "pageid": 41059,
+  "sitelinks": {},
+  "title": "Item:Q18892",
+  "type": "item"
+}

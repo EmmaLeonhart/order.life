@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ippen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13392$877E2A3E-EA22-44DF-BFE6-5E4228C1ECDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13392$E7021221-5CD7-41B1-9D20-7ABADE078897",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13392$F7E46C99-294C-4EF2-8B97-9CCF5FF8C2E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12675",
+              "numeric-id": 12675
+            }
+          },
+          "hash": "17055dc587203be9d0968df3295960bc1aeb7bec",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13392$843E1BED-C4D6-4F54-8387-8634F16622E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13392$84F158F4-0BAE-4691-8A53-A677E108A690",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1239-03-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4a11be45577ea8d5b4724e334ef3a55740e480c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13392$0DD857AE-38A7-4941-9DF2-44E54779C48A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1289-09-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f68d78aeec06df371d92bdc6d117a6ea46873ec3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13392$9330DEBC-C451-467C-90A2-A1905ED8F828",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ippen2.jpg"
+          },
+          "hash": "88e0c957fef8f9712260289f66e99627ad6b05d9",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13392$DDE661D7-990E-41DB-B1CB-76094F4BDA0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1056232"
+          },
+          "hash": "313e3013a3af77409c737a0344efb21b9a0e7e23",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13392$58DA8873-46D4-45AE-8E85-A7FDA8B30D76",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ippen Arms.svg"
+          },
+          "hash": "cf17c4040ae56ce7132d548086d534176905c5c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Mynach yng nghanol y cyfnod Kamakura"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Bhikkhuni"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese Buddhist monk, founder of the Jishu school."
+    },
+    "es": {
+      "language": "es",
+      "value": "Monje budista japonés, fundador de la escuela Jishu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "moine bouddhiste japonais, fondateur de l'école Ji shū"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の僧侶"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Bhikkhuni (1234-1289)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mnich w środku okresu Kamakura"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Menih sredi obdobja Kamakure"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Một nhà sư ở giữa thời Kamakura"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本镰仓时代中期僧侣"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日本镰仓时代中期僧侣"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本鎌倉時代中期僧侶"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日本鎌倉時期嘅中期僧侶"
+    }
+  },
+  "id": "Q13392",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ippen"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ippen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ippen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ippen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ippen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ippen"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایپن شونین"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ippen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "一遍"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ippen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ippen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ippen"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ippen Shonin"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nhất Biến"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "一遍"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "一遍"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "一遍"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "一遍"
+    }
+  },
+  "lastrevid": 17413980,
+  "modified": "2025-09-16T00:03:14Z",
+  "ns": 860,
+  "pageid": 35712,
+  "sitelinks": {},
+  "title": "Item:Q13392",
+  "type": "item"
+}

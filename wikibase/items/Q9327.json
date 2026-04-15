@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hata no Kawakatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9327$AD113D8E-F99D-48DB-8E52-BD07F58BD500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9742",
+              "numeric-id": 9742
+            }
+          },
+          "hash": "829c76e1c498fc7a2f3ee74ec840c776357c0e20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9327$05207761-505A-48F4-B9DF-38EE5BB68CC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9743",
+              "numeric-id": 9743
+            }
+          },
+          "hash": "9bb1198738c1ebda57de3c5d579713d02782c9db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9327$9C742F57-981D-48BD-9544-4DC633B115EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9327$B9E42A1F-6DF9-44B2-BA1F-53E807D2F2CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9327$71C5E6DB-43BD-4672-A0A2-ADEB17046BA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9327$07EA83E8-D86E-4C59-9B06-AB2F21541238",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb63a5717fc2add5321928b44ca68c774cde0d35",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q9327$D2C8DE6E-2F32-496C-8B2D-07313AE82D89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hatano Kawakatsu.jpg"
+          },
+          "hash": "b8082edd19a33dea6deb049013af11d5a389c99b",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9327$9EF816A8-F47E-4A8C-824F-E7B0DC083182",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5680877"
+          },
+          "hash": "7b56432dbd805c926083e66601587c88d8a15871",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "government official in the Asuka period in Japan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "飛鳥時代の官人。聖徳太子の近臣。秦宇志-秦丹照-秦河勝。または秦国勝の子。大花上。子に秦尊良（子に秦久能忠仁）"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본 아스카 시대의 관료"
+    }
+  },
+  "id": "Q9327",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Hata no Kawakatsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hata no Kawakatsu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هاتا نو کاواکاتسو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hata no Kawakatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "秦河勝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하타노 가와카쓰"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hata no Kawakatsu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hata no Kawakatsu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "秦河勝"
+    }
+  },
+  "lastrevid": 17410738,
+  "modified": "2025-09-15T23:16:23Z",
+  "ns": 860,
+  "pageid": 31790,
+  "sitelinks": {},
+  "title": "Item:Q9327",
+  "type": "item"
+}

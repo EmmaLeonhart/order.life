@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "源春子"
+      },
+      {
+        "language": "en",
+        "value": "Yuan Chun Zi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15212$19432A8E-080A-4385-9DCB-F56F0429A649",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15212$A057BACF-F4BB-4F84-8875-5E3FF09B34F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15212$6634F7DD-B3FD-4525-BF99-5060AC2E67DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Chun Zi Arms.svg"
+          },
+          "hash": "f75db4ddac291b04e75034dc756137c15f5405cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q15212",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yuan Chun Zi"
+    }
+  },
+  "lastrevid": 17414998,
+  "modified": "2025-09-16T00:17:15Z",
+  "ns": 860,
+  "pageid": 37502,
+  "sitelinks": {},
+  "title": "Item:Q15212",
+  "type": "item"
+}

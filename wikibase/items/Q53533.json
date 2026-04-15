@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "陳伯茂"
+      },
+      {
+        "language": "en",
+        "value": "Chen Bo Mao"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53533$A75D8FB2-5B95-440F-8A6E-085E94D0D9C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53533$1C68B52F-F2C4-4F7E-81BD-540B223711CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53533$AA3BC769-E6BD-4B04-9144-22373D1E3ABA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45070",
+              "numeric-id": 45070
+            }
+          },
+          "hash": "e2bbb99525e69b04a03caaa6969bc79c006eeff2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q53533$71600E37-C0B6-48EA-806F-102CB158F190",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53485",
+              "numeric-id": 53485
+            }
+          },
+          "hash": "1fa97ea0194357b7fab5396ba55462589ab1c9e6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53533$8939631D-D1FC-4A7C-9803-0548E62C48D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53533$1E08A8AF-F09E-425B-A47F-269BB8E4ED19",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0551-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c49fafac44e6a1a7f367263c1a571c2abce024c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53533$B7F25D71-3F8E-4AF6-8773-63EFF134E798",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0568-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f5f3c6b3c0cba5f58e2b29fecb97d06badb127d7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53533$7A8FBCF8-E7B3-4806-B51B-DE0242BEB528",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11658305"
+          },
+          "hash": "aeb112cfd5bf8ba103910c29e2b0070a30a3cccb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53533$C7D92CFE-A366-481C-93B9-BC0408750686",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tran Ba Mau Arms.svg"
+          },
+          "hash": "aa1548f8fceb933b46915ec5170f021a4e4c1250",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q53533",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tran Ba Mau"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "陳伯茂"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trần Bá Mậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陳伯茂"
+    }
+  },
+  "lastrevid": 17460440,
+  "modified": "2025-09-16T12:26:10Z",
+  "ns": 860,
+  "pageid": 68364,
+  "sitelinks": {},
+  "title": "Item:Q53533",
+  "type": "item"
+}

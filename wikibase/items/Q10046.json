@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Meisen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10046$411F4385-E046-49F3-BB04-BC859119D4BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10046$43EF57C1-471A-4692-8413-0786B76EF8DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10046$DD1EE295-5F17-466A-A150-2269C04CAE97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9621",
+              "numeric-id": 9621
+            }
+          },
+          "hash": "edb36a48a8328437b9034b7b657b5fa07b503cc9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10046$75E97559-627C-46B9-8067-AD0C93DAFE30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10046$7D224B48-1E45-4E75-AB23-722094BB7808",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1059-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a3fb5f036e70cba032359b82601d6917099bcd0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10046$8729FCF9-3B45-43D7-858A-B9E90651A89B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1123-10-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "283711ce36278eb49f63e9d8bf888b11f99f0dcd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10046$0F2C1888-9939-4771-B10E-5EBFA600B9F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11512257"
+          },
+          "hash": "6682d927fe65800632e520a5924ed356b46ab20e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10046$660C1C46-6C28-4BDB-A2F4-20E85423E7E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Meisen Arms.svg"
+          },
+          "hash": "253ac791cbf69eb7b697587258199b86e91e96d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期から後期の雅楽家、興福寺の僧。堀河天皇に賞されて宝笛を与えられた"
+    }
+  },
+  "id": "Q10046",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Meisen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明暹"
+    }
+  },
+  "lastrevid": 17405568,
+  "modified": "2025-09-15T22:10:58Z",
+  "ns": 860,
+  "pageid": 32470,
+  "sitelinks": {},
+  "title": "Item:Q10046",
+  "type": "item"
+}

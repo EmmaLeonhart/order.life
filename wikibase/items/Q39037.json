@@ -1,0 +1,411 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kuchlug //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q39037$A48893E9-481E-4AE7-9EA9-F173135CB411",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00566552"
+          },
+          "hash": "5b0d77102ba15e796871300b0c11daa89b764933",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q39037$F91AF3DD-8388-4863-AFAA-23E73A5079DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37460",
+              "numeric-id": 37460
+            }
+          },
+          "hash": "9280c44c340d994f31e5c7f6058dd084bf565f0f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39037$D4EE3524-8B06-41EF-AAE5-637A105DC165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39037$43CF585C-B689-4D1D-BA30-085153E6506C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q39037$159C189D-C448-4C3E-9AA0-8A8E139D30EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40919",
+              "numeric-id": 40919
+            }
+          },
+          "hash": "92ac77bfe9059dd87b75ef7ed33910af88a64607",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39037$BBF9B5FB-C627-4075-BD84-8FFDA05DADB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40702",
+              "numeric-id": 40702
+            }
+          },
+          "hash": "9ec1afdaabd8d1c1e140e3ac147f849249549f34",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39037$A256E82F-6CD6-45E5-935B-B1179F4C9E67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39037$8A90D786-03D2-4660-885C-6F699A2BB981",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1156-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d949dc83bb709f644ea6c77b9b6b7d532d2b8ae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39037$8CA625AF-72A0-437E-8BD8-88240F626325",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1218-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5602e4f3f1a75afb66fcb8e94a7359c4a0ccfc8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39037$73CF9103-0ED1-413C-99D8-0D4360E60DE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1071957"
+          },
+          "hash": "140713fb868cbf9c6c524ff470b4879fffa7544b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39037$3FB969B8-8D7D-4D32-B564-76144A7F1589",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kuchlug Arms.svg"
+          },
+          "hash": "1e47633dae8f013d1839668274d383ec5ce23ce7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "kan dels kara khitai (1211-18)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongol Khan"
+    },
+    "es": {
+      "language": "es",
+      "value": "líder de la tribu Naiman de Mongolia occidental en el siglo XIII"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Condottiero uit Mongolië (?-1218)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蒙古汗"
+    }
+  },
+  "id": "Q39037",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كشلو خان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Quchulv"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kuçluk xan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kutxlug"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Güčülüg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kuchlug"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kuchlug"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kutšluk"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کوچلک خان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kütchlüg"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kuchlug"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kuchlug"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クチュルク"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Күшілік хан"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쿠츨루크"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Күчлүк хан"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "屈出律"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хүчлүг"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kuchlug"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kuchlug"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Küczlük"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кучлук"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kuchlug"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "குச்லுக்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kuçluk"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "كۈچلۈك"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кучлук-хан"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Kuchluq"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Khuất Xuất Luật"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "屈出律"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "屈出律"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "屈出律"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "屈出律"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "屈出律"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "屈出律"
+    }
+  },
+  "lastrevid": 17441792,
+  "modified": "2025-09-16T07:55:16Z",
+  "ns": 860,
+  "pageid": 56972,
+  "sitelinks": {},
+  "title": "Item:Q39037",
+  "type": "item"
+}

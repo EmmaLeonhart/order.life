@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shishido Motoyoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q42822$9020930D-A9EF-408D-9D03-21054C4FE728",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38522",
+              "numeric-id": 38522
+            }
+          },
+          "hash": "9853c01c69d53a7d69a6612738e762d13c0ff385",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42822$12C1A3E2-D087-4765-A933-2BB1E9EE23D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49733",
+              "numeric-id": 49733
+            }
+          },
+          "hash": "e9284911a57f1c0ffd112bceeabd0ff8e3f78cbb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q42822$F3B5027F-08FC-4C53-A0DC-B5453F0AF816",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42822$01712430-E92B-496B-BF4E-442E5F02F92F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42822$443EAF45-C020-464E-BF46-B3B8670CDBDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42822$F229C87D-2010-48AD-87FA-D3D9D725E73B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1542-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4ca4e1a84c87212c9cf9f7f6729aa2ac07cb7130",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42822$41F00109-311F-4AA7-B3BC-212FC5506030",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11451773"
+          },
+          "hash": "6cc4a361befa9682ec3ae3132f89fcf15bb59e57",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q42822$9A4FEF90-1F26-4D5C-B10B-A3CB098E9F8A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shishido Motoyoshi Arms.svg"
+          },
+          "hash": "70b3ad82438a29a9a0335696a95ed043f4b42c35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q42822",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shishido Motoyoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "宍戸元源"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мотоёси Сисидо"
+    }
+  },
+  "lastrevid": 17446698,
+  "modified": "2025-09-16T09:04:37Z",
+  "ns": 860,
+  "pageid": 59805,
+  "sitelinks": {},
+  "title": "Item:Q42822",
+  "type": "item"
+}

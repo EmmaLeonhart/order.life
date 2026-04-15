@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kamo no Tadayuki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8342$B197EAFC-8F81-42BF-B4C4-6E1DECC8FEAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8660",
+              "numeric-id": 8660
+            }
+          },
+          "hash": "0fe58adc5dba2ae075515abfb33eb04aaaef3952",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8342$D07B0041-06DB-4EAC-837A-7A9AB42D279D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8661",
+              "numeric-id": 8661
+            }
+          },
+          "hash": "1149d9bcebea6a9d9d10b422f0f3d844267d1239",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8342$73FF0072-2FBB-4A93-B448-8370628E09D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8342$1627D8D8-5522-487B-B819-38E4F59B616D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8342$6A0E4710-A159-465B-A172-78319776E355",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8342$03693183-4111-4513-92BA-3E08B8A3E945",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8342$D630E837-E83B-474E-A2E6-C71F43BEF3F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11634938"
+          },
+          "hash": "8954e1b090eff5fd9f8b87da60965d20bfa22e2d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "onmyouji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安倍晴明の師としても知られる陰陽家"
+    }
+  },
+  "id": "Q8342",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kamo no Tadayuki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kamo no Tadayuki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kamo no Tadayuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "賀茂忠行"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "贺茂忠行"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "賀茂忠行"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "賀茂忠行"
+    }
+  },
+  "lastrevid": 17408626,
+  "modified": "2025-09-15T22:49:46Z",
+  "ns": 860,
+  "pageid": 30829,
+  "sitelinks": {},
+  "title": "Item:Q8342",
+  "type": "item"
+}

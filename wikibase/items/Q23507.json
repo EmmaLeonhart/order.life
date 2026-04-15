@@ -1,0 +1,477 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Guifei"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q23507$9E3352E7-CF40-48E5-B6AA-01D340E2ADB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00428293"
+          },
+          "hash": "1e9b2dcd08c1a64e6800f144b82163143d4c7c4a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23507$9FBBA877-5B88-4EB5-98A2-EB0BB1EEF470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23507$9C74DBCB-A006-4321-9A3A-C73E88C39DB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23507$F4A95BD1-4FBC-480A-BA13-8253D974B6C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "4751af75f444456a01daf8eff9b811cd34b52971",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23507$B53A9B3B-86FA-46FB-BB6A-384934AA975E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40801",
+              "numeric-id": 40801
+            }
+          },
+          "hash": "07d977601668d38098d42006eb8b1cab568231a3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23507$D6500C46-3601-4B5B-938B-84B89B04C73C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46087",
+              "numeric-id": 46087
+            }
+          },
+          "hash": "a6f1a77fde6ee7085d2f25dc38887b80ec6c1714",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23507$4B96BF68-4338-4D83-8613-0A7FF5DA71CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23507$7384CB38-FEF4-499D-B9D1-792D7B808806",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0719-06-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a461a833673154b4c1b053701fa790899adedbab",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23507$FF4546CE-4177-4478-9187-F7352CF6664E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0756-07-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f861cc74d5b1fb2b659dde31c5d188a055432c4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23507$0510924F-F461-4F5E-BAF8-DC5BF5C0BC2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q298046"
+          },
+          "hash": "a5abed2373ea76728f6f22d96277ef565bd72b93",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23507$2EF1B483-37DA-4CDC-9794-A484C4A3D579",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Guifei Arms.svg"
+          },
+          "hash": "dbb60aa2799b0d289cec4c23e30e8fbf2fa63ace",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "concubina imperial de la dinastia Tang"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "manželka a oblíbenkyně Süan-cunga"
+    },
+    "de": {
+      "language": "de",
+      "value": "chinesische Konkubine des Kaisers Xuanzong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty imperial consort (719–756)"
+    },
+    "es": {
+      "language": "es",
+      "value": "concubina imperial de la dinastía Tang"
+    },
+    "et": {
+      "language": "et",
+      "value": "Tangi dünastia ajal elanud konkubiin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "une des quatre beautés de la Chine antique"
+    },
+    "it": {
+      "language": "it",
+      "value": "una delle quattro bellezze dell'antica Cina"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中国唐代の皇妃"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고대 중국의 4대 미녀 중 한 명"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "favorittkonkubinen til keiser Xuanzong"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijfster uit Tang-dynastie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "konkubina cesarza Xuanzonga z dynastii Tang"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "consorte imperial da dinastia Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "танская наложница и фаворитка императора"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "cesarica žena dinastije Tang"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phi tần của Đường Huyền Tông"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中國唐朝人物"
+    }
+  },
+  "id": "Q23507",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Guifei"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Yang Guifei"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jang Kuej-fej"
+    },
+    "da": {
+      "language": "da",
+      "value": "Yang Guifei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yang Guifei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Guifei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Guifei"
+    },
+    "et": {
+      "language": "et",
+      "value": "Yang Guifei"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یانگ گویفی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yang Guifei"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yang Guifei"
+    },
+    "it": {
+      "language": "it",
+      "value": "Yang Guifei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楊貴妃"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "양귀비"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊貴妃"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯌꯥꯡ ꯒꯨꯢꯐꯩ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Iûⁿ Kùi-hui"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Yang Guifei"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Guifei"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yang Guifei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Yang Guifei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Yang Guifei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ян-гуйфэй"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Yang Guifei"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Yang Guifei"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Yang Guifei"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Yang Guifei"
+    },
+    "th": {
+      "language": "th",
+      "value": "หยางกุ้ยเฟย์"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "ياڭ گۈيفېي"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ян Ґуйфей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dương Quý Phi"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "杨玉环"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "楊玉環"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杨贵妃"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "杨贵妃"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨贵妃"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊貴妃"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "楊貴妃"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "杨贵妃"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "楊貴妃"
+    }
+  },
+  "lastrevid": 17422504,
+  "modified": "2025-09-16T03:04:44Z",
+  "ns": 860,
+  "pageid": 45417,
+  "sitelinks": {},
+  "title": "Item:Q23507",
+  "type": "item"
+}

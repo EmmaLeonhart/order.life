@@ -1,0 +1,201 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32872$457BB724-B2E0-4807-874C-C5D49F8E1B67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32872$61630890-92E1-4338-A4D9-9ECD2C945C57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32872$61F8CEBA-56D8-4BAC-BF3F-8E8ED6E4EC42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93311",
+              "numeric-id": 93311
+            }
+          },
+          "hash": "9c5555453963ede1483fd93d3cc218336624fa93",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32872$1BEBFF88-DC11-46A4-ADED-E41E88578E51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31605",
+              "numeric-id": 31605
+            }
+          },
+          "hash": "d59f0006bb38461f33ed9cc721c73dcd9484e554",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q32872$944772F8-1A0F-474F-897A-18FB41660FBF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Isabel /Polanco/"
+            }
+          },
+          "hash": "4a3bcdadbef2dad26195a5ac316af0d4b1aa755d",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32872$D453338C-94D2-4791-85ED-0548C5B19FEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32872$BF819335-48B8-4BA9-8376-8A698705B84C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1530-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbcff4ddddcfadf2bcc56bcd78de209389d12c06",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q32872$F61C0011-2C87-403F-92F6-4BED4129FCA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000078405056870"
+          },
+          "hash": "18820b06a6250f956505d3ca0814ac35649e7bdd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32872$99004632-4154-43BE-A146-EC53F2055007",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabel  Polanco Arms.svg"
+          },
+          "hash": "afc25b1d91159a2ff548fc515908c3e51c8315a8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q32872",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isabel  Polanco"
+    }
+  },
+  "lastrevid": 17433370,
+  "modified": "2025-09-16T05:53:03Z",
+  "ns": 860,
+  "pageid": 52365,
+  "sitelinks": {},
+  "title": "Item:Q32872",
+  "type": "item"
+}

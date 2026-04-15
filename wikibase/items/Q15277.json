@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kusunoki Masatsura"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15277$C378AFB1-024F-4CE9-B84B-7DA94939360A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15277$D76830A3-AEC9-419E-AD5B-D2B57A963131",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15277$4D787AFD-7A45-4597-A34C-F1F623729813",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15741",
+              "numeric-id": 15741
+            }
+          },
+          "hash": "6834c865cd4c43733b41776761a76b0be2b32b4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15277$366CEDD0-930B-417E-BFFE-425F0ED95604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15277$3A4E019A-A1F6-4B12-8D8B-A3607D320029",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1326-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01181f7beaf292b5e4a8c8275f3354f58d3db41e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15277$1E9A46FB-1A99-4FDF-A267-F4753A588EEC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1348-02-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19a728678932682d071cca49bc3338481dcda731",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15277$216634D0-D3BA-4F9F-AD76-25133E810C88",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Portrait of Kusunoki Masatsura2.jpg"
+          },
+          "hash": "0d5cd0f37ab7d73a7221ecbb6279c9620abc42e9",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15277$AD423F32-910D-48C5-AA8C-CA99D5B688D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q966298"
+          },
+          "hash": "ed2c0f11803911cfd81a13a4d43e964dcf58c348",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15277$3C948231-EC2A-4F21-BDB7-F9081FD79182",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kusunoki Masatsura Arms.svg"
+          },
+          "hash": "0b8bb0fffcc2f00c050f0ba23e91f198b173cc03",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1326–1348)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1326-1348)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński samuraj"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1326 – 1348)"
+    }
+  },
+  "id": "Q15277",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kusunoki Masatsura"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Masacura Kusunoki"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kusunoki Masatsura"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kusunoki Masatsura"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kusunoki Masatsura"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کوسونوکی ماساتسورا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kusunoki Masatsura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楠木正行"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kusunoki Masatsura"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масацура Кусуноки"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kusunoki Masatsura"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kusunoki Masatsura"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楠木正行"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "楠木正行"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楠木正行"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "楠木正行"
+    }
+  },
+  "lastrevid": 17415060,
+  "modified": "2025-09-16T00:18:06Z",
+  "ns": 860,
+  "pageid": 37567,
+  "sitelinks": {},
+  "title": "Item:Q15277",
+  "type": "item"
+}

@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jishoin"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q16916$34CD7696-E305-46E2-A694-20720DCA08EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "前田-63"
+          },
+          "hash": "92da0a66f1b11c194e231528efc53ff2d44ad044",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16916$7A5CA35D-2351-4F34-9C65-AC6E7FB7C4B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16916$291CD21A-45ED-47D7-AC4D-93D058150BD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16916$0CCD6A59-C5C0-4B88-A55A-0EAD5067DF7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16024",
+              "numeric-id": 16024
+            }
+          },
+          "hash": "48845195cc9b623c041f86def2b5f6b3e95cab14",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16916$23F56666-27BE-4529-8C51-4FF0735B8BE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16122",
+              "numeric-id": 16122
+            }
+          },
+          "hash": "5f13378435d2d7a28a86872d3b597782a3cedb47",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16916$781F8826-0215-48C0-8C25-6842E679554F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16916$F73474C1-82B8-40CA-9022-635762984798",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1620-01-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db420e7ca607950eb723e28e0a50fb72147c7b96",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16916$7FEAADE5-9C87-40CA-8845-5350831C565F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1700-09-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af87b5ba5e0da2ed4713d9a92ef18a8f92682489",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16916$EC4D2C93-9164-4922-BA3A-0D3BADDE5E10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11612770"
+          },
+          "hash": "6d33fc5ccad039795a91bf59f1ef42ff1d424eef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q16916$863F5B8D-AA1E-4BDD-9425-444153E1D067",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Jishoin"
+          },
+          "hash": "6e5ac9b532c882eb56fc960b56c1f108e0e33282",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16916$F0416CCE-CC36-4FD1-BB96-C195388B802A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jishoin Arms.svg"
+          },
+          "hash": "f6b781ff82e78e4325cd20032b957321ba10e1c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera Tošicuneho Maedy"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1620-1700)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1620-1700)"
+    }
+  },
+  "id": "Q16916",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Džišóin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jishoin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jishoin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "自昌院"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Jishoin"
+    }
+  },
+  "lastrevid": 17416468,
+  "modified": "2025-09-16T00:42:16Z",
+  "ns": 860,
+  "pageid": 39164,
+  "sitelinks": {},
+  "title": "Item:Q16916",
+  "type": "item"
+}

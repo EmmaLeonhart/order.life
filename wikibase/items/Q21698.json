@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manjujidono"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21698$3A713F41-E8B1-4D02-8E5D-1ADB91A76B6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21698$664EF05E-7059-4700-AB89-7272E13692D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21698$B7D87283-F9E5-472D-886E-82EE6A75EF58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19738",
+              "numeric-id": 19738
+            }
+          },
+          "hash": "c60fcc1bd81896f44a159fc7171b4cf203c1874e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21698$83E6EEA0-E0C9-4E35-AD02-A16268D34327",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21698$9E5E6618-CB10-43A4-85DA-B25B78683BA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1659-04-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a762cce4e9d529544685e3a55d02e804a7ed1d1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21698$93775EEE-9040-4633-B8B5-349DB790ED1B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1706-08-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89388dc5c5f6ff406d58fba58a5f7d33511dac5c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21698$10EC3AB3-3F0C-4681-A260-2BE9DC917986",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17210866"
+          },
+          "hash": "a475e157848d5f9abc15aaaf2bff795575e6e984",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21698$0A2602FC-BCF2-4F34-BD8A-C1C0DB35D0A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manjujidono Arms.svg"
+          },
+          "hash": "0d99aff37f85ae5b902fd30e7c7d013896132359",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "第4代仙台藩主伊達綱村の正室"
+    }
+  },
+  "id": "Q21698",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Manjujidono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "万寿寺殿"
+    }
+  },
+  "lastrevid": 17420754,
+  "modified": "2025-09-16T02:26:04Z",
+  "ns": 860,
+  "pageid": 43712,
+  "sitelinks": {},
+  "title": "Item:Q21698",
+  "type": "item"
+}

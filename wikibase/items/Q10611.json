@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gien"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q10611$AD4A99AC-26D4-4552-B55C-1EF272BB6DC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814305"
+          },
+          "hash": "044c30c144baa669e889a47a990b5dc9727cee5a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10611$4C7C9483-D29C-49D5-B545-8897D81F3C39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10611$F2AB0C97-AAA7-494F-9E67-0747E2039C49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10611$729BC69E-0C60-461B-B4A2-C684D4CB0430",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10601",
+              "numeric-id": 10601
+            }
+          },
+          "hash": "1f07e38a129531dc72f308ebcd3d09b817da530f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q10611$D9A4DDC5-EB39-47E9-8865-CF80F7D02E3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11262",
+              "numeric-id": 11262
+            }
+          },
+          "hash": "6a2edfa206e779458236d40aeaa0bddb6f1d0a25",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10611$B11F06DF-EA9C-49A6-8F22-E935FA751B4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10611$7021E75B-54EB-4B1E-8F34-8C9127D2E735",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1155-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b9370af71f69694b4f3d5a08f80002fbcf4f98f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10611$E0B61B19-142F-4D45-ABE3-82CF8F3D43C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1181-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cb710e664cd2f6f13c89f74f7c360d27528be53",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10611$9584A63F-F62F-4D03-81DF-95C99C54CD1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11609929"
+          },
+          "hash": "b708f18af05ab27056dfc0f56ed2dd24bccf7478",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10611$FA269190-87A7-4E45-8618-D16E7A61FCA0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gien Arms.svg"
+          },
+          "hash": "103b76b391bce32e5d58820d4b92f90fa404faab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Minamoto no Yoshitomo; monk of the late Heian period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の僧侶"
+    }
+  },
+  "id": "Q10611",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gien"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gien"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gien"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gien"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "義円"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gien"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "義圓"
+    }
+  },
+  "lastrevid": 17412402,
+  "modified": "2025-09-15T23:40:18Z",
+  "ns": 860,
+  "pageid": 33012,
+  "sitelinks": {},
+  "title": "Item:Q10611",
+  "type": "item"
+}

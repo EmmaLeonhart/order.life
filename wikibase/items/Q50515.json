@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "島親典"
+      },
+      {
+        "language": "en",
+        "value": "Dao Qin Dian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50515$4BE9FB2B-A68C-41CC-9061-CFEFDA72E379",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50515$8FF90DC5-9A38-458B-916E-90CE7920BC99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50515$64094403-24E0-4E49-B3AB-2F9511F32517",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24755",
+              "numeric-id": 24755
+            }
+          },
+          "hash": "7a4efb4808e64f2d6ea0ffeed627322f239ac55b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50515$66A3992A-9B59-49AA-B206-92BD69A83BF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50515$A06302D3-49DA-4273-8EE2-BE02A31EC97E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1594-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "87afd0585500bb93e37f4130975d89e9dbcf69df",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50515$7D660CB7-05ED-4B2F-915B-F50AC7C16705",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1661-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "700098b0326eccc825ee707e4646940e79802771",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50515$B08368FB-DAB6-4693-82F6-B76B67E669B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108866698"
+          },
+          "hash": "35c48ef76f14cab12303e4d4d9966691308b6959",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "大坂の陣で豊臣方に参戦。土佐藩士（下士）"
+    }
+  },
+  "id": "Q50515",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "島親典"
+    }
+  },
+  "lastrevid": 17456768,
+  "modified": "2025-09-16T11:31:45Z",
+  "ns": 860,
+  "pageid": 65551,
+  "sitelinks": {},
+  "title": "Item:Q50515",
+  "type": "item"
+}

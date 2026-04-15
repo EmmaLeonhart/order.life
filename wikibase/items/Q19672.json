@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Suwa Yorimitsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19672$B04BFAB0-2490-4258-A9AA-4606AB0729FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18059",
+              "numeric-id": 18059
+            }
+          },
+          "hash": "77d3c2bf2df51a0cd6bb4aae897b5c3b702e18bf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19672$BA30BB75-BC20-4558-8F52-46B8035A8CC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19672$0B455A94-52C6-4449-AA1A-7EA296C89FC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19672$B50EEB12-E0B4-4E98-A9AF-ED07F8C46A62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19672$83829F9A-9B9C-46F6-933B-045A08DF59A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1480-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93ba506e3ca5c837d9c85d6458761482126e70f5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19672$7D4346B6-CFD6-4D34-AEA5-2F45EB17F70A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1540-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "937f818de74193b35afad33ff3e363bf772e0663",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19672$245FB060-CE83-4409-A6BF-1C51C775F524",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7650544"
+          },
+          "hash": "3d525c938325f09130e8c62d45c96208a911a3d6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q19672$7E447A3C-DE8D-47CE-A430-79B71CAF44F4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Suwa Yorimitsu"
+          },
+          "hash": "501990335c418720403840504874d41796558663",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19672$BE5328DD-6128-4DC0-89FE-514B54EA37F3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Suwa Yorimitsu Arms.svg"
+          },
+          "hash": "e2f195eb133862e01afa0cea4dd6ef24e7eeddcd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1480–1540)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo in the Sengoku period Japan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国大名、諏訪家当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1480-1540)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1480 – 1540)"
+    }
+  },
+  "id": "Q19672",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Suwa Yorimitsu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jorimicu Suwa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Suwa Yorimitsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Suwa Yorimitsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Suwa Yorimitsu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سووا یوریمیتسو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Suwa Yorimitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "諏訪頼満 (安芸守)"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Suwa Yorimitsu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Suwa Yorimitsu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёримицу Сува"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Suwa Yorimitsu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Suwa Yorimitsu"
+    }
+  },
+  "lastrevid": 17418910,
+  "modified": "2025-09-16T01:41:42Z",
+  "ns": 860,
+  "pageid": 41782,
+  "sitelinks": {},
+  "title": "Item:Q19672",
+  "type": "item"
+}

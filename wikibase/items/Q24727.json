@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oyama Sadatomo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24727$84F2E829-7327-4EC9-B630-C63F44D150A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38998",
+              "numeric-id": 38998
+            }
+          },
+          "hash": "43e004f18d55002a8d19ac31d151564da4d9406d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24727$8756D904-542C-4C3E-B9D6-EBED24806310",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24727$0746AD93-3AB5-43CB-896B-133CF7DBBB43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24727$1488CD7B-DA6C-4C95-84AE-901E7B70D3EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24727$B3143BFF-6EDB-4AC8-BD55-8571BF297629",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1282-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "144436174440b4a1a4a491995c3c627aba70b1bf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24727$844346A6-1E6E-4D43-B519-B6DA209C4078",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1333-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec96f55cd2e7cc1c1437d772e96ab741319f5653",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24727$44C15548-25CF-4A6C-91FA-DE5B9BBEDE8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11459991"
+          },
+          "hash": "dcb254a85dcafe4029208c4a8ce7a93ad8c22351",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24727$E209172D-27A1-4ABB-92B7-BAE9F99426EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oyama Sadatomo Arms.svg"
+          },
+          "hash": "12275328898ac2541c372102828901fb87f34565",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q24727",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oyama Sadatomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小山貞朝"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Садатомо Ояма"
+    }
+  },
+  "lastrevid": 17423646,
+  "modified": "2025-09-16T03:30:05Z",
+  "ns": 860,
+  "pageid": 46506,
+  "sitelinks": {},
+  "title": "Item:Q24727",
+  "type": "item"
+}

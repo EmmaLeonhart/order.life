@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Fengtong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45293$F32A86B4-A394-4FF3-BD35-60E580718F8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53806",
+              "numeric-id": 53806
+            }
+          },
+          "hash": "29ec78934de014d2b10af8cb0e92ba912521b9c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45293$B05408EE-5C74-4102-B55A-216E421853EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53810",
+              "numeric-id": 53810
+            }
+          },
+          "hash": "e701d3a8bd1a046c76bbd0ffb84e6cec6221705c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45293$F9FE6A07-B6EE-4F55-8C56-D5E85F6DAAD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45293$C89BFE42-C752-48C6-A4FD-00F655174C48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45293$A7B624AD-106E-49F1-BA76-A0FB54660F7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40596",
+              "numeric-id": 40596
+            }
+          },
+          "hash": "fb0c6e56632d5b31832b84d060ddadd4bb3558c0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45293$9DAB0D85-B5E9-4661-BAA1-3AC9BF02055B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45293$A498499F-F5C3-46AE-8FF9-34474122FEC1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0756-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "221c0b0c1c3f1f5967d8fc07deda267949a767ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45293$FAE0B211-C3D3-4783-A5A9-249C8B76102E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45628195"
+          },
+          "hash": "6e03c4d65cf4bc21a9fc7e88ceecfaee06854b5e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q45293$C08C9ECF-9185-4AE6-9321-482448889DD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074749062476"
+          },
+          "hash": "10972f50d6bb201f346ac59dcdb07758710765bc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45293$C4228213-FE84-488F-AED0-77A516F9D900",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Fengtong Arms.svg"
+          },
+          "hash": "2cf47dc81d7761a2e5767d289ebb29aae1cc5691",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180279"
+    }
+  },
+  "id": "Q45293",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Fengtong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Fengtong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Fengtong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛鳳童"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Fengtong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛鳳童"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛凤童"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛鳳童"
+    }
+  },
+  "lastrevid": 17449714,
+  "modified": "2025-09-16T09:49:50Z",
+  "ns": 860,
+  "pageid": 61652,
+  "sitelinks": {},
+  "title": "Item:Q45293",
+  "type": "item"
+}

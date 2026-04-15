@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Samur Gunj //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q50501$175E4310-59A9-456B-9BE7-EDF31C39ED28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1167230"
+          },
+          "hash": "a7895e53712f1014bf05dab0d978637bc15c2844",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50501$7E48A099-B215-499C-9F89-0FDAFB28F88E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50501$25FB7DDC-2F65-4EBA-A9C2-DDFA6B5F62D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50501$D371E162-1285-4083-85A3-C1077757E3B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46493",
+              "numeric-id": 46493
+            }
+          },
+          "hash": "14de33831991140d29c66173fe791353af902049",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50501$16D93480-CC23-48F6-8D9C-B8F99A7B4BF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50501$E8D2BC38-E0B1-4778-97AD-EFA8D958B363",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50501$720FA65D-5350-4C24-858C-E9896288EE54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1401-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6caac321c95af307ee150793f4b8c9733e171585",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50501$0938D2DA-EF46-4F5E-90EA-4070E044E5CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7413071"
+          },
+          "hash": "c82014125556207968f7f9e7a83d66d5d8d80c91",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50501$7EA767FD-C8E3-4693-8A2A-013B154C4CFB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Samur Gunj Arms.svg"
+          },
+          "hash": "ca02e3131107dfd8667dbcd287f2e8bb9f6f0b3b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera mongolského chána Elbega"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter von Khan Elbeg Nigülesügchi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongol princess"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse mongole"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "монгольская принцесса"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "công chúa Mông Cổ"
+    }
+  },
+  "id": "Q50501",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Samur Gunj"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Samur gunji"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Samur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Samur Gunj"
+    },
+    "en": {
+      "language": "en",
+      "value": "Samur Gunj"
+    },
+    "es": {
+      "language": "es",
+      "value": "Samur gunji"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Samur gunji"
+    },
+    "it": {
+      "language": "it",
+      "value": "Samur gunji"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Самур гүнж"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samur Gunj"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Samur gunji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Samur gunji"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Samur gunji"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Самур"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tát Mục Nhĩ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萨穆尔公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萨睦尔公主"
+    }
+  },
+  "lastrevid": 17456748,
+  "modified": "2025-09-16T11:31:28Z",
+  "ns": 860,
+  "pageid": 65541,
+  "sitelinks": {},
+  "title": "Item:Q50501",
+  "type": "item"
+}

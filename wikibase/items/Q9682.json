@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Tadashige"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9682$692DEBA8-5491-435B-9EB1-52FF5A310E47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10125",
+              "numeric-id": 10125
+            }
+          },
+          "hash": "450f04e1073079a53dc18d4f87ffac0e66898588",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9682$DA39320D-4E69-4BF8-A7CE-0952F8938F34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10126",
+              "numeric-id": 10126
+            }
+          },
+          "hash": "2241b9bf5de9feb54ebe8a48c5b4ffa9f82c1be6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9682$808C964A-DACE-4B45-9A06-4C579C3D6C93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9682$D4D90479-0BEB-4AD1-8E50-36FA279B6AB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9682$641A58FD-4574-41C1-9439-3B1C386AB127",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9243",
+              "numeric-id": 9243
+            }
+          },
+          "hash": "8a1a9f2de6881ad55858da06b0b7ee0e9df6c83a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9682$C4BE803F-6CBF-4EAA-B227-4BE22A26C6D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9682$F58CE762-5D18-4820-B43F-E6A409DAA094",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1033-07-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4ba0e9405949844b64ea737a7c63abec3dea30ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9682$2F9D042D-0706-4152-87B8-80A19DF8FA81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564091"
+          },
+          "hash": "1a9a8a35505f4b9a1fd653fe94593369ada5b82d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9682$F2F0642F-1C5C-46C0-846E-615B08BA8944",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Tadashige Arms.svg"
+          },
+          "hash": "016a5479435b7dd8f689b9a94e198b7558efa92e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "子孫は美濃源氏、尾張源氏、三河源氏"
+    }
+  },
+  "id": "Q9682",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Tadashige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源忠重"
+    }
+  },
+  "lastrevid": 17411400,
+  "modified": "2025-09-15T23:25:52Z",
+  "ns": 860,
+  "pageid": 32123,
+  "sitelinks": {},
+  "title": "Item:Q9682",
+  "type": "item"
+}

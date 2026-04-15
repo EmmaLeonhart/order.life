@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arnaud Roger of Comminges //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q55304$FF5B2C54-6394-4ACB-8935-36070AD6E1A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55304$F37F566D-1E36-40C9-ADA7-9FA2C2532D7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55304$02DD5233-13AC-4B16-958A-263097579A45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55280",
+              "numeric-id": 55280
+            }
+          },
+          "hash": "3a7ca26e12b30efdcb689e2e926264dea19d15e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55304$07258037-2F07-470C-BAAB-1F4BF3331387",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55284",
+              "numeric-id": 55284
+            }
+          },
+          "hash": "1d4d4051fa65dd15814888557cc7b7a81dcb8d24",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55304$A487D3BC-29E2-4358-A508-DFDC41DCEB97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55304$5ED434EB-310F-41D6-9DFB-8F22FE89E25E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1336-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3183ea3df1798ac097e0f8bf2be56bc3b184fef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55304$688CC16A-B8E7-456B-B11B-6BAFE7A7132D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q67219542"
+          },
+          "hash": "35c076bd68e0bb9cd7079ad849c264fbadc9089e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55304$7DA4814C-5042-4E4A-84CC-FE8E2DA526DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnaud Roger of Comminges Arms.svg"
+          },
+          "hash": "9d448f37f05b0fde74b8dc613b010b61ba3e6b69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(dued 1336), Bishop of Lombez (1317-1328), than Clermont (1328-1336)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Lombez, puis de Clermont, mort en 1336"
+    }
+  },
+  "id": "Q55304",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "da": {
+      "language": "da",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arnaud Roger of Comminges"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Arnaud-Roger de Comminges"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Arnaud-Roger de Comminges"
+    }
+  },
+  "lastrevid": 17463230,
+  "modified": "2025-09-16T13:07:09Z",
+  "ns": 860,
+  "pageid": 70135,
+  "sitelinks": {},
+  "title": "Item:Q55304",
+  "type": "item"
+}

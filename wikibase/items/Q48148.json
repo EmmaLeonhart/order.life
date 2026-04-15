@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Muramochi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48148$BFF62CA5-E207-41A7-B11F-0FA47ED99B34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56604",
+              "numeric-id": 56604
+            }
+          },
+          "hash": "a206cbc1c6b551c0b3c70496e0f3809a96926caf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48148$E1575DA8-C606-4670-8EAE-550B5C02879B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56607",
+              "numeric-id": 56607
+            }
+          },
+          "hash": "606b6c201f49eb1e479733fc15723ee5530a47bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48148$091D1AB1-C270-421F-9259-CD84E4A20F91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48148$3CFFEE90-ED7A-47B2-85E1-5122AD109D11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48148$855C04D6-DFA1-4479-91DB-A45E42D8F0B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24049",
+              "numeric-id": 24049
+            }
+          },
+          "hash": "471c888c1c981335c58c1993a299d9c0cc47e23b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48148$714E5E16-D05A-460E-B227-69914DEB6BD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48148$C09D6658-D5FB-40B2-936B-0094832470F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1697-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a92ba1963fa509ffe769c4c01c24d1bacf0ad20",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48148$29EB99F9-E2AE-446C-86DC-8F3D37BD6302",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1765-04-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "211707d4a002515470f4ccec65c78b50bb08cea5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48148$3D49150B-9635-4B30-A36C-D29DBC671272",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380800"
+          },
+          "hash": "056d71ccf73ecc5d345822498034cafb0671ee41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48148$31988793-A02F-4079-9B54-C4877FB96993",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Muramochi Arms.svg"
+          },
+          "hash": "3359849545f1ceac8d42b3cac00bc0ade67d8661",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の陸奥仙台藩士。仙台藩一門第六席・岩谷堂伊達家5代。三沢宗直の次男。子に伊達村香（-1741.5、長男、早世）"
+    }
+  },
+  "id": "Q48148",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Muramochi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達村望"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мурамоти Датэ"
+    }
+  },
+  "lastrevid": 17453516,
+  "modified": "2025-09-16T10:44:37Z",
+  "ns": 860,
+  "pageid": 63783,
+  "sitelinks": {},
+  "title": "Item:Q48148",
+  "type": "item"
+}

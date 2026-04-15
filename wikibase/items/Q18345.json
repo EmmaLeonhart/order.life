@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Tadakiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18345$6A9A5360-6968-422A-A246-02078C56553C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18345$15777534-E8BA-472A-BEBC-5F8CA817C7A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18345$9F968B53-36A8-413E-8F8A-C433CDD63A96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16989",
+              "numeric-id": 16989
+            }
+          },
+          "hash": "c095f0e38b1a06c7a892ef5a79c5d89925219954",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18345$A11E172B-46C1-41B9-BF0C-99A3A81009FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18345$91A421C6-0DBF-4084-A018-AE46DE206EF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1585-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2b27f10111db20d4e3e7599b7fbdbbbff7614ab",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18345$6C404EE0-8592-419D-9306-8354CA0AF45F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1612-05-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "00962267394e4a8a29a6dfc5c59fb92b1f48c25b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18345$69595369-A6B0-4C2E-A17E-44F756FA68C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8515103"
+          },
+          "hash": "052d79f2ba6184c445a360007637c8334c6b93e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18345$038E2191-7887-4AFA-A983-F892DB6F9A05",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Tadakiyo Arms.svg"
+          },
+          "hash": "3d3515639c2340fc4c6a0c5961e389aefd5fc6f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[松平忠清] daimyo of the early Edo period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国武将、江戸時代初期の大名"
+    }
+  },
+  "id": "Q18345",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Tadakiyo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Tadakiyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Tadakiyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Tadakiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平忠清"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰다이라 다다키요"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Tadakiyo"
+    }
+  },
+  "lastrevid": 17417714,
+  "modified": "2025-09-16T01:13:32Z",
+  "ns": 860,
+  "pageid": 40538,
+  "sitelinks": {},
+  "title": "Item:Q18345",
+  "type": "item"
+}

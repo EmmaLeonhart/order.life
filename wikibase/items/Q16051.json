@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mizuno Tadawake"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q16051$113E90C7-528D-468D-9158-C8745AEF3ABB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "水野-24"
+          },
+          "hash": "71cb6b968403e37aebd2189503d5c4ae1ee2009c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16051$FEF82DC0-AEE3-4D59-9002-407141ED01E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16051$509B11E8-1547-44A0-BDEC-E74FE2EC3E9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16051$35C9D6E0-7AEA-4C54-90BB-7A189AE7A2F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16048",
+              "numeric-id": 16048
+            }
+          },
+          "hash": "204eaf00555e93110ba95a0866e0e4cf1ebbef0a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16051$3B8F20CE-4266-4D45-801F-34F9ED70BD5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16049",
+              "numeric-id": 16049
+            }
+          },
+          "hash": "463f78ed60286e4788aee1b9c57e73d02ea57ef6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16051$A3881E2D-248C-45DB-8144-0C8688BB75E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16051$06FD6F19-320D-46BF-930D-856FF3134915",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1537-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7047af8d2ce145a820bf96caa7d664dcac0e903d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16051$AE05B613-7FAC-4DAD-B4C4-65D28FABD02E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1579-01-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7105d002e45405b0de34c664757a79ab174926a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16051$2E6D8018-E12B-42F0-99C2-70ECF90B8917",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10565616"
+          },
+          "hash": "2a5937de77c93391694e01a42441d3c2529a0b9c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16051$789A4DAC-C75B-4B8E-88F6-B97655DD4FB3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mizuno Tadawake Arms.svg"
+          },
+          "hash": "92e8bb31c74c414e12bd8a9862c342ce1a175952",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Befehlshaber"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai in the 16th-century Japan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代の武将"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1537 – 1579)"
+    }
+  },
+  "id": "Q16051",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Mizuno Tadawake"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tadawake Mizuno"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mizuno Tadawake"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mizuno Tadawake"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mizuno Tadawake"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میزونو تاداواکه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mizuno Tadawake"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "水野忠分"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mizuno Tadawake"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mizuno Tadawake"
+    }
+  },
+  "lastrevid": 17415700,
+  "modified": "2025-09-16T00:27:12Z",
+  "ns": 860,
+  "pageid": 38324,
+  "sitelinks": {},
+  "title": "Item:Q16051",
+  "type": "item"
+}

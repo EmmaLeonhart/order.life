@@ -1,0 +1,985 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Du Fu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23732$5DC7F818-6140-4F2E-96C6-BA31A8939E43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47259",
+              "numeric-id": 47259
+            }
+          },
+          "hash": "bc93af16d8e68a5084c60e86a2c96919bae448ba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23732$2071E2EE-0FA6-4051-840D-78205A7EA357",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47263",
+              "numeric-id": 47263
+            }
+          },
+          "hash": "95f6b7860fc934dcfd2bca53759d7d2487216744",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23732$4356C809-5D8F-4084-AC20-2BB48AF7B6C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47267",
+              "numeric-id": 47267
+            }
+          },
+          "hash": "cd2babc9003b4d283b28e9ddca26f5736228077a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23732$27D60E86-86D4-4E99-A4AF-310AFF81EABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23732$1BB2AC33-D4AA-4123-9F09-1D41591DC8F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23732$F0E5DC4E-3B28-43E5-9A57-556051808AF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47255",
+              "numeric-id": 47255
+            }
+          },
+          "hash": "ed9b0e5ed69bfcd0d0e146a11ace382e3f99dc5b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q23732$994C25CF-3C17-4A11-938A-4EE66066C80E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21413",
+              "numeric-id": 21413
+            }
+          },
+          "hash": "cb044695f0b821724b5ae965e53c83f638e8fb1e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23732$E71AFD6D-8DC1-4479-BC90-7366273ACC74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23732$A0F4856E-0515-4DF6-B1D8-2374542E5D22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0712-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8144210c42185597c00328dcd63d7d6aa9257a85",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23732$6755D21D-6275-45B2-9942-58F277ADAC0D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0770-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45b64369f1e1c37e4e3fd3c0e1ac67261987aed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23732$1AFA8AA5-A79A-49A3-AB2A-B691F7FB0F61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q33772"
+          },
+          "hash": "52d8d19fe80cdf9bd735fafffa04d96623b967a5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23732$423757A3-5788-465B-A192-7E54F9830964",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000015292449558"
+          },
+          "hash": "10fd87c53236fbd41d3c16c08a9d5e030bd7d056",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23732$22CFE04F-FE2A-474B-AD2E-CF8917944D72",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Du Fu Arms.svg"
+          },
+          "hash": "431b5c81847bb79aaa0ac664ec3d219d38596929",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعر صيني"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "кітайскі паэт часоў дынастыі Тан"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "চীনা কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poeta xinès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "čínský básník a humanista"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dichter der Tang-Dynastie und Zeitgenosse von Li Bai"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty Chinese poet (712–770)"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Chinese poet"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Chinese poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta chino"
+    },
+    "et": {
+      "language": "et",
+      "value": "Hiina luuletaja"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده و شاعر چینی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kiinalainen runoilija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète chinois"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta chinés"
+    },
+    "he": {
+      "language": "he",
+      "value": "משורר סיני"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "चीनी कवि"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "középkori kínai költő, író"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta cinese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中国の詩人"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Sasterawan Cina zaman Wangsa Tang"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "kinesisk poet"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "चिनियाँ कवि"
+    },
+    "new": {
+      "language": "new",
+      "value": "साम्राज्ययागु नांजाम्ह चिनाखँमि"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit China (712-770)"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਚੀਨੀ ਕਵੀ"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Chinese watas"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poet chinez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "китайский поэт времен династии Тан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poet kinez"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "кинески књижевник"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kinesisk poet"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "telakelelac"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thi sĩ thời nhà Đường"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐代詩人"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "唐代诗人"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "唐代诗人"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "唐代詩人"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "唐代詩人"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "唐代詩人"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "唐代诗人"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "唐代诗人"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "唐代詩人"
+    }
+  },
+  "id": "Q23732",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Du Fu"
+    },
+    "am": {
+      "language": "am",
+      "value": "ዱ ፉ"
+    },
+    "an": {
+      "language": "an",
+      "value": "Du Fu"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Tu Fu"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "دو فو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "دو فو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Du Fu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Du Fu"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دو فو"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Ду Фу"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ду Фу"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ду Фу"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ду Фу"
+    },
+    "bi": {
+      "language": "bi",
+      "value": "Du Fu"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "তু ফু"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཏུའུ་ཧྥུ།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Du Fu"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Tu Fu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Du Fu"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Dô Hū"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "دو فوو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tu Fu"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Du Fu"
+    },
+    "da": {
+      "language": "da",
+      "value": "Du Fu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Du Fu"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Du Fu"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Du Fu"
+    },
+    "dsb": {
+      "language": "dsb",
+      "value": "Du Fu"
+    },
+    "el": {
+      "language": "el",
+      "value": "Του Φου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Du Fu"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Du Fu"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Du Fu"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Du Fu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Du Fu"
+    },
+    "et": {
+      "language": "et",
+      "value": "Du Fu"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Du Fu"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Du Fu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دو فو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Du Fu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Du Fu"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Du Fu"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Du Fu"
+    },
+    "gan": {
+      "language": "gan",
+      "value": "杜甫"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tu Fu"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Du Fu"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Thu fú"
+    },
+    "he": {
+      "language": "he",
+      "value": "דו פו"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "तू फू"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Du Fu"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Du Fu"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tu Fu"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Դու Ֆու"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Du Fu"
+    },
+    "id": {
+      "language": "id",
+      "value": "Du Fu"
+    },
+    "io": {
+      "language": "io",
+      "value": "Du Fu"
+    },
+    "is": {
+      "language": "is",
+      "value": "Du Fu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Du Fu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "杜甫"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Du Fu"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დუ ფუ"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Ду Фу"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಡುಫೂ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "두보"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Du Fu"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Ду Фу"
+    },
+    "la": {
+      "language": "la",
+      "value": "Du Fu"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Du Fu"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Du Fu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "杜甫"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Du Fu"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ту Фу"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഡു ഫു"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Du Fu"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Du Fu"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Tō͘ Hú"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Du Fu"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Du Fu"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "डु फु"
+    },
+    "new": {
+      "language": "new",
+      "value": "दु फु"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Du Fu"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Du Fu"
+    },
+    "nov": {
+      "language": "nov",
+      "value": "Du Fu"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Du Fu"
+    },
+    "os": {
+      "language": "os",
+      "value": "Ду Фу"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਤੂ ਫੂ"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Du Fu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Du Fu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Du Fu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Du Fu"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "T'u Fu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Tu Fu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ду Фу"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Ду Фу"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Du Fu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Du Fu"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Du Fu"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tu Fu"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඩූ ෆූ"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Fu Tu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tu Fu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Du Fu"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ду Фу"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Du Fu"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Tu Fu"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Du Fu"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "டு ஃபூ"
+    },
+    "th": {
+      "language": "th",
+      "value": "ตู้ ฝู่"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Du Fu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Du Fu"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Tu Fu"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "دۇفۇ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ду Фу"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Du Fu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đỗ Phủ"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Du Fu"
+    },
+    "vro": {
+      "language": "vro",
+      "value": "Du Fu"
+    },
+    "war": {
+      "language": "war",
+      "value": "Du Fu"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "杜甫"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "დუ ფუ"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "דו פו"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "杜甫"
+    },
+    "za": {
+      "language": "za",
+      "value": "Duh Fuj"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杜甫"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "杜甫"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杜甫"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "杜甫"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "杜甫"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "杜甫"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "杜甫"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "杜甫"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "杜甫"
+    }
+  },
+  "lastrevid": 17422782,
+  "modified": "2025-09-16T03:08:34Z",
+  "ns": 860,
+  "pageid": 45559,
+  "sitelinks": {},
+  "title": "Item:Q23732",
+  "type": "item"
+}

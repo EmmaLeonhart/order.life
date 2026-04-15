@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Katagiri Takatoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24654$D070903F-8B0B-41CF-A24E-99C93CE46344",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24654$E4BBF393-62EF-4698-89F6-405F12C760AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24654$26013FC9-D7FE-4808-A5EF-F4D1EB84BC91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22418",
+              "numeric-id": 22418
+            }
+          },
+          "hash": "7e57124ad7de32e2cbb2ea49fbf8ac2b1d0a9ea5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24654$4C44F2B4-DE20-4B79-A543-722A13504326",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24654$CC36DD57-91FC-4AFB-BDB2-A23185375B44",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1601-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4362162f9c779423e938bf8450df613d212aef75",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24654$5591732D-E351-4886-9EF3-2BCF921C8D34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1638-09-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b81f0b0e356780d26eb4f0df325dd57d70b2f7dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24654$C9BCD498-F0CB-4D2E-9035-435985903389",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11569852"
+          },
+          "hash": "5f3c52026a0358dd568b3fdf1cccc6d13b4460f5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24654$F1EF90CB-6694-4EA1-A788-DEE50A7D9E64",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Katagiri Takatoshi Arms.svg"
+          },
+          "hash": "07030c632b704907b653d898b7850c782dba37ae",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の大名。大和竜田藩初代藩主片桐且元次男で、竜田藩2代藩主。従五位下出雲守"
+    }
+  },
+  "id": "Q24654",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Katagiri Takatoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "片桐孝利"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такатоси Катагири"
+    }
+  },
+  "lastrevid": 17423590,
+  "modified": "2025-09-16T03:28:25Z",
+  "ns": 860,
+  "pageid": 46438,
+  "sitelinks": {},
+  "title": "Item:Q24654",
+  "type": "item"
+}

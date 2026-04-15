@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kyōnyo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q29004$5E021B1C-D0A8-4BAB-A286-DFD35195541F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32617",
+              "numeric-id": 32617
+            }
+          },
+          "hash": "dac6f5b6cd19ff8ecd727922bc9de2a55e78ef09",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29004$5C0C2AC9-68BC-4425-80DE-875EC6626594",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19643",
+              "numeric-id": 19643
+            }
+          },
+          "hash": "c8d540a2fbffd0387204080a4c8d11d204534ef3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29004$6A1EEFE4-C77D-428A-B982-524697EC2A96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29004$777E8F53-D5A9-4E39-A1BA-052585313751",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q29004$6B5E395F-EC32-456C-AAAB-2B6851034736",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32577",
+              "numeric-id": 32577
+            }
+          },
+          "hash": "eea9a1ac4f39cf2eb0cae8b47db3acd39766fce4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29004$877788F2-909F-4B20-A281-BFE23052D6A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29000",
+              "numeric-id": 29000
+            }
+          },
+          "hash": "8196d0bfcc11ca3aff7bc697e2bc8b797aba5825",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q29004$6EBA3956-8C1A-4377-8B5D-091297024952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26723",
+              "numeric-id": 26723
+            }
+          },
+          "hash": "a84fa1a0fcdb7770da93597e4764b1e896aa4de5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29004$B8D1A79E-FECE-4BF2-BEDE-BAC464A89B82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29004$8AA506E5-B99B-42F7-8670-F4395A99991B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1558-10-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a253a968de9c3af35f129e393a738ce9380d88c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29004$BDE49B83-F2B5-4407-B1E7-20AEB4BB146B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1614-11-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f0f17c7577be5ca99cc13f05ee421a045361fef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29004$429E4E56-5D3E-49F6-BF55-8E89D481B758",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6547451"
+          },
+          "hash": "ade5f9d3d74301ffe337e6884de79c79dcdce9a4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29004$B4AC4BB0-76E5-4258-8501-D88D92F7206B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kyōnyo Arms.svg"
+          },
+          "hash": "44016c30cc2bfe14beeb5108d925628bafa3e725",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代の浄土真宗の僧"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński mnich buddyjskiej szkoły jōdo-shinshū żyjący w okresie Azuchi-Momoyama"
+    }
+  },
+  "id": "Q29004",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kyōnyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kyōnyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kyōnyo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کیونیو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kyōnyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "教如"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쿄뇨"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kyōnyo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kyōnyo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "教如"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "教如"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "教如"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "教如"
+    }
+  },
+  "lastrevid": 17428360,
+  "modified": "2025-09-16T04:40:18Z",
+  "ns": 860,
+  "pageid": 49473,
+  "sitelinks": {},
+  "title": "Item:Q29004",
+  "type": "item"
+}

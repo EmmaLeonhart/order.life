@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "北向三品局"
+      },
+      {
+        "language": "en",
+        "value": "Bei Xiang San Pin Ju"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15208$D09E507B-ED0C-447D-9CBD-5A1EC4AD93B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15208$6ED06E5F-6695-435B-B706-81CE96F0B3D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15208$0D349BA8-F6B3-43A8-A08F-06727822C2ED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bei Xiang San Pin Ju Arms.svg"
+          },
+          "hash": "d03b6b02c3e197e1bc9c8c861773376e9d032b9c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q15208",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Bei Xiang San Pin Ju"
+    }
+  },
+  "lastrevid": 17414990,
+  "modified": "2025-09-16T00:17:08Z",
+  "ns": 860,
+  "pageid": 37498,
+  "sitelinks": {},
+  "title": "Item:Q15208",
+  "type": "item"
+}

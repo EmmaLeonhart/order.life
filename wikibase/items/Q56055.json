@@ -1,0 +1,317 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Miklausė Marija //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q56055$8D15C4B1-30B6-4A3C-AF9E-2A524F6D2102",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "181962"
+          },
+          "hash": "851e8d9af6d6a386d50273df8fdde52bdd34b785",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56055$EB551D15-0DA0-4588-81CC-0E7395E3835D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56055$546DAB5E-66F8-44D0-A67E-6BE71FE28F47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q56055$A4550C63-3E3C-4FD3-A541-1A30BA3105F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Miklausė_Marija_(1)"
+          },
+          "hash": "3039daebf7ee70508aa1e16d365543bedb3b0174",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56055$45D7E06D-8BC3-4FE0-99F0-D8B78444C1EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50361",
+              "numeric-id": 50361
+            }
+          },
+          "hash": "0e4c8e968b7677477c661bea561922dabf1b2148",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q56055$B93C8CC7-6B4A-42BD-8F54-D2DE252C9D45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56031",
+              "numeric-id": 56031
+            }
+          },
+          "hash": "d4d98eadce0d0cf8a510174b23619f2e2fbf55f3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56055$F955CB95-4485-42D0-9156-7596C2EBF18B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56055$ABAF3A5B-C3C5-4D18-9583-DE9D0E66FE68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1355-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f84de8b876814173c76dca34ef78164401287846",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56055$8611B700-4844-4795-BC07-F8FFE839D38D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1405-10-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2ef435bcb81cf6c05d72b8b89ab341ec3df677f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56055$DA53A045-199D-440F-AA91-A712A7ED66E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11781132"
+          },
+          "hash": "2649074db65e5bf848959b861c24e40446814e35",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q56055$18B22A6D-0754-4F48-9270-43E2D1D1BFAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marie;n=de lithuanie;oc=2|p=miklowsa;n=de lithuanie"
+          },
+          "hash": "c856d7f4e64553e06626f28ed112b6d2da4f9de9",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q56055$554D3A4D-0320-404C-A37C-212F1DCE8431",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.2018"
+          },
+          "hash": "548211a6fac568fb631618807755311246e685a5",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56055$96411CC5-D1FB-47F1-A284-28FD5726D38B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Miklausė Marija Arms.svg"
+          },
+          "hash": "e00d1b5d34c09a6288d07ef8ac1bff4995fc8bfc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "ruská kněžna"
+    }
+  },
+  "id": "Q56055",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Марыя Кейстутаўна"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marie Litevská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Miklausė Marija"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miklausė Marija"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Miklausė Marija"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mikłowsa Maria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Кейстутовна"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Miklause Marija"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Миклуша"
+    }
+  },
+  "lastrevid": 17464358,
+  "modified": "2025-09-16T13:24:13Z",
+  "ns": 860,
+  "pageid": 70886,
+  "sitelinks": {},
+  "title": "Item:Q56055",
+  "type": "item"
+}

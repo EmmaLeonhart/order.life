@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Shan Zhi Lian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32966$92A6BE8B-2A5A-466F-ACB1-4FCFB03B1DA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32966$546EB4B1-9E86-406F-986F-CFF3F2E3C82C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32966$393BF182-47AD-423A-A9E7-0E30F2D90872",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29362",
+              "numeric-id": 29362
+            }
+          },
+          "hash": "05147acebce72f5ef0701f7adb6c66d7e19b91e6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32966$A7AEEA8B-AE9E-4D91-ACAF-DC76195365F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32966$29D3D70F-398E-4DF6-808E-98F599BD737D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32966$1BDD3066-FEAF-4328-85DD-5E20092019FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1572-06-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23a68ae8802d1a69313b232d1a952442fab20b23",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32966$8FCA052B-ABE4-42BD-92A1-672DD4A97C77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11642052"
+          },
+          "hash": "a08b681930b8f11b92278306cb016704df14ae63",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32966$59726823-6A66-47BD-AA1D-DB288E77A5F2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Toyama Naokado Arms.svg"
+          },
+          "hash": "27cb6950373a78e76dab10cb105faf2aa567f70e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q32966",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Toyama Naokado"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توئویاما نائوکادو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "遠山直廉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "远山直廉"
+    }
+  },
+  "lastrevid": 17433508,
+  "modified": "2025-09-16T05:55:02Z",
+  "ns": 860,
+  "pageid": 52436,
+  "sitelinks": {},
+  "title": "Item:Q32966",
+  "type": "item"
+}

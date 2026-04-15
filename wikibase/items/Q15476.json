@@ -1,0 +1,407 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tokugawa Yorinobu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15476$37958CD2-3CE3-41DA-BC1A-7D280CFEC08A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16148",
+              "numeric-id": 16148
+            }
+          },
+          "hash": "8cc77f5b658ab80f76424314c8cd13126d1a4c6a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15476$2A5CEAF4-9F0D-410D-B2CC-62B591728024",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16149",
+              "numeric-id": 16149
+            }
+          },
+          "hash": "692e8a7a51398eaa857b5de90af72d5c128537a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q15476$59CB97B9-48D0-4524-B638-E95683BA4903",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "徳川-7"
+          },
+          "hash": "db9f74d4aaa6e7e00e6f7360cab8bf220a20169b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15476$F8188626-3FCE-4057-B054-D7B40DDAA56B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15476$DD55C1E7-06F6-4BA0-83DF-B79047E2FB08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15476$2E7ED8E4-51CD-45D0-AF88-CA122D1A99A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "089ba1da763f7f139ebf040efcb6385f1e349758",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15476$F25C4256-A3A1-4B18-BC8E-63199DA7B6FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15476$882A6017-31DC-475A-AAF8-C1D801FB8A9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1602-04-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc588349c258b15399b802ca6e9673defe969144",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15476$20A16730-B26D-4C3A-9BB6-9B0517B23A9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1671-02-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18a48ccb34b95b40f6e255aa96e7b065408d1007",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15476$AC664F11-3068-4C76-8B81-5ABB26BA6A3F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokugawa Yorinobu.jpg"
+          },
+          "hash": "306807ce80fb0fe14fa6b165f7834056efa05090",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15476$F3BF27E4-594B-4258-B4AD-64ADE5445CD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1045763"
+          },
+          "hash": "d52df7dec17a7608b578a06b74c510ceb5383464",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q15476$D1580C9F-8943-4AEB-81CF-0B39E9D9BB9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000032170778221"
+          },
+          "hash": "83a6f1615b0de6957e830bc8b96b710700ab8139",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15476$CDEDDDD7-68C7-40E4-9126-6C74E43E2802",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokugawa Yorinobu Arms.svg"
+          },
+          "hash": "1433402d98b0bff550481292c5c1bfddcedff2e5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1602–1671)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo of the ealy Edo period; 1st lord of Kishu, founder of Kii branch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "常陸水戸藩主、駿河駿府藩主、紀伊和歌山藩初代藩主。紀州徳川家の祖。徳川家康の十男。従四位下常陸介、従三位参議・右中将、権中納言、従二位権大納言、贈正二位。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samoerai uit Tokugawa-shogunaat (1602-1671)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский даймё XVII века"
+    }
+  },
+  "id": "Q15476",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tokugawa Yorinobu"
+    },
+    "be": {
+      "language": "be",
+      "value": "Такугава Ёрынобу"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jorinobu Tokugawa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tokugawa Yorinobu"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τοκουγκάβα Γιορινόμπου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tokugawa Yorinobu"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tokugawa Yorinobu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tokugawa Yorinobu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توکوگاوا یورینوبو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tokugawa Yorinobu"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tokugava Jorinobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "徳川頼宣"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "도쿠가와 요리노부"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tokugawa Yorinobu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tokugawa Yorinobu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tokugawa Yorinobu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tokugawa Yorinobu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Токугава Ёринобу"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tokugawa Yorinobu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tokugawa Yorinobu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Токугава Йорінобу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德川賴宣"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "德川赖宣"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "德川賴宣"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "德川賴宣"
+    }
+  },
+  "lastrevid": 17415232,
+  "modified": "2025-09-16T00:20:26Z",
+  "ns": 860,
+  "pageid": 37763,
+  "sitelinks": {},
+  "title": "Item:Q15476",
+  "type": "item"
+}

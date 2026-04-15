@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tokiwa Gozen"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11262$09D80547-68B6-497B-8579-7CC35C639B9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10611",
+              "numeric-id": 10611
+            }
+          },
+          "hash": "b171fab0286ca79825e57af2569e956f2346e365",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11262$D3CFB216-FE0D-4FA3-8827-8457EFDD19B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10606",
+              "numeric-id": 10606
+            }
+          },
+          "hash": "4f28eeff9c379930039cf3f6d0c04a8e6f5bc057",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11262$61AB2F14-1322-45E3-AAA2-635FBFBADF07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11262$5D15232D-7372-4F76-9DBE-87C5991579DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11262$D2B00051-F426-4FE5-A050-2E23B6F1E045",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10601",
+              "numeric-id": 10601
+            }
+          },
+          "hash": "cf16e300cbda6ba34c9e050fd4b98d8802016817",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11262$BE22EB6D-C4D1-4623-BC60-CCF8DB480AAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10882",
+              "numeric-id": 10882
+            }
+          },
+          "hash": "38cc18cac24eb3c01e74ce89f6285aeee5f4c61d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11262$AB8287AC-B550-4C45-9886-2D7C19BB6396",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11262$F8D5A8A6-BAF6-4039-B971-0F557D819AB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1138-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8adbfed55b703b5680f741931694be4d21d3e1be",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11262$E1B07C7E-D80F-4CFF-9C45-AC1E5102A63E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokiwa Gozen in the snow.jpg"
+          },
+          "hash": "b3bb329a72dcd1d978be28549aa059430d94fd78",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11262$B92FBE85-D77F-41DA-BD58-021DE284D15C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q867354"
+          },
+          "hash": "2ca6e95134f1721618e5a5e4468f928cbc7fefe9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11262$49C5799F-418A-4C40-ADA4-947772BECAE5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokiwa Gozen Arms.svg"
+          },
+          "hash": "df4887a24cdc869918e66c5aa2d988e8a55b804d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noblewoman of the late Heian period; mother of Minamoto no Yoshitsune"
+    },
+    "es": {
+      "language": "es",
+      "value": "mujer noble japonesa del siglo XII"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme de la noblesse japonaise de la fin de l'époque de Heian"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の女性。源義朝の側室。のち一条長成の妻。のち平清盛の妾"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미나모토노 요시쓰네의 모친으로 유명한 헤이안 말, 일본의 귀부인"
+    }
+  },
+  "id": "Q11262",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tokiwa Gozen"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tokiwa Gozen"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tokiwa Gozen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tokiwa Gozen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tokiwa Gozen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tokiwa Gozen"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توکیوا گوزن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tokiwa Gozen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "常盤御前"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "도키와 고젠"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tokiwa Gozen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tokiwa Gozen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tokiwa Gozen"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tokiwa Gozen"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tokiwa Gozen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "常盤御前"
+    }
+  },
+  "lastrevid": 17412854,
+  "modified": "2025-09-15T23:47:21Z",
+  "ns": 860,
+  "pageid": 33637,
+  "sitelinks": {},
+  "title": "Item:Q11262",
+  "type": "item"
+}

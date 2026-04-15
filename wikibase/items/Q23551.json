@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Song"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23551$95D3839F-5753-47C1-BC05-912BC07171AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23551$BF3B1874-0460-4E0F-A1E7-4674C11734AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23551$C4F60A2C-92BF-45DE-908C-09CBF74DA82C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23590",
+              "numeric-id": 23590
+            }
+          },
+          "hash": "95a4bda7a552583a3e9f418c08fc8484a61cb081",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23551$6AEB661C-A87E-4F04-94C5-D36D0BF477F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46577",
+              "numeric-id": 46577
+            }
+          },
+          "hash": "a626bd834f6c67f450ba0de8c3c807d4703490e9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23551$907BD1CE-3FEC-48C6-A416-29E7D3C2DDEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "bcb7a20e89226ee4ff14368fd103ba418f9f4c9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23551$46A27DBA-0BE1-447B-9CBB-4C4B81F56B39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23551$48347CD3-53A6-4DA6-8731-17229D79082E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0771-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8cc6f6df17096aa93b24d16987fbbfd25e7d2e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23551$1ABA6BD7-1CAC-4384-8D04-BA2DD220F356",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10721451"
+          },
+          "hash": "c880ed5c2a7c125cea63a1497c74dae35260bec1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23551$803A3925-757F-4804-B3C5-CCB1C40E2F00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074767548999"
+          },
+          "hash": "1633e808baed2785ed71087781ee2eb4c50b78c9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23551$44AF1A65-A8CB-480E-BA44-F9E66BC2C727",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Song Arms.svg"
+          },
+          "hash": "b3e764be1852d88ef564a49bbd104cd1d2961231",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "κόρη του Κινέζικου αυτοκράτορα Σουαν-τζόνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Chinese emperor Xuanzong of Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Сюань-цзуна"
+    }
+  },
+  "id": "Q23551",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σονγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Song"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Song"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Song"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сун"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宋國公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "宋国公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李氏"
+    }
+  },
+  "lastrevid": 17422552,
+  "modified": "2025-09-16T03:05:24Z",
+  "ns": 860,
+  "pageid": 45441,
+  "sitelinks": {},
+  "title": "Item:Q23551",
+  "type": "item"
+}

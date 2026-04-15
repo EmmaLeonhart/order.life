@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ryusho-in"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15936$118388FA-0FA8-4BEB-88F5-037F5CF7564E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15936$1432F909-CE6F-4F81-BF39-DA5F51A862AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15936$528C52F9-986C-4203-BDCF-11851EACEE3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15399",
+              "numeric-id": 15399
+            }
+          },
+          "hash": "53ddb46f8c34d24fb6694aa06596659252ca6f53",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15936$F1065D7D-08D5-4D61-AF6B-2DD5862553B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15936$C067E9F3-5D2A-4742-BC77-CA4590452442",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1553-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d94c8b5d99a649ec5d1cef6648e92a10f044b299",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15936$29EC011B-E578-437E-8136-0F5FD62584C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1571-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "51430f313ca968d2100ec0bf7bfe3a48b6a29547",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15936$92E6B2E2-5973-4F0C-9A35-1FADE64388A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takeda Katsuyori02.jpg"
+          },
+          "hash": "4cbcf3f4e7c7901c2ed0fc5cc674c96b7593d55b",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15936$F445D9DC-8156-4D3C-95F2-184078B6FD64",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11642024"
+          },
+          "hash": "814175f7c596ff7a250ebce883cfa70c6d69e240",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15936$86CC567F-8CBF-45DD-9959-2F17E94350F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ryusho-in Arms.svg"
+          },
+          "hash": "e7bc6ac1b44a493d179884b62a5a9ef6eaa91707",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noblewoman"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "武田勝頼の正室、織田信長の姪・養女"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская знатная дама"
+    }
+  },
+  "id": "Q15936",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Rjúšóin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ryusho-in"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ریوشو این"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ryū shōin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "遠山夫人"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рюсёин"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "遠山夫人"
+    }
+  },
+  "lastrevid": 17415566,
+  "modified": "2025-09-16T00:25:04Z",
+  "ns": 860,
+  "pageid": 38212,
+  "sitelinks": {},
+  "title": "Item:Q15936",
+  "type": "item"
+}

@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Side"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53441$ECC328CB-76B9-4888-A7C1-E50DBA916B0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60328",
+              "numeric-id": 60328
+            }
+          },
+          "hash": "40162352eb39247df0d1465a2be24093049f49c9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53441$8B4A9AC1-1D5A-46EC-B87A-69B23862B755",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53441$017638B7-EBC6-4665-A1F7-6E276F8F6E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53441$D7160502-C502-49BC-846B-2B09303E7034",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45029",
+              "numeric-id": 45029
+            }
+          },
+          "hash": "e21ddca6ea17ad540203f1d77b084b673533732c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53441$182A5A7E-40FF-4280-8C74-D20942701145",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53441$291CFCFD-CC86-47B2-A23F-7E68ECFA3842",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0706-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f842aaf755f7cb9768fde6c51d0bd8fd86ca559",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53441$7B1B5355-1E68-4AE4-92D0-30D51489CEEE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45448880"
+          },
+          "hash": "acbe63ce642ce00e7880ed23097578a89f782d64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53441$EF57DD2A-4312-40FF-ACDE-22981282CDD2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074732431190"
+          },
+          "hash": "33b1fa92ffe4b74f64e099d0bf6831e2e9325061",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53441$AF6578A5-661A-4897-843C-3F3B20B834A3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Side Arms.svg"
+          },
+          "hash": "f09592cc3761b5815b98fa3bb8478527cb2eddb3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171688"
+    }
+  },
+  "id": "Q53441",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Side"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Side"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Side"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭嗣德"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Side"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Tự Đức"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭嗣德"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧嗣德"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭嗣德"
+    }
+  },
+  "lastrevid": 17460262,
+  "modified": "2025-09-16T12:23:32Z",
+  "ns": 860,
+  "pageid": 68272,
+  "sitelinks": {},
+  "title": "Item:Q53441",
+  "type": "item"
+}

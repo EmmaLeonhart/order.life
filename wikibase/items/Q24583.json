@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishikawa Fusahide"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24583$0EC109C4-3889-4492-913E-E009705FB71C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24583$199101A6-4528-4E5B-B1DE-04035F9CB763",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24583$259A15F1-2728-4912-B0CA-183FE0A24585",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38598",
+              "numeric-id": 38598
+            }
+          },
+          "hash": "d50bb6a2721e8e0181110f0243f331d3631af5e3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24583$39D79E5B-75D9-45AD-AF31-82ACF26F1B3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24583$9096E535-F303-41F1-9502-186D860C57CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1738-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a70e1e07f3436b61bcc89b7fd67a942f126a625c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24583$3C9E6740-2BF0-4BE3-98DA-DDD7767844F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1759-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f505c9b6278002ef3b74d611261c152768fd83d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24583$1CB40E3C-CC9B-4C3D-AE31-D2D5C4F63114",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11586327"
+          },
+          "hash": "3bc720df9657609a8baea135da733351ab395a95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24583$62ACC8EC-3E48-4158-9764-6D99794DE77C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishikawa Fusahide Arms.svg"
+          },
+          "hash": "891577bd52dbcde41abbb01b6b7b791fe78f6c83",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q24583",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ishikawa Fusahide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石川総英"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фусахидэ Исикава"
+    }
+  },
+  "lastrevid": 17423530,
+  "modified": "2025-09-16T03:26:46Z",
+  "ns": 860,
+  "pageid": 46372,
+  "sitelinks": {},
+  "title": "Item:Q24583",
+  "type": "item"
+}

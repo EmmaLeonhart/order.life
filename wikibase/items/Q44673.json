@@ -1,0 +1,163 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "王銲"
+      },
+      {
+        "language": "en",
+        "value": "Wang Han"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q44673$EE73709C-0F38-457E-846F-E9505CC42060",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44673$FE76E9E0-3122-4BEC-95F9-63615B0CF7E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q44673$59DCBDFC-A5EA-443A-BB0B-CA18E2889613",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23187",
+              "numeric-id": 23187
+            }
+          },
+          "hash": "207c8eb9575a720376bddddb1fb281673d183161",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q44673$22F5E34B-DCEE-497E-8C25-80E12DA9AB52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q44673$5980AB9D-1381-4E12-B069-A331F727917D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0752-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb01726ee79eb4fc46b6375806c0f3bf5a497570",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q44673$315E32CE-7237-42D4-9855-912C9E7F7554",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11572873"
+          },
+          "hash": "2028655a13b03812b6abab1992d2a8e4e906e483",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "唐代玄宗期の官僚"
+    }
+  },
+  "id": "Q44673",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "王銲"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王銲"
+    }
+  },
+  "lastrevid": 17448904,
+  "modified": "2025-09-16T09:36:30Z",
+  "ns": 860,
+  "pageid": 61188,
+  "sitelinks": {},
+  "title": "Item:Q44673",
+  "type": "item"
+}

@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yamatonoaya no Koma"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7245$8300C212-814E-4E62-9831-867828D9DB6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7245$51E31EE6-06C6-4EDF-9424-7B5EF8D125D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7245$D4421D34-B5B5-4F1E-B04C-D00979B77636",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7190",
+              "numeric-id": 7190
+            }
+          },
+          "hash": "a4482e337c566e66ca7390eb86b9f5ca973d0e4f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7245$3C8C35FA-07EA-4113-841F-E1BBAFE186AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7245$328C1033-C5C4-44C2-890B-342319153806",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cca5916d126a1c1b5cff5cda3fa94fcc3000d5b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7245$461BE1E7-D301-4478-BADB-1B1E622EF224",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "+0592-11-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c68afcf4ba0c1432c288b585e48caa6a64c90680",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7245$93960BCA-3783-4907-9EB5-D3C7AA645600",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10870554"
+          },
+          "hash": "dc9fb301155b37cebdcf2c21d2ba3dfe2e98c5b1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q7245$9A97976B-6B52-4AAF-9500-1A3C26C6E434",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000210408647882"
+          },
+          "hash": "eb850df775f5aa64b3d1ca5db23718288a599f0e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7245$A9B981B0-0310-4BAB-A935-D9A3BE79E640",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yamatonoaya no Koma Arms.svg"
+          },
+          "hash": "4ac60e444ec1a67472d4a94d999ae03d7b6b697b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "osobnost z období Asuka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の飛鳥時代の人物"
+    }
+  },
+  "id": "Q7245",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yamato no Aya no Ataikoma"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Yamato no Aya no Ataikoma"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jamato no Aja no Koma"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yamatonoaya no Koma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yamato no Aya no Ataikoma"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東漢駒"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Jamato no Aja no Koma"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "東漢駒"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Jamato no Aja no Koma"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "东汉驹"
+    }
+  },
+  "lastrevid": 17407187,
+  "modified": "2025-09-15T22:31:49Z",
+  "ns": 860,
+  "pageid": 29740,
+  "sitelinks": {},
+  "title": "Item:Q7245",
+  "type": "item"
+}

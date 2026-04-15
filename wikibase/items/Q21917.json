@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anbe Nobutomo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21917$38027156-4FF4-460D-8654-DEA328605181",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21917$AC1707C5-36CF-4309-AC55-C4ADB810F7A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21917$C4BA0392-8F40-40CA-8E4D-CFD628B9FAAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19986",
+              "numeric-id": 19986
+            }
+          },
+          "hash": "41a13db162fb97f19e71264c891bbce9ac832b26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21917$B046E2EA-9230-401F-BCE7-E136D7D58C58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21917$500AA55A-EBBB-404F-A4BA-CA6148B78B22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1638-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8e228588af769f61a3887b7bd545c5a3bfa7a96",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21917$6FD54B36-B7B0-4497-B351-75913B6D9118",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1701-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2b35d71c91d5328e3d6bf615d8e26e625dbe4d44",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21917$BC57B92B-2323-4193-B259-3963F86949B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11451587"
+          },
+          "hash": "d5dd2188b842c35658535b3b9bc7b4c1fade6f7f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21917$AF663032-B3D2-43EA-865B-44F2ED913EDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anbe Nobutomo Arms.svg"
+          },
+          "hash": "cbdf1be5a395255f9e6f7dc37ebe41cdcfe97e7e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q21917",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Anbe Nobutomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安部信友"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобутомо Амбэ"
+    }
+  },
+  "lastrevid": 17420902,
+  "modified": "2025-09-16T02:31:04Z",
+  "ns": 860,
+  "pageid": 43928,
+  "sitelinks": {},
+  "title": "Item:Q21917",
+  "type": "item"
+}

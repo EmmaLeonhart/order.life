@@ -1,0 +1,180 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takeda Nobukage"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20615$DE742D6A-0565-4BFC-B402-24018EE3BA23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20615$A53B5C5E-C7BE-4770-828D-0E758B0C75DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20615$71455A33-2204-43C1-81DA-E0D4BF585AB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30874",
+              "numeric-id": 30874
+            }
+          },
+          "hash": "0dae79e1ce1300caf3ba717b2d9bacb7de4cb77e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20615$AE05F585-7CEA-480C-A0BE-A585CD48BA3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20615$217C71AE-DA7D-40B3-8B70-40CEE66B48F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1582-03-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca2c524e67891f68513a44ed45ecba9332821387",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20615$A39EA621-D4DB-467A-9EF9-EA7EA4303EB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11546100"
+          },
+          "hash": "fe8e1dde21237c5ca6a3d60b96e07831dfac3645",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20615$A8C3E698-8732-4BAF-B3D3-656E66D98301",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takeda Nobukage Arms.svg"
+          },
+          "hash": "42303366d062aac101caa7689aae59da13cd671b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代の武士。足利将軍家の家臣。右衛門佐"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20615",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Takeda Nobukage"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "武田信景 (若狭武田氏)"
+    }
+  },
+  "lastrevid": 17419660,
+  "modified": "2025-09-16T02:02:05Z",
+  "ns": 860,
+  "pageid": 42688,
+  "sitelinks": {},
+  "title": "Item:Q20615",
+  "type": "item"
+}

@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nihonmatsu Murakuni"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q17349$B06B5080-C3B0-4905-B6B5-4CD6DF9DE09D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18886",
+              "numeric-id": 18886
+            }
+          },
+          "hash": "97d9019ec4afcffda5f7bd6ce1dcc12c92466d7d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17349$D0FA2DF3-27BA-4810-B275-620DB7DE600F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18887",
+              "numeric-id": 18887
+            }
+          },
+          "hash": "17451b306afcbfdf2d8e2d858acd2096b7485325",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17349$54F07C34-EC12-4583-9F0B-44A270F9BB72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17349$4D28C8D3-9A6F-4C7E-800D-EE414DC24CC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17349$9FCD5105-5086-43A5-AD58-76FE9A220F3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16239",
+              "numeric-id": 16239
+            }
+          },
+          "hash": "3b02d5a05ffc034240494b623779bcdfed713a62",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17349$71D835D8-A223-4518-9E46-F51340D54F4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17349$4DAA20BE-2573-4624-9E56-D787FAFAE2BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1542-03-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a1de6bdda797046e6e6c3e45164a6a3e9fd492d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17349$E8463528-0043-4A72-9D02-514D6E16C514",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11371631"
+          },
+          "hash": "d24bfa45a1cf0cb34809b991f0641e4b10d649ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17349$98C92849-6AF8-46FB-8D04-8166E22ED7AA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nihonmatsu Murakuni Arms.svg"
+          },
+          "hash": "deb4f2a6bb582e47ba2e9f7a20b4551d24c7d147",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese military commander"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将 (-1542)"
+    }
+  },
+  "id": "Q17349",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nihonmatsu Murakuni"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nihonmatsu Murakuni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "二本松村国"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nihonmatsu Murakuni"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nihonmatsu Murakuni"
+    }
+  },
+  "lastrevid": 17416886,
+  "modified": "2025-09-16T00:52:46Z",
+  "ns": 860,
+  "pageid": 39581,
+  "sitelinks": {},
+  "title": "Item:Q17349",
+  "type": "item"
+}

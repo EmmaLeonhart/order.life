@@ -1,0 +1,483 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tekuder //"
+      },
+      {
+        "language": "en",
+        "value": "Tekuder"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q37545$8F94F75C-7AE7-41B2-AB59-83252D1B9D45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279764|1266887"
+          },
+          "hash": "fd046e648775a001d101f8d0cc9621121a030cda",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37545$D68C93D8-82A6-4AC6-8ED1-03C344B9C179",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37545$30917FF2-CCF8-4A22-BAC6-B616BE23B4A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37545$544DE322-664D-447B-8953-934532E7F06D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39106",
+              "numeric-id": 39106
+            }
+          },
+          "hash": "e3f93da51d81f656196a6ed117fdf1dabbbe91b0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37545$A8676A90-3813-44AF-8B07-15B09AE9870E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36518",
+              "numeric-id": 36518
+            }
+          },
+          "hash": "b5879204ee16cb2ab7cb8901196edc897f7a55cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37545$C494B220-BBEC-4213-9CA3-6F8A58AD4098",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37545$83783E6E-8993-4495-9051-AF21163C2B56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1247-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7e514117dacf435ddd8664ca07409cedd3fb1d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37545$86E876C7-C5B7-46DF-B6FA-3AB5016F903E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1284-08-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a1e9853a509c955d0eac927c6936b2d046e8e69",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37545$5B623A59-DA46-44DF-9402-8C046C62D8E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q337516"
+          },
+          "hash": "d62b16e1025707af3a3230123d9102b7db5c69e3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q37545$770C9D0D-9542-4686-98CB-0462C0BE72FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791545161"
+          },
+          "hash": "fcd06fbbbd9eb99ca6ed3698754acd47f64cdb73",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37545$1297B77C-29DC-4248-B65F-3BE8E1F46FE2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tekuder Arms.svg"
+          },
+          "hash": "7e4b8774b70c83bffdb832bafbbb663ecad327ac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أحد أبناء هولاكو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "soberanu mongol (1247–1284)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "mongolský ílchán v Persii"
+    },
+    "de": {
+      "language": "de",
+      "value": "mongolischer Ilchan von Persien"
+    },
+    "en": {
+      "language": "en",
+      "value": "the third Ilkhan of Mongol Ilkhanate (1282–1284)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سومین ایلخان ایخانان مغول (۱۲۸۲–۱۲۸۴)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan mongol gouvernant la Perse (Ilkhanide) desendant de Gengis Khan"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "शासक"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "perzsa ilhán, mongol kán"
+    },
+    "it": {
+      "language": "it",
+      "value": "sultano dell'Ilkhanato"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Mongolië (1247-1284)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca państwa Ilchanidów w Persji"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sultan perzijskega ilkanata (1246–1284) (vl. 1282–1284)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hükümdar"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ایل خانی حکمرانوں کا تیسرا حکمران جو ہلاکو خان کا بیٹا"
+    }
+  },
+  "id": "Q37545",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أحمد تكودار"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "احمد تكودار"
+    },
+    "az": {
+      "language": "az",
+      "value": "Əhməd Təkudar xan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "احمد تکودار خان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тэкудэр"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ahmad Tegüder"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tekuder"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tekuder"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tekuder"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tekuder"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "احمد تگودار"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ahmad Teküder"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tekuder"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחמד טקודר"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सुल्तान अहमद तेकुदर"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ahmad Tegüder ilhán"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tekuder"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tekuder"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テグデル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აჰმედ თოგუდანი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "테쿠데르"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "貼古迭兒"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Тэкүдэр"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tekuder"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teguder"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ahmad Tokudar"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "احمد تکودار"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tekuder"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tekuder"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Текудер"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "احمد تکودار"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tekuder"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ахмед-кан"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ahmet Teküder"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Текудер"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "احمد تکودار"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiếp Cổ Điệt Nhi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貼古迭兒"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "贴古迭儿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "贴古迭儿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "貼古迭兒"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "貼古迭兒"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "贴古迭儿"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "貼古迭兒"
+    }
+  },
+  "lastrevid": 17440010,
+  "modified": "2025-09-16T07:29:41Z",
+  "ns": 860,
+  "pageid": 55856,
+  "sitelinks": {},
+  "title": "Item:Q37545",
+  "type": "item"
+}

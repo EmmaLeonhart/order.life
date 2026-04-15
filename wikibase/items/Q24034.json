@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sō Yoshitsugu"
+      },
+      {
+        "language": "en",
+        "value": "So Yoshitsugu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q41760$544C175B-49EF-4035-936F-C04FB43E0506",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41760$141C5367-E54A-4774-BF58-67107B020A48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q41760$C6746F6A-4F49-469F-9648-909DFF2BCD89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37262",
+              "numeric-id": 37262
+            }
+          },
+          "hash": "fd46d9f134e372768cd1779bba0d44aec2f4fe63",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q41760$30BD5FEE-04F7-42EF-8F6E-4E9ED25D4046",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q41760$F31A30A5-D09E-4DA3-9422-8B3ACFA69EED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1671-05-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6455b309d03c2bee91c317bb4137def8d21787f4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q41760$645956C9-92F5-4D39-9E22-5A10FD5CC694",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1694-11-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0992e380e5748fa97594b6906e6882b792a4d64e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q41760$72CC7729-6852-4A0B-9661-B30771FD28CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11452029"
+          },
+          "hash": "c3a52cbc69a3157f5d583aac3deab4a8afa158ba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q41760$BC2700B0-F7D8-41FE-90EF-A6E4AD2172F9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sō Yoshitsugu Arms.svg"
+          },
+          "hash": "a1353c99543fb293efee1775a9165d52296ec2da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "対馬府中藩4代藩主"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쓰시마후추번 4대 번주"
+    }
+  },
+  "id": "Q41760",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sō Yoshitsugu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sō Yoshitsugu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "宗義倫"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "소 요시쓰구"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sō Yoshitsugu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宗義倫"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "宗義倫"
+    }
+  },
+  "lastrevid": 17445326,
+  "modified": "2025-09-16T08:45:30Z",
+  "ns": 860,
+  "pageid": 59008,
+  "sitelinks": {},
+  "title": "Item:Q41760",
+  "type": "item"
+}

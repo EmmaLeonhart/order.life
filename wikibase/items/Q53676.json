@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mahmud Khizr //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q53676$B6C8CD84-6BB6-4673-8377-91F7C38DC528",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "480022"
+          },
+          "hash": "1236560cb1f4284ee8aac07d32cb6228d7973946",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53676$D2655D4B-DA06-40F9-884C-1A830D846B14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53676$2F9CD635-3F3C-4BFE-8B64-8E5AAFF0BF9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53676$2C07FB7E-6AA7-42C0-A8B9-5746BC832D5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49057",
+              "numeric-id": 49057
+            }
+          },
+          "hash": "0ffce3b767d17fd28f6a8facfc42b68bb7897c7a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53676$9F7DE415-DE1A-44CE-B5C9-F5682F45DA16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53676$BB7B26A2-4A22-4E13-A1E6-09948CD04DA3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1361-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a47f9b099a92b029142e5a5ee089e8bbc2e77ce8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53676$862AD598-2875-45C1-A075-92A48E5343B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3820811"
+          },
+          "hash": "8ed8ce1c74782a5a5645a96051affb798f771741",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53676$4941A2CB-2476-49A1-8F6D-C100011E3517",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mahmud Khizr Arms.svg"
+          },
+          "hash": "2633d4b1482d11bd7862fdedb5ae60cf7caacdbb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "خان القبيلة الذهبية"
+    },
+    "en": {
+      "language": "en",
+      "value": "khan of White Horde"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité de la Horde blanche du XIVe siècle"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az Arany Horda kánja"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Алтын Орда ханы"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "хан Золотой Орды"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kan Bele horde v 16. stoletju"
+    }
+  },
+  "id": "Q53676",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "خضر خان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Xızır xan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mahmud Khizr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mahmud Khizr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mahmud Khizr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Qouzyr Khan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Khidr kán"
+    },
+    "id": {
+      "language": "id",
+      "value": "Khiḍr Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヒズル"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Құзыр хан"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хызр"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mahmud Khizr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хизр-хан"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mahmud Kizr"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mahmud Khizr"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kıdır Han"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Хызыр"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Хизр-хан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡迪爾汗"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "卡迪尔汗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "卡迪爾汗"
+    }
+  },
+  "lastrevid": 17460680,
+  "modified": "2025-09-16T12:29:39Z",
+  "ns": 860,
+  "pageid": 68507,
+  "sitelinks": {},
+  "title": "Item:Q53676",
+  "type": "item"
+}

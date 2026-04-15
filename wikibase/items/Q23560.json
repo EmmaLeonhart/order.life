@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Xinping"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23560$6484DE8B-0169-47D1-BD5A-BE5BC55BC96F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23560$11AAA0F3-8768-49B5-8840-A9BC6B61183A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23560$7256BFEE-9EF1-4C1D-AFC0-3F6DFDD594B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46621",
+              "numeric-id": 46621
+            }
+          },
+          "hash": "2289b6f8b4525fe559d8205f61a795c3082c58e1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23560$B94C97B0-5A86-40F8-9F86-1549E5E62610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46625",
+              "numeric-id": 46625
+            }
+          },
+          "hash": "dd2d72ea379519c7197668ebdf81dc7c4c42bdff",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23560$711239D8-641B-40F0-96E4-1FCB8EB64D0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "bcb7a20e89226ee4ff14368fd103ba418f9f4c9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23560$8FBDE620-80C1-4578-82BB-4F1404CF7A48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23560$477D516A-3F14-40DC-A9A2-7BE620ADEDCE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0771-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8cc6f6df17096aa93b24d16987fbbfd25e7d2e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23560$9BD6669F-1C2E-4B80-9C5A-2121F8D566B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10721746"
+          },
+          "hash": "498e64bdeb5f2ce9f86fd32ffe2e1aa06af414f1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23560$D21BAD27-9A1D-462F-BFAD-D440A13A446B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074767647007"
+          },
+          "hash": "8a82804a1c9315835acf0a9a36ad266720e511e0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23560$1747D008-DAC8-4CF0-927C-D9FBD8B972AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Xinping Arms.svg"
+          },
+          "hash": "3fadccc7163c53453f0fdd95abb9d81c646790a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "κόρη του Κινέζικου αυτοκράτορα Σουαν-τζόνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Chinese emperor Xuanzong of Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора  Сюань-цзуна"
+    }
+  },
+  "id": "Q23560",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ξινπίνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Xinping"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Xinping"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Xinping"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李氏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Синьпин"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "新平公主"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "新平公主"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "新平公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "新平公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "新平公主"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "新平公主"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "新平公主"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "新平公主"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "新平公主"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "新平公主"
+    }
+  },
+  "lastrevid": 17422570,
+  "modified": "2025-09-16T03:05:39Z",
+  "ns": 860,
+  "pageid": 45450,
+  "sitelinks": {},
+  "title": "Item:Q23560",
+  "type": "item"
+}

@@ -1,0 +1,391 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Kinsue"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q9268$06C94C72-03C0-4FD1-BEDE-F2F34812C612",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "808785"
+          },
+          "hash": "b9a238537e461575e95ec2b22135e9fbb72f0c61",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q9268$BFFE2E3F-92ED-4CA3-AF12-43C6CC54AD4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9531",
+              "numeric-id": 9531
+            }
+          },
+          "hash": "90b479cae65f379c85894c5c6fdd6a6a3132c1f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9268$72AA6AC2-20F4-4AB4-A1A4-059C6CF30207",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9530",
+              "numeric-id": 9530
+            }
+          },
+          "hash": "1733016de75f9ae97ee722073c4fae27aa524bc4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9268$D82058DC-FA06-43D1-AB0E-81CCC31B6A42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9532",
+              "numeric-id": 9532
+            }
+          },
+          "hash": "9a54cfb6c73a66c1679083177785b555432c7e2f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9268$6066A020-B437-4B3D-84BC-CD4B55D1025D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9268$3784E7B7-8098-4383-9680-340206FB0D09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9268$58FFC207-2F20-4FCB-B7EC-77C631926DC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9070",
+              "numeric-id": 9070
+            }
+          },
+          "hash": "42f7e41464bee2ed8ac6425a11e88f43d60ad6df",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9268$53405C92-C489-4996-B915-0065ABF7000C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9268$C83DBBBB-13A2-4AA6-8417-6721B9FEB85C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0956-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0cfa7b26e4e22b749853ae769221c5c551ddef17",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9268$54F63478-329B-4441-99F6-2D365F04F402",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1029-11-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb1dbe3337fbce84c623423ab43087140d0f39ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9268$475FEB60-5237-4865-894C-9F8FA5A4A184",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3090629"
+          },
+          "hash": "e88f70b82cb2bd919cc4f722a4c89f9564b1f0c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (957–1029)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský politik a dvořan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese statesman, courtier and politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité politique japonaise"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の公卿"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (957-1029)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q9268",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Kinsue"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fudžiwara no Kinsue"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Kinsue"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Kinsue"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Kinsue"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو کینسوئه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Kinsue"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Kinsue"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Fujiwara no Kinsue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fujiwara no Kinsue"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原公季"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "후지와라노 긴스에"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Kinsue"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Kinsue"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Kinsue"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Kinsue"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AFujiwara no Kinsue"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Fujiwara no Kinsue"
+    }
+  },
+  "lastrevid": 17410640,
+  "modified": "2025-09-15T23:14:58Z",
+  "ns": 860,
+  "pageid": 31738,
+  "sitelinks": {},
+  "title": "Item:Q9268",
+  "type": "item"
+}

@@ -1,0 +1,349 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nanbu Nobunao"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q21857$D3696C27-0EB6-4F3D-B5E2-78D01A588AEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1377672"
+          },
+          "hash": "9cba488991292266e728fdea1002a7e3610843b6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q21857$EB724866-6D3C-40D3-9CB1-2B06AAB268FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19911",
+              "numeric-id": 19911
+            }
+          },
+          "hash": "cb20d4e8c10937324be11739db72343e2efec481",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21857$402E1D7F-81FF-45E9-A4B0-D0B69EAC852C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21857$69A9C38D-3356-4F1D-9265-D93C718FDAC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q21857$EBCFA9DC-8A2A-4C4E-9A52-5C89F1FDB90C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37527",
+              "numeric-id": 37527
+            }
+          },
+          "hash": "82ac604806a6735361bd605cd20fa9af070c3ca5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21857$3BBD071F-0191-4083-B7FC-0AE6492C6675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41963",
+              "numeric-id": 41963
+            }
+          },
+          "hash": "5ae438831a995bfdcbf020ad5bb60cc05ba5ed9d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21857$88659A1D-E0A9-46B2-9230-694C1BB124C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21857$D342D9B6-1E3B-4F8C-B1BD-5F9DBFCDDD49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1546-04-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09b0513abfe14f2444691e6f755f6402febb1e3e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21857$225A4478-BC7C-423A-B93E-ECE11932BF8A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1599-11-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb6d0e8d343cbba22bc07a01ad7eba40a1b64490",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21857$5B28FB17-6594-47C4-B177-17DC84D031B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3137467"
+          },
+          "hash": "1f50d9e23d87cadf3617482e7476a0c9439bc98d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21857$065B3B87-5076-4728-8F75-2BC6143EA536",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nanbu Nobunao Arms.svg"
+          },
+          "hash": "840cf921856b1e500174befe72c25770cb69ccb0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1546–1599)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国大名"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1546-1599)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1546 – 1599)"
+    }
+  },
+  "id": "Q21857",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nanbu Nobunao"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nanbu Nobunao"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nanbu Nobunao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nanbu Nobunao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nanbu Nobunao"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نانبو نوبونائو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nanbu Nobunao"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nanbu Nobunao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南部信直"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nanbu Nobunao"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобунао Намбу"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nanbu Nobunao"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nanbu Nobunao"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nanbu Nobunao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "南部信直"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "南部信直"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "南部信直"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "南部信直"
+    }
+  },
+  "lastrevid": 17420848,
+  "modified": "2025-09-16T02:29:38Z",
+  "ns": 860,
+  "pageid": 43869,
+  "sitelinks": {},
+  "title": "Item:Q21857",
+  "type": "item"
+}

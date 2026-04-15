@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "中御門経康"
+      },
+      {
+        "language": "en",
+        "value": "Zhong Yu Men Jing Kang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q43752$B0792CF7-4FFE-487C-8B73-D80945536A90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43752$18FBEEC0-BF9D-4047-80FD-B3136E641A0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43752$B48B2C95-03B7-43C9-B933-CDBB30989406",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39592",
+              "numeric-id": 39592
+            }
+          },
+          "hash": "cfcd5ac2d9e27b314956618b837c191b2abbe911",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43752$B0EA067A-23A8-470C-8C97-D21408B093C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43752$B11CC6CB-048B-44C8-9CA1-ACA025814449",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1697-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a92ba1963fa509ffe769c4c01c24d1bacf0ad20",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43752$4A04A829-3C0E-486A-849C-91E8F7785783",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1707-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c625927858dd63cfb07bd6ed7c6da4d10e4c8d9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43752$DFC63D29-AF7C-457D-9DC7-112448D32DDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109196162"
+          },
+          "hash": "581a9f8d9fafac5fe43da883dd738a3b2de5624d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "中御門家19代。従五位上、侍従"
+    }
+  },
+  "id": "Q43752",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "中御門経康"
+    }
+  },
+  "lastrevid": 17447964,
+  "modified": "2025-09-16T09:23:03Z",
+  "ns": 860,
+  "pageid": 60501,
+  "sitelinks": {},
+  "title": "Item:Q43752",
+  "type": "item"
+}

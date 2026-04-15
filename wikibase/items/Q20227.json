@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Daigo Fuyumoto"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q20227$10E5BC86-6FC9-4536-8906-45EC2D966E41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "837211"
+          },
+          "hash": "ec6cf10fe630d395f70ffa00b479a091ae2aeaf2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q20227$0CEE966B-404D-4B07-BC23-841E95BB9EC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22169",
+              "numeric-id": 22169
+            }
+          },
+          "hash": "bb72dec05233d2b9c552ff7da939310856ac2f5c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20227$ECB3237C-591C-4B4F-B3C3-E76B0D94A5D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22168",
+              "numeric-id": 22168
+            }
+          },
+          "hash": "d21e9cbf4e2f7fecdd7e61e7ba5c265a981c2790",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20227$E6DB8AC1-BBFF-4C73-9196-1BE7983A2AFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38180",
+              "numeric-id": 38180
+            }
+          },
+          "hash": "23812d40c0731623a7a22dcd85f13ba0e2e47a6b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20227$8EC5FE8A-9C9D-48F7-AA8D-3552CCBC1B43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20227$C28BE14C-A919-492C-9F61-0F7D4B2ECF0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20227$5B4F5253-F56B-4F09-B40B-8343355F1732",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30151",
+              "numeric-id": 30151
+            }
+          },
+          "hash": "fc9eb91863fcd987800977749aaf7fbd4aa81732",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20227$9F02F810-ECC4-4A5E-B11F-82237C938D6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20227$CC078364-3073-436E-9324-43DB3285FD86",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1648-08-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "58dbd9202f73fcef01837d23d4c6fa5c57c11411",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20227$EEE80E9D-D813-4B65-8311-B362A39439F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1697-08-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01091fe136e9eb37f02bd1b4ab889735264ad5f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20227$227F744C-DE0D-4912-A15A-4FAFFE81F33D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5209111"
+          },
+          "hash": "2ee50f99c6be233a776d7a907233590f5ea15021",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20227$6ACEB6DF-0403-4D2A-BFDA-D51EF93A995E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Daigo Fuyumoto Arms.svg"
+          },
+          "hash": "5807187567860c03257feabfac792a400ba4696f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noble (1648-1697)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期から中期の公卿。清華家醍醐家の祖・初代。一条昭良の次男。正二位、権大納言"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (1648 – 1697)"
+    }
+  },
+  "id": "Q20227",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Daigo Fuyumoto"
+    },
+    "de": {
+      "language": "de",
+      "value": "Daigo Fuyumoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Daigo Fuyumoto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Daigo Fuyumoto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Daigo Fuyumoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "醍醐冬基"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фуюмото Даиго"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Daigo Fuyumoto"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "醍醐冬基"
+    }
+  },
+  "lastrevid": 17419370,
+  "modified": "2025-09-16T01:53:50Z",
+  "ns": 860,
+  "pageid": 42315,
+  "sitelinks": {},
+  "title": "Item:Q20227",
+  "type": "item"
+}

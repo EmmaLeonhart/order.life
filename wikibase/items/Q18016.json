@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kenson"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18016$3AE382B0-71CE-4FF6-B37E-E04C8FE5407C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18016$1D1CB19A-8B26-4086-B1D7-0CF850FBA159",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18016$3766DC96-D605-4ED6-BA80-4D26ADFF97F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29000",
+              "numeric-id": 29000
+            }
+          },
+          "hash": "8196d0bfcc11ca3aff7bc697e2bc8b797aba5825",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q18016$D887BA0C-8D13-4B6D-89A4-6465439D0609",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26723",
+              "numeric-id": 26723
+            }
+          },
+          "hash": "a84fa1a0fcdb7770da93597e4764b1e896aa4de5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18016$A9D30C9C-4DD9-45C0-A179-CE97BD5D0FCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18016$0899756D-93F1-462E-A49A-3D95B44C6428",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1564-03-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a9db0f2ac09300edff6e2dea9e0ad3b01998de6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18016$5E785779-BBF9-4F6B-9C89-11E87DB737D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1599-03-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "86f40ab5e73061fde6a48180ea39e238f55691f3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18016$61C8236B-9304-419F-A93C-B6A57EDA2CC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6605636"
+          },
+          "hash": "e07473f68b6548c537f4a5e70d5bb8d98c2b30bd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18016$7F96AE1E-D37D-498E-B650-BA7D1888652F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kenson Arms.svg"
+          },
+          "hash": "6002cb9114484e001a1717f98649b4e922c5ee58",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "1564-1599, 日本の戦国時代～安土桃山時代の僧。本願寺11世門主顕如次男で、興正寺16世門主証秀養子。後に興正寺17世門主となる"
+    }
+  },
+  "id": "Q18016",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kenson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kenson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kenson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kenson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "顕尊"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "켄손"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "顯尊"
+    }
+  },
+  "lastrevid": 17417446,
+  "modified": "2025-09-16T01:06:07Z",
+  "ns": 860,
+  "pageid": 40221,
+  "sitelinks": {},
+  "title": "Item:Q18016",
+  "type": "item"
+}

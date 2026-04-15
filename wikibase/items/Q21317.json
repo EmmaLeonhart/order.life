@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Shouchang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21317$D3CD9EC5-3C3D-495B-9D24-756263F7B57F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21317$EBC811F6-853A-458A-9966-F1FFED7DC34E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21317$719A3672-B06F-4D06-997B-AB72991A075C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19352",
+              "numeric-id": 19352
+            }
+          },
+          "hash": "944127702063018bb60e31a520e19f499eb1405e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q21317$35686900-81CE-4A9B-A240-351D76FA6756",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21307",
+              "numeric-id": 21307
+            }
+          },
+          "hash": "49a2a4e5081f85ec65a69d5e4250361a01bb393c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21317$42087521-984D-424A-ACCC-89CBA7F848CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21317$DC5FA855-C584-4209-BBFF-B4D2F20C472B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0685-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f35dd51d8eda0348086ab827156fd70f1694b90b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21317$24621752-F2E4-493A-88DC-E27606A3E398",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10957001"
+          },
+          "hash": "3ee202e69ef455c1d0cd1a137c8d4028c9fb388c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21317$F595DAE5-EF9E-4DFB-B866-F0C940004FC0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Shouchang Arms.svg"
+          },
+          "hash": "02710cd579ff941e8b1a2588561f621e9bb33721",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daughter of Emperor Ruizong of Tang"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tang Zsuj-cung császár lánya"
+    }
+  },
+  "id": "Q21317",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Σοουτσάνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Shouchang"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sou-csang hercegnő"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "寿昌公主 (唐睿宗)"
+    }
+  },
+  "lastrevid": 17420342,
+  "modified": "2025-09-16T02:16:40Z",
+  "ns": 860,
+  "pageid": 43357,
+  "sitelinks": {},
+  "title": "Item:Q21317",
+  "type": "item"
+}

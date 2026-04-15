@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhang Zuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45017$C0485E11-3976-4945-B785-4B9FF9A6A41F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23250",
+              "numeric-id": 23250
+            }
+          },
+          "hash": "4784b97001a54b45f914df8433fb297435636a8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45017$8FDC3D8C-9D46-410B-A7FD-8CC8F7622461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45017$97D32ABD-8630-44B0-9FB9-2C616530A11E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q45017$C0683BA4-DEF7-4F8C-986B-1204F6311349",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45021",
+              "numeric-id": 45021
+            }
+          },
+          "hash": "5b9ec7119ecdc78496fcc029c1e10c53a0d056c1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45017$09B31903-26A9-4AC5-9D86-CDB4A98D8725",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53429",
+              "numeric-id": 53429
+            }
+          },
+          "hash": "dc4803baa0950d2df22cf00ab770cddc05476699",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45017$B99AF70E-7CE0-45EB-82B8-B7C3E4A16F0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45017$890B4816-9E8B-439A-97F6-3C8CE8C82307",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0499-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fb9bfaab57b237d2e49490ff941348efe807bbe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45017$C42143E5-0F15-4F6C-AD42-301CCB701600",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26197747"
+          },
+          "hash": "cedf698f1d034d9db53bd71952efe9617c5c7069",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45017$4C5B6185-40C5-4804-8F00-3378D4C1D735",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhang Zuan Arms.svg"
+          },
+          "hash": "7088ebf0d0bd5149f23b5a6b942094f9c9942390",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "politician of Southern Liang dynasty"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南朝梁の文人・官僚・政治家"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Liang dynasty"
+    }
+  },
+  "id": "Q45017",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zhang Zuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhang Zuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhang Zuan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "張纘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhang Zuan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trương Toản"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "张瓒"
+    }
+  },
+  "lastrevid": 17449360,
+  "modified": "2025-09-16T09:44:50Z",
+  "ns": 860,
+  "pageid": 61446,
+  "sitelinks": {},
+  "title": "Item:Q45017",
+  "type": "item"
+}

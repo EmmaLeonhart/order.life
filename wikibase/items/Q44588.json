@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Silin"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q44588$7D4D2BAF-25DD-4661-8111-5ACAB153727D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52399",
+              "numeric-id": 52399
+            }
+          },
+          "hash": "498d76223e534f3328847c8c93ff7911ba3288af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44588$D4272298-DAB8-40E6-92C1-5E00BA313F8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52403",
+              "numeric-id": 52403
+            }
+          },
+          "hash": "1c558db56fdd8573732986771ef2015a68531326",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44588$D892563A-6FEA-4130-98D6-048716D2AD41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52407",
+              "numeric-id": 52407
+            }
+          },
+          "hash": "c18286b4e970b7f7294758200b818a75eab972ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q44588$FDBEF1B3-FB4A-453A-ABA2-3494433130BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44588$FBA7B414-1819-4613-AF57-711EDA68D8CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q44588$8E6ED092-2617-4A9C-BB0E-47625BFF892C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40524",
+              "numeric-id": 40524
+            }
+          },
+          "hash": "5390f477d8483a623ecba0d43f9617cfa15674a0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q44588$24BC9756-7F63-4E5D-A254-862665037594",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q44588$6B6A6748-C9F3-43C9-9BC9-6C28BC8FD574",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0793-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "233a5e94cfa6d7fe2f12b04f875b98c7cf50b330",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q44588$AD0A3C3B-A85D-44D0-97D3-593971E444C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45462378"
+          },
+          "hash": "4d446b962af37829253f201c4ca1177d1ed62c4f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q44588$21C068B3-6D89-4E4F-83C6-EAF044EAAAA5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Silin Arms.svg"
+          },
+          "hash": "6976c8033f0f9def573da1b7cff29f93b5746040",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187785"
+    }
+  },
+  "id": "Q44588",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Silin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Silin"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李嗣琳"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Silin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李嗣琳"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李嗣琳"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李嗣琳"
+    }
+  },
+  "lastrevid": 17448806,
+  "modified": "2025-09-16T09:35:07Z",
+  "ns": 860,
+  "pageid": 61125,
+  "sitelinks": {},
+  "title": "Item:Q44588",
+  "type": "item"
+}

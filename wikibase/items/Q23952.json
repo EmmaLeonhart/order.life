@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nabeshima Masashige"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q23952$B3C0B61B-D5DF-44DA-98D5-1A4A31E57F04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "鍋島-76"
+          },
+          "hash": "dac2c7f1af78082dbb5f039459ca5eb3808792e8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23952$48BD2683-BB0B-41A0-8EF8-80809F7AB809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23952$ACF79006-8E54-460A-83C3-8026874D8BC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23952$1EB7192B-6EF1-4A81-AD4D-DDF893F3EDA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21638",
+              "numeric-id": 21638
+            }
+          },
+          "hash": "520aded3fb1c086e3055bf185a51086df614653f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23952$88607A7D-E05A-48FC-AE35-6669EDD2F80A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23952$90F1C5D1-C5D1-40B0-A7D0-04B11D20617F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1606-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61dfa57bfea94bd7b0b46ea34764e1e85b85e5e8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23952$B38B025B-3253-4C19-A48A-2AE7B83E335D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1687-01-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10803b4760ba6dde9bdb65975689f67cbb804eab",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23952$A308C309-9B1A-4477-A880-A0B7577AA65F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11650655"
+          },
+          "hash": "5f097039ed7697a2773642269c3d002b40002d2d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23952$32325956-AA78-48F8-B340-EED5253BF56C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nabeshima Masashige Arms.svg"
+          },
+          "hash": "a09a2c66892ffd6722495957c5b81647688487ec",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1606-1687)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1606-1687)"
+    }
+  },
+  "id": "Q23952",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nabeshima Masashige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鍋島正茂"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Набэсима Масасигэ"
+    }
+  },
+  "lastrevid": 17422974,
+  "modified": "2025-09-16T03:13:28Z",
+  "ns": 860,
+  "pageid": 45761,
+  "sitelinks": {},
+  "title": "Item:Q23952",
+  "type": "item"
+}

@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Yongsan //"
+      },
+      {
+        "language": "en",
+        "value": "Prince Yongsan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q36747$E819AC0E-B93F-4BA5-AA4C-4B38F4162C64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36747$E23ED984-6B24-4FDB-B0FC-97236A270711",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36747$1AFBA8E1-2613-4738-9212-633CC06DACB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36138",
+              "numeric-id": 36138
+            }
+          },
+          "hash": "e6d8cfbeb56c0429ecd8eb95b696e26fb011737b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q36747$2C2B3AD1-64A2-433B-B850-49BCEAA1F220",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36727",
+              "numeric-id": 36727
+            }
+          },
+          "hash": "5004e60b8df47aa45ad487edf88638372729dd56",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36747$967BB239-F3CC-4AC3-BA27-279B629E362F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36747$0D680909-FA88-47AB-92DD-5DE08F7A9E68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1325-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5fceba229fe6412d0a72d757b33fb21bffc930a5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36747$348564F4-89BF-4899-A1E5-BA2F0B671ABC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12608702"
+          },
+          "hash": "ef299a4fe431fd51612d0ef4af8e5fe60fd59b5f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36747$104BF94A-FA31-4DB4-9E38-443B782A8949",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Yongsan Arms.svg"
+          },
+          "hash": "0c5996a17936f6e9218be088c3511cad69cddfc4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "heir Successor (Prince) of Goryeo"
+    }
+  },
+  "id": "Q36747",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Prince Yongsan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "龍山元子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "용산원자"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "龍山元子"
+    }
+  },
+  "lastrevid": 17438944,
+  "modified": "2025-09-16T07:14:17Z",
+  "ns": 860,
+  "pageid": 55261,
+  "sitelinks": {},
+  "title": "Item:Q36747",
+  "type": "item"
+}

@@ -1,0 +1,182 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "井上正岑"
+      },
+      {
+        "language": "en",
+        "value": "Jing Shang Zheng Cen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42275$FC3E09B2-63BA-4BAA-950B-C838B18B3DD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42275$B3CFE2CD-3D47-4AA1-9482-52F33C53A0F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q42275$8FF3753C-95C4-4C91-9720-79D1D1813FCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38040",
+              "numeric-id": 38040
+            }
+          },
+          "hash": "362b59bd967fa874af8d20793c943b4b4255c090",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42275$B1F5C743-50C2-4AD5-A051-FDA36EA5336E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42275$C360A1AD-DF97-4323-AAE8-CC3860FDCBD8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1653-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94521de8c36f3f925f75ec4cb4e83f09a7853c21",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42275$1C14FD77-55D3-4FF6-80C1-A4195E752AF0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1722-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8bf55dd20669bcb5ef06c0d115057667badc637",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42275$F2B1AE4B-AFB8-42F4-B1C2-4A5EABAFCE0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11373077"
+          },
+          "hash": "1e81e4752fe9760a3d98a1709b942d8bafd59a0b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q42275",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "井上正岑"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이노우에 마사미네"
+    }
+  },
+  "lastrevid": 17446004,
+  "modified": "2025-09-16T08:55:06Z",
+  "ns": 860,
+  "pageid": 59397,
+  "sitelinks": {},
+  "title": "Item:Q42275",
+  "type": "item"
+}

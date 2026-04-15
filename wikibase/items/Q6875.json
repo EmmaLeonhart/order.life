@@ -1,0 +1,449 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Seimu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q6875$5621B0A7-1D50-445E-9B33-72F0BFE4E52C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6875$37B357EE-9F1A-4A0D-A6E1-5DF2672203B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q6875$8168451F-E786-444F-9C44-A06EB92CF3D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6840",
+              "numeric-id": 6840
+            }
+          },
+          "hash": "58669abc08e08da6280f36837c9c846204e24b7b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6875$C4162141-3351-4FC4-A1E7-220DF9A4145C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6875$4370EFA2-8AE4-4567-B51F-97CDBF031934",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0083-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "328203ad2e68ae458ef045b2da09315a26187e91",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6875$BDDABFFD-C9CB-4014-BD59-7C4FF0037D05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0191-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "871f6afe6937593b9075378f101e5c3691666deb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q6875$BAF718F6-4E63-4E02-809B-CBC515716596",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Seimu.jpg"
+          },
+          "hash": "7c1f827504df61d4b988886c9afe80d74bdc9f1f",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6875$6A33A3EA-ADF4-4046-BB5F-C45323A39F91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316672"
+          },
+          "hash": "4ea647d770d0914e546cd5910fd635c08ab77721",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6875$11B70BFD-64BB-4D1C-9564-CF422E29CE1D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Seimu Arms.svg"
+          },
+          "hash": "46cb008b44c1b2915d091e4d9ba5fc45cdac0459",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (83–191)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "13. Tennō von Japan (131–191)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "la legenda 13a tennoo de Japanio"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador japonés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第13代天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제13대 천황"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (83-191)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "13º Imperador do Japão"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    }
+  },
+  "id": "Q6875",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور سيمو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور سيمو"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سیمو"
+    },
+    "br": {
+      "language": "br",
+      "value": "Seimu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Seimu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Seimu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Seimu"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Σέιμου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Seimu"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Seimu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Seimu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور سیمو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Seimu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Seimu"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Seimu"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szeimu japán császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Seimu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Seimu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "成務天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სეიმუ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "세이무 천황"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Sêng-bū Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seimu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Seimu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Seimu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Seimu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Сэйму"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Seimu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sejmu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Seimu"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Seimu"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิเซมุ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Seimu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emperor Seimu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Сейму"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Seimu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Seimu"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Seimu"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "成務天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成務天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "成务天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "成务天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "成務天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "成務天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "成务天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "成務天皇"
+    }
+  },
+  "lastrevid": 17406769,
+  "modified": "2025-09-15T22:26:32Z",
+  "ns": 860,
+  "pageid": 29370,
+  "sitelinks": {},
+  "title": "Item:Q6875",
+  "type": "item"
+}

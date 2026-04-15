@@ -1,0 +1,329 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q49334$AFF79B2A-C819-43EB-9D90-133E850BC253",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293037"
+          },
+          "hash": "592d54ffebb5936afc909baeae91b01e78e5c5b2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49334$66FC2EDB-192F-4A76-9D69-E4572BAF8B64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54036",
+              "numeric-id": 54036
+            }
+          },
+          "hash": "de315384eb63d131d2786011e22d6db8f14e0e49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49334$7AEB0428-A13E-4EB3-A44C-3EC256B8B450",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45901",
+              "numeric-id": 45901
+            }
+          },
+          "hash": "2a8bd05cb72a6ef7e0a9a5f0b4bfc24cd35d9925",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49334$469EA432-9D05-4D5A-9350-8D84DD860BCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49334$89AC5A4C-EC84-4B42-B1AE-1CC25ED948EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49334$8EACD425-0491-43CB-848D-1CED1E78F459",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54032",
+              "numeric-id": 54032
+            }
+          },
+          "hash": "504d292beb26e13e88f9930e4e2528412d404635",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49334$3A6FEA12-9BE8-49BC-B373-130A471EC91E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49334$2977D36C-2516-44E7-8FF5-B4B5BB85E629",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1156-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c39aeea26f88b18a7f2ec037d925cf973daa5ec0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49334$C9F8F962-7009-4E77-A5BC-FD6EB01C090D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3856737"
+          },
+          "hash": "36a8fbc00317baa5ee7bd2a2b76478b96f260093",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49334$3F0EFA89-6DB3-4AB3-A2A5-04375904AD77",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael Palaiologos Arms.svg"
+          },
+          "hash": "04c7d1fbb6ef5a48e34f4481bbeeb0e4752e48fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски генерал"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine general"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire byzantin du XIIe siècle"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale bizantino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier uit Byzantijnse Rijk (?-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийский аристократ, военачальник"
+    }
+  },
+  "id": "Q49334",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Михаил Дука Палеолог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Miquel Paleòleg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Michael Palaiologos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιχαήλ Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Michael Palaiologos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Michael Palaiologos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Michael Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miguel Paleólogo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Michel Paléologue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Michele Paleologo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Michael Palaiologos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Michał Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Miguel Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Miguel Paleólogo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Михаил Дука Палеолог"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Михаило Дука Палеолог"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Михайло Палеолог"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米海尔·帕列奥略"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "米海尔·帕列奥略"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米海尔·帕列奥略"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "米海爾·帕列奧略"
+    }
+  },
+  "lastrevid": 17455078,
+  "modified": "2025-09-16T11:06:58Z",
+  "ns": 860,
+  "pageid": 64669,
+  "sitelinks": {},
+  "title": "Item:Q49334",
+  "type": "item"
+}

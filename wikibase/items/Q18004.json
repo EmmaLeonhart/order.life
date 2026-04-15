@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kiryu Chikatsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18004$5586CD2B-0A59-4B19-A57E-AB89F080573A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18004$75480FC8-7596-4D50-B7CC-4B4ABC97B775",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18004$D8F4458C-F131-4BC9-8709-0FE7CDF10096",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18003",
+              "numeric-id": 18003
+            }
+          },
+          "hash": "bf3b61e32feb6ef92bc5ed31d41d4fece528ddf5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18004$33E5CF92-05D0-4083-85B0-BA7F30F8C0CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18004$14D31CE7-D3C3-4231-B9E5-7F1D74837D15",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d304495ace6e680fb3700ba38a106c42e6332a66",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18004$84B7BB61-1F02-4B8F-BCD5-1A73D3BC392A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1598-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89930acc7b055fbc962247e097aff03d3b0fc52d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18004$1399D19A-76E5-4169-9766-7926F0B95E31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11537355"
+          },
+          "hash": "1eef0af6ae48b80ef33a69d6fe9beab0c421a9db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18004$D1217C2A-FD70-4BA1-B75D-F20C3F0E8B61",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kiryu Chikatsuna Arms.svg"
+          },
+          "hash": "f1ed17854b17833430e4973e316da8f63800bc76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q18004",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kiryu Chikatsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "桐生親綱"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "키류 치가츠나"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kiryu Chikatsuna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тикацуна Кирю"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kiryu Chikatsuna"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "桐生亲纲"
+    }
+  },
+  "lastrevid": 17417438,
+  "modified": "2025-09-16T01:05:54Z",
+  "ns": 860,
+  "pageid": 40210,
+  "sitelinks": {},
+  "title": "Item:Q18004",
+  "type": "item"
+}

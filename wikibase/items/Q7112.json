@@ -1,0 +1,487 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Buretsu"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7112$B6087F7E-14FE-44AC-A42D-5233D55BE6D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719984"
+          },
+          "hash": "d3ec6ff47250cf9290ffe7ab38c2c85f931955b5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7112$703B6D4D-B68D-491E-852C-6B359F713435",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7112$965C8298-C334-4F6A-91C6-04BB6BACBFD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7112$674BC004-E947-4FAF-9312-D3CB4B62551C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7085",
+              "numeric-id": 7085
+            }
+          },
+          "hash": "df1692fec62d5ea2d095710cd448cf17f4e9892e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7112$A387F0F2-DEBB-414C-90BC-1EF770995C82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7077",
+              "numeric-id": 7077
+            }
+          },
+          "hash": "785706fc38e00616f95fe2438eebb6d6e70e52b4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7112$211813DF-44B0-4E50-B5AB-2EDBBC4E50E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7112$71B268E0-6BC6-48AE-B012-A9C4D4F18513",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0489-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "711d5edc125f3cbdf50a661f168f5710825da18d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7112$0F08D1F8-E9D3-4C08-9167-E8BE01F9D105",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0507-01-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e55e92df591c9eae92deabecb1b91b5fa4c593a1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7112$EC300B74-BAB8-4961-B835-9952E744980C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Buretsu.jpg"
+          },
+          "hash": "517930ed488d27af1b7dab9b15ebd89c24770058",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7112$6DA2B633-5861-47DB-8A78-1144650E188B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q334644"
+          },
+          "hash": "cc4e35471d46992d4a2e81586a995badee5fc020",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7112$A53F9924-9658-4A0D-8F93-782B6C9AE292",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Buretsu Arms.svg"
+          },
+          "hash": "3298e9459d574ecad564e87f7af8127196a6b00b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (489–507)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "25. Tennō von Japan (498–507)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "tennoo de Japanio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第25代天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제25대 천황"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (489-507)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    }
+  },
+  "id": "Q7112",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور بوريتسو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور بوريتسو"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بوریتسو"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সম্রাট বুরেৎসু"
+    },
+    "br": {
+      "language": "br",
+      "value": "Buretsu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador Buretsu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Burecu"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Buretsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Buretsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Buretsu"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Burecu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Buretsu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور بوریتسو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Buretsu"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Buretsu"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Buretsu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Buretsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "武烈天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბურეცუ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "부레쓰 천황"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Эзэн Хаан Бүрэцү"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "बुरेत्सु"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Buretu Thian-hông"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Buretsu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Buretsu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Buretsu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Buretsu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Buretsu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Бурэцу"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Buretsu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Burecu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Buretsu"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Бурецу"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Buretsu"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิบุเระสึ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Buretsu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Buretsu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Бурецу"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Buretsu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Buretsu"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Buretsu"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "武烈天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "武烈天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "武烈天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "武烈天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "武烈天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "武烈天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "武烈天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "武烈天皇"
+    }
+  },
+  "lastrevid": 17406977,
+  "modified": "2025-09-15T22:29:10Z",
+  "ns": 860,
+  "pageid": 29607,
+  "sitelinks": {},
+  "title": "Item:Q7112",
+  "type": "item"
+}

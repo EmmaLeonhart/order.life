@@ -1,0 +1,373 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tokugawa Mitsutomo"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q16143$6B7CB84C-4DFD-44A0-A48E-BE92B976BBB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523401"
+          },
+          "hash": "2bda2f888a41ea0977b6d11fa1222c6da370ddfd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q16143$5375095D-AC66-42A2-889D-40F226361A3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17168",
+              "numeric-id": 17168
+            }
+          },
+          "hash": "c10bd43c1d44e1f86d016a0b666df2c6b520c700",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q16143$0FF0D755-C886-4C1B-B0B2-D8F8B3BC4B81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "徳川-11"
+          },
+          "hash": "f8bee80b9cc1481c49a3ffc63c223223ac9c9894",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16143$657F3998-6D58-4329-85FB-B93FEDB5C714",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16143$4FDE4A71-9175-4C52-A9A1-5F9CF07939D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16143$A2D1613D-C3E6-4058-B3D4-D4F87BB8B73D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17123",
+              "numeric-id": 17123
+            }
+          },
+          "hash": "f8728120bcbadc1835a051d5ac2f6202185c22f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16143$53E5442C-3ED1-48FA-BB0B-80306BD5E668",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15475",
+              "numeric-id": 15475
+            }
+          },
+          "hash": "62c642a2bf35ec9e4b47a6f81fe7102b95cdb257",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16143$53B12B6E-ACCE-48B2-B859-B362745BA1E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16143$617F2112-CC22-497B-A7B3-9D9E61EB6247",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1625-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc21f5bce13392fc36a7f99e817f1d15265eee27",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16143$61DE9EA6-8EC0-44F8-BA4B-F53CA06DCCD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1700-11-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc1b23ee84262e954e4b9fab375088c19f743173",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16143$CFC175FC-B2A8-4943-9AA8-EDE4960A47D9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokugawa Mitsutomo.jpg"
+          },
+          "hash": "1d823a0ccfdbf8749367a30be549db508fc203b1",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16143$E1F5BA5C-264E-48D2-968B-32EF1BBF9F73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q843245"
+          },
+          "hash": "69c1d6f25c2a0400a828323f2c74dfc9e45d9b67",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16143$B81FBFC2-F9FC-4F53-B7F7-9CDA928EA109",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokugawa Mitsutomo Arms.svg"
+          },
+          "hash": "cb4b6b908e0a370fd07cde4501477dace2e295ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Kalligraf und Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の大名。尾張藩2代藩主。新陰流第6世。従二位、権大納言。徳川義直の長男。実母は歓喜院（側室、お尉の方、上、吉田甚兵衛の姉）"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오와리 번 제2대 번주이자 야규 도시카네의 검술 제자"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1625-1700)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1625 – 1700)"
+    }
+  },
+  "id": "Q16143",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "徳川光友"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "도쿠가와 미쓰토모"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "th": {
+      "language": "th",
+      "value": "โทกูงาวะ มิตสึโตโมะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tokugawa Mitsutomo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德川光友"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "德川光友"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "德川光友"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "德川光友"
+    }
+  },
+  "lastrevid": 17415792,
+  "modified": "2025-09-16T00:28:41Z",
+  "ns": 860,
+  "pageid": 38408,
+  "sitelinks": {},
+  "title": "Item:Q16143",
+  "type": "item"
+}

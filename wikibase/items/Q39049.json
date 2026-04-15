@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Erqe Qara //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q39049$08BD61B0-9B98-4FC3-94EA-38487A50EC71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39049$97436564-60FD-455D-A4CB-9FEC8F7A9C9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39049$B3E73A2A-02C8-47B4-AEED-D2DACBD70717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39041",
+              "numeric-id": 39041
+            }
+          },
+          "hash": "62a877d0d4759619cb8bd109377cbf6fe8b86050",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39049$1BF33403-2301-4ACD-8114-DA24FB31F9F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39049$EB9E269A-5E59-4923-A82C-2B478F446298",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39049$E1E7E6B1-0ADC-4FA2-ADC9-4D0CD0CE19C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18b26d6269d66f0e1ec5fc613fc17f19e7f5bd05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39049$A28B523B-D4CA-415F-A22F-CF3AE3085264",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q101429401"
+          },
+          "hash": "d2cbdc19a22b7d626434b88aa2716723cfbc5768",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39049$AC12A3A2-FD76-498B-AA7E-7F6B67DA9480",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Erqe Qara Arms.svg"
+          },
+          "hash": "0c9dbe6b46b907a89c5b928336d2d65a772d299e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Kerait prince"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nojon uit Mongolië (-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кереитский князь"
+    }
+  },
+  "id": "Q39049",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Erqe Qara"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Эрх Хара"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Erke-Khara"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erqe Qara"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эрке-Хара"
+    }
+  },
+  "lastrevid": 17441810,
+  "modified": "2025-09-16T07:55:30Z",
+  "ns": 860,
+  "pageid": 56981,
+  "sitelinks": {},
+  "title": "Item:Q39049",
+  "type": "item"
+}

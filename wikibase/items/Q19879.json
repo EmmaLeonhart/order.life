@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshioki"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q19879$3B449171-6AC1-4C55-9B23-18C2D93807F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560103"
+          },
+          "hash": "bf35b388b83974eb7b4e3955a5c5d1e5faeca537",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19879$FC848CCF-632C-45D2-99C1-550AC0D8E2CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19879$029AF916-FA20-4E90-97B2-8CB9B38B42FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19879$0C299D50-F6EC-45D7-85B8-03AFEC5DDF98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18259",
+              "numeric-id": 18259
+            }
+          },
+          "hash": "186f413eca3ad6cec171a859207f888b3c9f2988",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19879$200B825E-CB63-4ABF-818E-0A0CAD750028",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19879$4312334B-66B4-4F38-A009-BF0CFFCF70AA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1678-07-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d1329a457f3b215dd9a965ad74845c7846052dfe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19879$9BE1739F-1202-4006-8DDE-47B91A1E8082",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1733-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "41e2b5618a4058ec0875a75438090508d7a916ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19879$F153F47F-63B2-4945-AE11-6E086F5E0970",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11397453"
+          },
+          "hash": "d2660978031de8b8026bf1372f607b47cdad397a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19879$4293799B-AA80-4E2F-8854-F432CE677F50",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshioki Arms.svg"
+          },
+          "hash": "cf540c0593b9a1c2752aecee51a2ad6a9cdf5223",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期の大名・棋士。越中富山藩2代藩主前田正甫次男で、富山藩3代藩主。従四位下長門守"
+    }
+  },
+  "id": "Q19879",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshioki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利興"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосиоки Маэда"
+    }
+  },
+  "lastrevid": 17419066,
+  "modified": "2025-09-16T01:46:06Z",
+  "ns": 860,
+  "pageid": 41986,
+  "sitelinks": {},
+  "title": "Item:Q19879",
+  "type": "item"
+}

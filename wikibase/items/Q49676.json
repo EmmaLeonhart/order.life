@@ -1,0 +1,803 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Violant of Aragon //"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "阿拉貢的維奧蘭特"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q49676$587643B1-62A2-4D0F-846D-C63D45AD19AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "53335"
+          },
+          "hash": "e65d541cb5cee740b09c6ae1b357651c52c30a66",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q49676$114BFAB6-5589-4381-8AFF-832B5F15DD87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00005042"
+          },
+          "hash": "e2061dfb6b8208f75b2f98dd461e83600119d1f2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49676$6DD663E5-0B89-4681-B4F0-F3BBA727DFB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49684",
+              "numeric-id": 49684
+            }
+          },
+          "hash": "7977d35966ea5cacf3b90cbff60f268e1e1cc53b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$ECF6C8EE-F114-4264-87B4-3EE5D35A639F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49692",
+              "numeric-id": 49692
+            }
+          },
+          "hash": "a670d00a715bbfc99936278f1dda3fd1effb5d9c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$EDC4626A-B7D2-4478-8EB3-C76C7E76F0DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46042",
+              "numeric-id": 46042
+            }
+          },
+          "hash": "42c3e40def2f2b0db1a03391fafd3ed2510fb3e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$99BC4B2B-2920-4BC0-9B6D-F85F9111828E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49688",
+              "numeric-id": 49688
+            }
+          },
+          "hash": "38952971130823045d321d23d36ff69995404cb2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$9D9C898A-ACA2-40EC-954F-49BE96F8A3FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49696",
+              "numeric-id": 49696
+            }
+          },
+          "hash": "ce7e7d0c02b08489b408e99b897c0056745b633e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$DDF3A4E0-1D9C-4B69-8936-BE54943AA40F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49712",
+              "numeric-id": 49712
+            }
+          },
+          "hash": "823a6c73fe20bbad2e5d6523cc202a773f9bd0bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$8848C2BD-378A-4D4F-B96A-DCBF05A02600",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49716",
+              "numeric-id": 49716
+            }
+          },
+          "hash": "c8d3be51e1a74b3cc1891b065778afe5d09f702b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$0356D5B2-406B-44F0-A66A-684AE6C11A96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49700",
+              "numeric-id": 49700
+            }
+          },
+          "hash": "9db24d1534578fb28c934183de8624f15de1aa88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$8E9FC1D8-0C3F-45D8-8D15-5D106DF6CD0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54857",
+              "numeric-id": 54857
+            }
+          },
+          "hash": "ec318806b715777d81cd23396d251a8c7e2f2b42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$972F6F7F-8922-403E-A788-111B0D3E29DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49704",
+              "numeric-id": 49704
+            }
+          },
+          "hash": "3743457c345b93b2659b7f2cc2d2c2395055d880",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$FC6A372D-7880-4FBA-A743-38E06703A9CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49708",
+              "numeric-id": 49708
+            }
+          },
+          "hash": "5b4d797b2718d91bf1b400c9c8af490f78867b3a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q49676$433DFC04-8692-4B5D-9233-CFB9B12C6514",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aragón-119"
+          },
+          "hash": "c7b061df5dde259a08de7d26e301657449bceaa0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q49676$03718F5F-5988-49B7-81BD-517EACB44F6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I3237"
+          },
+          "hash": "81d1e85ea851239bce3a7d8648a32e3e9ba8b1e6",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49676$E3366C52-C11F-4181-B5EF-961AB59D49EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49676$10050112-2183-4F04-B7EE-58B720EF1293",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q49676$E92B8251-8730-4603-98BC-AA78897AD657",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Violant_of_Aragon_(1)"
+          },
+          "hash": "95c174be67b8ff29cbad4e35780e424407161aa7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q49676$11860469-42AC-460E-B59E-A0BDCE8926D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49672",
+              "numeric-id": 49672
+            }
+          },
+          "hash": "29bf620198318b691c19bcfcf512e961ea5254eb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q49676$F98747F1-8E43-45BB-979B-E92CCE187813",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11334.htm#i113340"
+          },
+          "hash": "aedbb14669bf1481cee9db782fd9dbfa05dafe88",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49676$D425DCE8-7458-4498-B4C1-C65DAE639F8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54861",
+              "numeric-id": 54861
+            }
+          },
+          "hash": "7d254cc8eb3c3500f12157317560dd44c9afb108",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q49676$19B88626-C6EE-40EC-9D8A-D273DA641692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54275",
+              "numeric-id": 54275
+            }
+          },
+          "hash": "8795906cae9c667f3b8eaa5cb9f33a744914c4ae",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49676$59FB1CF5-9977-4F8A-9B98-0DE880CB511E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49676$FBDCAB69-F71C-4A25-9705-4A7AD9954010",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1236-06-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f56630771410d5f96a09dc7afe24e4314ec38271",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49676$81CBE718-A3FA-4FC4-B4A2-BB86012088D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1301-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8dffa9310d989aa72026799a970654ebd65eda8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49676$D0D03756-1BE1-4FF0-8461-CCFCE4B63FC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q241179"
+          },
+          "hash": "eb1a38ad034ce58bdad94843a8d87e52ba61fbe9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q49676$A3831F6D-ED82-4E28-B42E-475AF8F6AE68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4924524160660049048"
+          },
+          "hash": "6af55e845fde88a574118c3dcbde74147ec13e99",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q49676$4F1D2870-782C-443F-8077-2BB4458EF8E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1729"
+          },
+          "hash": "a8a78928908eb55ec934f36e11f2ef4cb66cb72b",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49676$C7D17DB4-2F95-4D61-B2C6-F32020FD3A46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Violant of Aragon Arms.svg"
+          },
+          "hash": "e3a17afad3065a6f72f5927026987e99137f255e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "reina de Castella"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kastilská královna jako manželka Alfonsa X."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenhines Castil"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin von Kastilien und deutsche Königin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Castilian queen-consort"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Castilian queen-consort"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina consorte de Castilla (1252-1284)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Aragoiko infanta eta Gaztelako erregina ezkontidea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine-consort de Castille"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Raíña consorte de Castela e León"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "kastiljska kraljica"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "aragóniai infánsnő, kasztíliai királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte di Castiglia e Leòn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koningin-gemalin van CastiliÃ« en LeÃ³n"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Kastylii i Leonu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "regină consoartă a Aragonului"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Кастилии и Леона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Drottning av Kastilien, gemål till kung Alfons X"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kastilya kraliçesi (1252-1284)"
+    }
+  },
+  "id": "Q49676",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فيولانتي من أراغون"
+    },
+    "be": {
+      "language": "be",
+      "value": "Віяланта Арагонская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Виоланта Арагонска"
+    },
+    "br": {
+      "language": "br",
+      "value": "Violante Aragon"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Violant d'Aragó i d'Hongria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Violanta Aragonská"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Iolanthe o Aragón"
+    },
+    "de": {
+      "language": "de",
+      "value": "Violante von Aragón"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γιολάντα της Αραγωνίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Violant of Aragon"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Violant of Aragon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Violante de Aragón"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Violante Aragoikoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yolande d’Aragon"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Violante de Aragón"
+    },
+    "he": {
+      "language": "he",
+      "value": "ויולנטה מאראגון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Violanta Aragonska"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aragóniai Jolán kasztíliai királyné"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վիոլանտա Արագոնացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yolanda dari Aragon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Violante d'Aragona"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ビオランテ・デ・アラゴン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვიოლანტე არაგონელი"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Violante av Aragón"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Violante van Aragón"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Violanta d'Aragon e d'Ongria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jolanta Aragońska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Violante de Aragão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Violante de Aragão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iolanda de Aragon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Виоланта Арагонская"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јоланда од Арагона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Violanta av Aragonien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aragónlu Violante"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Віоланта Арагонська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿拉贡的比奥兰特"
+    }
+  },
+  "lastrevid": 17455572,
+  "modified": "2025-09-16T11:14:02Z",
+  "ns": 860,
+  "pageid": 64924,
+  "sitelinks": {},
+  "title": "Item:Q49676",
+  "type": "item"
+}

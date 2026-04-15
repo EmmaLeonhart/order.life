@@ -1,0 +1,446 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kilij Arslan II //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55923$3AE96D9E-91FF-44EF-A9B4-ECA1722A9FE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "897102|1269000"
+          },
+          "hash": "65a4f5a1a589ff3d1e398e2550453024dbe952b1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q55923$BA57AB8C-486D-428B-B572-96EFC2F0A056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50299",
+              "numeric-id": 50299
+            }
+          },
+          "hash": "5c7a8552956145ea4ef0d2a0708417e493f4e374",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55923$DE67D3C1-6D96-46AC-849F-E6F713631912",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55923$E85EE39B-9006-4CA3-9554-50246C5CFC17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55923$9248302E-7065-40BD-AC95-FD1ED3A370BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Kilij_Arslan_II_(1)"
+          },
+          "hash": "746b98c20390fe01f9e99e30606b6d49474ee1e5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55923$F2A6C10A-6ABA-4B38-95A0-75DC5EACD26A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55923$AE606687-12B2-47FB-A140-F4E498E51663",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1155-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5fee5470c9115fd8515bfb068eff1186212c97c7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55923$A98912AE-9837-4688-B110-56ABB0B70821",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1192-08-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fdf0448ca29814e6acc78428129e0469ee68c500",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55923$A79FF864-B901-46EF-B7E9-005C3468411D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q58982"
+          },
+          "hash": "7cfc1af07a05a4d3126372b0860e01394ce6419b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55923$9613908A-C522-478C-AAD8-091543101C5C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kilij Arslan II Arms.svg"
+          },
+          "hash": "cf6c5ac7a957204295cecc43a0a73cf71df8c8b7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سلطان سلاجقة الروم (1155-1192)"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu turcu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític turc"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sultan von Rum"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σελτζούκος σουλτάνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sultan of Rum (1155-1192)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Sultán del Sultanato de Rum"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari turkiarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cinquième sultan de Roum"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político turco"
+    },
+    "it": {
+      "language": "it",
+      "value": "sultano di Rum"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seltsjoeks sultan van Rûm, van 1156 tot 1192"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko turko"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político turco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сельджукский султан Рума"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Altıncı Anadolu Selçuklu Sultanı"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "vua Rum (1155-1192)"
+    }
+  },
+  "id": "Q55923",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قلج أرسلان الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قلج ارسلان الثانى"
+    },
+    "as": {
+      "language": "as",
+      "value": "কিলিজ আৰ্ছলান দ্বিতীয়"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Qılınc Arslan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی قلج ارسلان"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "কিলিজ আর্সলান ২"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kilidj Arslan II"
+    },
+    "da": {
+      "language": "da",
+      "value": "II. Kılıç Arslan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kılıç Arslan II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κιλίτζ Αρσλάν Β'"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kilij Arslan II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kılıç Arslan II"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "قلج ارسلان دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kılıç Arslan II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Kilij Arslan II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Kiliy Arslan II"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "किलिज अर्सलान II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Qilij Arslan II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クルチ・アルスラーン2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ქილიჩ-არსლან II"
+    },
+    "la": {
+      "language": "la",
+      "value": "Clitzasthlan II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "II. Kılıç Arslan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kilij Arslan II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "II. Kılıç Arslan"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Kilij Arslan II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kilidż Arslan II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kilij Arslan II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kilij Arslan II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кылыч-Арслан II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kilij Arslan II"
+    },
+    "so": {
+      "language": "so",
+      "value": "Qilij arsalaan labaad"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kilij Arslan II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Килиџ Арслан II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "II. Kılıç Arslan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Kılıç Arslan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Килич-Арслан II"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "قلج ارسلان دؤم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Kilij Arslan II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "基利傑阿爾斯蘭二世"
+    }
+  },
+  "lastrevid": 17464160,
+  "modified": "2025-09-16T13:21:22Z",
+  "ns": 860,
+  "pageid": 70754,
+  "sitelinks": {},
+  "title": "Item:Q55923",
+  "type": "item"
+}

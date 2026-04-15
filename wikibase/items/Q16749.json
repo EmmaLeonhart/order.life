@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Satomi Yoshishige"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q16749$F1B380E8-03F8-4448-B90E-752184AAB638",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "里見-3"
+          },
+          "hash": "2e09484385231822c948dc405ba1ba5322ad8c16",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16749$BA14EB09-FCE0-4F31-8305-929826E08EBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16749$C9259D5C-98F3-4215-9739-B9BC32ED36F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16749$BEAE170E-0390-45AE-ACF8-8391F668D9F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15952",
+              "numeric-id": 15952
+            }
+          },
+          "hash": "ea4ac230002fa29db608df30cef6ad2b6fcc22a3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16749$D41B93AA-4B94-4C3F-831B-45BAC91BDD9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16749$6016D35B-52C1-4906-BF38-AE2ED020FA05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1570-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c4cde34914661fb5a981b2ff0c9ab346ece3808",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16749$AFCCF711-D855-465F-87D8-1055ED673862",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1622-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dbd5da1f3f4dcdabccfeda0b2e6bf5d4a7cdb40b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16749$1334009B-F11E-416C-AF5D-CE139F4389C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11644670"
+          },
+          "hash": "af05f3187582275375c871044eb26385fb0d836e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16749$A85E056D-7113-49AD-B4F4-580FD46CEF9E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Satomi Yoshishige Arms.svg"
+          },
+          "hash": "1f8d17fdda28ec4e06d8d57bc32799e0057b4045",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Satomi Yoshihiro"
+    }
+  },
+  "id": "Q16749",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Satomi Yoshishige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Satomi Yoshishige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Satomi Yoshishige"
+    },
+    "es": {
+      "language": "es",
+      "value": "Satomi Yoshishige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "里見義重"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "里见义重"
+    }
+  },
+  "lastrevid": 17416304,
+  "modified": "2025-09-16T00:38:35Z",
+  "ns": 860,
+  "pageid": 39000,
+  "sitelinks": {},
+  "title": "Item:Q16749",
+  "type": "item"
+}

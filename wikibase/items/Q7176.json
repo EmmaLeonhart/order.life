@@ -1,0 +1,606 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jomei"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q7176$1CA0DEBA-599E-4001-BE53-1D8E09BBA01C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485649"
+          },
+          "hash": "a0fa4b06d06110149d3389215d15c19cc09b4604",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q7176$FA728722-24EF-48DC-AC4B-414E2FDE8E21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00524431"
+          },
+          "hash": "ddf9624f6f7724ce866c3412c9ecbefae5685e24",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7176$267B57A3-5029-433D-BA0B-1B97ECCF2990",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7230",
+              "numeric-id": 7230
+            }
+          },
+          "hash": "8e333be18ed35b3c67c37e6b632ce7f3771ef76e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7176$8C940A45-D0C9-41E2-A9D7-7392036256D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7229",
+              "numeric-id": 7229
+            }
+          },
+          "hash": "c6c46389086ef3199fdcb843fb669a0622d89855",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7176$2E8C9109-12D7-4C80-86A9-4BEA4A5B5C76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7231",
+              "numeric-id": 7231
+            }
+          },
+          "hash": "41ec201317f7eab7f504f8fb827d97868d786879",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7176$052213AC-ECE1-4F51-9757-BBD517248BEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7176$8CACC387-B1C2-4921-B2A3-5EB2FA41341A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7176$C2E6EE29-2977-4134-A797-7D59492D1D36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7169",
+              "numeric-id": 7169
+            }
+          },
+          "hash": "61cb7afbca8674623c5baa7301703f737190730f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7176$31794ABD-8101-41AF-996D-1134BDF4620D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7227",
+              "numeric-id": 7227
+            }
+          },
+          "hash": "37e1edeb020a55df5b7b730efed19e4b1cb8f1f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7176$67400B79-9F0F-4E94-AB02-AC2B0433AA21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7173",
+              "numeric-id": 7173
+            }
+          },
+          "hash": "a75a8918dbb7c555ee9f00fe90942efb8088e53d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7176$AA536F34-BE7B-43E1-AEDA-EE1232E566BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7176$2B798A33-6A5F-410F-8644-1169D37737FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0593-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa9feb50333b68a96d5e449ccf1b465f942fe0f1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7176$684A67B2-C64F-49DC-B340-0F67719B9E2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0641-11-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1bb6dfc945dfceade098babea12fee23791812b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7176$2284DA09-45A2-453C-9825-8F3BCE31D8BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Jomei.jpg"
+          },
+          "hash": "f8276ca534c33ca609327225ab8dcf7f6b62a035",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7176$7BA38D1D-6A61-46C8-86D7-D49EF761A1E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q329761"
+          },
+          "hash": "058885a635464d556aaa31510a1f3742def21b43",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7176$79D36F1E-7AAD-44FF-92CD-B35AD1390303",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jomei Arms.svg"
+          },
+          "hash": "ae83c008dde0a00122ec10c26c9284c697d13c76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponés (593–641)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poeta japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "34. Tennō von Japan (629–641)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهنشاه ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "impire Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第34代天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제34대 천황"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (593-641)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta japonês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "34-й император Японии, поэт VII века"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kejsare av Japan mellan 629 och 641"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya imparatoru"
+    }
+  },
+  "id": "Q7176",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور جوميه"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "جومی"
+    },
+    "br": {
+      "language": "br",
+      "value": "Jomei"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador Jomei"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Džomei"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Jomei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jomei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jomei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jomei"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور جومی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jomei"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Jomei"
+    },
+    "he": {
+      "language": "he",
+      "value": "ג'ומנה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jomei császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Jomei"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jomei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "舒明天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ძიომეი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조메이 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "सम्राट जोमेइ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Zyomei Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jomei"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Jomei"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jomei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Jomei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Jomei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Дзёмэй"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Jomei"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Džomej"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jomei"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jomei"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโจเม"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Jomei"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jomei"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Дзьомей"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Jomei"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Jomei"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Jomei"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "舒明天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "舒明天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "舒明天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "舒明天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "舒明天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "舒明天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "舒明天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "舒明天皇"
+    }
+  },
+  "lastrevid": 17407092,
+  "modified": "2025-09-15T22:30:37Z",
+  "ns": 860,
+  "pageid": 29671,
+  "sitelinks": {},
+  "title": "Item:Q7176",
+  "type": "item"
+}

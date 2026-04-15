@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hosokawa Fujikata"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q22683$226C6F97-6147-4739-8207-73FD0127B2C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "細川-110"
+          },
+          "hash": "45261b93df1833c16d76ac3242169bfa539b1113",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22683$F4B75E7F-0C5C-483F-83B5-3942953B50A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22683$06795A5A-0F83-42E7-9C69-D2CBF7381822",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22683$FF43D246-C26F-41C5-98C4-483474E93104",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35386",
+              "numeric-id": 35386
+            }
+          },
+          "hash": "9309e575452bb73eca18411d0de6d804e28975a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22683$0ED988D9-27D9-46B5-931B-0CC11984A369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22683$7B6113CF-9C4B-468D-B636-9D7F09E34D9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1517-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "078acfdb7242979c5563f8f009ef883a49ec786f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22683$210B312B-77D4-4A90-A3E5-3D69BEE40DB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1590-08-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "245a2dfe2bcff7aca60c241dca78ca053559d39f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22683$A95A4F3F-0DC7-4B5E-9FDD-51419370DA0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11605998"
+          },
+          "hash": "26e84dcfe6f2079e099b7e6114b7f567b32035f4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22683$43F77B5E-AA0C-4C37-B8E6-237A472F6C8A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hosokawa Fujikata Arms.svg"
+          },
+          "hash": "9808fb926af77a22129f798007a95a746c9fbc86",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1517 - 22 Aug 1590"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q22683",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hosokawa Fujikata"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هوسوکاوا فوجیکاتا"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "細川藤賢"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзиката Хосокава"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "細川藤賢"
+    }
+  },
+  "lastrevid": 17421506,
+  "modified": "2025-09-16T02:47:53Z",
+  "ns": 860,
+  "pageid": 44662,
+  "sitelinks": {},
+  "title": "Item:Q22683",
+  "type": "item"
+}

@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "菅野氏 (仲野親王の妻)"
+      },
+      {
+        "language": "en",
+        "value": "Jian Ye Shi  (zhong Ye Qin Wang Noqi )"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8004$7E90973F-FDFC-4E7E-B391-DCCFA632481B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8004$CA975DE9-0C05-4C33-9D57-712EE92FB15D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8004$D1C5BDD5-0719-44E2-943E-44A8E55ED09E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sugano clan (wife of Prince Nakano) Arms.svg"
+          },
+          "hash": "3ce0273cebf75bc9d62eceaf77c8b2e40c9643c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8004",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sugano clan (wife of Prince Nakano)"
+    }
+  },
+  "lastrevid": 17407910,
+  "modified": "2025-09-15T22:40:54Z",
+  "ns": 860,
+  "pageid": 30495,
+  "sitelinks": {},
+  "title": "Item:Q8004",
+  "type": "item"
+}

@@ -1,0 +1,436 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Pingyang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16467$3E237FB3-0D65-4FAE-8E91-11CF66AEB127",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17706",
+              "numeric-id": 17706
+            }
+          },
+          "hash": "ac612cee93181022073ee5c361873fe853a2ed76",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16467$D091BD05-781B-4A1D-891C-0BDE7659DE7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17707",
+              "numeric-id": 17707
+            }
+          },
+          "hash": "05d33b85b4262498310fb2d76d898fff2cdb3ef1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16467$E95BAEF5-1616-46A6-B626-828E97BCA0D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16467$0929E96D-05E9-44C8-946B-976D0029B785",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16467$02155CFE-7BF8-4764-8AF5-05C77F32E858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17705",
+              "numeric-id": 17705
+            }
+          },
+          "hash": "19a8112504ea43d5179da49d4818faa20863abdd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16467$33B0F302-8564-453B-9183-2B80AA8D8DFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16459",
+              "numeric-id": 16459
+            }
+          },
+          "hash": "d3ee72d847451d518c04abac588f115bce176ef9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16467$CDB5436A-9A32-4DCF-89B6-666EDA75A0AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17650",
+              "numeric-id": 17650
+            }
+          },
+          "hash": "a8f6fa05103d1531dcbb34e7ddef2e09d572890e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16467$DF64F94F-0654-48DC-835C-E173D71ED387",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16467$3649D3AF-7874-4DF3-91C6-D7BDDAA16B88",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0598-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e97d403dd182571df6caf1b67e7998b97b31edd2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16467$109E5E35-AAD3-4556-AD06-E74C65EEBF3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0623-03-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c78f7bc101eb9174ea02c90976dd54e3e34598e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16467$1015A77F-FE22-4233-8B8A-81D5C3AC63A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "美人百態畫譜之平陽公主（Princess Pingyang）.png"
+          },
+          "hash": "4ca7d8f072943f56e2a0a3557936e5f4710706d7",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16467$33A4C7B2-DC43-4A16-9908-6BC4DCAFE7A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q711427"
+          },
+          "hash": "f8a75428339cd285edbd0886cf9a6c7ef8cc450a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q16467$E7C59252-7DD3-40CF-81D8-B78A66955434",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075061025854"
+          },
+          "hash": "dcb402aa889253a7d56ef17a54ec5a11973fdb04",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16467$F3BC3400-43FE-4526-8C64-9CBB3423C67B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Pingyang Arms.svg"
+          },
+          "hash": "744dc559a92340a3794e5157eea651849eb240f6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese princess"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai hercegnő"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa cinese"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "당 고조의 황녀"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Ли Юаня из династии Тан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kinesisk prinsessa och general"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐朝公主、唐高祖李渊三女"
+    }
+  },
+  "id": "Q16467",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الأميرة بينغ يانغ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Princess Pingyang"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Princesa Pingyang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Pingyang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Pingyang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse Pingyang"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ping-jang hercegnő"
+    },
+    "id": {
+      "language": "id",
+      "value": "Putri Pingyang"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zhao di Pingyang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平陽昭公主"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "평양소공주"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "平陽昭公主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Princes Pingyang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пинъян (династия Тан)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Princeza Pingyang"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Princess Pingyang"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Prinsessan Pingyang"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจ้าหญิงผิงหยาง"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Принцеса Пін'ян"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Bình Dương Chiêu công chúa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平陽昭公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "平阳昭公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "平陽昭公主"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "平陽昭公主"
+    }
+  },
+  "lastrevid": 17416034,
+  "modified": "2025-09-16T00:32:07Z",
+  "ns": 860,
+  "pageid": 38725,
+  "sitelinks": {},
+  "title": "Item:Q16467",
+  "type": "item"
+}

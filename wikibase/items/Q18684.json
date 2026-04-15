@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Yorihisa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18684$345A4837-6422-4FEB-AD1C-374CF5D78C2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18684$39170892-AB37-4926-8006-F626A7E8D716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18684$0C9A4EA4-3861-4474-A9EB-A5460D16E1AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17200",
+              "numeric-id": 17200
+            }
+          },
+          "hash": "64e5b0f75a423d11f6a6c1643159e496b188c32e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18684$0D4F32D3-1618-4318-9DB3-A53FB6F8192C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18684$C8574EBD-BBC7-4415-BB87-37A721E8A080",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1702-11-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf1c39eb26a1ce09753619c73ae6f9455e183b50",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18684$4567EF00-DE62-4788-8535-988B82383483",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1758-05-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "780075b57cffa5a9a74bc1d0e58b165a7a3ec592",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18684$86FF675E-CCEB-4CB4-BC1C-50C6FECE0E70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6638351"
+          },
+          "hash": "85faf49bcbcbc7d3ba07fbfdafe772a1712cf545",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18684$4FF4F5BD-CB0B-447D-93B8-7EAB4C93E448",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yorihisa Arms.svg"
+          },
+          "hash": "d3c34d9a8df2900da22c782ffda829f8d4603e41",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai of the late Edo period; son of the lord of Moriyama (1702-1758)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代後期の武士。守山藩主松平頼貞の嫡子"
+    }
+  },
+  "id": "Q18684",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jorihisa Macudaira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Yorihisa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Yorihisa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Yorihisa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平頼尚"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёрихиса Мацудаира"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "松平賴尚"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "松平賴尚"
+    }
+  },
+  "lastrevid": 17418052,
+  "modified": "2025-09-16T01:20:56Z",
+  "ns": 860,
+  "pageid": 40862,
+  "sitelinks": {},
+  "title": "Item:Q18684",
+  "type": "item"
+}

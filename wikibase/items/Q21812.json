@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishiyama Moroka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21812$EBBEEC19-72FA-48C5-A852-0E2387E8AE4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21812$DE1CF7A0-07FD-4E25-9C7D-2233B009807A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21812$D9FBAD6F-E610-4BEC-B785-BBB8410C9832",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33190",
+              "numeric-id": 33190
+            }
+          },
+          "hash": "107a75b4b80d0619a0f52e8801e08df9d6be7147",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21812$9A746480-29D2-4572-8CD7-4692713231DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21812$ECF2F52D-7434-4D8D-859D-2D67832CC593",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1669-06-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fac5078d7953be0e1eb75708f6b6c761f44d0bf4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21812$1CE3CDE3-137B-4813-85DA-1AD849762639",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1734-11-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0add91884df7d26e4cc716a7a8473805faf91b92",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21812$5DEC82A9-5BCE-4C76-AD85-88BA133545B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106975555"
+          },
+          "hash": "cde08338c5665a6121206627ed40d972fe680bad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q21812$F8105738-D343-4FBB-8618-46BB4DDA244F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishiyama Moroka"
+          },
+          "hash": "29b24aeaf28dbaf2eeffbacbf35bfbeeb8da2b2d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21812$277EA085-CC3A-4AA5-A3AB-4CEDFA9014A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishiyama Moroka Arms.svg"
+          },
+          "hash": "0d2d769a97bf19d446e3ad981dba11f0442a0bf7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese artist (1669-1734)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石山家（羽林家）の祖・初代。葉川基起の次男。母は家女房。従二位・権中納言"
+    }
+  },
+  "id": "Q21812",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ishiyama Moroka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ishiyama Moroka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ishiyama Moroka"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ishiyama Moroka"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ishiyama Moroka"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ishiyama Moroka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石山師香"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ishiyama Moroka"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ishiyama Moroka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ishiyama Moroka"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ishiyama Moroka"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ishiyama Moroka"
+    }
+  },
+  "lastrevid": 17420826,
+  "modified": "2025-09-16T02:28:42Z",
+  "ns": 860,
+  "pageid": 43825,
+  "sitelinks": {},
+  "title": "Item:Q21812",
+  "type": "item"
+}

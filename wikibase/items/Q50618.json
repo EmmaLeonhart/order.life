@@ -1,0 +1,154 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "円信院殿"
+      },
+      {
+        "language": "en",
+        "value": "Yuan Xin Yuan Dian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50618$ACF3423C-670A-4380-96E8-A3D7D47EF020",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50618$7B393EE0-EC12-4E09-A6BE-F3A9FE5E296F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50618$37E2AAAB-87F9-4BDD-B9BF-49DF6E55F972",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43471",
+              "numeric-id": 43471
+            }
+          },
+          "hash": "206f2bb72442257d97bb80625238e81628ce8b57",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50618$EB5B1E23-8207-43CE-A6F1-58FFC3981C81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50618$4B53FF6E-793B-44BA-8B1E-EED7B596CDA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1573-02-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0cc524c0257c5fb7fdd04333c7fabc72e03dd9b8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50618$24D54D1B-3373-43C2-8665-7D88FDD0F3A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11394730"
+          },
+          "hash": "b47b5bfc4f753bf29b9050cec87adc2439c5fb41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q50618",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "円信院殿"
+    }
+  },
+  "lastrevid": 17456918,
+  "modified": "2025-09-16T11:33:56Z",
+  "ns": 860,
+  "pageid": 65628,
+  "sitelinks": {},
+  "title": "Item:Q50618",
+  "type": "item"
+}

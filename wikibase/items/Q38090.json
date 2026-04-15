@@ -1,0 +1,599 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jehoash of Judah"
+      },
+      {
+        "language": "en",
+        "value": "Jehoash  King of Judah"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q38090$A7633B80-9BCF-4B65-B177-D0F0CDDA9E7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "79444|174169"
+          },
+          "hash": "fe0e21e4de5d09c39e7390372441e40dd1c91ee1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q38090$4DE00393-9CD3-4169-B614-C4B2445F438C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38078",
+              "numeric-id": 38078
+            }
+          },
+          "hash": "960c20dc9705ec2e41adea4757576c1955ce377c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38090$DB1D08CC-82CE-4117-A80D-791E9A9ACC01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135047",
+              "numeric-id": 135047
+            }
+          },
+          "hash": "dc943aad0e0556f263e0aaf577acc5e4c56b48cd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38090$A35016B1-670E-4CA2-80A0-250F8C87AE4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38090$36E5CD9E-896C-4A10-B34B-06A553411B50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q38090$5031AFAD-8B81-453B-9422-7C4D360297B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4638",
+              "numeric-id": 4638
+            }
+          },
+          "hash": "a1d6139eda782f0e99726cc81791978bc188bbd2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q38090$BD2B39E8-7456-4EAE-9B38-2FE8C7898C8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38123",
+              "numeric-id": 38123
+            }
+          },
+          "hash": "c7b6680bffb9658e57ec28f7cfca28d8b6b24109",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q38090$CD95AD7A-EBDF-40AD-9804-0E9BCAE3BC67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4646",
+              "numeric-id": 4646
+            }
+          },
+          "hash": "435392dd4e43d91ca139d2f7ba653661802874e3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q38090$1F740404-8B74-40EB-87EF-F270B535754D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Jehoash /King of Judah/"
+            }
+          },
+          "hash": "576015e33f348e9626a9b59cb97ea4d68540fedb",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38090$3342B2CF-F4E2-4E8A-93AB-6256A57F60A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38090$CCBE0057-6218-467A-BE84-DD0484A5ACD8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0842-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f04d3a46d657428a38a9d0641aae2935db9d3ab8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38090$73F567EE-2C21-4A33-B6DC-255AC690BFDE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0795-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f23e99c595571324c2f20ed2e9eec17cadee39a5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38090$6E559129-B177-4BCE-BD84-DD7E1BBA7BD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313229"
+          },
+          "hash": "c43cd179cc5d4b59ba894f74e0411bd9e1d91b04",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38090$EC61258B-A27D-4970-A9BB-37F43DB2D25C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jehoash of Judah Arms.svg"
+          },
+          "hash": "3c99d1f7ad0f0692ecb3f0fc8cd215a193d14c76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك يهوذا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Yəhudanın Yeddinci Kralı və ya Yəhudanın Səkkiz Hökmdarı olan Kraliça Atalyadan sonra padşah"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin ar ôl y Frenhines Athaleia, seithfed brenin Jwda neu wythfed rheolwr Jwda"
+    },
+    "da": {
+      "language": "da",
+      "value": "konge af Juda"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Juda"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς του Ιούδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "King after Queen Athaliah, Seventh King of Judah or Eight Ruler of Judah"
+    },
+    "es": {
+      "language": "es",
+      "value": "(8°) octavo rey de Judá"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ממלכת יהודה בשנים 836 עד 797 לפני הספירה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Júda királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Giuda"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "rege al Iudei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "иудейский царь, сын Охозии"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Hari pagkatapos ni Reyna Atalia, Ikapitong Hari ng Juda o Walong Pinuno ng Juda"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen Yahuda kralı (2. Tarihler 11:4)"
+    }
+  },
+  "id": "Q38090",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Joas"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوآش ملك يهوذا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوآش ملك يهوذا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Yəhudalı Yehoaş"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іаяс, цар іудзейскі"
+    },
+    "br": {
+      "language": "br",
+      "value": "Yoash"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joaix"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jóaš"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Joas Brenin Jwda"
+    },
+    "da": {
+      "language": "da",
+      "value": "Joash"
+    },
+    "de": {
+      "language": "de",
+      "value": "Joas"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Joas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jehoash of Judah"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Jehoash of Judah"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Jehoash of Judah"
+    },
+    "es": {
+      "language": "es",
+      "value": "Joás de Judá"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joas Judakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یهوآش یهودا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Joas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Joas"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Joäsj fan Juda"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ióáis rí Iúdá"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Yok-â-sṳ̂-vòng"
+    },
+    "he": {
+      "language": "he",
+      "value": "יהואש"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Joás júdai király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yoas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ioas"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨアシュ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요아스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Joas"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "約阿施 (猶大)"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Joasy (mpanjakan'i Jodà)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Joasj av Juda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joas van Juda"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Joasz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Joás de Judá"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Joás de Judá"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ioaș"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоас"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Joas od Jude"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jehoash of Judah"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Joash"
+    },
+    "th": {
+      "language": "th",
+      "value": "โยอาช"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Joash ng Juda"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yoaş"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Йоас"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یوآش بادشاہ یہوداہ"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "יהואש"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "約阿施 (猶大)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "約阿施"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "约阿施"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "约阿施"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "約阿施"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "約阿施"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "约阿施"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "約阿施"
+    }
+  },
+  "lastrevid": 17440688,
+  "modified": "2025-09-16T07:39:35Z",
+  "ns": 860,
+  "pageid": 56264,
+  "sitelinks": {},
+  "title": "Item:Q38090",
+  "type": "item"
+}

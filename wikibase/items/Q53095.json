@@ -1,0 +1,154 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "孔拯"
+      },
+      {
+        "language": "en",
+        "value": "Q28418391"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53095$36D26AA4-E927-4577-8BE2-1B6C7A2FE31B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53095$282FB805-8A52-405E-9286-AB728F6A874F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53095$1174EDE4-C94F-49EA-87CB-CA6049618549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48438",
+              "numeric-id": 48438
+            }
+          },
+          "hash": "02c2a37e55267fbed53f54181bdb048abb125f4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53095$B56A81C3-4BF7-4B0B-A27A-5D53B3CB0E62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53095$3278616C-DD1E-4B76-8918-FAD5E7B849A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1136-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "315c03b35283a4eeb36949955b1a82567eee21b9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53095$9AB684C3-45D1-41E6-B24B-770856D3160E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28418391"
+          },
+          "hash": "575807b6f20e1f11b20054cd28afe26b0fc8b0da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q53095",
+  "labels": {
+    "zh": {
+      "language": "zh",
+      "value": "孔拯"
+    }
+  },
+  "lastrevid": 17459596,
+  "modified": "2025-09-16T12:13:52Z",
+  "ns": 860,
+  "pageid": 67926,
+  "sitelinks": {},
+  "title": "Item:Q53095",
+  "type": "item"
+}

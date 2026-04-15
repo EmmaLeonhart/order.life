@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Francesco II Gattilusio //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55232$40FDC8E0-D592-42ED-ABCF-15D5EA1A0A3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00376920"
+          },
+          "hash": "40f7ed226bb7d7d614cac2c928c054a195d1d63a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55232$7025FB95-28D7-4633-8A64-CA4ACE2C9CF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55232$579EECCE-9C2C-421B-93E9-B2A6C7A0AF4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55232$0E01DE6A-EA95-45D1-BD49-AE0FD0B105A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Francesco_II_of_Lesbos_(1)"
+          },
+          "hash": "e77b3806af2fcd34707a1563c35e383cd6f4bcc0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55232$9E0C7FBE-47C0-4C62-A16D-6F8ED0FC6D4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55228",
+              "numeric-id": 55228
+            }
+          },
+          "hash": "e2a577c1c4beed04ca7c4fbb0d0587eb767625b6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55232$206936AF-B4C1-420D-BD13-64420E17EA6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49816",
+              "numeric-id": 49816
+            }
+          },
+          "hash": "24fbf24f4b486356c5a915e7a46917fde49e9aff",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55232$5837689D-50B1-4731-A520-966ECDEF18AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55232$1FAC5FD9-D3C7-40BB-855E-AD6F618BEC32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1365-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a585d3ddae52a123e2f25559f8673a005adaffa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55232$FA84E063-2DDD-4CA1-815F-C8F90B3A2042",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1403-10-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "353a4daa4bbea94071cf8e4b1ce8dc2746b3b53a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55232$6E9D7F5B-ED52-49AC-AD77-1C3C7B92E031",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1441077"
+          },
+          "hash": "b4ba47a283c056ee9d32339c34df8c62e474eba3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55232$C9A5C466-077D-4A29-92D4-7BD3922CA743",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Francesco II Gattilusio Arms.svg"
+          },
+          "hash": "8c7e6fc014b1a7c469cebf7e3df36353428b3fac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الحاكم الرابع عشر لجزيرة لسبوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "господар на Лемнос през 14-15 век"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herr von Lesbos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κύριος της Λέσβου"
+    },
+    "en": {
+      "language": "en",
+      "value": "14th-century ruler of Lesbos (1365-1403)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Leszbosz szigetének uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "signore di Lesbo; nato Jacopo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "genueński władca Lesbos"
+    }
+  },
+  "id": "Q55232",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فرانشيسكو جاتيلوسيو الثاني"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Франческо II Гатилузио"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Francesc II Gattiluso"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "František II. Gattilusio"
+    },
+    "de": {
+      "language": "de",
+      "value": "Francesco II. Gattilusio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φραντσέσκο Β΄ Γκαττιλούζι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Francesco II Gattilusio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Francesco II Gattiluso"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Ferenc leszboszi uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "Francesco II Gattilusio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Francesco II Gattilusio"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Franciszek II Gattilusio"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Francisco II Gattilusio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Francisco II Gattilusio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Франческо II Гаттилузио"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Франческо II Гатилузио"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佛兰塞斯科二世·伽忒卢组"
+    }
+  },
+  "lastrevid": 17463124,
+  "modified": "2025-09-16T13:05:37Z",
+  "ns": 860,
+  "pageid": 70063,
+  "sitelinks": {},
+  "title": "Item:Q55232",
+  "type": "item"
+}

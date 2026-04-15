@@ -1,0 +1,394 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Namhae"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23060$E16662DD-0D1D-4BFB-B270-BA69D2CA3BBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21070",
+              "numeric-id": 21070
+            }
+          },
+          "hash": "400d917ab389e57e2f055dc8a47c583df73274cd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23060$180F856D-6F22-442A-9AE5-BD739261627E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21072",
+              "numeric-id": 21072
+            }
+          },
+          "hash": "864bfe24448eb735062909c85978393509aed9c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23060$25244BC2-89D3-441C-948A-D6036DA03267",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23060$9C28DC5E-6A24-4E97-A4F9-A750EA21D738",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23060$606967EB-637D-43E7-B4E5-A2A3231E23E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23061",
+              "numeric-id": 23061
+            }
+          },
+          "hash": "36eac209e5e023417643f604d9460a4675639bff",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23060$9C021DDB-3430-464E-8AF4-04F03D835534",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25178",
+              "numeric-id": 25178
+            }
+          },
+          "hash": "254d2b84b39313a51faffc78e1e99b011490b2d5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q23060$B1A7B630-D767-43A2-BAB4-B8C9ACF2417A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25179",
+              "numeric-id": 25179
+            }
+          },
+          "hash": "650439a557e038aabd885f38d9bf749cdce3ac32",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23060$E3178C27-932B-4B49-88C3-1BFAF6D8BAD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23060$42402BBE-3505-45CE-AF59-4BACB29135C1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0050-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7826edd86f3c08474ef151c860c60008ac5cb574",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23060$6B986F69-F7C7-4F13-8CD0-ACE152876032",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0024-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f5e0e98b1445dbd77fee6d05c54296e75f076f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23060$DC676C3B-CD6E-424D-91F8-6CC9B1EEE86A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q496504"
+          },
+          "hash": "b9fc69e9815360e437db928cdc58389c7f479982",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23060$6018D132-5C47-4BD0-80B7-8BDCE6BAE04A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Namhae Arms.svg"
+          },
+          "hash": "ac0adf618eb8c839dd6b4f21496dfbfaa1ccc143",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "zweiter König Sillas"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century king of the Silla dynasty of Korea"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "I. mendeko Koreako erregea"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Dinasti Silla Abad ke-1 di Korea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "新羅の王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "신라의 제2대왕 (기원전 50–24)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "второй король Силлы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Правитель Сілли"
+    }
+  },
+  "id": "Q23060",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "پادشاه نامهائه"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "نامھێی شیللا"
+    },
+    "de": {
+      "language": "de",
+      "value": "Namhae Chachaung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Namhae"
+    },
+    "es": {
+      "language": "es",
+      "value": "Namhae of Silla"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Namhae Sillakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه نامهائه"
+    },
+    "id": {
+      "language": "id",
+      "value": "Namhae"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南解次次雄"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "남해 차차웅"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "南解次次雄"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Namhae"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pak Namhae"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pak Namhae"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Namhae de Silla"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Намхэ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Namhae"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้านัมแฮแห่งซิลลา"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Намхе Чхачхаун"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nam Giải"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "南解次次雄"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "南解次次雄"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "南解次次雄"
+    }
+  },
+  "lastrevid": 17421776,
+  "modified": "2025-09-16T02:53:57Z",
+  "ns": 860,
+  "pageid": 45031,
+  "sitelinks": {},
+  "title": "Item:Q23060",
+  "type": "item"
+}

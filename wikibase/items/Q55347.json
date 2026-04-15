@@ -1,0 +1,381 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Blessed Margaret of Savoy //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55347$881F8BD6-A58F-43DB-B24E-6987F327CFBC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00012465"
+          },
+          "hash": "6f7b76eaa5622a17aa7f1495f32281e1ea49274a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55347$638B65A6-637C-4644-B436-7BF7269B2ED5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55347$96C09A5A-B4C2-45D2-B2B9-F1734D34CBA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55347$49614E09-E6C6-4C3F-A3FD-85C7E94B8E64",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Blessed_Margaret_of_Savoy_(1)"
+          },
+          "hash": "03cd0e9526653a1256ae7a4d46d99c21b3dea998",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55347$8547EE5E-24DD-49B4-9B27-12041B200643",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49861",
+              "numeric-id": 49861
+            }
+          },
+          "hash": "f3e0cf7bccaca6027360b5e038a2ba576fe5957e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q55347$D2ACD4CF-4E9F-43DC-B83F-D2A1D7DE9D66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p52030.htm#i520294"
+          },
+          "hash": "f444002f72cd9864509449685194ccd12b9b948f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55347$065EA247-B5C7-4648-BE52-0B1934DE2C95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55347$7A2213CA-00A6-40E3-BA6E-9B316EBDB473",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1382-06-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d3562866f377a319e727e42d81daac5f12be8021",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55347$64562058-3257-45F9-B6BF-F66D0EA1795F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1464-11-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f84c9729f227cf4fd15e9673fb677d40a1aa97e0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55347$9EE9BF6D-D914-4F8B-BFC9-B307EB908E16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q289905"
+          },
+          "hash": "35eb8becfdcfbf6e383f0ac92b2c4fe0beb645c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55347$118AC656-AA3F-4920-B1E6-C07383FE0DAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009352684390"
+          },
+          "hash": "db8f1c42701cbe158093973f9c2b502ae14af4fa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8094": [
+      {
+        "id": "Q55347$5D9B4B69-47B7-45C7-AA69-14B1F033333D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "demarguerit0"
+          },
+          "hash": "f0b202aadee967893593403363d6fb031a0496ad",
+          "property": "P8094",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55347$4852E879-B3E6-4664-BA31-EDC39FEDC1F5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Blessed Margaret of Savoy Arms.svg"
+          },
+          "hash": "71131fdaf31b38d15c8fda4b73580728933b601d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "Принцеса на Ахая, маркграфиня на Монферат, блажена на Римокатолическата църква"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "savojská princezna a světice"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Paɣa ŋun nyɛ pukpara"
+    },
+    "de": {
+      "language": "de",
+      "value": "Markgräfin von Montferrat, Selige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marchioness of Montferrat, Princess of Achaea Roman Catholic saint"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata y religiosa italiana (1390-1464), marquesa de Montferrato, beatificada por la iglesia católica"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "marquise de Montferrat (1403-1418)"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa di Acaia, marchesa consorte di Monferrato, beata cattolica italiana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "маркграфиня Монферрато"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "italiensk abbedissa och adelskvinna"
+    }
+  },
+  "id": "Q55347",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "المباركه مارجريت سافوى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Маргарита Савойска-Ахая"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Margarida de Savoia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Markéta Savojská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Margarete von Savoyen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ευλογημένη Μαργαρίτα της Σαβοΐας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Blessed Margaret of Savoy"
+    },
+    "es": {
+      "language": "es",
+      "value": "Margarita de Saboya"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marguerite de Savoie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Margherita di Savoia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルゲリータ・ディ・サヴォイア"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Margaretha van Savoye"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Małgorzata Sabaudzka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Margarida de Saboia (1464)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маргарита Савойская"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Маргарета Савоја Палеолог"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Margareta av Savojen"
+    }
+  },
+  "lastrevid": 17463296,
+  "modified": "2025-09-16T13:08:06Z",
+  "ns": 860,
+  "pageid": 70178,
+  "sitelinks": {},
+  "title": "Item:Q55347",
+  "type": "item"
+}

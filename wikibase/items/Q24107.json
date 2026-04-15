@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kikkawa Kunitsune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24107$6987BE6E-1015-4B8C-9F2D-A4737A1DEF55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21846",
+              "numeric-id": 21846
+            }
+          },
+          "hash": "7e7cdd3d84290e0b818038fe04a85f0df16b9f8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24107$E60889B1-C012-4602-8F16-89520C23DEF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21848",
+              "numeric-id": 21848
+            }
+          },
+          "hash": "986203c6e8c3c0fe5f3cc9e628140bf829eb5a33",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24107$29403DB8-DCD2-4EE8-9E7B-D5F3FBA95250",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24107$BDD8F438-BA70-43E9-8E0F-A0822050504A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24107$B4AAE164-3A0C-46CE-A6C7-33104E38DEA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48328",
+              "numeric-id": 48328
+            }
+          },
+          "hash": "23f10509805056cb734dbf3161e526c68755aaa1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24107$04E01ED5-CF4B-4A7F-BFB8-5C190E2F0416",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24107$EA31C7E1-FAD8-45E7-A47B-7B347C1FEC32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1443-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae48fa4c57f1ccf1b22df581c03af7d5fe7cd2fe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24107$A96A5990-3AA3-4F8C-B404-36CCAD558BDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q35981702"
+          },
+          "hash": "cb10e4606fd42649696654dfd8ea9c21f53fbb41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24107$B6E5AA96-EB48-4FAA-8551-34875C3AA25E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kikkawa Kunitsune Arms.svg"
+          },
+          "hash": "fb81907019ae180b59b8ab1757598d18ea6e6cff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q24107",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kikkawa Kunitsune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kikkawa Kunitsune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kikkawa Kunitsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "吉川国経"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kikkawa Kunitsune"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kikkawa Kunitsune"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "吉川国经"
+    }
+  },
+  "lastrevid": 17423098,
+  "modified": "2025-09-16T03:16:56Z",
+  "ns": 860,
+  "pageid": 45914,
+  "sitelinks": {},
+  "title": "Item:Q24107",
+  "type": "item"
+}

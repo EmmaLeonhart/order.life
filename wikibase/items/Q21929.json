@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsura Atsunobu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q21929$D00D7BB6-D8F8-4EFF-A34A-4F85D33DFA99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805502"
+          },
+          "hash": "4046c51b07b5e9df29cfeecd6eb968e134b1c942",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q21929$12D83EF6-A55D-44C8-995C-C0D9AC1053AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24175",
+              "numeric-id": 24175
+            }
+          },
+          "hash": "d10136fc96cbf26adfe90725a1460f78ef3cc0ee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21929$03E1E402-0341-42BA-991A-5C7D07064F20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24173",
+              "numeric-id": 24173
+            }
+          },
+          "hash": "cc8eb201dc9c9bc6cca1fe4d6b8feb5bbc65862b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21929$A0EDA578-76D1-4599-87D2-134EEE032B42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24174",
+              "numeric-id": 24174
+            }
+          },
+          "hash": "8923e8d95dac7db0a81256329d3e65bb1b2036a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21929$2905CF80-79FF-410B-91A0-3E13CCAE4DD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21929$9E2D7CC5-295E-4381-A697-78368677A467",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21929$CE5DA01E-8900-4C6C-B137-0B246CC80716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19990",
+              "numeric-id": 19990
+            }
+          },
+          "hash": "1f4a3472c45a185311027549ba9eb64e5b128430",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21929$2BE2F69D-D610-4139-802E-460984218859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21929$21EAAC59-3CB4-4223-B3C3-3BDECBD5A3FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1684-08-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3b1682dd794ab24bd45cbeaa5fe544b512fb5a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21929$4DFF2527-F513-4DE3-AB2B-68B65E2B1CC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1757-01-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a21ea76bc74b296017b29dc6d7c4d3281f44cbf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21929$D68E5285-60FF-480C-91A8-B9B1756E96B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11531856"
+          },
+          "hash": "9e820785b0d09075b3c9d3639afb19b7f0ebac69",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21929$44153C33-8A95-4CF3-9A1F-5E44EA7E4A74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsura Atsunobu Arms.svg"
+          },
+          "hash": "bdec13121958172148cfb99b34ed92b2be44f348",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the mid-Edo period; 6th lord of Hirado"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の大名。平戸藩第6代藩主"
+    }
+  },
+  "id": "Q21929",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsura Atsunobu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsura Atsunobu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsura Atsunobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松浦篤信"
+    }
+  },
+  "lastrevid": 17420910,
+  "modified": "2025-09-16T02:31:21Z",
+  "ns": 860,
+  "pageid": 43940,
+  "sitelinks": {},
+  "title": "Item:Q21929",
+  "type": "item"
+}

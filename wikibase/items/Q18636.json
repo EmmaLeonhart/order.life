@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hongaku-in"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18636$B830127D-9382-4244-90F1-F5A6FB5DF677",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18636$F735C415-2C9C-4EBE-9B00-025B91B19251",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18636$D8F32F7B-6F13-4CE5-B129-E7D34D25CD71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27374",
+              "numeric-id": 27374
+            }
+          },
+          "hash": "83bd8e133c71221752f8f193f5e764c2861a09c0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18636$F86B57C3-F9BA-4056-A616-DF159BA9568E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18636$DB03BF84-0B18-4C65-87C7-957DA202B697",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18636$3803A9DE-E031-411F-A506-B6AF338DDCB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1626-05-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16f757be4cbbe4eee2f5a90a664f7f521c8fbcbc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18636$FC721534-8E17-438A-9638-2AF982117FF2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11520819"
+          },
+          "hash": "06f7536d9b4101c9ace99b0446f6a1e1bf98151d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18636$32E26955-27DE-4D7A-8DF5-A32E9010B484",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hongaku-in Arms.svg"
+          },
+          "hash": "506e92e6436fc661146b93b9ff71f06634096df5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q18636",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Hongakuin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hongaku-in"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本覚院 (加藤清正側室)"
+    }
+  },
+  "lastrevid": 17417998,
+  "modified": "2025-09-16T01:19:55Z",
+  "ns": 860,
+  "pageid": 40815,
+  "sitelinks": {},
+  "title": "Item:Q18636",
+  "type": "item"
+}

@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wang Mao"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q52599$9C6D74E8-9BFB-47D2-AEC6-76496071F018",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52599$ACFD7C13-7713-4A15-A077-8309BFA78BBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q52599$50E33E3F-3FB7-4909-BE5A-F930E16563A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44713",
+              "numeric-id": 44713
+            }
+          },
+          "hash": "8eae4231de739f18546fdfa3920e7bc747941f19",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q52599$DA85C3EA-C2B1-4761-B7B4-FF3A2FE2F988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q52599$F1087013-297E-4DCB-831D-AAD2BC1380F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0515-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb5c5b0c07817314d0976bc8b8643bf57c4d6600",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q52599$61BF8FC2-60D1-4B41-B48C-D4E0D2315C1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55716150"
+          },
+          "hash": "301bc4ce26df27290b36b8918c89c6de4381e06b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q52599$E0F4F07B-A3B3-45E2-8060-D0C5A980B036",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wang Mao Arms.svg"
+          },
+          "hash": "0fd648f18b22578ba773abafbb97165d141213c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Western Wei and Northern Zhou military personnel"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西魏・北周の軍人"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "南北朝西魏將領"
+    }
+  },
+  "id": "Q52599",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wang Mao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "王懋"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vương Mậu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бо О"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vương Mậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王懋"
+    }
+  },
+  "lastrevid": 17458798,
+  "modified": "2025-09-16T12:01:56Z",
+  "ns": 860,
+  "pageid": 67430,
+  "sitelinks": {},
+  "title": "Item:Q52599",
+  "type": "item"
+}

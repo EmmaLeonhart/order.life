@@ -1,0 +1,390 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zu Yi //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25452$D236A3AF-DF5B-4675-9440-F81A02340534",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "564083"
+          },
+          "hash": "38ff70fe78c7448338424d18253931bc6faab53f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25452$95168623-84AA-4E7A-AE43-3527FA59A437",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25468",
+              "numeric-id": 25468
+            }
+          },
+          "hash": "44352765aaa6f0230f9d11d7d4f17d9d08103731",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25452$138632C7-2D2D-46C6-9319-A164B33E77CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25469",
+              "numeric-id": 25469
+            }
+          },
+          "hash": "9c9f4b425c79c58f6c51194ee8ad4ed83ae12ab2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25452$F34C0427-DA1C-4BEE-9476-69FF12AC5062",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25452$21AE924A-8BFA-4FD2-83B7-C9719FC7FB17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25452$C5DDA5F5-F4F3-4B54-ACE0-A61202C785D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25438",
+              "numeric-id": 25438
+            }
+          },
+          "hash": "6aca85bd418bae808336047b70ff22b4a9fcc800",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25452$E664015D-2477-4504-BEEC-FF7B717B95D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25452$FD07B42B-97ED-4A1B-A58D-127AA62AC23D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "381cb088eb853ce8f763186a3c951a489084881f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25452$8AB920E6-8D4B-49DB-AF39-CB6D5B3F009E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1507-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b196ddb3584c0c0353196e15fccc49d2f7b7d345",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25452$91AF083C-3787-4DF6-ACDD-77F20677775A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q878487"
+          },
+          "hash": "133c2c86419c003736099ab5e686ae7057c69841",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q25452$F8620784-63D4-47EC-888B-0C9408364A00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645919379"
+          },
+          "hash": "4bfe9f6d42618b426bc2dbd6ab33dd1162ab5073",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25452$C4A99AC3-637A-4E1E-B9CC-D44D2154D196",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zu Yi Arms.svg"
+          },
+          "hash": "4ab26d4279712df27a0bb9b8d948c7d511d88c99",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "chinesischer Kaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Shang dynasty"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "商朝君主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "商朝君主"
+    }
+  },
+  "id": "Q25452",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "زو یی"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Zu Yi"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "زو یی"
+    },
+    "de": {
+      "language": "de",
+      "value": "Qie Yi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zu Yi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zu Yi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "زو یی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zu Yi"
+    },
+    "id": {
+      "language": "id",
+      "value": "Zu Yi"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zu Yi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "祖乙"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조을"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "祖乙"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡯᡠ ᡳ ᠸᠠᠩ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zu Yi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Zu Yi"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Zu Yi"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Dzu Ji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Zu Yi"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าจูอี่"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Zu Yi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цзу Ї"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tổ Ất"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "子滕"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "祖乙"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "祖乙"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "祖乙"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "祖乙"
+    }
+  },
+  "lastrevid": 17424270,
+  "modified": "2025-09-16T03:42:17Z",
+  "ns": 860,
+  "pageid": 47096,
+  "sitelinks": {},
+  "title": "Item:Q25452",
+  "type": "item"
+}

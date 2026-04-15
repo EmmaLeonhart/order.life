@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yamada Shigetatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22005$DA8723E0-F104-4FA5-ABC7-DB5808931B43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33718",
+              "numeric-id": 33718
+            }
+          },
+          "hash": "93950789f822442c45a5bb6bf42761bbe28cfa22",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22005$64FBA69C-E1A3-49B6-BE9B-499C16A06559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22005$7FD92460-3C3B-48B4-863F-DF67DC134234",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22005$BD5B0E30-0675-46A8-8AA8-7669D9A46F0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22005$B3F2A0D8-C68E-4F76-AAC4-D4B17E165C57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22005$C93E5527-9AB0-48FE-ADC8-EAACE93EEC38",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1609-11-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "385559a84a36b92d06b0473221579a1c63daaf3b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22005$8260ECD7-F9C7-4958-8C0A-3F694FDC471D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11470709"
+          },
+          "hash": "fd2b1546045d02117432b8bba2098d5183a20af4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22005$2249BC8C-9D21-4B0F-9208-1C113495124B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yamada Shigetatsu Arms.svg"
+          },
+          "hash": "0d4415ddd206f43d7b3dfbb7b13b70256d4fb7b1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代初期の武将。松平忠輝の川中島藩時代の重臣。上総介殿の三臣。信濃松代城代 10,000石。長門守。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q22005",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yamada Shigetatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "山田重辰"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэтацу Ямада"
+    }
+  },
+  "lastrevid": 17420976,
+  "modified": "2025-09-16T02:33:16Z",
+  "ns": 860,
+  "pageid": 44016,
+  "sitelinks": {},
+  "title": "Item:Q22005",
+  "type": "item"
+}

@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rengei"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24152$647E3D2B-3451-4F42-A58D-9D6BF6543F86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24152$2122AA83-C274-4955-9E79-A7EEF3C42778",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24152$9F566115-56D5-44C2-BD91-B1EA2A115567",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22602",
+              "numeric-id": 22602
+            }
+          },
+          "hash": "9e11348b064efe66bb2884a151315ee9ebbf9c7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24152$4CA6CAFA-4DE2-4716-8D39-087B6394E5FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24152$BB5C0976-FE2E-4691-8C80-714841CB9A80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1484-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70e1ae80cc54d139e7936f5254c860ee22ca984c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24152$E95F141F-B5B4-4EF8-B918-0227CCCDDD76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1523-05-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c4511e2d5103a010be8d76c056482f80dcb6c34",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24152$B14BDF37-A56E-43B2-BE63-4A63FC22C3A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15838951"
+          },
+          "hash": "29400ca6d0ae6eb1aa35d23e5fff95e41526bc4f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24152$5BC9EC6E-151C-472A-A137-95A73BFD8530",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rengei Arms.svg"
+          },
+          "hash": "c8b33ea449b3faf383126efe41ba60a964a50924",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese monk of the Sengoku period. son of Rennyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の僧"
+    }
+  },
+  "id": "Q24152",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rengei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rengei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rengei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rengei"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rengei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蓮芸"
+    }
+  },
+  "lastrevid": 17423142,
+  "modified": "2025-09-16T03:18:01Z",
+  "ns": 860,
+  "pageid": 45957,
+  "sitelinks": {},
+  "title": "Item:Q24152",
+  "type": "item"
+}

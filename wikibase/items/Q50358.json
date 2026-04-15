@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tōdō Yoshimasa"
+      },
+      {
+        "language": "en",
+        "value": "Todo Yoshimasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50358$411D90E9-15E0-4C2B-9223-E139BD2E084B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57836",
+              "numeric-id": 57836
+            }
+          },
+          "hash": "aaec6659cb99cdb698f441a111040c6967878904",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50358$904AB700-7C9C-4B6D-A0CD-70492A7C0448",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43219",
+              "numeric-id": 43219
+            }
+          },
+          "hash": "944f487d359a1ad3589a65606b9383ce4b24ec1a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50358$4744160A-1B45-4B6B-B40A-264FEE363F41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57011",
+              "numeric-id": 57011
+            }
+          },
+          "hash": "ff893f37f8a46be88ffe97e6bf0d07ff8c40eeff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50358$49D5D034-FB47-40AB-BECC-D03F5FBF48E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50358$74F5325F-CB39-47B1-BDF4-D4B8CED07972",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50358$9596A1BC-47E0-48D8-913F-16AF77D47F73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50358$05D97909-C795-4E02-8823-5C0C63ED4496",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1559-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb58e24eb5396a2370b3756e1ec9b39fb70fbe5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50358$4BACEF99-7F30-4825-930B-ED8ABF59C323",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1600-10-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0806e686a26518635eb9dbcba858c3620fc9c346",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50358$577025DC-DE47-4A17-BD13-52D47A8E582F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623721"
+          },
+          "hash": "96ad23b71d569829ad5f6f7dba14d39b3ce24da1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50358$B5EA7DF6-A041-452F-B46D-B720AFC26577",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tōdō Yoshimasa Arms.svg"
+          },
+          "hash": "889250c51dc203d2421f8aa2085144ab69db1c3b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代の武将。従五位下、玄蕃頭。藤堂玄蕃家初代。子に藤堂良重（3代）-重経-良勝（5代）、藤堂良次"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q50358",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tōdō Yoshimasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tōdō Yoshimasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤堂良政"
+    }
+  },
+  "lastrevid": 17456538,
+  "modified": "2025-09-16T11:28:22Z",
+  "ns": 860,
+  "pageid": 65434,
+  "sitelinks": {},
+  "title": "Item:Q50358",
+  "type": "item"
+}

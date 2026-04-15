@@ -1,0 +1,411 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Leo III //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55156$E67A2069-F6A1-4B02-9E6F-0BDE78591CF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293046"
+          },
+          "hash": "058a13b2943859334d03e3d35dea2d4a6c375219",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55156$8B5A9AAC-D306-44FC-815A-B7FF307736B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55156$5A441F0A-B7B3-420F-B80A-3BA647A441AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55156$A278DEA6-2760-4661-ACBE-6464432824B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Leo_III,_King_of_Armenia_(1)"
+          },
+          "hash": "b49bd01f880b3b03a3ea8f84f7c074990799c9ed",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55156$09D1AADB-9529-45CB-85D7-A7DE3CD96824",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55140",
+              "numeric-id": 55140
+            }
+          },
+          "hash": "41d3647f8c6640ba7842c15d1227fb25fc29819c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55156$1C2FBE75-BCAB-4ACC-93E4-A6A1D06417B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49768",
+              "numeric-id": 49768
+            }
+          },
+          "hash": "81105d08acfbe2ad90acc446e92e2ee5d583a004",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55156$49DBDC8A-76E9-4611-B9CF-836352429F31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55152",
+              "numeric-id": 55152
+            }
+          },
+          "hash": "afc1080b1289b0cb2af7833303ed38a62e22e6c2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55156$8504FD0F-ECB6-4519-93ED-AB1BB295E7C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55156$83E854B8-302E-4753-82C6-62C5CB27F44A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1289-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3baae032f28e8c7da5925b1b3e5440226186ec95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55156$2A152F1D-FA5E-49F0-956B-8461F204A9D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1307-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3abb962743e1b27782432c59488b3b4eb3f567b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55156$69AC0CC4-8CEE-4EAC-9E2F-224647CF4655",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888092"
+          },
+          "hash": "9b67a176adb754b334f8b7a523da8bca22f04b6f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55156$71C4086B-060C-42F8-829C-B7F74511B6F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013054651337"
+          },
+          "hash": "ac81f0671d191142ea14789624f4212d689f1436",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q55156$55C5FE30-BA16-4068-9AF9-98C028F0E122",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:59923"
+          },
+          "hash": "0817db9c33091d27b3e9163a244597249bb2d10e",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q55156$E90741DE-3760-4F74-809E-92682790CAA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=leon;n=hetoumide;oc=1"
+          },
+          "hash": "97095349f41c07fb2e03008b8b9be14b4b8d66b3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55156$1A2CE837-2C8A-4A2A-9E57-7E4D85F3CCCB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Leo III Arms.svg"
+          },
+          "hash": "6c689cba23b513ef008a15b974704621a11cea77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Kleinarmenien"
+    },
+    "el": {
+      "language": "el",
+      "value": "ηγεμόνας της Μικράς Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Armenian Cilicia (1289-1307)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "örmény király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re della Cilicia armena (r. 1303-1307)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Armenien"
+    }
+  },
+  "id": "Q55156",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ليو التالت"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lleó IV d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Leon IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Λέων Δ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leo III"
+    },
+    "es": {
+      "language": "es",
+      "value": "León III de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لئو سوم، شاه ارمنستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Léon IV d'Arménie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Leó örmény király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լևոն Դ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leone IV d'Armenia"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლევონ IV"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Leo IV van Armenië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Левон IV"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Leon III. Kilikijski"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Leo III av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Левон IV"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萊翁三世（奇里乞亞）"
+    }
+  },
+  "lastrevid": 17463008,
+  "modified": "2025-09-16T13:03:57Z",
+  "ns": 860,
+  "pageid": 69987,
+  "sitelinks": {},
+  "title": "Item:Q55156",
+  "type": "item"
+}

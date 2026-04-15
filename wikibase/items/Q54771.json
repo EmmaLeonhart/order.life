@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Consort Shen"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q54771$476B10AF-547E-470E-8743-6F527589FB05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54627",
+              "numeric-id": 54627
+            }
+          },
+          "hash": "6673b9a79ae0cbc2468e041412d370b0783b6d24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54771$CF40F4A4-6DEE-4E9C-86BF-67972EC0E453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54771$4906BADE-8573-4036-A0F8-DFD2C4587685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q54771$94BE76F8-4125-460B-AC81-6F4890616927",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46148",
+              "numeric-id": 46148
+            }
+          },
+          "hash": "d5c4d4f4902e074588adf7950bb9bfa15380e0f2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54771$61346269-6BF5-4EAC-8A2C-03999068333A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61410",
+              "numeric-id": 61410
+            }
+          },
+          "hash": "96789ddb9647d1174afcd3c1beb5fbfe39324472",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54771$533DCFB7-11C8-4023-B232-DE6528E596A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54771$16F8559B-F44B-485C-93F0-F083BC0B4056",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a554c7ff86988519b6b4b59e89ab9bb4e914800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54771$C1861B03-36F6-4712-BDDD-0CC9673C46CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5163358"
+          },
+          "hash": "2fe25d629eee7fd3039db95f6b4337b8fd3d18b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54771$9000905F-494A-49C6-96D6-26BC30F2E5AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Consort Shen Arms.svg"
+          },
+          "hash": "21fff3800391c8ee86c698130c88035313635be0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang Dynasty imperial consort"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "당 대종의 황후"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена императора Дай-цзуна, мать императора Дэ-цзуна из династии Тан"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đường Đức Tông sinh mẫu"
+    }
+  },
+  "id": "Q54771",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Consort Shen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Consort Shen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Consort Shen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Consort Shen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "睿真皇后"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "예진황후"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "沈某"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Consort Shen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Шэнь"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Duệ Chân hoàng hậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "睿真皇太后"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "睿真皇太后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "沈某"
+    }
+  },
+  "lastrevid": 17462434,
+  "modified": "2025-09-16T12:55:21Z",
+  "ns": 860,
+  "pageid": 69602,
+  "sitelinks": {},
+  "title": "Item:Q54771",
+  "type": "item"
+}

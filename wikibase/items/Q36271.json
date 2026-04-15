@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ruan Fu //"
+      },
+      {
+        "language": "en",
+        "value": "Ruan Fu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q36271$8CBC0559-A8BC-45BE-B21C-6E959A09E99E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36271$A8FD51B2-4650-4F08-B260-39E4489C54D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q36271$92918522-523F-4A13-B720-E0407A4F37CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37077",
+              "numeric-id": 37077
+            }
+          },
+          "hash": "75c6ca5a9ed52ed32886491a3fb90afd11562887",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36271$D0A4EBD2-71FA-40A7-8E06-99EB0889AF99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35818",
+              "numeric-id": 35818
+            }
+          },
+          "hash": "027f9a46fa9b3134f2939e3db7815f1094a11a36",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36271$C5D399EC-B9A6-43C0-B426-9217303548A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36271$6CF93B1F-AD19-4A00-87F8-A131BC933078",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1802-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a44b30c816cdfc5136c97daed3340b10e1627769",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36271$BD35ACE1-9341-40A2-9C7E-1669F1D9BA72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45416491"
+          },
+          "hash": "d811da71a0bfbb0193ebe0b29aab605c0583feec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q36271$2329EEAE-ED38-400E-8035-517EF9ABE51C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000029164052640"
+          },
+          "hash": "a21d81690e038ccfedcadef1b808d251a9a88baa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36271$3BA38CE7-92AD-4843-807F-6C7CB33F9F4B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ruan Fu Arms.svg"
+          },
+          "hash": "0f3a5a4020e843c06c49caf89e999d72b21a0abf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Qing dynasty person CBDB = 29716"
+    }
+  },
+  "id": "Q36271",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ruan Fu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ruan Fu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ruan Fu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "阮福"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ruan Fu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阮福"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阮福"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阮福"
+    }
+  },
+  "lastrevid": 17438258,
+  "modified": "2025-09-16T07:04:35Z",
+  "ns": 860,
+  "pageid": 54905,
+  "sitelinks": {},
+  "title": "Item:Q36271",
+  "type": "item"
+}

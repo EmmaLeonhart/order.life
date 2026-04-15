@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Shenyu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45505$72E269D2-E71B-4820-BDDA-41FE7D36C1F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54038",
+              "numeric-id": 54038
+            }
+          },
+          "hash": "13c048af431193e2fbe4e14102b732e075125808",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45505$38837A47-B52C-4AC7-99CF-B156FCF84F55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54034",
+              "numeric-id": 54034
+            }
+          },
+          "hash": "25b0425ac5d749c6e6f6e921926acc049e35cd9b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45505$00628119-4EC7-4C1F-988B-8F1B49A8CFE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45505$A6B8E4D1-FE69-4E29-8C0E-E84D896C81A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45505$E81D0F70-748A-428E-B82A-97C1BA844FF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23375",
+              "numeric-id": 23375
+            }
+          },
+          "hash": "bd3889898022f708dd3a2add0782ee415be7fb6e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45505$5B0AAE95-474B-4C87-BE59-51A00882845D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45505$16EFD39C-AD8E-4F49-8F90-B414CFDFD4ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0747-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eb65bae79f6f36ad3f937ade6cfc0d670a314e5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45505$D7BB33AA-3126-424B-81FA-45E0A2C5C9A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q25926889"
+          },
+          "hash": "a0e80567f70dca46079b288e9c52225c08dc45d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q45505$CE243EF1-49B2-41D8-9A00-52814D856749",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075328522861"
+          },
+          "hash": "1705659046479746ccd56d924cad0ebb1eb71da9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45505$3785BB9F-FB4A-44A3-AC8C-9B8009B814B6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Shenyu Arms.svg"
+          },
+          "hash": "b26ec35881aa6b298980114d3fe2a7434ce9f1f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Yang Chongli, descendant of Emperor Yang of Sui"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con trai Dương Sùng Lễ, hậu duệ Tuỳ Dạng Đế"
+    }
+  },
+  "id": "Q45505",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Shenyu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Shenyu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Shenyu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "杨慎馀"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊慎餘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Shenyu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dương Thận Dư"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杨慎馀"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨慎余"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊慎餘"
+    }
+  },
+  "lastrevid": 17450030,
+  "modified": "2025-09-16T09:54:19Z",
+  "ns": 860,
+  "pageid": 61811,
+  "sitelinks": {},
+  "title": "Item:Q45505",
+  "type": "item"
+}

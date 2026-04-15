@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "棟良王"
+      },
+      {
+        "language": "en",
+        "value": "Dong Liang Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8002$4DA91A7D-7A9F-4972-864A-FBF59FB3456C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8002$DCE4FBA2-2BDB-4938-A8A7-C8029CAB6EFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8002$37C80F82-610F-4A77-90A0-C2272E1A0939",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dong Liang Wang Arms.svg"
+          },
+          "hash": "49e96b6aad3dd4bcb862cd9f98665a7f294975ff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8002",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dong Liang Wang"
+    }
+  },
+  "lastrevid": 17407906,
+  "modified": "2025-09-15T22:40:51Z",
+  "ns": 860,
+  "pageid": 30493,
+  "sitelinks": {},
+  "title": "Item:Q8002",
+  "type": "item"
+}

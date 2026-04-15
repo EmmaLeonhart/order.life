@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Unkown Sasportas"
+      },
+      {
+        "language": "en",
+        "value": "לא ידוע ששפורטש"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q31653$4AEF0AD6-342A-46E9-BBC1-154906699343",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33021",
+              "numeric-id": 33021
+            }
+          },
+          "hash": "63dfe2a91cf66a3aa09820186070f0b2265951ae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31653$E9BAC402-529E-41B5-B80D-9F3F1F8ED3C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92728",
+              "numeric-id": 92728
+            }
+          },
+          "hash": "5fad04777104b3b9fc2d3e0cf39a104f757de9fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q31653$2AAA590C-53FD-4FF5-B4FF-57DD48C82D6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31653$75C165B7-A9A5-4F3E-8F3D-F38FF685D7BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31653$4DBD7704-BA86-4F3E-BB7E-AFC6E29BC9CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90191",
+              "numeric-id": 90191
+            }
+          },
+          "hash": "10c05814d8dbee9f6272411f775b80b10711e404",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q31653$E24937A2-1AFC-4AD5-AC1E-991BC614987B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "לא ידוע /ששפורטש/"
+            }
+          },
+          "hash": "b33059974c65d76c20964c800faa64d3c9afc48a",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31653$34F0FCEA-07AD-432F-B415-BB5E730DA685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q31653$12E9E38E-96F0-43E0-9E2E-659EA7A1CC35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000103970492974"
+          },
+          "hash": "5a1b358ad1fa4e79c91b6d48a818e7e8edfe5ef5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q31653$9D12FD08-B074-42E6-8253-6614E16D8DA7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Unknown who is from Portsch Arms.svg"
+          },
+          "hash": "c5954ef5adecadcd2473bec75518e8caff5899ef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q31653",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Unknown who is from Portsch"
+    }
+  },
+  "lastrevid": 17431646,
+  "modified": "2025-09-16T05:27:45Z",
+  "ns": 860,
+  "pageid": 51451,
+  "sitelinks": {},
+  "title": "Item:Q31653",
+  "type": "item"
+}

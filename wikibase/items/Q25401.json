@@ -1,0 +1,432 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "King Cheng of Zhou //"
+      },
+      {
+        "language": "en",
+        "value": "King Cheng of Zhou"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25401$E274AC49-E22B-4040-948F-4FC35D049752",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1443300|593865"
+          },
+          "hash": "2dcdb3ce0c96dc353a02c6122d35a7bc3bed388f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25401$8C256188-906E-4A45-B8D7-D1F9F7FBE801",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25417",
+              "numeric-id": 25417
+            }
+          },
+          "hash": "584a7df38e95a144d50238357be8326889f6240a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25401$7F5D4C10-3869-4EEC-BF7C-E872A106D69A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25401$3AE7283F-8432-425A-A40C-AA20FE4FB461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q25401$45B51384-F15B-4F02-9947-366DAE248472",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25416",
+              "numeric-id": 25416
+            }
+          },
+          "hash": "068b2dd409d4a053eb97a147568e48ba73aaa7ef",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25401$129A6CB8-CB86-4D86-B98E-0FC9E273E283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6647",
+              "numeric-id": 6647
+            }
+          },
+          "hash": "7a77dcef2428a89f64ebcf6b3c937f6bef05a85a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q25401$37DDEBF1-16E5-44A7-B830-21064A00BB7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25399",
+              "numeric-id": 25399
+            }
+          },
+          "hash": "ddc24163cf71866277f32c30b4b14ab9dc213d44",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25401$1E26D94B-53B9-44E5-ACD3-058032016B83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25401$599E85A2-7E40-4FD4-A074-EFB856E69720",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25401$B4A3945E-BB9F-4B84-911D-FE0F15664267",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1021-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45ce35c44846a8a35797696b04b6835d8a213803",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25401$9FADF50E-48AF-49A6-A86D-0867E8C38DCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q388766"
+          },
+          "hash": "3fa2bce35a28b84dbedb924b63dd41899ef69d52",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25401$D09274CE-CEE3-4D83-96D3-45C605E47B11",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Cheng of Zhou Arms.svg"
+          },
+          "hash": "7a1458aea14c95eed206b370c40c75ef1973106c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der Zhou-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "11th century BC king of the Chinese Zhou Dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de Zhou"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi chinois de la dynastie Zhou"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano cinese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees soevereine (1100v Chr-1021v Chr)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kinesisk monark"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周朝第二代君主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "周朝君主"
+    }
+  },
+  "id": "Q25401",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ملك تشنج تشو"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Kralj Cheng od Zhoua"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rei Cheng de Zhou"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پاشا چێنگی ژۆو"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "King Cheng of Zhou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey Cheng de Zhou"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه چنگ ژو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zhou Chengwang"
+    },
+    "he": {
+      "language": "he",
+      "value": "המלך צ'נג מג'ואו"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Cheng dari Zhou"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zhou Cheng"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "成王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "서주 성왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "周成王"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᠴᡝᠩ ᠸᠠᠩ (ᠵᡝᠣ ᡤᡠᡵᡠᠨ)"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chiu Sêng-ông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "King Cheng of Zhou"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Chengwang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чэн-ван"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kralj Cheng od Zhoua"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Čeng, kralj Džova"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kung Cheng av Zhou"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าโจวเฉิง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Cheng (Zhou)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чен-ван"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chu Thành Vương"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "周成王"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "姬誦"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周成王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "周成王"
+    }
+  },
+  "lastrevid": 17424168,
+  "modified": "2025-09-16T03:40:54Z",
+  "ns": 860,
+  "pageid": 47045,
+  "sitelinks": {},
+  "title": "Item:Q25401",
+  "type": "item"
+}

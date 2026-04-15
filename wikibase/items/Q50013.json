@@ -1,0 +1,441 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manuel Kantakouzenos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q50013$14442D87-13E2-4EAB-BA5E-78E21CC32CDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00726286"
+          },
+          "hash": "fe23365ec4a9a886e75d575a58e99c8a8dbc9b1f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50013$636F37A2-C63A-4E3C-86EE-43D10DD6F9B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50013$6D4FCF8C-8D5F-486F-92FD-2CF249673099",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q50013$03FE37DD-CD47-4254-940E-EDD76BD49E14",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Manuel_Kantakouzenos_(1)"
+          },
+          "hash": "9436162d637c772c88f59bd6206b939314118ddf",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50013$B698490D-9A03-4E3D-83C5-1BEEEC1D27DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54219",
+              "numeric-id": 54219
+            }
+          },
+          "hash": "111b1916d3b59edccc5810e2d21d65a1f44c6d99",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50013$953E8BD6-D92E-4D65-99B8-E19465BCCDC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50009",
+              "numeric-id": 50009
+            }
+          },
+          "hash": "f33fec5ca9947f568f8b16112d7da1f36ab794f6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50013$9A0500EB-21ED-48DC-848C-7E540AE49519",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46151",
+              "numeric-id": 46151
+            }
+          },
+          "hash": "31546efc3e9b02b51369568ce742804ea6ed21d1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50013$AEF714CF-E43B-457D-AD64-B3DDDF214181",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50013$F0BE092B-4835-44B6-A8D9-51929E10E5E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1326-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77e546ef2c89d467598855d3d0f879f5c168f570",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50013$3F089FCA-4E69-4CCA-B436-0D368424FD43",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1380-04-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d779efc71c4752f910c4be436202da65dc5f58e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50013$2321E693-103C-46F6-ACA2-FCD202224F5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q518569"
+          },
+          "hash": "9f9d1efa5c9463ad190657a2452371aff5993bbb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q50013$5DDF906D-D617-42A0-836C-77409F9B80EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=manuel;n=kantakuzenos"
+          },
+          "hash": "8c43963f78f00142fc111cdc20fc4d809f0de0e0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50013$93D77725-9547-43BA-89A9-350D9D599AE2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manuel Kantakouzenos Arms.svg"
+          },
+          "hash": "5436dd915b112019e119619aa69a048590803fda",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "деспот на Морея"
+    },
+    "de": {
+      "language": "de",
+      "value": "Despot von Morea"
+    },
+    "en": {
+      "language": "en",
+      "value": "Despot of the Morea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Despote de Morée"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Morea despotája, VI. Jóannész bizánci császár másodszülött fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "despota di Morea"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Manuil Kantakouzenos"
+    }
+  },
+  "id": "Q50013",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Мануіл Кантакузін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мануил Кантакузин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Manuel Cantacuzè"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manuel Kantakuzenos"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Manuel Kantakuzenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μανουήλ Καντακουζηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manuel Kantakouzenos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Manuel Kantakouzenos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Manuel Kantakouzenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manuel Cantacuceno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manuel Cantacuzène"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Manuel Cantacuzeno"
+    },
+    "he": {
+      "language": "he",
+      "value": "מנואל קנטקוזנוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Manuél moreai despota"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manuele Cantacuzeno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マヌイル・カンダクジノス"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Manuel Kantakouzenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manuel Kantakouzenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Manuel Kantakuzen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Manuel Cantacuzeno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Manuel Cantacuzeno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мануил Кантакузин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Manojlo Kantakuzin"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Манојло Кантакузин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Манојло Кантакузин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Manojlo Kantakuzin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Manuel Kantakouzenos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Manuil Kantakouzenos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мануїл Кантакузин"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "曼努埃尔·坎塔库泽努斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "曼努埃尔·坎塔库泽努斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "曼努埃尔·坎塔库泽努斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "曼努埃爾·坎塔庫澤努斯"
+    }
+  },
+  "lastrevid": 17456042,
+  "modified": "2025-09-16T11:20:50Z",
+  "ns": 860,
+  "pageid": 65176,
+  "sitelinks": {},
+  "title": "Item:Q50013",
+  "type": "item"
+}

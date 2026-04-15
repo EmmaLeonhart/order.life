@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsura Shigenobu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q48552$D0E6CCD2-E001-4699-BC54-AAC4331AD3CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805508"
+          },
+          "hash": "9c50ef9488a5e840672a8e3984150b26d0866d7e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q48552$9B521E78-2C59-48E2-89A7-48D8157E8192",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24172",
+              "numeric-id": 24172
+            }
+          },
+          "hash": "781e824bb961140c37f77f8ce9ed469aa3091c96",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48552$B5CA222D-C43F-44E6-B05F-D0D1BB6F0C7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48552$F0344688-F5A1-4402-B83D-A4220E1AF120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48552$44C14251-2ED3-4E4F-AA99-207A49B33FB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56795",
+              "numeric-id": 56795
+            }
+          },
+          "hash": "cc1194cbe096253f4d996a0dbda204613f769731",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48552$90E3D64D-F045-4076-A2D9-6E1A5F8463BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48552$95B42BEE-566A-4C1E-84BE-CEE97DD13769",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1549-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "094efe0e09959affd66bacb76107d516adc081ac",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48552$117882F3-0985-4F36-A1CE-2CD3060D55B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1614-07-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "634dc5b22a57a09756e54528539efaa4d11ac12b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48552$898A995F-3A35-4572-95EE-DC57C59DDBE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3825090"
+          },
+          "hash": "9d7b4f9d823e64140668ae40ad13e876c535170a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48552$C8A575D1-D77C-451F-A670-C066B40BD524",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsura Shigenobu Arms.svg"
+          },
+          "hash": "9c63433a98a74a72b37231b25e96911d6038f331",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo from the Sengoku to the early Edo period, 1st lord of Hirado. a.k.a. Hōin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国大名、平戸藩初代藩主。法印。"
+    }
+  },
+  "id": "Q48552",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Matsura Shigenobu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsura Shigenobu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsura Shigenobu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsuura Shigenobu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماتسورا شیگهنوبو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matsura Shigenobu"
+    },
+    "he": {
+      "language": "he",
+      "value": "מצואורה שיגנובו"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松浦鎮信"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마츠라 시게노부"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matsura Shigenobu"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мацуура Шигенобу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松浦鎮信"
+    }
+  },
+  "lastrevid": 17454018,
+  "modified": "2025-09-16T10:51:48Z",
+  "ns": 860,
+  "pageid": 64085,
+  "sitelinks": {},
+  "title": "Item:Q48552",
+  "type": "item"
+}

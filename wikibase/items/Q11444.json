@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Suetsune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11444$20FF691E-C3BC-44D5-AB55-531BA614886E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11444$466D030D-051B-45D9-85BF-9507D058AF0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11444$1EF95969-0E99-49A1-B5BA-7150B2E0E3D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10771",
+              "numeric-id": 10771
+            }
+          },
+          "hash": "017d6867f901669425cced91f21629a0d1139211",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11444$C4C20FAE-9B63-48C8-8156-1DBDE46EE618",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11444$D1D45D4E-E038-4D18-81B0-442202131A74",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1131-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c6fe3ef614a0c87b7ccf1371c6b6f3e49388214",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11444$88DAF80B-C16D-4338-9A7B-7B5BFD116050",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1221-11-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dacd33ae55e3a1da7201fd360e1f2d1e2444d544",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11444$3E211A91-B62C-4E96-B71A-70B4E22615EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623144"
+          },
+          "hash": "dabdea39410040b5b8d1e57acf861b42c57c5191",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11444$FBE42816-A2F6-4E2F-B6D5-6A31077BCF1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Suetsune Arms.svg"
+          },
+          "hash": "c61b2be0922572299527b1a6952f0c3eda559d7f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期から鎌倉時代前期の公家・歌人。正三位・宮内卿"
+    }
+  },
+  "id": "Q11444",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Suecune Fudžiwara"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Suetsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原季経 (藤原顕輔の子)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原季經"
+    }
+  },
+  "lastrevid": 17412954,
+  "modified": "2025-09-15T23:48:42Z",
+  "ns": 860,
+  "pageid": 33816,
+  "sitelinks": {},
+  "title": "Item:Q11444",
+  "type": "item"
+}

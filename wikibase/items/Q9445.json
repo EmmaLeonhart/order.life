@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Takakata"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9445$50E13765-E6D9-47DC-B534-22CDBF4E7A5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9445$D1DC1423-8CFD-4209-96D9-33A15E37D2B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9445$03D21B6A-1832-4248-9124-B416FF42E04F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9337",
+              "numeric-id": 9337
+            }
+          },
+          "hash": "85aa7b3a453407900ccc3810408739a212f4e466",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9445$3849ABED-2EE8-4580-8970-589925004D47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9445$586574A3-E073-415A-9801-56FFB0CB071F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0953-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4fe1c30ebaf0f58ad5d5c73fbb672ac837f83733",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9445$FF4B5310-2672-4C6B-BF53-8A6C050D7EAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0974-10-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3fd5a5c01a231f9b0cdd768e36b1e9c532cee257",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9445$09B1CC93-520B-4ED6-8408-C1A5D1824127",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q85883549"
+          },
+          "hash": "18b38bd9ad4a0f30e07aa96b8ffde05bd981ff5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "左近衛少将"
+    }
+  },
+  "id": "Q9445",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Takakata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原挙賢"
+    }
+  },
+  "lastrevid": 17410954,
+  "modified": "2025-09-15T23:19:33Z",
+  "ns": 860,
+  "pageid": 31898,
+  "sitelinks": {},
+  "title": "Item:Q9445",
+  "type": "item"
+}

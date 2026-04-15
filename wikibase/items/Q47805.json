@@ -1,0 +1,227 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seki Narishige"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47805$CAC20230-F140-46FD-BB80-8F64DFE9349B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23926",
+              "numeric-id": 23926
+            }
+          },
+          "hash": "c7ac3a2c62ae2e7f834b22accc3438caf20499a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47805$31FA51CB-C092-41C4-993D-E93F1050AD7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47809",
+              "numeric-id": 47809
+            }
+          },
+          "hash": "59d41952045dec2f70ef8f31dda4a999c4424f60",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47805$5747B57F-FC8B-4A30-8330-EE5C651FD033",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47805$1CDBE29F-620D-41CE-8CB5-8829F6196B8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47805$A2B11419-EA22-468B-BBFB-EC0439A9CD04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47805$D11A3585-26ED-4DC4-ACA9-9468EDEA158F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1528-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e57ceacde2a7bed3e5b8345687e93b2283331ffe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47805$38FB0D7A-CA7F-4AB9-B59F-A74940AF0EF9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1592-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "34e327a9785c27e2f17d460a0d5af673bb6e12b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47805$81917909-E83D-43FB-A811-74E7C43AAC12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11655797"
+          },
+          "hash": "351d7f4d3cea6c9da5a27e226dbb9f5dc734cec7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47805$841E11E4-A5C4-4263-A6FB-E535069B5B9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seki Narishige Arms.svg"
+          },
+          "hash": "d14b119a7274ede4f70ec059809874ede572f5cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代～安土桃山時代の武将。美濃斎藤家・織田禅正忠家・豊臣家の家臣。美濃関城主関綱長の次男。美濃佐野城主・尾張一宮城主を勤めた"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q47805",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Seki Narishige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "関成重"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нарисигэ Сэки"
+    }
+  },
+  "lastrevid": 17453048,
+  "modified": "2025-09-16T10:37:50Z",
+  "ns": 860,
+  "pageid": 63528,
+  "sitelinks": {},
+  "title": "Item:Q47805",
+  "type": "item"
+}

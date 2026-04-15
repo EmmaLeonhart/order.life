@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seiei-in"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15460$1D15C14B-3576-4A9F-81AA-8751517DE31D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15460$52C067FA-F1C5-4A8F-A1BF-D2694000F238",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15460$0CA201BC-9081-48FE-96A5-407D8AF47D3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "45c3786c144f06aa20e3f5d24932a969e3f265b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15460$BE2EDF19-A750-49AB-958A-2803470D45E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15460$98270026-0D14-4A36-AFF2-12FDF6069112",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1592-07-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "51139137cf577d5e7f49959d00d9cff7aa38dd02",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15460$A08C1E8F-46E2-404E-86D6-BCA065D3C2ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24875887"
+          },
+          "hash": "8875c4f605f3fbcb0ec4dbd3ba130cc79e50261f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15460$86680CD3-CA08-4BA7-A999-35BCFF941E0A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seiei-in Arms.svg"
+          },
+          "hash": "626aa1c6fd2ae3bb2500afcbd1e588018ac2f4c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代の女性。徳川家康の側室。"
+    }
+  },
+  "id": "Q15460",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Seieiin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seiei-in"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "正栄院"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "正栄院"
+    }
+  },
+  "lastrevid": 17415208,
+  "modified": "2025-09-16T00:20:08Z",
+  "ns": 860,
+  "pageid": 37747,
+  "sitelinks": {},
+  "title": "Item:Q15460",
+  "type": "item"
+}

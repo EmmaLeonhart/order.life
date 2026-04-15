@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsugaru Tamemori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q17263$05270E87-FEC8-49CF-9F16-006ECBE4C745",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17263$17B69D5D-9920-4024-A787-BA7453D56BE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17263$78D85C6F-335B-4DF7-90FB-818BEE824E20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16195",
+              "numeric-id": 16195
+            }
+          },
+          "hash": "f0ce2715272c247986f76c1ff2fb77e65247c99e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17263$68E93855-CFDA-439D-B652-F74F27D62CAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17263$FC439543-15A0-4E3A-A223-679284998AD0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83c1e9202e85d82153c2c71a22031f1997a905c1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17263$010CE56A-4AC6-47B2-89A8-729E6311467A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11556423"
+          },
+          "hash": "0d3cc4eb525ae497c040800d1189d7ff08fdfd4b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17263$6190B5FE-BAF3-423F-A8B3-C53FDF49E6CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsugaru Tamemori Arms.svg"
+          },
+          "hash": "e3eb1226b4217880c969a8f63f5238ad94e56075",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    }
+  },
+  "id": "Q17263",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Tamemori Cugaru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tsugaru Tamemori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "津軽為盛"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тамэмори Цугару"
+    }
+  },
+  "lastrevid": 17416828,
+  "modified": "2025-09-16T00:50:51Z",
+  "ns": 860,
+  "pageid": 39499,
+  "sitelinks": {},
+  "title": "Item:Q17263",
+  "type": "item"
+}

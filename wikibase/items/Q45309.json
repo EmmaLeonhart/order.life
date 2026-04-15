@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "長孫子彦"
+      },
+      {
+        "language": "en",
+        "value": "Chang Sun Zi Yan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q45309$931B9386-7FD8-415A-A5D9-52567B6A189A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45309$2EA02D38-B141-4540-99FF-35DB987E7C1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45309$4F9CD4A5-6AA9-41B9-BBD8-1A1D8C61BB8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45301",
+              "numeric-id": 45301
+            }
+          },
+          "hash": "afe9ca3c3116f2fff3dfefdcf13afc8b94b3ad31",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45309$FBFE9880-4D0C-4423-88A6-67E30BDFBBEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45309$141B1BE3-59CE-4044-B571-2E52025E4DF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0497-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d4880b43f9a870b5210f6d508f4a54af088e020",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45309$87941532-686F-43C4-916E-396F1C7DE765",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15903234"
+          },
+          "hash": "9cdbd2f7bc04b43b603b93aefc4e487e1a1814d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45309$758E3716-A341-40C1-B53C-D393936FC472",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Truong Ton Tu Ngan Arms.svg"
+          },
+          "hash": "097f26a2f67d757275e11b59a924253ac202bb78",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q45309",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Truong Ton Tu Ngan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "長孫子彦"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trưởng Tôn Tử Ngạn"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "长孙子彦"
+    }
+  },
+  "lastrevid": 17449738,
+  "modified": "2025-09-16T09:50:11Z",
+  "ns": 860,
+  "pageid": 61664,
+  "sitelinks": {},
+  "title": "Item:Q45309",
+  "type": "item"
+}

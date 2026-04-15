@@ -1,0 +1,417 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Terumune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16858$9A6E6808-A045-41EB-8905-DE351DD3B11B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16860",
+              "numeric-id": 16860
+            }
+          },
+          "hash": "f2940a25495b561db5db09b0922fa66151ebddc4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q16858$914B0F1F-4183-4A48-BC39-F6AC14B4CFB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "伊達-7"
+          },
+          "hash": "31760b6742799ee44062d8e9a94883fcff547d83",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16858$669EC345-8B00-46F4-85C0-06D71E6B7318",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16858$708408FF-7B1C-4D78-AA47-1AA18154A142",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16858$53839A74-4FCD-49E9-A6E5-CC07534D7462",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16859",
+              "numeric-id": 16859
+            }
+          },
+          "hash": "5eba0dd2b18bfbbb43d89957859cccd51a3237fd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16858$6F44235D-ED13-493B-AEC9-DC6E2067370D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18206",
+              "numeric-id": 18206
+            }
+          },
+          "hash": "47355d644072a8fb0dba17bfc039efa72c9dca71",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16858$21936715-33C1-4D1A-AB2A-8A1ADD12C682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17849",
+              "numeric-id": 17849
+            }
+          },
+          "hash": "aa29273d58e3c79cd61c97b9f410992167bc417b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16858$284A20B6-34CA-422B-AE28-CCE392B178B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16858$86F5852D-3472-4173-AD4E-945B8D818D95",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1544-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17b7fe065a7309c4baf4080889f7608181a4fad9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16858$85D90C57-6D7E-460E-A5AE-C8F3BC106324",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1585-11-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3122d518c923a64809c21e36e299abe19155305f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16858$946C9B1D-0C63-4C8D-B7DB-AEC2E6D45E04",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Terumune.JPG"
+          },
+          "hash": "2829a14a123925e48c61f3be28a36919a53603ec",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16858$A65112AE-538D-4161-B56D-164C797D0D2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2625556"
+          },
+          "hash": "33850ee0f37a89e60b9fcd01000c18651cdf5e10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16858$885D46C4-9A74-4E33-8BFB-116FAF3F59B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Terumune Arms.svg"
+          },
+          "hash": "5451b85098acc437bc15bc7b0f9a9bd53da17388",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1544–1585)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Daimyo of the Date clan of Mutsu Province"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire japonais"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将・大名。伊達晴宗の次男"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1544-1585)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "daimyo do clã Date da província de Mutsu"
+    }
+  },
+  "id": "Q16858",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Date Terumune"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Terumune Date"
+    },
+    "de": {
+      "language": "de",
+      "value": "Date Terumune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Date Terumune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Date Terumune"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "داته تسورومونه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Date Terumune"
+    },
+    "it": {
+      "language": "it",
+      "value": "Date Terumune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達輝宗"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다테 데루무네"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Date Terumune"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Date Terumune"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Date Terumune"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Date Terumune"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Датэ Тэрумунэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Date Terumune"
+    },
+    "th": {
+      "language": "th",
+      "value": "ดาเตะ เทรูมูเนะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Date Terumune"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Date Terumune"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊達輝宗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "伊达辉宗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伊達輝宗"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "伊達輝宗"
+    }
+  },
+  "lastrevid": 17416408,
+  "modified": "2025-09-16T00:41:06Z",
+  "ns": 860,
+  "pageid": 39108,
+  "sitelinks": {},
+  "title": "Item:Q16858",
+  "type": "item"
+}

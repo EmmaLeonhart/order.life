@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shishi"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q9826$C8150659-EDDF-419E-B20A-E5D389775AEB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Shishi"
+            }
+          },
+          "hash": "d04f3c872296c719839a572268d4cacb7f6db3eb",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9826$42231410-FB63-4F2D-9A8C-1F5B7E0BEF36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9826$BB916A81-4580-42F0-AC71-9C92702C1A06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9826$85BDE6B3-C4A9-4E07-86A7-61C6FFC1572C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9408",
+              "numeric-id": 9408
+            }
+          },
+          "hash": "cdf951bf1b07c3f3697714fabd70aa3ecfa980fc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q9826$0FF2B95C-9EAF-4A13-883A-1037E26AC333",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9878",
+              "numeric-id": 9878
+            }
+          },
+          "hash": "0398ae215cb73679d73de2248aba2c1af7471aaa",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9826$97BBF39B-ECDF-4138-A153-5E9C2850840F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Shishi"
+            }
+          },
+          "hash": "4acc0b94df1a499255d8795f2459833fce637e66",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9826$ECD4931D-4DB0-46A4-B7E6-EC6449D58114",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9826$CB725031-BC71-46FF-8067-74B4E16C2001",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1003-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7809fb78a27c1e5e842ebf2cdeb59351b0dd60b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9826$C0695346-F4BB-43C8-9DE7-CB7DDBFC441F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1048-03-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e387b2aacae7ed9b11c30d7ebf6eb3fd956bcd94",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9826$80BFB14F-D1F6-459E-9A89-3DF723B98457",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48764156"
+          },
+          "hash": "2bedd4f497e29146bc4de5bb8e5a95aa919ae40c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "三条天皇第二皇女、藤原教通継室"
+    }
+  },
+  "id": "Q9826",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shishi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "禔子内親王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "принцесса Сиси"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Shishi-naishinnō"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "禔子內親王"
+    }
+  },
+  "lastrevid": 17411674,
+  "modified": "2025-09-15T23:29:45Z",
+  "ns": 860,
+  "pageid": 32261,
+  "sitelinks": {},
+  "title": "Item:Q9826",
+  "type": "item"
+}

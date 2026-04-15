@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nambui //"
+      },
+      {
+        "language": "en",
+        "value": "Nambui"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q36554$33B592B7-0059-4FA0-9F8F-D2249BD8C4EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1170577"
+          },
+          "hash": "935bdd07de88eb2664768ae223b53a3d659912dc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q36554$F3C93272-7BC5-42ED-B462-8FB0271E6DF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00301550"
+          },
+          "hash": "d19fd87cdd74e2735876629dc40f3d935ad5bca0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q36554$D4A8BAEA-71FE-4991-87E1-56E5953D9D4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36126",
+              "numeric-id": 36126
+            }
+          },
+          "hash": "6ebd4d378a98ac5521a494e66704741739143180",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q36554$61C00434-B35B-4255-B1B2-B8EFCE3B1D69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36554$D19338D6-2B9B-488D-88A9-3F8BE27B0EAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q36554$82612D02-42B3-4030-9368-0BC2A6B20D7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36062",
+              "numeric-id": 36062
+            }
+          },
+          "hash": "ad45430c1e36a0817675cff12c301178cae12bbb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36554$E97CDD47-48C1-47C6-A03A-8C7D05032839",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37613",
+              "numeric-id": 37613
+            }
+          },
+          "hash": "6ca758d1cc7d062883823b730c7c85644a34f825",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36554$BFD8532B-CC6A-4CF7-836E-3A8A630D2534",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36554$175BF87F-2E9F-46E3-A9BC-5F214730B3D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "891a8fd1e3ea1f5ffde392231c3c7525a14fc1d6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36554$86AF65DC-C2F4-4F81-B33A-40078E1BBD1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6961425"
+          },
+          "hash": "39955dd591a9e31cdec3f74cec33bf5923e28da0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36554$E31447DE-82DA-4B94-B40E-1144F7461EC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nambui Arms.svg"
+          },
+          "hash": "505a300390a4feb3e4f643f24a07d7d663b555f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "khatan of the Yuan Dynasty"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khatan de la dynastie Yuan et de l'empire mongol"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q36554",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nanbi"
+    },
+    "be": {
+      "language": "be",
+      "value": "Намбі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nambui"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nambuj"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nambui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nambui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nambui"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nambui"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Nambui"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nambui"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ナムブイ"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Намбуй хатан"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "남브이"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "南必"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Намбуй хатан"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nanbi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nambui"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nambui"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Nambui"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Намбуй хатан"
+    },
+    "si": {
+      "language": "si",
+      "value": "නම්බුයි"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nambui"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nam Tất"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "南必皇后"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "南必皇后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "南必"
+    }
+  },
+  "lastrevid": 17438668,
+  "modified": "2025-09-16T07:10:21Z",
+  "ns": 860,
+  "pageid": 55117,
+  "sitelinks": {},
+  "title": "Item:Q36554",
+  "type": "item"
+}

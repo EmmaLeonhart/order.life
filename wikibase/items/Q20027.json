@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Okabe Hisatsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20027$2FC650DB-B10A-4D65-B364-7B9D5C5AD897",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20028",
+              "numeric-id": 20028
+            }
+          },
+          "hash": "e1eb25700a35d5ec8335141311a103e8418e9921",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20027$09F78AE2-B410-45B8-92D9-C81792C7BF00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29876",
+              "numeric-id": 29876
+            }
+          },
+          "hash": "e55ff5aaf87c9f3991ce441bb38fd603de88a5f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20027$6E6439D4-FAD6-410A-B7D8-E04DE85FABAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20027$4545303B-CED8-4779-AD58-89135073F1EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20027$70033EFE-A5D6-494E-A5B6-1FB498E865D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37730",
+              "numeric-id": 37730
+            }
+          },
+          "hash": "33ea3055c5648d1137825af9e196bfe17cd754f2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20027$E3FCF7E9-A169-441C-B4F8-CA05D2F95C45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20027$1933FA75-5F2E-4013-891D-314725BD7584",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1547-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8899fb4ab40f98ba729e2f392fe6359493e549b2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20027$7A83DC72-2B0A-4666-8713-8B289D5A37AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11473810"
+          },
+          "hash": "a79bae41803a8edf54c3f4da5a82df792cd20c1d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20027$4B93EFB5-A596-423A-97AC-35BAEF1F4322",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Okabe Hisatsuna Arms.svg"
+          },
+          "hash": "57baedf987de1921c9a9547fba5b9c100dafb80b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将。子に岡部長秋（子に宣貞（旗本））"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20027",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Okabe Hisatsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岡部久綱"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Окабэ Хисацуна"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Okabe Hisatsuna"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Okabe Hisatsuna"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "岡部久綱"
+    }
+  },
+  "lastrevid": 17419186,
+  "modified": "2025-09-16T01:49:26Z",
+  "ns": 860,
+  "pageid": 42124,
+  "sitelinks": {},
+  "title": "Item:Q20027",
+  "type": "item"
+}

@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konoe Kanetsugu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q15084$DAE0EE44-AA94-4297-8306-BD971531B252",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805046"
+          },
+          "hash": "797fb5c3d7bf342f2b736a41ca79ead5bc22748a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q15084$AF6A85D6-AA05-424C-AFFE-CB44D9BC6993",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15566",
+              "numeric-id": 15566
+            }
+          },
+          "hash": "1a0ae7f96422be691a9bde5dd544fbce3919f23b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15084$513CB29A-35BF-41D6-843F-595A02041034",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15084$69C3410A-15BA-4C5D-8AD0-873C86EDE442",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15084$41C61457-754F-48E7-A876-6F9891EF9692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14677",
+              "numeric-id": 14677
+            }
+          },
+          "hash": "0fafb40bea16f8bdc02162d2e36c7e1f4eecb16c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15084$52B084FB-DCD7-4355-A3E4-DB2AF4C1D6BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15084$D7143DD2-CD05-4BCD-83C0-323084916D17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1360-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b637daa038038ed5350404a09a4262250d9353d8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15084$7CD2C74D-33D1-451C-B94D-5C68379540E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1388-05-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "38d4a2fd546c874737a1c3e98ceccb08a9f96106",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15084$BF886FBD-F27B-4995-8986-72894EE517D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3198713"
+          },
+          "hash": "57d7854ce69839888f3dc56b1d7cd17eadda9600",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15084$E9EE7D63-595C-41AE-AF23-DBE781DBF492",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konoe Kanetsugu Arms.svg"
+          },
+          "hash": "726b1644d9f3de95ae0c16f67d5df851ee66d762",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1360–1388)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský dvořan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "kugyō and sessho"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代（北朝）の公卿。従一位・摂政、右大臣。近衛家11代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (1360-1388)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q15084",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Konoe Kanetsugu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kanecugu Konoe"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konoe Kanetsugu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Konoe Kanetsugu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Konoe Kanetsugu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Konoe Kanetsugu"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Konoe Kanetsugu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Konoe Kanetsugu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "近衛兼嗣"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Konoe Kanetsugu"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Konoe Kanetsugu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Konoe Kanetsugu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Konoe Kanetsugu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AKonoe Kanetsugu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Konoe Kanetsugu"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Konoe Kanetsugu"
+    }
+  },
+  "lastrevid": 17414932,
+  "modified": "2025-09-16T00:16:20Z",
+  "ns": 860,
+  "pageid": 37376,
+  "sitelinks": {},
+  "title": "Item:Q15084",
+  "type": "item"
+}

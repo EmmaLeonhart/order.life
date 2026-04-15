@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "津軽熊千代"
+      },
+      {
+        "language": "en",
+        "value": "Tsugaru Kumachiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q34715$18CB4C23-22CF-49A3-BBD6-8126AFA94399",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q34715$FD30E870-17F2-480C-AB74-26915701F0C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q34715$A150291C-E5B1-4015-8764-8A1E2C87F301",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18778",
+              "numeric-id": 18778
+            }
+          },
+          "hash": "5a59dc768f6b67c7f091bfed8e55cd2636bffc66",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q34715$6801F4B4-2488-49D5-BD94-4F8E85B9AAC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q34715$AC350E59-18B8-4D8C-B287-45454A2F19DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1600-10-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f5db471a0387a34aec82b042a945180405f03e27",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q34715$3B7A1129-2610-40C0-A7FE-B7EDA1F6FFB9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1623-01-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "985d9d9f5de5600e1214e4fd4d4278e57d650e98",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q34715$9358598C-8147-4D32-B657-902FF8BB947D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11255665"
+          },
+          "hash": "7b111c06ab9a02bd901c383d73b15e92435d4f12",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q34715$43CA32F9-6777-4611-B214-06BCD984BB64",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsugaru Kumachiyo Arms.svg"
+          },
+          "hash": "95e38af3e8ec45da90df2a67243e6c1fc0f09c86",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の武士 (1600-1623)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q34715",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsugaru Kumachiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "津軽熊千代"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쓰가루 구마치요"
+    }
+  },
+  "lastrevid": 17435978,
+  "modified": "2025-09-16T06:30:14Z",
+  "ns": 860,
+  "pageid": 53743,
+  "sitelinks": {},
+  "title": "Item:Q34715",
+  "type": "item"
+}

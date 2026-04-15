@@ -1,0 +1,218 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "森正方"
+      },
+      {
+        "language": "en",
+        "value": "Sen Zheng Fang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50366$5F828C64-4B28-4E62-81D1-1D0FC6B7DCC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57839",
+              "numeric-id": 57839
+            }
+          },
+          "hash": "cc5977b8caf9ddeff3c2563bde014be90ca68d06",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50366$9DAD6D21-6217-4F64-A2AB-1FAE6C586296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43243",
+              "numeric-id": 43243
+            }
+          },
+          "hash": "1d7adff6b2a659a9e98ec9c137effeabee9a1b36",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50366$76CBE29A-8A20-4067-819F-9E6998B3AC75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50366$C6052592-838F-4A46-AE31-10128ADC0938",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50366$50EFC2E9-E6A4-4A26-965E-15DE48104A70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50366$570E52A7-E90D-4DE9-81F9-AF04917EEFF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1625-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea2c06285212780fe6de41c8a7a55fd024c3ee41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50366$FE2E8FF6-3CB5-4DBE-A26B-6689E1DB463A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1689-07-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1f7352ff3fae1420b79f177e7d3b713e6842c472",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50366$F410780F-B3A9-4379-B758-1819B137F2DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11539914"
+          },
+          "hash": "cd8f8a3ec92ced21b4a422c6e97eecd19cbd305c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本武士"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日本武士"
+    }
+  },
+  "id": "Q50366",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "森正方"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "森正方"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "森正方"
+    }
+  },
+  "lastrevid": 17456550,
+  "modified": "2025-09-16T11:28:33Z",
+  "ns": 860,
+  "pageid": 65440,
+  "sitelinks": {},
+  "title": "Item:Q50366",
+  "type": "item"
+}

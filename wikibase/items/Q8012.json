@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "平実世"
+      },
+      {
+        "language": "en",
+        "value": "Ping Shi Shi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8012$246FD07C-DF37-4E54-B37D-175D104FA04B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8012$206FEB83-E7A4-42E2-ABAF-0D44A8C0B363",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8012$BC094645-90E5-4E97-B1FC-A0A997E92F39",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ping Shi Shi Arms.svg"
+          },
+          "hash": "dea29dce1d4c9a6e05db1ee4de095949f8102135",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8012",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ping Shi Shi"
+    }
+  },
+  "lastrevid": 17407928,
+  "modified": "2025-09-15T22:41:07Z",
+  "ns": 860,
+  "pageid": 30503,
+  "sitelinks": {},
+  "title": "Item:Q8012",
+  "type": "item"
+}

@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yabe-zenni"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q10627$AF36F8DC-7A80-4DB1-AC50-09FCA1DDB592",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11311",
+              "numeric-id": 11311
+            }
+          },
+          "hash": "7aeb54185d433db29102499788c353f0e6c90028",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10627$E47F452F-339B-4E4C-BE4A-B1639643C116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10627$93CA66F0-10BA-4EC1-A5ED-4DF74C6AADFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q10627$C4F95FCE-B62D-479D-83BB-26422FE23945",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10642",
+              "numeric-id": 10642
+            }
+          },
+          "hash": "6b56ee0d401db72433ca0e0b94120daa99a3dcd1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10627$4435D8D3-4ED8-4A45-A6AE-8388F6B7138F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10086",
+              "numeric-id": 10086
+            }
+          },
+          "hash": "4c53a6e78032205c1dcf3d032527a43296cf1a7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10627$2D23E92B-ADA4-4573-95F0-B1FA676D0FAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10627$216813E0-263F-47CD-9BDD-F4B62F9B63E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1187-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "673651b6d3873c497d681b17012173fd2053b0cb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10627$F386EB38-ED43-49A6-9AAC-2D77B7D5832E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1256-05-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a2669f7461ff7feb55469d86f29bf74f75690701",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10627$C9C5C66B-5417-4A89-9350-6FF9A44F020B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11584304"
+          },
+          "hash": "8f0c7f2b15eb90f7cfed6963f62c46fd10e0af52",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10627$BB19FFAE-EDDC-4EB2-812D-4B76633B57C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yabe-zenni Arms.svg"
+          },
+          "hash": "46560e6ac8a345290232d7bedb7c48e1c4859478",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka Jasutokiho Hódžóa"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Hōjō Yasutoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の鎌倉時代の人物、三浦義村の娘、北条泰時の正室"
+    }
+  },
+  "id": "Q10627",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jabe zenni"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yabe zenni"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yabe-zenni"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yabe-zenni"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yabe-zenni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "矢部禅尼"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야베젠니"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "矢部禪尼"
+    }
+  },
+  "lastrevid": 17412412,
+  "modified": "2025-09-15T23:40:36Z",
+  "ns": 860,
+  "pageid": 33027,
+  "sitelinks": {},
+  "title": "Item:Q10627",
+  "type": "item"
+}

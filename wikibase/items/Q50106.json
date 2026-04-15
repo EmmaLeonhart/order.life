@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Horio Kinsuke"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50106$3CF8DA17-FA29-449F-BC8F-36C18E77FEF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50106$344E7CA7-5320-4BF6-9E51-7AA1B6738950",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50106$E4CC2FB4-ABDA-4D9D-B157-9F19B15E48CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24612",
+              "numeric-id": 24612
+            }
+          },
+          "hash": "12a12fe871538b497a36974894e881400dde8818",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50106$AC482B04-743B-4A3C-8BD7-40FFCAD4D535",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50106$D123A011-EA09-4588-A4C3-34CC07F4FDAC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1573-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "69b921ac60b39b96b261ca61fda3258ff580675f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50106$8A14926D-0017-4DD9-91C4-AF12A4C9D917",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1590-07-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eba6c8694c81ed853b66f9e18853448d59aa2d36",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50106$AB87CD96-422F-435F-9C0F-B3FE0C7C57F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11427402"
+          },
+          "hash": "0a6eb59ac3a6176346a143d7c2eaa86eb96d54e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50106$4F0CAEB8-192E-4DD4-AA78-302E57AAC358",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Horio Kinsuke Arms.svg"
+          },
+          "hash": "9e30cffca0983f925c4b64567b81fb1dc2d906a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q50106",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Horio Kinsuke"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "堀尾金助"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кинсукэ Хорио"
+    }
+  },
+  "lastrevid": 17456172,
+  "modified": "2025-09-16T11:22:55Z",
+  "ns": 860,
+  "pageid": 65245,
+  "sitelinks": {},
+  "title": "Item:Q50106",
+  "type": "item"
+}

@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Shouyue"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23789$CE41A5F9-8361-45AE-9397-E11BE16E1684",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47502",
+              "numeric-id": 47502
+            }
+          },
+          "hash": "d12ba57739043668c3c2ec769d5176981f1e8c00",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23789$D7F3F6B7-7D03-4AD0-90C8-FB2B190CE173",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47506",
+              "numeric-id": 47506
+            }
+          },
+          "hash": "a2f3cd7dcb949730e2cf436c675f761f43d80fb7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23789$F04BEA3F-02FB-4A6A-ADFB-54D0125E194A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23789$A0D2620B-2AD1-48DD-A1AB-6D55C7C4DC63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23789$12EFCFBB-9CEA-4E1B-B866-BFA2C9CFB2DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21447",
+              "numeric-id": 21447
+            }
+          },
+          "hash": "bbd98dfdfebebaf55f969acc5abf3e41410a46ff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23789$C8130A92-66CC-429E-9848-8B7F0641AEEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23789$1056620F-76C7-444D-BEE9-EE2D19EA9BCF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0661-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8165058b5fbad7751b54194f4a0fc4756c46faad",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23789$DC7945F4-30AD-4199-ABC2-9EA06A46012D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45673449"
+          },
+          "hash": "337dcafdc51f9f7ba3d16ccf8d81a348cf088ce4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23789$3B0AF2E8-FFF5-458C-912A-E3CA3BBE346F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074746736992"
+          },
+          "hash": "bdc2e384db7a4aab246ee1a24e99b19ee4efdd67",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23789$0628D18F-FEB3-4837-8FA1-95EF8EE67DCB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Shouyue Arms.svg"
+          },
+          "hash": "991b2a475da02711286bf510483f6416913d2b0a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171383"
+    }
+  },
+  "id": "Q23789",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Shouyue"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Shouyue"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Shouyue"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉守約"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Shouyue"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉守約"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘守约"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉守約"
+    }
+  },
+  "lastrevid": 17422864,
+  "modified": "2025-09-16T03:09:39Z",
+  "ns": 860,
+  "pageid": 45600,
+  "sitelinks": {},
+  "title": "Item:Q23789",
+  "type": "item"
+}

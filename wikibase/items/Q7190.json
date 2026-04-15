@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kawakami no Iratsume"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7190$4B63E65E-0327-4B8C-8F09-5CAD9C3A1A5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7190$88C60AF5-E0D4-4BA7-A45D-937C00887917",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7190$92DBE7AE-0BA9-4344-AF99-D46576667396",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7162",
+              "numeric-id": 7162
+            }
+          },
+          "hash": "b57fd028235dfde9562b1243df0fac5a7c54b754",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7190$D9B0DEB3-4D90-4158-B4EE-51E4F92A5542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7245",
+              "numeric-id": 7245
+            }
+          },
+          "hash": "a109e996a42d64daeddaec30e30983040474e31c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7190$35CB7B88-AD08-4C1F-9122-60B94AD0553F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7131",
+              "numeric-id": 7131
+            }
+          },
+          "hash": "d5f264ba879cd855c31c7d6dce1f50ccb88e38f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7190$2ECF556E-6D02-4E37-8C94-2166F914AAC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7190$ADC44233-DA25-4C1D-BD0B-5E79AC02B999",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0575-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "97b98f286045a322731af66616b8c1e955bc5588",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7190$426AA245-029B-44E9-8E5E-EF8830EBE022",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11553322"
+          },
+          "hash": "cc358bfcb121080e2415817cbc1540584a8dbe1d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7190$A5C27B86-CE0B-4188-8F70-88CC3C982FDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kawakami no Iratsume Arms.svg"
+          },
+          "hash": "167716fa4dcc8b068201cbe6c84964c0c3ad2714",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka císaře Sušun'a"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の女性、崇峻天皇の后"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "imperatoriaus Sušun žmona"
+    }
+  },
+  "id": "Q7190",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kawakami no Iratsume"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kawakami no Iratsume"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kawakami no Iracume"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kawakami no Iratsume"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "河上娘"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가와카미노 이라쓰메"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kavakami no Iracume"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Каваками-но-ирацумэ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кавакамі-но-ірацуме"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "河上娘"
+    }
+  },
+  "lastrevid": 17407117,
+  "modified": "2025-09-15T22:30:55Z",
+  "ns": 860,
+  "pageid": 29685,
+  "sitelinks": {},
+  "title": "Item:Q7190",
+  "type": "item"
+}

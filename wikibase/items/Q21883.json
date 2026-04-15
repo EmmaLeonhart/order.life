@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tachibana Akitaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21883$ADC97AE6-61B3-48F8-89EA-3D9A702DF482",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21883$46B60081-7B53-4FE9-A032-62EBED5A9CCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q21883$A73620B2-80E4-46F7-BB6B-DD6AE571C8EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33355",
+              "numeric-id": 33355
+            }
+          },
+          "hash": "dac5e2de68dfbf7b8aeaae5089ed23e51fbddfcc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21883$91795F08-761B-4FA8-8EFA-4980E32C913E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21883$6DC075CE-1FE9-4928-B1F8-01C3F524DBF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1683-02-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cf6200e13180ebdd346e9aa15025835a3c80e010",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21883$CA1CAE17-C663-474E-8F3B-422C7E62E31B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1721-06-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "34d971d4af451bb67c9905c84ae7f7ebf819a25c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21883$2C7EF0F0-F791-4842-898D-95A7CAB22EFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11598213"
+          },
+          "hash": "0f97e52e6c58b33a8333989e147672e36810a743",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21883$D19D403C-BBEF-4B27-94C2-50D628799A72",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tachibana Akitaka Arms.svg"
+          },
+          "hash": "11d1d0b303371e1ce13961475734190ed3db59f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q21883",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tachibana Akitaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "立花鑑任"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акитака Татибана"
+    }
+  },
+  "lastrevid": 17420872,
+  "modified": "2025-09-16T02:30:11Z",
+  "ns": 860,
+  "pageid": 43895,
+  "sitelinks": {},
+  "title": "Item:Q21883",
+  "type": "item"
+}

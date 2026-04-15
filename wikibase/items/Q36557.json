@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "留守宗利"
+      },
+      {
+        "language": "en",
+        "value": "Date Munetosi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q36557$A638F0C9-8FA4-4872-9BA2-02453DCE328C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36557$EA1E110A-30E9-4B65-B05E-DA9F71026BDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36557$C8AB25A4-5C5A-4D0B-AB22-5A442CAAC33B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19494",
+              "numeric-id": 19494
+            }
+          },
+          "hash": "dd65c59a25c975053240e91cfbd135da5b229659",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36557$95AF452E-29B3-43DF-AAAE-3812509BE051",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36557$93E5C11C-DBD0-4709-AEDE-3942A6720512",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1590-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77976a6849dfe0de5ce3b168002c77be944370c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36557$FD75B5D4-CAFF-4138-939F-53EA70C59FF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1638-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "275caf1dddcf5255dcdcab9971cb178961a1b5c8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36557$C5853B8F-FD1B-45A3-A964-CF4967E112FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11237935"
+          },
+          "hash": "29a2b233a003798aa56f727277af38a2b9a6eb5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36557$EEBE4D44-04E7-4D80-BE31-76C6E4240E0D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Munetosi Arms.svg"
+          },
+          "hash": "8f7964bdef8afeac089917267fa4e208fcceb122",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の武士 (1590-1638)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q36557",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Munetosi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "留守宗利"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "루스 무네토시"
+    }
+  },
+  "lastrevid": 17438672,
+  "modified": "2025-09-16T07:10:24Z",
+  "ns": 860,
+  "pageid": 55119,
+  "sitelinks": {},
+  "title": "Item:Q36557",
+  "type": "item"
+}

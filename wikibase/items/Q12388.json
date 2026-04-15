@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Senju no Mae"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12388$882FD18C-BD24-4843-9419-8A53C2157A62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12388$56E03D1E-65B6-478C-A39B-1497DFAE9C6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q12388$B519D53E-DC63-47D9-9CAE-669AF9F56F81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11552",
+              "numeric-id": 11552
+            }
+          },
+          "hash": "03fe711f401056eb9a761bada5f60d67d4435500",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12388$50E2ECBF-6560-4D6B-A31B-83547DA563F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12388$9B8F6D92-FC29-40ED-AD8A-21FAC1C12074",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1165-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "552fd66bc6db1f5074f25b9a9dea73d178e03c44",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12388$1A33524A-77B4-4717-ABB8-B9BDAA59F7CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1188-05-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7632e2ef6dc840fdd1053c6cc9647c514c76725d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q12388$AF3FC975-E58A-4178-AB49-819AC89DFB31",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Senjunomae.jpg"
+          },
+          "hash": "72988d6ba1c57c1157efb372d587301f72c3332b",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12388$1E391374-B65B-47FD-9191-A96EB9E28323",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11405508"
+          },
+          "hash": "5e68a789ae9af8968d06a147470ff68c6575be7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12388$96F22AB7-897F-470F-B9DB-7825E066E013",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Senju no Mae Arms.svg"
+          },
+          "hash": "76d062b2841bc19c34b2ea8beba967363ac5dc4e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese lady in the end of Heian period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安末期の女性、駿河国手越長者の娘?"
+    }
+  },
+  "id": "Q12388",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Senju no Mae"
+    },
+    "en": {
+      "language": "en",
+      "value": "Senju no Mae"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "千手の前"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "센쥬노마에"
+    }
+  },
+  "lastrevid": 17413464,
+  "modified": "2025-09-15T23:55:58Z",
+  "ns": 860,
+  "pageid": 34724,
+  "sitelinks": {},
+  "title": "Item:Q12388",
+  "type": "item"
+}

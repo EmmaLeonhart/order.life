@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yūki Mochitomo"
+      },
+      {
+        "language": "en",
+        "value": "Yuki Mochitomo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q28523$FB405334-A159-4412-AB09-EF3C5FD0C5B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28523$A407B096-BE46-475C-B277-0671D9DC33B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q28523$69E83F4A-3D19-441C-AB04-D3A7C362EA96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26451",
+              "numeric-id": 26451
+            }
+          },
+          "hash": "3070f623262bec48a2a10115d3baf34ae3022b91",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28523$062FD157-9E7F-42E4-AECF-AC3AD413ACFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28523$BA5640C7-F468-4660-9638-BD376C857E0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1420-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d432a45949c53569dc5b9638e77ba20c1dd4a0f8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q28523$A8CFDF13-FBF2-4B90-968D-0E6B83D06A58",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1441-05-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d49d2161c6883cb49fba40348d532c46e8e2d56",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q28523$69546E01-3272-4FBA-956D-62FBF0FF93DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11606586"
+          },
+          "hash": "966605d76fa2f2bee1c744b7be61c3b553d45358",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q28523$1BFC5B22-E7A2-4596-B420-DF8E6C7EB319",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yūki Mochitomo Arms.svg"
+          },
+          "hash": "c72e6ab343fd0ce781d8abe4b04bcc52184679a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "military commander in the middle of the Muromachi period. The 12th generation of the Shimousa Yuki clan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期の武将。下総結城氏12代。"
+    }
+  },
+  "id": "Q28523",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yūki Mochitomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yūki Mochitomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "結城持朝"
+    }
+  },
+  "lastrevid": 17427824,
+  "modified": "2025-09-16T04:32:54Z",
+  "ns": 860,
+  "pageid": 49120,
+  "sitelinks": {},
+  "title": "Item:Q28523",
+  "type": "item"
+}

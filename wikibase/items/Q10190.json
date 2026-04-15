@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tachibana no Norisue"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10190$834261B3-E48D-4A5D-BFEE-B572A3851F25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10190$B98C10C9-5611-40C9-853A-AD62DDE9F8BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10190$83228026-AC6B-49F0-8603-BFB2B70657E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9738",
+              "numeric-id": 9738
+            }
+          },
+          "hash": "93e7d4f00146e03787c53547f9ab1a4f3995dc24",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10190$07FBD38E-4283-4BEB-A48E-99980A3A1F49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10190$A3C2B433-B744-47D2-ADE0-D6D430641203",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1025-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9117ecf07f6c8826531c4617b21b7d80983f59a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10190$1319AD43-F8EA-4DF6-92FA-E305ECDC8DA4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1063-07-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c97e8e1b02017c7cabc6760e5c5ff1d0b008907",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10190$DB11FE07-B89F-434F-B728-954AE896146C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11544214"
+          },
+          "hash": "282fda4fc600019abc19730e8676863b90894203",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10190$C3B10403-B7FD-4699-9E05-ECCB52C36123",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tachibana no Norisue Arms.svg"
+          },
+          "hash": "e8ee29d6510de6490710bd2fef12bafcebb7a4c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q10190",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Norisue Tačibana"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tachibana no Norisue"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "橘則季"
+    }
+  },
+  "lastrevid": 17412066,
+  "modified": "2025-09-15T23:35:31Z",
+  "ns": 860,
+  "pageid": 32612,
+  "sitelinks": {},
+  "title": "Item:Q10190",
+  "type": "item"
+}

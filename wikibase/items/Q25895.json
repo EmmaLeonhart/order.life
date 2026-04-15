@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Duke Gong of Cao //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q25895$1406493D-3D18-4EAD-A4F9-65FE153ED46D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26009",
+              "numeric-id": 26009
+            }
+          },
+          "hash": "995930b30061187e233ade289aa9e2c62213423b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25895$B2AE0ABB-854A-4514-9F9D-E3FD90724EFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25895$0B632B08-4FD7-4F4B-95D1-621E29730381",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25895$0136D41D-AEDF-4E52-9A2F-A3338F6E0E67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25788",
+              "numeric-id": 25788
+            }
+          },
+          "hash": "481db4cd319c12ec1cb341a5c6f244ec677eb45a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25895$ABDE7726-26F3-4350-9C31-24D84CA4261A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25895$6ECA22B9-D767-43C7-B70A-A8AD34F60C0D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0618-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d65b4ec89686694d695c01febd99cdf9b0ed776",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25895$893986CB-D48D-4936-B800-A40FC9C7DAE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3271767"
+          },
+          "hash": "cde11a177be920924dfc6775f895c1e15930f8e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25895$2A58AC41-E268-45F7-B13F-D84A6D0BD8A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Duke Gong of Cao Arms.svg"
+          },
+          "hash": "d5e82c46434fd5a3ecbc7b49d9512442428425a9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Ruler of Chinese state of Cao from 652 to 618 BCE"
+    }
+  },
+  "id": "Q25895",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Duke Gong of Cao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke Gong of Cao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "共公"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "曹共公"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duke Gong of Cao"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vojvoda Gong od Caoa"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tào Cung công"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "曹共公"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "曹共公"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "曹共公"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "曹共公"
+    }
+  },
+  "lastrevid": 17424792,
+  "modified": "2025-09-16T03:49:17Z",
+  "ns": 860,
+  "pageid": 47357,
+  "sitelinks": {},
+  "title": "Item:Q25895",
+  "type": "item"
+}

@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Chengzu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53093$3CE7015D-EA72-42C7-ADAC-A177C077BB31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59910",
+              "numeric-id": 59910
+            }
+          },
+          "hash": "a4595493ee47e5e0d0009a6b176ec7566fe21d04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53093$4E20E549-085A-4E07-81A1-357B3A0A54B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59913",
+              "numeric-id": 59913
+            }
+          },
+          "hash": "047727bfcd9b955d4fd68c66e7f0b447c9ac190c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53093$8EA3375D-C143-4D6D-90B2-65B94AF0D4DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59916",
+              "numeric-id": 59916
+            }
+          },
+          "hash": "b814a4b5c099d98b9d8bb795d8a99e5b78710533",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53093$2EDC2268-A4B3-4A04-B1C5-B72864AF045C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53093$E4CAF90F-13A4-47B2-818D-2A1365AFB896",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53093$F5327903-FD58-4609-BEA8-4FAFB571CFD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44869",
+              "numeric-id": 44869
+            }
+          },
+          "hash": "6d28b6f34fa2f7fc2c0ba1c78dc65198d0d14bc3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53093$A1D36783-21BF-4C77-87B6-39ADF84ACB19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53093$F6541283-AAE6-4634-A37C-BE3D8085B923",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0723-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2ef0ecd84420012a73ad7e3f90c6758bb9164eb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53093$9824DB18-9FBA-4D08-AA95-3FF6D5C9E6ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45453540"
+          },
+          "hash": "182b65a340363f90e3b345c4b6b8b733cb350f27",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53093$6CB81AAD-313F-4906-83AC-AB2197750F5F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Chengzu Arms.svg"
+          },
+          "hash": "5511dbd289aa005d697cc34631c8cb257dfff2b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171784"
+    }
+  },
+  "id": "Q53093",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Chengzu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Chengzu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Chengzu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇承祖"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Chengzu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇承祖"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦承祖"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇承祖"
+    }
+  },
+  "lastrevid": 17459592,
+  "modified": "2025-09-16T12:13:49Z",
+  "ns": 860,
+  "pageid": 67924,
+  "sitelinks": {},
+  "title": "Item:Q53093",
+  "type": "item"
+}

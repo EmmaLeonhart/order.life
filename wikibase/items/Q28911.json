@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhu Yuwen //"
+      },
+      {
+        "language": "en",
+        "value": "Zhu Yuwen"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q28911$7D8B64B3-3512-4B49-947D-72044B6E6780",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29544",
+              "numeric-id": 29544
+            }
+          },
+          "hash": "8eb65686df1b6eeeea41f8079b952b3c8a9ce79f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q28911$D3C15ECB-5DBF-4DA4-9FD0-56A07E17911D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28911$132DAC58-5167-45CB-A9EC-F7FDB367D59A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q28911$0B271401-AC65-4943-804C-11427A87BA16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29540",
+              "numeric-id": 29540
+            }
+          },
+          "hash": "a133ad86c3a4453899398596a1198e266754ff44",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28911$DBFBA993-E1A9-4E8E-AADB-BD36EF9D9A42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28911$6632661C-F4EB-4D25-BA1B-A351472DFD06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1490-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3dc84d2c6ec9e286ebaaf08a3d561e956861983b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q28911$45F98022-DC3A-4F5D-BE9B-68F9AE93848B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1560-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6aa8a30fae804e4f50b303baf6477a3b9c5d5ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q28911$9D62B141-84C5-407D-988F-2F433FC3B822",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11093839"
+          },
+          "hash": "8fbd7cdbddd33417c97c84bbbe541df593185e24",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q28911$7B86A3F4-5D41-4678-AA07-582A0BC18C93",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhu Yuwen Arms.svg"
+          },
+          "hash": "5cf3e25e036628bdc6f154fa1310727a279f62ae",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "persona de la dinastía Ming"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ming dynasty person CBDB = 339752"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明朝宗室成员"
+    }
+  },
+  "id": "Q28911",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zhu Yuwen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhu Yuwen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhu Yuwen"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "주우온"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "朱宇溫"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhu Yuwen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱宇温"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "朱宇温"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朱宇溫"
+    }
+  },
+  "lastrevid": 17428240,
+  "modified": "2025-09-16T04:38:39Z",
+  "ns": 860,
+  "pageid": 49403,
+  "sitelinks": {},
+  "title": "Item:Q28911",
+  "type": "item"
+}

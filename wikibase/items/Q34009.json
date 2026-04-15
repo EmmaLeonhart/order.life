@@ -1,0 +1,187 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "prinsesse Yangzi"
+      },
+      {
+        "language": "en",
+        "value": "Q64015590"
+      },
+      {
+        "language": "en",
+        "value": "Q64015590 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q34009$5E8B6E3E-28E7-48BA-AE6D-9611907EF05E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q34009$F2471D6F-63D5-48C9-B1C4-652A2F4A7DF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q34009$BA3EA1C4-1F9D-4D06-8469-D1ADDB1E5832",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33779",
+              "numeric-id": 33779
+            }
+          },
+          "hash": "c51a525d5d5354fc8f254c24cc97b4de7c9b37b3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q34009$4BE41741-032C-4B6D-98FA-D995953CB7C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q34009$1A1830C1-2AFC-490D-9954-F34FF99AA7BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0209-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "73ca603eb13cc5c96a1761bafc20170228c66985",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q34009$A47795A0-42C8-496C-9574-6390D39AA470",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q64015590"
+          },
+          "hash": "fadae07fa12ee65612330ba07baf55458bcf59cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q34009$EA205FF2-AFB9-4BAF-885C-A392FC6CB78E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "prinsesse Yangzi Arms.svg"
+          },
+          "hash": "d0014b283f3b12d36c15a6f302da6e336a7737bc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q34009",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "prinsesse Yangzi"
+    },
+    "en": {
+      "language": "en",
+      "value": "prinsesse Yangzi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "陰嫚"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陽滋公主"
+    }
+  },
+  "lastrevid": 17434966,
+  "modified": "2025-09-16T06:15:48Z",
+  "ns": 860,
+  "pageid": 53216,
+  "sitelinks": {},
+  "title": "Item:Q34009",
+  "type": "item"
+}

@@ -1,0 +1,138 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "각정태후"
+      },
+      {
+        "language": "en",
+        "value": "Q8258965"
+      },
+      {
+        "language": "en",
+        "value": "Q8258965 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32264$7AFFD141-7F26-4F50-8241-8589B87753ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32264$2B0983F9-64AA-44F6-9130-32BA41A67BD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32264$7C5AA5EF-2289-4249-BBB1-DC5783CA0C1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31543",
+              "numeric-id": 31543
+            }
+          },
+          "hash": "57df127c2e392b5d17d5d1e92d8cea9c29af00ef",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32264$9BAB5365-93D8-4E5B-BEA1-68136DAD5BE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32264$8524B852-DAEB-4D97-A8E6-F555A1213E22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8258965"
+          },
+          "hash": "b7d2eac40537b4c866111241e8ae36c854dc41ff",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q32264",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "각정태후"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "恪貞仁壽皇后"
+    }
+  },
+  "lastrevid": 17432500,
+  "modified": "2025-09-16T05:40:17Z",
+  "ns": 860,
+  "pageid": 51910,
+  "sitelinks": {},
+  "title": "Item:Q32264",
+  "type": "item"
+}

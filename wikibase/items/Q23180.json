@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Chongmu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23180$F7F55347-C128-4E76-AF02-133F34C8E90F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44645",
+              "numeric-id": 44645
+            }
+          },
+          "hash": "e3185dbc3a8b64c1b8051168a07b7b5bebc8be18",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23180$E9EFB8FF-3310-4C19-9C8F-440C42CE7718",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44649",
+              "numeric-id": 44649
+            }
+          },
+          "hash": "db9d63c8f052d03bc9f4958e93e073402db1b006",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23180$0D7C22C0-57E8-4121-B1DE-F1C788FCDB18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23180$0B71AD41-A521-473A-900B-E8B9238FA1C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23180$33A6FFCB-0034-4F3B-9CB5-68B2EF2BEE22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21130",
+              "numeric-id": 21130
+            }
+          },
+          "hash": "8c9bf2786372e5242a3455129ff4b6d954156892",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23180$E188C276-12CF-43F5-BC01-84FB70C16F00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23180$E8371EF7-8AFD-4FD0-9530-C31033CC77A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0706-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f842aaf755f7cb9768fde6c51d0bd8fd86ca559",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23180$E3BA0489-4377-4054-B8CF-0799B3C08D3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45469568"
+          },
+          "hash": "a7bbc4223e9aac76f6c9c81dff2227888beee961",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23180$70ED7ACC-B35F-4E6A-8A37-321BC8CFA6B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Chongmu Arms.svg"
+          },
+          "hash": "794ae234a8c9768c36e09c735cc28139df159971",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187903"
+    }
+  },
+  "id": "Q23180",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Chongmu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Chongmu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李崇慕"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Chongmu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李崇慕"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李崇慕"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李崇慕"
+    }
+  },
+  "lastrevid": 17421968,
+  "modified": "2025-09-16T02:56:56Z",
+  "ns": 860,
+  "pageid": 45136,
+  "sitelinks": {},
+  "title": "Item:Q23180",
+  "type": "item"
+}

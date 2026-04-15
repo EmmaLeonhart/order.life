@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ano Renshi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q14305$B95CCD6A-D427-4893-85F8-CED4934FC7DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719913"
+          },
+          "hash": "9fc58dbdbe85faeec319dd8ad99212ff8d9b57e1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q14305$F9AF7546-4E15-4946-816C-C252843D9A3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14313",
+              "numeric-id": 14313
+            }
+          },
+          "hash": "14f4a296b0d8bb1b3205f3a9e2283d16e4aa6f3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14305$783E7D7D-29D3-4A46-97E2-54C5AABC92EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14322",
+              "numeric-id": 14322
+            }
+          },
+          "hash": "542066e0bf1957c016b5481bcbac9039b2d8808a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14305$BDABE7E2-1137-4E80-8F55-FB2058CB16CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14305$51981F5D-87E2-4C6E-90E1-FF4D3FB94875",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q14305$546AB747-00A3-489C-AB45-4D9CA163CDE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13781",
+              "numeric-id": 13781
+            }
+          },
+          "hash": "94bfa1ef5e7fe97c917f246938673585b46af509",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14305$CF96260D-C028-4C91-9C01-440B0BB6DC37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14313",
+              "numeric-id": 14313
+            }
+          },
+          "hash": "e8c3c9d4998026eb3bf4c8f4f6e574135dbfd361",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14305$B7D08C69-0842-4208-A93D-05A75C8FC357",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14305$D8C26062-77CC-4D7C-96B6-D2142BFD8B53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1301-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c199b86a355fac3450effe51fc30dfef0d1c364e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14305$9B17D504-3C76-472F-B768-F730D575783D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1359-05-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "125824348ea3cce0b01d5a590a466dbb27990957",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14305$933B158C-DCF4-4558-BE68-814B3A251898",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ano Renshi.jpg"
+          },
+          "hash": "adfef9af430b4f8d0dd2bd72446692710eecff65",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14305$F0A3C7A2-A05C-4DDC-96FF-E2A6E91F8C3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11657998"
+          },
+          "hash": "61bb6c96be80304ba6946631dbe09c9223e11d4e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14305$03C6C8BB-47C5-472B-8842-DD6F61DA5969",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ano Renshi Arms.svg"
+          },
+          "hash": "99cd54ff9f8485337b894c206b56c891bbdfc2a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期～南北朝時代の後醍醐天皇の後宮・女院・妃・准三宮"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "hofdame"
+    }
+  },
+  "id": "Q14305",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Renshi"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άνο Ρένσι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ano Renshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ano Renshi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنو رنشی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Renshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "阿野廉子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아노 렌시"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Рэнси"
+    },
+    "th": {
+      "language": "th",
+      "value": "อะโนะ ยะซุโกะ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿野廉子"
+    }
+  },
+  "lastrevid": 17414404,
+  "modified": "2025-09-16T00:08:59Z",
+  "ns": 860,
+  "pageid": 36609,
+  "sitelinks": {},
+  "title": "Item:Q14305",
+  "type": "item"
+}

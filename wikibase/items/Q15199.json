@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hino Nariko"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15199$E73000F7-EE1C-4782-82A7-0F367DED42B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15199$B6DE3E61-ED4E-476E-B03F-CFE596EC9149",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15199$473BA36C-B79B-4CC0-8F7C-4F4CF0587044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14820",
+              "numeric-id": 14820
+            }
+          },
+          "hash": "1218f357ba2b134fafc162395efdca2776a32a15",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15199$F595E8B6-7EEE-46A4-A95E-A79B083E2071",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15199$C9432566-0B47-4964-AB12-2A1C0258B519",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1351-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2609bfdfbc306357cd0c631306020a96b5284025",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15199$488FD895-FB19-4927-BCB1-8A8E91143208",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1405-08-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "777c71899d79a06940ee7288bb13c67d12c518d7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15199$22171208-33F4-4CE3-AC23-8F5854D9EC73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q604082"
+          },
+          "hash": "107a23a9a00497d82724ea2b5380c2fd224f4a03",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15199$745AF804-4A09-4F9A-86FA-6287C34315C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hino Nariko Arms.svg"
+          },
+          "hash": "5f5042ebe887d08e76d9f3d1e7fe3195f3f94262",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "official wife of Ashikaga Yoshimitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利義満の御台所。従一位。准后。子に女子。"
+    }
+  },
+  "id": "Q15199",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hino Toshiko"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nariko Hino"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hino Nariko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hino Nariko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日野業子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hino Toshiko"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hino Nariko"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日野業子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日野业子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日野業子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日野業子"
+    }
+  },
+  "lastrevid": 17414984,
+  "modified": "2025-09-16T00:17:03Z",
+  "ns": 860,
+  "pageid": 37490,
+  "sitelinks": {},
+  "title": "Item:Q15199",
+  "type": "item"
+}

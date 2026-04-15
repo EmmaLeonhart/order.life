@@ -1,0 +1,426 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hethum II, King of Armenia //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q49756$C7F21238-0F8B-4B78-8E06-E286BB541BE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00522951"
+          },
+          "hash": "3a87e52b96d578d3f897ee149ca6b229545198b8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49756$A160C241-573C-4AC8-BBDA-BA5BB4D64E94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49756$6A174869-EC63-43DA-81AB-04E88A12E303",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q49756$865D494D-2659-4FAB-BA51-C8198119F994",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hethum_II,_King_of_Armenia_(1)"
+          },
+          "hash": "7c5c95be68e2abf3c162de5afba9d524863b48a7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49756$5A323E94-1E53-4C17-A45B-21A10BB62CE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49740",
+              "numeric-id": 49740
+            }
+          },
+          "hash": "7d1e0f5bdcad0ea64765e720248362d61cc847c8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q49756$4FAB5061-E5C6-405F-9C81-85394CBAB25A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49744",
+              "numeric-id": 49744
+            }
+          },
+          "hash": "48e548884838fe4f9e5bdff288c7535a969b6751",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49756$04414822-CEF0-4DB8-8ED0-0FA4CF6541DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49756$5F070AFB-CEAC-4DDA-8DA3-32FB2D74AE10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1266-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5b6bd176a276f32816ffebe03089a06bb00d7613",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49756$2211CF9F-34A6-47F0-AB82-20CD640CB189",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1307-11-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb2ef42c79bac504e778f009ff62834881f158ad",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49756$4DECFB6C-2243-4C7B-B4DF-218DE63C934A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q887899"
+          },
+          "hash": "fef254845d3ef5111ddb8f22e029f183dc939edb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q49756$8151421E-98B4-41B6-A9E6-AD8D59358EA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013019190312"
+          },
+          "hash": "9721addb42a9cef9927b084a469a6259c83c90a1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q49756$41145A1F-108E-4E09-BD2D-5E4D66731934",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:59926"
+          },
+          "hash": "550b3198f4857562c083ad39f03401edb61f6fcc",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q49756$0FFEC4F4-2F33-41D1-A347-7866BC66B4CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hethoum;n=hetoumide"
+          },
+          "hash": "7b5e247b83c21eba20b3983323d406be0f5b8b1c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49756$9B9F16E6-5AE3-466D-A1A0-72F01B645424",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hethum II, King of Armenia Arms.svg"
+          },
+          "hash": "faab5bfc447b227e4e0882bdbe7bacb77ff92b32",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei del Regne Armeni de Cilícia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Kleinarmenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Cilician Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه ارمنستان از سلسله پادشاهی ارمنی کیلیکیه"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Örményország régense, ferences szerzetes"
+    },
+    "it": {
+      "language": "it",
+      "value": "re della Cilicia armena (r. 1289-1293, 1295-1296, 1299-1303)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правитель Кілікійської Вірменії"
+    }
+  },
+  "id": "Q49756",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هيثوم التانى ملك ارمينيا"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی هتوم"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hethum II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Chetúm II. Arménský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hethum II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Χετούμ Β' της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hethum II, King of Armenia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hetumo la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haitón II de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هتوم دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Héthoum II d'Arménie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Hetum örmény király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հեթում Բ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hethum II, Raja Armenia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aitone II d'Armenia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "へトゥム2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰეთუმ II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hethum II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hethum II van Armenië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хетум II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hetum II. Kilikijski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хетум II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hethum II av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гетум II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "海屯二世"
+    }
+  },
+  "lastrevid": 17455684,
+  "modified": "2025-09-16T11:15:39Z",
+  "ns": 860,
+  "pageid": 64984,
+  "sitelinks": {},
+  "title": "Item:Q49756",
+  "type": "item"
+}

@@ -1,0 +1,343 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kadan //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q39025$A751B508-8966-4593-BD4F-46E0A911556A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "781900"
+          },
+          "hash": "487434044ae271907956e4e1b03a676ae9a6413d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q39025$85FF8DD7-8553-44CB-BD2F-67A5A294A751",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40915",
+              "numeric-id": 40915
+            }
+          },
+          "hash": "cab56800223aef151f0fb79ef4e7127b685c51be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39025$54C697F0-F5FC-4B94-8DF6-BED74908E1AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39025$F02DF8CF-F456-4685-A2B2-403221BCAD46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39025$7D003A0B-3597-4E78-85F7-14D6D2658B4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37456",
+              "numeric-id": 37456
+            }
+          },
+          "hash": "ea664028c5fa2f8c0534883d87aa413db82dad89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39025$1B6974D8-220D-4B2B-BFA4-C3F92D8C675C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39025$68E0B636-F49C-4A69-BF47-30D672A0CCD0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d86fd5f38a64641db711afb7911263797d5d811e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39025$2238CBE5-3783-4526-9523-08EA8ECE1495",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1419360"
+          },
+          "hash": "b15cbbd640922bd3b8606c999ff2e746e741c81e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q39025$97564C12-ED04-41D7-A2BF-C762B685CC0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791677954"
+          },
+          "hash": "b1a6caf4b4eace199a2e0547ac2708d1ce946c4f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39025$6CB770CE-E8E9-4C48-9AC2-536F4371D98A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kadan Arms.svg"
+          },
+          "hash": "1774a5db94711d60b2497fb5d088f2f91432c20b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Ögödei"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fils d'ögödei"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kan uit Mongoolse Rijk"
+    }
+  },
+  "id": "Q39025",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Кадан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Khadan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Khadan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kadan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kadan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khadan"
+    },
+    "he": {
+      "language": "he",
+      "value": "קדן חאן"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kádán"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kadan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カダン (オゴデイ家)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "카단"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "合丹"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хадан"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kadan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kaidan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Khadan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Khadan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Khadan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кадан"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kadan"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கதன்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kadan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Када'ан"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Kadan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "合丹"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "合丹"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "合丹"
+    }
+  },
+  "lastrevid": 17441778,
+  "modified": "2025-09-16T07:55:04Z",
+  "ns": 860,
+  "pageid": 56963,
+  "sitelinks": {},
+  "title": "Item:Q39025",
+  "type": "item"
+}

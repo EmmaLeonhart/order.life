@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Changsun Wen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21208$A6BE03F7-8CCD-482D-8F5C-F439D996390A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21208$2808D42A-4AC1-448A-B7DB-AF63B70A17CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21208$265B7014-1425-4746-BA30-4F7191D6F0A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19300",
+              "numeric-id": 19300
+            }
+          },
+          "hash": "eb980e08aa14b9214ca783d5db81dc678f5356ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21208$104A3A60-5791-4E57-A24A-68C1B6502966",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21208$F6BB3E8C-535C-480D-B42C-3FF6D86339CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0696-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e789bf338be37d47bb2243b4a37a0ed5c077bf86",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21208$202231D2-A018-412D-9C88-253058326F18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45533000"
+          },
+          "hash": "1f58cafd5b64833b986642edbe7e83528f8e78aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21208$ED50095D-8B7E-4DAD-8142-AE34B93D0DC3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Changsun Wen Arms.svg"
+          },
+          "hash": "4f4990b5170e05351194249d8c1278ab9a886892",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 173207"
+    }
+  },
+  "id": "Q21208",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Changsun Wen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Changsun Wen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Changsun Wen"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "長孫溫"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Changsun Wen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "長孫溫"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "长孙温"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "長孫溫"
+    }
+  },
+  "lastrevid": 17420158,
+  "modified": "2025-09-16T02:14:08Z",
+  "ns": 860,
+  "pageid": 43264,
+  "sitelinks": {},
+  "title": "Item:Q21208",
+  "type": "item"
+}

@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jikken"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48508$173BF4D4-19EA-4421-B6FF-298C68535336",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48508$1B60DEF0-AF98-43FD-98FB-2743AB91DF0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q48508$AB3FF4FF-00FA-4ABC-A08E-ADB4BC08D5C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42059",
+              "numeric-id": 42059
+            }
+          },
+          "hash": "07921e8363e86b8327cce153cae8eb7f08b2a5e9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48508$5A9BDA4B-616C-4C2B-836A-CE5F0E96ECD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48508$892FA7E6-D0C5-4983-A498-16A5245BE93C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1488-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a73dee85ba5208a6281e77fe739a0771970e5598",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48508$0B200494-6A48-4543-A697-6993C992EF93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1542-08-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b085564399d6dcb8af1d73803c6d4cd209187a70",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48508$835BDAC8-2326-4A38-A1FE-2AC18A6FFED1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6605899"
+          },
+          "hash": "0efcf297da698c7e34029be202ac617a0bd73322",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48508$065F6716-1CF5-41E7-BF4C-5EC16026EECC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jikken Arms.svg"
+          },
+          "hash": "f1c1505e8f39b855a4810991680a327700b5177a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q48508",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jikken"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jikken"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jikken"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "実顕"
+    }
+  },
+  "lastrevid": 17453952,
+  "modified": "2025-09-16T10:50:53Z",
+  "ns": 860,
+  "pageid": 64052,
+  "sitelinks": {},
+  "title": "Item:Q48508",
+  "type": "item"
+}

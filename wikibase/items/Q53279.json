@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chen Ju Wang //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53279$81C6BD8C-C1FB-4339-AD9A-D61B0AB3AC5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53279$B23D2011-2339-4084-A2A3-3D91AC30655F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q53279$BD252CA5-6529-4ABD-A7CA-2F7A5E82ED32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48639",
+              "numeric-id": 48639
+            }
+          },
+          "hash": "dab1042ccfb207639a6870801e241c82a8261267",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53279$6B4AF811-2366-4E0E-8EFE-5430A89B5278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53279$8C25C59C-7FC5-4AB8-A39C-082FD99B3280",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1908-05-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5695f269cd6ee641e64a79c1f9acf52178bad7f1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53279$52CF3E24-EE6B-4EC3-986D-AB86F6879B55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+2008-06-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ed887611237265c1a39ba04466779449b9c4c12e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53279$8718D9D6-7DC0-4117-94F4-1366206AB6F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11136798"
+          },
+          "hash": "d2d30382bc9269b8890ffdedc171a13710e232a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53279$FF4185E5-509C-4FC5-9B04-C805CF9EC314",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000176832923823"
+          },
+          "hash": "2fafc65e0ba5aee6883fd963174be8198ffe76bc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53279$FC6FA3D5-A1B1-4148-AF0E-941385F14668",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chen Ju Wang Arms.svg"
+          },
+          "hash": "9011d63e0f5eb44f654d96a1d3508fff9f8a7809",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "botanist"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "բուսաբան"
+    },
+    "id": {
+      "language": "id",
+      "value": "ahli biologi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bioloog"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ботанік"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中国现代树木生理学家、植物学家（1908-"
+    }
+  },
+  "id": "Q53279",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Chen Ju Wang"
+    },
+    "de": {
+      "language": "de",
+      "value": "Chen Ju Wang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chen Ju Wang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Chen Ju Wang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Chen Ju Wang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chen Ju Wang"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Chen Ju Wang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "汪振儒"
+    }
+  },
+  "lastrevid": 17459960,
+  "modified": "2025-09-16T12:19:07Z",
+  "ns": 860,
+  "pageid": 68110,
+  "sitelinks": {},
+  "title": "Item:Q53279",
+  "type": "item"
+}

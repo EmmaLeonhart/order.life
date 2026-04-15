@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jitsunyo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21900$51E0EADD-3EE7-4D22-870E-FCE568EA2F8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19967",
+              "numeric-id": 19967
+            }
+          },
+          "hash": "90b573ecc113b18346f72c42484c6b81290f550a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21900$81DC4D19-4DAA-4BC9-A90C-5D1D609C11DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21900$CF75FFB0-934A-4023-AE6F-F014D68810E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21900$DC77CAA2-5C3B-4D36-B0B5-58B8E2D61CE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22602",
+              "numeric-id": 22602
+            }
+          },
+          "hash": "9e11348b064efe66bb2884a151315ee9ebbf9c7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q21900$CB865FCB-69D4-4382-B981-1EFE50CAF790",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39218",
+              "numeric-id": 39218
+            }
+          },
+          "hash": "f0e6fbfaef0954beb3a5b71e7915daff529f3043",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21900$6C9043D4-CBB5-4946-99AD-35DA31319098",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21900$013E2E3A-D40F-4769-87FF-940641A1E2AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1458-09-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6563da0619f5dca9d7289c8578f16f841d26839",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21900$F6A63A0F-D9B4-4729-ADCB-F70166DCDAB4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1525-03-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b755162ede854179d11903cc851e5bbe266b8cf7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21900$FF809ADB-C949-4FE4-A281-32E4AD7FAB21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6605937"
+          },
+          "hash": "fbdc904e12c550082859dc628b9015e332d400e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21900$A41709BB-C15C-46EF-B79A-51CFCBD5FF22",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jitsunyo Arms.svg"
+          },
+          "hash": "90ec3281132e6c2902f895795c3d6f3e481caf85",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の僧"
+    }
+  },
+  "id": "Q21900",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jitsunyo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jitsunyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jitsunyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jitsunyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jitsunyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "実如"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "本願寺實如"
+    }
+  },
+  "lastrevid": 17420884,
+  "modified": "2025-09-16T02:30:38Z",
+  "ns": 860,
+  "pageid": 43912,
+  "sitelinks": {},
+  "title": "Item:Q21900",
+  "type": "item"
+}

@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Moroie"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q10235$F74238CA-549A-4256-B421-9BDD1A82277A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10801",
+              "numeric-id": 10801
+            }
+          },
+          "hash": "e7013e746558df5119ffe26c1072c1fd903ffa45",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10235$F333441E-32F8-4A4C-A66F-02D125E2DB3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10235$1EC87271-7F74-4943-B795-1D4F2296E4BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q10235$05DB7C4E-D1CF-48D8-93E2-C7A7111C6F9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10800",
+              "numeric-id": 10800
+            }
+          },
+          "hash": "71ca79d21fc8b75c3412bf833fa9743f6101ed47",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q10235$E3FA9FB6-49FC-46BB-BA5F-689EA6B7D5C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10009",
+              "numeric-id": 10009
+            }
+          },
+          "hash": "68d122c94dc754d9d4c94a7d6a1d12cbe8c29107",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10235$C0F3BDF2-FB9D-415C-BFF7-2E8C3050BF72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10235$6F6A9C9B-3D19-4F4C-A825-9A51FF72F3D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1027-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "90995799bd092df9512ceb826efea3f6a1976e91",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10235$847E4391-C1E1-4FB5-BDDE-F0F833505D77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1058-09-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cdef009331efeda67e394c29a145d232acde1030",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10235$3286B1A8-AF09-4700-9600-B548CF55B931",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623225"
+          },
+          "hash": "59cc18c8f5a83afb1420cd6cc5f9bef45cea8e34",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10235$87FA8573-F9BA-4216-8110-C37F53ABD73B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Moroie Arms.svg"
+          },
+          "hash": "96d58d9e5b5efecf7e95b235de05d8370fb60e4f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Noble japonès"
+    },
+    "en": {
+      "language": "en",
+      "value": "metropolitan area in the Netherlands"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期から後期の貴族。藤原経輔の長男。従四位下・右中弁、摂津守"
+    }
+  },
+  "id": "Q10235",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Moroie"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Moroie Fudžiwara"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Moroie"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原師家"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿納姆-奈梅亨都會區"
+    }
+  },
+  "lastrevid": 17412108,
+  "modified": "2025-09-15T23:36:07Z",
+  "ns": 860,
+  "pageid": 32652,
+  "sitelinks": {},
+  "title": "Item:Q10235",
+  "type": "item"
+}

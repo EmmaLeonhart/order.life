@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Demetrius of Imereti //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55967$8D23F76A-512E-40F0-8268-461333D47FE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1302512"
+          },
+          "hash": "da9a8dee3ba5ee61f70044848e2e70324bcfa286",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q55967$ADD783CD-F5E4-4321-97BE-37C3F1ED145F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00763372"
+          },
+          "hash": "c7602304528dbee5537744c4f92ae89e8a5b6515",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55967$5158EC07-CED8-4780-BD3D-728191146500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55967$F1F9F137-E029-44EC-A443-5CD5D3DF4659",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55967$4DBF8DD5-03DD-49CF-8ABA-DB1D1A48AD2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50334",
+              "numeric-id": 50334
+            }
+          },
+          "hash": "3e30af9ee6f273891dabccdee421c121ad625047",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55967$5BF3A4AD-686C-417A-951A-7A2E43C9301C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55959",
+              "numeric-id": 55959
+            }
+          },
+          "hash": "5dcac6889a1c78c97948f5930d9c2b6615c78a68",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55967$F5264E6F-4D06-4556-9E22-BD483CBB3EFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55967$EF1195D4-391D-4A84-80A1-FB6F7CA2FB0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55967$E7574636-A2EF-4555-B7DA-CAF5F2B49425",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1455-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb7dc40b015110c919ca9a0647726061298ddceb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55967$D76A4392-0F09-4302-BBF3-BECBFE96E3D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3044501"
+          },
+          "hash": "62405237ef42be0f0d01616a09f1b3b3e51d7534",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55967$7F854AE7-F306-439E-877B-36050CD59FED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Demetrius of Imereti Arms.svg"
+          },
+          "hash": "6356a148e5340eeaaeeeeb1e11e7bb8999a03e7f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Georgian prince"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Imereti uralkodója hercegi rangban"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イメレティ王国のエリスタヴィ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "эристав Имеретии"
+    }
+  },
+  "id": "Q55967",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "I Demetre"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Demetri I d'Imerècia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Demetrius Imeretský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Demetre von Imeretien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δημήτριος Α΄ της Ιμερετίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Demetrius of Imereti"
+    },
+    "es": {
+      "language": "es",
+      "value": "Demetrio de Imericia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Démétrius Ier d'Iméréthie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szeldzsukida Demeter imereti herceg"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デメトレ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დემეტრე ბატონიშვილი (იმერეთის ერისთავი)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Demetrius of Imereti"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дмитрий"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Demetre (İmereti dükü)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деметре (ерістав Імереті)"
+    }
+  },
+  "lastrevid": 17464228,
+  "modified": "2025-09-16T13:22:20Z",
+  "ns": 860,
+  "pageid": 70798,
+  "sitelinks": {},
+  "title": "Item:Q55967",
+  "type": "item"
+}

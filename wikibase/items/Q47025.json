@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Shijun"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47025$A12A6CB3-A264-4D49-88D3-3766FB260F62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23655",
+              "numeric-id": 23655
+            }
+          },
+          "hash": "7562a96769787d0e5f1ad806467bbcb4119e6ebb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47025$F9B8D1FE-8139-4507-BE78-7EE8CBD24C77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47025$3FD86E79-467D-4741-8636-70865C58DE8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47025$AA4508C1-3721-4945-9CA7-15DD94C97483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55714",
+              "numeric-id": 55714
+            }
+          },
+          "hash": "81d645f10e59a47a4e1263aae76410d4e19b29c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47025$8EF8B105-76B2-437A-835F-D1682E286CC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47025$25556C64-F5C0-484E-87AA-B303F05767D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0560-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e2c5bee8feb1925723a7e5a8c29fcb1e1e8729cb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47025$64AC3D3C-37E2-4740-8240-58C3E02771A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45394587"
+          },
+          "hash": "862436af09a44e711138219a9eeee1001bfd86d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q47025$8B2A15B1-ADFF-477F-ACE9-57453C5AAB87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074752674023"
+          },
+          "hash": "408b44c5a2aa68c4a4cf8bb5ec1ad90474c8b0ca",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47025$693003F7-E28B-4F97-83AB-934BD82B62C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074700941876"
+          },
+          "hash": "21ac5ce92a39793f63968f615ec128a4fdd814b0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47025$B03ED894-C28F-4F9B-966C-23C746E2FCF0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Shijun Arms.svg"
+          },
+          "hash": "f16709a380896efa0af36b4c3fbe1f7babbd52e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Qi person CBDB = 20210"
+    }
+  },
+  "id": "Q47025",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Shijun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Shijun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Shijun"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉仕雋"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Shijun"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lưu Sĩ Tuyển"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉仕雋"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘仕隽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉仕雋"
+    }
+  },
+  "lastrevid": 17452108,
+  "modified": "2025-09-16T10:24:06Z",
+  "ns": 860,
+  "pageid": 62947,
+  "sitelinks": {},
+  "title": "Item:Q47025",
+  "type": "item"
+}

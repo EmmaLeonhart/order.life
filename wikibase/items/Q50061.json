@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishii Nobutada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50061$5AEE0347-F7DC-4FAF-905C-4E54023336A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50069",
+              "numeric-id": 50069
+            }
+          },
+          "hash": "c66a7fd9e249722eac09ea543ab8fa1a7023b1d1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50061$10A3CE77-07F9-40E7-88FE-27A14AC18C4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24605",
+              "numeric-id": 24605
+            }
+          },
+          "hash": "e18f39f2b967e3c104560019307021feaa7c26cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q50061$B2B03428-0438-43E3-8EC5-31E23B04C1DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "石井-20"
+          },
+          "hash": "2810ebab77f80849d51afa02df1da215c9abc16e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50061$228E5105-DD37-4713-B284-AF86F4EBF4CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50061$619B2BCA-28A8-4248-9552-B6FB4433B764",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50061$10BA5A3B-44F7-4AC8-BBAC-4C77A6AB4BDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50065",
+              "numeric-id": 50065
+            }
+          },
+          "hash": "ee2a013686c0e3aa228fdf3ec63bb60d40f8bfb3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50061$7ADC6249-3E3A-4959-9F97-08D0151227F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57680",
+              "numeric-id": 57680
+            }
+          },
+          "hash": "e4b1218d3073024b78e91fbcc3c1f175349f5b78",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50061$DD1872A0-9A1F-4B90-ACD6-02079F212DEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50061$1AD5D43B-4897-480C-8C2D-F20C4A7302CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1584-05-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0a069d4a91d1295c42d9a7d938b6e66277330ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50061$25E4C00F-0B33-417C-A258-6BB87E5F2238",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11584866"
+          },
+          "hash": "0f9f73ded96dba86a817956124d635cd6b67f931",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50061$E67032D9-7309-4E7A-B806-DCBAEEFDF43D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishii Nobutada Arms.svg"
+          },
+          "hash": "ea491cd6e530e980bdafb74cceb70ca1344efbef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1584"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代から安土桃山時代にかけての武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q50061",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ishii Nobutada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石井信忠"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исии Нобутада"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ishii Nobutada"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "石井信忠"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "石井信忠"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "石井信忠"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "石井信忠"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "石井信忠"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "石井信忠"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "石井信忠"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "石井信忠"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "石井信忠"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "石井信忠"
+    }
+  },
+  "lastrevid": 17456114,
+  "modified": "2025-09-16T11:21:52Z",
+  "ns": 860,
+  "pageid": 65212,
+  "sitelinks": {},
+  "title": "Item:Q50061",
+  "type": "item"
+}

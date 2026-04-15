@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Munesada prince"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8003$5F02458F-6B3C-483A-99DA-8C39DAFDDCAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8317",
+              "numeric-id": 8317
+            }
+          },
+          "hash": "6d6228e0c5d16fc4a8168afa301e0db8e7acdeb3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8003$5671417E-D818-473F-8904-2911AA4A5604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8003$8A2EEBE6-7FAA-4F5F-9BD3-15B586DBE83F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8003$8835A82E-FBE3-4A99-B89D-0E4BA9A9E530",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8003$0B35B6E0-5CB1-4B6A-9693-42D2E92B61A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8003$903B1898-DC62-4243-AC85-65A1055A5C08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22127266"
+          },
+          "hash": "47c9459fff5302f109f65ee190130cd14b89e6e8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8003$B28DAEA9-D7FE-4D8F-A061-B8AFB1C3C904",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Munesada prince Arms.svg"
+          },
+          "hash": "a9e0e89ca559642ea8b0c6ae7496bb0390a06fd5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "member of the Japanese royal family"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "член японской императорской семьи"
+    }
+  },
+  "id": "Q8003",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Munesada prince"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "棟貞王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Принц Мунэсада"
+    }
+  },
+  "lastrevid": 17407908,
+  "modified": "2025-09-15T22:40:52Z",
+  "ns": 860,
+  "pageid": 30494,
+  "sitelinks": {},
+  "title": "Item:Q8003",
+  "type": "item"
+}

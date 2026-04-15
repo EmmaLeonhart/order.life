@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minbyeon //"
+      },
+      {
+        "language": "en",
+        "value": "Minbyeon"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q32049$449F84DA-33B9-4FAB-9C11-B5B245381980",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32053",
+              "numeric-id": 32053
+            }
+          },
+          "hash": "a5de4e8a3a778ec8ef9785c58977611cc3d24764",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32049$6F07F36B-9C4B-4BE7-9C1C-96BB7D753015",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31234",
+              "numeric-id": 31234
+            }
+          },
+          "hash": "78b9a798c91917ecc5d6ad7301f1a2f8362c2135",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32049$56C97408-8FD8-448E-B59C-B7E232F034C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32049$F024BCBE-8F7F-4BC6-9F0A-6AACFFBCBBD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32049$F216488F-0EC6-49C9-AE24-892BE3B146E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32049$3322CF19-F9DD-40F3-8DBA-524AD1059007",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1377-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c23b786063de0e703cc688888cebbf617b57587d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32049$95847816-9892-4AF4-BDA6-0589E41206FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12596204"
+          },
+          "hash": "25a3eec427e73f95ac8c80de51a6a33e78f8d96f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32049$AF5D91FA-6D45-4138-A4A6-5DB8244EF2A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minbyeon Arms.svg"
+          },
+          "hash": "41ea75a62ca6e7ef644eea37619b72b91bcdccb8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Goryeo civil servant (? ~ May 1377)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려 시대의 문신"
+    }
+  },
+  "id": "Q32049",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Minbyeon"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "민변"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "閔抃"
+    }
+  },
+  "lastrevid": 17432194,
+  "modified": "2025-09-16T05:35:51Z",
+  "ns": 860,
+  "pageid": 51749,
+  "sitelinks": {},
+  "title": "Item:Q32049",
+  "type": "item"
+}

@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nanbu Mitsuyuki"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11337$88AADD68-38E8-4E1A-923F-56902E5C488B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1377650"
+          },
+          "hash": "15d7bc1d5cb1532f30d98ad52f326b7fec36bdc3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11337$19658444-6C6C-4113-9C6D-A9FC4DFD1956",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12168",
+              "numeric-id": 12168
+            }
+          },
+          "hash": "cc6f5c60d0d6174dfcb4c456452149aea2f5d4e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11337$6971CBB1-9407-440C-B510-5033E2C5A4AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12166",
+              "numeric-id": 12166
+            }
+          },
+          "hash": "dbb5ad650592069a8d07e4ca3053cb53aad30c28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11337$110F4655-14BC-419E-B4F1-1BFA2D890E63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12167",
+              "numeric-id": 12167
+            }
+          },
+          "hash": "ceb5f09abadc8b5b288ebb6ccfdf3c7dd9ddb809",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11337$25CB21ED-1630-4DC4-8F0C-59481AA8410B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11337$F49153DD-783B-430C-AE37-214F6B747465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11337$AEF76E54-FC18-4AF1-8E73-2BD25271FA38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11337$56AA48D8-189F-40E5-BFD1-42527DE95185",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1165-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3741c5a2385b120a0e86fb39be16015b59bb91b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11337$83E274DF-9218-48C6-83A7-EF426E7F42B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1236-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3acc76ed55e4cca64ee47437d4fed3bad1318773",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11337$2C5B7E3B-D9AC-423A-B095-22596C96215D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11408506"
+          },
+          "hash": "72b45f31e4eea530f12cba22c68b6562630fff6d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11337$7F867FDB-094D-452E-A7A9-44CC6E9AE608",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nanbu Mitsuyuki Arms.svg"
+          },
+          "hash": "f45542e47382dd60e5f04f116e892884f244ccf8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代後期から鎌倉時代前期の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q11337",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nanbu Mitsuyuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南部光行"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мицуюки Намбу"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "南部光行"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "南部光行"
+    }
+  },
+  "lastrevid": 17412892,
+  "modified": "2025-09-15T23:47:52Z",
+  "ns": 860,
+  "pageid": 33711,
+  "sitelinks": {},
+  "title": "Item:Q11337",
+  "type": "item"
+}

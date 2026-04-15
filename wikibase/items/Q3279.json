@@ -1,0 +1,209 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q32620$736BD552-0223-4AC6-B42F-865552CC15BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34203",
+              "numeric-id": 34203
+            }
+          },
+          "hash": "09bd911e7fbdb2d2d7e1fb7cb3e104ab9a0818b8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32620$350FDE15-F653-4EBD-AD13-18174AE83DD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32620$631355C3-73D9-4980-98DF-47E53BD053D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32620$08D2162F-004C-4CBB-8045-1552712C54AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36488",
+              "numeric-id": 36488
+            }
+          },
+          "hash": "86f6a2804876bdb8d0a8b3ea8c83152634fe3478",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32620$BC19846F-A27E-4397-BD32-4576572DE421",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31472",
+              "numeric-id": 31472
+            }
+          },
+          "hash": "d9ffdb101c5832f81d6653d27b700aa5ada02c74",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q32620$E2E7767D-9708-4ADA-9E72-C43EE9740C13",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Luís /Vaz de Negro/"
+            }
+          },
+          "hash": "9b7df423c45dc60085a54297b1b5e7f348356f95",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32620$06C77025-7C90-4DD1-9106-CCDAEE1CEB32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q32620$13441AC0-12AF-44F9-83B1-D45B26E03896",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000027453577686"
+          },
+          "hash": "d5451e4313982f984feb5e1d3bd376c5cab78529",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32620$0B178896-BE52-4344-84FF-A0BE7466E16B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Luis  Vaz de Negro Arms.svg"
+          },
+          "hash": "7b6eb4603e0a7d2db9532b0d1deda517f5009753",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q32620",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Luis  Vaz de Negro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Luís  Vaz de Negro"
+    }
+  },
+  "lastrevid": 17433020,
+  "modified": "2025-09-16T05:47:52Z",
+  "ns": 860,
+  "pageid": 52176,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q32620",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q32620"
+    }
+  },
+  "title": "Item:Q32620",
+  "type": "item"
+}

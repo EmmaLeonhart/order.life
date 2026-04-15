@@ -1,0 +1,507 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John IV Laskaris //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55503$5F4C7A76-F81C-4D45-8D68-F0AF7E7595A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00049850"
+          },
+          "hash": "f35a6c1d981634e1c54d359f8f9141a27c286bfe",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55503$13BB682C-4C23-4848-A3D0-F40D7FDEEF2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55503$867A66FA-1A99-4C73-B015-524131929A93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q55503$FB27A1E0-CA53-4F48-8A90-2D63274BCBC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15019.htm#i150187"
+          },
+          "hash": "a38567dff93c892eb094f35aa5e9978f740f60ec",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55503$1E4EB535-554E-4705-9D6B-57D8D44F408F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55499",
+              "numeric-id": 55499
+            }
+          },
+          "hash": "2ede1ddba7c32426f9697278ba419420b82cedef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55503$73726CE6-2DD2-490F-8F1B-75A61E410B0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49973",
+              "numeric-id": 49973
+            }
+          },
+          "hash": "2ce770e594059f5a2421f77d859f06ee5330922f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55503$36F558AD-DD99-40D1-A8F1-3F9B1ED69BE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55503$B111BE6B-817A-421E-BB91-0BDBCAE2DBB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1250-12-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6045b8dd9e90e1f1e0ba186748b8ff4f3bbdf1da",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55503$7216DFCD-2DF9-42A5-8A39-7134A9C2C612",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1305-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe281ddf3ae19c178c6e3b1442590425bf06e2bf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55503$06F85A5A-DE11-433A-BBAA-E1E4CB53B265",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q37088"
+          },
+          "hash": "93a1ad6c9cc0b5d89704993bf2ea1a809d3dfb8c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55503$592F3BBB-C095-4437-AF94-AF798B6F6BCC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John IV Laskaris Arms.svg"
+          },
+          "hash": "39a0963a6615f5bec1b4a6d0136884af8657c01a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Byzanz"
+    },
+    "en": {
+      "language": "en",
+      "value": "13th-century emperor of Nicaea"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de Nicea"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nikaian keisari (1258–1261)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de Nicée de 1258 à 1261"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "nikaiai császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore bizantino (r. 1258-1261)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ニカイア帝国の最後の皇帝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Byzantijnse Rijk (1250-1305)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz wschodniorzymski"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "nicejský cisár v rokoch 1258 – 1261"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "monark i kejsardömet Nicaea"
+    }
+  },
+  "id": "Q55503",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Johannes IV Laskaris"
+    },
+    "an": {
+      "language": "an",
+      "value": "Chuan IV Ducas Lascaris"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوحنا الرابع لاسكاريس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوحنا الرابع لاسكاريس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دؤردونجو ژان لاسکاریس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іаан IV Ласкарыс"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан IV Дука Ласкарис"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Ivan IV Laskaris"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan IV Ducas Làscaris"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan IV. Dukas Laskaris"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes IV."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Ioannes IV"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Δ΄ Λάσκαρης"
+    },
+    "en": {
+      "language": "en",
+      "value": "John IV Laskaris"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John IV Laskaris"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John IV Laskaris"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan IV Ducas Láscaris"
+    },
+    "et": {
+      "language": "et",
+      "value": "Johannes IV Laskaris"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joan IV.a Laskaris"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژان چهارم لاسکاریس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Johannes IV Laskaris"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean IV Lascaris"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán IV Ducas Láscaris"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Johannes IV. Dukas Laskaris"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוחנן הרביעי לסקריס, קיסר האימפריה הביזנטית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ivan IV. Duka Laskaris"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Jóannész nikaiai császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ioannes IV Laskaris"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni IV di Nicea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハネス4世ラスカリス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იოანე IV ლასკარისი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요한네스 4세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes IV Ducas Lascares"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јован IV Ласкарис"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johannes IV Dukas Laskaris"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johannes IV Doukas Laskaris"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan IV Laskarys"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João IV Láscaris"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João IV Láscaris"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ioan al IV-lea Laskaris"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн IV Ласкарис"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Janis IV Laskaris"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ján IV."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John IV Laskaris"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован IV Ласкарис"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johannes IV Laskaris"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Juan IV Laskaris"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. İoannis Laskaris"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоанн IV Ласкаріс"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جان چہارم لاسکاریس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ioannes IV Laskaris"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰四世·拉斯卡里斯"
+    }
+  },
+  "lastrevid": 17463526,
+  "modified": "2025-09-16T13:11:39Z",
+  "ns": 860,
+  "pageid": 70334,
+  "sitelinks": {},
+  "title": "Item:Q55503",
+  "type": "item"
+}

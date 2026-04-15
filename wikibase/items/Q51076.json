@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "河鰭実祐"
+      },
+      {
+        "language": "en",
+        "value": "He Qi Shi You"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q51076$CC200774-5AEF-4570-90F3-2117650CAEC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q51076$FD01AE84-4548-4C66-BFD2-22EB52785767",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q51076$99D84E28-1D6A-48AD-AF64-AAB6E171F433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43885",
+              "numeric-id": 43885
+            }
+          },
+          "hash": "d12d240008ed7bd554cbd10e1c4f136ec864c846",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q51076$E0628647-BDBE-4AB6-ABF3-B257BB2FDAB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q51076$CE353231-843D-4800-933D-2F30CAF0DC98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1758-06-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0269b3446c5a4557e703be5369da23b5983803ad",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q51076$4CFEED49-49A6-4272-ADA7-20D08A5BC64D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1833-02-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4086a6796008dd907f85a6d0d8b97c216ddaae06",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q51076$B1EDDB4D-D676-4BF4-A54E-D050346DBB6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110050530"
+          },
+          "hash": "44381c7205f5b39829afd0d6ba7d3205e7dc46f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "三条実顕の末子。母は家女房。正二位・権大納言"
+    }
+  },
+  "id": "Q51076",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "河鰭実祐"
+    }
+  },
+  "lastrevid": 17457282,
+  "modified": "2025-09-16T11:39:21Z",
+  "ns": 860,
+  "pageid": 65986,
+  "sitelinks": {},
+  "title": "Item:Q51076",
+  "type": "item"
+}

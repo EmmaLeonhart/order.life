@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Urüng Tash //"
+      },
+      {
+        "language": "en",
+        "value": "Urüng Tash"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q37508$F5BAAFE2-2F17-471D-A9FE-C85987E26DE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00301547"
+          },
+          "hash": "447ac4a0170726782d07214326cf28d774f395b2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q37508$E618BD69-A282-4AA9-B3FF-EF607F0DCF13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39069",
+              "numeric-id": 39069
+            }
+          },
+          "hash": "a25278982fc65221a02a78ca9557695a68f9b8ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37508$CA0C7ED1-0768-4A63-BE07-F84A20AE893A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39073",
+              "numeric-id": 39073
+            }
+          },
+          "hash": "d8f04ed01b7804a90c9ca9c48a08998df2b33883",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37508$8F7C5846-C93C-48BA-92D3-95446DB213BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37508$2BF368E4-D3A8-4C04-9148-382A9F698B53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37508$9AD6B48B-0D9C-489F-9925-B6CD18F48FB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36514",
+              "numeric-id": 36514
+            }
+          },
+          "hash": "7a2a826179a885e91d88dfa861722dac528b4d26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37508$FE94A97E-51C1-41F6-B0BB-B4A27C52299C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37476",
+              "numeric-id": 37476
+            }
+          },
+          "hash": "23ba85c2d87834bd5d28509aeecab90a17acf5a4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37508$24C682AD-B860-4674-BE42-0CB36E4D7A88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37508$41E8D21E-7236-41E6-94CB-FCF2F183D79B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37508$4E198438-8824-45AF-B55A-D3AD116B2F60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1267-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f4ca6d98b7d0d9fc9b0d8da6e6bf91ca299fd8a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37508$EEC44853-D196-49E5-8DFF-EE8E71FB0EA6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7070763"
+          },
+          "hash": "48f66cdd8cc1e00627711aa0fb69cb9bfa645107",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q37508$B6EE3006-5460-469F-8F1C-CE84179BB3C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791898821"
+          },
+          "hash": "7f8fc3683108a36ff8e26941566d075a5b09f4a4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37508$302B0243-2E08-4943-8A73-3C46A345EE6A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Urüng Tash Arms.svg"
+          },
+          "hash": "3565324f0a8b9c0f311e4d033e7d4f761b6127e8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Yuan dynasty person CBDB = 115855"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Менгу-хана"
+    }
+  },
+  "id": "Q37508",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Urüng Tash"
+    },
+    "de": {
+      "language": "de",
+      "value": "Urüng Tash"
+    },
+    "en": {
+      "language": "en",
+      "value": "Urüng Tash"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yulongdaishi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Urüng Tash"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ürüng Tas"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウルン・タシュ"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "玉龍歹失"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Өрөндаш"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Urüng Tash"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yulongdaishi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уренгташ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "玉龙答失"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "玉龙答失"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "玉龍歹失"
+    }
+  },
+  "lastrevid": 17439960,
+  "modified": "2025-09-16T07:29:01Z",
+  "ns": 860,
+  "pageid": 55829,
+  "sitelinks": {},
+  "title": "Item:Q37508",
+  "type": "item"
+}

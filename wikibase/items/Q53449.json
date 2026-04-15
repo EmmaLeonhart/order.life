@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Guan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53449$6A033CB6-846B-4C51-A43F-6FCE007B16BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60334",
+              "numeric-id": 60334
+            }
+          },
+          "hash": "b1e496b0a56441e3fd695558a64d7b22199a1e8f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53449$02DC8426-DEDF-4DA6-B43E-A50AB9CAAA8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55094",
+              "numeric-id": 55094
+            }
+          },
+          "hash": "9f37c945ae0d7d30b23319c308d31ecf1732790a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53449$F46485B9-47F2-41E7-8BF3-357B069C600F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53449$1462A0C4-51BE-4893-8DAD-E2A55651E0BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53449$2EE6A554-4AA5-40D6-AC8A-C99220A321F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45034",
+              "numeric-id": 45034
+            }
+          },
+          "hash": "fcd8df3cdcb9e5443d2121df459da63e7c346657",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53449$AA23D838-6A97-4509-A62D-A73DFF746FFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53449$A657287A-C3D4-43E5-9B14-DF04C1BB22E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0626-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a21a23b51908de7181838c02bfbdfa80dccb37e9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53449$54B3068C-DCAE-4847-9866-BEADECB2B651",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0682-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af8eb0cd9664617f309f7315a055181d2b834683",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53449$4B700EC1-0F27-4517-892F-BE8E920D724C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22813973"
+          },
+          "hash": "ee65da825f3baa0ba88bde35ffb94abbdf7c3622",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53449$A6E0295D-FC75-4E50-8801-AC4DE34F5039",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000021151304975"
+          },
+          "hash": "a7f5575fa0ea812fdfb0f66baf307332d9cd2173",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53449$41D004F0-D91B-46E2-B8BE-DB211DF77C52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Guan Arms.svg"
+          },
+          "hash": "0d7f042cdcf87f8034e9143befb5b03212202a94",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 33102"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "字元茂，甘州司马，徙集、岚二州司马，转渝州长史。开元十七年赠吏部尚书"
+    }
+  },
+  "id": "Q53449",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Guan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Guan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Guan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭瓘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Guan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Quán"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萧灌"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧灌"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭瓘"
+    }
+  },
+  "lastrevid": 17460278,
+  "modified": "2025-09-16T12:23:46Z",
+  "ns": 860,
+  "pageid": 68280,
+  "sitelinks": {},
+  "title": "Item:Q53449",
+  "type": "item"
+}

@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Morikuni"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14350$4CDAD781-F822-4F69-BCD9-046A6E315FF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14350$62082388-D7EB-4770-BD96-0B1563B05633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14350$AA70E063-8145-491A-969F-220A45F6E304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14349",
+              "numeric-id": 14349
+            }
+          },
+          "hash": "85d7aadd03b8d16bdac88943ba582e8338ca1cbf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14350$BA69AB4D-1983-43D0-8097-5B0881164590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14350$25995145-9768-48FA-B937-CAA594B64C71",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1301-06-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a97ca80f125a3e6eead8f74ebd9f60d714291c60",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14350$D6232D7F-D5CE-4D88-AE09-1A15309D4244",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1333-09-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a79ce8c60d0c79adf9f449a92f8c19e37d37612",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14350$66C0C926-C768-49A6-8482-69871DDD6593",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q552852"
+          },
+          "hash": "292ae28eafe342a9a6922773622530afe0c13e05",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14350$82F740B9-BB3D-475C-A690-9420EFD0665A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Morikuni Arms.svg"
+          },
+          "hash": "90a8425f0d33f4204d5724806d7fb8b4da32dee8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Shogun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "shōgun del Shogunato Kamakura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の鎌倉時代末期の皇族、鎌倉幕府の第9代将軍"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1301-1333)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński Siogun"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nono Shōgun Kamakura"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский принц крови, глава Камакурского сёгуната"
+    }
+  },
+  "id": "Q14350",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Príncep Morikuni"
+    },
+    "de": {
+      "language": "de",
+      "value": "Morikuni"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Morikuni"
+    },
+    "es": {
+      "language": "es",
+      "value": "Príncipe Morikuni"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Morikuni Printzea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهزاده موریکونی"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Prince Morikuni"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Morikuni"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prince Morikuni"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pangeran Morikuni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "守邦親王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "모리쿠니 친왕"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "मोरिकुनी"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Morikuni Chhin-ông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Prins Morikuni"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Morikuni"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Morikuni"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Príncipe Morikuni"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Príncipe Morikuni"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Морикуни-синно"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Prins Morikuni"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Prens Morikuni"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Принц Морікуні"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thân vương Morikuni"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "守邦親王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "守邦亲王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "守邦親王"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "守邦親王"
+    }
+  },
+  "lastrevid": 17414430,
+  "modified": "2025-09-16T00:09:19Z",
+  "ns": 860,
+  "pageid": 36651,
+  "sitelinks": {},
+  "title": "Item:Q14350",
+  "type": "item"
+}

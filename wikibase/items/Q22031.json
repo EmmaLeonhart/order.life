@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsuchiya Toshinao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22031$878386EA-4257-4418-8D6B-BF779C3B7330",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20108",
+              "numeric-id": 20108
+            }
+          },
+          "hash": "21fe0d01289b7e1e4135d51586faf476feb8676f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22031$568568AF-A21B-493C-ACDD-A3CD55EA1499",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22031$38E31786-9060-44BC-B4D1-6B12588F83B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22031$862D054A-75F7-4F67-8E4F-6D69EA2D808D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22031$67E67F17-2BF9-4E4C-BA6E-A4AF05046228",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1607-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1a76b69f37a0ba018fe14eec7e3f0c0c48fa3a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22031$02A34CCF-A50F-48AB-813C-9689272BDBA6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1675-06-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0826c8c092e7b0fd9fd8d5e1b3bad3e6c7a26c22",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22031$EE297855-D078-47A2-B688-3866466A2F0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11423236"
+          },
+          "hash": "162b38949ef75bdebf8020600ed7646b5d1e622b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22031$58BC6ACE-E4E5-4D8D-AA62-88EA92124B67",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsuchiya Toshinao Arms.svg"
+          },
+          "hash": "1bff7fe73962faea3fc6873ad6b6c3407f8ae29d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の大名。上総久留里藩初代藩主土屋忠直長男で、久留里藩2代藩主。従五位下民部少輔。大坂加番を勤めた"
+    }
+  },
+  "id": "Q22031",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsuchiya Toshinao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土屋利直"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосинао Цутия"
+    }
+  },
+  "lastrevid": 17420994,
+  "modified": "2025-09-16T02:33:52Z",
+  "ns": 860,
+  "pageid": 44041,
+  "sitelinks": {},
+  "title": "Item:Q22031",
+  "type": "item"
+}

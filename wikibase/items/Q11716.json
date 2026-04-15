@@ -1,0 +1,295 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Shigeko"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q11716$991D0E5F-E4DD-4D2E-99CD-25D23C6FFF26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523749"
+          },
+          "hash": "d9259007db961deb086518868e9bca28e3d9d5b2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11716$C8226BA7-0E32-41EB-AE49-F357DEEB8E08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11781",
+              "numeric-id": 11781
+            }
+          },
+          "hash": "6bdf6fbed886a7cf949057dcf2876f2f28d6aa08",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11716$01A0AC00-DF61-4799-80CD-31F67E0E4270",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11716$A5429990-9CBB-4A0E-81BC-49591F770A32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11716$43F84C87-EDA6-4704-B613-3471E5378FBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11480",
+              "numeric-id": 11480
+            }
+          },
+          "hash": "41955bc0dbccd6958253e5fd0cbe5577ee416eed",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11716$C96F3DC3-8D19-4BB8-ABA0-84C64B36E6B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11715",
+              "numeric-id": 11715
+            }
+          },
+          "hash": "27fbe7dcb5c511cf446976e9d0881f8f16b8a901",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11716$D7CC3241-F3EB-4D59-A3B6-B0DC39DDE792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11716$48DE5D81-F92F-43B4-8A51-169861799A3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1142-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "704ec54dabbcbc686d8897dd49957823a522a796",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11716$6AD770AE-B6FC-4090-A5EA-84F3F439A9D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1176-08-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a657508736fca5f6d32f7a5f2a5f70b36c6f059",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11716$0108DC7C-58F6-4DA2-8771-B317CC0DB389",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11061157"
+          },
+          "hash": "0d2c89cde505dbf00150a882631cc120bb26f985",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11716$5D51782B-C50C-4AD9-9671-266002CE1514",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no Shigeko Arms.svg"
+          },
+          "hash": "2166d05198a1413567629268689a5e990e8aa61e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "court lady of Japanese emperor Go-Shirakawa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平時信女。後白河天皇の譲位後の妃。高倉天皇の生母・皇太后。"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская фрейлина"
+    }
+  },
+  "id": "Q11716",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Šigeko Taira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Taira no Shigeko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Taira no Shigeko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تایرا نو شیگهکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Taira no Shigeko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平滋子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тайра-но Сигэко"
+    },
+    "th": {
+      "language": "th",
+      "value": "ไทระ โนะ ชิเงะโกะ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平滋子"
+    }
+  },
+  "lastrevid": 17413094,
+  "modified": "2025-09-15T23:50:50Z",
+  "ns": 860,
+  "pageid": 34075,
+  "sitelinks": {},
+  "title": "Item:Q11716",
+  "type": "item"
+}

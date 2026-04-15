@@ -1,0 +1,229 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16428$060255EA-4404-457B-98EC-880422FAE29C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16428$A9D557A0-E141-478A-8D34-1A52B175F02C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16428$92325921-E9FE-4889-BEA7-BCE47DA2531B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16426",
+              "numeric-id": 16426
+            }
+          },
+          "hash": "760c500edcef8787c1910ec4965f05ea3f9e46a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16428$A80C7EE2-EB4F-43CB-8C74-4E022A490EE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16428$77DF8156-02C5-42E7-BF0D-A568E7752184",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1726-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ca520ad6ba0734eb279bc7109d7dd385d9d582c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16428$9D5C5330-F6B1-4D60-B466-B82587F86C64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1733-04-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b71fdb1a16a63adf94e34a92d787cf55b02ebb3f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16428$2D3BF8A3-A1FB-4087-8F0E-2ED11355223F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3514223"
+          },
+          "hash": "27630b0ce6ba73cd40249de991dddc50820f2668",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16428$D9969277-4E78-4BCF-ADE2-41DD55624B68",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takatsukasa Hisasuke Arms.svg"
+          },
+          "hash": "d41fba095250ec90e1a4f1d694e94d57e5962015",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "kuge neboli japonský dvořan z období Edo"
+    },
+    "en": {
+      "language": "en",
+      "value": "kuge or Japanese court noble of the Edo period"
+    }
+  },
+  "id": "Q16428",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takatsukasa Hisasuke"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Takacukasa Hisasuke"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takatsukasa Hisasuke"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takatsukasa Hisasuke"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takatsukasa Hisasuke"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takatsukasa Hisasuke"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鷹司尚輔"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Takatsukasa Hisasuke"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хисасукэ Такацукаса"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takatsukasa Hisasuke"
+    }
+  },
+  "lastrevid": 17415970,
+  "modified": "2025-09-16T00:31:13Z",
+  "ns": 860,
+  "pageid": 38686,
+  "sitelinks": {},
+  "title": "Item:Q16428",
+  "type": "item"
+}

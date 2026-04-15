@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shang Shan Xian Sheng"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q29113$AA00D1FB-0D17-4CE3-90DE-FEBCC377600D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16739",
+              "numeric-id": 16739
+            }
+          },
+          "hash": "240f32b8e4ada3aae91c1e283fec4571dfd37f55",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29113$8D149A41-3C80-4D22-91AA-863F0AC9A1E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29113$54D51CFA-4076-443B-83EC-52C0D3054FC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29113$37D42235-F4F1-4EA4-846C-DBEB36829621",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29113$D11C3162-FD3A-4F45-9DA4-13EF0A1A0FC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1530-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbcff4ddddcfadf2bcc56bcd78de209389d12c06",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29113$240E47BD-4374-46E7-BACE-FB4B4DD30BFA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1575-05-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5b6ecd45602af29d3a1dbe85428bed5f80a775bd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29113$2AF850FE-7F32-45A7-BE14-E2134DEB4BF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11359181"
+          },
+          "hash": "ff94ca3dbc65e5c6ba152c0052f1a7dea83873af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q29113",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "上杉憲盛"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "上杉憲盛"
+    }
+  },
+  "lastrevid": 17428480,
+  "modified": "2025-09-16T04:42:10Z",
+  "ns": 860,
+  "pageid": 49554,
+  "sitelinks": {},
+  "title": "Item:Q29113",
+  "type": "item"
+}

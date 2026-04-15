@@ -1,0 +1,414 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kuroda Yoshitaka"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q18367$0449CD3A-776C-4EA5-AE31-C31361855BC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18369",
+              "numeric-id": 18369
+            }
+          },
+          "hash": "002acd4feb41d943b1465baf68a4a745e0649c09",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18367$3A4784D1-5DFA-489C-8492-2A0A50EB7100",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17004",
+              "numeric-id": 17004
+            }
+          },
+          "hash": "8e29c7ac5915aba9bfad076cf4abd25e98fa3b24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18367$92E85EBA-FE48-4ED8-BCC3-BF81742A3998",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18367$511CD798-76AE-45EA-A590-5ECFE2D8B9BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18367$FABEC583-A386-44BB-8D3B-4D19ECB9C848",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18368",
+              "numeric-id": 18368
+            }
+          },
+          "hash": "2d20b155eb5e2477cf33c12e63bc6192c5f39f57",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18367$C96D80CC-C39D-43F1-A879-3452EC5B889B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18947",
+              "numeric-id": 18947
+            }
+          },
+          "hash": "9016abba07600d0502dac57973c0fe0cb39ece89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q18367$6D3EECE7-716B-4ED1-957F-2BA162A58F5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33509",
+              "numeric-id": 33509
+            }
+          },
+          "hash": "034d75e327f22211e486746b9421c823aea1b4d0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18367$C1093554-9735-4BE8-A83E-4F6762CB1D6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18367$E0B2E6A3-6BB8-4B9B-820F-CBAE26D5518C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1546-12-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "31b60567aac94f39dc7f75b80dc4453bbce3669c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18367$7C98EE2E-CBB2-441A-A549-0B2DA487B7C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1604-04-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ac51b9679bab623429ce94f710f042311841ebb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18367$FDACC341-D51B-4A29-ADAC-8175D0904227",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q907019"
+          },
+          "hash": "2d26e25be572cb61e824a149398f5f819cc507d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18367$8ADC782D-4CDD-4135-9585-74DB5C7CC2C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kuroda Yoshitaka Arms.svg"
+          },
+          "hash": "b2dc6ab8767753cbe29eda88ff553bf95d0f3faf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1546–1604)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo (1546 – 1604)"
+    },
+    "es": {
+      "language": "es",
+      "value": "daimyō y comandante militar japonés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将、大名"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1546년에 태어나 1604년에 순절한 일본의 다이묘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1546-1604)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński samuraj"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1547 – 1604)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日本战国时代历史人物"
+    }
+  },
+  "id": "Q18367",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kuroda Yoshitaka"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kuroda Yoshitaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kuroda Yoshitaka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kuroda Yoshitaka"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کورودا یوشیتاکه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kuroda Kanbei"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kuroda Yoshitaka"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kuroda Yoshitaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "黒田孝高"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "구로다 요시타카"
+    },
+    "la": {
+      "language": "la",
+      "value": "Simon Quambioiendonus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kuroda Yoshitaka"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yoshitaka Kuroda"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kuroda Yoshitaka"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kuroda Yoshitaka"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Курода Ёситака"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kuroda Yoshitaka"
+    },
+    "th": {
+      "language": "th",
+      "value": "คุโระดะ โยะชิตะกะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kuroda Yoshitaka"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Курода Йосітака"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "黑田孝高"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "黑田孝高"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "黑田孝高"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "黑田孝高"
+    }
+  },
+  "lastrevid": 17417730,
+  "modified": "2025-09-16T01:14:00Z",
+  "ns": 860,
+  "pageid": 40560,
+  "sitelinks": {},
+  "title": "Item:Q18367",
+  "type": "item"
+}

@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ono no Yoshifuru"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9348$D5ABD16A-F491-43A9-BB88-E6D971FEBB98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9357",
+              "numeric-id": 9357
+            }
+          },
+          "hash": "ce78c6a1bdfae90f826f5cbe1b100fad79da297d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9348$302251F2-0D60-45E9-A471-A729B9E9179E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9348$7D136DF7-0567-4348-8B54-A6018661D84F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9348$82D93B7B-FA10-441F-A429-53DB54D3D3D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9348$35033A7F-0EED-4DB2-8E47-197C9B8C89EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0884-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "890170e0708a5b08beabf17a4c8f541295fbe426",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9348$1DE4EC1B-FC60-4FA0-B3E6-F0D50DADFAF6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0968-03-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f27c23563e4825746e701771ca8da18c523d0540",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q9348$5C60E077-5D09-42DF-86F9-9D070347A231",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ono no Yoshifuru.jpg"
+          },
+          "hash": "d76dc73ff5cac031dfaff4e9c3b52d6f0a2874e1",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9348$1D90FAF5-AC9B-46EE-9FBC-12B2B187B1A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11463979"
+          },
+          "hash": "9f6203161e29034fc36340fe246523b3abb5d8dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "884-968, 平安時代中期の公卿。小野葛絃の子。異名は野大弐。官位は従三位・参議。勅撰集『後撰和歌集』以下に6首入集"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본 헤이안 시대 귀족"
+    }
+  },
+  "id": "Q9348",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ono no Yoshifuru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ono no Yoshifuru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小野好古"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오노노 요시후루"
+    }
+  },
+  "lastrevid": 17410778,
+  "modified": "2025-09-15T23:16:56Z",
+  "ns": 860,
+  "pageid": 31810,
+  "sitelinks": {},
+  "title": "Item:Q9348",
+  "type": "item"
+}

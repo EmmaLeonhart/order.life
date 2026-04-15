@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Centulle IV, Count of Astarac //"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q55320$87CE9995-DC7F-4FD9-8C6F-037CCE987BF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Astarac-13"
+          },
+          "hash": "814f0355afb29fce2b51cbd37a4dba6c46189247",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55320$7318A8F2-DCFB-4B3D-8BC8-E9AA5AE93907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55320$D7589153-34DD-4986-8F20-FCBA5E92524B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55320$D1778041-90E1-40A2-BC22-B529EB64978D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Centule Unknown (1)"
+          },
+          "hash": "9bb7ceba1e373a7d897b97d2f5fd91928429a558",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55320$4DFA170D-BC66-46D1-BDE4-B6E366D8CC88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55316",
+              "numeric-id": 55316
+            }
+          },
+          "hash": "52bdb04ac53cb77f080e99ed2c5af514f502785d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55320$671E1584-A861-4A8F-92B6-F7A999D0770B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49845",
+              "numeric-id": 49845
+            }
+          },
+          "hash": "bc73ed61144dc715fc682a85e5a71af914a91a20",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55320$D5582CE8-6270-4160-AE61-BC19358B6850",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55320$B0661A10-FA8F-4C52-BD32-89956733BF26",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1315-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a86c348a3cbfd2cdfccdb04435bb59a627e180e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55320$528420DC-0785-4E7E-A6D3-EB3B9C0B5301",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1362-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c7c93eef5bd30710778b14035ba025bfe4171656",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55320$629784BF-881F-4F63-8BE2-E1AE8F5A9221",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28665685"
+          },
+          "hash": "811b43ed59bfdd5048e86199c82be763558bfddf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q55320$EA17E0F9-9DE1-4C1C-99A8-9D1D5C548AB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=centulle;n=d astarac;oc=4"
+          },
+          "hash": "e15174f8b92d9abfacc5374763babb94f85027b3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55320$A4072CBA-4261-4EAB-B70F-429C76538667",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Centulle IV, Count of Astarac Arms.svg"
+          },
+          "hash": "e7dc34c2898604d6ceb523292ed96b033acdda02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Count of Astarac"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte d'Astarac"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Астарака с 1330 года"
+    }
+  },
+  "id": "Q55320",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Centulle IV, comte d'Astarac"
+    },
+    "en": {
+      "language": "en",
+      "value": "Centulle IV, Count of Astarac"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Centulle IV d'Astarac"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сантюль IV д’Астарак"
+    }
+  },
+  "lastrevid": 17463254,
+  "modified": "2025-09-16T13:07:29Z",
+  "ns": 860,
+  "pageid": 70151,
+  "sitelinks": {},
+  "title": "Item:Q55320",
+  "type": "item"
+}

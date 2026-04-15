@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Taihe //"
+      },
+      {
+        "language": "en",
+        "value": "Princess Taihe"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q30756$0F06B777-4D4B-448E-BC1F-43A898F8E25A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30756$B29554D6-5EDE-4B65-BF64-A5E4AD6849C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q30756$F72F6A9D-6892-4033-BC03-66770E61B86A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30038",
+              "numeric-id": 30038
+            }
+          },
+          "hash": "a20cef9fbd9c2c562c40c2675592574fdb0f71a5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q30756$82D03001-F2D6-4352-866E-A0D69C11669E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30720",
+              "numeric-id": 30720
+            }
+          },
+          "hash": "6578bc78b63461b8cdb6deece7bd8b3c28425f58",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30756$4CC712FF-7FB6-49F4-BD92-B0424B030FF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q30756$40726EDA-ED5E-4B00-937A-7567F6FE25FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1555-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e442138ea3a646facfcbad811c5b58e7996e8ef",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30756$77BEECCA-16E6-4EAE-891D-3705049162FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1560-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4ff434ba163c0e7172ad25ce36af6beea477c654",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30756$CA3E75B2-C83E-4CEB-8EE8-11F07D52D63E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10941117"
+          },
+          "hash": "904f3a6536ecc7e00a4e58d62522b2ba1e68f7c3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30756$A5253EFC-AFA5-4B10-8B19-BD6C6F6986F7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Taihe Arms.svg"
+          },
+          "hash": "4d43568ad43ce60413f30f2bee70ef3be18cbbc2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "vi": {
+      "language": "vi",
+      "value": "công chúa nhà Minh, con gái Minh Mục Tông"
+    }
+  },
+  "id": "Q30756",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Princess Taihe"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tchaj-che"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Taihe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Taihe"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "太和公主 (明穆宗)"
+    }
+  },
+  "lastrevid": 17430382,
+  "modified": "2025-09-16T05:09:53Z",
+  "ns": 860,
+  "pageid": 50781,
+  "sitelinks": {},
+  "title": "Item:Q30756",
+  "type": "item"
+}

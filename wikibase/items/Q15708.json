@@ -1,0 +1,206 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Park Solgyeo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15708$8E93F66B-3CB9-45A5-B221-547DBFE7291C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15245",
+              "numeric-id": 15245
+            }
+          },
+          "hash": "8ed6b75f8ac112d160768e73f1e46a152868e7fc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15708$E09AB334-E87D-4F2F-9C94-C47CFCDC947F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15708$B14F6A36-88AE-4247-98E6-439A8D57C2A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15708$58EE260C-EAE1-4B44-B5E7-A51474633219",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15706",
+              "numeric-id": 15706
+            }
+          },
+          "hash": "f110e54958620693955a483e637086567b4f8ca1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15708$54AD142A-4F0F-4D87-9DA9-CB4C1E35E1E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16445",
+              "numeric-id": 16445
+            }
+          },
+          "hash": "e20aac186b9d5e9b8b442b011b2ca1e89e17548e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15708$B2254C0B-23C8-4E75-9448-B4F572553A95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15708$A63508C0-5B7C-4980-B99B-EC44112685F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28501390"
+          },
+          "hash": "4e3c2e09101c1990c1eeb0ba5e9ef26fad6e772e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15708$D8D13B7F-06E2-4283-9CE1-766FBC5BA094",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Park Solgyeo Arms.svg"
+          },
+          "hash": "8ca672c979f5f230ad28d2f2ceebe9e86ab9d2de",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "noblewoman"
+    }
+  },
+  "id": "Q15708",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Park Solgyeo"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "술례부인"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сольгё"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Park Solgyeo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "述禮夫人"
+    }
+  },
+  "lastrevid": 17415372,
+  "modified": "2025-09-16T00:22:26Z",
+  "ns": 860,
+  "pageid": 37990,
+  "sitelinks": {},
+  "title": "Item:Q15708",
+  "type": "item"
+}

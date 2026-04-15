@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shiba Kaneyori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14928$D2635702-F1C1-4748-8F37-BB694C0B6BC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14928$0D4FCC28-42EC-44B7-85C4-CBB4F159D94E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14928$64274B23-5C80-47E0-9578-F44DD43E16AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14521",
+              "numeric-id": 14521
+            }
+          },
+          "hash": "11dcf3b8ba964309ec69b5ad6a0c46ba1b7913be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14928$754133F5-3E5A-4746-97EE-8223865F664E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14928$62CF6953-A7A1-4722-9D68-DAADEEA9E5E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1316-02-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70bf010e1b590b474a5f2f6fe4bbd94b3e6cc10a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14928$B74C9AEE-0164-4835-B30B-5B438670688B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1379-07-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de9f51c124b37a70b0d85154f64aa29b28fe7aa2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14928$91439FE4-C57E-46C7-9305-BD5F79582687",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shiba kaneyori.jpg"
+          },
+          "hash": "0d6ae32933a32c5d7cf94f972826d04852c6b4d2",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14928$7243B3DF-B6A6-4A51-9837-72826B6BC4A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11500846"
+          },
+          "hash": "d88786c577ab9da1423b9d9587cf455924f43b81",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14928$252B974D-4E85-4490-8349-B775FA477244",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shiba Kaneyori Arms.svg"
+          },
+          "hash": "c9ef7dcc0b96cba17a6ac63bfa0bf0a112347803",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代の武将。斯波家兼の次男。羽州探題最上氏の祖。最上氏初代。"
+    }
+  },
+  "id": "Q14928",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shiba Kaneyori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shiba Kaneyori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "斯波兼頼"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯波兼賴"
+    }
+  },
+  "lastrevid": 17414824,
+  "modified": "2025-09-16T00:14:43Z",
+  "ns": 860,
+  "pageid": 37223,
+  "sitelinks": {},
+  "title": "Item:Q14928",
+  "type": "item"
+}

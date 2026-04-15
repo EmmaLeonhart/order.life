@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "KAUSALYA"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q51372$1A26D383-937F-4899-8C5C-6B05E8FD4ECC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28328",
+              "numeric-id": 28328
+            }
+          },
+          "hash": "dabfcba4078b4869934d92ac11dddee5d8b10b1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q51372$D4418EDB-4696-45E4-945C-A00A6D2E5B7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q170563",
+              "numeric-id": 170563
+            }
+          },
+          "hash": "f3efa17de345b4dd93776cba60a04ea0fbed7fb4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q51372$12F7880B-C733-440E-A5DC-ED277AE62E63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q51372$0C927869-A14C-4B7E-B1E5-DBC7BF4DEE96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q51372$3941248E-BC52-4416-A753-158909DB898E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2319",
+              "numeric-id": 2319
+            }
+          },
+          "hash": "5aecc635967d6579c50da9253a73854d29c3c8d4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q51372$18C91F74-9F1D-4A87-A7B8-4678610D42B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51392",
+              "numeric-id": 51392
+            }
+          },
+          "hash": "5ba6bc2d42d4d35721bccb6119434ad867871e5c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q51372$BC69018F-F035-4A73-9D88-5A8A64220FC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51397",
+              "numeric-id": 51397
+            }
+          },
+          "hash": "93c3a6fa8dc7db8859ce3909361999af82fe190f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q51372$72FA1B2F-6994-4723-BB90-B478F5B83BA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q51372$9DAD7498-09EF-4C57-87A6-43A0CF24E358",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009514216557"
+          },
+          "hash": "dfa15f41e8a0e04ac8a3d5fa4f9ef364097ec90e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51372$A0C566F0-4FF9-4C46-B9CB-7A418612F958",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kausalya Arms.svg"
+          },
+          "hash": "8099dc7958a037e8f7f3d09e3e212d96b2d32e22",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q51372",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kausalya"
+    }
+  },
+  "lastrevid": 17457422,
+  "modified": "2025-09-16T11:41:24Z",
+  "ns": 860,
+  "pageid": 66222,
+  "sitelinks": {},
+  "title": "Item:Q51372",
+  "type": "item"
+}

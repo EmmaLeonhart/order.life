@@ -1,0 +1,464 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rinchinbal Khan //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q39388$D1E1FF40-0CED-44B6-AEB0-B813D0C00FC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "844139"
+          },
+          "hash": "457db3b4300aed98f730d0c491144cc19f9f0834",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q39388$C86A1B07-134F-435E-B8F8-211AB4681F81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00298885"
+          },
+          "hash": "e843a147c292e89695feabf5aacf39d159a650d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39388$E6129742-1CF1-4A4A-B181-6D62F9AD1E80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39388$FAB501B1-0300-4A86-AE63-BB201FDF7DA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q39388$AB78E687-90F7-459B-A1DE-9B08386BEEEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41257",
+              "numeric-id": 41257
+            }
+          },
+          "hash": "4a68526efecc27d652e9f5bd04f9434ef5cc2c66",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39388$0D048D22-49FD-48A2-A426-29E2B544DBA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39260",
+              "numeric-id": 39260
+            }
+          },
+          "hash": "d9bffb02545de307d5ca624a6a5e3f451effbff3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q39388$B877CFBE-C067-463E-902E-9A95C9735A5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37753",
+              "numeric-id": 37753
+            }
+          },
+          "hash": "2575a3a6b213263d0a5387d6c3884c88aa18c17d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39388$CCE91E19-7C37-4A46-BCD7-7743382CA02D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39388$15FA185F-0EC4-4D8C-8729-CE4EA11BC473",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1326-05-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f5c6eec83402e21c02a43a46f390e9001a548a5a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39388$8AA9DF71-5B30-4700-ABED-425459AE453E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1332-12-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "458613d6cad3f79c31d09c29e355d269b13a5be0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39388$48BBF590-AB61-44BF-B25D-94DC11362E2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8664"
+          },
+          "hash": "c003757afb18342b6b60e7e89c492d454cdab344",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39388$307CF61B-C9A3-4EBC-87C6-5BCCF19E5367",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rinchinbal Khan Arms.svg"
+          },
+          "hash": "071a1b05b4db63b4af4d647b31c7bc7aa463d7d2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من مملكه يوان"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "císař říše Jüan a veliký chán mongolské říše"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser der Yuan-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of the Yuan Dynasty (1326-1332)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador de la Dinastía Yuan del Imperio chino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur sino-mongol de la dynastie Yuan"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "몽골 제국의 제 15대 카안"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Yuan-dynastie (1326-1332)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "китайский император династии Юань"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mongolisk barnkejsare i den kinesiska Yuandynastin"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "யுவான் அரசமரபின் பேரரசர்"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор династії Юань"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "元朝第10位皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "元朝皇帝"
+    }
+  },
+  "id": "Q39388",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "رينشينبال خان"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "རིན་ཆེན་དཔལ།"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Rinchinbal"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Rinčinbal"
+    },
+    "de": {
+      "language": "de",
+      "value": "Irinchinbal"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Irinchinbal"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rinchinbal Khan"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Rinchinbal Khan, Emperor Ningzong of Yuan"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Rinchinbal Khan, Emperor Ningzong of Yuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ningzong de Yuan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ningzong"
+    },
+    "he": {
+      "language": "he",
+      "value": "רינצ'ינבל חאן"
+    },
+    "id": {
+      "language": "id",
+      "value": "Rinchinbal Khan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Rinchinbal Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イリンジバル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "რინჩინბალ-ყაენი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "원 영종"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "元寧宗"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Ринчинбал хаан"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᠨᡳᠩ ᡯᡠᠩ (ᠶᡠᠸᠠᠨ ᡤᡠᡵᡠᠨ)"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Rinchinbal"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Irinchinbal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rinchinbal Khan, Emperor Ningzong of Yuan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rinchinbal Khan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rinchinbal Khan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иринджибал"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Irinjibal khan"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ரிஞ்சின்பால் கான்"
+    },
+    "th": {
+      "language": "th",
+      "value": "รินชิมบัล ข่าน"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rinçinbal Han"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ірінджібал"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nguyên Ninh Tông"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "懿璘質班"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "元宁宗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "元宁宗"
+    }
+  },
+  "lastrevid": 17442270,
+  "modified": "2025-09-16T08:01:58Z",
+  "ns": 860,
+  "pageid": 57234,
+  "sitelinks": {},
+  "title": "Item:Q39388",
+  "type": "item"
+}

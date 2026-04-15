@@ -1,0 +1,180 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shinjuin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15463$AFF19DD4-E606-4F4F-A81D-87DD9DD48787",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15463$DA8714AD-EE10-4553-9F03-F1C80BAF2EA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15463$D68C97DB-7A39-4016-B092-935E5806064A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "45c3786c144f06aa20e3f5d24932a969e3f265b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15463$99A058AF-5D3E-4C5E-92BA-7F11482BE590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15463$2052B3AD-9318-4CD5-A5F3-C22CD6616420",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1628-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a99985fc021284f57a6204925f56c656319ed68",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15463$391DA9CF-8DAB-4411-A5F6-43EDC3097DA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24875863"
+          },
+          "hash": "c407fb4241e76452a32135eecfd73e9a702cd389",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15463$4FB4796C-8724-4DA7-9470-FA9EA61DD784",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shinjuin Arms.svg"
+          },
+          "hash": "1cc413e693b0b63eb4ed6fa0fd747fcfd6346e78",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "徳川家康の側室。"
+    }
+  },
+  "id": "Q15463",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shinjuin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "信寿院"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Shinjuin"
+    }
+  },
+  "lastrevid": 17415214,
+  "modified": "2025-09-16T00:20:12Z",
+  "ns": 860,
+  "pageid": 37750,
+  "sitelinks": {},
+  "title": "Item:Q15463",
+  "type": "item"
+}

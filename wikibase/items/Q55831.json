@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Balša II //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55831$41AA47E3-4297-41BF-8624-92911CA9F377",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "418092"
+          },
+          "hash": "010919f554a54406609744bdea4f1ea107a08837",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55831$0FB00D31-7FBF-405B-A22E-FB3EF2F148D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55831$998D533A-948B-47F2-9AA5-05D7836881AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55831$FB5A6A26-8BA5-4624-9D97-E868EF9806DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50183",
+              "numeric-id": 50183
+            }
+          },
+          "hash": "b4e711309596c99106d8c0e816ff1cbb645f80fa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55831$4A2908C5-05B1-4CA9-A107-925DFDE445D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55831$5CD7B7EE-89C1-4AB3-A8E3-5444B442026C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a0bd5be7dcebda7ca748ebf9587b467d5112c69",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55831$A0B2E53F-A319-46D2-8DCA-C9E347FC2243",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1385-09-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8ca8cced4206380ea46700a538e5e4be69e542a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55831$1EF28EE2-79E9-4884-979D-4CF045B8ECF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q559049"
+          },
+          "hash": "a29cb45bea9256aa824ded3a345d7a0bd3327658",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55831$B056BEFA-DB3E-4C3D-94A8-D8D3A036DBD6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Balša II Arms.svg"
+          },
+          "hash": "6650c2112e38e5d6d91f3aa0825265de7052835a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zeta-Fürst aus dem Adelsgeschlecht der Balšić"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέρβος στρατιωτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Serbian military leader"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "montenegrói uralkodó, zetai fejedelem"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "líder militar sérvio"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "српски великаш"
+    }
+  },
+  "id": "Q55831",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Балша II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Balša II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Balša II."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Balša II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπάλσα Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Balša II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Balša II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Balša II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Balša II Balšić"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Balša II."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Balša zetai fejedelem"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բալշա II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "バルシャ2世バルシッチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Balša II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Balša II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Balša II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Balša II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Балша II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Balša II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Balsha i II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Балша II Балшић"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Балша II Балшић"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Balša II Balšić"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Balşa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Балша II Балшич"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巴尔沙二世"
+    }
+  },
+  "lastrevid": 17464022,
+  "modified": "2025-09-16T13:19:22Z",
+  "ns": 860,
+  "pageid": 70662,
+  "sitelinks": {},
+  "title": "Item:Q55831",
+  "type": "item"
+}

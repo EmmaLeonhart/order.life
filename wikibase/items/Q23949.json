@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishii Tsunetada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23949$F911B91B-76E4-4507-8C23-2917D1D5AED0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47858",
+              "numeric-id": 47858
+            }
+          },
+          "hash": "751a2294811ae9655cec0e79cfee84a035d50eab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23949$C815A7E1-13FC-4ECA-A4C2-7DAAC4E8A615",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47854",
+              "numeric-id": 47854
+            }
+          },
+          "hash": "f487c8dfc66966a7d2f2e3c5bda019dd5c828ae4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23949$E180986B-F53E-42AC-9CA5-999404EA6D70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23949$3321DDA4-2460-4FE2-9522-7333ACC60C95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23949$BE8E778C-F530-4867-A496-DBBD84902050",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23947",
+              "numeric-id": 23947
+            }
+          },
+          "hash": "98bbaca812dc4cdd7aff822533d4d98264356a4e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q23949$A1695378-B71E-48E2-A031-D4AA04A274B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41589",
+              "numeric-id": 41589
+            }
+          },
+          "hash": "92f56ccac2030e86c28f882fa29ff1f91d29cd9a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23949$83C9895C-1651-432F-A2F8-E97A5DF1441B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23949$62F1E11F-AA3A-474F-9D61-4E66F23F8D06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1583-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ce63fc9b911664263cebda7fec9a43a033e0d6a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23949$70BEBEC4-BCAB-47F5-9F06-C3379AB86894",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11584935"
+          },
+          "hash": "abd963751ad2849749ea6edb854d6cd71b3db3db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23949$6493EC80-39A9-46AC-8EAC-FFD15B9E4EDF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishii Tsunetada Arms.svg"
+          },
+          "hash": "263326966d6ac3199b63e691f7518bfd149a0846",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Sengoku period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q23949",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ishii Tsunetada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ishii Tsunetada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ishii Tsunetada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石井常忠"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Цунэтада Исии"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ishii Tsunetada"
+    }
+  },
+  "lastrevid": 17422970,
+  "modified": "2025-09-16T03:13:22Z",
+  "ns": 860,
+  "pageid": 45758,
+  "sitelinks": {},
+  "title": "Item:Q23949",
+  "type": "item"
+}

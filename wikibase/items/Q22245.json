@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Nobutomi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22245$B7DE1219-C3AB-4E96-8B0E-B7C1220A1238",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22245$F5154D71-2B6A-42E8-87D9-02B6C28542B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q22245$A5BBB877-FE33-425B-A32C-03E5AA4DF0A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34120",
+              "numeric-id": 34120
+            }
+          },
+          "hash": "19f591f68a0434b278120b1451435e5fda8c8da5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22245$6F33875B-2FBC-420D-8A3C-C00C5D135EDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22245$D5475E78-F6A8-4138-A4AC-9F7D5B34424A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1680-11-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a448eefcdb7d66e00b56b8719c68955891b20fe9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22245$F47590DB-B5E4-4BC0-AEDA-92F322164C98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1721-03-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81ba25a36c824be31a3486047f30ce2ddd7d949f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22245$7D8CC362-5F07-4F25-BCC4-5F8EE7C90227",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530402"
+          },
+          "hash": "93ec9977b415f51f9f9be5146cf072fce764ada9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22245$380F2B1D-870D-418B-BCCF-C9EEDD64A043",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Nobutomi Arms.svg"
+          },
+          "hash": "783bde974a4d510f57b96e1ad6ae75438eef90c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the middle Edo period; 1st lord of Tsuyama (1680-1721)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期から中期にかけての大名。美作津山藩初代藩主。従四位下越後守、左近衛権少将、左衛門督、備前守。松平直矩の三男。"
+    }
+  },
+  "id": "Q22245",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Nobutomi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Nobutomi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Nobutomi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Nobutomi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平宣富"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰다이라 노부토미"
+    }
+  },
+  "lastrevid": 17421182,
+  "modified": "2025-09-16T02:38:32Z",
+  "ns": 860,
+  "pageid": 44245,
+  "sitelinks": {},
+  "title": "Item:Q22245",
+  "type": "item"
+}

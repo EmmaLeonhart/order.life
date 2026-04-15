@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "George Mouzalon //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q49434$F2FE58FD-EFD9-4446-94C2-A53FEE109CDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49434$65D72FCE-2EA3-4DB2-B417-5F07746B69A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q49434$9D59DF58-EB75-46EC-ABAF-80EFB339A18D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45957",
+              "numeric-id": 45957
+            }
+          },
+          "hash": "ebc59222cf489fdb2935ce7f5070f4de27a231b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49434$991855D9-69BD-4ADB-B4B6-1C5A117F1022",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49434$B0D33105-7D37-4214-BE79-A3B9E2E9B90C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1220-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b37fa93eb47e6efa1290b97280a4ef8a9d6e36df",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49434$1B473ED9-1EF5-435D-9973-42ED3E855A6D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1258-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d692c3297e7e11b22ae588adfc2c0d3a5b7be76",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49434$7774F7CD-2FAF-4389-B2FB-A01F9B2B563A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2568187"
+          },
+          "hash": "cb47196f33218fecc9c8441d6ee8481e6dc12ec9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49434$5ACAD414-2E74-4439-980F-B0539939C2EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "George Mouzalon Arms.svg"
+          },
+          "hash": "b4af879ccb404970c5de33909d18e516973ddf75",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "megaduc de l'Imperi de Nicea, regent de l'emperador Joan IV Làscaris"
+    },
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Megas Domestikos, Regent für Kaiser Johannes IV."
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine official"
+    },
+    "it": {
+      "language": "it",
+      "value": "funzionario bizantino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ambtenaar uit Byzantijnse Rijk (?-1258)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jorge Muzalon foi um alto oficial do Império de Niceia sob Teodoro II Láscaris."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "грчки племић и политичар"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Theodoros döneminde İznik İmparatorluğu'nun yüksek kademeli yöneticisi"
+    }
+  },
+  "id": "Q49434",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جورج موزالون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جورج موزالون"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Георги Музалон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jordi Muzaló"
+    },
+    "de": {
+      "language": "de",
+      "value": "George Mouzalon"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γεώργιος Μουζάλων"
+    },
+    "en": {
+      "language": "en",
+      "value": "George Mouzalon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jorge Muzalon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Georges Muzalon"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Georgije Mouzalon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giorgio Muzalon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゲオルギオス・ムザロン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "George Mouzalon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jerzy Muzalon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jorge Muzalon"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jorge Muzalon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Георгий Музалон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Georgije Mouzalon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "George Mouzalon"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ђорђе Музалон"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Georgios Mouzalon"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "乔治·穆萨隆"
+    }
+  },
+  "lastrevid": 17455228,
+  "modified": "2025-09-16T11:09:07Z",
+  "ns": 860,
+  "pageid": 64744,
+  "sitelinks": {},
+  "title": "Item:Q49434",
+  "type": "item"
+}

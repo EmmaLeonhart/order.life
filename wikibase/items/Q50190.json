@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikeda Masatane"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50190$C6CE5AF6-8D1E-4E59-97E9-5645CCE9D904",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48417",
+              "numeric-id": 48417
+            }
+          },
+          "hash": "477edb43b9e985d690811a287dc7d8c6b97ff434",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50190$75DD117C-56C1-4271-A55E-70C1ABC7DAEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57728",
+              "numeric-id": 57728
+            }
+          },
+          "hash": "7606863a61fda340167d63b40341cef35527f140",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50190$8CC1E346-5F14-4045-80A4-F4FEBE48B0B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50190$97FE852B-547E-49D4-B8BC-2B21D3661E1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50190$CD350DAE-0070-4A02-B248-EA97381EC273",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43078",
+              "numeric-id": 43078
+            }
+          },
+          "hash": "21b49374da414e6ab87bd7734a5964fa86e49729",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50190$C8F399C9-AE0D-4242-809E-877F3458274C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50190$46E157A0-B546-451E-8FC8-A1C1AF8A4C2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1706-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cdd462b383201e5551e97790c6ce1bd65ecf097b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50190$6CFE26D2-5590-4D50-B41D-F32BBB26106A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1766-03-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4557e885301b22332afc311ad124fde0b85252b9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50190$DBBDE7C1-ACEC-4A8B-B346-867E0FB30ED4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6529316"
+          },
+          "hash": "eebb47f883412c11cfdb182aa626ce362c384638",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50190$629A9B9C-4626-4963-BC5B-CC343E75E97C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda Masatane Arms.svg"
+          },
+          "hash": "9de2256045ccad73c386bd5333ba46909a515a99",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の旗本。利重流旗本3代。子に又次郎（早世）"
+    }
+  },
+  "id": "Q50190",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ikeda Masatane"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ikeda Masatane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ikeda Masatane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ikeda Masatane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田政胤"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ikeda Masatane"
+    }
+  },
+  "lastrevid": 17456298,
+  "modified": "2025-09-16T11:24:45Z",
+  "ns": 860,
+  "pageid": 65308,
+  "sitelinks": {},
+  "title": "Item:Q50190",
+  "type": "item"
+}

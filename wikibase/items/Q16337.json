@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Settsu no Chikaaki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16337$0F89190D-DFD4-4397-A7AD-8F2BDA4A094E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17445",
+              "numeric-id": 17445
+            }
+          },
+          "hash": "11b809db37eba69c5fe3a0d4e4a41eee34715ed3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16337$FDDB9764-F448-407D-AA62-E3EC56E7EF86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16337$43F50B82-41DA-4D20-8D7C-FE72DEB4BE36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16337$DA0E5603-628B-44DC-9E7F-E14A756AA3D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16337$18980AB0-76E4-4A3A-BB99-657D85B2B76A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1333-07-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d2ddbc8640ba98f29f299140212ede2e4a2b1fe",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16337$423E4288-14DE-440E-9409-D02E8FE26B87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11498582"
+          },
+          "hash": "6a556c554eb42bbb7dc33ca9ccd6ce88438d6983",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16337$31BDFA96-8833-443F-91C1-BA5FDCDAE992",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Settsu no Chikaaki Arms.svg"
+          },
+          "hash": "bb58ac3de1762fb7e2daf46268641fd3c0c14f07",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代末期の武士・吏僚"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q16337",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Settsu no Chikaaki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "摂津親鑑"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "攝津親鑑"
+    }
+  },
+  "lastrevid": 17415920,
+  "modified": "2025-09-16T00:30:27Z",
+  "ns": 860,
+  "pageid": 38599,
+  "sitelinks": {},
+  "title": "Item:Q16337",
+  "type": "item"
+}

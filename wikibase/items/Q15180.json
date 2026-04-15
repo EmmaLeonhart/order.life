@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kanroji Fusanaga"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15180$AF37449E-5DE5-4FC5-B72C-CA991385C87C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15649",
+              "numeric-id": 15649
+            }
+          },
+          "hash": "83c82872c487b27c09ca17c9c506587e91e29804",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15180$8F06E134-C5AC-4BB5-833F-227A8F397EA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15180$04463348-BB90-4DEC-B5AA-96637948EE92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15180$1470DC31-7AED-45D8-B59B-FC490F0A1FB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14795",
+              "numeric-id": 14795
+            }
+          },
+          "hash": "2bbe2df25a85a5fed9b344f49439cdf2a2f5b98c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15180$8A92B15D-DC47-47FF-BAD1-404F79BDBCDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15180$D751566F-2849-4610-AF19-AEA7FB2F5FE8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1432-07-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e479783dabe83cc74091953e95a71dbd277a854",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15180$6CE68D82-0443-40C7-94CD-141470096551",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18226191"
+          },
+          "hash": "90921d18ec20c50409c6956cdbc394402ad5862f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15180$93CFC981-849C-4CF8-89F0-032F53B15C51",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kanroji Fusanaga Arms.svg"
+          },
+          "hash": "385b22c63673d2c839b2f4fbee3a7c75fc7d5ab9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代前期の公家。甘露寺兼長の次男。正四位上・左大弁。甘露寺家16代。子に良助（覚勝院?、東寺、僧正）"
+    }
+  },
+  "id": "Q15180",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Fusanaga Kanrodži"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kanroji Fusanaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "甘露寺房長"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "甘露寺房長"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "甘露寺房長"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "甘露寺房長"
+    }
+  },
+  "lastrevid": 17414970,
+  "modified": "2025-09-16T00:16:52Z",
+  "ns": 860,
+  "pageid": 37471,
+  "sitelinks": {},
+  "title": "Item:Q15180",
+  "type": "item"
+}

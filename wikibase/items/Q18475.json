@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakai Shigetada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q18475$B7BE65BA-8025-4985-9FE6-C02F10D33F3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27257",
+              "numeric-id": 27257
+            }
+          },
+          "hash": "a2f00d8025511c39504bdafc43bacfd07474ba01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18475$484E9BC2-5B75-4788-B124-4F24F176E617",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18425",
+              "numeric-id": 18425
+            }
+          },
+          "hash": "1be3ffa956708830d962dd360d2da8ba6ad85c7a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18475$4CCF0F9B-E2BE-43C8-AC3C-992A763491DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20129",
+              "numeric-id": 20129
+            }
+          },
+          "hash": "d8a649d6eb20bc426a512bf9f8612d8a4a62883e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q18475$22107036-68B0-4FCB-8E03-F1E27C27EA76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "酒井-33"
+          },
+          "hash": "92156537a2848d88c8966777ff72877680e167cf",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18475$04734535-6949-4875-8F79-42D6843DA8EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18475$6F682A74-26F7-44F9-A308-4C9610E731FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18475$31263FCB-7E25-4C4F-8BCE-08EE98995835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33718",
+              "numeric-id": 33718
+            }
+          },
+          "hash": "9bf2e309a5f7e4800323571cc4fe89aaadec801e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18475$DAC986E9-91E5-45F1-8D6B-79C79D2611D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18475$753564FB-B12D-420D-B60D-5321EBD3332E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1549-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "094efe0e09959affd66bacb76107d516adc081ac",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18475$B556F3A4-7906-41FC-A781-936BE2AAEC45",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1617-08-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b57538cb120fc3dfaedbc3086bacdff445916ca5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18475$6EE8B573-D41F-4A18-946F-E6988595407E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5369481"
+          },
+          "hash": "ac7db27f970ddea8c041d828ebf96d3191405c4e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18475$681A70C4-5134-4BFA-ADD5-D7ED34F5E5BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakai Shigetada Arms.svg"
+          },
+          "hash": "12ab966c597ee6c243681540e915542e9acbcc50",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代から江戸時代の武将、大名"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q18475",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakai Shigetada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒井重忠"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사카이 시게타다"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "酒井重忠"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "酒井重忠"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "酒井重忠"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "酒井重忠"
+    }
+  },
+  "lastrevid": 17417828,
+  "modified": "2025-09-16T01:16:11Z",
+  "ns": 860,
+  "pageid": 40664,
+  "sitelinks": {},
+  "title": "Item:Q18475",
+  "type": "item"
+}

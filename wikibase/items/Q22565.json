@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takigawa Toshisada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22565$13657469-058B-409D-92A9-D3E1745E44DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43439",
+              "numeric-id": 43439
+            }
+          },
+          "hash": "11888f7d5f87d91f04d076ce5280e99a41d7649f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22565$4B2FCCEF-1BAD-4C3E-9945-9D40F61833B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24772",
+              "numeric-id": 24772
+            }
+          },
+          "hash": "69fb466168d553433f40acd73450ce25e2828f9d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22565$D2816A2F-52DA-4922-B57C-78D7AAA0832B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22565$12CD45EB-6F26-457E-8216-5044543055F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22565$B41151C6-EAD7-40A5-8C4C-AA358257E25F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20633",
+              "numeric-id": 20633
+            }
+          },
+          "hash": "3e7e7c3582ef2fd05a6b2c2fe90918d3c686dde7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22565$E50795A5-9EC7-4B63-AF97-FA7394A6708F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22565$3A3C11F5-EEB9-4C16-BBB2-4B286540D609",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1609-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3e670fbb8e3780f1496ba8585196a658821c032a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22565$2500CC6A-B390-421B-B73E-E43F871E1CEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24871906"
+          },
+          "hash": "9321d79fef972399d350a4cd9a03223da79fd339",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22565$ED84AEB5-CEBA-4C78-AA5D-0DB993956888",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takigawa Toshisada Arms.svg"
+          },
+          "hash": "bf394d504f98dbe356870224e9e0714c915ccefb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士。下総守谷藩主土岐定義次男で、江戸幕府旗本滝川正利婿養子（旧常陸片野藩主家3代当主）。従五位下長門守。御小姓番頭・御書院番頭・御留守居役等を歴任"
+    }
+  },
+  "id": "Q22565",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Takigawa Toshisada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "滝川利貞"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосисада Такигава"
+    }
+  },
+  "lastrevid": 17421450,
+  "modified": "2025-09-16T02:45:18Z",
+  "ns": 860,
+  "pageid": 44550,
+  "sitelinks": {},
+  "title": "Item:Q22565",
+  "type": "item"
+}

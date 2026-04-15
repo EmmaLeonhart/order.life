@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "博山元敝 //"
+      },
+      {
+        "language": "en",
+        "value": "Bo Shan Yuan Bi  //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q43767$A1A7854B-1CC5-455F-99F0-68874EA45605",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43767$061DF7AE-2C7A-4B41-839C-85CF51DD3601",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43767$93BF9FAF-BB7A-4500-8E4B-8518405A5998",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41336",
+              "numeric-id": 41336
+            }
+          },
+          "hash": "4b7f5072e827061898e9c58af6c9f0e04bfe2054",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43767$F9C113C1-16FD-42AB-AD36-042595DD86A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41340",
+              "numeric-id": 41340
+            }
+          },
+          "hash": "0d2341931042130e51b708cb8b71ab6e61bfc11a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43767$0EFA4C3D-480A-46C0-9B28-25CC1A684C18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43767$924839CD-AAF0-4BFC-B30D-E5F6CA5E62CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1750-08-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a158e66ae1bc6379db1c4284e307a9df2badbea0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43767$3AF47FFB-AEFA-4E68-9CE7-E3A4ED9A18CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1798-01-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff5008158798ca2982abcd52919384c9e8053429",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43767$AC504AFF-F668-406F-B9C9-269382D711A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110611681"
+          },
+          "hash": "14b27151cd98027b2d262b92134451dc702a020b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "閑院宮直仁親王の八女。林丘寺"
+    }
+  },
+  "id": "Q43767",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "博山元敝"
+    }
+  },
+  "lastrevid": 17447984,
+  "modified": "2025-09-16T09:23:19Z",
+  "ns": 860,
+  "pageid": 60512,
+  "sitelinks": {},
+  "title": "Item:Q43767",
+  "type": "item"
+}

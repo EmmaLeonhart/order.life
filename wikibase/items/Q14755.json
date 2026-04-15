@@ -1,0 +1,481 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Go-Kameyama"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q14755$729AA2E5-6DE9-4C2D-8370-CE03E53EE7BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805239"
+          },
+          "hash": "0f028705b3729a4fc57a0a0350f652d7cc4de88a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q14755$65434344-0672-4F21-A99D-48E32B320B6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719909"
+          },
+          "hash": "d31b8fa4422e548dd7b32980b311a3d40e806489",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q14755$98B0A82D-7173-4C8A-B1DF-2CBC3D64DAF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15151",
+              "numeric-id": 15151
+            }
+          },
+          "hash": "59fea2c63d08f293a1648d2b7b7fe2d89ae21e31",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14755$51B51D7D-4B65-4D65-A737-21CDFACAD685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14755$D2558227-8156-4747-A2DE-30A912C9EFA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14755$4E00C8EF-8C9E-4877-B6F3-835EBA630E3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14313",
+              "numeric-id": 14313
+            }
+          },
+          "hash": "46a67372cc986d23b1082fe581f5d27d7e05c678",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14755$D8586650-4A2A-4DA4-897D-FD2F502FB262",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14753",
+              "numeric-id": 14753
+            }
+          },
+          "hash": "c04199234612448ca1e3338c25e02da83ba02e9d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14755$04569520-D942-4ABD-B4F2-522503DF9046",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14755$DDE61B80-00EF-4976-8DF0-EA20DB4AEFF0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1347-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65e847b5984f1c7c9e89aa100ef0db75b8f7ffc0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14755$AB81E21F-1DDE-4485-ABDA-5DE6940B74DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1424-05-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f94215e971066868dfe1c6876523901c7bd426dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14755$1FE7B4E2-870C-4956-8057-2AC2A471C355",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Go-Kameyama.jpg"
+          },
+          "hash": "259166156909747ecc0c32442cbdf0d83ef6e3f4",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14755$778B9CCE-AF55-4B8C-9172-3AE7CF8D028B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q451864"
+          },
+          "hash": "9c074a5c7ad4e8099e6f66e44cb19a46fd0b2763",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14755$BE876258-7C67-4C06-B66D-C8A001ABF451",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Go-Kameyama Arms.svg"
+          },
+          "hash": "4326f5cd2598e2f1ede5ff10602e00c27bf9e51b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (1347–1424)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "99. Tennō von Japan"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of Japan"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador japonés"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نودونهمین امپراطور ژاپن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第99代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (1347-1424)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский император"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare av Japan"
+    }
+  },
+  "id": "Q14755",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "قو-کامهیاما"
+    },
+    "br": {
+      "language": "br",
+      "value": "Go-Kameyama"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Go-Kameyama"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر گۆ-کامێیاما"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Go-Kamejama"
+    },
+    "de": {
+      "language": "de",
+      "value": "Go-Kameyama"
+    },
+    "en": {
+      "language": "en",
+      "value": "Go-Kameyama"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Go-Kameyama"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور گو-کامهیاما"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Go-Kameyama"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Go-Kameyama"
+    },
+    "it": {
+      "language": "it",
+      "value": "Go-Kameyama"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "後亀山天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고카메야마 천황"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Go-Kameyama Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Go-Kameyama"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Go-Kameyama"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Go-Kameyama"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Go-Kameyama"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Го-Камэяма"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Go-Kameyama"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Go-Kameyama"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Go-Kameyama"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโกะ-คะเมะยะมะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Go-Kameyama"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Go-Kameyama"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ґо-Камеяма"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Go-Kameyama"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Go-Kameyama"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "後亀山"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "后龟山天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "后龟山天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "後龜山天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "後龜山天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "后龟山天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "後龜山天皇"
+    }
+  },
+  "lastrevid": 17414674,
+  "modified": "2025-09-16T00:12:38Z",
+  "ns": 860,
+  "pageid": 37053,
+  "sitelinks": {},
+  "title": "Item:Q14755",
+  "type": "item"
+}

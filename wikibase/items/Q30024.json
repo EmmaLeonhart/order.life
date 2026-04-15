@@ -1,0 +1,496 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "unknown"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q130322$7BD85281-4466-401E-91E9-96E92BB51A8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129891",
+              "numeric-id": 129891
+            }
+          },
+          "hash": "ef532f6c7c61defb6ee41838ce153caa21f2f4c7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q130322$5B4AA84F-FC83-43DE-B25A-2374A78F9632",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130322$766A7989-273B-451A-9794-7B5810A76B3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130322$B12AE0CB-39B5-46BD-838F-1D395C88199C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130322$420EF43B-54A2-4A46-9A55-5D084D76E917",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24238356"
+          },
+          "hash": "8e64792ca90a13a3ea5ce1baf859d7514a78eb22",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130322$0D4B50AE-EE6E-4104-AB8D-7950E21F3952",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "unknown Arms.svg"
+          },
+          "hash": "797e637432cea2748427cc6b5267f8553c47e423",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شيء لا تُعرف هويته"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "існасьць, чыя ідэнтычнасьць невядомая"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "(existující) entita, jejíž identita není známa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Entität, deren Identität nicht bekannt ist"
+    },
+    "el": {
+      "language": "el",
+      "value": "οντότητα της οποίας η ταυτότητα είναι άγνωστη"
+    },
+    "en": {
+      "language": "en",
+      "value": "entity whose identity is not known"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "entity whose identity is not known"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "ento kun nekonata identeco"
+    },
+    "es": {
+      "language": "es",
+      "value": "entidad cuya identidad es desconocida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ce qui manque à la connaissance"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "olyan entitás, aminek nem ismert a miben- vagy kibenléte"
+    },
+    "it": {
+      "language": "it",
+      "value": "entità con identità sconosciuta"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "その正体が不明なエンティティ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "својство на непознатост"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "entitet hvis identitet ikke er kjent"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "entiteit met onbekende identiteit"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "entidade cuja identidade não é conhecida"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "care nu este cunoscut"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "entiteti, identiteti i të cilit nuk dihet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "kimliği bilinmeyen varlık"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "сутність, чия ідентичність не відома"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thực thể có đặc tính không rõ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "物品身分不明，倘若為「待確認」請使用Q59496158"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "物品身分不明，倘若為「待確認」請使用Q59496158"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "物品身分不明，倘若為「待確認」請使用Q59496158"
+    }
+  },
+  "id": "Q130322",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مجهول"
+    },
+    "az": {
+      "language": "az",
+      "value": "bilinmir"
+    },
+    "be": {
+      "language": "be",
+      "value": "невядомае"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "невядомы"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "অজানা"
+    },
+    "br": {
+      "language": "br",
+      "value": "dianav"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "desconegut"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "نەزانراو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "není známo"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "anhysbys"
+    },
+    "da": {
+      "language": "da",
+      "value": "ukendt"
+    },
+    "de": {
+      "language": "de",
+      "value": "unbekannt"
+    },
+    "el": {
+      "language": "el",
+      "value": "άγνωστο"
+    },
+    "en": {
+      "language": "en",
+      "value": "unknown"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "unknown"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "nekonata"
+    },
+    "es": {
+      "language": "es",
+      "value": "desconocido"
+    },
+    "et": {
+      "language": "et",
+      "value": "tundmatus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "ezezaguna"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ناشناخته"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "tuntematon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "inconnu"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "ûnbekend"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "anaithnid"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "descoñecido"
+    },
+    "he": {
+      "language": "he",
+      "value": "לא ידוע"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "अनजान"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ismeretlen"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "անհայտ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "անյայտ"
+    },
+    "id": {
+      "language": "id",
+      "value": "tak diketahui"
+    },
+    "io": {
+      "language": "io",
+      "value": "nekonocata"
+    },
+    "it": {
+      "language": "it",
+      "value": "ignoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "不明"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알 수 없음"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "onbekannt"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "nonsabeda"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "nežinoma"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "nezināms"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "непознато"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "mhux magħruf"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "ukjent"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "onbekend"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "ukjend"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "nieznany"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "desconhecido"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "necunoscut"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "неизвестное"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "unkent"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "nepoznato"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "neznano"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "panjohur"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "непознат"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "okänd"
+    },
+    "th": {
+      "language": "th",
+      "value": "ไม่ทราบ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "bilinmeyen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "невідоме"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "desconosesto"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "không rõ"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "nesevädik"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "不明"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "未知"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "不明"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "不明"
+    }
+  },
+  "lastrevid": 17543255,
+  "modified": "2025-09-17T08:29:12Z",
+  "ns": 860,
+  "pageid": 158239,
+  "sitelinks": {},
+  "title": "Item:Q130322",
+  "type": "item"
+}

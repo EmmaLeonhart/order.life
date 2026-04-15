@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kōgyokuin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q30219$C72054A2-3406-458A-AF19-C4367157C35D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30219$E4F662BC-D817-421A-9116-FDDB144C2371",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q30219$77D37505-765E-4A18-A1F1-D3512D9FCCDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17125",
+              "numeric-id": 17125
+            }
+          },
+          "hash": "7b5cf37c374381e355474f930fb06adebc88f185",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30219$181DF1DD-CAEB-4510-8FEA-34109F806ABF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q30219$7C23C58D-10AC-4EE7-AC69-BB87D0272A11",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4993a8d02f5e2402e4e00dfd0ac872af9ca2b33",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30219$1C0539DC-C723-4AC6-A6FE-4EB3502636D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1673-09-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb485b47e1a035cadf518f405f5906b5c03aa321",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30219$3CCA2D45-16DA-48CE-BEA9-3A9C9C937CA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7004274"
+          },
+          "hash": "a3f31193abc716e568a30ef9cbb27b23a7559b93",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30219$B4A09FBE-B181-433B-82F2-796262BB1B84",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kōgyokuin Arms.svg"
+          },
+          "hash": "157e36385030336a0ee27d4b9b162251d369a78a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Spouse of a daimyo in Japan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大名の妻"
+    }
+  },
+  "id": "Q30219",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kōgyokuin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kōgyokuin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kōgyokuin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kōgyokuin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紅玉院"
+    }
+  },
+  "lastrevid": 17429750,
+  "modified": "2025-09-16T05:00:54Z",
+  "ns": 860,
+  "pageid": 50380,
+  "sitelinks": {},
+  "title": "Item:Q30219",
+  "type": "item"
+}

@@ -1,0 +1,385 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Xiaomin of Northern Zhou"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q21151$828320E8-D670-42AB-8107-6499024344CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1443286"
+          },
+          "hash": "29cce53b9156aa422b7595fa1c3e48b80f6cf535",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q21151$FA4C7768-3B25-4F37-B036-ECB1E623687B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23207",
+              "numeric-id": 23207
+            }
+          },
+          "hash": "827315112f788271e21e95d5e298584b87cec127",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21151$DB516E4E-DAD2-4F46-8FE8-7B0CABCF49DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21151$0B5BE4F7-2C22-4EA8-AFDE-D36F1CC17507",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q21151$F6BCEB86-E4AF-41A4-BD0E-9EE12EA2BD18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23206",
+              "numeric-id": 23206
+            }
+          },
+          "hash": "d8957c3b210e87438dccc6297b4c784b2fef51e7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21151$007E1E47-195D-4D62-B407-29BF20CB94AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21142",
+              "numeric-id": 21142
+            }
+          },
+          "hash": "35e671cd4d0bcb3f05fd8a0a48aa4aeca40c7244",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q21151$E503FCEE-9197-4808-B352-0837B4EA8771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40544",
+              "numeric-id": 40544
+            }
+          },
+          "hash": "16cbe63aecf0b78bc7b2c82e282e208680b4a469",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21151$771913DA-5211-49AB-996A-134F5D86489F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21151$AD77631F-617F-433C-BD06-4E0094A69A80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0542-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b830d0ea66746d15150f99fb9bf12c129933f3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21151$FC3E0B0D-16B4-468C-B45C-EFC9175B3051",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0557-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaa3b23582934e4597f784d026aa7fb0c5d5f105",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21151$00A7BE7E-CD8E-4846-A610-3AFD9ADB7C53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1149222"
+          },
+          "hash": "b4a5ae2e6cb3acc1307d99cd49483f229433d4ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q21151$B9A359A2-6631-4E11-A39E-648375924A60",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075367162914"
+          },
+          "hash": "5566d440d9b6145e73e0b8a6b9c89875baed8d88",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21151$AB7B3508-0F79-4852-A4C0-ABBAB060798B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Xiaomin of Northern Zhou Arms.svg"
+          },
+          "hash": "8111b7321ab7b0738c7c6f725c3909aad9b1fc8b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Zhou emperor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur des Zhou du Nord"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer uit Noordelijke Zhou-dynastie (0542-0557)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Північної Чжоу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "北周皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "北周皇帝"
+    }
+  },
+  "id": "Q21151",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Emperor Xiaomin of Northern Zhou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperor Xiaomin of Northern Zhou"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur Xiaomin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "孝閔帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "우문각"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "周孝閔皇帝"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chiu Hàu-bín-tè"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Emperor Xiaomin of Northern Zhou"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сяо Минь-ди"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Xiaomin od Sjevernog Zhoua"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Xiaomin of Northern Zhou"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิเสี้ยวหมิน"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юйвень Цзюе"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Bắc Chu Hiếu Mẫn Đế"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "宇文覺"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周孝闵帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "宇文觉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "宇文覺"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "宇文覺"
+    }
+  },
+  "lastrevid": 17420060,
+  "modified": "2025-09-16T02:12:42Z",
+  "ns": 860,
+  "pageid": 43211,
+  "sitelinks": {},
+  "title": "Item:Q21151",
+  "type": "item"
+}

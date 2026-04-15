@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nagami Nagayori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q17146$DE8D1B4B-CCD4-4BDC-95AB-C0516B490E39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17146$D9D8B941-807C-4F28-815A-3BF6A3C4A7F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17146$16E9DD5F-3CF3-449A-9274-B096AFB28809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30280",
+              "numeric-id": 30280
+            }
+          },
+          "hash": "e624e0259beddebc0aaefbc1f4a7d7c31aad68af",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17146$118E9EC8-6237-441B-B321-E059E2D8F5A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16132",
+              "numeric-id": 16132
+            }
+          },
+          "hash": "c50ab6498698363d8b571c62834aebc7df6a9d29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q17146$A1570CBF-D944-4367-BCAD-D4A5B835BBBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27335",
+              "numeric-id": 27335
+            }
+          },
+          "hash": "bde3473fd8b77ed92bdd1b667422421dfe25178e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17146$3D99FAB9-2ADC-4EEA-8087-46D89ECA41A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17146$8C952C2B-ED05-489C-8527-175AB2DD5150",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1630-03-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f364ce6d66e4816924288b88077dc475ce54699e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17146$4BF0F6A3-0C93-46C6-B468-CF4B11A9028D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1667-10-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ed637f87edadb540a53a4d67135301ec9a6476b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17146$12E1EFA5-75A1-425D-870F-5E46774F3405",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11550347"
+          },
+          "hash": "e056d91d189bc43afa3402a002ce35820d7aa050",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17146$DFFC0953-84A3-4DAA-A9EC-08AE891EB166",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nagami Nagayori Arms.svg"
+          },
+          "hash": "c35aec03924252327c709f57948cebdc849698ed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q17146",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nagami Nagayori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "永見長頼"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагаёри Нагами"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nagami Nagayori"
+    }
+  },
+  "lastrevid": 17416692,
+  "modified": "2025-09-16T00:47:39Z",
+  "ns": 860,
+  "pageid": 39384,
+  "sitelinks": {},
+  "title": "Item:Q17146",
+  "type": "item"
+}

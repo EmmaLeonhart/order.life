@@ -1,0 +1,446 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Iwa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q6986$EB41F23F-A047-4790-AE17-1FCC6CE1478F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00524451"
+          },
+          "hash": "8504775c4f83f9d268277a224217c101f447039a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q6986$1BA16E5C-B248-4E31-9D00-C2CE48BCE82B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7002",
+              "numeric-id": 7002
+            }
+          },
+          "hash": "c7abcff7bdacaecd813fe9b55b0ff11c7898a6fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6986$6ED8BCA9-3E4B-4645-8425-C118FAAC8020",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7003",
+              "numeric-id": 7003
+            }
+          },
+          "hash": "b7ce4aeb11bfebfd2a8a0341c0de6109397f45c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q6986$7796BB2B-860C-4C92-AAA4-5274F80C6BE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6986$DBC54E08-190C-4328-8DAD-C1E09B9360FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q6986$7DDC9115-1703-4CF8-8EFF-A218C4831E90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6950",
+              "numeric-id": 6950
+            }
+          },
+          "hash": "01047203f3da2ccfbca9bbc4b91b7281926cc938",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q6986$08134338-18EB-40DE-951A-85BCFCAB6685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6929",
+              "numeric-id": 6929
+            }
+          },
+          "hash": "675cf712d5cef9127d905fafa53dd9d16a14dffd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6986$603728C1-911F-4BEE-893D-A0208A6A4425",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6986$2C919937-1CE4-46E1-B32E-D8B379776525",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f753de8b3f64d4554c9a9c2d82153e2f7553a5c1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6986$0A8616B1-F8C6-4EE0-AB6C-6A60DFB91777",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0347-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "faadbc337264483933189c39ef5486c902f130b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6986$2B3CB093-FA76-4C93-A01C-46513A805931",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1066593"
+          },
+          "hash": "49851dd08dc1ae407eef99d010283c5bb9a4a79b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6986$06DD1F49-D9D3-4A20-9756-8087F7B2B61E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Iwa Arms.svg"
+          },
+          "hash": "acb0f35d42686c19fcd25a2e72456d8b950d59f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعرة يابانية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponesa"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poetessa japonesa"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese poet"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese poet"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poetisa japonesa"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poétesse japonaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poetisa xaponesa"
+    },
+    "he": {
+      "language": "he",
+      "value": "משוררת יפנית"
+    },
+    "it": {
+      "language": "it",
+      "value": "poetessa giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "古墳時代の皇妃。仁徳天皇の4人の皇后のうちのひとり"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (?-)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poetisa japonesa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poetă japoneză"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская императрица при 16-м императоре, поэтесса IV века"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poete japoneze"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (250 – 347)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японська поетка"
+    }
+  },
+  "id": "Q6986",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Iwa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Iwa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهدخت ایوا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Iwa"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Princess Iwa"
+    },
+    "he": {
+      "language": "he",
+      "value": "הנסיכה יאה"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "磐之媛命"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이와노히메노미코토"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Princess Iwa"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Iwa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Императрица Иванохимэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Princess Iwa"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจ้าหญิงอิวะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Prenses Iwa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператриця Іванохіме"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Iwa no Hime"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "磐之媛命"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "磐之媛命"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "磐之媛命"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "磐之媛命"
+    }
+  },
+  "lastrevid": 17406869,
+  "modified": "2025-09-15T22:27:49Z",
+  "ns": 860,
+  "pageid": 29481,
+  "sitelinks": {},
+  "title": "Item:Q6986",
+  "type": "item"
+}

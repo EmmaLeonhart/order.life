@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wang U //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q37845$C467DD77-CADC-41B7-B3CD-17E56DEA0AFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39428",
+              "numeric-id": 39428
+            }
+          },
+          "hash": "7fc70682ade2d1b55d119bb57df493b4b90ef187",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37845$C08C52D4-350C-4D7F-9501-63DD6F917D3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37845$E860390F-6996-40C3-91BB-90AFB164FD4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37845$13B91DB0-514C-4F5A-ACA1-4F4C43B2DE8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38661",
+              "numeric-id": 38661
+            }
+          },
+          "hash": "ebf2d2039ca71cfbba7e3a0beb039a2ac77fda27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37845$5D6CDC6C-198F-469B-B148-287B00EF5E7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36755",
+              "numeric-id": 36755
+            }
+          },
+          "hash": "da4019583138132d940777f9a61e2cf26c4be693",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37845$0AA895C4-C3D1-40D7-AA47-1CFB54FB0AFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37845$CEF608E0-28F4-4EEE-B860-23DAC62ABDFF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1397-03-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10f27f1a572f6909c523ad132bf66beb17018d8b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37845$176F887D-D35C-4CDD-AEFA-5B33B2078923",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12608460"
+          },
+          "hash": "76c744fd9d027c59cafc3605c58e07b8ea3a8c15",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37845$B4FDFD94-6414-44AE-9CB2-2F5BB4277A94",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wang U Arms.svg"
+          },
+          "hash": "c3d5264433670836c39f8ffff48d2b3f2944b1b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Goryeo royal"
+    }
+  },
+  "id": "Q37845",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wang U"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prince Jeongyang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wang U"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wang U"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prince Jeongyang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "王ウ (高麗王族)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "왕우 (고려 왕족)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Prince Jeongyang"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Prince Jeongyang"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Prince Jeongyang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王瑀"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "定陽君王瑀"
+    }
+  },
+  "lastrevid": 17440458,
+  "modified": "2025-09-16T07:36:21Z",
+  "ns": 860,
+  "pageid": 56080,
+  "sitelinks": {},
+  "title": "Item:Q37845",
+  "type": "item"
+}

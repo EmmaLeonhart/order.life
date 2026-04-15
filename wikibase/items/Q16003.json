@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ohatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q16003$5AD0D264-185F-469C-98FE-E366343B2062",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "淺井-3"
+          },
+          "hash": "7e38f2906fba498f8da0c990a3e178d158497c33",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16003$1265D66C-059C-4727-B007-81743B51C7D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16003$86468C72-BCB0-4863-8F23-9B0372D37F58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16003$716D2CEC-72EF-4695-97D8-8951517BDFDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15997",
+              "numeric-id": 15997
+            }
+          },
+          "hash": "1d49abb711cd2fc8b7fb3b3cf4685f0459558386",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16003$7B6EDB4A-0571-441F-AF70-E537EADCD784",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15998",
+              "numeric-id": 15998
+            }
+          },
+          "hash": "7cc92fba070ce50ecf0d50349bcccc9f21aaad5a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16003$6B4D1766-ABDD-4075-9807-FEC236EA7065",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16003$8CF2AB7E-2234-4C40-A921-5946D3458054",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1570-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad299a2bd25344f922b32a5acc0e1f3a58078b7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16003$510A642C-ACCC-4F31-9943-81B85DD24D10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1633-09-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db5276c4ec021748bb97af7ca1f8ac95ca72d89c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16003$0EC73943-CA3F-4013-8D74-9C8821E72695",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Azai Ohatu.jpg"
+          },
+          "hash": "6d7c3ee2a67abbdd259d4ea758ca8df34cf80b98",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16003$199E3283-7A5A-416C-8178-1DA9FB7923EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1050395"
+          },
+          "hash": "275b4f009663595253b05e5653fb9a748dccd93c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16003$BEF4A0E6-E77C-458F-AD30-5FA9BC120857",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ohatsu Arms.svg"
+          },
+          "hash": "9f8518d4435d35778456c98d875cf65fc07ebcdd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponesa (1570–1633)"
+    },
+    "en": {
+      "language": "en",
+      "value": "prominently-placed figure in the late Sengoku period"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rubén Darío Argüello es un importante productor de artículos y producciones bibliográficas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate japonaise des XVIe-XVIIe siècles"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国～江戸時代の女性、武将・京極高次の正室"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samoerai uit Tokugawa-shogunaat (1570-1633)"
+    }
+  },
+  "id": "Q16003",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ohatsu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Džókóin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ohatsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ohatsu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوهاتسو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ohatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "常高院"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "죠코인"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ohatsu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ohatsu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Охацу"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ohatsu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "常高院"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "常高院"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "常高院"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "常高院"
+    }
+  },
+  "lastrevid": 17415638,
+  "modified": "2025-09-16T00:26:08Z",
+  "ns": 860,
+  "pageid": 38277,
+  "sitelinks": {},
+  "title": "Item:Q16003",
+  "type": "item"
+}

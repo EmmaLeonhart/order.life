@@ -1,0 +1,230 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sa'd II ibn Abi Bakr //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q41024$454A1FEC-9F9F-4024-A0BA-5F22D616997C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1470515"
+          },
+          "hash": "908ed23e725b55ba8c58866af13865f7a5feaee2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q41024$A64167AF-2CAD-41E6-A587-05BF766A440B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39146",
+              "numeric-id": 39146
+            }
+          },
+          "hash": "8139621f90fe073eb62c029e2aaadafa0b5b0f4a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q41024$7CB218BB-ECF3-4246-B40E-6605ADC52BAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41024$D4E2C897-1F39-46AF-BB00-882AD01993B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q41024$DCEA46A1-35D3-486E-9F33-C5E31F89968A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q41024$08DDB0DB-43E8-40E1-8F47-D2A266ED2E77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1260-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9a6323c19693adbb3745bd6008faf6662db97e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q41024$B7D4C2F8-FC2E-4374-BD59-A5E6877EFDA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20101721"
+          },
+          "hash": "c9e9767584f5bd9720df9c8e5e7c8dc321c202e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q41024$535C00F7-1E66-40AC-908F-C8F4B258AC1F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sa'd II ibn Abi Bakr"
+          },
+          "hash": "f35e8a8ec6c442890d50563daf8d80c93a6dcf85",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q41024$CC7B8D55-9338-4D56-A4FA-84C66D51D3D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sa'd II ibn Abi Bakr Arms.svg"
+          },
+          "hash": "64c7b7bea0bc668cb4316c6f5952786b69d266ec",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "حاكم سلغوري لفارس"
+    },
+    "en": {
+      "language": "en",
+      "value": "atabeg of Salghurids of Fars (r. 1260-62)"
+    }
+  },
+  "id": "Q41024",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سعد الثاني"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sad II ibn Abi-Bakr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sa'd II ibn Abi Bakr"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sa'd II ibn Abi Bakr"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sad II ibn Abi Bakr"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sa'd bin Kutluğ Han"
+    }
+  },
+  "lastrevid": 17444424,
+  "modified": "2025-09-16T08:32:25Z",
+  "ns": 860,
+  "pageid": 58456,
+  "sitelinks": {},
+  "title": "Item:Q41024",
+  "type": "item"
+}

@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Yuanyi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16487$274FC2EC-F3B5-4D31-871A-90454155017C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28382",
+              "numeric-id": 28382
+            }
+          },
+          "hash": "b2377f07a2e9ec7e66d86608c8384efc29d2f5bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16487$9A6A8F3E-3F42-4E23-A8B2-FD320BE9B07D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17752",
+              "numeric-id": 17752
+            }
+          },
+          "hash": "fb4a59f0388aa5d73ffc6c7b65e499975db455bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16487$9658E1B1-2496-4D5B-86D4-8DB3B0AAEF5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16487$27420A9E-4E32-4670-BC9B-15BCC58E61BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16487$9E400803-2E21-475C-BFED-8A16BB1AA699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16459",
+              "numeric-id": 16459
+            }
+          },
+          "hash": "d3ee72d847451d518c04abac588f115bce176ef9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16487$FD214480-CD91-423B-B58A-AB94AEFDCDB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16487$2BFB6C49-B8F6-4CBA-90AE-95DA6D76838A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0673-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f61443285476c2a92654681c4632bd4e21c30563",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16487$D06EF2D3-4CED-471B-92DA-D607AC3E1E09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10332683"
+          },
+          "hash": "7db0fc66a1ba47774c58298300e7819eca052cd8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q16487$F00FB49F-2153-4C2F-A77A-E046E402C36F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075060910838"
+          },
+          "hash": "121e29b3edd57c2ced715a3527aea436428d28ff",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16487$48881CC3-3D96-41B8-878F-C5CAAC5BF155",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Yuanyi Arms.svg"
+          },
+          "hash": "2671bfe04d02a127e8b7bff963c0a2822431e7ae",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Gaozu emperor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver uit Tang-dynastie (?-673)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын китайского императора Гаоцзу"
+    }
+  },
+  "id": "Q16487",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yuanyi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Yuanyi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Li Yuanyi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李元懿"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李元懿"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Yuanyi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ли Юаньи"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李元懿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李元懿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李元懿"
+    }
+  },
+  "lastrevid": 17416074,
+  "modified": "2025-09-16T00:32:42Z",
+  "ns": 860,
+  "pageid": 38745,
+  "sitelinks": {},
+  "title": "Item:Q16487",
+  "type": "item"
+}

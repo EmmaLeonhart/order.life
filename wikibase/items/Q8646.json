@@ -1,0 +1,157 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Masaaki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8646$54BE612D-6838-4979-ACA2-1E77A8DB8C8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8646$0B652A61-4FC6-4149-9B4C-BC3D9C0BE1FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8646$D00B24A5-234B-4A74-BEF7-B1265A108833",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8646$D503F3EA-76A7-494F-876C-B84FF536FA29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0893-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ba8b292a76d1198c6239cbf4bcc2d0be7f59bcd4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8646$ADE9A232-81F3-4AA1-A48B-DD80FFA9A07E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0958-03-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3839ffc8fc5cf2d355f75100d0cf85762cf4473f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8646$EEDB15FC-918A-4458-9635-38C91651A09A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17214213"
+          },
+          "hash": "ff8d6cc5e7fad6497cf2674b55aedc6728a608a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8646",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Masaaki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源正明"
+    }
+  },
+  "lastrevid": 17409282,
+  "modified": "2025-09-15T22:58:03Z",
+  "ns": 860,
+  "pageid": 31131,
+  "sitelinks": {},
+  "title": "Item:Q8646",
+  "type": "item"
+}

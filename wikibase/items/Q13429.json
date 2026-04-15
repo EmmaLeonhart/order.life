@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nitta Masayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q13429$5BE8CFFF-3E87-42D6-A9D4-E5C3CDC79891",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814583"
+          },
+          "hash": "b1626648e72b69616ec5d235e65d399f1a4046b4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13429$0675AEA1-61EE-4C96-901F-83267C58CB12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13429$91EC63EA-101F-4C6C-B1DB-87449FFD8D98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13429$550D7EB7-2802-4089-ADBF-4D0A08226694",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12726",
+              "numeric-id": 12726
+            }
+          },
+          "hash": "90cc5cb4148a81bb9679b21d32a2b1099ba9646a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13429$91E4079B-9506-4564-95DA-D78E449A9398",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13429$B4FD3A15-D651-4CD2-A0C7-D77A1BB0B451",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1187-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "673651b6d3873c497d681b17012173fd2053b0cb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13429$17A21566-1BED-4224-9118-F32092944D13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1257-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2779ead7ad60fd734e162a92ca5f97799a96526b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13429$61B9825B-6CD2-477C-9719-543106857882",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11503730"
+          },
+          "hash": "f71c92ba5ac717a907033bd64228920feabb6340",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13429$7C39C384-F11E-4984-9CEC-182E353B43D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nitta Masayoshi Arms.svg"
+          },
+          "hash": "8217a7f82413e6de380e5ca82e5062795cba49d5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q13429",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nitta Masayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "新田政義"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масаёси Нитта"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "新田政義"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "新田政義"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "新田政義"
+    }
+  },
+  "lastrevid": 17413994,
+  "modified": "2025-09-16T00:03:26Z",
+  "ns": 860,
+  "pageid": 35748,
+  "sitelinks": {},
+  "title": "Item:Q13429",
+  "type": "item"
+}

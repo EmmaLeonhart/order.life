@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nisshin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22657$DA49721A-AD75-4F42-8AB3-A90412515526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22657$C950F7DB-47D7-4061-AA5B-F7600363CB0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22657$CED1D875-B963-42FA-AE4D-B273801CA8C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20736",
+              "numeric-id": 20736
+            }
+          },
+          "hash": "23f730313afc90832d09601f2ce743badad7fa41",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22657$8C638B13-DBBD-4CD4-937A-6FB0D8E089AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22657$2C6D70C3-C775-41C0-8D66-087317B10E5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1561-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20bdfceaba1eac58225dbab2871877add3e9fd04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22657$2A5635CE-8E7E-4CF5-9545-1B503FCDDED5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1617-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0f855dd11db9f10fcb5706aa1bb00a3208f518a3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22657$103D7501-EE2F-4244-9DD9-F60DB69F9E97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11509955"
+          },
+          "hash": "8e2ce663f23e0e9c3dd023aad41e7ae49be34f89",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22657$0A8F6B4C-84E4-4400-8201-6E83CE7278CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nisshin Arms.svg"
+          },
+          "hash": "fc6226f5eccf1d5afe8da30cd1fc6c38604b764f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代、安土桃山時代の日蓮宗の高僧"
+    }
+  },
+  "id": "Q22657",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nisshin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日禎"
+    }
+  },
+  "lastrevid": 17421496,
+  "modified": "2025-09-16T02:47:22Z",
+  "ns": 860,
+  "pageid": 44636,
+  "sitelinks": {},
+  "title": "Item:Q22657",
+  "type": "item"
+}

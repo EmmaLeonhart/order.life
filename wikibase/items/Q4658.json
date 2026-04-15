@@ -1,0 +1,395 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pygmalion of Tyre"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135118$03E184E8-FE32-44EF-B10A-85AB0CCAD5C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "440569"
+          },
+          "hash": "a3b11ce99cc03fc8b01feb9d475aec37d9ef36e7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135118$51687BB8-09FC-4853-B928-61CAA5E83EA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135146",
+              "numeric-id": 135146
+            }
+          },
+          "hash": "2cdd60ce0d2d6998595b16f15fe989dbb1543494",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135118$D753C703-F13B-452A-A96F-51D9E3364276",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135118$3E354664-E284-4AA8-9FB4-F01ACC5DFBF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135118$DDBCC2E9-A7A9-43DE-A342-208CD1A321BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135145",
+              "numeric-id": 135145
+            }
+          },
+          "hash": "2ebf4f9ec047d93c3ba64cf622141194f1ec0c73",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135118$82448DEF-F024-49BE-A533-A9D0F82095C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135093",
+              "numeric-id": 135093
+            }
+          },
+          "hash": "baad69334905ffd32d26416700a8f56dc07ff97c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135118$CC8BC8B6-96BA-4E21-8B8C-BD6B50887483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135118$2A43CD2A-B964-44E6-963E-8E2B47AB5F80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0774-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d7403e7ab1889225ff6a3a5a3a8e0acffd4ace5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135118$928FEEF2-E2BE-486E-AC31-CD75755E0A7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1879787"
+          },
+          "hash": "fde671ca79086d1ee632e731cce26c3d980a7f94",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135118$9CFBCF6B-1C27-4E7B-84CD-90B1CE26CF0C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pygmalion of Tyre Arms.svg"
+          },
+          "hash": "2f31cb84e1a971a6da4b4ebbb26e3fba5b0baa9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de Tir"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Tyre"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Tiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, roi de Tyr"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Tiro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać z mitologii greckiej, brat Dydony"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi Sur kralı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "особа з грецької міфології, брат Дідони"
+    }
+  },
+  "id": "Q135118",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pigmalion"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بجماليون (ملك صور)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пігмаліён"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пигмалион"
+    },
+    "br": {
+      "language": "br",
+      "value": "Pygmalion"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pigmalió"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pygmalion z Týru"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πυγμαλίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pygmalion of Tyre"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pigmaliono el Tiro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pigmalión"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پیگمالیون صور"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pygmalion"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πυγμαλίων"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיגמליון מלך צור"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pügmalión"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pigmalion dari Tirus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pigmalione di Tiro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pygmalion van Tyros"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pigmalion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pigmalião de Tiro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пигмалион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pigmalion od Tira"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pygmalión"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Пигмалион (краљ)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Surlu Pygmalion"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пігмаліон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pygmalion xứ Týros"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "皮格马利翁"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "皮格马利翁 (泰尔)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "皮格马利翁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "皮格馬利翁 (泰爾)"
+    }
+  },
+  "lastrevid": 17550994,
+  "modified": "2025-09-17T10:16:50Z",
+  "ns": 860,
+  "pageid": 163503,
+  "sitelinks": {},
+  "title": "Item:Q135118",
+  "type": "item"
+}

@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Yorinaga"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q18182$F162174D-F4E6-4C52-9784-A79D209818D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33002",
+              "numeric-id": 33002
+            }
+          },
+          "hash": "b938ac595c46dc79f99a53cb63ea92d4cbe8cb3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18182$B32E0ACA-D806-4BB4-86D9-5241059E0C44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32998",
+              "numeric-id": 32998
+            }
+          },
+          "hash": "08f903d995e61b623e531a8a963d592b01704c12",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18182$F862B51A-3134-4DE6-8C1A-88C603EA2B58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18182$DD80F0F3-60EC-4725-BBCA-AADDDECE7B99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18182$25CF8363-A50D-4317-BB69-A169F657D2F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16834",
+              "numeric-id": 16834
+            }
+          },
+          "hash": "653ca3c934200e72c1756c21cc96f53643f75171",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18182$8B3CCCDA-21F5-42A1-9905-DDDEC84FAC37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18182$0781EABA-E1A8-4CA1-B476-7D1935151919",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1582-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5fb1b2e3239111e3f4251e57a7e5181ba48e8d0c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18182$CAFFD678-A2B5-4F38-91B8-1383722F0A13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1620-10-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8541aee63d940eeda6741ea11921d483191f7fb8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18182$5E417B77-F2B2-4978-8A96-E81D15D12E0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608468"
+          },
+          "hash": "434494dae4422a0a1ace11d4f78718c03eaeef14",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18182$1A4AE949-D64C-4441-9907-668544CCBA83",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Yorinaga Arms.svg"
+          },
+          "hash": "93de9ae20b56112b7218c7a906c75a57b33aa20b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代初期の武将・茶人。豊臣氏の家臣。従四位下・侍従。織田長益の次男"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q18182",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oda Yorinaga"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اودا یوریناگا"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田頼長"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёринага Ода"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赖长"
+    }
+  },
+  "lastrevid": 17417580,
+  "modified": "2025-09-16T01:09:50Z",
+  "ns": 860,
+  "pageid": 40382,
+  "sitelinks": {},
+  "title": "Item:Q18182",
+  "type": "item"
+}

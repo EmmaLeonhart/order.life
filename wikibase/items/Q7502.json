@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takano no Niigasa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7502$A4F8CAB1-796B-424A-A699-93208D6C9643",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00524430"
+          },
+          "hash": "38022d15f8481aac154fa22059878bb45673026c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7502$9FE357D9-B179-4EEB-916D-CDBBFB8DD16B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7507",
+              "numeric-id": 7507
+            }
+          },
+          "hash": "8ff3e49a86aac63361428d947b3316b0af491c82",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7502$084FC3BA-359D-4ED7-B9FF-1E4A25C20E12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7508",
+              "numeric-id": 7508
+            }
+          },
+          "hash": "bb2efb5eb0f134a459179138209ac6340e437d5a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7502$A0D474BF-70F8-4C89-B147-F175FA98E795",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7502$9C7F162C-B3F2-4210-8E79-D42A74FFBC9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7502$B07DD244-DE64-46BE-88E3-A6EEAE32ADB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7687",
+              "numeric-id": 7687
+            }
+          },
+          "hash": "6b7fb4ee483bee1ca63d72cd49076c827337b9bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7502$06704A0E-057E-4657-A30A-C8178EB51914",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7688",
+              "numeric-id": 7688
+            }
+          },
+          "hash": "7ed53631ecb8644c6dcded45ca37605756a40161",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7502$78C3B445-2E03-48F2-BE57-9C762E6C44C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7502$E6EC4575-1D46-4F04-A569-A52C2FB04D40",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0720-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4addebb741792b99ed934eb002184d1fd4908a5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7502$61D5E761-5363-4D9C-8A01-30F3DDD9C79A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0790-01-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7bcbb6416f7c9ef5a394454fae4319da3839833",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7502$1797B2F8-1AD2-4946-89FA-53AA1C1DECDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7677188"
+          },
+          "hash": "f4da80fa82abfb0cd600841174373ac7d64bbe07",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7502$CB1405D3-6896-4A4A-AF16-328ECC4AA635",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takano no Niigasa Arms.svg"
+          },
+          "hash": "0070f90e2c0bf458674f3175682669d241229ce4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noblewoman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "concubine de l'empereur Kōnin du Japon et mère de l'empereur Kanmu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "光仁天皇の宮人・夫人・皇太夫人。贈皇太后、贈太皇太后"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "мать императора Тэмму"
+    }
+  },
+  "id": "Q7502",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takano no Niigasa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takano no Niigasa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takano no Niigasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takano no Niigasa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takano no Niigasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "高野新笠"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다카노노 니가사"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Takano no Niigasa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такано-но Ниигаса"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Takano no Niigasa"
+    },
+    "th": {
+      "language": "th",
+      "value": "ทะกะโนะ โนะ นีงะซะ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "高野新笠"
+    }
+  },
+  "lastrevid": 17407439,
+  "modified": "2025-09-15T22:35:00Z",
+  "ns": 860,
+  "pageid": 29995,
+  "sitelinks": {},
+  "title": "Item:Q7502",
+  "type": "item"
+}

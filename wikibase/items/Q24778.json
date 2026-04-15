@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "小早川興景"
+      },
+      {
+        "language": "en",
+        "value": "Xiao Zao Chuan Xing Jing"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q43451$170AC25C-93F8-4712-9E97-BE38ED822106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43451$FFDAC559-71DB-47BE-B27F-17A6E074AB22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q43451$CA1810F6-149D-43FF-B2D8-7F5D2C14EDBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39155",
+              "numeric-id": 39155
+            }
+          },
+          "hash": "651cd3af4ae6d52522a7a0f5fef46ad028e6326b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43451$2B07134F-E5F6-40E3-8223-7699DBCD0842",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50610",
+              "numeric-id": 50610
+            }
+          },
+          "hash": "66bb0ab3712c971f4b42898acdb25e6a9507c5d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43451$9EB930CF-F54D-4217-8A50-DEFBC924D4D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43451$D8B9CE59-A577-41E1-B372-2079B2116710",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1519-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c51277701284f93d5e1761c49e2931a79b73b7b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43451$80AFB198-2685-4625-A6FE-22C388716A2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1541-05-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e13b211f85ff29bd569fb3673b931a5a69af2098",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43451$E9F1889C-3E14-40FA-9E89-21D627949CFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11460864"
+          },
+          "hash": "9e7dfdd9a5ed42de7ee2602a4772324dec3cbe8e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。安芸の国人領主。竹原小早川氏13代。中務少輔"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q43451",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "小早川興景"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小早川興景"
+    }
+  },
+  "lastrevid": 17447592,
+  "modified": "2025-09-16T09:17:25Z",
+  "ns": 860,
+  "pageid": 60276,
+  "sitelinks": {},
+  "title": "Item:Q43451",
+  "type": "item"
+}

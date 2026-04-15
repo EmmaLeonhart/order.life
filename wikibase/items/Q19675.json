@@ -1,0 +1,196 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nakazato Sanetsugu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q19675$A1839628-AAB2-45DF-B5BB-D03298FCC3AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19675$EAAB44F9-38D8-4B40-8A4F-62E64D2C6102",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19675$0735C6F4-625D-4B6C-A8BD-CAECBBA2336C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18063",
+              "numeric-id": 18063
+            }
+          },
+          "hash": "024ba3e9202f92f072aefdc10e2e394de6d0b234",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19675$9BCFB6BD-EBF9-43B5-9EDA-9DCC5F5E2836",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19675$79881A7A-8E0A-4E24-AD25-16A1700D6BAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1534-05-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "08f4ff7842676f9209f21218ddce5fa1605ab7ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19675$6547B4DF-A8A2-484D-ABFB-1ED2D7F4D507",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11367390"
+          },
+          "hash": "6668ab76249e4f816549c2a4ae3901ab1935b119",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19675$8FD94DB1-E44B-471D-9D4E-491FAE58AC9A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nakazato Sanetsugu Arms.svg"
+          },
+          "hash": "32332ef1e325e4b87c59117438faa5c6e7a88f1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Befehlshaber"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将 (-1534)"
+    }
+  },
+  "id": "Q19675",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nakazato Sanetsugu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中里実次"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Санэцугу Накадзато"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nakazato Sanetsugu"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "中里實次"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "中里實次"
+    }
+  },
+  "lastrevid": 17418914,
+  "modified": "2025-09-16T01:41:47Z",
+  "ns": 860,
+  "pageid": 41785,
+  "sitelinks": {},
+  "title": "Item:Q19675",
+  "type": "item"
+}

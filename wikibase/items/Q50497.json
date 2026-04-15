@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kharghochok //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q50497$4C9C97FD-106D-4F67-99AC-33C250A6DF4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00374634"
+          },
+          "hash": "2b599a6a1c5e7237c2f7da601807485d365e1432",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50497$E2561665-EB3A-4E3E-8ED2-A58B7ABA3FB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50497$1C347609-7E03-4F69-9960-04BC9DCD65A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50497$34A21DCE-60F8-40FE-A2EA-614577260B91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46493",
+              "numeric-id": 46493
+            }
+          },
+          "hash": "14de33831991140d29c66173fe791353af902049",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50497$67DEBB08-E920-47DB-A1CA-73943B129C0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50497$791C0F3B-D67C-4286-9466-256F1CA1FA05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1363-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1dab1c65f46f07b966d06091d4b63488e5088f41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50497$500A483E-8AAE-4E3D-8B88-0D4453261BE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1399-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "41f3f78feb8a21616c8266f44cff412c44fd7f98",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50497$BD828328-5E46-42A9-8E9C-50854BA2AB7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7166519"
+          },
+          "hash": "c98cd70b339c9373725b316d878ee64bb9003510",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50497$90096F93-EAFF-4106-87ED-82EC9E554F36",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kharghochok Arms.svg"
+          },
+          "hash": "1f14b96edd64b14ef2d4d0d4fbc3bd2ef0de8429",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Elbeg Nigülesügchi Khan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Элбэг Нигулэсугчи-хана"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con trai của Ni Cổ Liệt Tô Khắc Tề Hãn"
+    }
+  },
+  "id": "Q50497",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kharghochok"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kharghochok"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kharghochok"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kharghochok"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kharghochok"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kharghochok"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハルグチュク・ドゥーレン・テムル・ホンタイジ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하루그추크"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Qarγučuγ dügüreng temür qongtayiǰi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Харгучаг"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cáp Nhĩ Cổ Sở Khắc"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "哈尔古楚克都古楞特穆尔鸿台吉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "哈尔古楚克都古楞特穆尔鸿台吉"
+    }
+  },
+  "lastrevid": 17456742,
+  "modified": "2025-09-16T11:31:22Z",
+  "ns": 860,
+  "pageid": 65538,
+  "sitelinks": {},
+  "title": "Item:Q50497",
+  "type": "item"
+}

@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vytenis //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55979$2EDE44F6-A8D2-455D-AE6C-766A06F9E921",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "166118|250846"
+          },
+          "hash": "d40db5f391fba2f1e5f44d86d3be7aeb7d0a860a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q55979$80E5FD24-2CAD-4ECD-8455-3C3815FDF76E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00333330"
+          },
+          "hash": "85aeedd784c42bc85d161c8ad2845a8d982dfe51",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55979$9B765CE6-B813-4C52-B471-80477C249A99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55979$30293DC8-EBFF-41B4-B1A2-542219D94FA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q55979$D9A21CBB-61E7-47EB-B812-9D72ED40D7B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p22135.htm#i221349"
+          },
+          "hash": "499bcaae5494ca33623352bf062370deca2e02a5",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55979$0E501FD0-07DA-41C6-8580-D5530396C61C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55971",
+              "numeric-id": 55971
+            }
+          },
+          "hash": "1537d60ee0f21b5c87006965ca38bb99fe20520f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55979$CECADEF0-C0D4-4E1B-982D-048C0816B684",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55979$530100D0-0EE6-4131-B7D4-7F84537D2317",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55979$F1DB5FC7-DB2C-4AC1-9510-861490F45D28",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1316-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "41d4981f4231f21ee5b7ee64043a6acf13de6142",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55979$59C86012-396D-4E12-8E49-E1D69416A683",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q557859"
+          },
+          "hash": "24272f9b3aee84dd027bd92a060cdb8f36906f72",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q55979$93117703-C480-47E9-B3DD-89F1D453BC70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1972"
+          },
+          "hash": "cae231248618bce8e116cbdcd669addc71879ac7",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55979$C8FABD5A-1629-448F-B819-6C2ACCEDC2FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vytenis Arms.svg"
+          },
+          "hash": "82c3183cad4b52fee08d47c23bcdf710a110d363",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "вялікі князь літоўскі"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "litevský velkokníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Großfürst von Litauen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Grand Duke of Lithuania"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "grand-duc de Lituanie de 1295 à 1316"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Litvánia nagyfejedelme"
+    },
+    "it": {
+      "language": "it",
+      "value": "granduca di Lituania (r. 1295-1316)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "리투아니아 대공"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vorst van Litouwen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "девятый великий князь литовский (1295–1316)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "veliki litovski knez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "litauisk regent"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Великий князь Литовський"
+    }
+  },
+  "id": "Q55979",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Віцень"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Віцень"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Vitenis"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vitenis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vytenis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυτένις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vytenis"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Vytėnis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vitenis"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Vytenis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vytenis"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Vytenis litván nagyfejedelem"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vytenis"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴィテニス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "비테니스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Vitenes"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Vytenis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Vītenis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vytenis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vytenis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Witenes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Витень"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Vītenis"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Vitenis"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vytenis"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Vytenis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Витень"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "維特尼斯"
+    }
+  },
+  "lastrevid": 17464246,
+  "modified": "2025-09-16T13:22:36Z",
+  "ns": 860,
+  "pageid": 70810,
+  "sitelinks": {},
+  "title": "Item:Q55979",
+  "type": "item"
+}

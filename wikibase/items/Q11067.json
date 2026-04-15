@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Yoshichika"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11067$9151E92F-64B7-42A0-9E88-A48030A30B55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814220"
+          },
+          "hash": "0dd62842a9bcd2829dde84825ed902da16a33db3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11067$294E6905-5936-4347-9152-BAED9A9547E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11072",
+              "numeric-id": 11072
+            }
+          },
+          "hash": "d3a9a78ac5ef20654b22ecf6faf1e86f8845fe1b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11067$E7D58B3D-49B4-4B05-9490-42AF0A8BA7BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11828",
+              "numeric-id": 11828
+            }
+          },
+          "hash": "3ee7e83b9499419c338defcf82a1f61a64dafbbb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11067$18C06D58-DB2A-4B76-96BE-DA79E19697B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11067$D94F0A9E-28A1-4A27-8BC6-FC6E7E74F939",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11067$8379FAD0-30C0-4D12-8B17-0D799F18EC28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10465",
+              "numeric-id": 10465
+            }
+          },
+          "hash": "6f272d10735091aec9d7949e80da97fe864a5eca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11067$6B115F66-2E20-4FCE-87B5-0AB18DBFAA7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11067$DCA2CBDB-2D96-44BB-83A1-F130FBDA3ECE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4d95d13c4f9a70aac522bcef9b84ee6effbf891",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11067$3F8824FD-C08E-44F9-A4F8-C47132CB546B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1108-03-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c12a1f6bbf53b3b821041432b481ef063123827",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11067$B422A9B8-E6D9-4593-BCB5-E2C4296ED2D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564275"
+          },
+          "hash": "10a252af4525287df8135428c224004a74189261",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11067$7BE1B8C5-07C8-46F1-AB9E-801DA34261C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Yoshichika Arms.svg"
+          },
+          "hash": "2ac5efc9550faabab0c5389fbb70b731468c9f1b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代後期の武将。源義家の嫡男。母は源隆長の娘。配流隠岐。従五位下左兵衛尉、対馬守"
+    }
+  },
+  "id": "Q11067",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Minamoto no Yoshichika"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošičika Minamoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Yoshichika"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میناموتو نو یوشیچیکا"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源義親"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Ёситика"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Minamoto no Yoshichika"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мінамото но Йосітіка"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源義親"
+    }
+  },
+  "lastrevid": 17412704,
+  "modified": "2025-09-15T23:44:52Z",
+  "ns": 860,
+  "pageid": 33449,
+  "sitelinks": {},
+  "title": "Item:Q11067",
+  "type": "item"
+}

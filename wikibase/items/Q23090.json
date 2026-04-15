@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Daoming"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23090$DD36B308-D79E-4D90-9011-5FB4C01B5B66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44436",
+              "numeric-id": 44436
+            }
+          },
+          "hash": "9675bca8ed5e5a55da198a830157ca3f548b8ded",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23090$3DD1C22B-CEAD-41C0-8808-31CF2558F951",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25208",
+              "numeric-id": 25208
+            }
+          },
+          "hash": "5263d74895e5dcf5aa9cb2fdd27a1cc88403a4c5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23090$CC3E4409-B06A-4E35-A92F-5A5B79019461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23090$6E58773A-7ADF-4E74-9AD0-D67FAAFC0F82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23090$ACB5F188-D73B-4ECC-97E0-6D5A77B8FDC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21095",
+              "numeric-id": 21095
+            }
+          },
+          "hash": "411d2007a978f4056e1c2689e4c10ef8b6114c91",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23090$2E544FBC-69E0-44DB-8538-11B288B67909",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23090$94A4F37D-AD32-4FCE-999A-B8486167AE91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0652-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b7cd3e5bd2532bb0c9fe0bdd246a00896c2c90ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23090$FB36E6A2-85EF-4D2C-8F12-2128C075A202",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10339093"
+          },
+          "hash": "81927fb3392b1ac000c8b5e28d492229c0bb77ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23090$7DBE9D07-18C9-4D8B-9134-C254F034D832",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074735476857"
+          },
+          "hash": "15d7ed70d476f4b4e8364f6df76a63eb98d2f617",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23090$1F7578D6-BD68-4F6E-8F75-8A2B1BA34677",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Daoming Arms.svg"
+          },
+          "hash": "230db00de936182de3e5030dccbbcb7fb8f94edf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187269"
+    }
+  },
+  "id": "Q23090",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Daoming"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Daoming"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Daoming"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李道明"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Daoming"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ли Даомин"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李道明"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李道明"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李道明"
+    }
+  },
+  "lastrevid": 17421830,
+  "modified": "2025-09-16T02:54:43Z",
+  "ns": 860,
+  "pageid": 45058,
+  "sitelinks": {},
+  "title": "Item:Q23090",
+  "type": "item"
+}

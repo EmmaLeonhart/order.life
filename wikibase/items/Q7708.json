@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Hirako"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7708$66807C72-1FC1-4B01-B041-8CF2C19866DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7708$CF228469-E01E-4B5C-8ECD-2F03841181E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7708$45AB6488-D999-45F3-8FEA-73C9C1B7D35A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7508",
+              "numeric-id": 7508
+            }
+          },
+          "hash": "ba8be9e620837d920927105f25d930a721976625",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7708$48947956-DD5D-47A5-A44C-59B55A494667",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7923",
+              "numeric-id": 7923
+            }
+          },
+          "hash": "1ac7b082f024b86c08879e4a56f8d792bc0b926f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7708$3AB80C25-3766-46A2-AB0D-21F937968CEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7708$6ACCF1C9-4EA3-4E3E-A1F8-87D697E25564",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0833-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c5cadb425156a171a6b5aa1ca164fae5af395c1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7708$07FCAEE6-B739-4CF8-8966-280E3404D267",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106196424"
+          },
+          "hash": "6b6ad05c3a427b808c9e00c3c4a2259a17f00c64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7708$41BE3901-FC1C-491A-A808-34607E99985E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Hirako Arms.svg"
+          },
+          "hash": "c137d2f7dbc74f873fe02c48c7722bac67d284a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Wife of Emperor Kanmu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原乙叡女、桓武天皇後宮"
+    }
+  },
+  "id": "Q7708",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Hirako"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原平子"
+    }
+  },
+  "lastrevid": 17407635,
+  "modified": "2025-09-15T22:37:27Z",
+  "ns": 860,
+  "pageid": 30201,
+  "sitelinks": {},
+  "title": "Item:Q7708",
+  "type": "item"
+}

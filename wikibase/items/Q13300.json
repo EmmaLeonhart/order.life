@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mizuko"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13300$63D878AE-21DE-4899-B624-BABD6ED9BE05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13300$5C6BD1D6-A5FD-436F-B12B-D5506230342B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q13300$18A2A6EF-9C8A-4140-8E8A-65C280496A9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13796",
+              "numeric-id": 13796
+            }
+          },
+          "hash": "43cb5ce89c34fa024c458f66b11d7091601d9cd5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13300$9C63E48E-AE18-49BA-8BAF-17AF6A315564",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13300$E0A0D900-99ED-4359-9250-CBAD00BE705B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1272-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "13231b8b34fe193cd22116f1d779062fc5912b08",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13300$9D0B0F90-9182-4EB0-8BBE-C6261E05F4CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1329-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "96857312900d650d7f7e6603da84c106384db10e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13300$1DB9DDDC-BBA3-44E7-9AD4-1BD20D529889",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16854998"
+          },
+          "hash": "009e34637395554945ca82a1b55655a7a107dcfd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13300$D4D51CCB-D8EE-4E8D-AB88-F94450EEBB02",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mizuko Arms.svg"
+          },
+          "hash": "aad72c3e2efc1673b6e684b669ad87f99544884c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese Princess and consort of emperor Go-Uda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の鎌倉時代の皇族・女院。後宇多天皇の後宮"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระชายาในจักรพรรดิโกะ-อุดะ"
+    }
+  },
+  "id": "Q13300",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Mizuko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mizuko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mizuko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mizuko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "瑞子女王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "즈이시 여왕"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mizuko"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mizuko"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дзуиси Дзёо"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Suishi-joō"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจ้าหญิงมิซุโกะ"
+    }
+  },
+  "lastrevid": 17413884,
+  "modified": "2025-09-16T00:01:55Z",
+  "ns": 860,
+  "pageid": 35622,
+  "sitelinks": {},
+  "title": "Item:Q13300",
+  "type": "item"
+}

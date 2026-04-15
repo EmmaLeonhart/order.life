@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Iehiro"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16061$7096BAED-493A-4E79-A9E3-6A40EA72CACE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16061$E73410DA-5E8F-4A62-B64C-7F9047AE3105",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16061$EC80F28D-D39B-47CC-8633-41D4F4ED1ED9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15443",
+              "numeric-id": 15443
+            }
+          },
+          "hash": "39e421b81b6ca316c1c41f0979ee97bbb5c0a029",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16061$06A3CC0C-B29C-4916-BF1C-DDA2A2029076",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16061$B98B5FC7-54BF-445C-A356-208CC0AACA70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1577-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9860f58596a93157c6cde220aace685d7daea208",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16061$104DE0C3-94AE-4CCA-80CA-D761AAA5A45D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1601-07-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "916a05200166ad68fc174278f3abfa9c37d9413e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16061$D39F9B80-982A-4F69-B431-F255B9324B16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11069425"
+          },
+          "hash": "cd9c39aa89813ca52b6dc3ca325e382e45dbf78b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16061$814CDDAE-FE37-451E-BDC3-B81B5BD88000",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Iehiro Arms.svg"
+          },
+          "hash": "91abb51a44df1ef4fa40dbd3d1490e5e52fd29e8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "en": {
+      "language": "en",
+      "value": "head of Sakurai-Matsudaira clan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "桜井松平家当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q16061",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Iehiro Macudaira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Iehiro"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Iehiro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Iehiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平家広"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Iehiro"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平家廣 (櫻井松平家)"
+    }
+  },
+  "lastrevid": 17415712,
+  "modified": "2025-09-16T00:27:26Z",
+  "ns": 860,
+  "pageid": 38332,
+  "sitelinks": {},
+  "title": "Item:Q16061",
+  "type": "item"
+}

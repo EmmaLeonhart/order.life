@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Reizei Tamemasa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13853$17B056DE-BE89-4053-821D-C58EA3B235C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13853$2735F441-C851-4CE0-8EEF-B4EB288CD7FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13853$0ECCE719-21C7-429E-95E4-BB3624D41A2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13243",
+              "numeric-id": 13243
+            }
+          },
+          "hash": "fcb7df6e07e0c5899efe1f99ec50437a0f5b3193",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13853$D88D2169-1131-45C0-A1D1-7003BF170297",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13853$0583465E-3381-42B2-B0CA-9F2A901A8933",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1361-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b55ae7688506fcf1fd304cb458f237b75a43014",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13853$341E8DBB-80DD-443F-B727-AC70B362441B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1417-02-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbd0be4cdc037fe6437ff366a3a2c101cf46bd25",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13853$979B8326-D731-4A46-851D-704041440786",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11395353"
+          },
+          "hash": "8a0f5d93c4bafb33696a8c7538f26a0d70037350",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13853$AE33BD19-8453-4176-B55F-A51D9771D4F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Reizei Tamemasa Arms.svg"
+          },
+          "hash": "a09a6719e14a2793e46db620707ac860efd8bd41",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代から室町時代の公卿・歌人。正二位・権大納言。冷泉家3代"
+    }
+  },
+  "id": "Q13853",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Reizei Tamemasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "冷泉為尹"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тамэмаса Рэидзэи"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "冷泉为尹"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "冷泉為尹"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "冷泉為尹"
+    }
+  },
+  "lastrevid": 17414130,
+  "modified": "2025-09-16T00:05:24Z",
+  "ns": 860,
+  "pageid": 36164,
+  "sitelinks": {},
+  "title": "Item:Q13853",
+  "type": "item"
+}

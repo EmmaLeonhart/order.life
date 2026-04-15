@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sindeok //"
+      },
+      {
+        "language": "en",
+        "value": "Sindeok"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q31876$DF058A21-B19E-480F-BEE3-C1C58576C3D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31149",
+              "numeric-id": 31149
+            }
+          },
+          "hash": "5a14596f4b7454bb9c838c5856f08c39b4513362",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31876$E0C3F65A-AE5F-4C87-90B4-16D6D6227DF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31141",
+              "numeric-id": 31141
+            }
+          },
+          "hash": "2738e97bed43e548c36427332aad073306b5180c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31876$9BB16AEB-0E05-477F-8BBE-0388BB2A9FD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31145",
+              "numeric-id": 31145
+            }
+          },
+          "hash": "2c2ddb56b34a64b7c92de9939f33aecb39797183",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q31876$BE65AA8D-CE18-4ACE-93C7-E3C736F0EF41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31876$B39B94C2-79C7-4DDF-A0E3-8B706DC8BAFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q31876$FA2D70E5-8E1D-478C-AE61-AE26D977AE3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31113",
+              "numeric-id": 31113
+            }
+          },
+          "hash": "c2dfc0270c0f055b5891cfce18573288171bd1f2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31876$50053B32-DF62-4387-8B8A-A23F8C7151A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32622",
+              "numeric-id": 32622
+            }
+          },
+          "hash": "3c50d6e13d8b1433df2a0e20d66f05ce89b8cfbf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31876$31C35C34-5C39-4A13-91E8-903BFB987E09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31876$E11C00CE-B7BD-42EF-A59E-90A20B4875DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1356-06-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "734a4c962cd69409eeb2f0f76292f4752c0e9e98",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31876$7BD7AB14-BF75-4AE4-8A85-62769D43FA34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1396-08-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ffec105ed763e50c5cb34eafdf82a786a33a755f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31876$083FD6ED-DE99-404E-8A5B-7A7C3B4485EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12604162"
+          },
+          "hash": "5d6b1f97c00f49f102e9cba724e562bb64288683",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q31876$FE3A19B4-596A-4FAB-9594-A81F21CFD820",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sindeok Arms.svg"
+          },
+          "hash": "08781425389c7c40ccf1fce5243c0a8ce74b4e69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "korejská královna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort of Joseon (1356 - 1396)"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 태조의 왕비"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Королева-консорт Чосона"
+    }
+  },
+  "id": "Q31876",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "شندوك ملكة جوسون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Sindeok"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "شاژن سیندیۆک"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sindok"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sindeok"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sindeok"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ملکه شیندوک"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sindeok"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ratu Sindeok"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "神徳王后"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "신덕왕후"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Permaisuri Sindeok"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Синдок-ванху"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sindeok"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระนางซินด็อก"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thần Đức Vương hậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "神德王后"
+    }
+  },
+  "lastrevid": 17431970,
+  "modified": "2025-09-16T05:32:25Z",
+  "ns": 860,
+  "pageid": 51619,
+  "sitelinks": {},
+  "title": "Item:Q31876",
+  "type": "item"
+}

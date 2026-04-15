@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Keding //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53179$4038876B-C6A2-4E2C-98AF-69F8B8AD2621",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53179$2187CC5F-5101-4D88-9E53-382DBC3AF0D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53179$A4F581A4-264E-4D35-A161-C01F9B7E025A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48499",
+              "numeric-id": 48499
+            }
+          },
+          "hash": "eec8ecfb034109a8311000b27dce4e7bdc771817",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53179$E61A77FE-C6E6-45E6-89FA-6FD82952E05B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53179$2528B54A-7267-4D28-BBA6-21F424CD0AD8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1878-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94f2ed0af13d8326d5f6e2e63ae1a0bb746d22a6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53179$6E66AD60-9602-48F6-AAD4-7EC29EA55599",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1958-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8432e5306b7c66265da9b37732cd58823e7cf48",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53179$561CAEA8-C12F-4954-AE63-57784D456872",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8060028"
+          },
+          "hash": "16a124a3d4fb20a038108624605580edf901406c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53179$9435BA29-28A5-432D-9176-B24F1FAFB91A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011626856524"
+          },
+          "hash": "6d823dacf5e425820710ffa60ba0a70357b12d73",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53179$CE0BEFCE-15B1-4997-8FB4-2FDFD0499C08",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Keding Arms.svg"
+          },
+          "hash": "e7262a9b8e90ab501d5ee2b6fe9ef411ef75cbd8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese scholar"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "scoláire Síneach"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "중화제국의 황제 위안스카이의 장남"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "китайский ученый"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中华民国首任正式大总统袁世凯长子"
+    }
+  },
+  "id": "Q53179",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuan Keding"
+    },
+    "be": {
+      "language": "be",
+      "value": "Юань Кедзін"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Yuan Keding"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yuan Keding"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuan Keding"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yuan Keding"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یوآن کدینگ"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Yuan Keding"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "袁克定"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위안커딩"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юань Кэдин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юань Кедін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "袁克定"
+    }
+  },
+  "lastrevid": 17459762,
+  "modified": "2025-09-16T12:16:15Z",
+  "ns": 860,
+  "pageid": 68010,
+  "sitelinks": {},
+  "title": "Item:Q53179",
+  "type": "item"
+}

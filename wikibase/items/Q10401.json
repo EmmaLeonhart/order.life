@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Norifusa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q10401$E9D4FF79-1CEB-470C-8B1A-8AC72ECE941A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10219",
+              "numeric-id": 10219
+            }
+          },
+          "hash": "34931e162ca35beb33b8c454a6ce8b94a23b3e6a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10401$BF960635-3027-4B55-B91A-80A1AF51774E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10401$B24CBDD3-B69E-406C-9E4C-728079C49A9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10401$81FD9159-BF0E-4F9E-8E25-5C6894B9067E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9892",
+              "numeric-id": 9892
+            }
+          },
+          "hash": "69f6b82faeb96f78cdf5f04a00b18554a954f070",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10401$4FE0643D-4351-4C36-B13C-642811B0B57C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10401$9D7AE5B5-8731-466D-B1F0-6A0067FEE21B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1073-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5bc6474964c0f07256b9ca9b9cc98f0c794d4649",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10401$7BDE75A3-FCC7-48B7-8FAF-099A5A1F6357",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109333399"
+          },
+          "hash": "5ddf8b1470fd1ee6d642722c99c5d23462ba37d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10401$9794BCC4-849E-491A-A9F7-73EC2FB6988E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Norifusa Arms.svg"
+          },
+          "hash": "24001a88535aeeacceac9cd4a1c6e1f6f9db416f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "藤原惟憲の長男。尾張守。子に敦房（掃部助、母同）、円憲（園城寺）"
+    }
+  },
+  "id": "Q10401",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Norifusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原憲房"
+    }
+  },
+  "lastrevid": 17412234,
+  "modified": "2025-09-15T23:37:58Z",
+  "ns": 860,
+  "pageid": 32809,
+  "sitelinks": {},
+  "title": "Item:Q10401",
+  "type": "item"
+}

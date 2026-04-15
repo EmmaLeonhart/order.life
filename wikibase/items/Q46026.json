@@ -1,0 +1,932 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mary of Hungary //"
+      },
+      {
+        "language": "en",
+        "value": "Mary of Hungary"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q46026$4B92F315-426A-4CAB-8AFB-D3A4661ADFEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "153373"
+          },
+          "hash": "b4ff54860007d96ac9e3254aba1b0eacb6f5e152",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q46026$02093C86-C0E1-4B24-8AFF-FE2AFD3C55CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00004076"
+          },
+          "hash": "37a7eb7b4bad3e904aaefff44486d03efbade998",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q46026$3A625174-7B8B-4B2C-894A-2EF433DE4CC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49608",
+              "numeric-id": 49608
+            }
+          },
+          "hash": "71596f4816972dafd4c44a924745819a24364a2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$560D0448-2502-4F23-AA06-9F3F338DEC8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49604",
+              "numeric-id": 49604
+            }
+          },
+          "hash": "dbadf45d5b54c8efcee27353081bd3fa7f78d897",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$1DE0E303-364B-4DA1-9824-09ADA6E1B99F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49575",
+              "numeric-id": 49575
+            }
+          },
+          "hash": "ef847b9e212852d646e48cad80c8119d154d40bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$B60C9F3B-F1ED-44C6-896F-9A0DC9FE5084",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49616",
+              "numeric-id": 49616
+            }
+          },
+          "hash": "5417309ae5dc2d5bd32d5cb760959fbcc8936026",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$A0ED3B7A-89DE-4337-89FA-B2E99196B154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49591",
+              "numeric-id": 49591
+            }
+          },
+          "hash": "354cd9335cd6c3496a01eabe430552b5a5bd240b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$5ABDA3DF-9B7F-46F9-B412-F07178373BFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49600",
+              "numeric-id": 49600
+            }
+          },
+          "hash": "4f1bb6d14f7d2a55b254bf3f3643a534bd79f344",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$982C889E-7AB6-4CEE-8C11-05217112D8CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49579",
+              "numeric-id": 49579
+            }
+          },
+          "hash": "15d3ef4b270e3d18bbcab8af3aec0ed0c799a2b8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$1DA4428E-511F-48C0-A0B0-708D6D5A4BF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49571",
+              "numeric-id": 49571
+            }
+          },
+          "hash": "2948fd3434262f80c69a06754115c7be584826dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$29CF3D60-059A-4E1B-98F4-4BEC3B1FF8AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49587",
+              "numeric-id": 49587
+            }
+          },
+          "hash": "c19b037adca2bc0f2592664b4b931a2f377aeff9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$A373CD3D-B27E-48F3-A300-F9ECD4E8DBD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49595",
+              "numeric-id": 49595
+            }
+          },
+          "hash": "2fedbd33cf5db707386ad430d90b9c2c1f779cc0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$D820961F-8725-48C7-9793-139FF282BC49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49583",
+              "numeric-id": 49583
+            }
+          },
+          "hash": "ac2b0b85ffbf8a8262d58caba2019f32d721d198",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$F8EDA24B-7233-483A-8FDD-9B12B8451038",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49612",
+              "numeric-id": 49612
+            }
+          },
+          "hash": "5339ada30e25524065819f853723dd102dd87a73",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$9B437022-6F98-4E34-A7F3-1B7B73218621",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49620",
+              "numeric-id": 49620
+            }
+          },
+          "hash": "0281e57d74dd167c0cdec88f342212b6f3bc9d4a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$FB64CCAA-000B-4BB2-B5AC-129BD95F6A6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49624",
+              "numeric-id": 49624
+            }
+          },
+          "hash": "b86aa2fb224160d1ea15b1397eba975fcf980725",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q46026$67AA552C-64E4-48FD-ACEE-AC7976C9565D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LDWK-FM9"
+          },
+          "hash": "5861c8f923e89c56eee1797e8d6845b2fce5b1c5",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q46026$70514A03-1BAF-4A55-8768-C64C17B52530",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arpadhazi-23"
+          },
+          "hash": "703742ad62d8b143702af6a312ca722bf878b555",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q46026$3F66361C-A25F-44E1-92CD-D4CEA1328F72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I3034"
+          },
+          "hash": "c8d488d8b59b276d9a1dc3d0eabc6812c5190740",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46026$7F4DEA03-64AD-43B6-9201-34AFF5FE3095",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46026$D6FEA0BE-588C-45FE-B892-8A40FE03E835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q46026$CCE29C36-DEEA-46A9-9569-7B255DBCB091",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria_of_Hungary_(1)"
+          },
+          "hash": "3d3ef5455615eb9abd4eb90994e94ad4cac69b27",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q46026$2A3FCD1E-E01B-4A36-B53F-DA1D5BBC66BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49567",
+              "numeric-id": 49567
+            }
+          },
+          "hash": "78153f75c24b274d93f3f5a41c9ad3c0f274aab4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q46026$4882026D-9C29-48E3-A9E5-98E029DAC665",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11416.htm#i114157"
+          },
+          "hash": "cb3e3ba268e9d12b8084add97213da634931a895",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46026$72191B71-0835-4258-999E-CD43FB22739B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46014",
+              "numeric-id": 46014
+            }
+          },
+          "hash": "e66694ec759578017033744885e0e4f418659235",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46026$FE52BB1D-79B4-4A53-B9E8-2080563B633B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46018",
+              "numeric-id": 46018
+            }
+          },
+          "hash": "0936eec3b748b149e804718aa8f764b88b0dcb4c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46026$00884C99-334B-4424-A3F3-5DD2E4922C91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46026$581C07BF-664B-4129-8980-18857D42BD48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1257-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b39795d8815bc543587c3295e2b51e9f29bbe88b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46026$8B66B1DE-4862-4686-8DED-FCA89355AF1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1323-03-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "28c6c5749ceab8d6500916774e824937242ac846",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46026$EDCD1272-3720-4D4D-9E54-9D3D70FD7E76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q614258"
+          },
+          "hash": "02aef00ab82a6c49a95dae009540d8b8e3fca955",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q46026$ADF04639-19BD-45A0-BBFB-06286DBF9C53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001563293216"
+          },
+          "hash": "e8ae83669e308d44ba00049a3a6b88e0caf8cf7c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q46026$7ECEDF1F-EB59-43E8-94C9-5AD3A60E5EE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=maria;n=arpad"
+          },
+          "hash": "a36537d028ba71e457bef1e9de10a44ce09a5ae5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q46026$54599C2F-60F0-4DCB-815B-9080A337097D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1284"
+          },
+          "hash": "8d1f76012ff61e16a1b68334e84ef4fa5dcc9fc9",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46026$966C2BD5-1C19-4BA4-A070-0C8E1C503E2D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mary of Hungary Arms.svg"
+          },
+          "hash": "7c04d55115195f8b6131db73ab27dc433b8f9430",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي إيطالي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "política albana (1257–1323)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "política albanesa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "neapolská královna"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "gwladweinydd (1257-1323)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Dronning af Napoli"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin von Neapel"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασίλισσα της Νεαπόλεως (1257-1323)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen of Naples (1257-1323)"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina consorte de Nápoles"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari albaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme politique albanaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Banríon Napoli"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "política albanesa"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה רעיה של נאפולי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nápoly királynéja"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte di Napoli"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "dronning av Napoli"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Albanië (1257-1323)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "política albanesa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "rainha consorte de Nápoles"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Неаполя"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Drottning av Neapel, gemål till kung Karl II"
+    }
+  },
+  "id": "Q46026",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماريا من هنغاريا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماريا من هنجاريا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Macarıstanlı Mariya"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марыя Венгерская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мария Арпад"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria d'Hongria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marie Uherská"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Mary o Hwngari"
+    },
+    "da": {
+      "language": "da",
+      "value": "Maria af Ungarn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maria von Ungarn"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία της Ουγγαρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mary of Hungary"
+    },
+    "es": {
+      "language": "es",
+      "value": "María de Hungría"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماریا مجارستان ملکه ناپل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Maria (Napolin kuningatar)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie de Hongrie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "María de Hungría"
+    },
+    "he": {
+      "language": "he",
+      "value": "מריה מהונגריה, מלכת נאפולי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marija Arpadović"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mária magyar királyi hercegnő"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարիա Հունգարացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Maria dari Hongaria"
+    },
+    "it": {
+      "language": "it",
+      "value": "Maria d'Ungheria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マリア・ドゥンゲリア"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარია უნგრელი (1257-1323)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Maria av Ungarn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria van Hongarije"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Maria Węgierska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Maria da Hungria, Rainha de Nápoles"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Maria da Hungria, Rainha de Nápoles"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Maria a Ungariei, regină a Neapolelui"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Венгерская"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Mária Uhorská"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Maria van Hongarije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maria e Hungarisë, Mbretëresha e Napolit"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марија Угарска"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Maria Arpad av Ungern"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія Арпад (1257–1323)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "匈牙利的瑪麗亞"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "玛丽，匈牙利公主及那不勒斯王后"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "玛丽，匈牙利公主及那不勒斯王后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "瑪麗，匈牙利公主及那不勒斯王后"
+    }
+  },
+  "lastrevid": 17450806,
+  "modified": "2025-09-16T10:05:27Z",
+  "ns": 860,
+  "pageid": 62200,
+  "sitelinks": {},
+  "title": "Item:Q46026",
+  "type": "item"
+}

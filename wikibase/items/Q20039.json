@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakakibara Nagamasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20039$78F88630-3D92-46B6-8373-07C14E0A1679",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18397",
+              "numeric-id": 18397
+            }
+          },
+          "hash": "db4ff3280194fc9ecb989d9f7f8c66cd78002d7b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20039$6B78A649-862D-446E-96A4-E9E573C562BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21980",
+              "numeric-id": 21980
+            }
+          },
+          "hash": "22e6351c7a6a5d0da041309137577722e6d76e0f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20039$D260EC2B-37A6-422B-A880-91C780CD987B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20039$4D5D054D-80C8-42F2-AEA6-2B78ED77BB1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q20039$1694B0B2-A9DC-4B56-880C-623F668D97EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33585",
+              "numeric-id": 33585
+            }
+          },
+          "hash": "c814fe9be31ab268fd3e3e1b60f571eeccd354ce",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20039$9131334D-C32E-40D9-B3B5-6C7C8C048E1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20039$50FBD01E-65BC-4F07-AD72-B28A63E64E34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1562-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f648c37b1b32abd8b3aabe27da4d9e265465fd7c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20039$6A207B4E-1C64-4326-861F-E67EF42E86F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109679023"
+          },
+          "hash": "323c5e41b9ff3b56a8bb115d029e900bd2bdbe95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20039$01CAD7DE-DCB0-4EA0-9684-145AC6DE757C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakakibara Nagamasa Arms.svg"
+          },
+          "hash": "cb29691373c67573052df9768b72c3c83de9e477",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "仁木利長-仁木勝長（榊原孫七郎、子に道教）-仁木清長（榊原孫十郎、七郎右衛門、子に一徳斎（氏経?））-榊原長政。子に山内玄以某の妻、大竹六郎左衛門の妻、小笠原義信の妻"
+    }
+  },
+  "id": "Q20039",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakakibara Nagamasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "榊原長政"
+    }
+  },
+  "lastrevid": 17419196,
+  "modified": "2025-09-16T01:49:42Z",
+  "ns": 860,
+  "pageid": 42136,
+  "sitelinks": {},
+  "title": "Item:Q20039",
+  "type": "item"
+}

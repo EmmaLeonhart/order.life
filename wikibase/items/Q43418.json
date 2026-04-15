@@ -1,0 +1,489 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Gong of Song //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q43418$945993B3-ED27-464D-AEB1-264326664794",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "845510"
+          },
+          "hash": "4cee5f01a52e093665f9aaf4509c5f85c1b62909",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43418$4B734A78-B67D-44C3-BC6A-66ABE7643249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46461",
+              "numeric-id": 46461
+            }
+          },
+          "hash": "3e96b6c7f9f0382b2cde8a75e3f6177803714e14",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43418$A4565C10-99C3-4D32-BD76-7E05D29379B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43418$2F9C290C-0620-4BFC-A4D8-3971269DAE40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q43418$07D1DF33-5EA7-487B-BE2C-ACAF3DDB8332",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46456",
+              "numeric-id": 46456
+            }
+          },
+          "hash": "5b29cd80561820030581a6aa6d269d39f7617e5c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43418$D212D0BF-28B1-4CB1-A0E0-D3FB0106707A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46423",
+              "numeric-id": 46423
+            }
+          },
+          "hash": "016a7fa66b002770fd51b44ba019a797f5941119",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43418$26625B3F-B15C-48FD-9DE9-186EB3AC7EF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46427",
+              "numeric-id": 46427
+            }
+          },
+          "hash": "a098c14f6d18f2eec63e9abb1563aa60987c6d10",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43418$33F43175-F0E1-4826-891D-883002C3DB2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43418$B6931899-5A11-4FA5-9393-2AD1D9F27B03",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1271-11-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9225f0070d03b7ef60dfa74ac6ab3742d62fb0ec",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43418$62C97EEC-1DCA-41E6-87B8-E0C963512540",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1323-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c593ad2575415d0b4d1c9ee43128592cbc00a7e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43418$D1555147-AA9D-4D80-8FCC-4B2444D8AF7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7500"
+          },
+          "hash": "7289c0caa54ee2735d665f232148d5f45605e1c9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q43418$9EBB9EFE-00E3-41FB-A10D-FFB5B903F4E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074687231205"
+          },
+          "hash": "5992d7849dfc4f1c15bd7699a358164bfc3e24d6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43418$D1E32A94-250C-4FB4-A0D8-061262B9817A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Gong of Song Arms.svg"
+          },
+          "hash": "4b4af531232ae339965011d9905f2c5c1906fa6c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "persona de la dinastía Song (CBDB=0009016)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "císař Sungské říše"
+    },
+    "de": {
+      "language": "de",
+      "value": "chinesischer Kaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of the Song Dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "decimosexto Emperador de la Dinastía Song del Imperio chino"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهنشاه چینی سده ۱۳ میلادی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de la dynastie Song"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer uit Song-dynastie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz chiński"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Китайский император 13 века"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kinesisk kejsare"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Сун"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "hoàng đế nhà Tống"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宋朝第16位皇帝、元朝瀛国公"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "南宋皇帝"
+    }
+  },
+  "id": "Q43418",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور جونج من سونج"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Emperor Gong of Song"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قونق زونق"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "སྨན་རྩེ་ལྷ་བཙུན།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Song Gong"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kung"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gong von Song"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκονγκ των Σονγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Gong of Song"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Emperor Gong of Song"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Emperor Gong of Song"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gong Di"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور گونگ زونگ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Song Gong"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Song Gongdi"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gong Di"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "恭帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "남송 공제"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "宋恭帝"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Sòng Kiong-tè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Keiser Gong av Song"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Song Gongdi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Song Gongdi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гун-цзун"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Emperor Gong o Song"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "cesar Gong dinastije Song"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Gong of Song"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Song Gongdi"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิซ่งกงจง"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чжао Сянь"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "شہنشاہ گونگ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tống Cung Tông"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "趙㬎"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宋恭帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "宋恭帝"
+    }
+  },
+  "lastrevid": 17447544,
+  "modified": "2025-09-16T09:16:41Z",
+  "ns": 860,
+  "pageid": 60251,
+  "sitelinks": {},
+  "title": "Item:Q43418",
+  "type": "item"
+}

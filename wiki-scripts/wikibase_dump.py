@@ -155,10 +155,18 @@ def write_entity(data: dict, entity_id: str, out_dir: Path,
 
 def dump_range(prefix: str, start: int, end: int, out_dir: Path,
                throttle: float, overwrite: bool,
-               verbose: bool) -> dict:
-    """Dump entities {prefix}{start}..{prefix}{end-1}. Inclusive start, exclusive end."""
+               verbose: bool,
+               stop_after_missing: int = 0) -> dict:
+    """Dump entities {prefix}{start}..{prefix}{end-1}. Inclusive start, exclusive end.
+
+    If stop_after_missing > 0, terminate early after that many *consecutive*
+    missing entities — useful when you don't know the upper bound of the
+    numeric ID space and want to keep going until the wiki runs out.
+    """
     stats = {"created": 0, "updated": 0, "unchanged": 0,
              "missing": 0, "errors": 0}
+
+    consecutive_missing = 0
 
     for n in range(start, end):
         entity_id = f"{prefix}{n}"
@@ -167,14 +175,21 @@ def dump_range(prefix: str, start: int, end: int, out_dir: Path,
         except Exception as exc:
             print(f"  ERROR {entity_id}: {exc}", flush=True)
             stats["errors"] += 1
+            consecutive_missing = 0
             continue
 
         if data is None:
             stats["missing"] += 1
+            consecutive_missing += 1
             if verbose:
                 print(f"  missing: {entity_id}", flush=True)
+            if stop_after_missing and consecutive_missing >= stop_after_missing:
+                print(f"  stopping: {consecutive_missing} consecutive missing "
+                      f"at {entity_id}", flush=True)
+                break
             continue
 
+        consecutive_missing = 0
         status = write_entity(data, entity_id, out_dir, overwrite)
         stats[status] = stats.get(status, 0) + 1
         if verbose or status != "unchanged":
@@ -211,6 +226,13 @@ def main():
                     help="Rewrite files even if content is byte-identical.")
     ap.add_argument("--verbose", action="store_true",
                     help="Log every entity, including missing and unchanged.")
+    ap.add_argument("--stop-after-missing", type=int, default=0,
+                    help="Stop the current range after N consecutive "
+                         "missing entities. 0 (default) = disabled. NOTE: "
+                         "wiki.order.life has intentional 10k-number gaps "
+                         "in its ID space, so do not enable this for that "
+                         "wiki — you will terminate early. Safe to use "
+                         "only against wikis with dense numbering.")
     args = ap.parse_args()
 
     print(f"Wikibase dumper against {WIKI_BASE}", flush=True)
@@ -222,7 +244,8 @@ def main():
         print(f"=== ITEMS Q{args.items_start}..Q{args.items_end - 1} ===",
               flush=True)
         s = dump_range("Q", args.items_start, args.items_end,
-                       ITEMS_DIR, args.throttle, args.overwrite, args.verbose)
+                       ITEMS_DIR, args.throttle, args.overwrite, args.verbose,
+                       args.stop_after_missing)
         for k, v in s.items():
             total[k] = total.get(k, 0) + v
         print("Items: " + " ".join(f"{k}={v}" for k, v in s.items()),
@@ -233,7 +256,7 @@ def main():
               f"..P{args.properties_end - 1} ===", flush=True)
         s = dump_range("P", args.properties_start, args.properties_end,
                        PROPERTIES_DIR, args.throttle, args.overwrite,
-                       args.verbose)
+                       args.verbose, args.stop_after_missing)
         for k, v in s.items():
             total[k] = total.get(k, 0) + v
         print("Properties: " + " ".join(f"{k}={v}" for k, v in s.items()),

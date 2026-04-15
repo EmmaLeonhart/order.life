@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kölgen //"
+      },
+      {
+        "language": "en",
+        "value": "Kölgen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q37445$6D840DAB-1287-4F56-9169-715A39B78498",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "618631|823237"
+          },
+          "hash": "9eadf5407b446c323b632e1634d75006ea3df3be",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37445$67F81070-349E-4345-981F-95D66115DDC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37445$A207EC09-C45C-48D2-B443-FD063C2084E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37445$47B077AF-343F-4964-9752-EE0B043E2773",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37401",
+              "numeric-id": 37401
+            }
+          },
+          "hash": "5ee0ea5b2bab69987977336bc19d26842ea54a53",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37445$F75DDC6A-D8E3-40CD-9446-1BB1C6899892",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38853",
+              "numeric-id": 38853
+            }
+          },
+          "hash": "c80371d64b75c8108a7af69f3a9ee20a2c5a311b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37445$8F2ECC59-5477-4ADB-B681-07616D14E03B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37445$66930467-C4BA-45AE-94AC-B56E8EE966EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37445$29488564-19CA-4CA1-A83F-A6C7F0F29F7C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1238-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da3a08c245cad81a582e4aedf1cbc8b7a94ac0ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37445$9ECE899F-F76F-4840-9973-9CAF4D097364",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4251208"
+          },
+          "hash": "e17e272878acb025cc2e48fa3ab61d689f967429",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q37445$7E3ADFBE-C8B9-4232-AAD6-6425058197B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791945822"
+          },
+          "hash": "2a6d56f4257b925c101529473c20940f119bb81e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37445$642DC33C-71CD-4478-BB66-2C3383A1DE5F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kölgen Arms.svg"
+          },
+          "hash": "208bcfe41cbc4ad7d1560124e4edeaa5111093ec",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Mongolischer General, Sohn von Dschingis Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongol general, son of Genghis Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fils de Gengis Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "チンギス・カンの子のひとり"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Yuan-dynastie (-1235)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Монгольский военачальник, сын Чингисхана"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tướng Mông Cổ, con trai Thành Cát Tư Hãn"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成吉思汗之子"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "成吉思汗之子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "成吉思汗之子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "成吉思汗之子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "成吉思汗之子"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "成吉思汗之子"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "成吉思汗之子"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "成吉思汗之子"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "成吉思汗之子"
+    }
+  },
+  "id": "Q37445",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Кюльхан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kuoliejian"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kuoliejian"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kuoliejian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kölgen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kuoliejian"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kuoliejian"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Kölgen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kuoliejian"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コルゲン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "코르겐"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "闊列堅"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хүлгэн"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Kulhan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kuoliejian"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kuoliejian"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kuoliejian"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kuoliejian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кюльхан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kolgen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Хулхен"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Khoát Liệt Kiên"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阔列坚"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阔列坚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阔列坚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "闊列堅"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "闊列堅"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "闊列堅"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "阔列坚"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阔列坚"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "闊列堅"
+    }
+  },
+  "lastrevid": 17439866,
+  "modified": "2025-09-16T07:27:40Z",
+  "ns": 860,
+  "pageid": 55781,
+  "sitelinks": {},
+  "title": "Item:Q37445",
+  "type": "item"
+}

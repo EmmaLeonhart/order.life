@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hosokawa Toshimasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22364$ED058968-F6E9-44AB-8BAF-514C46143AD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42998",
+              "numeric-id": 42998
+            }
+          },
+          "hash": "bb472d496c0e2005fc945a54a980a26e513282b7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22364$009A5C9C-7912-4E41-95BD-D9AB2E4DD9FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43002",
+              "numeric-id": 43002
+            }
+          },
+          "hash": "c1641f1cbf23f3438505fee0c9d25b50105163f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22364$99E0B0BD-07F2-4F42-A92B-F098FA5AFF5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24599",
+              "numeric-id": 24599
+            }
+          },
+          "hash": "f7530f16a2716734804cd6352ad7c2ad8f8e2444",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q22364$466A6345-DE42-47A8-AC9E-2A284D06E4E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "細川-39"
+          },
+          "hash": "6e871e0655a045dcc9e0e640ffbbf66d81d4ef3b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22364$93C9FCBE-DD12-46E0-ACAD-41A1ECE77007",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22364$953107C7-F80B-49D6-B19E-EB8276690362",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22364$11611585-447E-4581-8DAE-901731430D9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20429",
+              "numeric-id": 20429
+            }
+          },
+          "hash": "59e3b84db9eb5249e04fc22cb63d0e989718d470",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22364$861BCE45-0FA7-47B7-881A-9185B1D815F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22364$78168895-675C-455D-919C-A2A80569BC9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1672-06-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db339c46d925c557b63d7168353d0f4fa359d118",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22364$F64FD2A0-7AEB-4C5A-A547-58C4D34E7DD4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1715-07-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c85735bdf0e3394cf002cdb15abee7616c0d2384",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22364$928D5589-3397-4CDB-90EF-4BAD5D4BF6AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11605856"
+          },
+          "hash": "f625c664b4b5e7ec93afa8d5e85d043a3acb8301",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22364$07632249-4D2D-453F-93BF-3AF77F6D9B42",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hosokawa Toshimasa Arms.svg"
+          },
+          "hash": "8451b29a424e0ef7ee76078ad9c9a484d94b3426",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "肥後新田藩2代藩主。細川利重の長男。母は高正院（側室、築山氏）。子に細川利英、細川利乙、津田正明、小笠原長員、娘（長岡豊之の妻）。従五位下、采女正。"
+    }
+  },
+  "id": "Q22364",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hosokawa Toshimasa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tošimasa Hosokawa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hosokawa Toshimasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hosokawa Toshimasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "細川利昌"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосимаса Хосокава"
+    }
+  },
+  "lastrevid": 17421284,
+  "modified": "2025-09-16T02:40:54Z",
+  "ns": 860,
+  "pageid": 44354,
+  "sitelinks": {},
+  "title": "Item:Q22364",
+  "type": "item"
+}

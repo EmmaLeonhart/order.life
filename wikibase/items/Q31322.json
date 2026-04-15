@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "On-bin Han ssi //"
+      },
+      {
+        "language": "en",
+        "value": "On-son of Han ssi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q31322$66636B3C-B014-4AE7-910C-C326861E6682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31322$0EECE99C-20D5-4861-9DA5-5A2106A1B0BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q31322$59C5BCB1-A2C8-42DD-8435-BB8A009A825C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30668",
+              "numeric-id": 30668
+            }
+          },
+          "hash": "6394cbc10c0da172706a30d075b08eadb39b4b5c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31322$43B71A37-366E-4C52-91F9-C177D0A53520",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31322$55CDD9CF-BCC3-4622-90E8-A4F0EAD54471",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1581-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5b5be2e6b29ccdeb4b2991614d327a98fbc3052",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31322$CFE01C95-9D1F-4500-BBF7-AFE73CA8862A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6759050"
+          },
+          "hash": "0346a3e96a2827afaec6f3dca7c34f21f935e5d3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q31322$F7D46269-B9CA-4218-B5A2-8A1134DB8A99",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "On-bin Han ssi Arms.svg"
+          },
+          "hash": "8544e52e59794b631591e710d599fe6de3ba4bbf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q31322",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "On-bin Han ssi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "温嬪韓氏"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "온빈 한씨"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "溫嬪韓氏"
+    }
+  },
+  "lastrevid": 17431212,
+  "modified": "2025-09-16T05:21:30Z",
+  "ns": 860,
+  "pageid": 51203,
+  "sitelinks": {},
+  "title": "Item:Q31322",
+  "type": "item"
+}

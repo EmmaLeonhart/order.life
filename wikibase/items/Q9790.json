@@ -1,0 +1,396 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ise no Taifu"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q9790$4963DFF4-64CA-4ED1-8895-921FBBA31723",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ise no Taifu"
+            }
+          },
+          "hash": "329678d00c006b932c4ba647345171d3dbd1d03e",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9790$A5335BAA-19EE-45F2-A37E-A152B6A306F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9790$0D1BA024-F350-46A6-8A50-E2DD8921ED57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9790$3DC0F052-D1C2-4383-B3A7-BBB1FB0D2E4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9384",
+              "numeric-id": 9384
+            }
+          },
+          "hash": "52810659047e739d7c25f27ff0ee54d643345542",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9790$F747253B-178A-4879-8A1E-FA8D0357E417",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ise no Taifu"
+            }
+          },
+          "hash": "088ef8e85a02b824a5319b575122b8aaa0adc5aa",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9790$B99DC992-E15E-4E00-8E52-DB7B3186DED2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9790$458B21DF-B159-46E8-B4C8-5CAC4A432ABD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d00449fdebd71ddad4b63533443610d4fb2761b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9790$7904A5CE-CC67-480D-B51D-A1BD7C58A420",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "458cc2c28d6b21f5012c2238ac8f0b0b6f73cdc1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q9790$0FD35E46-66A6-4CBB-A893-ABC5D0362530",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ise no Taifu.jpg"
+          },
+          "hash": "02af7cf103a09d2368f7f271962e2baad49a3ab1",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9790$AA94C36B-69D8-4E2A-BED1-AFB5C4E7BA6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3072228"
+          },
+          "hash": "112c501f2cbbf2edb015e6509489f11dfb4ecb3e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعرة يابانية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponesa"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poetessa japonesa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese poet"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese poet"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poetisa japonesa"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poétesse japonaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poetisa xaponesa"
+    },
+    "he": {
+      "language": "he",
+      "value": "משוררת יפנית"
+    },
+    "it": {
+      "language": "it",
+      "value": "poetessa giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の日本の女流歌人。藤原彰子女房"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichteres"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japońska poetka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poetisa japonesa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poetă japoneză"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poete japoneze"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (1000 – 1060)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японська поетка"
+    }
+  },
+  "id": "Q9790",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ise no Taifu"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Ise no Taifu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ise no Taiu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ise no Taifu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ise no Taifu"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ise no Taifu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ise no Taifu"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ise no Taifu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ise no Taifu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊勢大輔"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이세노 다이후"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ise no Taifu"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Ise no Taifu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ise no Taifu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ise no Taifu"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิเซะ โนะ ไทฟุ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ise no Taifu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊勢大輔"
+    }
+  },
+  "lastrevid": 17411606,
+  "modified": "2025-09-15T23:28:41Z",
+  "ns": 860,
+  "pageid": 32226,
+  "sitelinks": {},
+  "title": "Item:Q9790",
+  "type": "item"
+}

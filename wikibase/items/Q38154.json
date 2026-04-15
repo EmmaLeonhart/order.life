@@ -1,0 +1,532 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Omri"
+      },
+      {
+        "language": "en",
+        "value": "Omri  King of Israel"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q38154$039D3215-EA92-4FF6-B941-80868FD5D0B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "407721"
+          },
+          "hash": "a6f86ac78ec389e6c4e3e002a109e9cb6a6251ba",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q38154$0A33C67B-6BB3-4CCB-896C-8AD94685CF97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38146",
+              "numeric-id": 38146
+            }
+          },
+          "hash": "3c113154f2f80357051219652c729679afd81b06",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38154$FC45A193-286B-4D04-B46C-0A3FC9AA3662",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135064",
+              "numeric-id": 135064
+            }
+          },
+          "hash": "81af69d49d8cb32e29b64d3ca522ee3e8f157463",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38154$ABE6334B-F587-4A6A-9F03-05FDD1D7DBF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38154$55822D16-62BD-4B02-83EC-1FDC30FE2664",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q38154$9DEB02B5-A012-4E41-8485-4A9869C9442A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Omri /King of Israel/"
+            }
+          },
+          "hash": "9ea7042e1999e50e4f55b84d045b4829f427bc92",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38154$7F8BE572-ADE1-447E-9A55-944C254AEF25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38154$823BA638-2B3B-47E5-90C2-E68F29E92CF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0940-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c6c9b646692ff9e5c548655337af2fca0bf3013d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38154$E1038D22-E1BA-420B-98AA-AE2CDEBDE69E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0874-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c7377a58a4d5222f09f689be50690e13de3b1139",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38154$718E4225-A05E-490A-B2A4-D8001D14F78A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313221"
+          },
+          "hash": "ac4c006fc6952238fdfb3c908b65fbab7511326e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38154$CAE22E3F-DF30-4531-A177-9515F97EFBF6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Omri Arms.svg"
+          },
+          "hash": "6f8aea95cb72573db3e7600d81611338c585c3bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "цар на Израил"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei d'Israel"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "izraelský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Israel"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sixth King of Israel"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Regno Izraelo"
+    },
+    "es": {
+      "language": "es",
+      "value": "(6º) sexto rey de Israel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Israël"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ישראל"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Izrael uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Israele"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Koninkrijk Israël (-)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei da V Dinastia do Norte de Israel"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ex-Rei do Norte de Israel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "израильский царь"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MÖ 885 ve 873 yılları arasında hüküm sürmüş İsrail kralı (1. Krallar 16:16)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ізраїльський цар"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "זעקסטע מלך ישראל"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以色列國王"
+    }
+  },
+  "id": "Q38154",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "عمري"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "عمرى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "عمری"
+    },
+    "be": {
+      "language": "be",
+      "value": "Амрый"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Амврий"
+    },
+    "br": {
+      "language": "br",
+      "value": "Omri"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Omrí"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Omrí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Omri"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αμρί"
+    },
+    "en": {
+      "language": "en",
+      "value": "Omri"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Omri"
+    },
+    "es": {
+      "language": "es",
+      "value": "Omri"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "عمری"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Omrin kuningashuone"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Omri"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Omry fan Israel"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Omraí"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Am-li-vòng"
+    },
+    "he": {
+      "language": "he",
+      "value": "עמרי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Omri"
+    },
+    "id": {
+      "language": "id",
+      "value": "Omri"
+    },
+    "it": {
+      "language": "it",
+      "value": "Omri"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オムリ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오므리"
+    },
+    "la": {
+      "language": "la",
+      "value": "Amri"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Omry"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Omri av Israel"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Omri"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Omri av Israel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Omri"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Omri"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Omri"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Omri"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Омри"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Omri"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Omri"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Omri"
+    },
+    "th": {
+      "language": "th",
+      "value": "อม-รี"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Omri"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Omri"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Омрі"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "عمری"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "עמרי"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "暗利"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "暗利"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "暗利"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "暗利"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "暗利"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "暗利"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "暗利"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "暗利"
+    }
+  },
+  "lastrevid": 17440756,
+  "modified": "2025-09-16T07:40:33Z",
+  "ns": 860,
+  "pageid": 56311,
+  "sitelinks": {},
+  "title": "Item:Q38154",
+  "type": "item"
+}

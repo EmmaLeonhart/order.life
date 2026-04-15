@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nobukiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q33858$4ACB0A10-3175-4E9B-994D-749836F335EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22096",
+              "numeric-id": 22096
+            }
+          },
+          "hash": "c02f6f4e06822d591458f186e8e2a9216e795698",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33858$5996C979-1B75-4C72-A5F2-82EAF0488CE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38052",
+              "numeric-id": 38052
+            }
+          },
+          "hash": "e6adbcc29184d26dd609dc049678d3a36cc10555",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q33858$F330226C-01C7-4A52-995D-A70BDEDD4731",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-28"
+          },
+          "hash": "792772c5e5c336dc0c7a1405da8e8a07f3df34dd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q33858$09FC8828-8F80-4782-BA0C-013EB6959499",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33858$EE86A0C1-C8C6-4416-A796-DBC3F7042E60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33858$EB9DD711-B98D-4AA1-980A-9E0BD201CD00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30122",
+              "numeric-id": 30122
+            }
+          },
+          "hash": "9b1ea9e51951c2163edf793b65e75437e5ee2ddd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33858$2C0ECD8C-98B5-4AC3-B769-EE941BBB514D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33858$F83BEE19-2CEA-4404-9CCA-9E70335EC657",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1666-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16068aa1a372b561cf9df9808f9878d55db90bbe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33858$46143937-A40D-4FCE-91CE-2040AFEBB06F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1732-04-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3a4a6d77b36eb0633d29fbaef12c427b67375f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33858$DFA14A3C-E222-4DE4-9023-8B397CAC0741",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608316"
+          },
+          "hash": "f7bc662fdeab945e3bb9c0c4c8c745a54368bb2b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33858$C50D1269-AB31-4DBB-8944-1A1D123749D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nobukiyo Arms.svg"
+          },
+          "hash": "566e9a309a3b712c2ceff5808428b969953b8f33",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Edo period; Hatamoto of Tokugawa shogunate"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の旗本"
+    }
+  },
+  "id": "Q33858",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oda Nobukiyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Nobukiyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Nobukiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田信清"
+    }
+  },
+  "lastrevid": 17434750,
+  "modified": "2025-09-16T06:12:41Z",
+  "ns": 860,
+  "pageid": 53103,
+  "sitelinks": {},
+  "title": "Item:Q33858",
+  "type": "item"
+}

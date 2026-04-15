@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogura-o"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q7563$E0F627F1-D536-40DE-A140-F934942A6146",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7815",
+              "numeric-id": 7815
+            }
+          },
+          "hash": "efb4427aca74e7406ee0be50f2b82ac8516735a2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7563$BAC9C7DC-E800-4099-9509-9B21E72703A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7563$ED2B36AD-3DD9-449D-A0A4-3EA611D2E1A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7563$49D2526B-7A11-4E18-AFB8-85D1F4E0BA00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7563$0557ACE1-4375-467D-A1D6-45637A69DC7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7563$EE9C8C01-E509-47DC-9B1C-37A4D72E83D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11458997"
+          },
+          "hash": "4f6c9ed17310b6b3f6417f781df072e26b2fb778",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q7563$02E4C684-81D7-490B-A6A5-C4C9231F6CEA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogura-o"
+          },
+          "hash": "f51488d57b3665b2f6ca1e4871560dfa14871041",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7563$9DCB6080-0FD8-4C22-9C47-B4B7BE26698A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogura-o Arms.svg"
+          },
+          "hash": "9127a5d3f43626f89e44c757145adee3ee96a19e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "奈良時代から平安時代初期の皇族。正五位下・内膳正。子孫は清原氏。"
+    }
+  },
+  "id": "Q7563",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ogura-o"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小倉王"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ogura-o"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Огура-о"
+    }
+  },
+  "lastrevid": 17407511,
+  "modified": "2025-09-15T22:35:55Z",
+  "ns": 860,
+  "pageid": 30056,
+  "sitelinks": {},
+  "title": "Item:Q7563",
+  "type": "item"
+}

@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Qulpa //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q53600$25E3A05F-F181-48DA-BCFE-80C4F0F5E831",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279512"
+          },
+          "hash": "4c0a0f112836fdbca9d0554bf5ba0401fc940f49",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53600$9D53F5EB-2B87-4F26-A1B7-29742B86E4A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53600$E8EA98C0-310A-4310-BED0-D67244A1E1FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53600$6F500C98-29E5-4982-A12F-2A488413AE6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49016",
+              "numeric-id": 49016
+            }
+          },
+          "hash": "9a7253447e52b32ec36f54d25464e0bdf445cc4a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53600$EF578BC6-D87A-47FF-8B0F-672A2CAEB35E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53600$8BA58FA3-800C-4912-A5F5-9C4C3BA79FB1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53600$791D6104-48B7-4158-ACF8-20ADF1596DD0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1360-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e205173d930b90117159c3f042fe6a18122ca40",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53600$6D8B710D-9020-44B1-8E49-1DD19778AE7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2570880"
+          },
+          "hash": "471bbe82117a28c4afdbc10318762918ebf35ab8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53600$C545531E-DCBA-41FE-95B6-0769589CCF59",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Qulpa Arms.svg"
+          },
+          "hash": "11695017d1524b9261125b83f2ca3973a649b702",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Khan of the Golden Horde"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khan de la Horde d'Or"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az Arany Horda kánja"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "condottiero"
+    }
+  },
+  "id": "Q53600",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Qulpa xan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kulna Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Qulpa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kulna Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kulna"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kulpa kán"
+    },
+    "it": {
+      "language": "it",
+      "value": "Qulpa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クルナ (ジョチ家)"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Құлпа хан"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Кульпа"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Qulpa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kulpa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Culpa (cã)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кульпа"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кулпа-кан"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Көлпә"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кульпа"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "忽里纳"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "忽里纳"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "忽里納"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "忽里納"
+    }
+  },
+  "lastrevid": 17460566,
+  "modified": "2025-09-16T12:27:59Z",
+  "ns": 860,
+  "pageid": 68431,
+  "sitelinks": {},
+  "title": "Item:Q53600",
+  "type": "item"
+}

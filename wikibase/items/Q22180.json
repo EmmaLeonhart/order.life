@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Munehisa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22180$8DCF53C7-69CE-402E-AFB6-A0838846AAE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22180$D706F704-E592-4307-A1AD-3A91CFFAD229",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22180$FDEAAACB-B234-4D8E-A583-46FFD28F61AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20238",
+              "numeric-id": 20238
+            }
+          },
+          "hash": "d389dcb4a96ba073ee3c7bfa7a64b8c045a8d05d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22180$C516FCFE-C424-4BBD-BDB5-1DB7EED581AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22180$FCEA74D0-3A3C-4C7E-AC0C-12BD3528500D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1704-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca20991f3ab4037e2ce5b393ef07a2be8afdf0d0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22180$708EDE4D-E19F-4AEF-831C-0AF312CCF89B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1712-01-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e18719dc0533d16c721a324588091507ce3bef93",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22180$CEA2BF13-D916-4024-BB34-92A7B029A696",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530392"
+          },
+          "hash": "9d9932883d5b4ce153165cc02968f04820487c23",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22180$2369E7C8-416A-43B0-A03E-ED186549AF02",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Munehisa Arms.svg"
+          },
+          "hash": "4c014a40f3bcb621217acb8e454000c7f6b8b2ed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the middle Edo period; 2nd lord of Takamori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期の大名。遠江浜松藩初代藩主（移封前は常陸笠間藩2代藩主）松平資俊六男で、越前高森藩2代藩主（無嗣断絶）"
+    }
+  },
+  "id": "Q22180",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Munehisa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Munehisa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Munehisa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Munehisa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平宗胡"
+    }
+  },
+  "lastrevid": 17421140,
+  "modified": "2025-09-16T02:36:59Z",
+  "ns": 860,
+  "pageid": 44182,
+  "sitelinks": {},
+  "title": "Item:Q22180",
+  "type": "item"
+}

@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakai Naotsugu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20024$63596A09-E99A-48C1-9527-FC0A8408647F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20024$F571BE00-360F-4B28-95AD-A4A3AFCFA21E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20024$AD92DCBA-78C1-4F1F-9689-57CC8A0E5FB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18388",
+              "numeric-id": 18388
+            }
+          },
+          "hash": "5234b4fe0781f4d0d061fe9eb3214644e172db9f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20024$1CFCB620-6004-4C01-B53C-C1C84096B500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20024$DD3422BF-5485-4995-BC52-0F04C400F2B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1596-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95e45640b151d55ff04d91a74c87a5d65932d319",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20024$5837885E-F7F7-4E2A-AAE8-84BC9E76CBE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1630-04-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "50d688006c4e466264d81a8c80236b847fd20249",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20024$C803266A-BD66-4ACD-9AC9-E930CC816FB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8515152"
+          },
+          "hash": "89cfc1b27cdc06fc763932010cffdf0152c2045c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20024$402E1EA5-2263-418E-ABE1-6EE2F4A257BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakai Naotsugu Arms.svg"
+          },
+          "hash": "30f9ed17e385b02ff2d4d302be894c0aa588e44d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q20024",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakai Naotsugu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒井直次"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사카이 나오쓰구"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наоцугу Сакаи"
+    }
+  },
+  "lastrevid": 17419184,
+  "modified": "2025-09-16T01:49:23Z",
+  "ns": 860,
+  "pageid": 42122,
+  "sitelinks": {},
+  "title": "Item:Q20024",
+  "type": "item"
+}

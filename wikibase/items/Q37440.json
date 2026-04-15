@@ -1,0 +1,353 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wuluchi //"
+      },
+      {
+        "language": "en",
+        "value": "Wuluchi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37440$F591125F-17EE-49BB-822B-F4EEFED5CD43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37440$EFDE9316-C18F-43E9-8699-DF4A57CA3AD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37440$943D125D-8552-4721-A0D1-AA9A94D1ADB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37401",
+              "numeric-id": 37401
+            }
+          },
+          "hash": "5ee0ea5b2bab69987977336bc19d26842ea54a53",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37440$D33EF3BC-829B-4518-A0F2-D813173BADA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37440$AC6EC770-52BC-47A2-BA93-D237D81CC739",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37440$AD4BE39E-B605-4AA7-A45D-656FC763CA49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7063489"
+          },
+          "hash": "3e3eb02a5fe05befa8db95d28728905886c0fd94",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q37440$B2CF5B65-9653-4EFB-80C2-F953F80842E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791205250"
+          },
+          "hash": "47180a34cc7ff29e45020017f5b7191adb798cdb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37440$588453FE-A9DE-450C-BD78-936BFDF36D10",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wuluchi Arms.svg"
+          },
+          "hash": "d35a7b83d7c17177c6304850d7ee640f007dd31b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sohn Dschingis Khans"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Genghis Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Gengis Khan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Чингисхана"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Con trai Thành Cát Tư Hãn"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成吉思汗之子"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "成吉思汗之子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "成吉思汗之子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "成吉思汗之子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "成吉思汗之子"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "成吉思汗之子"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "成吉思汗之子"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "成吉思汗之子"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "成吉思汗之子"
+    }
+  },
+  "id": "Q37440",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wuluchi"
+    },
+    "be": {
+      "language": "be",
+      "value": "Вулучы"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Wuluchi"
+    },
+    "da": {
+      "language": "da",
+      "value": "Wuluchi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wuluchi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wuluchi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wuluchi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wuluchi"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Wuluchi"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ու Լու Շի"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wuluchi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "兀魯赤"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Үрүчи"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wuluchi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wuluchi"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Wuluchi"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Wuluchi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Улучи"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ngột Lỗ Xích"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "兀鲁赤"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "兀鲁赤"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "兀鲁赤"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "兀魯赤"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "兀魯赤"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "兀魯赤"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "兀鲁赤"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "兀鲁赤"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "兀魯赤"
+    }
+  },
+  "lastrevid": 17439860,
+  "modified": "2025-09-16T07:27:35Z",
+  "ns": 860,
+  "pageid": 55778,
+  "sitelinks": {},
+  "title": "Item:Q37440",
+  "type": "item"
+}

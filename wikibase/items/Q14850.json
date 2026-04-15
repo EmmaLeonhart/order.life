@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kim Sam-gwan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14850$7432484B-F7A8-40ED-9DEC-3B8364AB7024",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14850$11E4B093-9C6E-4A33-8965-47CCB2F52207",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14850$966BD253-894C-4E8E-9921-BB08BAEDF088",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14435",
+              "numeric-id": 14435
+            }
+          },
+          "hash": "8ae866c3c032921fa790fd2151a1ad53bf779f86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14850$383156D8-0C45-45DE-AB8A-262C07E4D84C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14847",
+              "numeric-id": 14847
+            }
+          },
+          "hash": "9d444f2d46a375ab95fc3718db19567008a9ce5b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14850$0FE0DB49-EE21-475A-BDFF-63764BF72AE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14850$2522893A-8EF3-4CE6-9B96-6BE2B5179AEB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0655-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af3c5cd0eb34929cf624243cc707c9faaaa7ac8b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14850$E9656611-0B13-4716-9F4E-5B640A6790E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12587560"
+          },
+          "hash": "877fb6ded9bc5ec92fb5c912a0ad2a55f658ff37",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14850$D3F872F9-C7D4-4844-9CAE-1A70A9A31E60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kim Sam-gwan Arms.svg"
+          },
+          "hash": "617c5c1db3ba4d6f4f92155f8140b492eff9107e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "신라의 관료"
+    }
+  },
+  "id": "Q14850",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kim Sam-gwan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "金三光"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "김삼광"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ким Самкван"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "金三光"
+    }
+  },
+  "lastrevid": 17414754,
+  "modified": "2025-09-16T00:13:50Z",
+  "ns": 860,
+  "pageid": 37148,
+  "sitelinks": {},
+  "title": "Item:Q14850",
+  "type": "item"
+}

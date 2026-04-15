@@ -1,0 +1,407 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shiban //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q38937$3DAC967C-7BD5-4735-A96E-2E3D8A55296C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "280330"
+          },
+          "hash": "66ae39ebde20389e258e8068d125aef546ad6637",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q38937$105439BE-12AD-416E-B9DB-3257C58B88F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40827",
+              "numeric-id": 40827
+            }
+          },
+          "hash": "9eb2bde9dca96914fa7d9077771d28820acbc4bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38937$0F4BC96D-E613-46B5-A611-25C39DC7E88B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38937$EE7606D5-6EF8-4C7D-A64F-41C8E0814225",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q38937$D4687352-C504-4A2A-AA30-530FAEBF500C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37432",
+              "numeric-id": 37432
+            }
+          },
+          "hash": "edc30f781c993a91eab3313b78d87b727ceef824",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38937$A16BC16A-2807-479C-B2D8-26D359DA3EE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38937$D7EA80C0-8FED-4021-9002-77DCC3D9A89B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d653b1b2636e35fc89fc0acbe518c00b2bbfce8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38937$C293D0C6-847E-4206-8835-CC8E15764BDA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1248-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10d7f83de4030cfce04215cc9398876e653cc04e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38937$C3A0BDBA-4A09-4B1F-B74C-37CE2F4002DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q935963"
+          },
+          "hash": "7068b6a340d4c231ae78bb5d698f83ff1804105a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q38937$A7DC8176-F061-4516-81B1-86FA0A5988D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791876883"
+          },
+          "hash": "b74478efb06edc96c747e82dba392c1325b0beb2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38937$AFD9E253-9232-4FFF-B201-7EEA76AAB0AD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shiban Arms.svg"
+          },
+          "hash": "9b52fb911a0382960066afe60b7c12a74459d0bd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "عسكري منغولي"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscher der Weißen Horde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongol military leader and Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khan, membre de la Horde blanche mongole"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "mongol vezér, a Fehér Horda kánja"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano e condottiero mongolo"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Шыңғыс ханның немересі, моңғол әскер басшысы"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Шибан"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Condottiero uit Mongolië (?-1266)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Монгольский военачальник"
+    }
+  },
+  "id": "Q38937",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "شيبان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Şeyban xan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Шыбан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Xiban"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Šiban"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schibani Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shiban"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shiban"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Chayban"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sajbán kán"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Շիբան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Shiban"
+    },
+    "it": {
+      "language": "it",
+      "value": "Shibani Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シバン"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Шибан"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "샤이반"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "昔班"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Шибан"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Siban"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Шибан"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சிபன்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Şiban"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Шәйбән"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Шибан"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "شیبان"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Shaybon"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "昔班"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昔班"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "昔班"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "昔班"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "昔班"
+    }
+  },
+  "lastrevid": 17441676,
+  "modified": "2025-09-16T07:53:37Z",
+  "ns": 860,
+  "pageid": 56897,
+  "sitelinks": {},
+  "title": "Item:Q38937",
+  "type": "item"
+}

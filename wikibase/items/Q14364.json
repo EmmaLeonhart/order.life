@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mikushige-dono"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14364$1C7AD753-854A-4B34-99D3-6224FC1907BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14364$E824CA10-3CC7-46F5-843F-21992C832ED4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14364$466E8897-2DF1-4BD4-A1CD-1D4665F54DEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13857",
+              "numeric-id": 13857
+            }
+          },
+          "hash": "b0314a095148cca876ff148e5240bdd0e3c6787d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14364$D4CC3DD8-AF44-43A0-8844-B2FC7DD76511",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14364$4A574C59-51B2-4168-9F6F-7EA1A082016E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "544a074662aebd6934b47d10691aed4627382456",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14364$7A43C156-9A4A-48DC-8513-94B8433CD69F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1331-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5105ab06d390c07edb884889d2b60ee7f12ed588",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14364$FC7ED5E8-8355-4D9C-82CE-48B03BA9F3DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lady Mikushige.jpg"
+          },
+          "hash": "d996cda9de792ebfd9c2ef912cff74d5406b64e1",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14364$213BDEA6-E251-447B-9E81-9957090239E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96581157"
+          },
+          "hash": "8f0e7ab937ebf65813430b1f6b5d4e76bcf81831",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14364$3439A23E-7F3F-44F2-BB99-688D42DB6293",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mikushige-dono Arms.svg"
+          },
+          "hash": "4245dc78c699deff27381d5c0610290931da7f3a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese lady-in-waiting for Empress Kishi and princess consort of Prince Takayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期の高級官僚。西園寺禧子の中宮御匣殿。尊良親王の妃"
+    }
+  },
+  "id": "Q14364",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mikushige-dono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "御匣殿"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미쿠시게도노"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mikushige-dono"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "御匣殿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "御匣殿"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "御匣殿"
+    }
+  },
+  "lastrevid": 17414434,
+  "modified": "2025-09-16T00:09:24Z",
+  "ns": 860,
+  "pageid": 36665,
+  "sitelinks": {},
+  "title": "Item:Q14364",
+  "type": "item"
+}

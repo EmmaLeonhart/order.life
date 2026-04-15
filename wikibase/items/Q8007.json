@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "秀世王"
+      },
+      {
+        "language": "en",
+        "value": "Xiu Shi Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8007$46E7F3B0-0E4C-430F-9C27-B6DBCA927B06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8007$3C1E9E71-30F9-46AC-8A81-12B8ED399E82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8007$A1F52244-7129-4BFD-9C7F-51E6EB198BF3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiu Shi Wang Arms.svg"
+          },
+          "hash": "253c80ffa8e4e76dde94b09493b8f51c321e215e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8007",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Xiu Shi Wang"
+    }
+  },
+  "lastrevid": 17407916,
+  "modified": "2025-09-15T22:40:59Z",
+  "ns": 860,
+  "pageid": 30498,
+  "sitelinks": {},
+  "title": "Item:Q8007",
+  "type": "item"
+}

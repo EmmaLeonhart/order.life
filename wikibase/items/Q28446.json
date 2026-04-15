@@ -1,0 +1,198 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Zao Chuan Xi Ping"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q28446$12BCAA2C-A491-45A7-89B8-8E4EFC032950",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32136",
+              "numeric-id": 32136
+            }
+          },
+          "hash": "c89b71d3adbba91d39647432597eb4fb044d582f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28446$4EFC4401-5917-4E06-8600-7E987DA23A08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32132",
+              "numeric-id": 32132
+            }
+          },
+          "hash": "703edda9029b50f91d1c45f9711a87f615ef1123",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q28446$61A340CB-1D72-4CA1-A91D-1FB3E6239D9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28446$EA8318C4-E667-44D8-A4E3-AB30690702CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28446$6CC35A61-735A-4EC0-BFB0-0E67770F6876",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28446$E5DAD48A-772E-49E8-AE97-305196965C6E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1416-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "adc0af859eb40716c0e442f3c82b32ab021a8920",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q28446$5A18EF22-BE69-456E-8A54-96281F7A2F91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1473-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f10d38b9edfe4b4fb2275aff47a13543c7f7b628",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q28446$76ED48C4-791D-402C-A0A5-5853E82584F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11460860"
+          },
+          "hash": "3ea2c5f5e3686d0a429bff09009c4ea5b82c9ed9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期から後期の武将。沼田小早川氏当主。小早川則平の次男。掃部助、備後守。子に生口元清、殊椿"
+    }
+  },
+  "id": "Q28446",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "小早川煕平"
+    }
+  },
+  "lastrevid": 17427736,
+  "modified": "2025-09-16T04:31:40Z",
+  "ns": 860,
+  "pageid": 49063,
+  "sitelinks": {},
+  "title": "Item:Q28446",
+  "type": "item"
+}

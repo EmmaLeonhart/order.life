@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hosokawa Kazuuji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15590$5249A269-34E2-47E4-9C34-55168198D83F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16288",
+              "numeric-id": 16288
+            }
+          },
+          "hash": "f4d537bfeaa13616eb9dec63194aa6b0df526cab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15590$54B22F9D-E4AC-41AD-B71A-6A702B1A7BF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15590$F79CF83F-AA6E-4431-ADED-0FD3584AA869",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15590$37547DE6-D4E0-43B2-8D13-6B5D1B4E5A80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15590$BAE48341-3EC9-48A1-A34A-69C1A73B6603",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1296-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "631f4fc67be1fe867561370b784842241b86a3ac",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15590$76280183-B0C4-4253-AC8A-E29C1BF348C1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1342-10-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ac540076649ae47edf2972a5216043ce1f257843",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15590$4BA2D87F-209C-44B6-8974-6D46ECCF8537",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11605870"
+          },
+          "hash": "f4e8b09f92a6c83932508961665186061b7121c1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15590$ED238D20-F99E-4F23-80EF-585BCC3FC656",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hosokawa Kazuuji Arms.svg"
+          },
+          "hash": "bbb446d14cd012219d74ab5aa4c2d9e9a6901128",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期～南北朝時代の武将。勅撰集『風雅和歌集』以下に11首入集。細川氏4代。阿波守。室町幕府 引付頭人、侍所頭人。子に細川頼和-細川義和、細川将氏（九郎）、細川家氏（左近将監）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q15590",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hosokawa Kazuuji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "細川和氏"
+    }
+  },
+  "lastrevid": 17415294,
+  "modified": "2025-09-16T00:21:19Z",
+  "ns": 860,
+  "pageid": 37875,
+  "sitelinks": {},
+  "title": "Item:Q15590",
+  "type": "item"
+}

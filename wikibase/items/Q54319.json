@@ -1,0 +1,329 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael of Bosnia //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q54319$794449E2-3617-4546-999E-1C09DDB3D155",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "280715"
+          },
+          "hash": "cd094fc945dfdc080acca2a3ef0a0d9f05eba80e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54319$D80A60FA-4C01-411B-BC8F-428E9A66F692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54319$77DDA53E-1830-4503-A1D9-4AF21D888BE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q54319$69724DDD-FF78-43FA-B549-64E1D6638092",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael_of_Bosnia_(1)"
+          },
+          "hash": "7c739da908bfb6eb4a26d8ff7f44627321ebd056",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54319$B87C2023-5640-44CA-A102-0A96C489B34A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54303",
+              "numeric-id": 54303
+            }
+          },
+          "hash": "1baee7fb74b8092a61801083d52275d16a0b3152",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54319$E0774111-375D-4A92-8B47-93F7678FEA61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49527",
+              "numeric-id": 49527
+            }
+          },
+          "hash": "b0dcb929686f2cdbd36234e6ef53746a92e5e37d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54319$B5FB5750-1543-4A4B-BDBE-3632FBF8DA47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54319$7563051A-C72C-4E2D-8E63-79B79596B5DB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54319$35AB7CB6-1FCA-44FB-949C-D5B7E2C3D3BF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1270-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c606a2489729877ed25a3e6dd285290a04c10d1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54319$C16ACA6D-251C-4CD7-9E91-65718B070A49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6835559"
+          },
+          "hash": "7eece847d73c727855250ec73d4264a78e03c8ef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q54319$C6D7E137-55F1-4881-A5E4-1C1D0872D871",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=mikhail;n=rurikides;oc=17"
+          },
+          "hash": "d5cfcd4a50b741e82ce76d812fe6ecdc3bc5e069",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q54319$938268FF-5C81-4C17-A079-94AAE7510638",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1267"
+          },
+          "hash": "43f8500ae05308e7283a6c47b9b5d6eb20ae58be",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54319$40BA85A1-4FD5-4C57-B30D-CBF86B5E042D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael of Bosnia Arms.svg"
+          },
+          "hash": "d755e73d1e93047e96e89d00f208cf1e1cce1996",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "リューリク家出身のボスニア公"
+    }
+  },
+  "id": "Q54319",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Michal Bosenský"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιχαήλ της Βοσνίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Michael of Bosnia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Michael of Bosnia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Michael of Bosnia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Michael of Bosnia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Michael of Bosnia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミハーイ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Miguel da Bósnia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Miguel da Bósnia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Михаил Ростиславич"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Михайло Ростиславович"
+    }
+  },
+  "lastrevid": 17461736,
+  "modified": "2025-09-16T12:45:10Z",
+  "ns": 860,
+  "pageid": 69150,
+  "sitelinks": {},
+  "title": "Item:Q54319",
+  "type": "item"
+}

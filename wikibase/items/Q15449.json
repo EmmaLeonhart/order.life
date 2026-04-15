@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shimoyama-dono"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q15449$D513918B-4B1B-4713-AF9B-E16D7E90A53D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "秋山-1"
+          },
+          "hash": "4b0cab17349382e9620e89b8376afb5f20da6f27",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15449$48B2914C-F679-4796-B380-73FCD76BF463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15449$E595C484-559D-4BE8-A5E8-AFF1D7CCB1F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15449$824463DE-BFA1-44EA-A6E6-490262BE9669",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "45c3786c144f06aa20e3f5d24932a969e3f265b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15449$9B69BB30-E1A2-4D06-9EDC-5F35D89E20D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16091",
+              "numeric-id": 16091
+            }
+          },
+          "hash": "0ca642717b320963047d4a5b3304e5cef040d049",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15449$A8513DA5-F588-40FD-A203-9D4E092825AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15449$D0177F94-AF51-49B1-8C39-92EB501EA13F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1564-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc879bd968cf0fd170a44fbeddd6d3e42ef922fc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15449$9A0AF91A-1957-46BE-A321-BEBA388D79FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1591-11-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ac42037a375875b01aa5bab1642db84caad4c5d6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15449$DA1D9439-A285-4C3C-81D1-A7491F2B8F17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11360827"
+          },
+          "hash": "4a9788029ee3c3ca869f82061e104967a02908eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15449$67E7406E-33FD-4D70-9BCA-2CC4A638EAE7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shimoyama-dono Arms.svg"
+          },
+          "hash": "bbfa3c03ec8bd0603f6f8c39676a15faa8f2d3a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "concubine of Tokugawa Ieyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "徳川家康の側室"
+    }
+  },
+  "id": "Q15449",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shimoyama-dono"
+    },
+    "be": {
+      "language": "be",
+      "value": "Шымаяма-дона"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Šimojama"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σιμογιάμα-ντόνο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shimoyama-dono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shimoyama-dono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "下山殿"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Shimoyama-dono"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Shimoyama-dono"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Shimoyama-dono"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "下山殿"
+    }
+  },
+  "lastrevid": 17415194,
+  "modified": "2025-09-16T00:19:56Z",
+  "ns": 860,
+  "pageid": 37736,
+  "sitelinks": {},
+  "title": "Item:Q15449",
+  "type": "item"
+}

@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hasegawa Yoji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48027$05F4A1A4-C03D-4F37-A0E6-4B7AD76262B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24021",
+              "numeric-id": 24021
+            }
+          },
+          "hash": "4ed36ddd9fedafc1601b33501b4b181444ca049c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48027$14A1BCB2-EB49-4985-894A-C09339735103",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48027$843274D3-5772-4638-B4A7-FF6BFDC05459",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48027$A4E7DD4E-48D0-43C8-BCC1-12B4E5766AE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48027$C9773A36-14C8-4A7D-BC82-8E3804FC86FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48027$C9C63DB4-2FEC-4A92-A6B7-593D1647E271",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1600-05-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f3d63aba7b35b9f432604e022fc984c2c00bbabf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48027$0762E429-F8DD-41EC-822A-1CBEF28D60E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11653719"
+          },
+          "hash": "4115e16b26c9b98a51cebfd3b97ae1730df89c95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48027$AA697FDD-382E-45F0-9863-31503B6BD665",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hasegawa Yoji Arms.svg"
+          },
+          "hash": "e721c85037713fe5add28026486aa1e59fcbe352",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Sengoku period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q48027",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hasegawa Yoji"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hasegawa Yoji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hasegawa Yoji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "長谷川与次"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёдзи Хасэгава"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hasegawa Yoji"
+    }
+  },
+  "lastrevid": 17453352,
+  "modified": "2025-09-16T10:42:11Z",
+  "ns": 860,
+  "pageid": 63693,
+  "sitelinks": {},
+  "title": "Item:Q48027",
+  "type": "item"
+}

@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kushige Takachika"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19096$53225E14-1AF0-4C7F-9BBD-B9D0749BBB67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35687",
+              "numeric-id": 35687
+            }
+          },
+          "hash": "80639226b18220074cdf172a2399dff35018ba07",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19096$FB6E3CD2-0EC1-4F26-A115-EB3A8DEF81BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28086",
+              "numeric-id": 28086
+            }
+          },
+          "hash": "c704dbcb691eaff69320a703dacc374473f1474b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19096$2F466E6B-0785-4BFD-87B0-06F6516DEB9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29486",
+              "numeric-id": 29486
+            }
+          },
+          "hash": "b698b441c25f4df8d0ec3f33b58788791268b8fa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19096$E8482DE9-6344-4887-AA61-1107E7D1987E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18542",
+              "numeric-id": 18542
+            }
+          },
+          "hash": "2fa7e8c5b70bb9ba2c3f04e17d2abfdffb12c5a6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q19096$868A6910-2A7D-49F2-BCBF-B2BF2527D5F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "櫛笥-1"
+          },
+          "hash": "8e646a5cc8a0b68c61171868a96998a6af7974ff",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19096$D0F7BF0D-3EAA-4168-8050-9F42AD65CB89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19096$A1D04E16-04DA-4088-8650-33A32163EF18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19096$12B6FFBD-97C1-44F4-9678-7732BF16BE98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19096$10E9437D-9C10-46E3-BBB5-E7BDA7C6BAAE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1556-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "123d5d2b4c3f8464c785293869a8f6aadcd208a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19096$6798B303-AABD-44EF-BA24-8CF0D1A157CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1613-08-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a70ed8fd95d3e7d71b4de80dd63629ec39bd4705",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19096$BE99314D-4C59-4B1F-AA19-4C3915C5FEC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11544731"
+          },
+          "hash": "e72d17cfef5daba53cf2e984af3dc6abc179de1d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19096$F3CE5D20-2D39-4FF6-8C54-98EE2EE1EDD2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kushige Takachika Arms.svg"
+          },
+          "hash": "94a32295027466d5f8f4b5ed96c660f54a5f4a0a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble of the Azuchi-Momoyama period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の公卿。従四位上左中将。贈左大臣"
+    }
+  },
+  "id": "Q19096",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kushige Takachika"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Takačika Kušige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kushige Takachika"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kushige Takachika"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "櫛笥隆致"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такатика Кусигэ"
+    }
+  },
+  "lastrevid": 17418344,
+  "modified": "2025-09-16T01:29:49Z",
+  "ns": 860,
+  "pageid": 41260,
+  "sitelinks": {},
+  "title": "Item:Q19096",
+  "type": "item"
+}

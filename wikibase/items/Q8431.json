@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ono no Iwao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8431$7575B053-6290-4135-B9A9-C97F637FEC05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8724",
+              "numeric-id": 8724
+            }
+          },
+          "hash": "83c8850bc9065fb25f79bc4d04dfd9a89a3afa28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8431$D7DBE69F-FF3B-424D-97C8-D589BCAD8E8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8723",
+              "numeric-id": 8723
+            }
+          },
+          "hash": "1e50c8688f34b07fb570598bcc53064aef1be0d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8431$E2974E81-242E-4BD1-9B23-36AF26C9CA13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8722",
+              "numeric-id": 8722
+            }
+          },
+          "hash": "4cf5e1d26cc946e32b475b8e5dca5eefd3fe66ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8431$C72356A2-DD9C-4B1F-BCF9-1F4619CB0A1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8431$D4DB019B-9B40-40EC-9ADC-751CB926C944",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8431$B6EC0417-A432-4609-B64D-FADFF2EA6828",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8125",
+              "numeric-id": 8125
+            }
+          },
+          "hash": "daade21f2acb67b9cfeea7b1af4d9567ce249dd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8431$05E3AD01-6691-4799-A857-E2B2B2A5555B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8431$EEED5982-B184-4734-B731-F06A6331F26C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8431$3E2B87F4-B13E-4FCA-91DC-5424619D0614",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11464220"
+          },
+          "hash": "8ba01c00c43d5feb6badad44ea876e9bff84b963",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8431",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ono no Iwao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ono no Iwao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小野石雄"
+    }
+  },
+  "lastrevid": 17408822,
+  "modified": "2025-09-15T22:52:17Z",
+  "ns": 860,
+  "pageid": 30918,
+  "sitelinks": {},
+  "title": "Item:Q8431",
+  "type": "item"
+}

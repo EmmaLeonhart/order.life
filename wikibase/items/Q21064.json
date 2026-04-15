@@ -1,0 +1,357 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaeru"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21064$CB7F4908-6A11-4480-A669-AAD8A95DAED5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19238",
+              "numeric-id": 19238
+            }
+          },
+          "hash": "25a8c37fc3a5c2abc2e209db3e020fb8209d3577",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21064$0833B1C8-2AB2-4648-BB9D-05807284D315",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21065",
+              "numeric-id": 21065
+            }
+          },
+          "hash": "9c352533fcb0db51bc75a958dd7eb2fbbfdd1e3d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21064$479977F9-0017-4482-AD6D-2B02E9D43E13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21064$E9C0EBC0-7CEF-48A5-BDBD-6DE710555202",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21064$2A6F7D3C-FA8E-428A-857C-A42D1A10E773",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23055",
+              "numeric-id": 23055
+            }
+          },
+          "hash": "f6bc7e96e1abbd0033a3e4f873c42a78151421fc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21064$7E98C0E6-1AA0-47DB-A084-BB65D124AEC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21064$3763BD80-A4A7-4091-91DE-7C061416D40D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0105-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eee242d4a7216f9714d259a9616d447d9c85e790",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21064$2D58E2B1-AD5B-4376-9FEA-1288951D3ADC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0166-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea626a72da0be3e39aa252a73bfec6e5931a0b8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21064$C5F45E36-48D0-4174-9054-1E7218603A3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q497364"
+          },
+          "hash": "73e9c565859de7d7c50179c0d9e5488f0b3353c7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q21064$C76F427D-07C6-4ACB-A404-5A206A92A903",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012927117840"
+          },
+          "hash": "24cd1a06413bfa67b57ba4ad475292c9dbf5098f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21064$DD10A917-4A13-4E4B-9A40-C7CE0B991DE3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaeru Arms.svg"
+          },
+          "hash": "fb04708a6d45134960a2d0abaea2135ef51b0c10",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Baekje, einem der Drei Reiche von Korea (128 bis 166)"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the Korean Baekje dynasty from 128 to 166"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pekcse királya"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "百済 の王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "백제의 제4대 국왕 (?~166)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель (ван) Пэкче"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ван Пекче"
+    }
+  },
+  "id": "Q21064",
+  "labels": {
+    "ckb": {
+      "language": "ckb",
+      "value": "گایروی بایکجی"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaeru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaeru"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gaeru of Baekje"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه گائه رو"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Keru pekcsei király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaeru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蓋婁王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "개루왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蓋婁王"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kài-lô͘-ông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gaeru"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaeru"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кэру"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaeru"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าแกรู"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Керу"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cái Lâu Vương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蓋婁王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "盖娄王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蓋婁王"
+    }
+  },
+  "lastrevid": 17419902,
+  "modified": "2025-09-16T02:10:26Z",
+  "ns": 860,
+  "pageid": 43128,
+  "sitelinks": {},
+  "title": "Item:Q21064",
+  "type": "item"
+}

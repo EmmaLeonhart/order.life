@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhu Yiling //"
+      },
+      {
+        "language": "en",
+        "value": "Zhu Yiling"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q30732$7E853DAC-E1D7-494F-B1F0-2C59D46C7254",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30732$75CB91BB-6234-4F0E-BF7D-4ADB5D4792BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q30732$C7B64EC2-90AC-489C-BCE4-39FA3C28A184",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30038",
+              "numeric-id": 30038
+            }
+          },
+          "hash": "a20cef9fbd9c2c562c40c2675592574fdb0f71a5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q30732$E45D77F1-CED3-414D-BD8A-FE6C2365513E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30712",
+              "numeric-id": 30712
+            }
+          },
+          "hash": "e3901c6b802a1db6caf89cc7c965f33297fc73fe",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30732$DC799B50-A085-4024-8F13-6758470C4FA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q30732$5B708ECC-97C1-4819-A1CE-5286839B987D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1555-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e442138ea3a646facfcbad811c5b58e7996e8ef",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30732$4413D46C-96FA-4428-AAD8-1497DDC9300D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11094631"
+          },
+          "hash": "6029417664de1ff0e1636bbbc42525fd8bd57a9f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30732$92A271B4-BD5A-4B89-A5B8-EF3E03A8A0D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhu Yiling Arms.svg"
+          },
+          "hash": "39b40b3ef4a1552d88b0769bf0cbe12de083288c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Longqing Emperor"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "hoàng tử nhà Minh, con trai Minh Mục Tông"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明靖王"
+    }
+  },
+  "id": "Q30732",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zhu Yiling"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ču I-ling"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhu Yiling"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhu Yiling"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱翊鈴"
+    }
+  },
+  "lastrevid": 17430346,
+  "modified": "2025-09-16T05:09:23Z",
+  "ns": 860,
+  "pageid": 50763,
+  "sitelinks": {},
+  "title": "Item:Q30732",
+  "type": "item"
+}

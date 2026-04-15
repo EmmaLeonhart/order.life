@@ -1,0 +1,201 @@
+{
+  "aliases": {},
+  "claims": {
+    "P3": [
+      {
+        "id": "Q445$270B6020-A78D-4977-B4A6-7F46192400ED",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Acorn"
+            }
+          },
+          "hash": "9152c47bd40805526ff202e73a523e360b8bf6a9",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q445$61D744F0-778D-4D61-B05D-FEAB581D8B71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q445$DABB7569-C26D-4EFE-B7B9-C9A14E2A868F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q445$F8E4100E-0027-45D3-A24A-5242F22EF5F3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Enteropneusta"
+            }
+          },
+          "hash": "0f508e3818870e50ffe4a92de2e7c774e03b6b9c",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q445$C00DF146-3B71-4164-BEC2-9EF71394A580",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q430",
+              "numeric-id": 430
+            }
+          },
+          "hash": "7a3e1a242697ff89273c54aa0078fdf05c38abfe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q445$B370A231-F438-4BF5-9DC1-F713E57E37D2",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Acorn  Enteropneusta"
+            }
+          },
+          "hash": "6a98fca21e5e3bbd51d5b2388cf9358347e9686c",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q445$489B3825-3020-41D4-81D2-B626BB3ED164",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P63": [
+      {
+        "id": "Q445$79F70CF6-1698-48A6-859F-5B49B754B9C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "670BCFC5854F71EFBBFF9822EF79916C139A"
+          },
+          "hash": "86ee9a189e2097c6b942b2dd5ebd55c3a44fc31e",
+          "property": "P63",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q445$E84FA1F1-4C42-43E7-A204-085B22355288",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Acorn Enteropneusta Arms.svg"
+          },
+          "hash": "40839ad874e2f60204df9f503adc55039e0583a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Gaiad character"
+    }
+  },
+  "id": "Q445",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Acorn Enteropneusta"
+    }
+  },
+  "lastrevid": 17402136,
+  "modified": "2025-09-15T21:07:04Z",
+  "ns": 860,
+  "pageid": 17682,
+  "sitelinks": {},
+  "title": "Item:Q445",
+  "type": "item"
+}

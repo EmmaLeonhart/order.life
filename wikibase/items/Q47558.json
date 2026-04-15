@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Haruhisa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47558$377B6989-7434-4FE4-8B35-9B5B2E20BE14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23805",
+              "numeric-id": 23805
+            }
+          },
+          "hash": "4db6bb9eab089ee00c65ea11acfaa511df24e955",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47558$5561A368-BAB6-4590-9E8E-E94BD9FB3D46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47558$0B959CDC-CAF0-41FF-90B2-C3E019EE7BB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47558$E25D47CA-BA47-4347-A48D-8C75D10D19B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47558$22E7516B-B8F5-4618-8699-C2F0101B1280",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "42cecb20a3fd6927f74e1b56fb20124dc6231fb4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47558$9CB546CD-5834-403C-B017-F9DB58B680CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1352-12-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01b41c80165a0a851173cbc58c2ea6c7da0bdc25",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47558$EA0AA4A2-67D3-4C41-8A3B-A48D92705022",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11463152"
+          },
+          "hash": "165e269a2606cf9620a42eaf99034a3ca56fdcb9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47558$E39CC0AA-5EB1-4068-81C9-EBF1475D01E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Haruhisa Arms.svg"
+          },
+          "hash": "d2ae6838daaba0d1dbd8f5f681554014f528b13d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期から南北朝時代の武将。小田氏7代? 8代? 宮内権少輔。尾張権守。常陸介。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q47558",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Haruhisa Oda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Haruhisa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Haruhisa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小田治久"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Харухиса Ода"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Haruhisa Oda"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Oda Haruhisa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小田治久"
+    }
+  },
+  "lastrevid": 17452726,
+  "modified": "2025-09-16T10:33:15Z",
+  "ns": 860,
+  "pageid": 63344,
+  "sitelinks": {},
+  "title": "Item:Q47558",
+  "type": "item"
+}

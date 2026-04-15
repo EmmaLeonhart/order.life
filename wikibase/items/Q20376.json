@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Higuchi Nobuyasu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20376$F1EBADB5-0F61-461A-BA99-078379708FA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30448",
+              "numeric-id": 30448
+            }
+          },
+          "hash": "3400753ae552794fbf3ef66b1bb4025dd42bb74d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20376$6EE5130D-6F43-4CC5-B1B7-CA65460415DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38558",
+              "numeric-id": 38558
+            }
+          },
+          "hash": "d5e346c24472bcb25cf38247caf8c6ff07086f3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20376$3A7DC0AC-CD2F-4BC1-AFBF-596F7A577223",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38562",
+              "numeric-id": 38562
+            }
+          },
+          "hash": "ae264a4947f7ac61cd38911df25cd747478dc874",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20376$FF4D45CE-EC57-40EA-AB71-AD27526EB378",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38566",
+              "numeric-id": 38566
+            }
+          },
+          "hash": "4719dee448887d6c3a85f9454c07eb960a9265e5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20376$CF14EE6A-23BF-44A6-A596-5DEDC92F9EDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20376$D3B8A695-3EF8-4386-AE41-B5CDA15563ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q20376$66526A89-C644-4B58-8E11-82F8A62355B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38554",
+              "numeric-id": 38554
+            }
+          },
+          "hash": "a299e1a3ba0f2ed71213aa480d69c9a2435daee2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20376$F5E5BBCC-B890-40F5-A36E-62CB26C69EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20376$C098B4C9-B4B0-44C9-B89E-0A403D59600A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1623-12-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "148de85acd798349df3dc2e7cc8a4a672beb2b24",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20376$2C24B55B-65E6-4E3F-B894-8A95F74A9BFD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1691-07-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4f9f61c023ac6310e448da5674adc2927997160",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20376$0E5667BF-F610-4C4D-97B4-4ECD7B431A64",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11542066"
+          },
+          "hash": "0dd2fe5e811fefca57bf7623b5d64727ca0d621e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20376$4C37ED6D-1CAE-4C08-BB1E-2BBF7F447992",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Higuchi Nobuyasu Arms.svg"
+          },
+          "hash": "b3318451f3a8f46cc5f48afcbdec0f19510ea8fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代初期の公家。樋口家2代。従二位権中納言。子に中条康満（-1725.8.22、尾州住、伊豆守、従五位下）、鈴木重長の妻、松平忠勝（半左衛門）の妻"
+    }
+  },
+  "id": "Q20376",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Higuchi Nobuyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "樋口信康"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобуясу Хигути"
+    }
+  },
+  "lastrevid": 17419478,
+  "modified": "2025-09-16T01:56:39Z",
+  "ns": 860,
+  "pageid": 42455,
+  "sitelinks": {},
+  "title": "Item:Q20376",
+  "type": "item"
+}

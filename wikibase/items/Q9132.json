@@ -1,0 +1,137 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Masakiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9132$B8CBF113-14EC-43CB-BB63-ECAFB0CD33DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9132$6AF18761-518B-4871-BDB9-AF292837ADB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9132$131D16B8-265C-440D-B099-5202E6E6BDCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9132$19F9707C-7AFB-461D-8A26-1674B7AC5175",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0931-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5032209da2cb462129cc35030e9090336246dab0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9132$A0A1161C-E402-4352-B960-84A12F6D2529",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q86743637"
+          },
+          "hash": "77492507d6fab7158fd03ae914b89b0d1cb2fdac",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q9132",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Masakiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源正清"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Minamoto no Masakiyo"
+    }
+  },
+  "lastrevid": 17410348,
+  "modified": "2025-09-15T23:11:13Z",
+  "ns": 860,
+  "pageid": 31604,
+  "sitelinks": {},
+  "title": "Item:Q9132",
+  "type": "item"
+}

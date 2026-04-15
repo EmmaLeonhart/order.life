@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Imadegawa Saneoki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22814$50F3C600-31C2-4D00-8329-6F86A12847B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22814$00B09569-2206-4078-AC23-DE366A3951E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22814$BB53AADE-2B6C-4454-A545-5BE3513FA922",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20874",
+              "numeric-id": 20874
+            }
+          },
+          "hash": "016e43f03b0956052a05669555d53779f1eac52f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22814$BC3B2D92-FB25-45FE-A863-360983CB1B81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22814$229FC704-80E8-4E97-AE2F-BF12861F83BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1716-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e9592d744baea246059a270a3e8113daff9455c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22814$CCD9CE93-42EB-48F2-890F-B2DE1ADF4166",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1730-12-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d3186d6b47f463a9c8827981d13e2d34697cdb58",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22814$5C39E0B0-4664-4056-87CD-D45F5FD57311",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11376757"
+          },
+          "hash": "edb0335e50be5ca43f4bf388d725ecd2506ec3cc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22814$D1DCCA37-23C4-4A91-AFEF-C8899661C6CD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Imadegawa Saneoki Arms.svg"
+          },
+          "hash": "92a009f5ac6d3f3e64962865b98cfe45cf14e725",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q22814",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Imadegawa Saneoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "今出川実興"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Санэоки Имадэгава"
+    }
+  },
+  "lastrevid": 17421580,
+  "modified": "2025-09-16T02:50:26Z",
+  "ns": 860,
+  "pageid": 44792,
+  "sitelinks": {},
+  "title": "Item:Q22814",
+  "type": "item"
+}

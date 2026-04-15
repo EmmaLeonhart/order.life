@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hosokawa Yorisada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15111$4E2A8E99-F3B9-4E02-8D0E-57F026127687",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15586",
+              "numeric-id": 15586
+            }
+          },
+          "hash": "5bc46aa1ae0aaf01e185c78f5adcb7bf134a4445",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15111$C7AC2DC2-BF4F-4CB1-8663-1D3CBDC3A232",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15589",
+              "numeric-id": 15589
+            }
+          },
+          "hash": "374d1bbbe00197795752ad8fb32b371e08c59e3b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15111$80CA84B0-B853-47C0-B3E6-7D95A01B8A88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15111$9E7CB352-49E4-4B01-84DC-F0A525F8F659",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15111$544E9A66-73C0-44F7-9268-8C06AF587C3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15111$141AD5BD-9010-4A92-A0E5-9B8E74E5ABA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "+1335-07-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5c5e9a5dabbac6bf805c5603bdbc1dbc32609cb4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15111$977301D7-69AE-4549-AF0B-42FD64EC65AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11606026"
+          },
+          "hash": "80e983e4ca2fe6988488f78ab27a6fdddb3cd817",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15111$1914BE4D-BA6C-4D0F-B416-B37BA417F83A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hosokawa Yorisada Arms.svg"
+          },
+          "hash": "bf01f65f3b19c777bc307f33881f2a1ad3e34f88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期の武士。細川奥州家の祖"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q15111",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hosokawa Yorisada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "細川頼貞"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёрисада Хосокава"
+    }
+  },
+  "lastrevid": 17414940,
+  "modified": "2025-09-16T00:16:27Z",
+  "ns": 860,
+  "pageid": 37403,
+  "sitelinks": {},
+  "title": "Item:Q15111",
+  "type": "item"
+}

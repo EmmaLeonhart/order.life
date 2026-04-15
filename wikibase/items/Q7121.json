@@ -1,0 +1,795 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bidatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q7121$3AA5A403-3478-4C41-AC9C-BC3EE44CA99A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485654"
+          },
+          "hash": "90fad04ec42be52b63947c003999257b27db9efa",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q7121$80FB2CCB-ACCF-4DB8-8A0F-8182240149DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00524438"
+          },
+          "hash": "988913a3264357f6ee94e382d19e6ae27107434b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7121$E147B393-1F6C-47A7-8A6A-0F8CC769FE6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7171",
+              "numeric-id": 7171
+            }
+          },
+          "hash": "3740d11557b9c0d631928d4d9b02adb1597e69a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$3621891B-4BC6-42FA-A5E6-FFD4662EAF3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7170",
+              "numeric-id": 7170
+            }
+          },
+          "hash": "e1d490fd7c7b3eb2d596137583e5ca1515241132",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$8E522D4D-8EFF-4874-87EC-68463EF98377",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7123",
+              "numeric-id": 7123
+            }
+          },
+          "hash": "8dd293212ae87c76b965e344046f1a7e27147baa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$3B16904C-2F16-4A10-9512-42BC8D0566B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7165",
+              "numeric-id": 7165
+            }
+          },
+          "hash": "9d235fa928783d28538dc04554dd9ec8e4d22e3d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$91A8967D-B369-43FB-98B4-171055AF5358",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7167",
+              "numeric-id": 7167
+            }
+          },
+          "hash": "0380ebcd928b13e2977c42362e05c8ce6a2dcd77",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$CA0C198E-8152-41E2-907E-4200303597E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7169",
+              "numeric-id": 7169
+            }
+          },
+          "hash": "8554a65c9cba1e9b8b55790f7500b2c81b85f463",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$474D8B17-647E-4304-8E5C-DE3776FC681F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7166",
+              "numeric-id": 7166
+            }
+          },
+          "hash": "3d250a2429e509ddc03a8659877a2e79ae8b901f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$64D47F98-AF55-4FC2-BC44-2B568E0B9BE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7168",
+              "numeric-id": 7168
+            }
+          },
+          "hash": "d80b4248d59134064777edd17daf2bdac38bbf95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$753D2961-03DD-44D8-9760-64E634CED61B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7174",
+              "numeric-id": 7174
+            }
+          },
+          "hash": "71c246ec8842506d583c2ed467c5f0def7179b0a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$C3CCCAF0-B6C3-4AEF-872E-6C5E5396FA8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7175",
+              "numeric-id": 7175
+            }
+          },
+          "hash": "98532391cdbe6d03a2483508082e032eebbdec72",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$4732E912-A317-4C89-BF99-76F37170F019",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7173",
+              "numeric-id": 7173
+            }
+          },
+          "hash": "4e2d8342e0b72adf3d7d02967a662fd05563ae2c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7121$84337522-90F7-45E6-B42A-632FCED80B3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$3ABFE1B1-6093-4200-B25D-7B3ED628FDEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7121$AF7F807B-BF4F-486D-9ADD-852734490F44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7089",
+              "numeric-id": 7089
+            }
+          },
+          "hash": "d177d1e0d286f8fae70d102e482d044c8f93a4d3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$218DF533-B7E1-4ADB-8DA6-A15C3F2C0DE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7156",
+              "numeric-id": 7156
+            }
+          },
+          "hash": "06b507b888af617cf45ac742d2cf55e59b5cf242",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7121$0AB55BF9-956C-446B-8AF9-DEF0AD1EF113",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7164",
+              "numeric-id": 7164
+            }
+          },
+          "hash": "69f36395615a8e77c6ace690b44c917ee4081137",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7121$81BBCA2C-4EA3-4C90-AF18-EC1F9D743C32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7142",
+              "numeric-id": 7142
+            }
+          },
+          "hash": "4e92ccf1b2d4895e8fe982eaa5927b3d864d9887",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7121$A11AA646-BAB5-4052-A47F-0BB2870BB243",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7144",
+              "numeric-id": 7144
+            }
+          },
+          "hash": "fce6c102a96fbc317f974802e5591292aa5e576d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7121$FBDD4E6C-FD42-4976-8D2B-F205151FBDF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7121$5218849D-B2FB-45A6-9010-899BE0EE27D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0538-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1ffe0180463cbb0c4bbab4d993fa876a1b35ab37",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7121$7817227E-40AC-4929-AA56-BD0C5CDD27A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0585-09-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cf9b4cd20ce6095d96a81cd2ee6ec692ae4d1884",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7121$E2C5025C-AF49-4BC4-9994-6F0ED3C87A47",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Bidatsu.jpg"
+          },
+          "hash": "09389a8e8ccc150a099c5094431e3a5ce5781de4",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7121$72A47A89-3F0A-422F-8F14-526D978D968E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316637"
+          },
+          "hash": "812350ee0955a88999ed169a6f25b0054e6d330e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q7121$D3A871F8-1D95-4615-A6C7-9598BA24031F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Bidatsu"
+          },
+          "hash": "671593402aa1b6dc0536fea6db96a9758a3c8e82",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7121$931BEED5-F6D9-4315-8747-E4D2C2451DE7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bidatsu Arms.svg"
+          },
+          "hash": "8789828a1bf75c4a74e0c4aebf0cd3ae36631b1d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (538–585)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "30. japonský císař (572–585)"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "30. Tennō von Japan (572–585)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador japonés (538-585)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第30代天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제30대 천황"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Japonijos imperatorius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (538-585)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "30-й император Японии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng thứ 30 của Nhật Bản (trị vì năm 572–585)"
+    }
+  },
+  "id": "Q7121",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور بيداتسو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور بيداتسو"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیداتسو"
+    },
+    "br": {
+      "language": "br",
+      "value": "Bidatsu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bidatsu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bidacu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bidatsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bidatsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bidatsu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور بیداتسو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bidatsu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bidatsu"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Bidatsu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bidatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "敏達天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბიდაცუ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "비다쓰 천황"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Bidacu"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "बिदात्सु"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Bidatsu"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Bidatu Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bidatsu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Bidatsu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Bidatsu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Bidatsu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Бидацу"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Bidacu"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Bidatsu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Bidacu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bidatsu"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bidatsu"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิบิดัตสึ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Bidatsu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bidatsu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Бідацу"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Bidatsu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Bidatsu"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Bidatsu"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "敏達天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "敏达天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "敏达天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "敏达天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "敏達天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "敏達天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "敏达天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "敏達天皇"
+    }
+  },
+  "lastrevid": 17406997,
+  "modified": "2025-09-15T22:29:25Z",
+  "ns": 860,
+  "pageid": 29616,
+  "sitelinks": {},
+  "title": "Item:Q7121",
+  "type": "item"
+}

@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nobuakira"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q20172$B970DD94-92A8-48C4-832F-7EA6AD169E91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-29"
+          },
+          "hash": "012fc2a314204f34163ed45615ae0a06a8380313",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20172$19078D35-7757-41FF-B486-0DEE3E545CA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20172$9C91DA74-2410-4C07-946E-6DBF4D71333A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20172$CCCE3B63-6987-42B4-980D-5D87B1B8FC51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30122",
+              "numeric-id": 30122
+            }
+          },
+          "hash": "9b1ea9e51951c2163edf793b65e75437e5ee2ddd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20172$463DB821-7C78-45D2-9819-A6A3304D3867",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20172$DC526E2E-567A-4B17-9D74-CAB10BE842BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1662-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fcd90212259c66325235fc87f87063c6f25e7ed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20172$A73D6F93-F625-4C37-8110-33F1F521A161",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1736-10-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "33227c07959dacddd64fe47c950a89f09cc9e7dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20172$932AFBE1-1FB7-42A2-964C-D2C2A761CB29",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608310"
+          },
+          "hash": "25a3d14462fd74c31aff50c18068a066e29dc70d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20172$31A6000E-653D-43F2-8590-C15E57339581",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nobuakira Arms.svg"
+          },
+          "hash": "fb74288543eba8bde449c4a6dd213ca213a148e0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Edo period"
+    }
+  },
+  "id": "Q20172",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oda Nobuakira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Nobuakira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Nobuakira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田信明"
+    }
+  },
+  "lastrevid": 17419318,
+  "modified": "2025-09-16T01:53:01Z",
+  "ns": 860,
+  "pageid": 42264,
+  "sitelinks": {},
+  "title": "Item:Q20172",
+  "type": "item"
+}

@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mōri Takayoshi"
+      },
+      {
+        "language": "en",
+        "value": "Mori Takayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50218$BCB77C25-DA97-47A2-9E95-F47A68712EEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57749",
+              "numeric-id": 57749
+            }
+          },
+          "hash": "23008f789766b8e8ccc4c45a746a6514b4462201",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50218$64E585C5-B058-4536-A97D-D6FD67320B1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50218$0A7BA052-360E-4104-B518-CAC3D3FC368C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50218$69DB0411-2149-46E8-AED0-9049A204A8E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24641",
+              "numeric-id": 24641
+            }
+          },
+          "hash": "b7e90ed0e9b74b32739a28fe6b894a0ce0b4ad70",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50218$F858D0A9-FA0D-494A-BEC9-74D1279CB9B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50218$65F1AB96-B910-470E-9A23-3E56AA4967FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1675-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83821e6e8f0f58ba6c52f8b6cfb2232fd07e6cc8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50218$A2DE90FB-DF85-4083-B841-5D936DF538D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1743-10-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5c251799a68af4867c02d1d165fa39a81cc3fa4c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50218$3E41323E-FE76-442A-B8E3-63BA2D8FC98C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11547704"
+          },
+          "hash": "84678bcf64758b3e4e87ff157846432650c64c1d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50218$311297EA-F2F7-4697-A82C-763F9AE00F12",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mōri Takayoshi Arms.svg"
+          },
+          "hash": "0530e39a790f92178554ea11d898e5d5f2efccac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q50218",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mōri Takayoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mōri Takayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "毛利高慶"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такаёси Мори"
+    }
+  },
+  "lastrevid": 17456336,
+  "modified": "2025-09-16T11:25:28Z",
+  "ns": 860,
+  "pageid": 65329,
+  "sitelinks": {},
+  "title": "Item:Q50218",
+  "type": "item"
+}

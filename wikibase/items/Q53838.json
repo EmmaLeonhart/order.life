@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gao Mi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53838$BD45E5AB-4D06-4AD1-81BF-F21FA18B55A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53842",
+              "numeric-id": 53842
+            }
+          },
+          "hash": "19794292139883c5d14b0000c6bd234935540f6a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53838$D3D7B6E4-9F2E-4440-B36A-78F1DA931B2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45333",
+              "numeric-id": 45333
+            }
+          },
+          "hash": "a7cdd595b366fc1d2220e07a3ee4315477430993",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53838$C494BAF0-4462-4E3E-9547-47AE97743F69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53838$67EB5D5F-3012-4520-9B00-157774D3F640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53838$C85BC045-CBAB-447B-80ED-49715FA64AE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60598",
+              "numeric-id": 60598
+            }
+          },
+          "hash": "3bc3ff03459e1850c6635c3b82b6bc330d49979d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53838$C8787A78-DDBA-402F-A609-3AE1FAEC785D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53838$C7454CC7-5355-4145-BC75-EFF94919845E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0428-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3772d5a31be24467d0f66d01e9271cc829431cc9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53838$8D71FC42-B9F8-4A15-A0DC-C08E30D107FC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0472-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fafbee2df63d986bcce4e623fc93b74763297a0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53838$09D6C707-9F66-430B-B3C8-DD0DF8833EFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11672838"
+          },
+          "hash": "f84caac510a3e89ab8e76a3e701d7b99e666eeb8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53838$E5EB8572-35C1-4FDC-A4E2-51E9F0A78C11",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gao Mi Arms.svg"
+          },
+          "hash": "ed62ea76e5c8c73ea385392849f5aa22369beec6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 172853"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q53838",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gao Mi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "高謐"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고밀"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "高謐"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gao Mi"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gao Mi"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "高謐"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "高謐"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "高谧"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "高謐"
+    }
+  },
+  "lastrevid": 17460920,
+  "modified": "2025-09-16T12:33:07Z",
+  "ns": 860,
+  "pageid": 68669,
+  "sitelinks": {},
+  "title": "Item:Q53838",
+  "type": "item"
+}

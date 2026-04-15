@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Yoshiko //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q43739$EDBE23A9-E45D-4ABB-AE75-64E9E31A0302",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523108"
+          },
+          "hash": "750d9b9573e107c23fe31711cad64b44c379f5b8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43739$E52B92E7-12D0-4F3F-AD18-376E9AF683F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41336",
+              "numeric-id": 41336
+            }
+          },
+          "hash": "34c01def081dc38439b07ca5f83683746bae859a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43739$028E1A43-24DD-448B-AD8F-DED4FD938BBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15237",
+              "numeric-id": 15237
+            }
+          },
+          "hash": "a5f107559f4c7de49daebab4294bc310d008db14",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43739$C5BDBFEC-665C-4BA6-9A0E-0F38F89486F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43739$2BFC2E19-5555-446E-81D5-8852B169B449",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q43739$E9F73298-038F-400F-BF75-4963A865749F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15691",
+              "numeric-id": 15691
+            }
+          },
+          "hash": "1557803908dddc79cf746b7c00e42250c401ab67",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43739$02D70A68-FADB-4873-AE56-324DA70986B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46803",
+              "numeric-id": 46803
+            }
+          },
+          "hash": "433bc3bf0c052db24fed6255417fe53ff031ce70",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43739$360DAD95-7080-4804-8A4C-484A4DD8A881",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43739$7C4783A0-87DF-454B-9F11-18214C606749",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1675-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83821e6e8f0f58ba6c52f8b6cfb2232fd07e6cc8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43739$01D4141A-AAFF-4984-AA31-14F107257596",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1710-01-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad0f7894386628d4580edf51c8a5a64f45894f86",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43739$76A6BC77-9010-4F53-A429-936D86B22BE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11544730"
+          },
+          "hash": "bc6b8c4faf84f1c9435728cee70450a60e3ff520",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43739$1628D5BA-3660-4AB4-B070-A24ED99F495F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Yoshiko Arms.svg"
+          },
+          "hash": "09e0769c70d4227841e2fc605cc7f5ae09f9d825",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "spouse of Emperor Higashiyama and mother of Emperor Nakamikado"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の女性。母は家女房。東山天皇の後宮・典侍"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระราชมารดาในจักรพรรดินะกะมิกะโดะ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本人"
+    }
+  },
+  "id": "Q43739",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Yoshiko"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Yoshiko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Yoshiko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Yoshiko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Yoshiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "櫛笥賀子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "구시게 요시코"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Ёсико"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kushige Yoshiko"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ โยะชิโกะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Fujiwara no Yoshiko"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "櫛笥賀子"
+    }
+  },
+  "lastrevid": 17447944,
+  "modified": "2025-09-16T09:22:45Z",
+  "ns": 860,
+  "pageid": 60491,
+  "sitelinks": {},
+  "title": "Item:Q43739",
+  "type": "item"
+}

@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Atsukata"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8638$75F27525-E909-49D2-81EB-68317D0C12A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8947",
+              "numeric-id": 8947
+            }
+          },
+          "hash": "513953d60c12a87dc96c1adf3de24ca4104c557c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8638$C2DABD6B-8CCE-4BDF-9672-161232D3BE13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8638$8C68045E-C5E9-4208-B61A-2228F7DE4CF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8638$A81B143B-FC20-40C8-913B-5A6D85CAFEC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8321",
+              "numeric-id": 8321
+            }
+          },
+          "hash": "90b807f4e008ccb976d3524a1ced2a0cbf768763",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8638$AAF2FF08-4138-4554-86C5-5890833C9222",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8625",
+              "numeric-id": 8625
+            }
+          },
+          "hash": "b18aff3e6d8465bf93c5ebe50e19adc1266d4db6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8638$A2A06AD1-A22B-44B7-A161-38018BAD6901",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8638$462F4AAF-97BA-423E-8723-5BD2165D7DE5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8638$1EFF6C99-C2E1-4724-A839-4C08E3DD0DF4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0927-02-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ac9dc52a7835a7d24e4d4401297de7ede676a72",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8638$1E60DFE9-56B3-4EFE-BFFF-3F4FD19F26E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q94605840"
+          },
+          "hash": "adacd43f11cf396c930ebf985a596a68479d5322",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "syn císaře Udy"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の皇族。二品・兵部卿。子に源宗至（源宗室、従四位下）、寛忠（906-977.4.22、池上僧都、仁和寺、我覚寺、池上寺、法務、大僧都、内供、東寺三長者）"
+    }
+  },
+  "id": "Q8638",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Prince Atsukata"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Acukata"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Atsukata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "敦固親王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Prince Atsukata"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Atsukata-shinnō"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Prens Atsukata"
+    }
+  },
+  "lastrevid": 17409264,
+  "modified": "2025-09-15T22:57:50Z",
+  "ns": 860,
+  "pageid": 31123,
+  "sitelinks": {},
+  "title": "Item:Q8638",
+  "type": "item"
+}

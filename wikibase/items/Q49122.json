@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nanbu Noshinori"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q49122$0D098B8D-F9A1-4676-A32D-4B14421434F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1377684"
+          },
+          "hash": "a05e9a9464b0ac0c0a21b335bd58e464ffed7a45",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49122$EA33440A-3924-4571-BA97-2171BC865E84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24328",
+              "numeric-id": 24328
+            }
+          },
+          "hash": "052d9a7fe94cb6a1a1be9caa910130fd51154385",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49122$E3780B3D-7557-4903-8B84-649F0B14CED7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49122$892ECDA3-69D3-4116-BB38-3467CAB0336B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49122$79E648CC-0B93-4ECC-B84C-72B77CEA2EAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49122$0C119812-BE1C-4D5A-92A7-B00C05120492",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1746-09-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7ba4ffc19908f960502ebd47c542f2f5c06f932",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49122$7ABF00AE-3BFB-443F-90D0-1673F0B8322C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1814-12-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a19d6141670e34b038e78b45b49ff7a2c0195944",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49122$8F454ADC-14D8-48CA-81FE-834729382C44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11408512"
+          },
+          "hash": "c6bdc74f0ce7a1f8d76d7eff32b73244b3b41a22",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49122$3FC8779F-0F3F-4D19-8536-740D44832503",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nanbu Noshinori Arms.svg"
+          },
+          "hash": "194c1033bd31a61339085e69ce1da18f8604096c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q49122",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nanbu Noshinori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南部利謹"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "南部利謹"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "南部利謹"
+    }
+  },
+  "lastrevid": 17454806,
+  "modified": "2025-09-16T11:03:04Z",
+  "ns": 860,
+  "pageid": 64511,
+  "sitelinks": {},
+  "title": "Item:Q49122",
+  "type": "item"
+}

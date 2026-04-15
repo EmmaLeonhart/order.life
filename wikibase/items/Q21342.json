@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Xingzheng"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21342$5982366D-57AE-4CFA-A7F1-A83B93708998",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41001",
+              "numeric-id": 41001
+            }
+          },
+          "hash": "5276f5bc2c76092ad2dd2eee093af1ca7973ea66",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21342$9DB8A243-5FBB-4FBC-B0AE-F38683D39FDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41005",
+              "numeric-id": 41005
+            }
+          },
+          "hash": "47d5624868c6384f80903cd949e5924dc3362561",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21342$76D49306-F7D0-488C-A33D-CD087A6E1EF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23625",
+              "numeric-id": 23625
+            }
+          },
+          "hash": "dffff6a139ebff8320527fa95cb5f35978b6e30d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21342$21008612-FA7C-404E-A371-3A1191118AF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23626",
+              "numeric-id": 23626
+            }
+          },
+          "hash": "725c762c751ce05a3da3ea2a2b92b682ff9e2cf6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21342$D117D754-E8DE-4747-97A3-2CDEFF363743",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21342$9D5C85B5-56D5-400F-AAC9-6C40910242A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21342$97D0DFA1-C162-4C41-AF36-0F35F2DF8DEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19365",
+              "numeric-id": 19365
+            }
+          },
+          "hash": "df4806412513d969d20b296714933b17b5534d46",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21342$DF447646-3009-49BB-9F54-F7D9CD0C5A2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21342$1CED7542-D846-4224-BCFE-BF2620EC7F6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0739-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fbfdeda744eedec5687bd792bf1a5d6e3f691a3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21342$C4F60047-D9BA-486D-B1AA-A08CBB131B7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45499850"
+          },
+          "hash": "ef4d9dd0d6fb81bfcef8457a0afda14404d9f753",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21342$F876728D-B133-4250-9281-6EF81E0BFC48",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Xingzheng Arms.svg"
+          },
+          "hash": "bc445ca6cb86441d9b037974293c975c3a55bdef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188407"
+    }
+  },
+  "id": "Q21342",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Xingzheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Xingzheng"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李行正"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Xingzheng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李行正"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李行正"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李行正"
+    }
+  },
+  "lastrevid": 17420392,
+  "modified": "2025-09-16T02:17:22Z",
+  "ns": 860,
+  "pageid": 43382,
+  "sitelinks": {},
+  "title": "Item:Q21342",
+  "type": "item"
+}

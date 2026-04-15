@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Sanekuni"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q9989$B5755AE7-58D1-4682-BEF1-4F626BE63618",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Minamoto no Sanekuni"
+            }
+          },
+          "hash": "82660788e249cd7d65b7ea49a748c0ba7992f6e4",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9989$E50D5779-AE8F-4A68-96C8-1670382B34FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9989$E11DD584-5B9A-470B-909E-FDB7724605F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9989$4C55A078-187D-4181-8FAE-F71FEDA01D7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9565",
+              "numeric-id": 9565
+            }
+          },
+          "hash": "2fea81d75e71a87ebe4b656a7324f1b48c3b71db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9989$410BA90E-2518-496B-8E59-613EAEA9E6CF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Minamoto no Sanekuni"
+            }
+          },
+          "hash": "84d90320d11c7f23a6592352dc0d4bd2541802b0",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9989$277E1585-BBF4-48D6-AFF7-1CD6C718473D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9989$2ADFF018-6A3E-46C8-9C5D-0C26F08EC2A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1020-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "879db3f4cd7023bc12fd4450ba98692433135b78",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9989$1394B667-5057-4329-B4CD-6BDE952020D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564054"
+          },
+          "hash": "020e54c61475490b2be00a391a4c76065d14068d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の武士・官人。源頼国の四男。従四位上、蔵人、検非違使、左衛門尉、春宮大進、備前守、土佐守、播磨守、常陸介。子に源国正"
+    }
+  },
+  "id": "Q9989",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Sanekuni Minamoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Sanekuni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源実国"
+    }
+  },
+  "lastrevid": 17411980,
+  "modified": "2025-09-15T23:34:18Z",
+  "ns": 860,
+  "pageid": 32414,
+  "sitelinks": {},
+  "title": "Item:Q9989",
+  "type": "item"
+}

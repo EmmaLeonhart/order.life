@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takatsukasa Fuyuhira"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q13887$2B2431BD-A02A-4F8A-9EB5-40AA889ED321",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "804567"
+          },
+          "hash": "c85d0a6e07e7bf583a6a5c16807f66fa755792a3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q13887$292848CB-DE90-447E-958F-53F7B2512ABA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14388",
+              "numeric-id": 14388
+            }
+          },
+          "hash": "bd01f29c24ff997cced6a1dc13d81adf2c3d4409",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13887$5FE3B499-1559-4193-93C4-43E670144765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13887$206EA60B-56FA-4FED-ACB5-C25C403CDB75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13887$03CD5BDB-2421-4035-B704-3EF893AA0839",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13472",
+              "numeric-id": 13472
+            }
+          },
+          "hash": "6f76f72b918161d76dc0a04d91665db0249db7a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13887$86AC3F6B-6956-4D3C-87BB-3A48E34EA426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13887$742B2286-3AAF-42CE-88CD-30A5EECADA77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1275-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1290293fa4adb26432832343174c7c9d6ca42666",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13887$8C8A28F5-44C4-46AD-8C39-96E0D3EC18C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1327-02-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "34b11231b296f34585943092da04be25b9e3dc38",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13887$DA8E2691-F30E-4438-8FE1-466B4A905807",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "鷹司冬平.jpg"
+          },
+          "hash": "51fc45aae571b05363fb61213c7acb0eca2aa037",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13887$45BA929D-38F2-43ED-A956-DD0EEE19FC64",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3514218"
+          },
+          "hash": "5ea72bc2388f15c20097f7fb6a3d015ec015bbb7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13887$DAAEFD15-6D0B-4D5C-99FB-E46F73830BF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takatsukasa Fuyuhira Arms.svg"
+          },
+          "hash": "befd7cf0331ea27f3677bf279bb6d7408d70742e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1275–1327)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský dvořan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "kugyo or highest-ranking Japanese court noble of the Kamakura period"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "1275-1327, 鎌倉時代後期の公卿、歌人。関白・鷹司基忠の子。鷹司兼忠の養子。官位は従一位・摂政、関白、太政大臣。鷹司家4代当主。号は後照念院関白。勅撰集『玉葉和歌集』以下に9首入集。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (1275-1327)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nobre do Período Kamakura da História do Japão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "nobre do Período Kamakura da História do Japão"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'da en önemli işlerden sorumlu saray görevlisi/kugyō (1275 – 1327)"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q13887",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fujuhira Takacukasa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "it": {
+      "language": "it",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鷹司冬平"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "ATakatsukasa Fuyuhira"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takatsukasa Fuyuhira"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Takatsukasa Fuyuhira"
+    }
+  },
+  "lastrevid": 17414152,
+  "modified": "2025-09-16T00:05:42Z",
+  "ns": 860,
+  "pageid": 36197,
+  "sitelinks": {},
+  "title": "Item:Q13887",
+  "type": "item"
+}

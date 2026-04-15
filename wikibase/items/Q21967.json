@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Okabe Nagayasu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21967$A3D000BD-E1B0-44FD-A760-7CD9210A476C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21967$4B2F6A58-69F0-4132-B010-FA772E171B75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21967$0CCF0E09-3579-4D8B-B73A-33C482AED445",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20030",
+              "numeric-id": 20030
+            }
+          },
+          "hash": "22406b592be143168fcf1bd64047daf94141632d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21967$F7ACED42-3AE5-4613-B609-4344C4F3D51D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21967$BD32B108-7D55-49F3-9926-69A8A35D691F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1650-05-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d36ee2181c220b24dad84a247e957a84a4e5f99",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21967$6BF8D39B-0DBC-4BFA-B0AA-B682D98DA4ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1724-09-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "122b902ac4daf1bf382c528bff3ca539c62a5e56",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21967$F99DB5EE-E0D6-4A26-A335-95B5CAD7C8D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11473885"
+          },
+          "hash": "8d9435b9dc543b6b9992fdcca3ee9f246884de46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21967$E2D857D3-5AA2-4AF9-8CBE-322A3B08D6B8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Okabe Nagayasu Arms.svg"
+          },
+          "hash": "cb5194808bc570dab51c5ca55f823494145804a7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q21967",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Okabe Nagayasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岡部長泰"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагаясу Окабэ"
+    }
+  },
+  "lastrevid": 17420952,
+  "modified": "2025-09-16T02:32:19Z",
+  "ns": 860,
+  "pageid": 43978,
+  "sitelinks": {},
+  "title": "Item:Q21967",
+  "type": "item"
+}

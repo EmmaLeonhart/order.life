@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manhime"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20151$DA67A2D1-FD5B-4B4A-BCCB-EA8FAD9EB8C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20151$34365B2D-4363-4AB2-AFD2-E516232DDBDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q20151$04279C1C-502D-49CE-A5F6-F7B6757EE0C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38036",
+              "numeric-id": 38036
+            }
+          },
+          "hash": "92259370a434a36885bb6f172b28e0c6fb7d26c6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20151$8DA2CAEB-554F-4469-AF20-0DABBEBF1143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20148",
+              "numeric-id": 20148
+            }
+          },
+          "hash": "b5b4479383bbda2f3ae5dd44f4b390f7c998414a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q20151$D678379B-1994-482D-8609-39C02A7931EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18505",
+              "numeric-id": 18505
+            }
+          },
+          "hash": "25f5d4015693374e48e8038bc3e1e68e81e60f73",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20151$08313161-409B-446C-9C41-CA24DA9F622A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20151$65EAC7A6-0054-4B82-B983-E72B3C85B7CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1592-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e2064eb44f125534527930f8265b958b26a9b3d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20151$563BD701-EBD8-4E68-A3FB-F25DD343D742",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q43286085"
+          },
+          "hash": "ac67c80603f1123dc5df90b8f083cda352f634e7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20151$22A21DA5-F80F-46FE-915B-DD1672A66FC2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manhime Arms.svg"
+          },
+          "hash": "a3e67857315389da78cb4f5f56c63173e1c719d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera Nobujukiho Sanady"
+    },
+    "en": {
+      "language": "en",
+      "value": "Daughter of Sanada Nobuyuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "真田信之の娘"
+    }
+  },
+  "id": "Q20151",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Manhime"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Man"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manhime"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manhime"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "まん"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manhime"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Манхимэ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Manhime"
+    }
+  },
+  "lastrevid": 17419292,
+  "modified": "2025-09-16T01:52:33Z",
+  "ns": 860,
+  "pageid": 42246,
+  "sitelinks": {},
+  "title": "Item:Q20151",
+  "type": "item"
+}

@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chang Wei Jing Long"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q29065$6128FDC7-4225-4347-9E66-193C743CDA1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32673",
+              "numeric-id": 32673
+            }
+          },
+          "hash": "365414b32afb5b5da2a715b7bd4b57a9533d3d76",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29065$78C47F1D-7154-4C5A-9FFE-2A0E66E4572D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16733",
+              "numeric-id": 16733
+            }
+          },
+          "hash": "41981f2b53e265f697ad07d3d3c99f54c9bb7017",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29065$805D1974-65EB-4468-A8C4-50CA339C0FAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29065$4076A6CD-2E8B-4C86-B8E2-4A7C3552A56A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q29065$759F5AF1-F1B2-40A3-9847-B436D7839F64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32669",
+              "numeric-id": 32669
+            }
+          },
+          "hash": "6b7ed7a736842698cca550e74fadba49ca1df02c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29065$AA4C80BF-4911-4F37-BECA-48EB7AAA6A0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29065$31846B51-5F98-4F07-B512-4CCFB03F0180",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1526-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ccadb9e1e2b766165d1047f72425d92c1ddb48f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29065$A8812A41-341E-4866-B3CC-36A06EA716EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11651869"
+          },
+          "hash": "2a61892828371f8a0281315a8982d4c93b7596a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武士。山内上杉家の家臣。上田長尾家5代。肥前守。栖吉城主。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q29065",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "長尾景隆"
+    }
+  },
+  "lastrevid": 17428424,
+  "modified": "2025-09-16T04:41:11Z",
+  "ns": 860,
+  "pageid": 49518,
+  "sitelinks": {},
+  "title": "Item:Q29065",
+  "type": "item"
+}

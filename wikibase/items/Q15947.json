@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ōta Sukemasa"
+      },
+      {
+        "language": "en",
+        "value": "Ota Sukemasa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q27413$D6009F5F-385A-4B54-AEF4-BF5A1CC3D182",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27413$64B73BEC-C427-4A32-8DAE-CF70B9E82090",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q27413$DD6C9575-7CF6-4440-B2E7-9C3840D841F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28876",
+              "numeric-id": 28876
+            }
+          },
+          "hash": "92dec80b9c5bf87e2cb62c8b1263420efd8d4227",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27413$7CCC6672-EC92-48A5-8609-A7F5DBCFB28E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27413$763CF8E9-D035-408E-91BB-4D9692567F07",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1624-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7d98d99b2a6e63a30bab44ed808f5a4afcd8aac",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27413$2DEA8A8B-FED4-43F5-808D-00C1912B4081",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1670-07-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1700894fe79435c5826366dd01657deacf329ed5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27413$23F08C33-C8FE-4F7D-BEEB-E5DDF4392912",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11070274"
+          },
+          "hash": "009a5bfd105774eedbb20cd6ab1d04e459ee5c59",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q27413$1BA85190-6C37-4BD1-86CF-AC2C727390CF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ōta Sukemasa Arms.svg"
+          },
+          "hash": "718afdfa0f8a2a8d6cbb1496c9761da04f514181",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese samurai of the early Edo period, son of daimyo Ōta Sukemune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の遠江浜松藩太田家の世嗣。志摩介。太田資宗の長男。水戸藩家老"
+    }
+  },
+  "id": "Q27413",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ōta Sukemasa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ōta Sukemasa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ōta Sukemasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ōta Sukemasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "太田資政"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сукэмаса Оота"
+    }
+  },
+  "lastrevid": 17426642,
+  "modified": "2025-09-16T04:15:46Z",
+  "ns": 860,
+  "pageid": 48370,
+  "sitelinks": {},
+  "title": "Item:Q27413",
+  "type": "item"
+}

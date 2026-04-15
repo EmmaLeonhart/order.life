@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yi Geo-yi //"
+      },
+      {
+        "language": "en",
+        "value": "Yi Geo-yi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q32638$8D4AA3FD-97CB-41DC-9FF8-15811C781A35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32041",
+              "numeric-id": 32041
+            }
+          },
+          "hash": "145fdba6a96e988c185f38c8cfed09c608afe69e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32638$3F72AC5C-E7A0-41BF-ACA7-273925506F30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32638$77859339-17AC-4B47-A0D5-DC59098A31DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32638$CB40B4A3-80C7-4228-BAB8-EF50FEC4047F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32638$6C14D76D-9DB8-4FAC-A9DD-5D5FA22882F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1348-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "76b5875eacdccf447c696e252b1cce76f2237fed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32638$A9EAB50A-C1D6-42A5-83A4-2458D66902DD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1412-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f880e37812d0a877b5291c4f7a1a73c55c12b11",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32638$86E30046-8193-4617-9650-075A1ED7AA6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19349683"
+          },
+          "hash": "461f9eded36e018a2e4a971f7ebfb0b3c02628bf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32638$93375BC2-E75B-469D-824F-16D2C4056538",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yi Geo-yi Arms.svg"
+          },
+          "hash": "6552cf227b2d2f4c334c7f87f88b09526533fe07",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Goryeo & Joseon civil servant ( 1348 ~ 1412)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려 말기와 조선 초기 시대 무관 겸 문신"
+    }
+  },
+  "id": "Q32638",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yi Geo-yi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李居易"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이거이"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李居易"
+    }
+  },
+  "lastrevid": 17433046,
+  "modified": "2025-09-16T05:48:25Z",
+  "ns": 860,
+  "pageid": 52190,
+  "sitelinks": {},
+  "title": "Item:Q32638",
+  "type": "item"
+}

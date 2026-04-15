@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oyama Nagamura"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13471$8B108A51-DCE6-4F38-AFEF-AB3F8D89A4F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13471$1DCD5E43-E1A1-42F6-8052-5D928B2EBEF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13471$A476667C-58EC-4421-A463-581AB36A5965",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13621",
+              "numeric-id": 13621
+            }
+          },
+          "hash": "83e8cf94a61144cbe5f6bba28435a53f642beb49",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13471$26A1376D-4FB5-4A66-AD55-FF4A78C20258",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13471$7597B6C7-A79E-40B6-AA28-87919BEFCDF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1217-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2c45881ea95a6a6873c72c720210cb3fae65955",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13471$15BD9775-FC27-4FFC-BF19-CA24AE8EB50C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1269-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fca6ecc738a4ca113876afa9fcac8ed8a57c35a6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13471$16E25CB9-B9A6-49C1-B9D1-01EA2D963EAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11460006"
+          },
+          "hash": "33834ca5d4b7ae95d5bed1ea113adda74bf26709",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13471$5FCC1DE4-EE51-43F0-9A8D-1E206095FC82",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oyama Nagamura Arms.svg"
+          },
+          "hash": "0926fcbfe135cd21454e4f138bc5e6182bb3e9dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q13471",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oyama Nagamura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小山長村"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小山長村"
+    }
+  },
+  "lastrevid": 17414006,
+  "modified": "2025-09-16T00:03:37Z",
+  "ns": 860,
+  "pageid": 35789,
+  "sitelinks": {},
+  "title": "Item:Q13471",
+  "type": "item"
+}

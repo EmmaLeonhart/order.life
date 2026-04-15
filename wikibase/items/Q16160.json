@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Yorio"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q16160$825F6DF0-95DA-4240-8578-75D7B583AA58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-211"
+          },
+          "hash": "f40c022121dcf650c0b34db4a89993c130678949",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16160$35A0B0C1-CB21-444F-8620-D32E29338E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16160$6352349F-9FF9-4812-B5AA-5E0AE8725C50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16160$79FA9775-18E0-4954-8040-E62F61A4E7B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15477",
+              "numeric-id": 15477
+            }
+          },
+          "hash": "8b322cd3b1741d6cc7fa40b673342eaf9820037e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16160$215D40ED-E7FC-429C-9964-4B40A27C393C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16160$C0FA2B6C-8A26-473E-A2FC-974A00BE528D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1630-10-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7ada1c8df577acfffe94e6fa88b4431804da375e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16160$84652D89-84C0-47E0-9109-46D2BD94C1D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1697-07-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4cac43770ab82370925d70b05a85d3b5a1fcc1a3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16160$7532DC7D-CD49-42F8-9AD3-7ADEACA9B3D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6638076"
+          },
+          "hash": "0020d6b70d694555e30d0bea12006743ae7f4785",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q16160$B12A9784-1045-4227-BAC6-734D910A7917",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yorio"
+          },
+          "hash": "3f98e0e7ec7ad633ce315a4a1390939ccfa45246",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16160$DB22A530-7355-4BA7-96DF-A6DC8B5B302B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yorio Arms.svg"
+          },
+          "hash": "495454c657f3868383f9e478c737d7eacd800a42",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo of the early Edo period; 1st lord of Shishido"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の大名。常陸宍戸藩初代藩主。徳川頼房の七男。宍戸松平家の祖・初代"
+    }
+  },
+  "id": "Q16160",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Yorio"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jorio Macudaira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Yorio"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Yorio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Yorio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matsudaira Yorio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平頼雄"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰다이라 요리오"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Matsudaira Yorio"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Yorio"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平賴雄"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "松平賴雄"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "松平賴雄"
+    }
+  },
+  "lastrevid": 17415804,
+  "modified": "2025-09-16T00:28:51Z",
+  "ns": 860,
+  "pageid": 38425,
+  "sitelinks": {},
+  "title": "Item:Q16160",
+  "type": "item"
+}

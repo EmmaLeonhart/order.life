@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q49816$F8412D3C-DE53-4847-9A41-202645FB1998",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00376916"
+          },
+          "hash": "92c42ee3a1582700caeb471e3729d548b7420859",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49816$D47C7195-E52C-4854-9733-9DD8A4945A05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55232",
+              "numeric-id": 55232
+            }
+          },
+          "hash": "ef5083310709784cfde5acf4509131530e43ddf6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49816$E687FEFC-63C6-45AB-A2A5-2148BB80CF39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49816$F88DF8AE-BE9B-4A10-A87D-812D5714F66A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q49816$ABD2F7D8-E809-470C-B46C-FB5D6CC9049D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55228",
+              "numeric-id": 55228
+            }
+          },
+          "hash": "ed76bbdcb4f0d984e98dde0217d4eb374eec2df3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49816$1159070D-E3EB-45A2-97E2-3F6A19283FB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46066",
+              "numeric-id": 46066
+            }
+          },
+          "hash": "46f61ed3b310000c5a3809d59141cf291d171d6c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q49816$B19502CF-258E-4B1A-B790-B3C4E5AE88EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49796",
+              "numeric-id": 49796
+            }
+          },
+          "hash": "037e286fe79337d4e2a3991d0a9915ba44710cd8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49816$D98C82A8-BEB2-4A12-86C7-276FBEE394C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49816$A0B6DA0B-753B-4581-9F59-29926291F754",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49816$19FD411F-009B-499F-BB46-21B37994B9C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1383-08-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fbcc99ad23bc88aadbfbae42cc26099036e36a47",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49816$8407E80A-78FF-40DE-8017-822B9FA7DBF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q59678728"
+          },
+          "hash": "6b49b334db7f809b18179b3ba1387035512b486d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49816$16035130-71E7-4574-BEE7-C8F82158E988",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria Palaiologos Arms.svg"
+          },
+          "hash": "228ef713def0841fdf1ef3042e087f58779c8273",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса, дъщеря на Андроник III Палеолог"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρχόντισσα της Λέσβου"
+    },
+    "en": {
+      "language": "en",
+      "value": "- Abt 1401"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souveraine de Lesbos"
+    }
+  },
+  "id": "Q49816",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мария Палеологина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria Paleòloga"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marie Palaiologovna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία Παλαιολογίνα της Λέσβου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "María Paleólogo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "María Paléologue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Irene Paleologa (signora di Lesbo)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria Palaiologos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Maria Paleologini"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Палеолог"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мариja Палеолог (ћерка цара Андроника III)"
+    }
+  },
+  "lastrevid": 17455774,
+  "modified": "2025-09-16T11:16:57Z",
+  "ns": 860,
+  "pageid": 65029,
+  "sitelinks": {},
+  "title": "Item:Q49816",
+  "type": "item"
+}

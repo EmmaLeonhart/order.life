@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Palaiologina //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q43248$58696175-4B28-45FD-AB02-82AE418969C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00152139"
+          },
+          "hash": "a2c43586e8d3d2331cea5d08820213a2247a0cfd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43248$B2984FE4-8C58-436F-9D7C-E4E3A96C8FCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43402",
+              "numeric-id": 43402
+            }
+          },
+          "hash": "d7fb513b543135fbc60bbad2f305bf7270e087ca",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43248$79EA4B70-A111-4DAE-AFE2-EFCC4FA2E342",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43248$6A6F8296-798C-4CFD-91AE-66E58551AB9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q43248$946DEB57-AE9D-4678-90F1-010B9DC205F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41028",
+              "numeric-id": 41028
+            }
+          },
+          "hash": "2c650f6c77306aff1afa337cea5bbe8b4d131131",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43248$CD1AAD5B-1780-44EB-AFDA-A38809BAD50D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40959",
+              "numeric-id": 40959
+            }
+          },
+          "hash": "acde5b2c05e94a5bc6d69a0236563b24b5d29aff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43248$B9B372FB-9351-473F-9C68-398C948A4165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46122",
+              "numeric-id": 46122
+            }
+          },
+          "hash": "10108aed836f3037d7cde69495e34176ad586630",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43248$1237EA09-7A56-43C2-96DB-AC2F11AEF633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43248$597BE4C5-358B-4E26-B3B1-1173F23B878E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43248$DA5085E0-8625-46A1-B1A4-9543396B89E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20156061"
+          },
+          "hash": "2c14d21f2d94157c972522e17e46382e8b2d9e6f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43248$4125FB21-4C6B-482A-BDE0-137EF54846B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria Palaiologina Arms.svg"
+          },
+          "hash": "a510abb9e6ff2a3b94b28c77a8121e93da75fcd1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "βυζαντινή πριγκίπισα, κόρη Ανδρόνικου Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Est 1297 -"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille d'Andronic II Paléologue"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "дочка Андроніка II"
+    }
+  },
+  "id": "Q43248",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Марыя Палеалагіня"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria Paleòloga"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία Παλαιολογίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria Palaiologina"
+    },
+    "es": {
+      "language": "es",
+      "value": "María Paleóloga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マリア・パレオロギナ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Maria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria notha Palaiologaina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Палеолог (дочь Андроника II)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марија Палеологина"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія Палеолог"
+    }
+  },
+  "lastrevid": 17447298,
+  "modified": "2025-09-16T09:13:08Z",
+  "ns": 860,
+  "pageid": 60124,
+  "sitelinks": {},
+  "title": "Item:Q43248",
+  "type": "item"
+}

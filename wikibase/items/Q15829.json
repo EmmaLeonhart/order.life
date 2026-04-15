@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Imagawa Norimasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15829$AD9E48C9-F348-4938-9B39-E3D2491BD0D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15958",
+              "numeric-id": 15958
+            }
+          },
+          "hash": "10ef55d61c4fdb679cb7bd9ca22d4281c9c24e20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15829$5D04C68F-00D4-4AC4-A328-003C0EB1B739",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26533",
+              "numeric-id": 26533
+            }
+          },
+          "hash": "0e504599c1ddfbd5cad6b3b5016d3f7c12c8b6ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15829$B39E9086-412C-46AB-82E4-5314FA7E690C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15829$7793C86B-7ACB-4099-AA90-77AA0E8D8590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15829$4736CC64-07ED-4887-8048-BF74A987FC81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15335",
+              "numeric-id": 15335
+            }
+          },
+          "hash": "0b648725c9955c339ec46ae175fd0b8ca4293f0e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15829$E2635078-7532-4D1A-A5E8-84A821D658B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15829$60215E01-D3FC-44F2-9A5F-30A2FB9A165B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1364-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a268e04f727ba989d58cdd50f91fcaff5d3bc0a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15829$0FAA3489-77C2-45F5-9FBF-FFFA2FE17022",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1433-06-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c90b97a3dab70c935f3d75dece838815843f3ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15829$F0209539-5684-409E-B365-71606D6F3EC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11376939"
+          },
+          "hash": "e44fbf9530437a0b805fe6c3d20013b6ebf024f5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15829$C78724CC-170A-43C6-A82B-3D99176AA1E4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Imagawa Norimasa Arms.svg"
+          },
+          "hash": "aa6e8882f97a6c81e09259a06e59803ecbfd4d7b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Shugo daimyo and poet"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "守護大名、歌人"
+    }
+  },
+  "id": "Q15829",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Imagawa Norimasa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Imagawa Norimasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Imagawa Norimasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "今川範政"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Норимаса Имагава"
+    }
+  },
+  "lastrevid": 17415488,
+  "modified": "2025-09-16T00:24:02Z",
+  "ns": 860,
+  "pageid": 38108,
+  "sitelinks": {},
+  "title": "Item:Q15829",
+  "type": "item"
+}

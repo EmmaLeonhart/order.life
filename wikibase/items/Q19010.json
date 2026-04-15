@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Toshihiro"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q19010$D3C69FE5-3177-4485-A0E1-CA1C05F8C096",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19010$51BD2F3A-0AF6-4A85-B5F3-8617DADB8FF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q19010$44C39DD8-9E39-4E15-9A56-774BDD62E229",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27900",
+              "numeric-id": 27900
+            }
+          },
+          "hash": "d0efa096bc8a3538234e44297155a505ebad45d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19010$4F801C7E-BF8F-430D-86D9-C91B73CC3AD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20770",
+              "numeric-id": 20770
+            }
+          },
+          "hash": "becde582292c0712de006bcaf991b7b6d18e195a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19010$98B65640-3BCE-4C70-85F5-6EF478D84F37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19010$903D6FF5-72CF-447F-831D-4F10420A29BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1481-03-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc4412a5c01f1b5f8f24476dec1f9a65a08b0943",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19010$BF71BE13-290B-4B5B-B4F9-B50DA77084DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608387"
+          },
+          "hash": "4afd45b6d2e59d7c6da95f41a844f0ab18555b7f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19010$1490662A-BDEA-4EF7-A51D-E4B0DD4FC4B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Toshihiro Arms.svg"
+          },
+          "hash": "29e7985de53d8a17f6a5d24510b8c257dc2ed7c9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代後期の武将。斯波氏の家臣。室町幕府 尾張上四郡の守護代。兵庫助、伊勢守。織田伊勢守家（岩倉織田氏）の祖"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q19010",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oda Toshihiro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اودا توشیهیرو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田敏広"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "织田敏广"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "织田敏广"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "织田敏广"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "織田敏廣"
+    }
+  },
+  "lastrevid": 17418300,
+  "modified": "2025-09-16T01:28:16Z",
+  "ns": 860,
+  "pageid": 41176,
+  "sitelinks": {},
+  "title": "Item:Q19010",
+  "type": "item"
+}

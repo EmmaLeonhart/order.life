@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kuwayama Shigeharu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24205$7D6BE105-7718-4337-A48C-722802FE7473",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21966",
+              "numeric-id": 21966
+            }
+          },
+          "hash": "aa6bf8cebee06cd7d06f9fd52eab111a83d6fe78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24205$3AA2C683-5655-49A2-B2D4-78092A9444A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24205$A39B6E3D-C3FA-40E2-9E6E-DD0EF1306991",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24205$C759B853-7EB9-4492-BC70-6FD193D696D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24205$53594102-F0FA-4434-A2A0-36C6FA1A3DC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1524-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ccdaadc2cce1c9b44404d828f1e5e66f0870b72d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24205$E1063A38-7391-4AF4-81AD-C8420E96977B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1606-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bdddc25407a05c609def82f81f9c562479d14803",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24205$B25641EF-70AC-4FE9-8210-7E29FA5555B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11537542"
+          },
+          "hash": "bb1fd61f03365177b160295788132397211aa149",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24205$51820095-D1BB-40BA-AD22-523854B36FE4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kuwayama Shigeharu Arms.svg"
+          },
+          "hash": "95e211a636de19a0ccfd7597d80038b284d03a20",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q24205",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kuwayama Shigeharu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "桑山重晴"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэхару Куваяма"
+    }
+  },
+  "lastrevid": 17423200,
+  "modified": "2025-09-16T03:19:04Z",
+  "ns": 860,
+  "pageid": 46005,
+  "sitelinks": {},
+  "title": "Item:Q24205",
+  "type": "item"
+}

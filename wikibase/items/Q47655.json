@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aso Koremura"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47655$52039A75-FA24-48D8-BE96-4F366ABA0AC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41325",
+              "numeric-id": 41325
+            }
+          },
+          "hash": "671c1bc83e21ac10e3dc024878a1073f1bdab900",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47655$D228EF89-7778-439C-A842-91E92A86B8FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47655$85FA594F-364F-4C6E-BB4F-1346D82EBFB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47655$95E02401-DB2F-4F17-A0DE-7C95BD0F757E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56308",
+              "numeric-id": 56308
+            }
+          },
+          "hash": "d489ff88df14053141c2e79ee99499c4e27fa0ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47655$6EC218B6-5CBE-49D9-9516-FDF79B64AA05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47655$4E5479E9-42D9-40AA-840D-43FF70598A84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47655$684666AF-8FA0-4421-A6CF-2C217F15E36A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1406-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fadc640ad608994e9f212407fd76ea10b4702147",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47655$9B56527F-BD0A-488B-AC65-5FA80132110B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11657644"
+          },
+          "hash": "e358cf02ede482f595a78f067cbf46869351c16f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47655$02AB3442-84EC-4F97-AEE7-A0D909F3B7B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aso Koremura Arms.svg"
+          },
+          "hash": "0c653605f8ae266fd23c7bb254788b119a0d2a84",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q47655",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aso Koremura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "阿蘇惟村"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Корэмура Асо"
+    }
+  },
+  "lastrevid": 17452858,
+  "modified": "2025-09-16T10:35:09Z",
+  "ns": 860,
+  "pageid": 63416,
+  "sitelinks": {},
+  "title": "Item:Q47655",
+  "type": "item"
+}

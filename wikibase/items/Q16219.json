@@ -1,0 +1,366 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takatsukasa Masahira"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q16219$02611ADA-5A6B-434F-8EAF-8C1931F8172D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "804562"
+          },
+          "hash": "5de87a01abe9984fa100b59eb64f0d8a1a469130",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q16219$486841F9-E1D6-466E-BFA8-BB45100AC940",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16220",
+              "numeric-id": 16220
+            }
+          },
+          "hash": "89ccb0b0ffb01f164205fb154a1ae4b8c165b49e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16219$D46D2EEC-A7CB-4D3C-8F66-5194D027ECE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16219$09203FAC-DE3D-4A7B-82E8-A399125D17E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16219$8095E0CB-2454-4FFC-85AC-CD7CC986D271",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15654",
+              "numeric-id": 15654
+            }
+          },
+          "hash": "834220f055db6c72ca2f3945a1b2c611e0ab08ea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16219$A365D81D-39EA-4A2A-B36F-D43FEF1F427D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16219$EBCDCB22-F3A1-4916-ABC7-3857A1D4FFB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1445-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09ffea21d45d4ba13167b6641fcb0e4c7c372cbb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16219$BC45EB71-B36C-4AD7-A82B-59214EC2856B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1517-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32b5f1cfe7a684373a5eac070ff6b4048d8163c0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16219$C1E9F9EB-F165-426B-AAAE-36DA5126460E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3514227"
+          },
+          "hash": "7d8be6753f68fd6b6390c15f47ef0d50ad2b26d4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16219$664ED6EB-2ABA-4B83-8538-723D859EFC08",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takatsukasa Masahira Arms.svg"
+          },
+          "hash": "35a76aca2c9641870d853c7a88899c79c90ff94e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1445–1517)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský dvořan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble of the Muromachi period"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代後期から戦国時代にかけての公卿、鷹司家第10代当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (1445-1517)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kanpaku do Imperador Go-Tsuchimikado"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kanpaku do Imperador Go-Tsuchimikado"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q16219",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takatsukasa Masahira"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Masahira Takacukasa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takatsukasa Masahira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takatsukasa Masahira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takatsukasa Masahira"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takatsukasa Masahira"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Takatsukasa Masahira"
+    },
+    "it": {
+      "language": "it",
+      "value": "Takatsukasa Masahira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鷹司政平"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Takatsukasa Masahira"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Takatsukasa Masahira"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Takatsukasa Masahira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Takatsukasa Masahira"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масахира Такацукаса"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "ATakatsukasa Masahira"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takatsukasa Masahira"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Takatsukasa Masahira"
+    }
+  },
+  "lastrevid": 17415860,
+  "modified": "2025-09-16T00:29:37Z",
+  "ns": 860,
+  "pageid": 38484,
+  "sitelinks": {},
+  "title": "Item:Q16219",
+  "type": "item"
+}

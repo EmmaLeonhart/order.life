@@ -1,0 +1,338 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takatsukasa Kanehira"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q13141$DF4BFE66-9829-4E54-8376-B2FD9695AF11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "804569"
+          },
+          "hash": "aa9d639e0b2bda6294dd9638b49c6127628060bd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q13141$7671F72A-72B4-4A15-9DA4-B9C04E998A95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13472",
+              "numeric-id": 13472
+            }
+          },
+          "hash": "16ff75ce70cebf6ca8035ca9d17682c8bbc6fbf3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13141$CCD0921E-D77B-496D-91B9-D5726AB7CF32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13741",
+              "numeric-id": 13741
+            }
+          },
+          "hash": "fb0a7d673a9245e1ccf1fecc71f32b5ac9b868bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13141$E3E66EB0-AA0B-452B-A232-B769B44D74D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13141$B71477F8-6961-487E-8B42-1D54F20236B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13141$C50E0C95-0CDC-4BAB-89F5-5AD33BDD0026",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12430",
+              "numeric-id": 12430
+            }
+          },
+          "hash": "f7fb45f8df5b9852e98e9a6dfa09ca13f2eb270b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13141$6B76B82A-B8CE-4666-9975-C9549F96AD90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13141$10194626-F432-48F3-A0EE-0B5FE5C729F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1228-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df01835438fdc58f34a4c2628fe20717c0fb3304",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13141$63E392F6-C810-466E-8E47-10631A8E43E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1294-08-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b72e11b85670f0d72fe910ab7f8d257fa5c611f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13141$93C91966-7703-4AF3-9404-FC89AC603AC1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takatsukasa Kanehira.jpg"
+          },
+          "hash": "db3c722ef0de77e2cec8d74e0518d8bcfd85a274",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13141$61C73C73-09F9-4DF3-82C8-85A068ADC4F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3514226"
+          },
+          "hash": "22b8697f8131b08085e36c0eff525f9593ed57ce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13141$41AF974D-8436-4C93-8A7A-26667789DD5D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takatsukasa Kanehira Arms.svg"
+          },
+          "hash": "c5078ae194e1624ab35bb42ca2d6bb46eb882191",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Kalligraf und Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Founding father of the Takatsukasa family"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の公卿・能書家。近衛家実の四男。従一位・関白、太政大臣。鷹司家の祖・初代。藤氏長者。摂政。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-1294)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "fundador do ramo Takatsukasa dos Fujiwara"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "fundador do ramo Takatsukasa dos Fujiwara"
+    }
+  },
+  "id": "Q13141",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takatsukasa Kanehira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takatsukasa Kanehira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takatsukasa Kanehira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takatsukasa Kanehira"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takatsukasa Kanehira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鷹司兼平"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Takatsukasa Kanehira"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Takatsukasa Kanehira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Takatsukasa Kanehira"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Канэхира Такацукаса"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Takatsukasa Kanehira"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takatsukasa Kanehira"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鷹司兼平"
+    }
+  },
+  "lastrevid": 17413820,
+  "modified": "2025-09-16T00:00:59Z",
+  "ns": 860,
+  "pageid": 35465,
+  "sitelinks": {},
+  "title": "Item:Q13141",
+  "type": "item"
+}

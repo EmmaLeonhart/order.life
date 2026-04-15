@@ -1,0 +1,171 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuwen Zhong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q52619$D34C225C-550C-4386-B487-B2008F8A6840",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52619$B1561DBD-2D3F-44E6-9966-E6C7CC80C4E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q52619$580ABCE6-9CAC-45C9-ABAA-0AC6D2430219",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44725",
+              "numeric-id": 44725
+            }
+          },
+          "hash": "ff13d255362e5a2dd6006a4b5ab98d93107ccbc8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q52619$E269F02B-077E-4F14-989E-E6C8BDFA3D05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q52619$35C44A92-E916-4BE4-95AB-AB018A429798",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0555-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "070a081c8e90a21b0432544f16332efc0a709f44",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q52619$919B7CF3-8DC6-4DDC-952E-41939DF227BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18109456"
+          },
+          "hash": "415e01fe98ec9fcac00999c3ddd764692e251c66",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q52619$ED35A992-3EA9-41AA-9549-77B0385AD256",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuwen Zhong Arms.svg"
+          },
+          "hash": "e9c121bbd9bca04f10f1538ca0ded5f780f7c0ac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q52619",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yuwen Zhong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宇文众"
+    }
+  },
+  "lastrevid": 17458824,
+  "modified": "2025-09-16T12:02:19Z",
+  "ns": 860,
+  "pageid": 67450,
+  "sitelinks": {},
+  "title": "Item:Q52619",
+  "type": "item"
+}

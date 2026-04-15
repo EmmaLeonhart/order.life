@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Doukas //"
+      },
+      {
+        "language": "en",
+        "value": "John Doukas"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q46006$93FA1389-2332-4FE6-9C64-9E5E424B48C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139077"
+          },
+          "hash": "258a3029dc2f91ff7ea0cdaf0cff5229061052b1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q46006$8C1F82EF-FD23-4C05-939C-FDFE455A3CC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43204",
+              "numeric-id": 43204
+            }
+          },
+          "hash": "8cfcccddaeae72e0295db918f1577eece9bd1d10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46006$90A17C94-9D94-410C-83B0-3AD853EDB317",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46006$0F6FBC99-B779-419F-932E-BFB3129C3BEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q46006$09C5E389-7093-4B13-BF9E-FB96DA3DA204",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46010",
+              "numeric-id": 46010
+            }
+          },
+          "hash": "91ff9459dd57f9c333300c6899e7f5f451b0eb0a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46006$408CBE9E-399E-42D8-8007-F988B3D52208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49494",
+              "numeric-id": 49494
+            }
+          },
+          "hash": "62d7703357e06962a9f54e8500d6851f8b96fca8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46006$120B34C0-BE63-4E40-BFB0-D27387D96D4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49498",
+              "numeric-id": 49498
+            }
+          },
+          "hash": "ec4175cb906d8e26bfff9d8f6bd1e31715c45708",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46006$668B5D2A-4958-416C-A6D2-66EF63A08103",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46006$E816BDCA-468F-46F0-AC3A-9D6FFF1DB7AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1215-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8e91219acdebf638aa1dc1ac3a3ea3b8ba0e3d4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46006$04966142-6F15-400A-98E1-EB403C8F4B75",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1240-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fbfad163c3183aae184a73e1dd8bf470df8398c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46006$33AC9269-F681-4454-98FC-A1EA442FEC2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22342986"
+          },
+          "hash": "177c6ee8c26ea9bfa67d8b305aadbc214eb51fe4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46006$303D5FB2-BB14-4515-8A2F-5CD0A953EA1F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Doukas Arms.svg"
+          },
+          "hash": "0ed8729517a27d837fc65b5be6cbf5020f87f51c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Aristokrat, Neffe von Kaiser Johannes III. und Schwiegervater von Kaiser Michael VIII."
+    }
+  },
+  "id": "Q46006",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Іаан Дука Ватац"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Дука Ватаци"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Ducas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes Dukas Batatzes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Δούκας Βατάτζης"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Doukas"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Doukas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johannes Dukas Batatzes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Дука Ватац"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоанн Дука Ватац"
+    }
+  },
+  "lastrevid": 17450776,
+  "modified": "2025-09-16T10:05:01Z",
+  "ns": 860,
+  "pageid": 62185,
+  "sitelinks": {},
+  "title": "Item:Q46006",
+  "type": "item"
+}

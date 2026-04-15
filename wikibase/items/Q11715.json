@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Tokinobu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11715$EFDB1828-3275-4BB7-94CA-8684306FA6E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12289",
+              "numeric-id": 12289
+            }
+          },
+          "hash": "277625eae4edf2101b0d64f34e77d2655a2fa76f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11715$9D001B16-281C-4A5E-A4C5-25D3DD6CA270",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11545",
+              "numeric-id": 11545
+            }
+          },
+          "hash": "37522be3bf43ac0012e310fc6926e37d59a67772",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11715$DD50692B-3407-4E08-8D66-BA7FE2C74390",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11716",
+              "numeric-id": 11716
+            }
+          },
+          "hash": "3630094d88c35f7b63da8bbe338a23ffd95545b7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11715$02B4CF17-0D8C-4BFF-B79D-3AD7380A9236",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11717",
+              "numeric-id": 11717
+            }
+          },
+          "hash": "fa2fdbfc4c7b6aaf14bd7e1a5a3ef041503fd1a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11715$360CEC5A-2CC3-4CB8-A8F7-BF992836D6FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12290",
+              "numeric-id": 12290
+            }
+          },
+          "hash": "0a336fdebea7915de04dfffdca8946e055107c13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11715$63692FD2-64F8-43AD-A6A8-83B5B45E70CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11715$FA5D3572-1334-43FC-8D8F-CD7D9D1E1692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11715$9438397E-3F7E-4E3A-B468-D6847D7B37AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11715$E5928084-249A-4EE5-8E81-2A82EDCF0FFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1149-08-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7987014acd22aa2afa7e45114ff959850d9eb8d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11715$F5C446D9-C441-4AD8-BBE2-97B5C785B4B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11483021"
+          },
+          "hash": "07c8e61895528dec6f181728a9748426efb7e055",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11715$25011895-E9A2-4488-BF9F-5BCA58230425",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no Tokinobu Arms.svg"
+          },
+          "hash": "973c587d1e1b01c0458c574aff33ba1b4c034ff2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の下級公家"
+    }
+  },
+  "id": "Q11715",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Tokinobu Taira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Taira no Tokinobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平時信"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Taira no Tokinobu"
+    }
+  },
+  "lastrevid": 17413092,
+  "modified": "2025-09-15T23:50:49Z",
+  "ns": 860,
+  "pageid": 34074,
+  "sitelinks": {},
+  "title": "Item:Q11715",
+  "type": "item"
+}

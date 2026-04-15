@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Tsunamura"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q19843$DF3E3846-3E8E-4930-BF45-A17E46CCC1B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "伊達-13"
+          },
+          "hash": "2d0727d9d7552daed5f0fdaf98f467da5baf499f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19843$BE3708C4-655F-47BB-BB0D-52ACE4AEEA32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19843$CD9E2EAF-630E-4F82-9734-F7995322DEC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19843$265BDF1E-10E7-4408-90E3-239F6DED107D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18228",
+              "numeric-id": 18228
+            }
+          },
+          "hash": "86779121b252905ffe4153b5382d27ad59d70d06",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19843$E3C662F7-6897-4094-9048-571BD1864691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19843$4BF349DF-21B8-403C-80F7-C9093310A160",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1659-04-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d64d12b51d698853dda1b021bb5b68d6cae8d65",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19843$6EDC8019-9D12-47FF-99C8-160BD584DFE3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1719-08-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e41db1180b6b11a88adb630fd268905ee1f36e4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19843$CABE1356-1F53-44DA-84DA-DBAB28DCD527",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5227557"
+          },
+          "hash": "2b6b8914c397124866111b89708f2fb4368bc8f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19843$8148F552-46AA-4074-936F-D9A98D3ACE5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Tsunamura Arms.svg"
+          },
+          "hash": "7ab320a1305e52d1a913c26a59b71e6a15363ce0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1659–1719)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo who was at the center of the Date Sōdō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代の大名"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 에도 시대의 다이묘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1659-1719)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1659 – 1719)"
+    }
+  },
+  "id": "Q19843",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Date Tsunamura"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Cunamura Date"
+    },
+    "de": {
+      "language": "de",
+      "value": "Date Tsunamura"
+    },
+    "en": {
+      "language": "en",
+      "value": "Date Tsunamura"
+    },
+    "es": {
+      "language": "es",
+      "value": "Date Tsunamura"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Date Tsunamura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達綱村"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다테 쓰나무라"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Date Tsunamura"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Цунамура Датэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Date Tsunamura"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Date Tsunamura"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊達綱村"
+    }
+  },
+  "lastrevid": 17419036,
+  "modified": "2025-09-16T01:45:11Z",
+  "ns": 860,
+  "pageid": 41950,
+  "sitelinks": {},
+  "title": "Item:Q19843",
+  "type": "item"
+}

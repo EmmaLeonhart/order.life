@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Shan Zhi Jing  (dan Bo Shou )"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q26711$4C285E54-4A5F-47DD-A3C4-4511E4D30A46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28864",
+              "numeric-id": 28864
+            }
+          },
+          "hash": "f7c6f0902ddb84d674396308e48be5907df85105",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q26711$E5D44E28-DCF4-4114-871B-04BDC556C9AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28988",
+              "numeric-id": 28988
+            }
+          },
+          "hash": "e8cd40cacce92fe849e3a8b62f963a41d03e03f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q26711$8F622B20-B010-4BCD-96A5-F83C35DE3AE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q26711$BCFAE86E-3EF1-4AC9-A7CB-BB0BC7300F46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q26711$0808A46A-F813-4651-9870-6A1F0B86D4E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28984",
+              "numeric-id": 28984
+            }
+          },
+          "hash": "acc74091ce9b59ec7f7c876b510b55cb17529585",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q26711$08AB6696-3C7A-4C78-B0E7-2E3CD002A34F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q26711$0E749A59-9398-4911-B91E-7339D69FDC1A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1533-04-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8db909169c099f0a3627d58b780714d867fc09e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q26711$0365C406-784E-4F21-9DBF-4D15CDCB971F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11642053"
+          },
+          "hash": "e24ada585db9a7a86751a6925647af0addc306f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。後北条氏の家臣。遠山景保の長男。隼人佐、加賀守、丹波守。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q26711",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "遠山直景 (丹波守)"
+    }
+  },
+  "lastrevid": 17425746,
+  "modified": "2025-09-16T04:02:28Z",
+  "ns": 860,
+  "pageid": 47904,
+  "sitelinks": {},
+  "title": "Item:Q26711",
+  "type": "item"
+}

@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fushimi-no-miya Kuninobu-shinnō"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q33277$80111C88-E0FA-4BE8-B58F-12F56EADC359",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523431"
+          },
+          "hash": "4b232d49d4fc6521644ff4ff15cbbb4c3d939a27",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q33277$0ED10628-C0E3-48DC-A778-9DA1A8EDA3EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29623",
+              "numeric-id": 29623
+            }
+          },
+          "hash": "4c02b65001c7052fe3aa39274173baefb2a7e20a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q33277$E2A7F772-7DAB-4A32-B87F-083451BF2CAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33277$30C5043D-2267-44C8-A47A-F6FC286E6092",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33277$DDC22134-5297-4312-A127-62209C30B311",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35161",
+              "numeric-id": 35161
+            }
+          },
+          "hash": "4e83f1d205fcce00d7dd0a8dc954b13953d7e713",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q33277$685AA10D-25F1-4A94-A888-B8B24A1B7FCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37507",
+              "numeric-id": 37507
+            }
+          },
+          "hash": "5fdb56a33c26f1c100d787d97e338e44f0e1b62d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33277$D6172977-AFF6-471F-8CE3-E67195B435E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33277$B002BAD2-5C3B-4297-B143-1AD38634AA54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1566-04-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebee5d4de3c64e6d645d138a39a8c242d51dbf30",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33277$AE8AEDEC-CF23-4888-92A9-40BB7CDAFECC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1622-01-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a72a6b93ffa8bc3cbcd4f692548da2d0d79f50eb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33277$BFB37D71-AFF4-4994-92BE-C325BB9249F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11381093"
+          },
+          "hash": "f89533c1aaa4f2ac83cac4393b477e25b67c3116",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33277$AAD57BFD-80FD-4C85-ABA1-5A365082933C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fushimi-no-miya Kuninobu-shinnō Arms.svg"
+          },
+          "hash": "2bf8171b322303514cdd7080ccc28df57053fe5a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から江戸時代初期の皇族。式部卿。伏見宮9代。邦輔親王の次男"
+    }
+  },
+  "id": "Q33277",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fushimi-no-miya Kuninobu-shinnō"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fushimi-no-miya Kuninobu-shinnō"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fushimi-no-miya Kuninobu-shinnō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伏見宮邦房親王"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fushimi-no-miya Kuninobu-shinnō"
+    }
+  },
+  "lastrevid": 17433934,
+  "modified": "2025-09-16T06:01:01Z",
+  "ns": 860,
+  "pageid": 52669,
+  "sitelinks": {},
+  "title": "Item:Q33277",
+  "type": "item"
+}

@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yūki Tomokatsu"
+      },
+      {
+        "language": "en",
+        "value": "Yuki Tomokatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q26599$6625F141-B037-4E60-B819-E91CB7FA7768",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q26599$4ACBE081-A1BA-4EDE-AC0A-12EB2319E89E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q26599$A150B3EA-2ADE-4728-970F-0DE80AEDE8B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15863",
+              "numeric-id": 15863
+            }
+          },
+          "hash": "c5d3ec075519002d1013e314c537657a69e29039",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q26599$78191D83-E49C-4BAD-88CB-5FE9D68F4F61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26596",
+              "numeric-id": 26596
+            }
+          },
+          "hash": "73c2095746f0776f2707f59f8181e77c2717f7a0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q26599$C3D38B32-332D-4399-B8B4-63DDAAB42E72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q26599$EA414E80-EB35-4319-8EE2-F5B7277F6415",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1569-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b113749044ce80896273b85ca8be0b3f71fab25",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q26599$E1AC61CF-939E-480F-9810-DBD70A5FE9BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1628-05-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1e40cec794791b332e5e141ec651ac32ce9bd9d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q26599$C7E708AF-F48C-479E-91DF-81623F8F7AA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11606598"
+          },
+          "hash": "97402ffdfa703f0d1c4108a172a364d9a18ac7e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q26599$84E5136A-EF6F-42E9-88D7-2FA4666758A3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yūki Tomokatsu Arms.svg"
+          },
+          "hash": "134cd6497da5ca04dbcb0f4d21327cefcef72241",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代～江戸時代前期の武将。下野宇都宮家・結城家・佐竹家・豊臣家の家臣。戦国大名宇都宮広綱次男で、戦国大名結城晴朝養子。後に久保田藩重臣（引渡二番座）となる"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q26599",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yūki Tomokatsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yūki Tomokatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "結城朝勝"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томокацу Юки"
+    }
+  },
+  "lastrevid": 17425600,
+  "modified": "2025-09-16T04:00:21Z",
+  "ns": 860,
+  "pageid": 47825,
+  "sitelinks": {},
+  "title": "Item:Q26599",
+  "type": "item"
+}

@@ -1,0 +1,339 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tridu Songtsen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q54555$EAC54D6C-A777-4C65-8B58-1CDC7B7F6944",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "644446"
+          },
+          "hash": "dd5c29f5ee0ec703a473573323992378b8028f74",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q54555$E7E76A5C-B186-4CB9-A911-2E8E2C004D7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45939",
+              "numeric-id": 45939
+            }
+          },
+          "hash": "e15773cc6dc31bc1e6f7ebb6b8c00b4a9f7b3bac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54555$FE3EC76C-6A25-49F9-9B08-9B9EAD97750C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54555$C2CF313B-430C-46F7-99C0-4B28C9E84698",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54555$6D4C350F-679B-4B58-BC21-6CA64CAFDB09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61157",
+              "numeric-id": 61157
+            }
+          },
+          "hash": "2b55c065832d4b4d4905002046a7634bf37746e8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54555$49C632BF-8757-4E03-B746-693A2D99D3C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61160",
+              "numeric-id": 61160
+            }
+          },
+          "hash": "9869c2005165de1e0e953dfeb89c4d40131bd8ae",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54555$86C095C2-0965-4D25-B86E-A27D62DA1195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54555$5A89E126-3B43-4140-B171-0DF38BF59553",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0670-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d035c117e2eb46c75685e51778325879d287106e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54555$E7017E1B-2FC7-46C4-9D8C-275A7CC7F2A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0704-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5d5217a9f7ce83e0adb166b439c097c6dcd4df0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54555$280CF83F-D5A2-4DF7-92DE-57B88FD3F0DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2666817"
+          },
+          "hash": "3b60476cac11b89086914b249fb164fabe4016b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54555$B80BADD2-F5A2-4F3E-9575-84B9F4AC0BE4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tridu Songtsen Arms.svg"
+          },
+          "hash": "e731414f5be6a0a2e4c49fb3bfbd86ccf2a5669f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "tsenpo (emperor) of Tibetan Empire"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tsenpo (Empereur) de l'Empire du Tibet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q54555",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "খ্রি-দুস-স্রোং-ব্ত্সন"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "འདུས་སྲོང་མང་པོ་རྗེ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tridu Songtsen"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Düsong Mangdže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tridu Songtsen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tridu Songtsen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tridu Songtsen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Düsong Mangpojé"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tridu Szongtszen"
+    },
+    "id": {
+      "language": "id",
+      "value": "Khri 'dus-srong btsan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tridu Songtsen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティ・ドゥーソン"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Tridu Songtsen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tridu Songtsen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tridu Songtsen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tridu Songtsen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tridu Songtsen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дудсрон"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дудсрон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赤都松赞"
+    }
+  },
+  "lastrevid": 17462114,
+  "modified": "2025-09-16T12:50:42Z",
+  "ns": 860,
+  "pageid": 69386,
+  "sitelinks": {},
+  "title": "Item:Q54555",
+  "type": "item"
+}

@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cui Zao"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q47251$FE29DCA9-E0C0-4A66-917A-581FA3742EBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47251$7455D79A-7EBC-4219-A462-7DC269D9126D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47251$4068CD44-8168-4F59-9F8F-7D7625444FE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23731",
+              "numeric-id": 23731
+            }
+          },
+          "hash": "826195e4890d39c751f196e3624cc2e8bdae70a2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47251$083AC2AE-B224-4F99-88B6-BB7EB3F0B89A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47251$303E28CE-8CD9-4F63-B31E-F17A9666237C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0737-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "baf80c1b30418b15e0514c55e2f72178a9861952",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47251$67B46943-DC8D-480A-BFFA-879400AE7150",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0787-10-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "272a54216f3a97771e4f8b10b3881550617bea08",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47251$401D0A0C-EE45-49EF-9E82-E6DDB205734C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5192725"
+          },
+          "hash": "20d29e8057b844de99287aa555ea003442d3df0c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q47251$3AE5165C-02D2-4B7F-8541-855ECC7C6989",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075344403878"
+          },
+          "hash": "2ef4415b4ca0943c6811d154d329981468196cd5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47251$83957C03-A877-4228-8BE4-42C22DF105FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cui Zao Arms.svg"
+          },
+          "hash": "2a3c21f68c009f1adaa3bb84269e74e5dd0f4d88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese chancellor"
+    }
+  },
+  "id": "Q47251",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كوى زاو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Cui Zao"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cui Zao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cui Zao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cui Zao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "崔造"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "崔造"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cui Zao"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cui Zao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "崔造"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "崔造"
+    }
+  },
+  "lastrevid": 17452360,
+  "modified": "2025-09-16T10:28:06Z",
+  "ns": 860,
+  "pageid": 63115,
+  "sitelinks": {},
+  "title": "Item:Q47251",
+  "type": "item"
+}

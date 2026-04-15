@@ -1,0 +1,371 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abe no Yoritoki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11426$D8BE205B-58FD-407F-B745-327AC94C223A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12253",
+              "numeric-id": 12253
+            }
+          },
+          "hash": "f5108fed57035d8b66698143224438ff72b71cb5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11426$26393230-D687-47E1-A27F-2BF93A70415E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10752",
+              "numeric-id": 10752
+            }
+          },
+          "hash": "42d91f8033326e767667ef2e1f41ecfa36b31642",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11426$9A2F78A7-FD38-449D-A440-6D2925D26C94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12247",
+              "numeric-id": 12247
+            }
+          },
+          "hash": "f13ab91c0d67ab0c5fd256cabab2b409ddd57c9b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11426$1F91D94C-C652-46F9-968F-16F105814138",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12246",
+              "numeric-id": 12246
+            }
+          },
+          "hash": "1f10e14ef6de5caf17f97059462454881a9727dc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11426$D5F5025F-FD36-4367-A1BC-C6F64662FAA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11426$D2144282-2196-4324-898E-D59986F31EA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11426$D4FF22AF-706C-42EC-934F-42029F42709B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12245",
+              "numeric-id": 12245
+            }
+          },
+          "hash": "4a03f8f18976b72e6d59116c20ac20645fa2ff08",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11426$71980E86-25ED-4485-99FF-6A2FD63CE308",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11426$CF19A57D-B75F-4A86-8257-6CD1EDDC462D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d252c22f48df22886dfd50da624c1facf05ebc56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11426$7A818692-3027-4260-8AFA-BFD202B377CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1057-08-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2e71531a04f7d2fb72d7c37e001bde1afdaf2ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11426$8A7A0356-1972-454C-849C-C244363FA0E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "安倍賴時向源賴義進獻錢與馬匹.png"
+          },
+          "hash": "ad146327745e585fc7e6af16c035cd0369bf37a9",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11426$AF6E7290-748E-44A2-A751-EF8DE87B3E27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q479780"
+          },
+          "hash": "69e30ba2861602fa82e9091d3220296060edc873",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11426$65095FF2-0B40-4985-BC05-2B3000413107",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abe no Yoritoki Arms.svg"
+          },
+          "hash": "b1382c97300037fdd5db74ff1fa12fb60d5d3edc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (950–1057)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代の武将。陸奥国奥六郡を治めた俘囚長。従五位下。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (?-1057)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński samuraj"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (950 – 1057)"
+    }
+  },
+  "id": "Q11426",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Abe no Yoritoki"
+    },
+    "de": {
+      "language": "de",
+      "value": "Abe no Yoritoki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abe no Yoritoki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Abe no Yoritoki"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آبه نو یوریتوکی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Abe no Yoritoki"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Abe no Joritoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安倍頼時"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Abe no Yoritoki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Abe no Yoritoki"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Abe no Yoritoki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Абэ-но Ёритоки"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Abe no Yoritoki"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安倍賴時"
+    }
+  },
+  "lastrevid": 17412942,
+  "modified": "2025-09-15T23:48:33Z",
+  "ns": 860,
+  "pageid": 33799,
+  "sitelinks": {},
+  "title": "Item:Q11426",
+  "type": "item"
+}

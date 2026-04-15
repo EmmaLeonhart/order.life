@@ -1,0 +1,364 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael of Imereti //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q43386$EE466D44-D1BC-40C4-AE41-C79B15F81C75",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1123326"
+          },
+          "hash": "01cb7580c190f1977f1c882ad5cc6f310e6a0e1a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q43386$389F97C3-EC35-462E-B336-72195E86EF86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00332919"
+          },
+          "hash": "6abd8013d6506913a43fc2a348fad106ffedc7a6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43386$7DCC5834-F7B6-4B9A-9CD1-DDF5D8DC7C6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46383",
+              "numeric-id": 46383
+            }
+          },
+          "hash": "b998f9243dadbb9c36f323dbe3092ce2fc5b50c9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43386$3E4888B0-3AF8-4806-A873-A38887793299",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43386$34D21777-F2A1-423F-96AC-FBC118B45EF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43386$228D1A13-41A1-410F-9EEA-66E62D55A455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43382",
+              "numeric-id": 43382
+            }
+          },
+          "hash": "af0d649351af0b78284c1bb9a2ac305d7bb8b606",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43386$438164A3-55F4-4933-9C4C-05D07C94D89A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46379",
+              "numeric-id": 46379
+            }
+          },
+          "hash": "2135f08b58555f59ff869350bbba5488d6451275",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43386$172EBD1B-3673-41CB-806C-11CB8D70F57F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43386$1CB5CA1C-0BFE-4734-B616-01C05608C492",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43386$36544B3C-54D3-4799-9AE6-2ED56D5BD920",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1329-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0e965ef7f39e6d1e4c84bdae93cc896145efac3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43386$6D272231-1070-4B95-9930-D1EF0648A0A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2102643"
+          },
+          "hash": "7baf9db435345d1e3681cfe1fcd685259adafbf4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43386$E90BF27C-8C96-4D86-A75C-C1509D3F5AE6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael of Imereti Arms.svg"
+          },
+          "hash": "b176f51bcc828556cff7a641b9f1773a84194571",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "ملك من مملكه ايميريتى"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας της Ιμερετίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Imereti"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Իմերեթի արքա"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Koninkrijk Imeretië (-1329)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "tarihi hükümdarlar"
+    }
+  },
+  "id": "Q43386",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "مايكل اميريتى"
+    },
+    "az": {
+      "language": "az",
+      "value": "Mixail (İmereti çarı)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Miquel d'Imerècia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Michael Imeretský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mikeli"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιχαήλ της Ιμερετίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Michael of Imereti"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miguel de Imericia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Michel d'Iméréthie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מיכאלי, מלך אימרתי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mihael od Imeretije"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Միքայել"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მიქელი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Michaël van Imeretië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Михаил (царь Имерети)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Michael of Imereti"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mikeli"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Михайло I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米哈埃里一世 (伊梅雷蒂)"
+    }
+  },
+  "lastrevid": 17447496,
+  "modified": "2025-09-16T09:15:58Z",
+  "ns": 860,
+  "pageid": 60227,
+  "sitelinks": {},
+  "title": "Item:Q43386",
+  "type": "item"
+}

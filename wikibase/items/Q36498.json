@@ -1,0 +1,919 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tolui //"
+      },
+      {
+        "language": "en",
+        "value": "Tolui"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q36498$AF8F0EC0-8273-4207-8B79-2EC667715F82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "95037"
+          },
+          "hash": "33c53e00debd49613503e649f4c20157a58705db",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q36498$5E79CC77-57DF-4BFF-8F6D-59E82B75CCD5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00298853"
+          },
+          "hash": "192be0c069dc9625bbef3d3ece94ac378c667238",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q36498$B5A82D0B-20AA-4778-87F8-D8DE8E4298AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36518",
+              "numeric-id": 36518
+            }
+          },
+          "hash": "268031e7f8b20b26fc98cd2fe2f54861c8a5da48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$1BDE6BA9-5417-4211-9DB5-BE99826FB591",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36542",
+              "numeric-id": 36542
+            }
+          },
+          "hash": "44e0886a1e2636f2257a35897eb7d4d0890bb034",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$6341A442-F7E5-47D0-9665-DBED23ACDA20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36514",
+              "numeric-id": 36514
+            }
+          },
+          "hash": "7c71da9425a0a0f697fa081c500b06741930396f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$9E51A617-B07D-457B-B93C-40DBDCBC362B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36062",
+              "numeric-id": 36062
+            }
+          },
+          "hash": "51fecb0d1f8d7c0e78fbbc115ad9319345cec7c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$92F92B5F-B4E6-4CE3-B514-F24035CDB3C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36506",
+              "numeric-id": 36506
+            }
+          },
+          "hash": "a6039cc9827da2c31e10159f691d29bdebf64b44",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$E88B0228-485B-49A3-9218-7068904D3C90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36510",
+              "numeric-id": 36510
+            }
+          },
+          "hash": "f3a1a656bb75017b99e85de9c074526e73f9b085",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$FDEDB688-CBA3-4F99-AC75-3EBCD58373E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37464",
+              "numeric-id": 37464
+            }
+          },
+          "hash": "572bc928574fe5619e42095a4ad0563ba50886b8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$AC9ABC29-DAE3-4E3B-9808-E9806245A24F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36534",
+              "numeric-id": 36534
+            }
+          },
+          "hash": "d3c11ed9aaa9524de38d7d6ae175c230469b33ac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$B6AC4EA6-32D6-4733-A33B-C992927CD80A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36530",
+              "numeric-id": 36530
+            }
+          },
+          "hash": "caa0de79fea6d0aafca09e97c963098f09e9ed9e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$9C95E6AC-BB26-4F33-B73F-E830AD2A09A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36526",
+              "numeric-id": 36526
+            }
+          },
+          "hash": "858ca15e4129d5fb6e41cd602e5490761dd92c84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$DF11D795-617F-4375-BEEC-D321D4B2B909",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36522",
+              "numeric-id": 36522
+            }
+          },
+          "hash": "52eb888d9812e96923cffce3ab744b6bfdbaba27",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$72DF5477-D774-4FA5-B0FA-378D990CFB03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36538",
+              "numeric-id": 36538
+            }
+          },
+          "hash": "5419787c7e910d6b2e4b1686fca48e1a15aba1c7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q36498$92B8FBE7-AC6A-4758-A458-BD3DCA44846B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Temüjin-1"
+          },
+          "hash": "3b0013760e95634035c8bdbdedb52c2c909af4b5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q36498$DDB3279E-5286-464A-BAF6-F4EB9B3D386E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$4F8813CA-5D5E-4658-BC04-2FC19D023CCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q36498$05411F22-8C7B-4DEF-8C4C-3F62681080DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36502",
+              "numeric-id": 36502
+            }
+          },
+          "hash": "e0ec670b3228ed097f72180d4316b4bb2db0fc9c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36498$945F1011-B7A6-43E5-B795-4D8DC6071FE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37460",
+              "numeric-id": 37460
+            }
+          },
+          "hash": "232470c1132c137b088163a3e59b79181c2d5a80",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36498$871B024B-6734-4578-97B4-0D1BD74BB07E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37401",
+              "numeric-id": 37401
+            }
+          },
+          "hash": "5ee0ea5b2bab69987977336bc19d26842ea54a53",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q36498$78CC371C-C65F-4025-8133-4A27A6037463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37405",
+              "numeric-id": 37405
+            }
+          },
+          "hash": "2d7f3024d554281c9ee9a6e888c7f1d3a78f48c3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36498$8E76EB7D-FA46-4738-90C7-86F340D4FB26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36498$0E9FF397-E780-40DC-B673-5E3A7EF96BFD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1191-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "096cacc765a3f6957d9d780334bb615c8aa12220",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36498$E2DB2B29-E3CB-4CA9-B951-28F974AAF5E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1232-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1ffbaa76e575683ed9f7508d63133ca3ddbf7e31",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36498$A4805338-4309-4B3B-918A-C17074D6CF3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7517"
+          },
+          "hash": "bd95c2eb30b2d467f4fc9aef4d88f7f52cf72926",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q36498$9D6B2BC2-AA90-4311-9AB2-1A391E2466E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791880828"
+          },
+          "hash": "ddfc0174cb14c1e667c096ded85e4d0e51a46eee",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36498$B268F8C5-832B-4786-8D7B-3F7A1A83BAFB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tolui Arms.svg"
+          },
+          "hash": "495cb2af021386f94e77d6398621dbf56472850f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "seun van Djengis Khan"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أحد أبناء جنكيز خان"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "quart fill de Genguis Khan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn von Dschingis Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Genghis Khan and regent of the Mongol Empire (c.1191 – 1232)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "filo de Ĝingis-Ĥano"
+    },
+    "es": {
+      "language": "es",
+      "value": "cuarto hijo de Gengis Kan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "چهارمین پسر چنگیزخان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Gengis Khan, régent de l'empire mongol (1227-1229), père de Möngke, Houlagou, Ariq Boke et Kubilai"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मंगोल साम्राज्य के संस्थापक"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Dzsingisz kán negyedik fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale e condottiero mongolo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "チンギス・カンの四男。正妻ボルテの末子。"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "몽골 제국의 섭정(c. 1191–1232)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Condottiero uit Mongoolse Rijk (1192-1232)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "fiul lui Ginghis Han"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Младший сын Чингисхана и Бортэ, регент Монгольской империи в период междуцарствия"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "செங்கிஸ் கான் மற்றும் போர்ட்டேயின் நான்காவது மகன்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Moğol İmparatorluğu naip yöneticisi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con trai út của Thành Cát Tư Hãn, nhiếp chính Đế quốc Mông Cổ (k. 1191 – 1232)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成吉思汗（铁木真）之子"
+    }
+  },
+  "id": "Q36498",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Toloei Khan"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "تولي خان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تولوى"
+    },
+    "az": {
+      "language": "az",
+      "value": "Toluy xan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "تولی خان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Талуй"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "তোলুই খান"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཐོ་ལོ་ནོ་ཡོན།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tolui"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Tolui"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "تۆلی خان"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tolujchán"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tolui Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tolui"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Tolui"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Tolui"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tolui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tolui"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تولیخان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Tolui-kaani"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tolui"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tolui"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tolui"
+    },
+    "he": {
+      "language": "he",
+      "value": "טולוי"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "तोलुइ ख़ान"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Toluj"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թոլույ խան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tolui Khan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolui"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トルイ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ტოლუი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Төле"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "툴루이 칸"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Tolujus"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "拖雷"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Тулуй"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "तोलुई खान"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Tolui"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Tolui"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tuluj"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "टोलुइ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tolui Khan"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Tolui"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tołuj"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "تولی خان"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tolui"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tolui"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Tolui"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Толуй"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Toluj"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tolui"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Толуј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tolui"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "டொலுய்"
+    },
+    "th": {
+      "language": "th",
+      "value": "โตลุย ข่าน"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tuluy"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Толуй"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تولی خان"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Tulixon"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đà Lôi"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "拖雷"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "拖雷"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拖雷"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "拖雷"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "拖雷"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "拖雷"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "拖雷"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "拖雷"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "拖雷"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "拖雷"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "拖雷"
+    }
+  },
+  "lastrevid": 17438588,
+  "modified": "2025-09-16T07:09:11Z",
+  "ns": 860,
+  "pageid": 55075,
+  "sitelinks": {},
+  "title": "Item:Q36498",
+  "type": "item"
+}

@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ben Duo Zhong Chang  (qi Ben )"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q33766$B9FDA3DB-2539-45FC-855E-0641EEB484CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33766$54429828-2052-463E-87EB-92AAE7929E0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q33766$B1433602-F1FA-4619-8A9F-9658DFE3C0C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37915",
+              "numeric-id": 37915
+            }
+          },
+          "hash": "58282f7d7349504d5c95712c1cf5e161a75af07d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q33766$9B0C6D94-61D5-41BD-AC1F-203863B542B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30021",
+              "numeric-id": 30021
+            }
+          },
+          "hash": "bca4493ed69ac785bf9ba01f45f2bff57c34754c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33766$307AA565-984C-42F6-884E-261B92C98D32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33766$4A40A2EA-172D-4703-9345-8011AB11136C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1697-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a92ba1963fa509ffe769c4c01c24d1bacf0ad20",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33766$A71A5E0A-7E73-43BD-8F33-0E73F04AEC31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1745-10-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4433185006022221a1f5ef92368c09b9dfd1a77",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33766$F9EA7826-B56C-4636-926B-0C64EA510268",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110967813"
+          },
+          "hash": "99626729385ea76ab4921f187833856cbacf0d00",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "本多忠能（三河西端領主、本多忠熊）の子。三河西端領主、定火消、書院番頭、従五位下、播磨守"
+    }
+  },
+  "id": "Q33766",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "本多忠敞 (旗本)"
+    }
+  },
+  "lastrevid": 17434618,
+  "modified": "2025-09-16T06:10:40Z",
+  "ns": 860,
+  "pageid": 53034,
+  "sitelinks": {},
+  "title": "Item:Q33766",
+  "type": "item"
+}

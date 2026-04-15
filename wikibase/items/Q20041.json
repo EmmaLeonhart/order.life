@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakakibara Tadanaga"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20041$B8BA9E13-E7F1-4A16-A86E-5892AE55CC61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20041$549F69F8-A866-455F-8549-E9E91079E564",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20041$DF259A36-FA5D-40C5-BE15-9B1AA9F64428",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18397",
+              "numeric-id": 18397
+            }
+          },
+          "hash": "9f2b7169731b63639a90b7b0924b7823fd9497a0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20041$2767D220-4458-4680-9611-48945B637D51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20041$FE2D18D9-1528-4D9D-A537-E5B85EB44842",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1585-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2b27f10111db20d4e3e7599b7fbdbbbff7614ab",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20041$8CC485A4-EC02-49F9-B503-1CA1931BA33B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1604-03-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8e6d091fd6fd861e07379449973c8f8e89f1d757",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20041$D6DB92D8-3513-45C7-A774-9E2A1E6B8085",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11541693"
+          },
+          "hash": "da3fa98c98930978c9d5b67b19c38bec4e713713",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20041$AC010BB9-329D-4CE8-9D77-8558419FA1E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakakibara Tadanaga Arms.svg"
+          },
+          "hash": "3443fa261720b7cb35163157f0f64398f5904c9f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20041",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakakibara Tadanaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "榊原忠長"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "榊原忠長"
+    }
+  },
+  "lastrevid": 17419198,
+  "modified": "2025-09-16T01:49:46Z",
+  "ns": 860,
+  "pageid": 42138,
+  "sitelinks": {},
+  "title": "Item:Q20041",
+  "type": "item"
+}

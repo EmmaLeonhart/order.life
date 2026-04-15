@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hatakeyama Yoshiari"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q17351$6AEA9C86-90D7-4D75-A4A6-50B5FCD8ECFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30943",
+              "numeric-id": 30943
+            }
+          },
+          "hash": "b1c230d324f0ebcca1c291226784889c44824c1f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17351$4FDB751E-F78E-4319-9A62-94C6B01AB2A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30947",
+              "numeric-id": 30947
+            }
+          },
+          "hash": "41470daae1b7ae4e60b12b10488d93bb672fa03a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17351$03C0B77C-E9DE-4128-B571-C71F0ED09C68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17351$F2B00FCA-05B0-4BA6-BC1D-B81017759F93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17351$C6938D1B-F9BB-4AD5-AFB5-D8055B1EEEA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35051",
+              "numeric-id": 35051
+            }
+          },
+          "hash": "4db035af3e3148567febb6df6d2ceefa1ed274a6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17351$29630A15-805E-484C-B1D3-57A41E5EA433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17351$EB026219-B6E7-43F5-AE52-0B63E61B1BB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1440-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1bbbbef9e3c911a7758ad10863655a852945fdfd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17351$0B2298DE-0554-4100-A224-A31C2903E28C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17229776"
+          },
+          "hash": "8976a8147ed23417ed0fc20c3b65384b7b4e8a2e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17351$BC836D8B-20A4-460A-9B70-C97D97E93F58",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hatakeyama Yoshiari Arms.svg"
+          },
+          "hash": "a947dac7301ca87244114f67635f686924bc1a1d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期の大名。畠山義忠の嫡男。"
+    }
+  },
+  "id": "Q17351",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hatakeyama Yoshiari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "畠山義有"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсиари Хатакэяма"
+    }
+  },
+  "lastrevid": 17416888,
+  "modified": "2025-09-16T00:52:50Z",
+  "ns": 860,
+  "pageid": 39583,
+  "sitelinks": {},
+  "title": "Item:Q17351",
+  "type": "item"
+}

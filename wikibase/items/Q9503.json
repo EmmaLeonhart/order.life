@@ -1,0 +1,159 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Miyaji no Kiyoki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9503$0B6304A2-0162-46C6-A3AC-55AA6622A178",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9503$4B6091B6-F791-4613-9741-7E234E6202B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9503$55A18895-30D9-4D25-8DE3-1752B06D3654",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9098",
+              "numeric-id": 9098
+            }
+          },
+          "hash": "ab426d4087320d6e5dbcac86725f24cb12969810",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9503$5312A495-1586-436E-801E-AEE255D763B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9503$C1B82A26-F337-4FD9-94A4-DDED9AF3CF91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9503$3D7AA12A-ED85-4F68-96AF-C3B9E8C1CE4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24873066"
+          },
+          "hash": "f51e21cd552efd9e5d5eeb07e59acf3e6b56e258",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代の官人・歌人、越前権少掾"
+    }
+  },
+  "id": "Q9503",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Miyaji no Kiyoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "宮道潔興"
+    }
+  },
+  "lastrevid": 17411064,
+  "modified": "2025-09-15T23:21:05Z",
+  "ns": 860,
+  "pageid": 31953,
+  "sitelinks": {},
+  "title": "Item:Q9503",
+  "type": "item"
+}

@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "BoRyang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14445$168F0A73-F1D5-4697-A29B-F84F0BFD45FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14445$BCE9B83A-6F2D-4559-951E-6526034EBD6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14445$D0E96EAF-7FF2-4E53-98C5-005CAE246485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14449",
+              "numeric-id": 14449
+            }
+          },
+          "hash": "baf7d9ae51c6db185dc37468aa5d342b336d592a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14445$87DA806C-1783-4897-A673-481E16ED3FA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13943",
+              "numeric-id": 13943
+            }
+          },
+          "hash": "5ef5a5ba624be9cebea7ebc6b4583a960985d620",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14445$9321B20F-D742-4992-8BB6-F2778C3FB04C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14445$02A28794-5DA9-4F62-ADE8-0758828BD2AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0604-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "30c6e277e92aa608268bbeae869de5704b071611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14445$30799814-AC43-4C99-AA92-31C8E37C45A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12598328"
+          },
+          "hash": "dd007aadd21a7580d8ebf4ebb5dd3c5caafd5323",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14445$18D34CFA-81A4-49AC-9B27-61E60737F074",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "BoRyang Arms.svg"
+          },
+          "hash": "7322bc3fa12c2a5472969cb4e38fec2a0b8c2a13",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Princesse of Silla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "新羅の王族"
+    }
+  },
+  "id": "Q14445",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "BoRyang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "宝良公主"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "보량궁주"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "寶良宮主"
+    }
+  },
+  "lastrevid": 17414526,
+  "modified": "2025-09-16T00:10:37Z",
+  "ns": 860,
+  "pageid": 36746,
+  "sitelinks": {},
+  "title": "Item:Q14445",
+  "type": "item"
+}

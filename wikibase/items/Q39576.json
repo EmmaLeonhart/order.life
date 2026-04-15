@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kujō Naozane"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q39576$D4B3E6D7-3224-432B-882D-3E3B08DA143B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "804404"
+          },
+          "hash": "09cfe9b1e353432a9d1fb13db5a89851d9af447c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39576$ECA7992B-EB5F-4806-BD01-EB1BBCD47054",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39576$0258665B-F0E9-4252-BF42-41F86E10D442",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39576$96B590F4-720A-4E0F-B98E-264DDEE3DB13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35522",
+              "numeric-id": 35522
+            }
+          },
+          "hash": "62a49ae10ee8fa9ab487fbeaa983bd9db49f5480",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39576$A4DA263E-9E6C-40A3-BCF9-4EDB9C2BEF69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39576$29C5E18E-7675-4066-9AE0-009199720A4E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1717-07-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55f776edfe19ef7d04321ea294cdf3ce449970d0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39576$8A003A8C-B996-473B-B711-82D6328FBD5A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1787-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fb42e657393a1b20172ac210588be2b7d77464e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39576$E95A97AF-CD21-4DF3-AB93-A98B09C01255",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3200271"
+          },
+          "hash": "090b0ede3d7c95125cf9ac904aa90e076570034c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39576$AAE0FFB0-2193-4082-87FC-3907A719367F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kujō Naozane Arms.svg"
+          },
+          "hash": "6668c268e890274ade124723251d05f76793e04f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "kugjó"
+    },
+    "en": {
+      "language": "en",
+      "value": "kugyō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の公卿"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'da en önemli işlerden sorumlu saray görevlisi/kugyō (1717 – 1787)"
+    }
+  },
+  "id": "Q39576",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kujō Naozane"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Naozane Kudžó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kujō Naozane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kujō Naozane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kujō Naozane"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kujō Naozane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "九条尚実"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kujō Naozane"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наодзанэ Кудзё"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kujō Naozane"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "九條尚實"
+    }
+  },
+  "lastrevid": 17442484,
+  "modified": "2025-09-16T08:05:03Z",
+  "ns": 860,
+  "pageid": 57374,
+  "sitelinks": {},
+  "title": "Item:Q39576",
+  "type": "item"
+}

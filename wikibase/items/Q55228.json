@@ -1,0 +1,396 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Francesco I Gattilusio //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55228$71BAF32D-9850-4134-B3B4-ABAB95FBB590",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00376915"
+          },
+          "hash": "7d98b8baa84a1475f008ed395ffe63f12edf5f72",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q55228$FEBF39DB-7E1C-4C7A-B4ED-18DB05FA4E72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55232",
+              "numeric-id": 55232
+            }
+          },
+          "hash": "ef5083310709784cfde5acf4509131530e43ddf6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55228$AFA59BAD-8A69-4C89-86AC-12E7228D35D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55228$EB956845-B387-4B23-A8E3-414162E6AB29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55228$1B7D41A8-67EF-4906-A74E-DCC23142F632",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Francesco_I_Gattilusio_(1)"
+          },
+          "hash": "a9ef218731577a43ff3ea5199aca09505947c8d2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55228$60AC1AA8-8DAC-4098-AECF-F4D398A7FFD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49816",
+              "numeric-id": 49816
+            }
+          },
+          "hash": "fc7e4cf07f93e9747cd7d3a497996236ab103a90",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55228$EA787C36-AEA7-44FE-AB78-AD01D043B8F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55228$A7D75828-D5AC-4D2B-A753-413AA08ADFC4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1326-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8aac4e6b9d205e1bc660b3d4a5a270307fea44d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55228$A4646837-1E1C-4459-B91E-BE7BE98A050A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1384-08-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ca4e7e59f476dd06c2a96dfa364b73865982cf7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55228$F92D9958-171D-4B2E-B962-E453DDA7C56C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q337741"
+          },
+          "hash": "79701e1729f21f6bc508801dbcaf8ecedece8c46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55228$5A0F4E3C-89C9-464D-B86A-7A9F9D7C8593",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009048960164"
+          },
+          "hash": "3a2ce67275bb525c4a04c40d6402a97be39c570a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55228$B9728091-E9DF-4015-886A-CA7DC25A9D46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Francesco I Gattilusio Arms.svg"
+          },
+          "hash": "f699a3d872cd263de8d7eef09645784c15233220",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "владетел на о-в Лесбос през 14 век"
+    },
+    "de": {
+      "language": "de",
+      "value": "italienischer Patrizier und Archon von Lesbos"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italian patrician and Archon of Lesbos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "premier seigneur de Lesbos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Leszbosz szigetének uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile italiano e arconte di Lesbo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "kaper"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Правитель острова Лесбос"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Італійський аристократ і володар Лесбосу"
+    }
+  },
+  "id": "Q55228",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فرانشيسكو جاتيلوسيو الأول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Франческо Гатилузио"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Francesc I Gattiluso"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "František I. Gattilusio"
+    },
+    "de": {
+      "language": "de",
+      "value": "Francesco I. Gattilusio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φραντσέσκο Γκαττιλούζιο Α'"
+    },
+    "en": {
+      "language": "en",
+      "value": "Francesco I Gattilusio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Francesco Gattilusio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Francesco I Gattilusio"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Ferenc leszboszi uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "Francesco I Gattilusio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フランチェスコ1世・ガッティルシオ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Franciscus I Gateluzus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Francesco I Gattilusio"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Franciszek I Gattilusio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Франческо I Лесбоский"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Франческо I Гатилузио"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Франческо I Гатилузио"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Frančesko I Gatiluzio"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Francesco I Gattilusio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Франческо I Гаттілузіо"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "弗朗切斯科一世·莱斯博斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "弗朗切斯科一世·莱斯博斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "弗朗切斯科一世·莱斯博斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "弗朗切斯科一世·萊斯博斯"
+    }
+  },
+  "lastrevid": 17463118,
+  "modified": "2025-09-16T13:05:32Z",
+  "ns": 860,
+  "pageid": 70059,
+  "sitelinks": {},
+  "title": "Item:Q55228",
+  "type": "item"
+}

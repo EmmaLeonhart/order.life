@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Xun"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23256$B974AF67-3B37-4FA4-B9FC-71D35F7B369E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45029",
+              "numeric-id": 45029
+            }
+          },
+          "hash": "18b8aaffc190086f6fef29f1e8f5f57a6ed993a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23256$5088414C-1032-45CF-97ED-74D76C00F6DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45034",
+              "numeric-id": 45034
+            }
+          },
+          "hash": "79a396a5c789339c92559503ade4c5228af4258d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23256$CB53B681-9CCC-4F75-8B19-6985EA2994C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23256$FAF19A82-6711-45EA-B763-2E3E82866589",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23256$D6CC9014-CABC-41E2-A8D3-1E26C811A1E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23249",
+              "numeric-id": 23249
+            }
+          },
+          "hash": "2297488373bb74b4c8083ac909e2053bc552a3cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23256$2E5D2DFD-2FA7-4319-A50B-E3F2B128454E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23256$686943D6-0973-4D9E-AD3A-FA7A6F46D773",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23256$FC726165-7A40-4776-B575-A94BB2FDF11A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16078093"
+          },
+          "hash": "63d98d36e46a19f07366807e2b094851b071a3a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23256$33F894AD-F2D8-4CAE-9F8A-B1A5152F1BAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000021151069727"
+          },
+          "hash": "e4135ca9ab12e278c060d40b39218f582036ea7d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23256$20AD4402-66FD-4902-8242-53CA05EB5659",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Xun Arms.svg"
+          },
+          "hash": "5ff1e13928ef87691cd16184922254b92ab53758",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171686"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "edelman uit Tang-dynastie"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中国古代历史人物"
+    }
+  },
+  "id": "Q23256",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Xun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Xun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Xun"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭珣"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Xun"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Tuần"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭珣"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧珣"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭珣"
+    }
+  },
+  "lastrevid": 17422100,
+  "modified": "2025-09-16T02:59:05Z",
+  "ns": 860,
+  "pageid": 45210,
+  "sitelinks": {},
+  "title": "Item:Q23256",
+  "type": "item"
+}
