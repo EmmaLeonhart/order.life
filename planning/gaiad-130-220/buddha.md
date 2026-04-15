@@ -64,3 +64,20 @@ kind of stuff happens to people a lot, he wants people to experience it
 too, and many do.
 
 **Cosmologically deflated, but ambiguous on cosmology itself.**
+
+## Open — Buddha's descendants
+
+The Buddha has descendants: **Rāhula** (the literal "fetter") and the
+broader Shakya clan after him. Whether and how those descendants play a
+role in the Gaiad is an **open question**. Candidate moves:
+
+- Parallel to the Jesus-bloodline ubiquity (see
+  `gateway-ancestor-ubiquity.md`) — a Buddha descent-line that is
+  similarly widespread across South and East Asia, not secret,
+  structurally ordinary.
+- Thematic irony with the abandonment of Rāhula — the line that
+  continues is named "obstacle," and continues anyway.
+- Ties into the Shakya-as-Scythian question (`structure.md` §6),
+  which Emma has flagged as ambiguous.
+
+Currently unresolved. Not committed to any handling.

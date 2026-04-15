@@ -34,17 +34,50 @@ the X-Files peak of the Christianity arc (see
   descendants of the same Roman noblewoman. This is the kind of thing
   that sounds like satire and is just the historical record.
 - **Jesus bloodline.** In the Gaiad's framing, the House of Theophylact
-  **literally carries the Jesus-via-Rome line** (see `jesus.md` for the
-  descent-from-Rome structural placement of Jesus in the super-network).
-  Marozia's grandson Pope John XII is therefore *both* a papal office-
-  holder in the apostolic succession AND a genealogical descendant of
-  Jesus. This is the load-bearing move: the Pornocracy is not just
-  institutional corruption played for X-Files tone — it is the Jesus
-  bloodline *ruling the papacy*, with all the dynastic chaos that
-  implies, at exactly the period most hostile to its own founder's
-  ethics. This doubles the X-Files density of the episode and is the
-  reason Marozia is the Christian arc's peak rather than a mere
-  scandal chapter.
+  carries the Jesus-via-Rome line (see `jesus.md` for the descent-from-
+  Rome structural placement, and `gateway-ancestor-ubiquity.md` for the
+  broader frame). Marozia's grandson Pope John XII is therefore *both*
+  a papal office-holder in the apostolic succession AND a genealogical
+  descendant of Jesus.
+
+## The Jesus-bloodline fact — concentrated AND arbitrarily so
+
+The Jesus bloodline in general is **ubiquitous** (see
+`gateway-ancestor-ubiquity.md`). But the House of Theophylact's
+relationship to it is *not* simply "they're one of the many ubiquitous
+descendants." Two things are true at once:
+
+1. **They do actually have more of it.** The House of Theophylact
+   carries a denser, more traceable concentration of the Jesus-via-Rome
+   descent than typical — the genealogical record is real, the line is
+   more concentrated through their family than through most
+   contemporaries.
+2. **And the concentration is weirdly arbitrary.** There is no
+   providential reason it lands on them. It is genealogical accident —
+   the kind of concentration that happens as a matter of how descent
+   math plays out in practice, landing on specific families and not
+   others without anything explaining *why* them.
+
+**The arbitrariness is the point.** The Gaiad is not saying "Jesus's
+real heirs rule the papacy" (Da Vinci Code, wrong tone). It is not
+saying "everyone equally descends from Jesus so it doesn't matter"
+(too reductive, erases the real concentration). It is saying both
+things at once: the concentration is real, *and* it's arbitrary, *and*
+history treats this arbitrary concentration as load-bearing anyway —
+that's the X-Files beat.
+
+## Handling question
+
+Still an active question for the chapter, but not as open as I
+previously framed it. The core move is:
+- Name the concentration (yes, these specific people really do carry
+  more of the line, and it's traceable).
+- Name the arbitrariness (no, that doesn't mean anything cosmically —
+  it's genealogical accident).
+- Let the reader sit with the fact that medieval Europe treated this
+  arbitrary concentration as consequential, and the church formed
+  around Jesus was, by genealogical accident, being run by a family
+  unusually densely descended from him.
 
 ## Gaiad handling
 
