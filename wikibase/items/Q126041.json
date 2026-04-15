@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert of Ghent"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Роберт де Гант"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q126041$809EDCCB-C1D1-4A96-B5CC-AA7B00B68DEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gant-264"
+          },
+          "hash": "b1420885b3646cbb2c78536485d28ffb321297aa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126041$136B0EA0-0F43-463D-8E76-95CE170E46B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126041$40F17C41-C24F-416E-91DC-C65403EB7C8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126041$794C53B5-E663-4981-8851-C9D7F8C0A290",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert_De_Gaunt_(1)"
+          },
+          "hash": "5b57b2469c356c3d07b53ad0ed82ecdc025260f6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126041$B9748BA7-7C1D-4CCD-B1FD-E256D22DF448",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120458",
+              "numeric-id": 120458
+            }
+          },
+          "hash": "af555b8a4d322401bde6a1d963a9b959d54a6b2f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126041$B069AC70-3D7A-4310-9389-2556A10E43BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126033",
+              "numeric-id": 126033
+            }
+          },
+          "hash": "f6627088a1e17dadadcc757fcfa9a2a55c728c92",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126041$12D72060-DD8E-46E6-8A47-17F42234DA6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126041$BC0EF594-FA1C-487E-AF3C-92BB5FF064D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126041$E4E388D0-71DD-45C0-A1C3-3101C6A95E4A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1154-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d114932a239e7ebffdedc6843ae880578d531a0f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126041$B803A0E7-5A2A-45F6-9766-0A0B0952C8BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2159309"
+          },
+          "hash": "74e32bd73387b6e2758553c55d5eba639520e95d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126041$2B9DF134-D3DF-4D02-B814-3933F36A59AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de gand"
+          },
+          "hash": "50b70bc93c67b762c3dfb51644bf5a0a8c3fbf98",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126041$05C1D83D-45E4-4E5F-998F-3CE1F6087AB5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert of Ghent Arms.svg"
+          },
+          "hash": "2ca0366fda99fe16fdcef732028b80385bafd2d4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "britisk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dekan von York, Lordkanzler und Siegelbewahrer von England"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lord Chancellor; Dean of York"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار بریتانیایی"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico inglese"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "britisk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits politicus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "britisk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "декан Йорка, канцлер Англии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "brittisk politiker"
+    }
+  },
+  "id": "Q126041",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Robert von Gent"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert of Ghent"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert of Ghent"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert of Ghent"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Robert od Genta"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Robert of Ghent"
+    },
+    "it": {
+      "language": "it",
+      "value": "Robert di Ghent"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロバート・オブ・ジェント"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert of Ghent"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт Гентский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Robert od Genta"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Robert of Ghent"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "根特的羅伯特"
+    }
+  },
+  "lastrevid": 17539152,
+  "modified": "2025-09-17T07:33:32Z",
+  "ns": 860,
+  "pageid": 152494,
+  "sitelinks": {},
+  "title": "Item:Q126041",
+  "type": "item"
+}

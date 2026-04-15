@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gausfred III of Roussillon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126387$99AFAA0D-F3A1-4A5E-B37E-7A5F9305066B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00438867"
+          },
+          "hash": "7c1028977e95c81459d543bce6ed825ba2c8bb4c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126387$7A328901-EFFC-4BFE-AC07-E888A2B815E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126389",
+              "numeric-id": 126389
+            }
+          },
+          "hash": "b90bf1910542efabde31f98c5b9918c4b4f5416f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126387$56A6BBA8-02E9-4EC0-BF0E-4FB25E400796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126387$EFB0224B-564E-4894-894F-922E89148BB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126387$C9F359B0-5BC6-4782-B21D-25A3624F91EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gausfred_III_of_Roussillon_(1)"
+          },
+          "hash": "e8a995d6219ddedf0034f9459c1c17267b460354",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126387$277DC69F-FB05-4C58-B7DE-CA56E30F4F42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120788",
+              "numeric-id": 120788
+            }
+          },
+          "hash": "c8041f94d0a8dc95a5adc00dd862cc94d4ab2aee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126387$9128BB4A-B00E-4116-93C6-33C1EC710E88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126387$B5573FE7-E761-491C-84F8-1CD053641E8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126387$D948759F-47BF-464D-B74C-DA7A478CCFFA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1164-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32f1380f78a5d41aa9dffc2ef8c4788ed16da0dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126387$9870CB30-6983-4052-A14F-DBB2E4AC66DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3460031"
+          },
+          "hash": "0ba46bb2c9aab2e60dcd506acc7a31217f944397",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126387$4C1880C7-D8CC-4C90-9FD4-C7DA793212F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gausfred;n=de roussillon"
+          },
+          "hash": "8c7fd3d8e30ca4e719da39dcb9b63a9c9380398e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126387$994C0834-357D-49B3-A995-3C99AF0376AE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gausfred III of Roussillon Arms.svg"
+          },
+          "hash": "a0c03c36b613b89d1051b6536d601de1c3b22786",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Rosselló"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Roussillon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conde de Rossellón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Roussillon"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile franco"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Conde de Rossilhão"
+    }
+  },
+  "id": "Q126387",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جوسفريد التالت روسيون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Gausfredo III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gausfred III de Rosselló"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gausfred III."
+    },
+    "en": {
+      "language": "en",
+      "value": "Gausfred III of Roussillon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gausfredo III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gausfred III de Roussillon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gausfredo III di Rossiglione"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gausfred III of Roussillon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gausfredo III do Rossilhão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gausfredo III do Rossilhão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Госфред III"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gausfred III of Roussillon"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "高斯弗雷德三世"
+    }
+  },
+  "lastrevid": 17539492,
+  "modified": "2025-09-17T07:38:36Z",
+  "ns": 860,
+  "pageid": 152959,
+  "sitelinks": {},
+  "title": "Item:Q126387",
+  "type": "item"
+}

@@ -1,0 +1,416 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thorkell the Tall"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123862$90E37D0A-DD78-423E-A499-161404A9146B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00118328"
+          },
+          "hash": "d67ef82e5a2258c79dd63452fea4aa4b2f5a8e7c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123862$1C7755C4-7D51-4316-97E6-73679F2D5CD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125749",
+              "numeric-id": 125749
+            }
+          },
+          "hash": "1b1b711a00cb99fa9e97ab2104dcd852eb9bb161",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123862$245A2B67-03E1-4927-A0A5-66DC4BC79EA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123862$6CF1454D-FC0D-491A-AE35-D2FBF009DFFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123862$0A5909FB-F25E-4692-9A44-00FFAF64185E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120223",
+              "numeric-id": 120223
+            }
+          },
+          "hash": "edc8711a9501ab953b41fd1084e109482e17771c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q123862$915AFFC0-140D-469D-BEE2-246769869239",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10664.htm#i106636"
+          },
+          "hash": "e4c12d544423f4efd0715407380daaf99d440970",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123862$0FD6BCFF-A883-463C-8C11-0D9E6BE8D8C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118744",
+              "numeric-id": 118744
+            }
+          },
+          "hash": "c338b7e708b51d2c65855197a5b3d6f49a8ce6e3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123862$69B6E2F9-EE87-4F11-8F80-1A0E3C41AF5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123862$A49DC7A4-9FAF-437C-A8B7-914894BD437A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0901-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ecc0589780bacef8dcf758b68be1b8fcb380dd2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123862$DC3EBF21-1AAF-438F-B65B-AAC790742D69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0f06eb64a36ac7576bf4a559a229ea93027f7a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123862$4737FBE7-6BA7-40BD-9FF7-C97C9B3230AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3119819"
+          },
+          "hash": "17c29f243da9cfaaaaac7420d779c00ad0893ea1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123862$838EC433-6B9A-4FC8-9099-F72800FC15CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thorkell the Tall Arms.svg"
+          },
+          "hash": "050b19a9aae87d3088b523dab9d74179d2982918",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مستكشف نرويجي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "esplorador noruegu (901–1100)"
+    },
+    "da": {
+      "language": "da",
+      "value": "dansk og engelsk jarl, hærfører og jomsviking"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jomswikinger und Earl of East Anglia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jomsviking"
+    },
+    "es": {
+      "language": "es",
+      "value": "explorador noruego"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاشف نروژی"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare norvegese"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ദേശപരിവേക്ഷകന്"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Noors ontdekkingsreiziger"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "eksploradó  danes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jomsviking"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "jomsviking från Skåne"
+    }
+  },
+  "id": "Q123862",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Þorkell hái"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Thorkell l'alt"
+    },
+    "da": {
+      "language": "da",
+      "value": "Thorkil den Høje"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thorkell der Lange"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thorkell the Tall"
+    },
+    "es": {
+      "language": "es",
+      "value": "Thorkell el Alto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thorkell le Grand"
+    },
+    "is": {
+      "language": "is",
+      "value": "Þorkell hái"
+    },
+    "it": {
+      "language": "it",
+      "value": "Thorkell l'Alto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トールケル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "토르켈 인 하비"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Torkjell Høge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thorkell de Lange"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Torkjell Høge"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Thorkell le Grand"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Thorkell Wysoki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Thorkell o Alto"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Thorkell o Alto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Торкелль Длинный"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Thorkell the Tall"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Thorkell the Tall"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Torkel den höge"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Торкель Довгий"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托基爾"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "托基爾"
+    }
+  },
+  "lastrevid": 17537026,
+  "modified": "2025-09-17T07:04:18Z",
+  "ns": 860,
+  "pageid": 149572,
+  "sitelinks": {},
+  "title": "Item:Q123862",
+  "type": "item"
+}

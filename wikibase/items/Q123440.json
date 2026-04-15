@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amat de Montsoriu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q123440$909FE251-D300-4855-83EC-AA2F5EDC110D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123442",
+              "numeric-id": 123442
+            }
+          },
+          "hash": "84a6cf06965631c31da405dadc41d2832adfcad9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123440$5E4E5B78-243F-4A08-8C68-426B674F6045",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118287",
+              "numeric-id": 118287
+            }
+          },
+          "hash": "ccc894c2f9d802603f006e28ec5ec20f0ad92db1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123440$3B3707E0-B81B-44E8-BB0D-231B40965910",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123441",
+              "numeric-id": 123441
+            }
+          },
+          "hash": "fce5252438308dc22be7bc6d07b1ce9f3501f6af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123440$88AF9CB0-3D29-4618-8E35-AC3B5E9FAC38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123440$4E59BF2E-BC76-427D-8412-3E857DEFF2FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123440$D6572E0B-0728-4B54-A1E6-8B6F4B3DD654",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123440$FC223A8E-C617-41DA-8DAD-17495ED5EA17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123440$E3539C41-9310-474D-9CAF-9106F378D9BF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1025-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "898444bf0aaa64e88cf6156f63c5fae0bedf1c8a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123440$A2657772-267E-4702-8FDF-8255A55648E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24074730"
+          },
+          "hash": "50a35a11db4142b0f7073c04f1ebcda5a821fb16",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123440$D92B0D89-AC41-418E-AB87-CE4D2763D5C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amat de Montsoriu Arms.svg"
+          },
+          "hash": "05d30582d3f2f3a43b7f5aac9b332713da46f444",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "vescomte de Girona"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble español"
+    }
+  },
+  "id": "Q123440",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Amat de Montsoriu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Amat de Montsoriu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amat de Montsoriu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Amat de Montsoriu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amat de Montsoriu"
+    }
+  },
+  "lastrevid": 17536620,
+  "modified": "2025-09-17T06:58:46Z",
+  "ns": 860,
+  "pageid": 149012,
+  "sitelinks": {},
+  "title": "Item:Q123440",
+  "type": "item"
+}

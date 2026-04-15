@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hilduin of Joinville"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126572$ED101A60-549C-4DC5-A186-8B8AAA0E16C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126572$4FA126B0-3E90-4C3F-90EE-12FB89D642E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126572$8FCF65D4-C58F-4F92-89E0-DB38627FF842",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hilduin_of_Joinville_(1)"
+          },
+          "hash": "ca5ad6dc61e8c564ce5ef8df5839ee3e34bb9cb6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126572$4A4E6353-1872-47FD-8EED-0EB1FA91873C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126566",
+              "numeric-id": 126566
+            }
+          },
+          "hash": "1a3bcae1551e73d509a28416f8d43d6ed64fcd2a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126572$3F804B27-E269-4C71-A6FA-64FE3A56820C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126568",
+              "numeric-id": 126568
+            }
+          },
+          "hash": "bc1dab93b3bbc260d2a061d7bdee02909f572143",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126572$8A144FFC-CB11-4448-B22C-467C68C06FCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126572$444203F2-B873-4BCF-8302-5C876DCD4097",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1055-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93df754a7fce7cf4eab7f2b53de57d83e578f6f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126572$EFB90938-8CC5-43B9-90B9-0FB008CEE1AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22678382"
+          },
+          "hash": "55a62b9993284eda12c2a80a0211d32df55e3a1e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126572$ED9E89F6-35A1-44B6-AEBF-906E9B96B1AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hilduin;n=de joinville"
+          },
+          "hash": "a75c4e7027e0c7fdf65c5b446e7b36fb2c626afa",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126572$E659827C-F3EC-460C-9869-F7A42F5C43D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hilduin of Joinville Arms.svg"
+          },
+          "hash": "1024e83820d7cf55ecb769a51eff581a2e358835",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Άρχοντας του Νουιγί"
+    },
+    "en": {
+      "language": "en",
+      "value": "lord of Nully"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur champenois"
+    }
+  },
+  "id": "Q126572",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Hilduin von Joinville"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιλδουίνος του Ζουανβίλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hilduin of Joinville"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hilduin de Joinville"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hilduinus van Joinville"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hilduin of Joinville"
+    }
+  },
+  "lastrevid": 17539672,
+  "modified": "2025-09-17T07:40:58Z",
+  "ns": 860,
+  "pageid": 153206,
+  "sitelinks": {},
+  "title": "Item:Q126572",
+  "type": "item"
+}

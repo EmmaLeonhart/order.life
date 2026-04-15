@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Baudouin de Tournai"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122543$CC16C64A-89A8-4EEE-90C3-2B9E9C2EDE9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00174586"
+          },
+          "hash": "4cd9a4564ea9f2cbcda746c6e3412a018781ee5f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122543$358F8C80-6967-433A-B218-01C16DA52228",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128804",
+              "numeric-id": 128804
+            }
+          },
+          "hash": "4c94794d857d6f88c5d2edb84ba637b691525b43",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122543$83FB808F-832F-4FFA-ACA7-4BA4F45AEE86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Tournai-12"
+          },
+          "hash": "addd03618ef3bdb1e5cc61cc3cb75143f8ecdc51",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122543$20E5CCC3-F6AA-44DD-AA54-BFDF2D9B15C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122543$0A6F96CA-DE52-4816-A018-A56D25EBD0FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122543$71E9ED3A-7A35-46E7-930D-1C60482001D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117730",
+              "numeric-id": 117730
+            }
+          },
+          "hash": "8696ecf0b8d4720d7e8c0571608e0b54d23d4d4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122543$060C3FC3-4F26-4BE1-B0EF-466C0ECB4E0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128802",
+              "numeric-id": 128802
+            }
+          },
+          "hash": "9c00470248f4384db08f8d3a6b9bb1fb705a59e1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122543$C99F6A6A-7EF9-46C7-AE29-BDEDD85D1953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122543$492DD580-F40D-4E29-8C68-F2B8404F6004",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122543$F7D01DD9-2FBE-4169-97C0-21E942F4823A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2892003"
+          },
+          "hash": "14b379dfb1a4e74757f64ff30a27a0658db76fdf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122543$FE6177AA-F304-4125-B512-FFEC378322B8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Baudouin de Tournai Arms.svg"
+          },
+          "hash": "cedd74ee25a2993a71538b7307eb40b9b39f563e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Castellan of Tournai, Sire de Mortagne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kastelein van Doornik, Heer van Mortagne"
+    }
+  },
+  "id": "Q122543",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Baudouin de Tournai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Baudouin de Tournai"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Baudouin de Tournai"
+    },
+    "it": {
+      "language": "it",
+      "value": "Baudouin de Tournai"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Baudouin de Tournai"
+    }
+  },
+  "lastrevid": 17535730,
+  "modified": "2025-09-17T06:46:59Z",
+  "ns": 860,
+  "pageid": 147814,
+  "sitelinks": {},
+  "title": "Item:Q122543",
+  "type": "item"
+}

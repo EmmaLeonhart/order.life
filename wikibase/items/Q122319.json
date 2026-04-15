@@ -1,0 +1,411 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Welf, Duke of Carinthia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q122319$48957CD3-5821-4CDF-813C-AA6EB9A1E964",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122319$79E69845-E407-4444-AA16-12B3F63106E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122319$F6A52755-DC62-446A-A920-0F05D5E3826A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Welf,_Duke_of_Carinthia_(1)"
+          },
+          "hash": "10668fef5ad0cd8070599be38c7b51490e817743",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q122319$14802897-6044-4C8A-B6AB-97B87C4462BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67182.htm#i671814|p884.htm#i8837"
+          },
+          "hash": "5dc3b42413dd211088637a4a61fdc718ff23d0b0",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122319$6DCA0631-074A-43BD-839A-A84243FC6A8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120169",
+              "numeric-id": 120169
+            }
+          },
+          "hash": "c264735e67a413c0addf33d36c5843d66bc87db5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122319$08421029-1B36-46DD-8F52-41409F9489B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117608",
+              "numeric-id": 117608
+            }
+          },
+          "hash": "dfac7d6a49f84a54adf571f16e537b8d5cd91b7f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122319$D8C05B63-8703-4CAE-8D82-F621AFFD75A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122319$9C816BA2-7C8A-4465-9EF1-58A939AF9A08",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1007-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1cdf23f1d18a71834e3ae6c00ab47059c28295c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122319$9197639C-676F-4F6B-98F0-F46B3BF64387",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1055-11-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "59b20c2ad09737d1b3aae78637acef56142d6203",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122319$3ABEC33D-A827-402C-8A23-9D4E6373F303",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q567646"
+          },
+          "hash": "a3d063964cd1ea62831540fde53d7542a35331fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122319$4C96E9FC-6E7F-4FD6-A807-EABD684506BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Welf, Duke of Carinthia Arms.svg"
+          },
+          "hash": "699f3f7416eef86a5058ca9f3568c31ae3211773",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata austriacu (1050–1055)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata austríac"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Austrian siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Kärnten, Markgraf von Verona (11. Jhdt)"
+    },
+    "en": {
+      "language": "en",
+      "value": "duke of Carinthia and margrave of Verona (11th century)"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata austríaco"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata austriarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate autrichien"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata austríaco"
+    },
+    "id": {
+      "language": "id",
+      "value": "bangsawan Jerman abad ke-11"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile austriaco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aristocraat uit Oostenrijk (-1055)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "książę Karyntii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata austríaco"
+    }
+  },
+  "id": "Q122319",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فلف، دوق كارينثيا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فلف دوق كارينثيا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Велф III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Welf de Caríntia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Welf III. Korutanský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Welf III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Welf III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Γουέλφος της Καρινθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welf, Duke of Carinthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Welf, Duke of Carinthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Welf, Duke of Carinthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Welf, Duke of Carinthia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Welf III."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Welf de Carinthie"
+    },
+    "id": {
+      "language": "id",
+      "value": "Welf III"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guelfo di Carinzia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴェルフ3世"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Welf III."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Welf III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Welf III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Welf III."
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Welf III."
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Welf de Carintia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вельф III"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Welf, Duke of Carinthia"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Welf III."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Welf III."
+    },
+    "zh": {
+      "language": "zh",
+      "value": "克恩頓的韋爾夫"
+    }
+  },
+  "lastrevid": 17535508,
+  "modified": "2025-09-17T06:44:02Z",
+  "ns": 860,
+  "pageid": 147514,
+  "sitelinks": {},
+  "title": "Item:Q122319",
+  "type": "item"
+}

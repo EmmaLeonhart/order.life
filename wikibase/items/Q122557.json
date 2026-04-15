@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Godschalk I van Loon"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122557$7FC1EAD2-810D-4F2E-A290-F238232FE5F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "973155"
+          },
+          "hash": "4d220252519b474b18751b4ce1bce3aba92655ee",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122557$AB3E3525-5023-4392-957F-74BA586186EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128831",
+              "numeric-id": 128831
+            }
+          },
+          "hash": "f01da73800705b0141be4d0f0b08f8a394b54b83",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122557$DBE556B1-9787-42F2-8C47-0D4109D4F4DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122557$31E5E126-FDC2-41E0-A0B9-380673484252",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122557$A3644BD1-937D-4D04-8B2F-3F27EAA807AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Godschalk_van_Loon_(1)"
+          },
+          "hash": "f3cc064cf04381a85aeb30849d6da59f1a7b9b50",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122557$AABD90D5-7E1F-49C1-8796-0E9879E6EA32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117738",
+              "numeric-id": 117738
+            }
+          },
+          "hash": "c60b777cc491a3a9139422703792b5bab4bf16fe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122557$87A630FE-8AC4-44E4-A147-F3E403161328",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122557$4F88D4E2-D6D2-4735-A351-C2B856F6961C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1086-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "746edfd4a4c44958d6180aa157d7ee0b0c33c6c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122557$BF111BD0-7FDE-49D4-B2BC-5BAC988A342D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "becf1f785515e7bb828b2035a2037aa6b47f8776",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122557$CD44CDF2-9384-4B64-B6C1-9532141AFBC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2302821"
+          },
+          "hash": "60ce6c3abe909bc30174f2c2380d1a55678c58c7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122557$B7DF9C1A-AC88-4CA8-883E-CC81849036B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Godschalk I van Loon Arms.svg"
+          },
+          "hash": "e154cb39547b1b2e41b59f29350b29593f700c03",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf der Herrschaft Lohn"
+    }
+  },
+  "id": "Q122557",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Godschalk I van Loon"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Godschalk I van Loon"
+    },
+    "de": {
+      "language": "de",
+      "value": "Godschalk I van Loon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Godschalk I van Loon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Godschalk I van Loon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Godschalk I van Loon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Godschalk I van Loon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Godschalk I van Loon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Godschalk I van Loon"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Godschalk I van Loon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Godschalk I van Loon"
+    }
+  },
+  "lastrevid": 17535744,
+  "modified": "2025-09-17T06:47:11Z",
+  "ns": 860,
+  "pageid": 147833,
+  "sitelinks": {},
+  "title": "Item:Q122557",
+  "type": "item"
+}

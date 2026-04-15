@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arlulfe de Marseille"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124215$AC823DBB-B62E-4DDC-9F0A-C104456F5AF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1270641"
+          },
+          "hash": "d3423e62d13b1e1a26e30f4b49186650de6c6b64",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q124215$C484C973-5596-456A-BE8C-A803F3525FA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00164721"
+          },
+          "hash": "88c061836e3066bca0069c7389027e95dd7e4a01",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124215$2F03D75A-09FC-4540-84DB-7B61452C3A29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119161",
+              "numeric-id": 119161
+            }
+          },
+          "hash": "2c0ae187e387e8b810410214255c56cb8ed923c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124215$D08A8719-026C-4686-8024-CD81224777CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124217",
+              "numeric-id": 124217
+            }
+          },
+          "hash": "f5d057761b0e2563afd6a1b5bc7f8500346938d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124215$BEC0975A-DE59-457A-B062-979FDA853D4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marseille-1"
+          },
+          "hash": "30fd4c4c3459a2274453a7d25ed90e7db459c515",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124215$4C31D714-BBC9-4549-BC53-3454F5ABCFB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124215$68F89472-BDF4-4914-9BDB-88806C3B2CF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124215$D27F1B49-9F87-431F-958D-DC7F0294AB0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124215$5E1BB89C-7165-4899-8CB8-BCF231A5740C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0920-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "226dcf0b20e14b24df6eab0d57daf823c2ad1dbe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124215$13816D78-0586-4484-8212-2D8C984EC290",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2861664"
+          },
+          "hash": "6f154fac797011ca3659ca9d51ff8ad474300dc4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124215$5A885075-640F-41E4-A8CB-1B4ECF92E218",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=arlulf;n=de marseille;oc=2"
+          },
+          "hash": "3a6a71c554f4bda10370f78dc8d4d3ae8f2779a6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124215$32780FC7-5ED6-46CF-B56F-1C7E2B282565",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arlulfe de Marseille Arms.svg"
+          },
+          "hash": "94985996555035534c5d3df4684b7eebbb28cfd4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "920 - uncertain 965"
+    }
+  },
+  "id": "Q124215",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Arlulfe de Marseille"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arlulfe de Marseille"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arlulfe de Marseille"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arlulfe de Marseille"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arlulfe de Marseille"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Arlulf de Marselha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арлульф I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Arlulfe de Marseille"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马赛的阿吕尔夫"
+    }
+  },
+  "lastrevid": 17537366,
+  "modified": "2025-09-17T07:09:34Z",
+  "ns": 860,
+  "pageid": 150046,
+  "sitelinks": {},
+  "title": "Item:Q124215",
+  "type": "item"
+}

@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnès de Laval"
+      },
+      {
+        "language": "en",
+        "value": "Agnes de Laval"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125328$F41469B6-5C4B-4C98-9D0E-294FEB6F750B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00616563"
+          },
+          "hash": "8fe7cac82f590d183d8001ba311d973999ad4b2b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125328$4135FED8-92C6-4EB3-B550-97F763E1E50A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Laval-58"
+          },
+          "hash": "c2d74ae70a0da1359e6dae606bdf70626a9a0bd9",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125328$D8BEBB15-8F95-4C33-BE7B-0D7BF9F0AC3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125328$0B3BAC14-05A7-4351-A55D-48631B55CEA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125328$141C8749-6056-4361-AF8C-BF316ABA2471",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146927",
+              "numeric-id": 146927
+            }
+          },
+          "hash": "8604217a16816243b66f2072d4bbbef6a9ec1786",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125328$17C3499F-4D73-4BB5-8123-F5F6BADF537C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119844",
+              "numeric-id": 119844
+            }
+          },
+          "hash": "0fc50cd75d6768c7eec49863955da6889ed195a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125328$CEDEFECA-8CE7-4F4D-BD97-439387CB19E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125326",
+              "numeric-id": 125326
+            }
+          },
+          "hash": "ff0c6ab79bd243f6f5f958791154d953d8d1f06e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125328$22CAA400-93D1-4EA6-A568-C63F77DA40C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125328$A65E4B90-E1CB-4137-BE40-6D6982DF81A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1104-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f325849f0502555e4554c1eb62570bb24ca2381e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125328$9ECF7823-C08E-443C-9906-D618A5F528B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111017643"
+          },
+          "hash": "746c8c4b7393f88b1c70c936459b424b5bbb5b99",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q125328$2266A8D5-CE46-4B36-B904-4B8D57CDEB2E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnès de Laval"
+          },
+          "hash": "590453b253b09bd3c5bea4c587cff06c02ea66e5",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125328$61FD430A-93C3-4C26-8026-F9C6C3F0C8D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=agnes;n=de laval"
+          },
+          "hash": "0aa5876ba5173873f1a67721b3f7d72ef356d0ec",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125328$4B827293-5E8C-4A43-B72F-9DA22B564104",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnès de Laval Arms.svg"
+          },
+          "hash": "80511a3520469e28326fd70ff8e0403863aab727",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1104 - after 1140"
+    }
+  },
+  "id": "Q125328",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Agnès de Laval"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agnès de Laval"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Agnès de Laval"
+    }
+  },
+  "lastrevid": 17538444,
+  "modified": "2025-09-17T07:24:03Z",
+  "ns": 860,
+  "pageid": 151540,
+  "sitelinks": {},
+  "title": "Item:Q125328",
+  "type": "item"
+}

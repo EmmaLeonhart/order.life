@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillaume-Arnaud de Béziers"
+      },
+      {
+        "language": "en",
+        "value": "Guillaume-Arnaud de Beziers"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126391$7D0BA66F-325B-4067-B363-83D82C390B6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1272832"
+          },
+          "hash": "3a1a382af2103052d6e619d0a1168b6d0b876d57",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126391$7F1DABC2-6EAD-4202-A61A-6CDBB32AD0A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00629545"
+          },
+          "hash": "1142b502d4de47b80fadde9adf7ddf355f87e0ce",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126391$78081F8E-86A0-4259-BD42-258A5FA156FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393",
+              "numeric-id": 126393
+            }
+          },
+          "hash": "a91c1451265c2fb90c552a6d60946c98911de80c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126391$5E7D11B9-6509-41BC-A5DC-42A3E8444A68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Beziers-6"
+          },
+          "hash": "dac1bfd4de0ae3847e0d69a58ff0f9c12bf3a31a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126391$E394BC07-E533-4AF1-B52D-8B4929682FEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126391$3DD5768A-483E-4F76-A6EF-9241839A2982",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126391$93F17317-2EC2-497C-8012-34E5B6C4FB3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120790",
+              "numeric-id": 120790
+            }
+          },
+          "hash": "2bd8c843afdbde832aa712a3c042896b00b49173",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126391$E0ED2013-3F56-4D75-BB01-785FB3E81952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126391$877B1BF4-7388-4702-8D0F-BF4CDB981733",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a954f8337ff1f1c2cc1debff495005b13d8e64a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126391$653442A3-18A0-4C72-B5E6-7B6F40262A20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1105-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5d25a249648483cbd9f1520870569f281642725",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126391$524F5446-7863-4128-BA49-F423BC67F546",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99304124"
+          },
+          "hash": "5e5db8da6dc4c7004c5becb703a64f357f5f3b23",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126391$676732F1-CB20-40C0-B5C9-30971B2CAAE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=arnaud;n=de thezan"
+          },
+          "hash": "bdaea32270edb620aefab8ea3795dbf43a5eba18",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126391$866DFF51-E271-4D8B-BA3B-1CED2C6A8320",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume-Arnaud de Béziers Arms.svg"
+          },
+          "hash": "68f80754ad048f49e50fb2d349ab5fdcd8648a11",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Abt 1080 -"
+    }
+  },
+  "id": "Q126391",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Guillaume-Arnaud de Béziers"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillaume-Arnaud de Béziers"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guillaume-Arnaud de Béziers"
+    }
+  },
+  "lastrevid": 17539496,
+  "modified": "2025-09-17T07:38:39Z",
+  "ns": 860,
+  "pageid": 152964,
+  "sitelinks": {},
+  "title": "Item:Q126391",
+  "type": "item"
+}

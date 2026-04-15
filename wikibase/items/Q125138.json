@@ -1,0 +1,350 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "João Afonso Telo de Meneses"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125138$8BFA0927-AB56-4577-8FD4-69C6353D5CAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00461581"
+          },
+          "hash": "f03afc1d43ce300363cc60a28639a0cefd46c4b7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125138$F0BBC781-C78F-4CDB-8D3A-CE66EAB3B83E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Meneses-13"
+          },
+          "hash": "2da523b9ece711dfd42491272a90f832fa9aed10",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125138$66AC2B98-3177-45E5-A215-20949ADB6836",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125138$83001FBD-9B48-43E3-B1E7-CABA77342BD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125138$A08BDFD9-3E4B-4AF3-9569-C223239399EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118363",
+              "numeric-id": 118363
+            }
+          },
+          "hash": "8173f46cc43a87c28c1c47b3a491c91c2666a404",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125138$2512CD06-6BE3-40A3-85C3-92A658E1D4E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106710",
+              "numeric-id": 106710
+            }
+          },
+          "hash": "29a43b3b0e787e764c5e8bd1103499373b3e1ec5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125138$BE8CF135-A6A6-4F96-A335-6270FE71FFFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119720",
+              "numeric-id": 119720
+            }
+          },
+          "hash": "1506ab9fe0c564176160fbbf908bd26fae7898f2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125138$B1ADC449-B488-4F70-BF3F-0742167B168B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125138$D63DD378-E05B-45D2-8BED-5952CFCEC93A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1225-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20ac4dc2e64842ea6fd7164178e14f456faf0668",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125138$559F2197-975A-4D28-B852-3B7DDEB50E32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1268-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65e5deac8ef0ca4e70f42541e7c6387a25e98170",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125138$1E18AAE9-994D-40CB-A369-D37B38C35982",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17318222"
+          },
+          "hash": "7c3f88ac0f193bcf5a4c33c5e1a15fab767e3930",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125138$49C00A51-F451-4928-8711-773C86EA831D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "João Afonso Telo de Meneses Arms.svg"
+          },
+          "hash": "87ff5b19c23f5c3c7f205513f30232c22d7e060c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu portugués (1250–1268)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític portuguès"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Portugal siyaasa nira ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lord of Albuquerque"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble portugués (1225-1268), señor de Albuquerque, alférez principal del rey de Portugal, pertigueiro mayor de Santiago de Compostela"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari portugesra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur de Albuquerque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político portugués"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico portoghese"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko portuges"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Senhor de Albuquerque"
+    }
+  },
+  "id": "Q125138",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "João Afonso Telo de Meneses"
+    },
+    "en": {
+      "language": "en",
+      "value": "João Afonso Telo de Meneses"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Alfonso Téllez de Meneses"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "João Afonso Telo de Meneses"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "João Afonso Telo de Meneses"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "João Afonso Telo de Meneses, 2st Lord of Albuquerque"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Juan Alfonso Telo de Menezes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Afonso Telo de Meneses"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Afonso Telo de Meneses"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "João Afonso Telo de Meneses"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "João Afonso Telo de Meneses"
+    }
+  },
+  "lastrevid": 17538274,
+  "modified": "2025-09-17T07:21:49Z",
+  "ns": 860,
+  "pageid": 151285,
+  "sitelinks": {},
+  "title": "Item:Q125138",
+  "type": "item"
+}

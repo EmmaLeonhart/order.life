@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Teresa Yañez de Limia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125080$7C18C9CE-08D2-46DF-A230-868A93FDBDA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00639163"
+          },
+          "hash": "acd783352a4820172971f7dc1118bc46a85e8f39",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125080$64BFB20A-785C-4651-BEC6-09B291891BEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125080$89B4705C-915A-4C72-8454-129A3F104DFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125080$147D9448-A780-49E0-BE7E-63ECF0E7E704",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119686",
+              "numeric-id": 119686
+            }
+          },
+          "hash": "769845922467c18e470deb29c6eae5db6c7c6473",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125080$7BA04AB1-4766-4B61-8E30-3CDEC6E025F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102377",
+              "numeric-id": 102377
+            }
+          },
+          "hash": "ecd567d0e99f6a6e791b51198cb57c8205cb1330",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125080$CAEC93AD-8F88-4F52-B201-076C8C4FC086",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125080$3EDDBF11-B75D-48C4-8D90-491CDAA823AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125080$14BC4370-E825-4561-8B89-B76912D43573",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1275-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce85f3f62d8343079ff2d974edc82e059a9ac51b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125080$499BF5A5-E347-462A-80BD-73A2AFF603E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30933664"
+          },
+          "hash": "357c16875705309714a2054c5a221baafaf6da6f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125080$20D7AFB2-1ABB-482D-A738-DDB92F319D52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Teresa Yañez de Limia Arms.svg"
+          },
+          "hash": "0c614f4a0364a687faa7e63a5886c911c25cf908",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Lady of Sousa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Señora de Sousa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dame de Sousa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Senhora de Sousa"
+    }
+  },
+  "id": "Q125080",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Teresa Yañez de Limia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teresa Yañez de Limia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Teresa Yanez de Limia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teresa Yañez de Limia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teresa Anes de Lima"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teresa Anes de Lima"
+    }
+  },
+  "lastrevid": 17538218,
+  "modified": "2025-09-17T07:21:05Z",
+  "ns": 860,
+  "pageid": 151207,
+  "sitelinks": {},
+  "title": "Item:Q125080",
+  "type": "item"
+}

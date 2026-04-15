@@ -1,0 +1,313 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ælfwald of East Anglia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123752$31F670EA-DA29-4C2C-BEE5-C171186A8040",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123752$22A8D875-155A-4FF5-A21F-3AED5A55F85E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123752$88A62EB3-5ED1-4BE5-8F12-1163347405DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ælfwald_of_East_Anglia_(1)"
+          },
+          "hash": "69c0c160a3e7019fb84557f54b1e06dc55d33827",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123752$17BB7D4E-D417-407B-8882-B6DB9E4EE2AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118618",
+              "numeric-id": 118618
+            }
+          },
+          "hash": "51ef094e57045127ef3001353053a588aee436e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123752$8B0C175E-EEB4-409B-AA84-26C51C42AAEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123752$747B23C5-BED5-4B0F-96F3-A28BA68640A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1df0d1f7be99978f9e1ad4f177d09a6b95941413",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123752$2A858565-36FA-4733-980A-5E023B739225",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0749-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6c3d75c6a8903a3a468e60de97da035863d3e90d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123752$19958B69-5389-4BB1-B76C-ECBE2BF47137",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q889645"
+          },
+          "hash": "b3662894d98e28e3558946ee5bf6056380d6ef89",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123752$4E6AC6F3-A957-43B4-B7D7-99A584B9D6E9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ælfwald of East Anglia Arms.svg"
+          },
+          "hash": "caf7911b38ddf104e1e3e101d1570854fc46108c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "východoanglický král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von East Anglia"
+    },
+    "en": {
+      "language": "en",
+      "value": "8th-century king of East Anglia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Est-Anglie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei de Anglia Oriental entre 713 e 749"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Восточной Англии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "engelsk monark"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "король Східної Англії"
+    }
+  },
+  "id": "Q123752",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Aelfwald East Anglia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ælfwald"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ælfwald"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ælfwald"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ælfwald of East Anglia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Ælfwald of East Anglia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ælfwald of East Anglia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aelfwald"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ælfwald of East Anglia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ælfwald"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aelfwald de Anglia Oriental"
+    },
+    "got": {
+      "language": "got",
+      "value": "𐌰𐌴𐌻𐍆𐍅𐌰𐌻𐌳𐍃 𐌴𐌰𐍃𐍄𐌰𐌲𐌲𐌻𐌴"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ælfwald dari Anglia Timur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ælfwald dell'Anglia orientale"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ælfwald van East Anglia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эльфвальд"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ælfwald av East Anglia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ельфвальд"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃爾夫瓦爾德"
+    }
+  },
+  "lastrevid": 17536912,
+  "modified": "2025-09-17T07:02:48Z",
+  "ns": 860,
+  "pageid": 149425,
+  "sitelinks": {},
+  "title": "Item:Q123752",
+  "type": "item"
+}

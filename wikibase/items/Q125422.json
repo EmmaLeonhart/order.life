@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ragnfred Eriksson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q125422$1F2F716C-06D4-4B18-81DF-BA9B6979D4B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eiriksson-44"
+          },
+          "hash": "db172f468136d75498f9a25ef579b7e1410ccb47",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125422$D79D09E4-5011-4F35-8C15-090B7D96FF08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125422$E31EB274-D265-433B-9955-918FD0EBEF5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125422$0F3976EB-4D24-4540-9914-07323A3C29B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119912",
+              "numeric-id": 119912
+            }
+          },
+          "hash": "0862b362c6264dc5b66d8e3e81bdee30a0165ef4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125422$B0AE285D-64D3-43E4-813D-2649708360FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118740",
+              "numeric-id": 118740
+            }
+          },
+          "hash": "38c65031e915744849deb2f1a1ac1ad06469639e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125422$1D785CD1-1992-4998-B3F6-1A31B8DAAE52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125422$0E58A1A8-B56F-41D8-8D62-0484D4CBBC5D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0932-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "afb10f98290fd7832fb7ec16eaf72258486fa1ed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125422$EF8DEBB5-8276-492B-9CD7-13B4B52AD352",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0970-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fef57a6aeac202326af7f0f382c543d221cf6ead",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125422$D0FBC46C-B7BF-4B70-862C-49DAF1AEEC77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6098262"
+          },
+          "hash": "9fda00ae914d28da2176ff792d3cda56ef905300",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125422$BB004D63-9AE8-4AEB-9450-761CF24E1A2C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ragnfred Eriksson Arms.svg"
+          },
+          "hash": "20bd99cd9c5fa5308f74317ee203f7ae50283bc0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "930 - 970"
+    }
+  },
+  "id": "Q125422",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ragnfred Eriksson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ragnfred Eriksson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ragnfred Eriksson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ragnfred Eriksson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ragnfred Eriksson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ragnfred Eriksson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ragnfred Eriksson"
+    }
+  },
+  "lastrevid": 17538538,
+  "modified": "2025-09-17T07:25:19Z",
+  "ns": 860,
+  "pageid": 151666,
+  "sitelinks": {},
+  "title": "Item:Q125422",
+  "type": "item"
+}

@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Ceionius Rufius Volusianus Lampadius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q123601$D5A642EC-E2A5-4AB1-92BC-31100D6347B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118452",
+              "numeric-id": 118452
+            }
+          },
+          "hash": "813186f08d2fe90f31486969bf5709bf9ce4ac54",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123601$E2E9D058-BB28-4182-BEBA-081D88E6AB0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151948",
+              "numeric-id": 151948
+            }
+          },
+          "hash": "f380efe06016740dafa2292ddbe984ae4d749cad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123601$54222B73-4F54-44EC-871A-2D7BD08E6A2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123601$53D71807-0B11-42D9-8B1B-9854E08FA15C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123601$4116FE44-8EDA-4436-8DEA-336E79EBD169",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151938",
+              "numeric-id": 151938
+            }
+          },
+          "hash": "247152a9405cfc83bea952e06731b52c00961c43",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123601$DB9D128F-6BEF-4194-BF51-F440A3D136DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123601$FF62326A-124C-4D1F-AE84-86E4C23179B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123601$01BD22F2-96DD-4C85-B903-AADBB936E9D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3655700"
+          },
+          "hash": "94d0b3fd8788fe4f61a841a4fa1db42aab59e22b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123601$FA0569FC-724A-45E8-BC10-049B967D9D56",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Ceionius Rufius Volusianus Lampadius Arms.svg"
+          },
+          "hash": "d26b523055529b2f278c425b056ce49340577e19",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "prefect of Rome in 365"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préfet de Rome en 365"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик"
+    }
+  },
+  "id": "Q123601",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Цейоний Руфий Волузиан Лампадий"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Ceionius Rufius Volusianus Lampadius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Ceionius Rufius Volusianus Lampadius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Ceyonio Rufio Volusiano Lampadio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Ceionius Rufius Volusianus Lampadius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Ceionio Rufio Volusiano Lampadio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Ceionius Rufius Volusianus Lampadius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Ceonius Rufius Volusianus Lampadius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Ceônio Rúfio Volusiano Lampádio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Ceônio Rúfio Volusiano Lampádio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Цейоний Руфий Волузиан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gaius Ceionius Rufius Volusianus Lampadius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gaius Ceionius Rufius Volusianus Lampadius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Цейоній Руфій Волузіан Лампадій"
+    }
+  },
+  "lastrevid": 17536768,
+  "modified": "2025-09-17T07:00:43Z",
+  "ns": 860,
+  "pageid": 149225,
+  "sitelinks": {},
+  "title": "Item:Q123601",
+  "type": "item"
+}

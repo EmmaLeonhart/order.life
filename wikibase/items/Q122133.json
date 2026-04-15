@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sieghard von Aquileia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q122133$C0C5A85E-3056-4931-84B3-258EFC20FF40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122133$8BF6298E-82D7-4E2C-B427-053538EF34AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122133$B7748646-19BB-44D4-9EAC-FE6A136DD1F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117520",
+              "numeric-id": 117520
+            }
+          },
+          "hash": "acc0e020a51a9d173f6aeb0f7a02ab4e7c6a8421",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122133$A4B24866-EE1B-4DF9-8EB6-5B7EFDF2A2F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122133$8404828B-624F-482B-B773-E7F19DF7B990",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1077-08-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0b4342ca73bb603f0b6a53ba970fd54cdd3f000b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122133$EE04EBE6-EE5F-4C81-8C9A-6F8AB2BE1BB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2024514"
+          },
+          "hash": "e741c14554f7f54741f31f1b836297ea0332e1e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122133$7B254184-8393-44AA-9494-E69108238FCA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sieghard von Aquileia Arms.svg"
+          },
+          "hash": "7328e8e6fe4a8a38dc42cb450e558979039a650e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك من المانيا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote católicu alemán (1100–1077)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Patriarch von Aquileia"
+    },
+    "en": {
+      "language": "en",
+      "value": "German bishop"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits rooms-katholiek priester (-1077)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "патриарх Аквилеи"
+    }
+  },
+  "id": "Q122133",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيجارد فون اكويليا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Sigehard, Patriarch of Aquilea"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Зигхард от Аквилея"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sieghard von Aquileia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sieghard von Aquileia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sieghard von Aquileia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sieghard von Aquileia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sieghard von Aquileia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sieghard von Aquileia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sieghard von Aquileia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sigeardo di Beilstein"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sieghard von Aquileia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sieghard von Aquileia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sigehard, Patriarch of Aquilea"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sigehard, Patriarch of Aquilea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Зигхард фон Аквилеи"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sieghard von Aquileia"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sieghard von Aquileia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sieghard von Aquileia"
+    }
+  },
+  "lastrevid": 17535322,
+  "modified": "2025-09-17T06:41:31Z",
+  "ns": 860,
+  "pageid": 147264,
+  "sitelinks": {},
+  "title": "Item:Q122133",
+  "type": "item"
+}

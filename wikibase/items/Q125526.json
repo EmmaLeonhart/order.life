@@ -1,0 +1,589 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gero"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125526$6C2AC916-CB4E-44E8-AB98-6DD0E8123D28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125526$BD9F62BC-5896-4EFA-B43E-36080B1B303D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125526$59EF000A-B2BD-471F-8C39-CC7EF6E8FDA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125524",
+              "numeric-id": 125524
+            }
+          },
+          "hash": "5872e42c0b6c6dc8464bc1c57787ba7a2f63f914",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125526$9F6E8810-793E-42FE-9837-8A2746247E6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125526$134FB4D0-1389-4800-846D-3AB5D073D8AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d87210d668e225f8a8e60f9aa6f750a8b23e4d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125526$4CB38D12-09D2-42AA-8F9B-C8AE978628FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0965-05-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83a5a1a8e273b7655da72d3563cf3625fef2b641",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125526$5BBC8738-8683-4877-BEB5-9440C353BBA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q41978"
+          },
+          "hash": "f1adb1dba6ef8471450ca44dded25f001b08d7ee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q125526$50D40DAB-CC29-4C72-A16B-CC9CDF7161C7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lingayen"
+          },
+          "hash": "34e580bd4da1de00a31cac7978ae9c65a10c9c03",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125526$A749653F-A9C7-46BE-B35D-ED16A9915122",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lingayen Arms.svg"
+          },
+          "hash": "b7ebda4a92e1af657992470e53c8fce1e2a0dada",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "بلدية في بانغاسينان، الفلبين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "conceyu de Filipines y capital de la provincia de Pangasinan"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "селище на Филипините"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "lungsod sa Pilipinas sa lalawigan sa Pangasinan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gemeinde auf den Philippinen"
+    },
+    "en": {
+      "language": "en",
+      "value": "municipality of the Philippines and capital of the province of Pangasinan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "urbo de la Filipinoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "municipio de Filipinas y cabecera de la provincia de Pangasinán"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kaupunki Filippiineillä"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "commune des Philippines"
+    },
+    "id": {
+      "language": "id",
+      "value": "ibu kota Provinsi Pengasinan, Filipina"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "ili idiay probinsia ti Pangasinan, Pilipinas"
+    },
+    "it": {
+      "language": "it",
+      "value": "municipalità di Prima classe delle Filippine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "gemeente in de Filipijnse provincie Pangasinan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "муниципалитет на Филиппинах, административный центр провинции в Пангасинан"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "bayan ng Pilipinas at kabisera ng lalawigan ng Pangasinan"
+    }
+  },
+  "id": "Q125526",
+  "labels": {
+    "ami": {
+      "language": "ami",
+      "value": "Lingayen"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Lingayen"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "لينغاين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Lingayen"
+    },
+    "ban": {
+      "language": "ban",
+      "value": "Lingayen"
+    },
+    "bbc": {
+      "language": "bbc",
+      "value": "Lingayen"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Lingayen"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лингайен"
+    },
+    "bjn": {
+      "language": "bjn",
+      "value": "Lingayen"
+    },
+    "bto": {
+      "language": "bto",
+      "value": "Lingayen"
+    },
+    "bug": {
+      "language": "bug",
+      "value": "Lingayen"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lingayen"
+    },
+    "cbk-zam": {
+      "language": "cbk-zam",
+      "value": "Lingayen"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Lingayen"
+    },
+    "cps": {
+      "language": "cps",
+      "value": "Lingayen"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lingayen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lingayen"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Lingayen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lingayen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lingayen"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lingayen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lingayén"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Lingayen"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lingayen"
+    },
+    "fj": {
+      "language": "fj",
+      "value": "Lingayen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lingayen"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lingayen"
+    },
+    "gor": {
+      "language": "gor",
+      "value": "Lingayen"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Lingayen"
+    },
+    "he": {
+      "language": "he",
+      "value": "לינגאיין"
+    },
+    "hil": {
+      "language": "hil",
+      "value": "Lingayen"
+    },
+    "ho": {
+      "language": "ho",
+      "value": "Lingayen"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lingauen"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Lingayen"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Lingayen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lingayen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リンガエン"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Lingayen"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Lingayen"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Lingayen"
+    },
+    "krj": {
+      "language": "krj",
+      "value": "Lingayen"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Lingajena"
+    },
+    "map-bms": {
+      "language": "map-bms",
+      "value": "Lingayen"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Lingayen"
+    },
+    "mi": {
+      "language": "mi",
+      "value": "Lingayen"
+    },
+    "min": {
+      "language": "min",
+      "value": "Lingayen"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ലിംഗായെൻ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Lingayen"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lingayen"
+    },
+    "na": {
+      "language": "na",
+      "value": "Lingayen"
+    },
+    "nah": {
+      "language": "nah",
+      "value": "Lingayen"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Lingayen"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lingayen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lingayen"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Lingayen"
+    },
+    "om": {
+      "language": "om",
+      "value": "Lingayen"
+    },
+    "pag": {
+      "language": "pag",
+      "value": "Lingayen"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Lingayen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lingayen"
+    },
+    "pwn": {
+      "language": "pwn",
+      "value": "Lingayen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лингайен"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Lingayen"
+    },
+    "sm": {
+      "language": "sm",
+      "value": "Lingayen"
+    },
+    "su": {
+      "language": "su",
+      "value": "Lingayen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lingayen"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Lingayen"
+    },
+    "szy": {
+      "language": "szy",
+      "value": "Lingayen"
+    },
+    "tet": {
+      "language": "tet",
+      "value": "Lingayen"
+    },
+    "th": {
+      "language": "th",
+      "value": "ลิงกาเยน"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Lingayen"
+    },
+    "tpi": {
+      "language": "tpi",
+      "value": "Lingayen"
+    },
+    "ty": {
+      "language": "ty",
+      "value": "Lingayen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лінгаєн"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لانگاین"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lingayen"
+    },
+    "war": {
+      "language": "war",
+      "value": "Lingayen"
+    },
+    "xh": {
+      "language": "xh",
+      "value": "Lingayen"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Lingayen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "林加延"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Lingayen"
+    }
+  },
+  "lastrevid": 17538638,
+  "modified": "2025-09-17T07:26:45Z",
+  "ns": 860,
+  "pageid": 151805,
+  "sitelinks": {},
+  "title": "Item:Q125526",
+  "type": "item"
+}

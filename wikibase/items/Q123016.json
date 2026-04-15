@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raymond of Antioch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123016$C2A7ACED-12C0-4CA0-AF2A-C29506C0288E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00093366"
+          },
+          "hash": "b782ec99bf2963981d001753efd832d17355e832",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123016$9437137D-0292-49A6-8B3F-75B6755A43FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Poitiers-54"
+          },
+          "hash": "87809566ded471c1b4231e8250d9a2352c50deca",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123016$B2DCCDC1-B69C-4348-86A2-B312FD0CD082",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123016$4BF5A092-E286-4A58-A976-FBAA56E03C1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123016$FECE50E2-46C0-47E4-9C2B-75F87A16733A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117960",
+              "numeric-id": 117960
+            }
+          },
+          "hash": "635b64e66bb672d7198a1dcacf873d52aedf836d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123016$825F5AC4-86FA-4010-ADA5-1F4D9619F142",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123014",
+              "numeric-id": 123014
+            }
+          },
+          "hash": "99377e210fc53b0b932f44f63ff306c9fd8d56f7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123016$90C8B20C-0331-4F83-943D-FA0ECC9FB1F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123016$2185F7A6-A025-4D64-A2AA-38BE8876606C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1195-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "68b490e2bee7ae12e156bf9766a736d4f221c5af",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123016$7053582B-A623-4DD0-979B-BF1AD32E562C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1213-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad576b2c988792c687d330297096d87a4261d019",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123016$74C3996C-BE64-4B12-B6C6-77DACDEA7807",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q34675176"
+          },
+          "hash": "29719a00de5fafbb506699f977af22c179cc8810",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123016$E191B361-63CD-48CF-9E92-45801D150E11",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raymond of Antioch Arms.svg"
+          },
+          "hash": "731fd0a76bd8a08c4fe519963af049097164a6ce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "وصي عرش أنطاكية"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn Bohemunds IV. von Antiochia"
+    },
+    "en": {
+      "language": "en",
+      "value": "bailly of Antioch"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "bailli d'Antioche"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit graafschap Tripoli (-1213)"
+    }
+  },
+  "id": "Q123016",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ريموند الأنطاكي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ريموند الانطاكى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Раймонд дэ Пуацье"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Raymond d'Antioquia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Raimund Antiošský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Raimund von Antiochia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ραϊμόνδος, Βαΐλος της Αντιόχειας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Raymond of Antioch"
+    },
+    "es": {
+      "language": "es",
+      "value": "Raimundo de Antioquía"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ریموند انطاکیه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Raymond d'Antioche"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Raimund von Antiochia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Раймонд де Пуатье"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Раймонд Антіохійський"
+    }
+  },
+  "lastrevid": 17536200,
+  "modified": "2025-09-17T06:53:15Z",
+  "ns": 860,
+  "pageid": 148447,
+  "sitelinks": {},
+  "title": "Item:Q123016",
+  "type": "item"
+}

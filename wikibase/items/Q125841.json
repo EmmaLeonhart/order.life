@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard FitzBaldwin"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q125841$0A5710F9-D8E9-432B-A53A-07FE2922DCF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzBaldwin-4"
+          },
+          "hash": "2132d0693f5fb3c7da6fc3cbfc8e7bba34b2fad6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125841$9F3D18E2-AE0A-4718-92AC-ADE873A59EA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125841$696AB3CF-FD0D-4FBF-9609-63907D9D0D30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125841$3DC987FE-6F81-4A0A-B339-FF0780390379",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120318",
+              "numeric-id": 120318
+            }
+          },
+          "hash": "30a5020a5d339a75253915e1a9623d66a1e8b5cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125841$F5D01164-0D29-4302-9D35-F628D7EE5195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125841$77F7B65C-007E-4659-BA24-2AA295DD92B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1137-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "083b51f74ad32a337c34cc5523d9d019a2e7ff30",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125841$8E745294-4389-4033-BD92-89A39B3E77E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104849320"
+          },
+          "hash": "66d4d085cd5be5eadb23fe093172b5874f282679",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125841$2EEF7CB0-BABF-465D-A122-9ADDBEDCE374",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=richard;n=de brionne"
+          },
+          "hash": "c00ef3c8f0626f12730ea17d4523656497d5fe2f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125841$3A9248A6-CE85-4995-B405-BEA6C2743DEB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard FitzBaldwin Arms.svg"
+          },
+          "hash": "e30445ea6f474cc16bc3cb012d6f776d834bd94b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1137"
+    }
+  },
+  "id": "Q125841",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Richard FitzBaldwin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ричард Фиц-Болдуин"
+    }
+  },
+  "lastrevid": 17538952,
+  "modified": "2025-09-17T07:30:54Z",
+  "ns": 860,
+  "pageid": 152225,
+  "sitelinks": {},
+  "title": "Item:Q125841",
+  "type": "item"
+}

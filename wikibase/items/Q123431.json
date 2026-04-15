@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berenguer I of Cardona"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123431$841B4E07-0153-4F6D-B866-D75EC1B19FC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123431$F6C7CFD8-1EB2-4059-B9D9-AA628AA58A80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123431$C31B0604-0B5B-49AC-8213-F600C6F57DD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118256",
+              "numeric-id": 118256
+            }
+          },
+          "hash": "ee1086b2eaa48450dee4e0589a7ea679207efbe7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123431$DB32C443-98D4-4B1E-A59D-14323191DB71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119232",
+              "numeric-id": 119232
+            }
+          },
+          "hash": "14d09a8aa0eb4ecc37800ceceba43dedf0ff72c8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123431$5CB725CB-D5E2-4FB3-84C6-C3C6C1E34ECC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123431$4F62B2DB-539A-40E5-96BA-8BD13CE426B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1153-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e079d4c61d619d40ac08b946e7d43362d38aa28",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123431$D132D088-3AC1-4D88-AEEA-5291BF4251D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1177-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f988038a414489c9ef726a9f7b89c75d08d43e1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123431$21C68EA8-D01D-4616-88DC-908B25A5E4F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q95630538"
+          },
+          "hash": "29956eef5aad636d2ef9bf5788277347293cf88d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123431$9442CA9A-4C02-4440-8068-D7C612E41AE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=berenguer;n=de cardona"
+          },
+          "hash": "8ccc30a4f2abf803936f79be3952b9984268ca82",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123431$FB1C83D3-E2B4-49D1-9A0E-A6112B7670DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenguer I of Cardona Arms.svg"
+          },
+          "hash": "5349e8300e0f116c338d103f9066d19f10b48ab9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "vescomte de Cardona"
+    }
+  },
+  "id": "Q123431",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Berenguer I de Cardona"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berenguer I of Cardona"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Berenguer I of Cardona"
+    }
+  },
+  "lastrevid": 17536608,
+  "modified": "2025-09-17T06:58:37Z",
+  "ns": 860,
+  "pageid": 148999,
+  "sitelinks": {},
+  "title": "Item:Q123431",
+  "type": "item"
+}

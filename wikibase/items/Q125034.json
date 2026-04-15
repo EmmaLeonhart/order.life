@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Comtors de La Barthe"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125034$F9AD424E-0AA0-42F6-B780-0CF7A5AC79F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00122150"
+          },
+          "hash": "0c1b92452d04ab37d042f46b4a29bc6af47971c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125034$218EC118-C61E-4E69-9250-9BCE6DA4769D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125038",
+              "numeric-id": 125038
+            }
+          },
+          "hash": "bfe5daeaa0b1320dd2fdbb0219031423b233a180",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125034$27FC0DE8-8C97-462E-B34F-9D03C0A06C6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125036",
+              "numeric-id": 125036
+            }
+          },
+          "hash": "4b9df34cf10c0d3fdf24e8df595c94af86028d24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125034$5A2B424B-F6E8-4938-A15A-44CE7B57443A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Barthe-14"
+          },
+          "hash": "c7babcfa50225943a4230929441fc5a18ac70d33",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125034$32D1B5A7-0CC8-4BC0-A45F-B36C4BDFC05D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125034$83490ADF-5034-4E7F-94F6-B126CCCBD216",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125034$914C64AC-7632-4D52-822C-C42635D2D0EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119674",
+              "numeric-id": 119674
+            }
+          },
+          "hash": "c1007e0fa00ae024103ea98c96b4e743aeca8017",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125034$AB21046E-A92C-4C9E-8CC6-74111583D094",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125034$3F15736C-5593-41AE-9005-33471E81BF5D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65fc07ea466549b7604bd5259d14a14ba557f634",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125034$4797F54C-BF4D-4DD7-B3F3-83DF8879D6C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112846519"
+          },
+          "hash": "a21cffbdf80f0d90efd2638e2af108957193e22e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q125034$D7A9DDCB-1582-450B-8146-F2E764FD8B8B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Comtors de La Barthe"
+          },
+          "hash": "c45ac926ca8555eb6f14babdc62e8dabc87dd363",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125034$CDDF2653-5999-41B9-9A1A-594E1F26ED85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=comtors;n=de la barthe;oc=1"
+          },
+          "hash": "477586176f2d3e17448d69df808a6a51a790a605",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125034$2F923E9D-20CD-48FF-BF02-35AEBB79FEDF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Comtors de La Barthe Arms.svg"
+          },
+          "hash": "bf77d61c2cb244ac2f50a6701389219b5f7cc19d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1148 - after 1234"
+    }
+  },
+  "id": "Q125034",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Comtors de La Barthe"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Comtors de La Barthe"
+    }
+  },
+  "lastrevid": 17538172,
+  "modified": "2025-09-17T07:20:29Z",
+  "ns": 860,
+  "pageid": 151145,
+  "sitelinks": {},
+  "title": "Item:Q125034",
+  "type": "item"
+}

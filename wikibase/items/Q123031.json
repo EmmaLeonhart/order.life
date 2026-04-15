@@ -1,0 +1,364 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria of Antioch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123031$C416C7E0-0622-462A-8420-A6D02AAB39A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00064424"
+          },
+          "hash": "eecfa78e82be8509b3e9f5834f61015f74f4a6b2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123031$F5E0A4B6-1DA9-4777-A92B-D4880124284D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123031$7F4D54BC-6477-4E97-88AA-367C2BD0DEBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123031$B8544AAE-1302-4B64-96C7-C72CF6F10BAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria_of_Antioch_(pretender)_(1)"
+          },
+          "hash": "2fe69332c4c027f3813e29f9e4f95529dfd7e02f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123031$E0FC15D1-960C-4F98-83CA-ECA3E0AA47CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117960",
+              "numeric-id": 117960
+            }
+          },
+          "hash": "635b64e66bb672d7198a1dcacf873d52aedf836d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123031$C2D1C407-E5C8-4719-8412-12297914B40F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123012",
+              "numeric-id": 123012
+            }
+          },
+          "hash": "649fe746d02d8053dd06175fd160d8a2e5524d4b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123031$9D540A70-A8BF-4A13-A4D4-60E82F4ACA7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123031$95A1A26E-687F-4906-9ACE-0C293579EE3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123031$36979C45-0491-475B-8F49-C1A532B574B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1307-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3abb962743e1b27782432c59488b3b4eb3f567b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123031$946859E3-A82C-467C-A83B-7EC873DA173D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q461235"
+          },
+          "hash": "eb3d404e5d3bb39d1201d66cc3fb79a5033a8377",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123031$59C4F913-4B05-4CFC-A7AE-E590D99A4147",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marie;n=de poitiers;oc=1"
+          },
+          "hash": "9787d1604f9e9aa27be99c39400c5305f60b6c37",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123031$3EA8DB96-D71C-4BFC-9CBC-E8538967D1ED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria of Antioch Arms.svg"
+          },
+          "hash": "78226255377255defa2872d1ace3fc39ed3964be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "Yerusəlim taxtına iddiaçı"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Fürsten Bohemund IV. von Antiochia, Titularkönigin von Jerusalem"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pretender to throne of Jerusalem"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "antiochiai hercegnő"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "претендентка на трон Иерусалима"
+    }
+  },
+  "id": "Q123031",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماريا الأنطاكية"
+    },
+    "az": {
+      "language": "az",
+      "value": "Antioxiyalı Mariya"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марыя дэ Пуацье"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria d'Antioquia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marie z Antiochie"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maria von Antiochien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία της Αντιόχειας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria of Antioch"
+    },
+    "es": {
+      "language": "es",
+      "value": "María de Antioquía"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Maria Antiokiakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماریا انطاکیه (مدعی)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie d'Antioche"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Poitiers Mária antiochiai hercegnő"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マリー・ド・アンティオキア"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria of Antioch"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Maria de Antioquia (pretendente)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария де Пуатье"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія Антіохійська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安条克的玛丽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克的玛丽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克的瑪麗"
+    }
+  },
+  "lastrevid": 17536214,
+  "modified": "2025-09-17T06:53:26Z",
+  "ns": 860,
+  "pageid": 148466,
+  "sitelinks": {},
+  "title": "Item:Q123031",
+  "type": "item"
+}

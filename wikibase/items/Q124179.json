@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Friderada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q124179$E3582206-4822-48A4-9DB3-578A1E50CB26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120326",
+              "numeric-id": 120326
+            }
+          },
+          "hash": "46071d85620454e45ec24c2c8364fd317ac28447",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124179$11CC42A5-92D9-4783-A031-9CD5B9D84D8B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "UNKNOWN-26912"
+          },
+          "hash": "3857ff1695d54e1f21a28943a93133b12493067b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124179$8471D422-21F9-4592-89A0-6BDF5B89334E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124179$5E4DE16A-C7A6-4A02-A155-EBF3BAE5C134",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124179$10C23ADA-889E-43B7-BDDB-FCB3C516E33C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125859",
+              "numeric-id": 125859
+            }
+          },
+          "hash": "8b3f8b6a328b59215acad909c76b94f673a9b086",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124179$8976BA83-0A0C-4C46-B094-72ECE9746A8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119117",
+              "numeric-id": 119117
+            }
+          },
+          "hash": "cdca0c51879e93d40d2c6ab0de0fe596fcf5d940",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124179$29770FC9-4D21-44B9-8438-149882933DB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119133",
+              "numeric-id": 119133
+            }
+          },
+          "hash": "a7a395d719ff7d70fc5bf3cd8fbd2791f9029f8b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124179$12331AA1-AD9D-48DD-9436-C070EDF981AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124179$1766B20A-A051-4BD2-8497-D1DD83536534",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124179$BD118394-798D-4377-B2BC-E630A64F4027",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q25091609"
+          },
+          "hash": "8689fa8eb5e1cca033d302ae1cfbd8456f7d1d0d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124179$964451AF-4A6F-41A9-B2EF-7C6B069C3E1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=friderade;n=."
+          },
+          "hash": "93809d48ef26fc52dc9ea3383553fef57e7e535a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124179$0FAD0563-34E9-4311-ADB6-DD4DD2B124BB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Friderada Arms.svg"
+          },
+          "hash": "b4de4aa99c3de48c80cde03dde6f8498a941035f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "850-"
+    }
+  },
+  "id": "Q124179",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Friderada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Friderada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Friderada"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Friderada"
+    },
+    "it": {
+      "language": "it",
+      "value": "Friderada"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фридерада"
+    }
+  },
+  "lastrevid": 17537330,
+  "modified": "2025-09-17T07:09:05Z",
+  "ns": 860,
+  "pageid": 149998,
+  "sitelinks": {},
+  "title": "Item:Q124179",
+  "type": "item"
+}

@@ -1,0 +1,329 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vasco Fernandes de Soverosa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124271$B67DCFFE-C330-452F-8D43-FAEF4093EEE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00639152"
+          },
+          "hash": "80aa3f87b5857c53fa0a32564300b38252faf956",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124271$4EC2125C-7969-4965-8A4D-696DAB5B63B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124273",
+              "numeric-id": 124273
+            }
+          },
+          "hash": "8a7791a71a523af50dd9e0053513660b4b55025c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124271$31CAA54A-C16B-42AD-A5D0-61DA0E9CF2CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124275",
+              "numeric-id": 124275
+            }
+          },
+          "hash": "e2cafd9ce7e1ef518a9a32fb5830c7ccd64d9808",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124271$41C02694-B862-46A1-91E6-94E78505991A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124277",
+              "numeric-id": 124277
+            }
+          },
+          "hash": "a3ba47bdfa15355db6f066cbd9a07ca527c6d160",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124271$21230D07-AA11-4BF1-9802-ADFA71BA3A94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124271$ED6B23B7-449C-4F5B-A770-89E687B4BDAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124271$3051F240-3028-4EB9-8F6C-B4276EBA1819",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119201",
+              "numeric-id": 119201
+            }
+          },
+          "hash": "8ef2ff0ed4f623ce509087b916f6f269fc64ce13",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124271$18024185-8540-489B-ABA7-DA43E1995FA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124271$C9A07F84-9BEE-4C58-9FCE-B88CBD4C0BFF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124271$0A050308-6046-4139-8A90-D87CC7FF4F42",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1189-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e47ae5fcc40bdc63111f2cff94dd17e9172abea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124271$687F2828-FF4F-463C-8602-5AE2F3E0D436",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10389302"
+          },
+          "hash": "eb3573bca6d75d161ea72d712f8bc4dde61f8905",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q124271$5A2A7566-8BA4-4EFF-883C-1515700C0D82",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Vasco Fernandes de Soverosa"
+          },
+          "hash": "ad9748eb01bec7c3f5492b7f5e574d0d49bb31f7",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124271$AE6E6D34-0CB0-41D1-9499-3B09761CB17D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vasco Fernandes de Soverosa Arms.svg"
+          },
+          "hash": "b8e241e37911ad8f6c8e9d96287ce90d05747892",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Lord of Soverosa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Señor de Soverosa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur de Soverosa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Senhor de Soverosa"
+    }
+  },
+  "id": "Q124271",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Vasco Fernandes de Soverosa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vasco Fernandes de Soverosa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vasco Fernandes de Soverosa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vasco Fernandes de Soverosa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vasco Fernandes de Soverosa"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Vasco Fernandes de Soverosa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vasco Fernandes de Soverosa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vasco Fernandes de Soverosa"
+    }
+  },
+  "lastrevid": 17537422,
+  "modified": "2025-09-17T07:10:18Z",
+  "ns": 860,
+  "pageid": 150121,
+  "sitelinks": {},
+  "title": "Item:Q124271",
+  "type": "item"
+}

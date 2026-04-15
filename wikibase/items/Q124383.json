@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bertrand II of Forcalquier"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124383$6E96C49F-7F15-4909-878B-5BFF4C0A87E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00550340"
+          },
+          "hash": "074711433af9e2c212c3158c5275a8869840455a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124383$766DE5E6-499C-42A2-AB9B-1DADA81BCB95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124383$E80879DE-65C4-4D73-980C-78B0EC9D5C11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124383$D11C6E0C-EE25-4D0A-ADC5-D321A6448B4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bertrand_de_Forcalquier_(1)"
+          },
+          "hash": "1425e7ebe9e9195197c788ccf92b19771f90bb9c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124383$56FEBA5E-0E67-4AAA-8965-4CE374B7EAB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126383",
+              "numeric-id": 126383
+            }
+          },
+          "hash": "d8f81fdf74e372dd099044f6008c2272c916e617",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124383$A69ECA02-97C1-4C69-9DC9-0B0955B299D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119280",
+              "numeric-id": 119280
+            }
+          },
+          "hash": "69b0177185c416e431db381ffac9ccde9a483b84",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124383$2D8DEDA1-AA76-4CF3-A23B-025CD83C2DC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124381",
+              "numeric-id": 124381
+            }
+          },
+          "hash": "bb82c1cf94d872af25e8c93e1aea19edab8ad4b7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124383$205B2658-9254-4ACE-91F2-3D1B344AC73B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124383$B8D0F300-0958-4C0D-A603-B492B0600DB3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1145-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f4fa2f46359f65744b111bb9a33235935dead80",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124383$985C2B9F-9DA8-4A00-8DEF-1245C8FE59E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1207-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ee96c6e0e7d443bd434a463678f5426bfb4ffb6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124383$858312B5-5A22-4EF9-9160-714DD3BBA879",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2165680"
+          },
+          "hash": "8f6b87b2ea34cd9b2581f988af8bc221acf87346",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124383$1AA891F1-DE6F-4990-9DED-03874BB7D3E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=bertrand;n=de forcalquier;oc=1"
+          },
+          "hash": "76f2a3270a116f7ea20d5d3467d513dc0d8c9a99",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124383$ECDCF4DD-C32F-4F1E-88A4-62DA37CC3DD5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bertrand II of Forcalquier Arms.svg"
+          },
+          "hash": "85ed0b75d140e1ae547452455800a58da0a14a77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "comte de Forcalquer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Форкалькье"
+    }
+  },
+  "id": "Q124383",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Bertran II d'Urgell i Forcalquier"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bertrand II. Forcalquierský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bertrando II di Forcalquier"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βερτράνδος Β΄ του Φορκαλκιέ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bertrand II of Forcalquier"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bertrand II van Forcalquier"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bertrand II de Forcalquier"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bertrand II van Forcalquier"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bertrand II van Forcalquier"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бертран II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bertrand II van Forcalquier"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bertrand de Forcalquier"
+    }
+  },
+  "lastrevid": 17537530,
+  "modified": "2025-09-17T07:11:43Z",
+  "ns": 860,
+  "pageid": 150271,
+  "sitelinks": {},
+  "title": "Item:Q124383",
+  "type": "item"
+}

@@ -1,0 +1,664 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria of Montpellier"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124335$93ADFB7C-D754-466C-8964-7FEB137F9E9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "56972"
+          },
+          "hash": "d8103bbffd44edf65f1fa0595217676015340dab",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q124335$FCEE7588-74EB-4EBD-B70C-4A21D2D65B9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00007101"
+          },
+          "hash": "2c81400129d743f781e8197d71037693a9223861",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124335$375D16AC-38CD-4372-8E64-986561C56D0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124745",
+              "numeric-id": 124745
+            }
+          },
+          "hash": "caf509ee7720ba0deec19caa94cef0bb93022f36",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124335$C45E3EDA-DA25-410E-9457-54F2B012E654",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54861",
+              "numeric-id": 54861
+            }
+          },
+          "hash": "07d2f8b263b37e9febd48321fff87af50861d32d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124335$438F6205-6967-4D03-89DE-6A31BDD66A98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125040",
+              "numeric-id": 125040
+            }
+          },
+          "hash": "b7f50bd44a3adf90647db7ab70719b26855b3f78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124335$9ABF993A-C214-44AB-B470-E5AA4D971B61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montpellier-2"
+          },
+          "hash": "2531d79ec898348a0e28d56b77a93bc404292814",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q124335$B4CCFC02-64C5-41B3-A44B-4235154954A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I3051"
+          },
+          "hash": "5b7e9d30ba33e283afb126b223a37c8772d3d7e5",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124335$C9D42545-F52C-460F-B475-F3C02B1E67FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124335$03449D0B-8470-4991-835D-0A267FD53735",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124335$14B5BEA5-DCB5-421E-BE59-EBC60ACF98B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marie_of_Montpellier_(1)"
+          },
+          "hash": "bd0684a35d9f342d11390bc61bc900c739f0e21b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124335$3275B693-6334-49C3-A530-17CEC9CBDE97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119455",
+              "numeric-id": 119455
+            }
+          },
+          "hash": "d049bec5fbaa6351d01644ee7185c5421d9e726b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124335$4E05D171-16FA-4B32-88DF-CD1A215337D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119674",
+              "numeric-id": 119674
+            }
+          },
+          "hash": "c1007e0fa00ae024103ea98c96b4e743aeca8017",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124335$058C2F17-D9D9-4EA2-A78E-10B615D06614",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11329.htm#i113284"
+          },
+          "hash": "bee0b13a6199253736553ba499d6a8a8c4379348",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124335$AADB27CD-4DC9-4650-9976-6FDF5707AA87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119222",
+              "numeric-id": 119222
+            }
+          },
+          "hash": "4c2d0766919b0ede01f79440c69e3db04b8f46db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124335$2173684A-1BAE-4C7F-BD35-22FC6255AF74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124333",
+              "numeric-id": 124333
+            }
+          },
+          "hash": "4110f07d603ca7ddcadf691bc200043241943dc2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124335$156FB266-968B-401D-91AF-C41E0E4FB670",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124335$E52EB71F-1B4B-4E12-A90C-87B420D4D37E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1182-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e48d8052ba8798a38eadbdf8e199cd989c230ea0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124335$EA48CEB1-28EA-4732-9E67-585E5E0480B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1213-04-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "edde2aa71ac372a236045250ad53d3a9a4ec039e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124335$E4A44CCB-626F-49DF-BAF5-0C8D46990735",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q268731"
+          },
+          "hash": "4e5aa841fd778d3062f4bba987a5074a120eef00",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124335$18B90FF5-4CED-438B-84D1-DDC2038879BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marie;n=de montpellier"
+          },
+          "hash": "c5427eb6c0f60a5f76b7e08eec19b8d60a21d86e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q124335$072EE4B8-ECDB-461B-AA52-1D5DAC3555B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sw.211983"
+          },
+          "hash": "c0bb5d54853d831dd2ca72b7f961f904335506d4",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124335$6F1B8C8B-3FE6-4650-B4C5-664E00795D91",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria of Montpellier Arms.svg"
+          },
+          "hash": "d00065d2e3bc65573512100e7b0f105466f78140",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "política francesa (1182–1213)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Senyora de Montpeller i reina consort d'Aragó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byla krátce aragonskou královnou"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "French siyaasa nira ŋun nyɛ paɣa"
+    },
+    "de": {
+      "language": "de",
+      "value": "französische Adelige, Königin von Aragonien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen of Aragon (1182-1213)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Reina consorte de Aragón (1204-1213)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari frantziarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dame de Montpellier et reine d'Aragon (1182-1213)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "política francesa"
+    },
+    "it": {
+      "language": "it",
+      "value": "politica francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans politica (1182-1213)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko franses"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "política francesa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Арагона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fransk politiker"
+    },
+    "th": {
+      "language": "th",
+      "value": "สมเด็จพระราชินีแห่งอารากอน (ค.ศ. 1182-1213)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız siyasetçi (1182-1213)"
+    }
+  },
+  "id": "Q124335",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "María de Montpeller"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ماريا من مونبلييه"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марыя дэ Манпелье"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мария дьо Монпелие"
+    },
+    "br": {
+      "language": "br",
+      "value": "Maria de Montpelhièr"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria de Montpeller"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marie z Montpellieru"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maria von Montpellier"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία του Μονπελιέ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria of Montpellier"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Maria of Montpellier"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Maria of Montpellier"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Maria de Montpeliero"
+    },
+    "es": {
+      "language": "es",
+      "value": "María de Montpellier"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie de Montpellier"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרי ממונפלייה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marija od Montpelliera"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marie de Montpellier"
+    },
+    "id": {
+      "language": "id",
+      "value": "Maria dari Montpellier"
+    },
+    "it": {
+      "language": "it",
+      "value": "Maria di Montpellier"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マリー・ド・モンペリエ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარი დე მონპელიე"
+    },
+    "la": {
+      "language": "la",
+      "value": "Maria"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Maria av Montpellier"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria van Montpellier"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Maria de Montpelhièr"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Maria di Montpellier"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Maria de Montpellier"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Maria de Montpellier"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария де Монпелье"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Marie de Montpellier"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марија од Монпељеа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marie av Montpellier"
+    },
+    "th": {
+      "language": "th",
+      "value": "มารีแห่งมงเปอลีเย"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marie de Montpellier"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蒙彼利埃的瑪麗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "蒙彼利埃的玛丽"
+    }
+  },
+  "lastrevid": 17537484,
+  "modified": "2025-09-17T07:11:07Z",
+  "ns": 860,
+  "pageid": 150207,
+  "sitelinks": {},
+  "title": "Item:Q124335",
+  "type": "item"
+}

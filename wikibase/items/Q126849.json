@@ -1,0 +1,757 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gunther, Margrave of Merseburg"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q126849$DC67C207-B24E-4166-9855-EA04FEC7CCBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121169",
+              "numeric-id": 121169
+            }
+          },
+          "hash": "ba47357d38c944e5c01989506220091662fc9e5e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126849$A0BA1AA9-5D33-4C6A-85DC-1F51259E8B37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126851",
+              "numeric-id": 126851
+            }
+          },
+          "hash": "a344793a0d170997e05b64c73d8d677c39931faa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126849$22B773A3-3F1D-4E4D-9F4B-FD40DA65B1CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126849$2AFE51E6-6C2C-4957-BC83-0890AB1BCDBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126849$7A7042DC-96A4-464B-AF8F-391A1069EA11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125709",
+              "numeric-id": 125709
+            }
+          },
+          "hash": "7223d02a5c7081efdfd40e0fb58e1560fafb3838",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126849$10FA1998-252C-4250-AB00-E4DAE149D479",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126849$A65D01A7-7C48-4B5F-BC9F-8F5CF2DFF2F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0949-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be5004d395ed6c07e1bd7e8583863bd6d1966fcd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126849$B2E126CB-5056-44F3-A957-B7AD3EE7EE6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0982-07-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f284f1fac36c674e9745865d4264bfce9c355163",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126849$59B792D0-EBD6-4225-A670-78DD1C9177FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q42623"
+          },
+          "hash": "fad92986accdd2a7f759a52710588b682c2ed49c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q126849$DD9E8FF2-3879-417C-A00A-0D31596401F7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Felis chaus"
+          },
+          "hash": "d18d8b70877140a73fd2833a50c08288338f044b",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126849$D11BB7BA-3F80-4B7B-9AC4-06C14B9A1B8B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jungle cat Arms.svg"
+          },
+          "hash": "f648fd2d2054a87aac99579c718136923132f20b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "نوع من الثدييات"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "نوع من الثدييات"
+    },
+    "as": {
+      "language": "as",
+      "value": "মজলীয়া আকাৰৰ বনৰীয়া মেকুৰী"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "especie de mamíferu"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "вид бозайник"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "স্তন্যপায়ী প্রাণীর প্রজাতি"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kočkovitá šelma"
+    },
+    "de": {
+      "language": "de",
+      "value": "Art der Gattung Felis"
+    },
+    "en": {
+      "language": "en",
+      "value": "species of mammal"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "specio"
+    },
+    "es": {
+      "language": "es",
+      "value": "especie de mamíferos"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گونهای از گربهها"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "espèce de félins"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "speiceas mamach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "felido nativo de Asia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מין של יונק טורף ממשפחת החתוליים"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मध्यम आकार की एक जंगली बिल्ली"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "emlősfaj"
+    },
+    "it": {
+      "language": "it",
+      "value": "specie di animali della famiglia Felidae"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "kaķu dzimtas plēsējs"
+    },
+    "my": {
+      "language": "my",
+      "value": "အရွယ်အဘတ်စားရှိသော တောကြောင်"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "lite til mellomstort rovpattedyr i kattefamilien"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoogdier uit de familie katachtigen"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "pattedyrart"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "gatunek ssaka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "espécie de felideo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "felidă sălbatică de mărime medie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "хищное млекопитающее из семейства кошачьих"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "vrsta sesalcev iz rodu Felis (mačka)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "врста сисара из породице мачака"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kattart"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Görece uzun bacaklı ve kısa kuyruklu yaban kedisi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "вид ссавців"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "loài động vật có vú"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "猫科猫属哺乳动物"
+    }
+  },
+  "id": "Q126849",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Moeraskat"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "تفة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تفه"
+    },
+    "as": {
+      "language": "as",
+      "value": "হেপা"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Felis chaus"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Karvol (Felis chaus)"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qamışlıq pişiyi"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قامیشلیق پیشیی"
+    },
+    "be": {
+      "language": "be",
+      "value": "Чаротавы кот"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Чаротавы кот"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "тръстикова котка"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "বন বিড়াল"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kazh-gwern"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "gat de la jungla"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Эрзашкара цициг"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Felis chaus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kočka bažinná"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Хӑмӑш кушакӗ"
+    },
+    "da": {
+      "language": "da",
+      "value": "Junglekat"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rohrkatze"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγριόγατα της ζούγκλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jungle cat"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ĝangala kato"
+    },
+    "es": {
+      "language": "es",
+      "value": "Felis chaus"
+    },
+    "et": {
+      "language": "et",
+      "value": "rookass"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Felis chaus"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گربه جنگلی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "viidakkokissa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Chaus"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Raidkaat"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Felis chaus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gato da xungla"
+    },
+    "glk": {
+      "language": "glk",
+      "value": "پیچه شئال"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "જંગલી બિલાડી"
+    },
+    "he": {
+      "language": "he",
+      "value": "חתול ביצות"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "जंगली बिल्ली"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Tropska mačka"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "mocsári macska"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "եղեգնակատու"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Felis chaus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kucing hutan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Felis chaus"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジャングルキャット"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლელიანის კატა"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Amcic n tagant"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Қамыс мысығы"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಕಾಡು ಬೆಕ್ಕು"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "정글고양이"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Камыш сүлөөсүнү"
+    },
+    "la": {
+      "language": "la",
+      "value": "Chaus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Nendrinė katė"
+    },
+    "ltg": {
+      "language": "ltg",
+      "value": "Felis chaus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "niedrāju kaķis"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "കാട്ടുപൂച്ച"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Felis chaus"
+    },
+    "my": {
+      "language": "my",
+      "value": "တောကြောင်"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jungelkatt"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "वन बिरालो"
+    },
+    "nia": {
+      "language": "nia",
+      "value": "Arawi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Moeraskat"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Jungelkatt"
+    },
+    "nv": {
+      "language": "nv",
+      "value": "Lókʼaatah mósí ałchiní"
+    },
+    "os": {
+      "language": "os",
+      "value": "Хъамылы гæды"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kot błotny"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "جنگل بلی"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "ځنګلي پيشو"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gato-da-selva"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pisică de junglă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Камышовый кот"
+    },
+    "sat": {
+      "language": "sat",
+      "value": "ᱨᱩᱸᱰᱟᱹ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tropska mačka"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Mačka močiarna"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "džunelska mačka"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Macja e xhunglës"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "тропска мачка"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Djungelkatt"
+    },
+    "syl": {
+      "language": "syl",
+      "value": "ꠐꠟꠣ"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "காட்டுப்பூனை"
+    },
+    "th": {
+      "language": "th",
+      "value": "แมวป่า"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Pusang kagubatan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sazlık kedisi"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "جاڭگال مولۇنى"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кіт очеретяний"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جنگلی بلی"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Toʻqay mushugi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mèo ri"
+    },
+    "war": {
+      "language": "war",
+      "value": "Felis chaus"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "丛林猫"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ჭილოუშ კატუ"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "叢林貓"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "丛林猫"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "丛林猫"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "欉林貓"
+    }
+  },
+  "lastrevid": 17539948,
+  "modified": "2025-09-17T07:44:36Z",
+  "ns": 860,
+  "pageid": 153578,
+  "sitelinks": {},
+  "title": "Item:Q126849",
+  "type": "item"
+}

@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Louis de Chiny, Heer van Lummen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124697$EC5FAB65-E072-4B99-B5A8-71D375466E21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00503560"
+          },
+          "hash": "ff365a510c378cc70b238e87b71782ed07185b76",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124697$56FE3676-3326-460B-B8A6-A7A07FF40EA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128989",
+              "numeric-id": 128989
+            }
+          },
+          "hash": "4773cc60d78c2f23e79b99e22f97e8c5d0366add",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124697$B72036A2-3172-43E9-9CF5-C6D3DFB4DF1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Chiny-10"
+          },
+          "hash": "da1463735ad274032aa36197f721841d05e99137",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124697$DAB24C00-FBA3-4466-BA16-71DFB2C1BB99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124697$47856C94-E363-4143-8AF5-EBD92EE5A0BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124697$5764DF02-5C57-45AD-8910-E6EB05873657",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119428",
+              "numeric-id": 119428
+            }
+          },
+          "hash": "b17caa095133a96338f96a7ef257e44754dcabe1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124697$7F969EE6-1114-4E70-8781-55090AF600AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124697$A1638DF4-6039-444D-9609-F535CA5FED1B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b77a02bf3d1b65e76819a0e6802e2ee8ff68bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124697$22DA9666-E806-4B71-8805-F53665FA4CB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1207-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "727cb6ffe2a401ff420c37f374c81e0f6b8a674f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124697$79B390D3-40F8-4949-8F2A-CEC07D8A42FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110536853"
+          },
+          "hash": "3260dfce6aa071319a0aafe943ca6ce56cb7a2d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124697$0EB5296C-5440-491A-9B43-E0516D4CEA66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=louis;n=de chiny;oc=2"
+          },
+          "hash": "32181ce7e55cbeb354be3002d657ef6ad130693d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124697$0FF286AB-992B-4AA6-93B8-9ACB91874295",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Louis de Chiny, Heer van Lummen Arms.svg"
+          },
+          "hash": "dc97656e6af87a590fbef5dfb2af2e32ac3c3712",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1140 - certain 1207"
+    }
+  },
+  "id": "Q124697",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Louis de Chiny, Heer van Lummen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lodewijk van Chiny, Heer van Lummen"
+    }
+  },
+  "lastrevid": 17537842,
+  "modified": "2025-09-17T07:16:00Z",
+  "ns": 860,
+  "pageid": 150693,
+  "sitelinks": {},
+  "title": "Item:Q124697",
+  "type": "item"
+}

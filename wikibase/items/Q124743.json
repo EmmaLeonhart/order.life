@@ -1,0 +1,192 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pere del Rei"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q124743$A5D06EF3-346B-47B6-8C74-B0EE4F30D141",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124743$993A62EE-1679-4E11-A2CF-51D73A580D47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124743$87AF108A-58B2-4A3A-A739-A1093BE2B1CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119455",
+              "numeric-id": 119455
+            }
+          },
+          "hash": "07160c0c7fb6b9bff3b4023d23cfa09f0a7bcae7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124743$611404F2-4ED7-4376-AE67-650264809979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124743$A63696FF-BCA4-458B-BB79-4369F3F66D59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1254-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "00861852ed6bbfe43c5af1e3ed96e578b4935205",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124743$FC076A89-B98C-44A0-8463-4DA7C9EDF569",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11941105"
+          },
+          "hash": "fa6a5549baa5b506944ef4ec4d1f9fb1a1986a86",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124743$532E1A45-5D1F-402A-B633-EEEFBB319AE8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pere del Rei Arms.svg"
+          },
+          "hash": "1be30c8666dd1004327e8a172d36c37857c60727",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Fill de Pere el Catòlic i sagristà de Lleida"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Pedro II de Aragón, sacristán de la Seo de Lérida en 1223"
+    }
+  },
+  "id": "Q124743",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Pero de Rege"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Pere del Rei"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pere del Rei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pere del Rei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pedro de Rege"
+    }
+  },
+  "lastrevid": 17537882,
+  "modified": "2025-09-17T07:16:32Z",
+  "ns": 860,
+  "pageid": 150755,
+  "sitelinks": {},
+  "title": "Item:Q124743",
+  "type": "item"
+}

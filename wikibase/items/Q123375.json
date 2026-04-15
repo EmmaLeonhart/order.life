@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard II of Capua"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123375$1CD3E19F-70E3-4F63-AE05-804267A3FAB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123375$289D4E09-8209-4AFF-A5F2-AC2D41553B18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123375$3348DA4B-D84C-4AB3-9885-25F6565E178D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard_II_of_Capua_(1)"
+          },
+          "hash": "eccc8f288536ce6732c4a2a7dcc3d042b36883cd",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123375$7D26E959-3FBA-4023-B83E-C396871F790B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120291",
+              "numeric-id": 120291
+            }
+          },
+          "hash": "d3976cc89471934d7ae60e6999887afd9e6ab725",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123375$79FCFBA2-D0D3-479E-A91D-FF5F9B176983",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118210",
+              "numeric-id": 118210
+            }
+          },
+          "hash": "758a4cca72d35329bdb02f40f0592951addb22e4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123375$33AFBA6F-733C-4575-A057-2159D02A3CEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123375$50C38674-2076-4ED3-9DF9-ED2DCF2A5E0D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1078-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1ffa80be01eec0939e5a71512d17b8a6a0972810",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123375$6710C565-593C-4323-AAA9-61DF276E31FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1105-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5d25a249648483cbd9f1520870569f281642725",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123375$25AB5973-DEA7-4D65-834C-9F4C15477881",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1095074"
+          },
+          "hash": "f2b3654512a77647b21c31913554adac4850e64c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123375$0BAF8AC6-A7F8-4098-A46C-EEE679E1E9A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard II of Capua Arms.svg"
+          },
+          "hash": "644001a18f30f7f80fc7ec49f3fdae1f5cc03817",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "príncep de Càpua i comte d'Anvesa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Capua"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de Capoue"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe di Capua"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q123375",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ريتشارد الثاني من كابوا"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ricard II de Càpua"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ριχάρδος Β΄ της Κάπουα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Richard II of Capua"
+    },
+    "es": {
+      "language": "es",
+      "value": "Richard II of Capua"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Richard II de Capoue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Riccardo II di Capua"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リッカルド2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richard II of Capua"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Richard al II-lea de Capua"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ричард II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Річард II"
+    }
+  },
+  "lastrevid": 17536554,
+  "modified": "2025-09-17T06:57:55Z",
+  "ns": 860,
+  "pageid": 148926,
+  "sitelinks": {},
+  "title": "Item:Q123375",
+  "type": "item"
+}

@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Serlone III d'Altavilla"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125799$44928DBD-2B06-4651-B931-16282FABA342",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125799$FE14D6CF-89DC-438A-87B9-295F0F7FB506",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125799$3635F534-B8A7-41C6-8B76-47FB55125DDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120283",
+              "numeric-id": 120283
+            }
+          },
+          "hash": "3c8871b864eed7ec8bfea09a992bae5d1d0449ec",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125799$D2A76FB8-7616-4D35-B8B3-349E22E3D068",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125799$8F9B95A0-1E57-4A22-9C5D-47B309F13483",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1066-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e89efd62fadceddafebba010dfd5929c154fd494",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125799$113BF61C-91BB-452E-9171-59CC7CB4DBB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3957910"
+          },
+          "hash": "d59ea9a5b8a4df6a69306311a7c167ec1e50edc9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125799$A60CDF2B-A307-43EE-8D1E-8F876A8C00BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=serlon;n=de vintimille"
+          },
+          "hash": "1ecb29f28001dff12d21e922260b293651a114d8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125799$7BFAB5D4-8770-4359-8F20-41AB2DE97969",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Serlone III d'Altavilla Arms.svg"
+          },
+          "hash": "0cb465e0028438db503176a8eefce66707e3d97e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "it": {
+      "language": "it",
+      "value": "cavaliere medievale normanno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ridder"
+    }
+  },
+  "id": "Q125799",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Serlone III d'Altavilla"
+    },
+    "en": {
+      "language": "en",
+      "value": "Serlone III d'Altavilla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Serlon III de Hauteville"
+    },
+    "it": {
+      "language": "it",
+      "value": "Serlone III d'Altavilla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Serlone III d'Altavilla"
+    }
+  },
+  "lastrevid": 17538910,
+  "modified": "2025-09-17T07:30:21Z",
+  "ns": 860,
+  "pageid": 152168,
+  "sitelinks": {},
+  "title": "Item:Q125799",
+  "type": "item"
+}

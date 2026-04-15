@@ -1,0 +1,591 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexander"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124135$5282B2F5-814B-4AA7-8533-6F91F3A689CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "30599"
+          },
+          "hash": "a22613171361d8e9c8312b433da6d8253a0bd8bd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q124135$5FA4004B-C20C-4A8F-84FB-DAAE48E54BE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00215877"
+          },
+          "hash": "bf324b1443d4863f33fc3ab8de8db09531dcc834",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124135$A4E19DE9-AE02-4044-A780-A1A440E69FCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Byzantium-27"
+          },
+          "hash": "0179c2b14094d05a95946b7d352253e995296af6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124135$95598576-3DFC-41D7-BB97-EF2F80A678BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124135$6A94B7A1-5494-4344-9CF0-A9AB2E4D0002",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124135$2D9321C0-229A-4ED6-883F-699F1BA54F8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexander_(1)"
+          },
+          "hash": "fb5a2f58597c23df47315a0b5f84cca6ad377025",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124135$E5925AE1-8867-4F02-901D-D2286A833CDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15021.htm#i150204"
+          },
+          "hash": "648ced24171b35f47de9503d68237516b39792db",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124135$8B25FD50-D716-4DC5-AB37-1F3176283E69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124131",
+              "numeric-id": 124131
+            }
+          },
+          "hash": "ab0017be3254cf573d82294e33db37cac444475a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124135$7A649CF2-3080-4125-8C3C-1AE89A2B2204",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124133",
+              "numeric-id": 124133
+            }
+          },
+          "hash": "147e5bdc056f2210155f8feea9cadf21158df7a4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124135$189F9E81-05B6-472D-B58C-BE347DE2607E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124135$9299038C-2264-4E10-9F03-6A91D49B6B32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0872-11-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "154bfa3540b2809436ad62302e59c9ce8ea4f736",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124135$71DC39E4-0089-4308-971B-D0A9E2BE7683",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0913-06-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2468d909242c5e4bdda45ff85ee683179021fb3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124135$291C63AF-340B-426C-A927-4B1E69376E9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q294425"
+          },
+          "hash": "8cd6fcc469bb9f2249dd74eb5e8fedee24200040",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124135$DB882F17-F5A4-457F-AAF3-028B94C77468",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexander Arms.svg"
+          },
+          "hash": "77fc223e78c5bd008a963395c84ab452e94e66cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q124135$0D2D56D3-D743-4662-AEDD-5A35A0F47527",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/f1052978-d495-44f2-aca4-c0c0d4e95a06"
+          },
+          "hash": "2511dfdf87d66377691c91f2daed246994ff8251",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Byzanz (912–913)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine emperor from 912 to 913"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Bizancia imperiestro (r. 912–913)"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador bizantino"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bysantin keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur byzantin de 912 à 913"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore bizantino (r. 912-913)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Byzantijnse Rijk (872-913)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz bizantyjski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийский император"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "цар Византијског царства 912—913."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kejsardömet Bysans monark"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "912-913 yıllarındaki Bizans imparatoru"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بازنطینی شہنشاہ 912 سے 913 تک"
+    }
+  },
+  "id": "Q124135",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Alexander van Bisantium"
+    },
+    "an": {
+      "language": "an",
+      "value": "Aleixandre III de Bizancio"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إسكندر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اسكندر"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "الکساندر"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аляксандр"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Александър"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আলেকজান্ডার"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alexandre"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alexandr"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Alexander"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alexander"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Aleksandros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξανδρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexander"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aleksandro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejandro III"
+    },
+    "et": {
+      "language": "et",
+      "value": "Alexandros (Bütsantsi keiser)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Alexandro Bizantziokoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "الکساندر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aleksanteri III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexandre"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Alexandre III de Bizancio"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלכסנדר השלישי, קיסר האימפריה הביזנטית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Alexandrosz bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ալեքսանդր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Alexandros"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alessandro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレクサンドロス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალექსანდრე (ბიზანტია)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알렉산드로스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alexander"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Александар III"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അലക്സാണ്ടർ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aleksander av Bysants"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alexander van Byzantium"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aleksander"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alexandre"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alexandre"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Alexandru"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Александр"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Alexander"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aleksandar"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Alexander III."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Aleksander"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Александар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alexander"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอเล็กซานเดอร์แห่งไบแซนไทน์"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aleksandros"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олександр (візантійський імператор)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ایلیکساندر"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Alexandros"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞歷山大"
+    }
+  },
+  "lastrevid": 17537286,
+  "modified": "2025-09-17T07:08:30Z",
+  "ns": 860,
+  "pageid": 149939,
+  "sitelinks": {},
+  "title": "Item:Q124135",
+  "type": "item"
+}

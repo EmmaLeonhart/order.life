@@ -1,0 +1,226 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulrich, Graf von Ramsperg, Graf im Hegau"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122243$79F7FE8B-ABCF-4159-8BBA-268C89747A10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00313114"
+          },
+          "hash": "019c772bd9bb02496213d268c2b67d506c7535d2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122243$21BC92B8-C6D3-42F5-B71D-32EBF0EC047C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122245",
+              "numeric-id": 122245
+            }
+          },
+          "hash": "b3345ec1817fa7a40cf2a93273d748d982b6f6d7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122243$8CF3E295-6297-473D-AB91-6F87B510C125",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122243$6CE8BC6D-ACE6-4008-94FF-9D8FA2483CD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122243$E13682CB-225A-4782-8530-1A80EE441013",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117566",
+              "numeric-id": 117566
+            }
+          },
+          "hash": "a4787a24a87a623148e8ca335c4543ec3310eb78",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122243$0112FC21-EBC1-4642-BA7E-9F003942DAD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122243$F62D2B29-4A26-4C79-9B1D-2C8E2C556195",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122243$8ACB9A04-7100-4EE4-9EEC-9F5739150060",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q88790263"
+          },
+          "hash": "d91d43326f326523911bf18fa8059962a246498d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122243$A30912AA-6EBD-4BA4-BA15-BDCAD9EB3442",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ulrich;n=von ramsperg"
+          },
+          "hash": "72c88e9f40a798ff9bb0f8ce5fb81b6e8f87680c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122243$6D85305D-8E90-45C2-8BD7-9A62490749DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulrich, Graf von Ramsperg, Graf im Hegau Arms.svg"
+          },
+          "hash": "3ecb8f668a79551eb55e8c113054a3db3553cf55",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q122243",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Улрих фон Рамшперг"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ulrich, Graf von Ramsperg, Graf im Hegau"
+    }
+  },
+  "lastrevid": 17535432,
+  "modified": "2025-09-17T06:43:01Z",
+  "ns": 860,
+  "pageid": 147412,
+  "sitelinks": {},
+  "title": "Item:Q122243",
+  "type": "item"
+}

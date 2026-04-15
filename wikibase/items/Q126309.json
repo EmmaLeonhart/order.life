@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Renard Ier de Joigny"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126309$A8B2FB09-7D32-4CFB-A312-FD156E03C195",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "697425"
+          },
+          "hash": "6c26374570b5b596ed45813ebd9493ef3b138aa6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126309$92E78450-B0D8-4024-A98E-E0D5DCD6B260",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00198146"
+          },
+          "hash": "4b332c368d7bbecd24cca8d1317e28c8019ffdf7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126309$281C3200-D0DB-4CCA-AFD1-F0AD621CEC55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126309$FDED0B1D-61E8-454E-9BD2-27192A5C5ABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126309$5BFE8BDE-D836-472E-BF3A-23DD28B2AF63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120730",
+              "numeric-id": 120730
+            }
+          },
+          "hash": "e30b5f3a30b94b17d7dc4836b21199b85b2577d4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126309$B1D08FE6-A3E5-4788-8ABE-BD0C3F9DCF88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143771",
+              "numeric-id": 143771
+            }
+          },
+          "hash": "3aeed9507bd220cd2701608fab1b6fe7220a84e6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126309$453CB4F8-A6B6-4420-AF96-E9A6EA0617FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143772",
+              "numeric-id": 143772
+            }
+          },
+          "hash": "4079083c9679674735fd801257ccd07215665aee",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126309$0F78D642-EB3D-44B6-B77C-82A7CAEFC789",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126309$C06EC046-6E45-42CE-9077-BD180A45291B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1035-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cc7b67aae89cd45b7609b364e60adbef864b589a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126309$3A3FD47A-B0F0-47DC-B2D2-0BB84C40C8DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48760327"
+          },
+          "hash": "4c2083589e0c895704f957a7c86340ece7e96f20",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126309$B1B3A0B0-54D5-48A5-A3E0-6959AFCD9B6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=renard;n=de joigny;oc=2"
+          },
+          "hash": "1fdff059a49e382438c463d706555d116371579d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126309$7699C2E3-73C8-48FD-A5BD-1BA8576EFD5C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Renard Ier de Joigny Arms.svg"
+          },
+          "hash": "50221722f8a5a569f90a73f542e23ae044f6025a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "noble français"
+    }
+  },
+  "id": "Q126309",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Renard Ier de Joigny"
+    },
+    "en": {
+      "language": "en",
+      "value": "Renard Ier de Joigny"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Renard Ier de Joigny"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Renard Ier de Joigny"
+    }
+  },
+  "lastrevid": 17539414,
+  "modified": "2025-09-17T07:37:35Z",
+  "ns": 860,
+  "pageid": 152854,
+  "sitelinks": {},
+  "title": "Item:Q126309",
+  "type": "item"
+}

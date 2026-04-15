@@ -1,0 +1,222 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fernando Ponce de Cabrera el Mayor"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123446$89C44B9A-A0B3-4F1A-ABAD-F6469B6AAC4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123446$5D2357D2-656C-48B6-91CA-BE9B78FDA9F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123446$2E21AE51-75CF-4FB7-85B0-1C38938C6A2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118289",
+              "numeric-id": 118289
+            }
+          },
+          "hash": "f817d1138dc6ff763a9c396bba66d105e3f81547",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123446$2A384E3E-2B00-4A81-BBAC-35987EAC5A7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123443",
+              "numeric-id": 123443
+            }
+          },
+          "hash": "f983e13f13c49b65d197effc0857cb5fdd2a0aa6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123446$B1D6150B-EF87-42AE-800C-4156F94D6BBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123446$BEDBDE68-0B53-4106-9DF0-852B6370353F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1170-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8cf23e8b478f166e3b44ebce87282253b8d6909",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123446$071BC64E-C39A-4DE6-BBCD-E4D3DCC0A922",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5444877"
+          },
+          "hash": "11012627fe10373a077e10b50b744cfef98a1f8b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123446$63CB55AF-4914-4153-8A3F-86E0B2F3DB31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=fernan;n=de cabrera"
+          },
+          "hash": "35d9920f01bf8a0a2f7f304ca88a48dc039db8f4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123446$70048F42-9874-4F3C-B5D2-E09CAF1413A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fernando Ponce de Cabrera Arms.svg"
+          },
+          "hash": "4bea830c9a97f423fe7211f6ee283f030001ccdf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Spanish noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble leonés (fl. 1161-1171), conde y alférez real"
+    }
+  },
+  "id": "Q123446",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fernando Ponce de Cabrera"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fernando Ponce de Cabrera"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Fernando Ponce de Cabrera"
+    }
+  },
+  "lastrevid": 17536630,
+  "modified": "2025-09-17T06:58:53Z",
+  "ns": 860,
+  "pageid": 149022,
+  "sitelinks": {},
+  "title": "Item:Q123446",
+  "type": "item"
+}

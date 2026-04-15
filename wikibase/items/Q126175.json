@@ -1,0 +1,188 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert II de Boves"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126175$48A58E4E-0AB5-481A-A927-57EA0CA58275",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00028244"
+          },
+          "hash": "1617c3b5c4202633f3b6f9df6c573b038e619506",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126175$EAEB017E-BB5E-4102-B55A-FC623EEEF9B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126175$CF979E8B-8F06-424A-87EB-E5B4C99C38A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126175$47F255DB-FF1A-446D-AA4A-A1D22AF7B98B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120594",
+              "numeric-id": 120594
+            }
+          },
+          "hash": "0ea6e5e35f2331c98533d6898ce82359c343bef3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126175$7456468E-7CD7-41E3-860D-0F820FF02197",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126175$F46B1A64-603E-45F0-9844-01EF3E539435",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1224-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "834aa5a04a17001299823318b25913378aea94c3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126175$5C1C1934-FDFF-49E4-80AB-7129FD6D888E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21535016"
+          },
+          "hash": "fd18159896082b9f214531d0b516630ab67d3009",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126175$0430EFFC-65C0-4E9F-966D-E2D05BD1FA55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert II de Boves Arms.svg"
+          },
+          "hash": "31b00abf995864b2e92ad33dd5ca95595bcc0bda",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q126175",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert II de Boves"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Робер II де Бов"
+    }
+  },
+  "lastrevid": 17539280,
+  "modified": "2025-09-17T07:35:51Z",
+  "ns": 860,
+  "pageid": 152674,
+  "sitelinks": {},
+  "title": "Item:Q126175",
+  "type": "item"
+}

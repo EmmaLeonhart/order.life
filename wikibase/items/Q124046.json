@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Erchanger, Duke of Swabia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124046$E0D2E107-55A1-4E65-803F-7D4945A13773",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "930230"
+          },
+          "hash": "95e513a2c27d08ea87aa0b3317625183db27de36",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124046$86E3F90C-C9CF-4C22-A476-944B95DAD0A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124046$30C7689A-1B1E-42D0-8CEE-9BE68BCA11F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124046$0CD267C2-8061-4F92-B077-7BABD9FC3578",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Erchanger,_Duke_of_Swabia_(1)"
+          },
+          "hash": "94ba289958377e588d48820cf191aa5e7d5c0a44",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124046$01EA3C9B-4223-403E-9FD9-0071E81B61AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124044",
+              "numeric-id": 124044
+            }
+          },
+          "hash": "ce63f180d80cec40ba10ed0d373da8cf08b25296",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124046$2517ED40-734C-4A01-9971-260526FE8C96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118950",
+              "numeric-id": 118950
+            }
+          },
+          "hash": "3efc34d725c18885bcde3c72e90a568f4221fae1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124046$3CB86078-CDE0-4A8B-B7DD-8CBE9496E582",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124046$209E211C-AB56-47B8-A0F6-34479B60CC51",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0830-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1cea57dfcf39c461fe7766b530494420a46ab73",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124046$1481A0A7-AFA4-4C06-A211-78EF668C05DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0917-01-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6f5e2b0676d54d00fa15cfee32b36d1df01f5dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124046$87F1A83C-3D30-4766-9F8E-083B44F1E7C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q660851"
+          },
+          "hash": "a772f9fabce2ac2a8ee5f1b937d59f940fc02947",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124046$2C75E57B-3394-4EC8-884C-8895EDA6E35B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=erchanger;n=von schwaben"
+          },
+          "hash": "e5fc0d51d046a3b58d999acd73c0666e4be3b891",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124046$C448575F-AAC3-4316-B72A-EB466D6940C4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Erchanger, Duke of Swabia Arms.svg"
+          },
+          "hash": "12e72fe99448a53ae250e8597dba5fdeec41ddb5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "švábský vévoda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Schwaben"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke of Swabia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "duc de Souabe"
+    },
+    "it": {
+      "language": "it",
+      "value": "duca di Svevia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hertog van Zwaben"
+    }
+  },
+  "id": "Q124046",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Erchanger"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارشانجر دوق شوابيا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ерхангер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Erchanger I de Suàbia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Erchanger"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erchanger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Erchanger, Duke of Swabia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Erchanger I de Suàbia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Erchanger Ier de Souabe"
+    },
+    "id": {
+      "language": "id",
+      "value": "Erchanger, Adipati Swabia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Erchanger di Svevia"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에르찬가르 2세"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erchanger van Zwaben"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Erchanger de Suabia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эрхангер"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Erhanger Švabski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Erchanger, Duke of Swabia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ерхангер (герцог Швабії)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "士瓦本公爵厄爾申格"
+    }
+  },
+  "lastrevid": 17537202,
+  "modified": "2025-09-17T07:07:23Z",
+  "ns": 860,
+  "pageid": 149819,
+  "sitelinks": {},
+  "title": "Item:Q124046",
+  "type": "item"
+}

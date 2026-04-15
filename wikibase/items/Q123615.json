@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Augis"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q123615$BE77AA65-1F06-442E-A688-C171E177398F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118466",
+              "numeric-id": 118466
+            }
+          },
+          "hash": "ddac05f3384d34e9f6299d122fa0073565f9b3ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123615$F0E69F58-DA12-454C-A4FB-A19A8E2F0D7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123615$A5C0FEF3-2A8F-43F9-A444-18A9E4A4CB2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123615$AF3A908C-3C7F-4800-A93A-D815631D2768",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137581",
+              "numeric-id": 137581
+            }
+          },
+          "hash": "4e1db0124422990c2c6d9b7a187ee6d73a53bd18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123615$F2AF548D-9C80-4C38-B9D2-A79CCF4A2F95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123615$AE40CCB5-6EC3-413B-A059-E84A78AD684E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c6850fc42406cf43d2bfa6754af57223b4e2c411",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123615$8DF366F5-7EC2-419B-8CFA-B39E773B539E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "535ccc0701e0738a953e70f2adc3ade105ff0676",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123615$C4762E6A-6EDB-4D8A-BD02-B51EE1D00C9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q27063804"
+          },
+          "hash": "653d6aacdb56f3c5f412a244e8fba5c2edf9b5e6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123615$D17D373B-D10F-4C2E-A67D-55B0EE1D4120",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Augis Arms.svg"
+          },
+          "hash": "9aa8894601a9945464091ebc55c1c481ef9d052f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q123615",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Augis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Augis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Augis"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hagal"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hagal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Авгис"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Авгіс"
+    }
+  },
+  "lastrevid": 17536780,
+  "modified": "2025-09-17T07:00:52Z",
+  "ns": 860,
+  "pageid": 149244,
+  "sitelinks": {},
+  "title": "Item:Q123615",
+  "type": "item"
+}

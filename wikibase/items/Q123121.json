@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Géraud IV of Armagnac"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123121$4286EF05-812A-4EE6-A715-AC48D8831E1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "896984"
+          },
+          "hash": "c7403b384e5acd6a1c3e3091735401ee6b196807",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123121$49D82B34-1208-4265-9C9E-2A2F78E69514",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00472373"
+          },
+          "hash": "8790412826ce6bb2f191401e7a1908c39554f18d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123121$6C0E7CF3-4DF6-4E59-AB79-774E9A358B16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123121$1812151D-0584-40A4-B407-A6C67902A92E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123121$7C86DC06-169D-4E88-8A89-A15617D6BE29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118044",
+              "numeric-id": 118044
+            }
+          },
+          "hash": "608c928799518e2547135a406a1c2e155888d052",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123121$BD8F4178-0239-4EB9-BA96-157E638D17DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123119",
+              "numeric-id": 123119
+            }
+          },
+          "hash": "44c02c48750a2edefa5e1d7381d5e5e4d3162234",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123121$40A727D0-24F5-4640-A75D-ECAF4A737ACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123121$86E60841-F378-4C1F-9604-8945BC004A92",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec722479c752f99ddc531564cc0d81140c8fcbc3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123121$263ADA8A-1A71-4666-80B9-D60293072753",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1215-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2216b7a86cd8589873e5bccbbf07051456a86761",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123121$361279B8-B168-419F-B9CC-5FB4822C7ACE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1223099"
+          },
+          "hash": "22bdba48925bdfa99a75c07f990163d7e2f78006",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123121$0B0766CC-5686-4E0F-A7B3-7AB65E0760D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=geraud;n=d armagnac;oc=7"
+          },
+          "hash": "ea78411f223bd3b0717118f0809c6553bc642df0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123121$E41F98CF-7F6F-4D63-88CB-E798E29ED528",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Géraud IV of Armagnac Arms.svg"
+          },
+          "hash": "81b4aabbdec704e937667424a85ee38fb75f7c50",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "feudatariu francés (1170–1215)"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμης του Αρμανιάκ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte d'Armagnac"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q123121",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Guerau IV d'Armanyac"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γερόλδος Δ΄ του Αρμανιάκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Géraud IV of Armagnac"
+    },
+    "es": {
+      "language": "es",
+      "value": "Géraud IV of Armagnac"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Géraud IV d'Armagnac"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gerardo IV d'Armagnac"
+    },
+    "la": {
+      "language": "la",
+      "value": "Geraldus IV"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gerolt IV van Armagnac"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Жеро IV д’Арманьяк"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gerolt IV van Armagnac"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Géraud d'Armagnac"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Жеро IV (граф Арманьяк)"
+    }
+  },
+  "lastrevid": 17536302,
+  "modified": "2025-09-17T06:54:37Z",
+  "ns": 860,
+  "pageid": 148587,
+  "sitelinks": {},
+  "title": "Item:Q123121",
+  "type": "item"
+}

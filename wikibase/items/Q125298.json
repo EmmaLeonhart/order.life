@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raymodis"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125298$8F37896A-A5E6-4DAA-A53C-4B8D9764B196",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00141453"
+          },
+          "hash": "85dcc5b93d583011c7ef069dc40547368d3ca7e2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125298$83F08103-D962-417C-BF5D-F4F22801D6F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125300",
+              "numeric-id": 125300
+            }
+          },
+          "hash": "f856848b8a6d70aed8102fde172da4a8e0417778",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125298$066A251C-17D0-4461-A0C3-D39343B567D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125302",
+              "numeric-id": 125302
+            }
+          },
+          "hash": "407585c35443833bc05e190e8262c4fd6ffa276a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125298$314D809C-F548-49E4-A41B-86E99B81C21A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Unknown-546632"
+          },
+          "hash": "94efc297892b4fd211cfd81ab34891f9c099ad5a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125298$ECE3881F-5EC7-4F1E-B74A-9F739FC08CD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125298$5ED3D967-219C-46B8-A3A0-E11F47004420",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125298$A623B5B0-50C4-4687-ADA5-B5F4B782A51B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119834",
+              "numeric-id": 119834
+            }
+          },
+          "hash": "ca39f57c16c68034e2306cf17e0f75f1578e9985",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125298$AA6AEB71-9179-40F9-A502-47F11DE5DC34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125298$42175D3C-D515-4559-88FE-EB4039E8CFEC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1033-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab34aff1ac0c2cc829ff5e1fc2c8a9bd232f555b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125298$0037ADB2-154E-49AB-8738-B9D737ABCC9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100327017"
+          },
+          "hash": "24326b0cac50dea5009b783390a599c8d0d9aa80",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125298$7C5E884C-FDB1-40A6-A40C-45BBDFCD5BA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=raymonde;n=n;oc=17"
+          },
+          "hash": "aed3f3031161254a07fda2713a131f66edf76b54",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125298$5CD64761-9520-4FDB-97B9-378679645B70",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raymodis Arms.svg"
+          },
+          "hash": "a8d0dd773d75a5d4b51d98c4f1cae10664c152b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Wife of Artaud de Forez"
+    }
+  },
+  "id": "Q125298",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Raymodis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Raymonde"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Raymodis"
+    }
+  },
+  "lastrevid": 17538414,
+  "modified": "2025-09-17T07:23:39Z",
+  "ns": 860,
+  "pageid": 151500,
+  "sitelinks": {},
+  "title": "Item:Q125298",
+  "type": "item"
+}

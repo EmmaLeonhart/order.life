@@ -1,0 +1,460 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adala von Bayern"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Adala von Bayern"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Adala von Bayern"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122123$491C64B7-9F68-42A1-8432-119E511E9B0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "150059"
+          },
+          "hash": "730507a7ea62dfb842e90ea477c3dddf563494de",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122123$A110F105-F7F3-4862-83C3-C3CD919B29D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117520",
+              "numeric-id": 117520
+            }
+          },
+          "hash": "aa02880a671b3636824c97268e02e7c007c71383",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122123$6DC9E26F-2F6D-483D-99AC-DBD4FBB463E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122125",
+              "numeric-id": 122125
+            }
+          },
+          "hash": "9a74fd5f2010033d26ee7ac8b8288cd9fe120b27",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122123$B4D242B0-C36B-4C58-AE71-108A6D038F34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122127",
+              "numeric-id": 122127
+            }
+          },
+          "hash": "22e9c38d5ad25fb6eb306fda415ead9f9b77da50",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122123$1D3C3509-E308-4D68-A14B-61CD7825EA83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122129",
+              "numeric-id": 122129
+            }
+          },
+          "hash": "97c6e434845a38135ff4c8139dcc7950f5133083",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122123$9D320970-5EE2-4675-987E-BE63531FEAD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122131",
+              "numeric-id": 122131
+            }
+          },
+          "hash": "07721f02dd1feac58c38e609b362288c66c0cee0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122123$09C4548B-9AB9-4075-9898-F751A722B6E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122123$359F48BA-20AE-4B55-9B51-71DB1C016A4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122123$F3C78508-0F13-4D5F-AC74-BBD46D15F751",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122121",
+              "numeric-id": 122121
+            }
+          },
+          "hash": "f237504a77c3d6e6f90bf425e073415587e39182",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122123$D1484693-BEFE-4F68-B932-2997090E3C7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128203",
+              "numeric-id": 128203
+            }
+          },
+          "hash": "745772d411b3c55f87edd8ea0d72fba4d57127ae",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122123$12EDFEF5-1A04-4076-98B2-7D709ACF906A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125602",
+              "numeric-id": 125602
+            }
+          },
+          "hash": "b022bfd787d4eb2df4c26eb39b576f288efb3357",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122123$450FC372-F301-4C80-987B-55294994E06E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120111",
+              "numeric-id": 120111
+            }
+          },
+          "hash": "ae003b49657aa296229b2ab5e2242df6ab24b7af",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122123$BE52DEC6-4A31-4C64-9527-D074C5A0D357",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122123$7FB30F9F-DCBD-4517-A701-99071D95F648",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0960-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "046750540f633a785fdf704a64d719980f017d38",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122123$F23B95D0-55D2-4207-991C-C197A0096325",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1020-09-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22e48dfaf7f8c3caa30bc3d82cc4cc4fb1e73ca6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122123$61476378-0665-4535-9E61-A658B247EBDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q347089"
+          },
+          "hash": "fc8370bfa099b0a96635183d6b8fc52281d714d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122123$96388385-3784-4CAE-B088-892E41A02CB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adala;n=von bayern"
+          },
+          "hash": "354070f3005d23eb64c0dfbdf66e8b22dabbd05e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122123$D6F2EA94-19B4-4968-A989-AE0A60C6F45F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adala of Bavaria Arms.svg"
+          },
+          "hash": "893dc826d90d08fea46636da30ee1c2c420c82bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Pfalzgräfin von Bayern sowie Gräfin im Chiemgau"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "pfalzgrevinne"
+    }
+  },
+  "id": "Q122123",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Adala von Bayern"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Адала Баварска"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Adala von Bayern"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Adala Bavorská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adala von Bayern"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adala of Bavaria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adala de Baviera"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adala de Bavière"
+    },
+    "it": {
+      "language": "it",
+      "value": "Adala di Baviera"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Adala von Bayern"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adala van Beieren"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Adala de Baviera"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адала Баварская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Adala von Bayern"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Adala von Bayern"
+    }
+  },
+  "lastrevid": 17535312,
+  "modified": "2025-09-17T06:41:23Z",
+  "ns": 860,
+  "pageid": 147251,
+  "sitelinks": {},
+  "title": "Item:Q122123",
+  "type": "item"
+}

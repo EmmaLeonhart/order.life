@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amable de Châtellerault"
+      },
+      {
+        "language": "en",
+        "value": "Amable de Chatellerault"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122839$7BAAEE17-63FE-4CA1-B21D-F54105CD963F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00613013"
+          },
+          "hash": "aead9d8d1ec1377d3aea0c4539b4de7f0462bbcb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122839$AA3422AF-16DD-4319-8F9E-27E99E1DDEAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Châtellerault-26"
+          },
+          "hash": "28a4815b1bfa3764dcf60924e4d26de484b95103",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122839$843370ED-957E-4D8D-81AF-826148FF012A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122839$E6668FAA-783E-455B-A47C-75B15850E83D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122839$EEECD123-54DA-4FF2-BCD2-365F891245B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Amable_de_Châtellerault_(1)"
+          },
+          "hash": "b53b6873f033f9170a15818468adff3b34a03f1b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122839$345DFEE9-0C75-4266-AB17-EE7C7993AFA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120778",
+              "numeric-id": 120778
+            }
+          },
+          "hash": "ee67b0a2e33828560298190a42541b79712c1207",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122839$C622CFC6-29B9-4CD1-ABAC-3BEF77CA9F15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117904",
+              "numeric-id": 117904
+            }
+          },
+          "hash": "700cbfd1c59e02329f7c38a52510e7db3ae8367d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122839$B475A8EC-EC24-4108-80CD-DA9B355E41D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122839$8818D6CC-5882-4D16-A751-E793708C00E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1099-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "63ad819748bedb0bb95ebdae77ef67ad6e7020d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122839$E8B6E15E-40A2-4110-8F9D-11DF0DCFE1CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108526325"
+          },
+          "hash": "8442dff95b96830988d5e108db4776f03ecc414a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q122839$2EA517B0-C639-4FE6-8D5C-F2BD49AF9449",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Amable de Châtellerault"
+          },
+          "hash": "50c8253ee3e734668f859e09d15d0a055ab07575",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122839$571F10E5-7166-4470-AA53-7DE62BDC50C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=amable;n=de chatellerault"
+          },
+          "hash": "3ea6d7348ac82ae783214cec41c24eb8803a3437",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122839$E3C32A5B-5465-43CD-A231-09B3BD426C1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amable de Châtellerault Arms.svg"
+          },
+          "hash": "076924ce50d5b877abd4ab53be01a5193664d9b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1100-"
+    }
+  },
+  "id": "Q122839",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Amable de Châtellerault"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Amable de Châtellerault"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Amable de Châtellerault"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amable de Châtellerault"
+    }
+  },
+  "lastrevid": 17536024,
+  "modified": "2025-09-17T06:50:56Z",
+  "ns": 860,
+  "pageid": 148211,
+  "sitelinks": {},
+  "title": "Item:Q122839",
+  "type": "item"
+}

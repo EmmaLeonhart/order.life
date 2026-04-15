@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sibylle de Bourgogne"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123287$F110E252-E666-4D0E-BBB1-30F53C629C5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1369616"
+          },
+          "hash": "41e46bb7799d609f1de87727a7d1c3eb63793718",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123287$C2CDFF6F-E944-43E3-BDF8-75E577BB92CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "De_Chalon-3"
+          },
+          "hash": "9514f6e1ba0dc5b35b0e844c9dfbb1bf3b88653b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123287$07F164C4-4E57-44FC-8B46-000DD5137595",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123287$89C16D1A-5E52-4AD5-8432-485B34F381C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123287$17A1332F-1857-4125-A164-C04369FCCE8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124639",
+              "numeric-id": 124639
+            }
+          },
+          "hash": "e5d9dc5e603f87129b90e418b03436bebae8b174",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123287$F4A5BF82-B51A-4E71-A08A-FCC148EC5E62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118150",
+              "numeric-id": 118150
+            }
+          },
+          "hash": "13bc542daca3cbe47f9771b5e7ada1a91b1c189e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123287$F2747924-5425-49F4-A01D-53598E551A4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123287$90DF6AEC-FE7E-4243-8C42-2CDAF2403E49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f82d11c2e3d6b2be63a94106db53bfaaa89adbfa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123287$5BDAC241-A3A9-4B26-AF9B-9F8154DF144E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2fbafe9a52f6e4cadbe5dd20066eaecab67a53",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123287$B8D2286D-E677-4C74-ACD2-89CD2AAF0375",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106779331"
+          },
+          "hash": "5af5b380cf08d1f4f7f37a2a17becb0ef7431f5f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q123287$3111FE55-B80C-420C-AEAC-EFB82FCCCA50",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sibylle de Bourgogne"
+          },
+          "hash": "41474246beccce87cc3b8478b9d0d4922dea0b31",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123287$DC800822-2F5E-460A-A615-CDAD398396A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=sibylle;n=de bourgogne;oc=2"
+          },
+          "hash": "c949adf5b4d1efc65362cb4fa475627f08b51dd4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123287$DEC832EF-964E-48FC-AA71-E1DF6A8DA7ED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sibylle de Bourgogne Arms.svg"
+          },
+          "hash": "d3b212da1a74f9cb83a26479ab30c69634947fbb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1152-1201)"
+    }
+  },
+  "id": "Q123287",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sibylle de Bourgogne"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sibylle de Bourgogne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sibylle de Bourgogne"
+    }
+  },
+  "lastrevid": 17536468,
+  "modified": "2025-09-17T06:56:47Z",
+  "ns": 860,
+  "pageid": 148809,
+  "sitelinks": {},
+  "title": "Item:Q123287",
+  "type": "item"
+}

@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Conon, Count of Montaigu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q126892$8D1588DD-D7CA-4C61-A56C-21F5EB239D64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128787",
+              "numeric-id": 128787
+            }
+          },
+          "hash": "3b93c2e95beb905b992e5d6a94f9285f8c703f03",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126892$501EBDD5-554A-468D-BEB4-AF260D681F7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146792",
+              "numeric-id": 146792
+            }
+          },
+          "hash": "2984b1c6d5dc9087816a4e92a838db32b3df68ba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126892$86E65B65-B1E3-4DCB-B64B-C431ABC75773",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montaigu-12"
+          },
+          "hash": "5b1457a672ce4917e8076effefaf20198280f185",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126892$CC68D382-3F27-4EBF-A5FF-A683019B2C61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126892$B7E8AA49-38EF-44A2-A0C6-8CF685B3D78C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126892$E5E75D42-56EF-4B04-A25E-CAC7036F0E04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121203",
+              "numeric-id": 121203
+            }
+          },
+          "hash": "da3ade40440b1a91f89ca40854eed4ffeb23087d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126892$6884E672-0EEA-41F3-B09D-9258D265FE4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146791",
+              "numeric-id": 146791
+            }
+          },
+          "hash": "cfda1c925a695d458fb791c0e1954fc13339033e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126892$284B1FE8-5C25-4AB0-830E-185E62994961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126892$B2172598-2372-4FEF-BE18-F24DD27391EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1106-05-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "549e3dbb388405ce4323608be3ef979f68ecafe3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126892$70BA811F-591C-475E-A684-8E415A97E6C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26223011"
+          },
+          "hash": "70acaa6579529b7fef6d50365625a06f6935e1c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126892$2AF1DC3C-4D5C-4FA3-A4E8-46A57AEC30CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=conon;n=de montaigu"
+          },
+          "hash": "e8c268d0cb5f017a9bc67d9c0e4bb498c467f531",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126892$AA96FB73-2AF6-4374-AB84-39E8CAFF8191",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Conon, Count of Montaigu Arms.svg"
+          },
+          "hash": "9c6e092e8c2ca801910000a65554861b3b839219",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "lotharingian nobleman and military leader"
+    }
+  },
+  "id": "Q126892",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Conon, Count of Montaigu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Conon, Count of Montaigu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Conon, Count of Montaigu"
+    }
+  },
+  "lastrevid": 17539993,
+  "modified": "2025-09-17T07:45:54Z",
+  "ns": 860,
+  "pageid": 153635,
+  "sitelinks": {},
+  "title": "Item:Q126892",
+  "type": "item"
+}

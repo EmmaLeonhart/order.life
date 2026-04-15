@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugo von Boves"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126173$4DCF381F-6AC0-4240-8FE2-7316D81DC164",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126173$549C50ED-C899-485A-BD7B-DF3EDB585675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126173$394EC6A3-B598-432B-8DA5-CA1C475260AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120594",
+              "numeric-id": 120594
+            }
+          },
+          "hash": "0ea6e5e35f2331c98533d6898ce82359c343bef3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126173$151197BA-5C8E-4FAD-ADFB-0E5C627D3F0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126173$B67E37CE-11BB-4445-9C17-A35F4F323F3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126173$A1B9697F-053E-4D8C-A71C-7A5C0593B2C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1215-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2216b7a86cd8589873e5bccbbf07051456a86761",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126173$5F710134-F1E1-4262-B2E0-770BCD306A5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1635918"
+          },
+          "hash": "c77d4471d3347fc5ab223cb7d932d977fcbf1ddb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q126173$C0EB1C13-8C84-4797-A66B-C10EA9900956",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugo von Boves"
+          },
+          "hash": "3de978df9113d4e3fd5714a51b31e853bd2a8faa",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126173$D014FDBA-D1B8-4CA8-9BDE-46D94057E01F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugo von Boves Arms.svg"
+          },
+          "hash": "0af86052137f1dd81b519df15171d38a7f488aad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "französischer Ritter"
+    },
+    "en": {
+      "language": "en",
+      "value": "French knight"
+    }
+  },
+  "id": "Q126173",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hugo von Boves"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hugo von Boves"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hugo von Boves"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hugo von Boves"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hugo von Boves"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hugo von Boves"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hugo von Boves"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hugo von Boves"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hugo von Boves"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Hugo von Boves"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hugo von Boves"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hugo von Boves"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hugo von Boves"
+    }
+  },
+  "lastrevid": 17539278,
+  "modified": "2025-09-17T07:35:49Z",
+  "ns": 860,
+  "pageid": 152672,
+  "sitelinks": {},
+  "title": "Item:Q126173",
+  "type": "item"
+}

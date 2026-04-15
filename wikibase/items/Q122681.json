@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Phillip II. von Wildenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122681$166A01B7-CC30-4306-B34B-4C7663D07D72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00209001"
+          },
+          "hash": "e95c6e9cb25cb7814f180b9ebe3958ec01a49c57",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122681$F6FF688F-8E87-46D4-96E8-36334907CFBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129041",
+              "numeric-id": 129041
+            }
+          },
+          "hash": "1c118adc5a4890325dbbc6dccce750ffc25a22e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122681$C41CB62A-A7DE-4FEA-A1FB-E98DC5A94F36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122681$93FC2B1E-27A1-495F-9529-2F333372E9C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122681$DB8B2CF3-B06A-4A13-B08B-1BB144706718",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129039",
+              "numeric-id": 129039
+            }
+          },
+          "hash": "34e9e6a6c410d8186abaf1d6e4b374a0a1fadb28",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122681$FA202EAD-6806-4D68-90ED-1FC1A34D4D05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117788",
+              "numeric-id": 117788
+            }
+          },
+          "hash": "031883120dbdc1ed8d89f28f94eb5fc1dcb809f0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122681$C86632AD-1DCF-49F1-88B8-2C951B30A910",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122681$F5D90BF6-A51E-4606-BB8E-E8E8CA9052C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122681$166CED52-963F-4C6B-B0FA-80CC80656143",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1277-12-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7d6f1fb011419a078b6bac285804eb24db5da34",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122681$69C4141F-365F-4DA5-8C96-D904F45D3048",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15840432"
+          },
+          "hash": "530a2f68c987b8ab31b58eb9587b79ac54c1356c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122681$55F65CAE-55DE-483B-9E23-930F6D2F2A89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phillip II. von Wildenburg Arms.svg"
+          },
+          "hash": "e3c5c45608b1457ac31163110297492abccd7e48",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata alemán (1250–1277)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata alemany"
+    },
+    "de": {
+      "language": "de",
+      "value": "deutscher Ritter"
+    },
+    "en": {
+      "language": "en",
+      "value": "German knight"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata alemán"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata alemaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate allemand"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata alemán"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aristocraat (?-1277)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata alemão"
+    }
+  },
+  "id": "Q122681",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филип II фон Вилденберг"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp II. von Wildenburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Phillip II. von Wildenburg"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Phillip II. von Wildenburg"
+    }
+  },
+  "lastrevid": 17535868,
+  "modified": "2025-09-17T06:48:52Z",
+  "ns": 860,
+  "pageid": 147999,
+  "sitelinks": {},
+  "title": "Item:Q122681",
+  "type": "item"
+}

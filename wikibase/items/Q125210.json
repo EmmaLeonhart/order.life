@@ -1,0 +1,329 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert of Caiazzo"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125210$8FA557C2-67D4-4301-88B3-3C59881BEEA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00195680"
+          },
+          "hash": "759dc743de1fc9d45349de677206648587b6d68d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125210$AF22AA43-61B6-4137-B48C-C52B7C3D592D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123383",
+              "numeric-id": 123383
+            }
+          },
+          "hash": "205e3be9124ab3ba023ce3c59d634a3f30dc127e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125210$29B63907-907A-45B1-9631-54D88D92CA07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119780",
+              "numeric-id": 119780
+            }
+          },
+          "hash": "56814378300f946ceba8c233ac4e96e6ce2ec120",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125210$DF351019-4D49-4BA3-9A99-4FD3A864C5B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146872",
+              "numeric-id": 146872
+            }
+          },
+          "hash": "f0c900a1c87bf872d46428fad500755c411c39b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125210$706429C3-9E07-4AE9-84DD-7061EF6FFB3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125210$9377A840-6438-45CA-9DFD-F27AD7CD1384",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125210$9B483D71-1ECC-4B54-9EEC-F03B19D566A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125807",
+              "numeric-id": 125807
+            }
+          },
+          "hash": "9799e4b71e4ddd697497105c72e81d522744998a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125210$E793A99C-2D79-4B8E-A143-FB77EC670A3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125210$6F00C92C-E608-4B2F-999F-4152E3376AAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1065-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75cc4e203cc7709dc1d5b5d6351c06b2350fe517",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125210$46A8AF10-F18E-438C-961C-A4390F2850DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1115-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4acc9cd4e7cf57173b362efc0b57c2d47faede02",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125210$C7EF9D08-E3CB-4B74-B10E-754351AA3E89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3939250"
+          },
+          "hash": "5a144060a579106131e5e40f54cade2c2aa1fabf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125210$A7713301-D5F7-46E5-99B5-659DC2E75E88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=roberto;n=di aversa"
+          },
+          "hash": "bae32076342191fc1bab40fb4ce6d20dbed47bbc",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125210$5314C74F-2AB5-4B16-9458-532C7A90F33C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert of Caiazzo Arms.svg"
+          },
+          "hash": "b416beadc5991475fdd394df8b3d54cdb83d3a23",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian nobleman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte d'Alife"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile normanno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q125210",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "روبرتو دى اليفى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Roberto di Alife"
+    },
+    "de": {
+      "language": "de",
+      "value": "Roberto di Alife"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert of Caiazzo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Roberto di Alife"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert d'Alife"
+    },
+    "it": {
+      "language": "it",
+      "value": "Roberto di Alife"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Roberto di Alife"
+    }
+  },
+  "lastrevid": 17538344,
+  "modified": "2025-09-17T07:22:44Z",
+  "ns": 860,
+  "pageid": 151382,
+  "sitelinks": {},
+  "title": "Item:Q125210",
+  "type": "item"
+}

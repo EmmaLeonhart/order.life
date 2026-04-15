@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Juan Pérez de Guzmán"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123505$A7BFE8C2-E48A-438A-B2EF-EC88C8062A35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00461282"
+          },
+          "hash": "0e27952b35dc90de2c64f7837bfd461940c1db75",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123505$61DB6F7A-0E82-45F6-8607-C3732BF174D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123507",
+              "numeric-id": 123507
+            }
+          },
+          "hash": "ed072b3151528051e7a96b95091b8b1f6f27dab4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123505$B5D21CBC-BDA1-477F-A1AD-A90E10FDD6A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123505$5D826A75-3B61-4F58-AD03-AE82240D8BD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123505$FEAE1876-C29B-4E31-B266-5C4B38483E78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118354",
+              "numeric-id": 118354
+            }
+          },
+          "hash": "fb82df8cc0a8b1b8364b57dafbc15db7f1a5ac31",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123505$EFCFE942-6340-4E96-A445-547E1130D0B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124321",
+              "numeric-id": 124321
+            }
+          },
+          "hash": "7eac5cee1a489dbb4fe0cfb6475fc462ad951796",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123505$B09C4CFB-BF5F-4875-96CB-C00F73061E51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123505$897A50D6-5CDE-4D6A-8092-F08CFA2BF604",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1240-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "678b6e0cdcafb5167c4b46f099017731ef6b0378",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123505$04798099-133D-4E5A-9571-07B4C2110022",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1285-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3bab0b334a1d0b458e90d73f99de8aa2d830b7b7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123505$113677D0-C532-41E7-9217-29513166D7D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10312071"
+          },
+          "hash": "79096cc258882d8780fdd5a2ef32ef4a9a97128f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123505$79503A21-F891-48FD-958B-FD007923C776",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Juan Pérez de Guzmán Arms.svg"
+          },
+          "hash": "c2a0569c1e8ca0b197740097f0d1bcafaa1d7a5c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 1285"
+    }
+  },
+  "id": "Q123505",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Juan Pérez de Guzmán"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Juan Pérez de Guzmán"
+    },
+    "en": {
+      "language": "en",
+      "value": "Juan Pérez de Guzmán"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Pérez de Guzmán"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Juan Pérez de Guzmán"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Juan Pérez de Guzmán"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Peres de Gusmão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Peres de Gusmão"
+    }
+  },
+  "lastrevid": 17536688,
+  "modified": "2025-09-17T06:59:39Z",
+  "ns": 860,
+  "pageid": 149101,
+  "sitelinks": {},
+  "title": "Item:Q123505",
+  "type": "item"
+}

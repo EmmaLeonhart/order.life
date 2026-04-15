@@ -1,0 +1,359 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hartwig II, Bishop of Regensburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122157$1B4EAEA5-003D-4EDC-AE2A-5CDF70EE1F0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00545568"
+          },
+          "hash": "f59a65ea8e3a07e959b9ecc7efa5925228b65f25",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122157$10FB4A54-F56F-4BD8-B1B1-5BD6F7C94264",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122157$80483278-4D6A-4A78-86D4-95F58AD51818",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122157$8C36932A-7CFB-4F66-9AA8-646A6AB1F860",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hartwig_von_Sponheim_(3)"
+          },
+          "hash": "ecca490c400e564d95b0eeeecec22a8bb477d1bc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122157$BEB03B9E-A05E-45C3-A4AE-ADAC25975C23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122153",
+              "numeric-id": 122153
+            }
+          },
+          "hash": "d0650c6f8214ce94dc92b0aa8703bd005779b88b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122157$75CCAD16-0A38-492C-927A-6F87F5F41DBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117528",
+              "numeric-id": 117528
+            }
+          },
+          "hash": "0d2a073e0fdd79df6bb9462ad553b7261752cdcc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122157$261ED5ED-460B-4DC7-95BC-FD81C8682922",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122157$FD319174-8F37-4142-8E09-179ACAC00755",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122157$612FFC3E-0D2A-499C-954A-2B869C07616E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1164-08-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1535c7cd080356dde1561e5be478d8978ad4d3df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122157$1F8A2964-C397-45CE-8072-63CFFE62F270",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1587750"
+          },
+          "hash": "18a8176be9702054e3d7a1e312924f999ac74755",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122157$4B4F9B43-1779-4AA6-9C6C-7C580322BE8C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hartwig II, Bishop of Regensburg Arms.svg"
+          },
+          "hash": "baaacb76a0a0ef558e8a9da21ba5ad04dba9d2a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Regensburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "German prince-bishop and deacon"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Ratisbonne"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits Prins-bisschop (?-1164)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "episcop de Regensburg"
+    }
+  },
+  "id": "Q122157",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hartwig von Ortenburg"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хартвиг II фон Спанхайм"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hartwig II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hartvík II. Ortenburský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hartwig II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Hartwig II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Hartwig II, Bishop of Regensburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hartwig II."
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hartwig II."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hartwig II d'Ortenburg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hartwig II."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハルトヴィヒ2世・フォン・シュポンハイム"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hartwig II."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hartwig II van Regensburg"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hartwig II."
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hartwig II."
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hartwig al II-lea"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hartwig II, Bishop of Regensburg"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hartwig II."
+    }
+  },
+  "lastrevid": 17535346,
+  "modified": "2025-09-17T06:41:52Z",
+  "ns": 860,
+  "pageid": 147296,
+  "sitelinks": {},
+  "title": "Item:Q122157",
+  "type": "item"
+}

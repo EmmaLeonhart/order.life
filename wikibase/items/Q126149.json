@@ -1,0 +1,410 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Erispoe"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126149$EC21CCB5-C780-47F2-8328-F23B2D20508A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "141035|144737|1371287"
+          },
+          "hash": "1cd80637023bdbbd8a23bce3e71b8972f189016f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126149$FEAB825C-7CC2-4C43-8543-A16F389D7449",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120576",
+              "numeric-id": 120576
+            }
+          },
+          "hash": "e878b568c20d2eb583e710a5b81d3d8f2675ea7c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126149$705BD0D4-03D6-4C2D-B8B7-3D923F9BED8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bretagne-50"
+          },
+          "hash": "c566449a85eafd1253ec250a96b9315b82e37927",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126149$9100257C-44C1-494E-8EC4-DC1625EAC93B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126149$17B7C513-D1A5-47D9-8624-F944FA9B776B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126149$5B75FA85-3C43-470F-8F62-5D26D9F1452B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Erispoe_(1)"
+          },
+          "hash": "0d728cb874fd62f736ae2c3da14459213066ba48",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126149$24CF3DDB-AD56-490B-A8E0-2875045D4F1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126151",
+              "numeric-id": 126151
+            }
+          },
+          "hash": "5ed802131ea09156d211af4e31781069e6314ab2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126149$A2A7CA88-E1CB-413A-936A-5068263DF29E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140899",
+              "numeric-id": 140899
+            }
+          },
+          "hash": "75531347714964908aca8c97f1157dab104c5c91",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126149$29590A5C-0223-477E-B55D-0ABA0BEEF2F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126149$7A0187F7-BD8A-4F9E-BF8C-A0D873F869BF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126149$743C365C-12E1-4BF6-B210-12CF97177F5D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0857-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "207edeefea3be3a4c47643af29baa8abc65e9b11",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126149$C0547A73-71C0-4212-A561-B5F910894B3F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q763516"
+          },
+          "hash": "cb676ce52e9bbf91a0e579c7084e66852083f114",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126149$F6DF47F9-0745-44B1-8A7D-E800A1BCF2CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=erispoe;n=de bretagne"
+          },
+          "hash": "e78aaa993ca9d47294a62c194c00be9c0011c5e7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126149$8C33026A-B7B3-45FE-8171-C062326CDAB3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Erispoe Arms.svg"
+          },
+          "hash": "33afbb586e7761e69a80570a8768f1323462e15e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "roue Breizh"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Llydaw"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Brittany"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Bretagne"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "ree yn Vritaan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "hertig av Bretagne"
+    }
+  },
+  "id": "Q126149",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Erispoe"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Erispoe"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Erispoe"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερισπόε"
+    },
+    "en": {
+      "language": "en",
+      "value": "Erispoe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Erispoe"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Erispoë"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Erispoe"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Erispoe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Erispoë"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エリスポエ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Erispoe"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erispoë"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Erispoe"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Erispoë"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Erispoë"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эриспоэ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Erispoe"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Erispoe"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Erispoe av Bretagne"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Еріспое"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃里斯波"
+    }
+  },
+  "lastrevid": 17539256,
+  "modified": "2025-09-17T07:35:32Z",
+  "ns": 860,
+  "pageid": 152639,
+  "sitelinks": {},
+  "title": "Item:Q126149",
+  "type": "item"
+}

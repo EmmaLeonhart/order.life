@@ -1,0 +1,599 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Leszek I the White"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q122045$3A2CB58D-4E2B-417B-88A8-126E442B8BDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128107",
+              "numeric-id": 128107
+            }
+          },
+          "hash": "f5b1f30fbaef98c79a7de6f2861599b732f9205b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122045$0C8649FC-FAB1-451E-B958-14A28581E33C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54327",
+              "numeric-id": 54327
+            }
+          },
+          "hash": "2750010fb1bfb234719e864b1061b6cac895a7e1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122045$384CDA2C-E43F-4E4A-8CAB-4764446C1831",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122045$72120241-4603-45DD-B4A6-B38BA9D0760C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122045$DD124653-3737-48F4-9552-870E1625BFBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128105",
+              "numeric-id": 128105
+            }
+          },
+          "hash": "0380d3fb681e654b2b655112d12b971a23752a2e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122045$AA031F07-F64A-489F-A205-D95202821372",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117447",
+              "numeric-id": 117447
+            }
+          },
+          "hash": "0a89643d35f953e3352e560d83202b1aa37fc244",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122045$9679E30E-301B-4A24-9D65-73FEA298ECD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122039",
+              "numeric-id": 122039
+            }
+          },
+          "hash": "a0320a2633b93b5f6a2c29bc31fb06047c81b6ea",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122045$5310633B-D6C0-41B9-8A0D-4F1389B0C610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122045$FAC3007F-CCBC-40A4-A9FA-D6BBCBC670C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1186-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14612464d828c20e5b038a880c490edb2bf26a93",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122045$2A8FD3E9-6580-48B5-B434-2E16F61ADA45",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1227-11-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e4f03688ea302b009ed2574c94a51c7d44a187c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122045$D09A83A7-4C93-4809-84FD-ACC0BF6DA1BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30421"
+          },
+          "hash": "5514b6bc1461a5211cf0f375b156105b3ceeae88",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q122045$69EFF5B7-A2A5-4B1A-8E7B-726117A5AFDE",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lamut"
+          },
+          "hash": "660cdcd287be945f3f1165c6a1a84ec451d935ee",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122045$F27C2D8A-58CC-4490-9C50-B8777CDB6CB5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lamut Arms.svg"
+          },
+          "hash": "2d139523ca665dd55d94be47fdd5bea939faa8cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "بلدية في ايفوغايو، الفلبين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "conceyu de Filipines na provincia d'Ifugao"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gemeinde auf den Philippinen"
+    },
+    "en": {
+      "language": "en",
+      "value": "municipality of the Philippines in the province of Ifugao"
+    },
+    "es": {
+      "language": "es",
+      "value": "municipio de Filipinas en la provincia de Ifugao"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "commune des Philippines"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "ili idiay probinsia ti Ifugao, Pilipinas"
+    },
+    "it": {
+      "language": "it",
+      "value": "municipalità di Quarta classe filippina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "gemeente in de Filipijnse provincie Ifugao"
+    },
+    "pag": {
+      "language": "pag",
+      "value": "Baley na Pilipinas ed luyag na Ifugao"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "bayan ng Pilipinas sa lalawigan ng Ifugao"
+    }
+  },
+  "id": "Q122045",
+  "labels": {
+    "ami": {
+      "language": "ami",
+      "value": "Lamut"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Lamut"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Lamut"
+    },
+    "ban": {
+      "language": "ban",
+      "value": "Lamut"
+    },
+    "bbc": {
+      "language": "bbc",
+      "value": "Lamut"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Lamut"
+    },
+    "bjn": {
+      "language": "bjn",
+      "value": "Lamut"
+    },
+    "bto": {
+      "language": "bto",
+      "value": "Lamut"
+    },
+    "bug": {
+      "language": "bug",
+      "value": "Lamut"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lamut"
+    },
+    "cbk-zam": {
+      "language": "cbk-zam",
+      "value": "Lamut"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Lamut"
+    },
+    "cps": {
+      "language": "cps",
+      "value": "Lamut"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lamut"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lamut"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Lamut"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lamut"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lamut"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lamut"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lámut"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Lamut"
+    },
+    "fj": {
+      "language": "fj",
+      "value": "Lamut"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lamut"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lamut"
+    },
+    "gor": {
+      "language": "gor",
+      "value": "Lamut"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Lamut"
+    },
+    "hil": {
+      "language": "hil",
+      "value": "Lamut"
+    },
+    "ho": {
+      "language": "ho",
+      "value": "Lamut"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lamut"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Lamut"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Lamut"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lamut"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Lamut"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Lamut"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლამუტი"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Lamut"
+    },
+    "krj": {
+      "language": "krj",
+      "value": "Lamut"
+    },
+    "map-bms": {
+      "language": "map-bms",
+      "value": "Lamut"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Lamut"
+    },
+    "mi": {
+      "language": "mi",
+      "value": "Lamut"
+    },
+    "min": {
+      "language": "min",
+      "value": "Lamut"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Lamut"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lamut"
+    },
+    "na": {
+      "language": "na",
+      "value": "Lamut"
+    },
+    "nah": {
+      "language": "nah",
+      "value": "Lamut"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lamut"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Lamut"
+    },
+    "om": {
+      "language": "om",
+      "value": "Lamut"
+    },
+    "pag": {
+      "language": "pag",
+      "value": "Lamut"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Lamut"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lamut"
+    },
+    "pwn": {
+      "language": "pwn",
+      "value": "Lamut"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Lamut"
+    },
+    "sm": {
+      "language": "sm",
+      "value": "Lamut"
+    },
+    "su": {
+      "language": "su",
+      "value": "Lamut"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lamut"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Lamut"
+    },
+    "szy": {
+      "language": "szy",
+      "value": "Lamut"
+    },
+    "tet": {
+      "language": "tet",
+      "value": "Lamut"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Lamut"
+    },
+    "tpi": {
+      "language": "tpi",
+      "value": "Lamut"
+    },
+    "ty": {
+      "language": "ty",
+      "value": "Lamut"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lamut"
+    },
+    "war": {
+      "language": "war",
+      "value": "Lamut"
+    },
+    "xh": {
+      "language": "xh",
+      "value": "Lamut"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Lamut"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Lamut"
+    }
+  },
+  "lastrevid": 17535234,
+  "modified": "2025-09-17T06:40:20Z",
+  "ns": 860,
+  "pageid": 147146,
+  "sitelinks": {},
+  "title": "Item:Q122045",
+  "type": "item"
+}

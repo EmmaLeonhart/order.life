@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kuno II. von Rott"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122147$1E1FF714-2AE1-4FEA-BE26-5E66E891DA2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00619350"
+          },
+          "hash": "5fabdbbdb0270d14eedd94dec9387dc9c534c436",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122147$E072843C-E25C-4997-B935-FE1983E4E559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122147$6BE928A7-5E6A-46F2-B86C-970D91F8F9B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122147$F3942A70-E489-4DF5-A77D-B7A2F379662C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Kuno_von_Rott_(1)"
+          },
+          "hash": "7e331b2aa223813bb1707113e79e12dbe789981f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122147$FAD344AE-8F44-4DBE-8A7B-035109E33E08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117524",
+              "numeric-id": 117524
+            }
+          },
+          "hash": "57d5f55e83f18913f8a990a78a131ac607d615b5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122147$AD7F40A7-1FCE-4098-99F7-D4CD67E047AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126813",
+              "numeric-id": 126813
+            }
+          },
+          "hash": "48c933286a80365008e944f8581c495b3cab0a09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122147$49B7CDFC-54A1-45A7-89E0-D77B26752A43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126815",
+              "numeric-id": 126815
+            }
+          },
+          "hash": "b5a8ca2c42ff4c8ea5d88732c9df7bf6c67e3624",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122147$48767FC7-AEBF-48A4-A05F-3447FB5733A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122147$787F614F-3F04-41E7-B7D0-03258A378054",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122147$ADB83E9E-8D10-4FE0-A203-09C5DF8DF5CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1081-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74dd5aa2e9db709b98cac0f96a2c659da819b09e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122147$6B28BE99-C2EA-496C-AB41-1F8A97CAC337",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20180550"
+          },
+          "hash": "c35cfd6a386e596f2e6b3d522fe9a95eb570e0dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122147$5ACFD069-EC9A-4C58-8D1F-183E44F5CC55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kuno II. von Rott Arms.svg"
+          },
+          "hash": "2ece8aded323018fa22dabd8527adc2fdae0e261",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Letzter Graf von Rott"
+    }
+  },
+  "id": "Q122147",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kuno II. von Rott"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Куно II фон Рот"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kuno II. von Rott"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kuno II. von Rott"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cuno II di Rott"
+    }
+  },
+  "lastrevid": 17535336,
+  "modified": "2025-09-17T06:41:43Z",
+  "ns": 860,
+  "pageid": 147283,
+  "sitelinks": {},
+  "title": "Item:Q122147",
+  "type": "item"
+}

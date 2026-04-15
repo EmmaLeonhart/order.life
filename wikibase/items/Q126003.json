@@ -1,0 +1,441 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Simon de Crépy"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Simon de Vexin"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Simone di Crépy"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126003$118A3EA8-FCFE-47A6-AA51-9313E27638D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "34698"
+          },
+          "hash": "1bd252642557145ee04e324ad77dbab052f791ad",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126003$F58413C2-6EEB-476A-BC29-626F9AF9AE41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00198143"
+          },
+          "hash": "bb33a7e99120fbfe39317500457acedcc7de138b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126003$E23A9205-FC00-4C9E-A296-2876B7A120B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126003$310CCDF8-CB3D-4713-9300-E139BD1E3281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126003$20121239-952F-4E91-B345-7AE9995A5606",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Simon_Unknown_(17)"
+          },
+          "hash": "a50e2fa899c3f5465a46aa11b787bd86e0409507",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126003$1D941BBE-E710-4F31-82C2-A547F3DFE6C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120440",
+              "numeric-id": 120440
+            }
+          },
+          "hash": "e180d1f58c0bf5df57ba52d4e7830161215c4db0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126003$EBCBDFA7-D875-4DF0-8741-0A42CD329116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120730",
+              "numeric-id": 120730
+            }
+          },
+          "hash": "db698c178acfe5aade7554c2d5ef6ddbb637a6d0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126003$8037987A-9977-4E91-A8CE-946A629FEF83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126003$6E2C462C-0A4A-4665-BBFF-C81FB740C766",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1048-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5397569e5025fc51e92be680ee10e6bb912967f3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126003$9679D246-DFA6-4C9A-BF2F-7DC6742C47B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1082-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b25e2ca22618eb0cc5090b884db7c325799d65ac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126003$3D4D928F-6BA1-4325-9BA2-8EC59021AA47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q176550"
+          },
+          "hash": "d5084a277ff5f90c7b89cce4030373611897aef2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126003$3A1D63DE-54C5-43EC-8331-60C82D30116B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=simon;n=de crepy"
+          },
+          "hash": "9949022d97ce3269812e68717e0ac7ab17c83844",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126003$368ECD14-F13A-482E-AAD2-DB6F21C1CFDC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Simon de Valois Arms.svg"
+          },
+          "hash": "c2d99a84ea044bc459a11d65db0d3202c2bb91d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قديس كاثوليكى من فرنسا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote católicu francés (1048–1082)"
+    },
+    "de": {
+      "language": "de",
+      "value": "französischer Adliger und Widersacher von Philipp I."
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Ραλφ Δ΄ του Βαλουά"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint, Count of Amiens, Count of Bar-sur-Aube, Count of the Vexin and of Valois"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint, comte d'Amiens, comte de Vexin, comte de Bar-sur-Aube et comte de Crépy et de Valois"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Grof Vexina i Valoisa"
+    },
+    "it": {
+      "language": "it",
+      "value": "religioso francese"
+    },
+    "la": {
+      "language": "la",
+      "value": "monachus Ordinis Sancti Benedicti"
+    }
+  },
+  "id": "Q126003",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيمون دى كريبى"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Simó de Vexin"
+    },
+    "da": {
+      "language": "da",
+      "value": "Simon de Vexin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Simon von Crépy"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σιμόν ντε Κρεπί"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Simon de Valois"
+    },
+    "es": {
+      "language": "es",
+      "value": "Simon de Crépy"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Simon de Vexin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "S. Simon de Vexin"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Šimun od Crepyja"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Simon de Vexin"
+    },
+    "it": {
+      "language": "it",
+      "value": "San Simone di Crépy"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シモン・ド・クレピー"
+    },
+    "la": {
+      "language": "la",
+      "value": "Simon comes Crespeiensis"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "San Simone"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Saint Simon"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Simon de Vexin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Simon van Vexin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Simão de Crépy"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Simão de Crépy"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Simon de Crépy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Симон де Вексен"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Simon de Crépy"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Simon de Vexin"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Simon de Crepy"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Simon de Vexin"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Simoni wa Crepy"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Simon de Vexin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西蒙・德・克雷皮"
+    }
+  },
+  "lastrevid": 17539114,
+  "modified": "2025-09-17T07:33:02Z",
+  "ns": 860,
+  "pageid": 152443,
+  "sitelinks": {},
+  "title": "Item:Q126003",
+  "type": "item"
+}

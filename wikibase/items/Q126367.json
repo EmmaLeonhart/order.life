@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q1553582"
+      },
+      {
+        "language": "en",
+        "value": "Guy IV of Limoges"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126367$1A19C458-9F63-44C3-A74B-2B24788CE717",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00473465"
+          },
+          "hash": "0a06535af0843a16f852d47da75f702a69590aaa",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126367$58912E55-F220-4214-AB20-CE0C18FAD517",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126367$35D67FE2-683A-434C-8C70-ED19311F724E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126367$4A7B3E5B-0A00-4792-9A5C-EFBC726FF4E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125815",
+              "numeric-id": 125815
+            }
+          },
+          "hash": "a84edb5611f240cd1711f33a68cccd60a30352e1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126367$B818DABE-229D-46EF-9230-FFFE3EBE5208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120768",
+              "numeric-id": 120768
+            }
+          },
+          "hash": "a18b9ac856144d5168b71cbd56e216f5c26f6323",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126367$F713F736-FFC8-488A-81E9-39574BDB6550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126367$55DC5C6D-2750-4ED4-8574-283870DE5D8B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126367$A6CEE300-D04B-4CEB-87CE-29FA461787C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1148-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a87d400653ed557f99e78fe011048a69cdd1765",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126367$ABE4A776-0D9D-43EE-A4C1-1F3DE2E45A4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1553582"
+          },
+          "hash": "284face5d914cf1c8a346abbed4423522632444c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126367$756F41FE-1E88-4E93-A77A-9D30B8A3C950",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guy;n=de comborn;oc=2"
+          },
+          "hash": "c6aa1162bba33fef4b22e03702a9d600468f31a5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126367$CC4509E0-A1D5-4958-B027-3595167A9AC7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guido IV. Arms.svg"
+          },
+          "hash": "fd514ac8500124e2c063ed67c61c89305b495b2c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Vizegraf von Limoges"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "vicomte de Limoges"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "виконт Лиможа"
+    }
+  },
+  "id": "Q126367",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Guido IV."
+    },
+    "en": {
+      "language": "en",
+      "value": "Guido IV."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guy IV de Limoges"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Guy IV de Limoges"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guido IV."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ги IV"
+    }
+  },
+  "lastrevid": 17539472,
+  "modified": "2025-09-17T07:38:21Z",
+  "ns": 860,
+  "pageid": 152932,
+  "sitelinks": {},
+  "title": "Item:Q126367",
+  "type": "item"
+}

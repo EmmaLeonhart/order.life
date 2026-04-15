@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henri of Lorraine"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q122305$58947C01-D0E1-4607-AEDE-EB8465D040D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122305$A4516E58-4E7B-4EAE-A411-5862223E4604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122305$92DDFDE8-667D-4F58-BCF8-71F187CC6662",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henri_de_Lorraine_(1)"
+          },
+          "hash": "b602b7b5d2d5971d31c6a5dd7b2b695d58692590",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122305$80838BDF-816F-475B-A080-2D19235D3F8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117600",
+              "numeric-id": 117600
+            }
+          },
+          "hash": "976a4f2eb6517e96e628a9c4f87500aa32dddfab",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122305$4EF53A55-274B-4C66-9383-2B35ECFCE549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120462",
+              "numeric-id": 120462
+            }
+          },
+          "hash": "ec7486da4517808e4713023e2dd7d0015eac1070",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122305$561DEFC0-3BEB-4711-9585-A6647402A134",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122305$7A365CCA-72DC-444E-A845-8394FBEFE7BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1165-06-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c18ac345e7f3c31fbf337c91b0c504c6666f3f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122305$CA06C86E-5779-4A55-876A-6A2E2C3A6E9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3132315"
+          },
+          "hash": "fc90f4ef041c30734240ab8225547953a8760806",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122305$469330D0-2CB1-4087-AC8D-A5630B018FA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=henri;n=de lorraine;oc=1"
+          },
+          "hash": "595aec174b3121baef472b16be769c918410991a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122305$D2C0371F-3FE6-42B2-8B6D-EAB6F92EA0B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henri of Lorraine Arms.svg"
+          },
+          "hash": "f185aab4c51a35bacd69b90141a635cc4a4a6758",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "römisch-katholischer Bischof"
+    },
+    "el": {
+      "language": "el",
+      "value": "επίσκοπος της Τουλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "bishop of Toul"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Toul"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "katholiek bisschop"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Епископ Туля"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римо-католицький єпископ"
+    }
+  },
+  "id": "Q122305",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Henri de Lorraine"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих от Лотарингия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Enric de Lorena"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich Lotrinský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich von Lothringen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος της Λωρραίνης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henri of Lorraine"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri de Lorraine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Henri of Lorraine"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих Лотарингский"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Henri of Lorraine"
+    }
+  },
+  "lastrevid": 17535494,
+  "modified": "2025-09-17T06:43:51Z",
+  "ns": 860,
+  "pageid": 147496,
+  "sitelinks": {},
+  "title": "Item:Q122305",
+  "type": "item"
+}

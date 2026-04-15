@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hezzelin I"
+      }
+    ],
+    "ro": [
+      {
+        "language": "ro",
+        "value": "Hezzelin I de Lorena"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125661$D810EBF6-2249-490B-9282-61FE30A7292C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1393212"
+          },
+          "hash": "7132ead1bff1ec97ae142fbd99807af793e0cf89",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125661$E3F1661B-5749-48EC-BAC4-21D7C3F4866D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143575",
+              "numeric-id": 143575
+            }
+          },
+          "hash": "88d883950a9d048510da3c4348e7209ea42f4aed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125661$5514D2D3-1A81-41CF-BC45-0E77CCA54244",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143576",
+              "numeric-id": 143576
+            }
+          },
+          "hash": "1ecc963b368c3c6be06fca6e47bf617bd5f67b01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125661$68E34A41-090C-4865-B99C-E88AF8FB9F58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125661$9665F906-1B7E-46AD-94BD-4DDD64268A27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125661$5887107B-3F63-4F29-88F9-C00F5EDF09FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hezzelin_I_(1)"
+          },
+          "hash": "7d4cbab84005b72513e81b6afbba8118fe270a02",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125661$4D0CD7E3-6A13-43B7-8EB5-4DF24A5C3BC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125657",
+              "numeric-id": 125657
+            }
+          },
+          "hash": "56b4f7e061127d2271c8bd17f147bba0cbcfe2ea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125661$8CCD63DB-81A0-42F7-B1DD-E226B4EEB0D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125661$7C5EF70A-BEAA-46CA-A3D7-355018BFD810",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1033-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16c47cf9096850784ce59292f7374cb4780616f7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125661$FED4BCEC-40AE-46A4-B1C5-E9B378C5E23F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5750065"
+          },
+          "hash": "c058bdc996ecfa86cbdcac17b5ba88fefcc85fb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125661$413068E4-0893-4AD8-AD03-2D6D8F3F11B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hezzelin I Arms.svg"
+          },
+          "hash": "1fc636fb72b8b6a23e1797769efb0670785f8e6c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q125661",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хецелин"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hezzelín I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Χέτσελιν Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hezzelin I"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hezzelin I"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hezzelin I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hezzelin Ier de Lotharingie"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hezzelin I van Lotharingen"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hezzelin I de Lotharingia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эццелин I"
+    }
+  },
+  "lastrevid": 17538774,
+  "modified": "2025-09-17T07:28:33Z",
+  "ns": 860,
+  "pageid": 151985,
+  "sitelinks": {},
+  "title": "Item:Q125661",
+  "type": "item"
+}

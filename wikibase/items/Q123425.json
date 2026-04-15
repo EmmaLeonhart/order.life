@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bernat I de Claramunt"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q123425$81F2D3F5-94F8-4112-98EC-51F85CED8FE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118250",
+              "numeric-id": 118250
+            }
+          },
+          "hash": "70ac8e584b2bc17ce5ffe73260cb6654ec16d3d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123425$0CA2F8B1-29EF-4752-91F4-6C2CD9987C50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123425$EDBB37B7-A0C0-456A-9CD4-597D22E3E51C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123425$D9B6426C-2AFF-4B23-BB8B-47FBD29318C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123425$ACFB3913-1756-4810-9CF9-94789B1A3479",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "58767bf264ffc714bb6d6444573e3d3aaa72ca9d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123425$A52296DB-29EB-403F-AA59-8F29A54AB5DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16177094"
+          },
+          "hash": "76d356d21420abd1b508d5a360c8118d0b019953",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123425$D4F93431-97B5-44E8-B4ED-48E61826D3AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=bernard amat;n=de claramunt"
+          },
+          "hash": "1e7f02d2ac5bfc8642f51a1ce1a8832d8a445c8a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123425$56559F19-EDFE-49D7-AFC9-E6F7C04D547E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bernat I de Claramunt Arms.svg"
+          },
+          "hash": "39d11f95a7a28d32ddbbedeb99b6255ce4e6ed05",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Noble català s.XI"
+    }
+  },
+  "id": "Q123425",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Bernat I de Claramunt"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bernat I de Claramunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bernat I de Claramunt"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bernat I de Claramunt"
+    }
+  },
+  "lastrevid": 17536604,
+  "modified": "2025-09-17T06:58:33Z",
+  "ns": 860,
+  "pageid": 148992,
+  "sitelinks": {},
+  "title": "Item:Q123425",
+  "type": "item"
+}

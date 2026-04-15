@@ -1,0 +1,290 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asclettin, Count of Aversa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125805$60F854B5-677E-4770-BE51-C66F660DB2E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125805$A9F3F4FB-162F-49B3-8432-3E894F68088B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125805$EA31A50C-2767-444A-8353-FCE9778899ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Asclettin,_Count_of_Aversa_(1)"
+          },
+          "hash": "5466fccfd581f76a700db860917427673e5f57e3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125805$7AEB833A-72DA-4F39-AD3A-186CF790460A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125803",
+              "numeric-id": 125803
+            }
+          },
+          "hash": "cd5295dd5659b85e9a92423bf5cdae22466b6abe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125805$41699956-15F9-427D-BC5A-E1649360391E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125805$4C900915-AE6E-437D-8CD5-AFCAEC52C9C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125805$B18B0A3C-BF95-48F7-94F0-D9951302BB32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1045-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f387edced534e1e679d914704df79da252794f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125805$57F03971-C9FF-4794-B8DE-51C5A7F10656",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1028663"
+          },
+          "hash": "571a580e336710439bfb36aa6ad7f3a8940bf31a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125805$9DF6BDD5-92F7-4CF4-8EAB-E5D8BE4F9A8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=asclettin;n=d acerenza"
+          },
+          "hash": "f07635ea2c32f7a4454f8749d7b91b9c69ada32b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125805$D8BBA0FC-6124-4D8A-B689-D43D452B2C9F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asclettin, Count of Aversa Arms.svg"
+          },
+          "hash": "59bcbffecac9d09452feb43d3195a24fe2d17953",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Νορμανδός κόμης της Αβέρσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italo-Norman noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte normand d'Aversa"
+    },
+    "it": {
+      "language": "it",
+      "value": "cavaliere normanno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ridder"
+    }
+  },
+  "id": "Q125805",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ascletí II Drengot"
+    },
+    "da": {
+      "language": "da",
+      "value": "Asclettin, greve af Aversa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ασκλεττίνο Β΄ Ντρένγκοτ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asclettin, Count of Aversa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Asclettin, Count of Aversa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Asclettin II d'Acerenza"
+    },
+    "it": {
+      "language": "it",
+      "value": "Asclettino II Drengot"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Asclettin, greven av Aversa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Asclettin, Count of Aversa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Asclettin de Aversa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Асклетин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Асклетин"
+    }
+  },
+  "lastrevid": 17538916,
+  "modified": "2025-09-17T07:30:26Z",
+  "ns": 860,
+  "pageid": 152176,
+  "sitelinks": {},
+  "title": "Item:Q125805",
+  "type": "item"
+}

@@ -1,0 +1,287 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henri de Carinthie"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122163$6CC8EE12-62E4-4C89-8836-9078EB455D42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00545567"
+          },
+          "hash": "c4cd3d12a513c2a87473624a4e61776c9bcd74fb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122163$7A50AC0B-86D5-4B1C-A862-94CFC08A92F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122163$C2C0A979-C6F0-4A77-9A2E-4FC6DB160F7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122163$F9C062F8-2059-467A-99B5-41AA49A6E91C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Heinrich_von_Sponheim_(1)"
+          },
+          "hash": "f695ce847ca953f0b297505689cbd6e151468e42",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122163$48877904-CDBA-42B8-B6F0-8E1891E2716E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122153",
+              "numeric-id": 122153
+            }
+          },
+          "hash": "d0650c6f8214ce94dc92b0aa8703bd005779b88b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122163$C90CFCEE-D780-420D-B874-C5D29B61EB14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117528",
+              "numeric-id": 117528
+            }
+          },
+          "hash": "0d2a073e0fdd79df6bb9462ad553b7261752cdcc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122163$FD6BE216-0AAE-49F2-8A20-A2AE4996503F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122163$065901BA-4AE3-4BD2-8910-E90ABA248759",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122163$204F0ACD-FA40-4687-91D9-7B7D855640B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1169-01-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db5537a87e1c6e0af19709c05c2b9c3974e690d0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122163$CC74B27E-F305-460C-BFE6-C61E50890B1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55597211"
+          },
+          "hash": "d05993228bc9e20f3abd778f5808f37c6fa7f506",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122163$0DD44C7F-C2F6-46A5-A358-3E1875EB3D73",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henri de Carinthie Arms.svg"
+          },
+          "hash": "b917fbb092caf7ba677e23b6d5ebbb721f5cc4db",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "bishop of Troyes (c. 1100-1169)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prélat catholique"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bisschop van Troyes (ca. 1100-1169)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "episcop de Troyes"
+    }
+  },
+  "id": "Q122163",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Henri de Carinthie"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich Korutanský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henri de Carinthie"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri de Carinthie"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik van Karinthië"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Henric de Carintia"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Henri de Carinthie"
+    }
+  },
+  "lastrevid": 17535352,
+  "modified": "2025-09-17T06:41:57Z",
+  "ns": 860,
+  "pageid": 147304,
+  "sitelinks": {},
+  "title": "Item:Q122163",
+  "type": "item"
+}

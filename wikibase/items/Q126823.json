@@ -1,0 +1,387 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mstivoj"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Mistivoi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q126823$FC7FFF51-8637-4FB6-9304-BC3241E716BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126728",
+              "numeric-id": 126728
+            }
+          },
+          "hash": "e30c26d65fba028e8c0e34cdcd05bb61f114f1d8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126823$EC39D9FD-4ACE-42D2-A649-6DE86EB43C93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137513",
+              "numeric-id": 137513
+            }
+          },
+          "hash": "d8d12d7e51fb345e3749cd5e0d83e2d971247311",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126823$E2375842-C4D1-4871-AE03-4139AC5C07CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121145",
+              "numeric-id": 121145
+            }
+          },
+          "hash": "8e78a6aec2de07b5d5054f25043cd0ba223d1fa2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126823$16490A0D-5B63-48B6-9952-952F6BA7CDBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126823$A40134DD-B95F-4810-9C41-8572C316B65C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126823$AAA105F6-E9AB-41BA-BBFE-6C280E6CDE6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mstivoj_Unknown_(1)"
+          },
+          "hash": "2b9da96435ef06a7059ab934004018326196106e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126823$5B3689E3-4E2D-4D31-9B8A-CBB0DC2A0AD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137512",
+              "numeric-id": 137512
+            }
+          },
+          "hash": "f9f5bb5436096368d2d57a3f926973fb6a18bdc0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126823$DB826F52-AAEE-464D-95C5-5FD1619A3AAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126823$DF05F385-FFFC-49D7-A003-49729C008E96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126823$2B71DF60-A4FD-4DAC-9197-A7A852259719",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0995-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "383496d37277fc198afa6718d434a61d3c111c2e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126823$51DF7AD8-69A2-43BD-B7E3-8DD4A8DACDE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7886058"
+          },
+          "hash": "13b71b32b91214d18a17920681f9b80cf9254780",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q126823$6A6B1E62-E98A-4D84-A956-FA6A9B3DADDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.137"
+          },
+          "hash": "4ea97b415b1db2ca13bba25cb88f431cdf6da655",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126823$AE4C1760-198B-464D-AE07-ACEADD7CEDF0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mstivoj Arms.svg"
+          },
+          "hash": "b84733950f96fc7c02d57b2f6652a20bea624b88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "konge over obotritterne"
+    },
+    "de": {
+      "language": "de",
+      "value": "elbslawischer Fürst der Abodriten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Obotrite prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe abodrita (f. 995)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prince des Abrodites"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano obodrita e Samtherrscher degli obodriti"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь ободритов"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande furste av obotriternas konfederation"
+    }
+  },
+  "id": "Q126823",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "مستيفوج"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mstivoj Obodritský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Mistivoj"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mistiwoj"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μστιβόι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mstivoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mściwój II de los abodritas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mistivoï"
+    },
+    "he": {
+      "language": "he",
+      "value": "מסטיבוי"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mstivoj"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムスティヴォイ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mistivoj"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mściwoj"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мстивой II"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mstivoj"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mstivoj"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мстівой II"
+    }
+  },
+  "lastrevid": 17539922,
+  "modified": "2025-09-17T07:44:15Z",
+  "ns": 860,
+  "pageid": 153543,
+  "sitelinks": {},
+  "title": "Item:Q126823",
+  "type": "item"
+}

@@ -1,0 +1,235 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rudolf II von Thierstein"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125929$9CA42D32-2224-4573-A5B9-2D1FE1C9B607",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00201878"
+          },
+          "hash": "3555b1ba9c25eb2f3dcb3622d19b7b28df4f732d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125929$C24E9BD8-48BD-449D-94D9-3E2F4B00CE22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125931",
+              "numeric-id": 125931
+            }
+          },
+          "hash": "815aadc908c3d49372a9582b4a78a5a45e916dbd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125929$D8DCA6BA-7FCC-42E8-8A73-BB2B74266895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125929$D2653E6A-A788-4A70-B265-A840D68774F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125929$C7193A3F-99BA-4C79-946E-B701040817AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120392",
+              "numeric-id": 120392
+            }
+          },
+          "hash": "d193cbac2483691f036df720c4f28ad6443339b1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125929$54B48C8E-B1F9-405D-BA50-5B7C3C039186",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125929$C2C8C0CA-F1ED-4F43-AD8C-C16D19046135",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125929$B03AA4E1-DE8D-48AE-8EA3-EF3BB26E1E7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q59417351"
+          },
+          "hash": "9f2485af9f96a1590c8473d7ffd2f65e9de213b0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125929$4079A397-F76C-4F85-923B-2B78485CE1F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=rudolf;n=von tierstein;oc=3"
+          },
+          "hash": "7717ee9804d2ef55a8227144e20833ee3209da10",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125929$5FA7EC94-9AA9-461B-9EE9-119B7F227B89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rudolf II von Thierstein Arms.svg"
+          },
+          "hash": "61ae5cbf07709c17c46cb918380475fd7cd71e66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "Граф на Тирщайн в Зизгау (в кантон Золотурн), Фрик (кантон Аргау) и Хомберг (Лойфелфинген, кантон Базел Ландшафт) в Швейцария"
+    }
+  },
+  "id": "Q125929",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Рудолф II фон Тирщайн"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Rudolf II. z Tiersteinu a Hombergu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rudolf II von Thierstein"
+    }
+  },
+  "lastrevid": 17539040,
+  "modified": "2025-09-17T07:32:04Z",
+  "ns": 860,
+  "pageid": 152343,
+  "sitelinks": {},
+  "title": "Item:Q125929",
+  "type": "item"
+}

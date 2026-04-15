@@ -1,0 +1,531 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Urien Rheged"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123789$0E54E594-8E44-4A5B-B0B7-A4468E1D1E72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "144758"
+          },
+          "hash": "a523a1a337a9d9383b5a86dae9707b3455e0b765",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123789$0D9A4BC1-E681-4743-A38E-526856D1DD6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759134"
+          },
+          "hash": "c70f7dd5f1d8abff44110551d98cb574f9e94124",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123789$8EAAC3A8-CDFB-4F1C-9DB6-FC5B6659C0C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136279",
+              "numeric-id": 136279
+            }
+          },
+          "hash": "914ca6fd2fa81a19c017c10f4dbd693846c8ab60",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123789$0A595DB9-B466-4D47-BB3B-769F4BFAB178",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123790",
+              "numeric-id": 123790
+            }
+          },
+          "hash": "ff81a2f014e81c615a018f7df45e0b838c945796",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123789$717764A2-0B26-42B3-B19F-D2058B88EA5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118648",
+              "numeric-id": 118648
+            }
+          },
+          "hash": "426b0267f7d0565d9362602fcb65c18b22828068",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123789$1CBC0889-17A5-48EA-848F-3C9FA6E779E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136278",
+              "numeric-id": 136278
+            }
+          },
+          "hash": "aba7410979e07b8517fe1cada6be93d29feadf5a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123789$A0877477-3DA5-4949-A7AE-0E6B7E43E3D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136280",
+              "numeric-id": 136280
+            }
+          },
+          "hash": "57d385fb561de6a4f02439076b0d9b19ac4b6570",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123789$5D7CE21B-78FA-47C6-B672-FFDA69899D56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123789$CC9BBA69-81A3-4A95-A4D9-E9DA88D40490",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123789$F80E5854-0FED-42F0-ACAF-F05E163283A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Urien_(1)"
+          },
+          "hash": "51a8c17f74ddded4c3b891f239ac14d850de5941",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123789$20C0EEE3-F8F1-4047-B3A1-47C891689F2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136537",
+              "numeric-id": 136537
+            }
+          },
+          "hash": "031efc7250dbf1d13855ccf0698a417d5ba825b3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123789$9131E5F7-FEAE-4E04-A171-822DF6DB6345",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136050",
+              "numeric-id": 136050
+            }
+          },
+          "hash": "9a93904c36d298ffb23bd287767be70d8f92359b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123789$FDB29B3F-4C87-4206-8954-C424CDF9B313",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135824",
+              "numeric-id": 135824
+            }
+          },
+          "hash": "966928a01362bf2897daa70089795d182e20c769",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123789$900171FD-DD02-4823-9920-1C2A04711E8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123789$165AB1AB-A2C6-4D46-941D-F07ADB5E03BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0520-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8e43f95ac8bb93a8f6826ccb2e0d89d76776a79",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123789$359795FC-4B9B-4649-B924-5646C9F02290",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0572-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44e512b4eb066663a360a76f7fff3a91ee6f214c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123789$62E7A989-1AD5-4DAB-B591-3845A2481987",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1263208"
+          },
+          "hash": "9f6e64217bab73d98b7af2f48ea9f45884fae22b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q123789$AE974DA3-7D18-494C-8D02-995C0177FC4F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Urien Rheged"
+          },
+          "hash": "defe6f65a25010de04df23e7d849bf7c9825a830",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123789$B9048059-8BA3-420F-83DF-5595EF1AF8AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Urien Rheged Arms.svg"
+          },
+          "hash": "7d0ab9b2cb34e24f67bdae3e7dc19eea6e073d4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin Rheged o'r 6ed ganrif"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Rheged im 6. Jahrhundert"
+    },
+    "en": {
+      "language": "en",
+      "value": "6th-century king of Rheged"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "6th-century king of Rheged"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey del reino britano de Rheged"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Rheged du VIe siècle"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "reino britón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Re di Rheged del VI secolo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Król Rhegedu z VI wieku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Регеда"
+    }
+  },
+  "id": "Q123789",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Urien Rheged"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Urien Rheged"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Urien Rheged"
+    },
+    "da": {
+      "language": "da",
+      "value": "Urien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Urien Rheged"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ούριενς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Urien Rheged"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Urien Rheged"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey Uriens"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Urien Rheged"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Urien"
+    },
+    "it": {
+      "language": "it",
+      "value": "Urien"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユリエンス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Urbgen"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Urien Rheged"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Urien av Rheged"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Urien"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Urien"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Urien"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уриен"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Urien"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Urien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Urien"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊里恩"
+    }
+  },
+  "lastrevid": 17536948,
+  "modified": "2025-09-17T07:03:16Z",
+  "ns": 860,
+  "pageid": 149473,
+  "sitelinks": {},
+  "title": "Item:Q123789",
+  "type": "item"
+}

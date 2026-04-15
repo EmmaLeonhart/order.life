@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Erling Eriksson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q125424$A8685C27-C6A7-4E69-A785-8418FF52AA68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eiriksson-22"
+          },
+          "hash": "3e3ba137da803d2b3c933f9fa492019c2781ab82",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125424$01395CD1-9416-402B-84B9-CA4F24180091",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125424$22316624-3E69-4245-AEAE-43F7E9976AF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125424$C554F198-0AC7-4A6E-8DE2-EDA4C9DE1296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119912",
+              "numeric-id": 119912
+            }
+          },
+          "hash": "0862b362c6264dc5b66d8e3e81bdee30a0165ef4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125424$8C7A59F9-B75B-48AC-952A-1E5EB1C3AB98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118740",
+              "numeric-id": 118740
+            }
+          },
+          "hash": "38c65031e915744849deb2f1a1ac1ad06469639e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125424$03129BA3-D903-4178-82BC-29E4B10542A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125424$60BC8039-C0F5-446D-B962-BA8AFF313B3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0936-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65739dae910e43022ba296910c60dba896f5c14f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125424$4A881B44-DFA5-4834-A36B-73A4C8A44C84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0963-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff433150ffa2337c48a7bbb465731cf53a3bbc6e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125424$80519BD6-2511-4095-A67A-164FF14196B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5835872"
+          },
+          "hash": "97c5dfb23c14a63fb524582d4aa976232ce369f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125424$43BF9B9A-DA44-40ED-9ACE-D660E710C2B8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Erling Eriksson Arms.svg"
+          },
+          "hash": "faf53b3290e62e3c65ea5156ca172f1db406fcef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "930 - bef. 970"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe vikingo de Noruega"
+    }
+  },
+  "id": "Q125424",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Erling Eriksson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Erling Eriksson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erling Eriksson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Erling Eriksson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Erling Eriksson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erling Eriksson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Erling Eriksson"
+    }
+  },
+  "lastrevid": 17538540,
+  "modified": "2025-09-17T07:25:27Z",
+  "ns": 860,
+  "pageid": 151669,
+  "sitelinks": {},
+  "title": "Item:Q125424",
+  "type": "item"
+}

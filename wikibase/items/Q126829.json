@@ -1,0 +1,400 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pallig"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126829$A0AC76BF-D285-4D15-A933-733BCEAED354",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00433952"
+          },
+          "hash": "c224469acfe40834857d6b2392020618f36e2573",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126829$1EAFF31E-19D1-49FA-B568-D1DF04B75328",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137524",
+              "numeric-id": 137524
+            }
+          },
+          "hash": "9dbe5eb2ce46460e35b32514aafd841b7c5a15f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126829$1D2EB019-4E44-4F66-8ACF-874D88FBFC1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokesen-4"
+          },
+          "hash": "23ea182e0a2609a5ed568a844e132082e91c18b3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126829$6EDD23E0-7F0F-4A4F-BCE9-0933D1B228B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126829$32380B74-CD00-4ED8-A864-9755BC31D92D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126829$D0DB0C41-F1C5-42A2-A0FD-09B7453E8073",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121149",
+              "numeric-id": 121149
+            }
+          },
+          "hash": "8d02ee8f7deabd3a4df65074737681854625bbdc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126829$23E5B8F0-62FF-40E4-894E-2652DEB92C5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118742",
+              "numeric-id": 118742
+            }
+          },
+          "hash": "870687d9ef4cee48f142e1106029f91ce0f58a4a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126829$44B8DAF7-7AAC-4CD3-B4B5-FE613E89203B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126829$711F4E40-E97B-419C-B76F-DAAEBA3A6D1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0945-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49e1e00ce578251c3435192b3630514cd1750365",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126829$E87E7A24-83B7-4B2B-9417-3781D3502274",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1002-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff3c22aecbe9fc2e464adb3c65fb32440d29e617",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126829$BEA68E15-03DD-4BD2-8787-9E3E15B21A37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4992341"
+          },
+          "hash": "1883a62b7a8fe6c6e33ceca139516ab80111e80e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126829$B637227E-F006-4267-9CBD-F224CD7BEFCE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pallig Arms.svg"
+          },
+          "hash": "840943bab293d7a060b246da94b5e2ed9360885f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu danés (945–1002)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític danès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "dánský náčelník"
+    },
+    "da": {
+      "language": "da",
+      "value": "dansk stormand og høvding"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Danish siyaasa nira ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Danish chieftain"
+    },
+    "es": {
+      "language": "es",
+      "value": "caudillo vikingo danés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari danimarkarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique danois"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "taoiseach Danmhargach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político danés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico danese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Deens politicus (945-1002)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko danes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político dinamarquês"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "dansk storman och hövdin"
+    }
+  },
+  "id": "Q126829",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Pallig Tokesen"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pallig"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pallig Tokesen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pallig"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pallig Tókason"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پالیگ"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pallig Tokesen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pallig Tokesen"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pallig"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パリグ・トクセン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pallig Tokesen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pallig"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pallig Tokesen"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Pallig"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pallig"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pallig"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pallig"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pallig Tokesen"
+    }
+  },
+  "lastrevid": 17539928,
+  "modified": "2025-09-17T07:44:20Z",
+  "ns": 860,
+  "pageid": 153551,
+  "sitelinks": {},
+  "title": "Item:Q126829",
+  "type": "item"
+}

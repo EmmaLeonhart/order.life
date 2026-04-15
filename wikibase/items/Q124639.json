@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anséric II. von Montréal"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124639$AA04F807-7FDD-4B26-A1B6-C6D6C4EDAFF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1369615"
+          },
+          "hash": "87688f50939823e5ebc23a9932c34111079bca8e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124639$CC068A8B-B959-4317-BFF7-0B84AA0A0AE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montreal-5"
+          },
+          "hash": "a28b89a7b76491c11d48fbf60fbc37492956e16f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124639$543F2D00-2E9A-4195-A791-6EE0066D2E7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124639$C0D401B3-2EF8-435F-A1A8-F9F090F78FB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124639$037B640A-6FCE-480C-8070-7CAE1B411DAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123287",
+              "numeric-id": 123287
+            }
+          },
+          "hash": "07bca2b499a176f0f03b1fa25aff872a8668fe0d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124639$A812EB53-185A-4D07-BC5C-7E3264D38ECB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124633",
+              "numeric-id": 124633
+            }
+          },
+          "hash": "427c6f7457a4db542ec12e7505eeb8ea32912f91",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124639$5CC7CA0F-3D50-4A92-BCE4-FCFFABDE645C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119394",
+              "numeric-id": 119394
+            }
+          },
+          "hash": "5ae3d166bb3f4563f497763cf744825f61d21ea4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124639$9AA2FD69-30A5-4E7A-B704-EEC666AA4DA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124639$2645363B-4967-4EC8-B481-22CB4A144FAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124639$DCF01B4F-A1DA-4A63-B43B-A1B3071E74FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1191-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c8b5fdafbd3cc6037d90e2e2623e75fe16fe386",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124639$481B8770-C661-480C-8958-295112700138",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17122259"
+          },
+          "hash": "6b23bfeeda3413a907386c6a9d04274100518ed7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124639$9449C666-8C01-460B-BEE9-9E8C9901C4A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=anseric;n=de montreal;oc=5"
+          },
+          "hash": "b0c013e32975df21931fcefde7f5a72b2c750783",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124639$DEFCCDBC-4685-434E-B6DA-5D475A4CC946",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anséric II. von Montréal Arms.svg"
+          },
+          "hash": "1a2a726ae409ff94ec9de818c89a2dc912471fe5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herr von Montréal"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1150-1197)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur français"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сеньор Монреаля, крестоносец"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1150-1197)"
+    }
+  },
+  "id": "Q124639",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Anséric II. von Montréal"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Anséric II. von Montréal"
+    },
+    "de": {
+      "language": "de",
+      "value": "Anséric II. von Montréal"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anséric II. von Montréal"
+    },
+    "es": {
+      "language": "es",
+      "value": "Anséric II. von Montréal"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anséric II de Montréal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anseric IV de Montreal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ансерик II де Монреаль"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Anséric II. von Montréal"
+    }
+  },
+  "lastrevid": 17537786,
+  "modified": "2025-09-17T07:15:17Z",
+  "ns": 860,
+  "pageid": 150615,
+  "sitelinks": {},
+  "title": "Item:Q124639",
+  "type": "item"
+}

@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saul of Hungary"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125216$70A3EDAC-2C25-4DC2-BF13-C3E0B6365B5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125216$21F7BD1D-E583-4F16-AFAC-464AD748E610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125216$8DDFBB85-0D87-4CC6-ADC4-1449A1786590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119786",
+              "numeric-id": 119786
+            }
+          },
+          "hash": "b0484d45859342afdebbdedb790e27c496c44c11",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125216$DFE655EC-15C0-4410-B9AC-C83211834468",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125216$DC271A84-0D60-4966-8480-0945CEBA1998",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b94cbbb41a40c755e4a573bf340664e48047400",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125216$4C59A69B-DB7E-475E-8610-EB2A46D8DB25",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1131-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "949091bccbe56c72cfcfd54de38322731d66c13c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125216$F7FA2B47-A392-4B08-90D6-C318B646E7C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1285751"
+          },
+          "hash": "2f7a0307b3935bd91a6745a493940bac65a7d1fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125216$F630FFDE-D268-458B-B197-84BB4836069D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saul of Hungary Arms.svg"
+          },
+          "hash": "9b3744324183002741095fbe344c6b13a8632452",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "následník uherského trůnu"
+    },
+    "en": {
+      "language": "en",
+      "value": "heir presumptive of the Kingdom of Hungary"
+    },
+    "he": {
+      "language": "he",
+      "value": "יורש עצר הונגרי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "magyar herceg"
+    }
+  },
+  "id": "Q125216",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Šaul Uherský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saul of Hungary"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saul de Hungría"
+    },
+    "he": {
+      "language": "he",
+      "value": "שאול, נסיך הונגרי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Saul magyar herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Saul d'Ungheria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Saul of Hungary"
+    }
+  },
+  "lastrevid": 17538350,
+  "modified": "2025-09-17T07:22:49Z",
+  "ns": 860,
+  "pageid": 151390,
+  "sitelinks": {},
+  "title": "Item:Q125216",
+  "type": "item"
+}

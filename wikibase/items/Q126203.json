@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugh of Crécy"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126203$E109FFC2-E87E-4A15-BD77-56CDB56179B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00628153"
+          },
+          "hash": "2a91297502a1016941c645fd9bd2fb401d699488",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126203$E928A074-4353-4E30-8E41-CC180F7B4082",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montlhéry-10"
+          },
+          "hash": "539c96d5949b564fed5107ddf178236ad179f71e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126203$B4347A04-3A02-4D45-9609-24C49746D7F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126203$ED4E0FA8-70DA-4367-B9AF-8052ED8FA4BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126203$DB21D710-F12D-4CE9-B221-F44703F3E411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120608",
+              "numeric-id": 120608
+            }
+          },
+          "hash": "8bda8b8a7bbf174503e796cdd1a6a7550561350c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126203$22665C64-024D-4FA9-B64B-B2F14F603D01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125741",
+              "numeric-id": 125741
+            }
+          },
+          "hash": "595c1ecc957a34733660ee892f4182051362b37b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126203$8BA7615A-B279-40D2-A6B1-C9056444A91D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126203$8A443935-4958-4A1B-B91E-752E8699959D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126203$BD297F52-39BB-41A6-A038-F54C3E620666",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1147-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cd9e6e37c895418d94d346da3e16fe0fc443530",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126203$B531642E-072F-4FB3-A2E7-32CF067F1E7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q550540"
+          },
+          "hash": "58745b8b20b1ba3ecfc7b7a5efd67ea5056edfb3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126203$1FAD5A45-59BC-4A38-925E-AB30DC1E9E18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hugues;n=de crecy;oc=2"
+          },
+          "hash": "077e11a097ba403934615c2e5a4da713a395d2b9",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126203$86A1F4C9-15C6-444E-91FD-058D4C96BB6A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugh of Crécy Arms.svg"
+          },
+          "hash": "adc9786aa6a27b4a7a9021ac64e28c476fc386dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herr von Crécy-en-Brie, Gournay-sur-Marne, Kastellan von Châteaufort und Gometz, Seneschall von Frankreich"
+    },
+    "en": {
+      "language": "en",
+      "value": "31 Jul 1147"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur et sénéchal de France"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q126203",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hugh of Crécy"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hugues de Crécy"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hugo von Crécy"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hugh of Crécy"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hugues de Crécy"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hugues de Crécy"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hugues de Crécy"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユーグ・ド・クレシー"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hugo von Crécy"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hugues de Crécy"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hugues de Crécy"
+    }
+  },
+  "lastrevid": 17539308,
+  "modified": "2025-09-17T07:36:13Z",
+  "ns": 860,
+  "pageid": 152712,
+  "sitelinks": {},
+  "title": "Item:Q126203",
+  "type": "item"
+}

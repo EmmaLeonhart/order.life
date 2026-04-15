@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cecilia di Medania"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125270$E385E6FF-3075-449A-B3B2-23A3514FF265",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00263402"
+          },
+          "hash": "f13c7c1d2d8460649c45c0dda42d2419a70bc2d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125270$9B9ACA65-F56B-4C08-95D0-690581B79097",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119806",
+              "numeric-id": 119806
+            }
+          },
+          "hash": "111826c02e2d95d21a5b2d8f4954aacc6ddb0536",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125270$7FCB722E-F038-413A-9D8B-3D5A33CE430F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Medania-3"
+          },
+          "hash": "2b9ca481c67c4b2b7c3572623a3a5767051cae76",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125270$12F504B8-7681-489E-989E-2207E23F493D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125270$1D55B562-DBD3-4B34-8244-38E50E8E2455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125270$193E6862-0E03-4EF8-B3FD-3E7517A658A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125268",
+              "numeric-id": 125268
+            }
+          },
+          "hash": "be7f02fc11b2640a8fc9804d0ad84307316448fd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125270$C9B02F19-83C4-4EAE-A15C-CEEF8B88B2BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125270$AA23499E-7173-4007-93CC-43DF25F18A56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100438126"
+          },
+          "hash": "406bc166e0de6cfef179f9307a29ee4222503217",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q125270$49D39F86-CEB6-47D3-B41D-AE37D9096CF0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Cecilia di Medania"
+          },
+          "hash": "19dd35dfb88baea50040480fc08cfa2117092b43",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125270$8E00630D-1AD8-4148-95AC-56AB0F903011",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cecilia;n=di medania"
+          },
+          "hash": "87039ec9eab6e6cf434eff8769d91ee6a04989cf",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125270$7F327D27-D85C-4DDA-B713-F1F9A1F724E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cecilia di Medania Arms.svg"
+          },
+          "hash": "5aa6c8ca3484d52d665afed2dc6d5eb776e7483a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1147"
+    }
+  },
+  "id": "Q125270",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cecilia di Medania"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Cecilia di Medania"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cecilia di Medania"
+    }
+  },
+  "lastrevid": 17538388,
+  "modified": "2025-09-17T07:23:19Z",
+  "ns": 860,
+  "pageid": 151462,
+  "sitelinks": {},
+  "title": "Item:Q125270",
+  "type": "item"
+}

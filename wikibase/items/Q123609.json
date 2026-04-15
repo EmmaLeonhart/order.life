@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Batbayan of Bulgaria"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123609$E5BCFD95-E13E-40C8-8C3F-778AFB129BC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123609$F9802B0A-B3DC-42EC-8F1C-EC7C2B6AE0C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123609$1E04F004-25A1-4776-BD3A-09C40E9961FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123605",
+              "numeric-id": 123605
+            }
+          },
+          "hash": "6b170b50505d47459f4e81af6574e5360e621f7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123609$BBFDD959-A2F7-4563-97B2-33709D8F0DE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123609$EE0799D7-931B-4BEB-83AF-67BB12A40BD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1df0d1f7be99978f9e1ad4f177d09a6b95941413",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123609$9C0756B5-6112-4F55-9789-DD414151223B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0690-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4d46aeb9cf36460aeb0c850a391b2241839ffba",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123609$96ACDE96-7511-4EB8-A51E-65D09CB8A37B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q366466"
+          },
+          "hash": "e9356a25210efa1c5697e3dec04a97c22d3b662c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123609$4F158A8E-17CC-4D86-83CB-CFF2FB4C32EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Batbayan of Bulgaria Arms.svg"
+          },
+          "hash": "7ae7513a6de8861e52658ff3aa0f67310a989197",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "владетел на Стара Велика България"
+    },
+    "de": {
+      "language": "de",
+      "value": "bulgarischer Khan vom Hause Dulo"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruler of Old Great Bulgaria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khan bulgare des Koutrigours de Grande Bulgarie, de la dynastie des Doulo"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano bulgaro"
+    }
+  },
+  "id": "Q123609",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Batbayan xan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Батбаян"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Батбаян"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Batbajan"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Питпуян"
+    },
+    "de": {
+      "language": "de",
+      "value": "Batbajan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βαϊανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Batbayan of Bulgaria"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Batbayan"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Batbayan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Batbayan of Bulgaria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Batbayan"
+    },
+    "he": {
+      "language": "he",
+      "value": "בטבאיאן"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Batbaján bolgár kán"
+    },
+    "id": {
+      "language": "id",
+      "value": "Batbayan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Batbajan di Bulgaria"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბატბაიანი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Ботбай, Батқан, Баян"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Batbayan of Bulgaria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Batbajan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Batbayan da Bulgária"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Baiano da Bulgária"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Батбаян"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Batbajan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Batbajan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Батбајан"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Батбајан"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Batbajan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Batbayan"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Батбай"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Батбаян"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巴颜"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "巴颜"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "巴颜"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "巴顏"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "巴顏"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "巴颜"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "巴顏"
+    }
+  },
+  "lastrevid": 17536776,
+  "modified": "2025-09-17T07:00:49Z",
+  "ns": 860,
+  "pageid": 149236,
+  "sitelinks": {},
+  "title": "Item:Q123609",
+  "type": "item"
+}

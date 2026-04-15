@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Barakat ibn Hasan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123538$4FF3B1E0-A90F-4ADD-82E2-4E2441029D56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00326527"
+          },
+          "hash": "1efea5c4cb7e527e692edbef3780ab130a371498",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123538$32BB2582-5A3E-4152-91A7-A54741EDD3C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123538$F87FEEE0-D1C1-4751-A89D-294499B55EF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123538$1694295D-C4E5-40D5-8D33-AF6A12B720E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118376",
+              "numeric-id": 118376
+            }
+          },
+          "hash": "cfb9430f5c0dc9061dc182f8f8ca2602808ca6c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123538$C3FBAF8D-F803-4FA9-B1D8-04687CE9D6E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123538$B897EC98-DE48-4C69-8FF2-EA1912806480",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1399-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6904631f0a0c1e880f4a6421ef083c3e58760396",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123538$ECC40BA6-E524-4840-9C3F-AECBD764A544",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1455-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb7dc40b015110c919ca9a0647726061298ddceb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123538$F9858403-E616-4674-B363-0A26CF54B828",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6728409"
+          },
+          "hash": "7826b60848eb60574fc733e80e6bbc022420150e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q123538$9A17D137-B023-489B-A3B7-233480190C91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011040145701"
+          },
+          "hash": "7157c7a16e1aaa157c5ed4529f66d270f73672ba",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123538$7444B4A1-D200-4A7A-AAC6-EDD0AF2E5C80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Barakat ibn Hasan Arms.svg"
+          },
+          "hash": "611dd497eb4afad20101d942267f000f3b35d31c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أمير وشريف مكة"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "১৫ শতকের মক্কার আমির"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(1399-1455)"
+    },
+    "en": {
+      "language": "en",
+      "value": "15th century Emir of Mecca"
+    }
+  },
+  "id": "Q123538",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بركات بن حسن"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Barakat ibn Hasan"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "বারাকাত ইবনে হাসান"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Barakat ibn Hàssan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Barakat Ibn Hasan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Barakat ibn Hasan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Barakat ibn Hasan"
+    },
+    "he": {
+      "language": "he",
+      "value": "ברכאת בן חסן"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Barakat ibn Hasan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Баракат I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "برکات بن حسن"
+    }
+  },
+  "lastrevid": 17536714,
+  "modified": "2025-09-17T07:00:00Z",
+  "ns": 860,
+  "pageid": 149143,
+  "sitelinks": {},
+  "title": "Item:Q123538",
+  "type": "item"
+}

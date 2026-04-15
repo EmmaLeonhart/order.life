@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ponzio I di Urgell"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124329$0E55EF71-CAFC-4BB4-B360-07E1ABF2BC5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00551950"
+          },
+          "hash": "79b13aa3cfeca3d092e8235ce0ce0f3246a03086",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124329$09196E93-C545-4B62-83F1-7F10A612FC35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124329$5694ED10-98A3-41D8-8417-5B80C328473E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124329$F508C737-EE39-4EA1-886A-02280721620B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124325",
+              "numeric-id": 124325
+            }
+          },
+          "hash": "582076f820c292da2471c9f0a6210f1c1e4e1cdd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124329$11ECDD91-84E6-472A-A286-E01A8192E7EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119220",
+              "numeric-id": 119220
+            }
+          },
+          "hash": "fab9c6c1f01b28b4c11770a2425230288122c4db",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124329$676ABBC5-8090-4A3F-ADC8-B983E0C51988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124329$C6369D43-6131-496F-9C90-9404E67943B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1216-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "493d3fa1a9d322c4e18e2eb59cf7dcad22b1d801",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124329$ED501073-098A-491A-B84B-50C33FAD510F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1243-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ac76cd35c0eb4d9d7971f7981d1c49accb3598fd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124329$43BE4067-859B-4EBF-B70C-D8650CA8AE93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9061652"
+          },
+          "hash": "68c211989375df1d6a7b70874a1fb02a909ecc94",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124329$51D483B0-3F69-4599-8FE0-6E89B0893909",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ponce;n=de urgel"
+          },
+          "hash": "e9e221d56dadcd9b68e8942003633ec6481de48e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124329$513ED21B-9F1B-41AF-B22E-FF6A8D834526",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ponc IV de Cabrera Arms.svg"
+          },
+          "hash": "5fb53aaed7faec55a729668d849d6b2cdf1f9dba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Comte d'Urgell i vescomte d'Àger s.XIII"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Urgell"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Urgell"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble catalán (1216-1243), conde de Urgel y vizconde de Àger"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte d'Urgell, Catalogne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Урхеля"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "граф Урхеля"
+    }
+  },
+  "id": "Q124329",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ponç IV de Cabrera"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πονς Α΄ του Ουρζέλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ponc IV de Cabrera"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ponce IV de Cabrera"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pons Ier d'Urgell"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ponzio I di Urgell"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ponç IV de Cabrera"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ponç IV de Cabrera"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Понс IV де Кабрера"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Понс IV де Кабрера"
+    }
+  },
+  "lastrevid": 17537478,
+  "modified": "2025-09-17T07:11:02Z",
+  "ns": 860,
+  "pageid": 150199,
+  "sitelinks": {},
+  "title": "Item:Q124329",
+  "type": "item"
+}

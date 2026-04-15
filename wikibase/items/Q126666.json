@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arnold V, Count of Andechs"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126666$3CE0AD7B-4068-4230-A880-04F8DB66E40B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126666$9898E24E-E0BC-4459-BD78-6BE51368C59F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126666$1D71B8F4-A674-4810-97A8-E9B1CEC72224",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnold_van_Andechs_(1)"
+          },
+          "hash": "1321ad826692b226f3773b9381ead33693837232",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126666$B8C8FD79-B9DC-46E8-9B5B-813579B22185",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126660",
+              "numeric-id": 126660
+            }
+          },
+          "hash": "b1cf26534cb0ea17b269b75a699613924b45574b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126666$FFCBCB9F-CA56-4AF7-8001-33601F357407",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121010",
+              "numeric-id": 121010
+            }
+          },
+          "hash": "5923e658610fbfbda68e18270d771cfb4c1c2123",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126666$C583B4A3-8DA4-43DF-A69A-57AEC8AE9B59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126666$899059CF-0E46-43C8-B0E1-E99639845054",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1120-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d148b1f2dd9cd071fb0510bcc9ffd76ed4f56c6e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126666$C1306F8D-9DB1-44E5-B775-4B45AAC8A846",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2262027"
+          },
+          "hash": "a5bb00dd7dd82a6cd6831f4ee5729f68ff97ba96",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126666$649D5A05-F20E-42BE-865A-A89285A703E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnold V, Count of Andechs Arms.svg"
+          },
+          "hash": "5a74ecf432b51a64828f3c0d6a9ec7a133630bd5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q126666",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Arnold V. z Andechsu"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άρνολντ Ε' κόμη του Ντήσσεν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arnold V, Count of Andechs"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arnold V van Andechs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arnold V van Andechs"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арнольд V"
+    }
+  },
+  "lastrevid": 17539766,
+  "modified": "2025-09-17T07:42:12Z",
+  "ns": 860,
+  "pageid": 153332,
+  "sitelinks": {},
+  "title": "Item:Q126666",
+  "type": "item"
+}

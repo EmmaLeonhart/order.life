@@ -1,0 +1,230 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adalbero I von Frohburg"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q125943$9390EEBC-1F20-4EC2-919B-01F869501E7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128363",
+              "numeric-id": 128363
+            }
+          },
+          "hash": "5bfcc4eb5ec26e0c2d965c4ea4be6635d2a660a4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125943$718702F3-855A-45B2-B1FD-22FCF8365809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125943$44994382-C89E-48E5-9D3B-212DB2460B78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125943$BD7B39B8-4FBB-4469-88E4-3A678C089821",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125939",
+              "numeric-id": 125939
+            }
+          },
+          "hash": "0a64ef752f8ec06a206813656a6badcddfae1401",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125943$925BCE15-A519-415C-BE54-B4386CFA5906",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120400",
+              "numeric-id": 120400
+            }
+          },
+          "hash": "72024c50d182b3a8f752179e06d94fcd0d83d7c3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125943$A63269CD-C3AF-4210-AA88-B041E29D0BAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125943$1C8FF157-CBB0-4131-859B-CDFA6F83A219",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1090-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d736764753b10685bf505d91b7e64d97981c10d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125943$46D8B842-B349-4047-8AAC-68A9DC7D7E5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61140594"
+          },
+          "hash": "00bc0463c252b197ede8789c8c60b417854439fa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125943$F0CFAC71-C672-4822-9942-85924FC50514",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adalbero;n=von frohburg"
+          },
+          "hash": "bf7b9d0d4dd25b11073f11afe67ce9fe2921c209",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125943$FEC0430F-0262-4156-BDE4-ABBECE5BBEAE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adalbero I von Frohburg Arms.svg"
+          },
+          "hash": "0419da11764b42b26ad1aec4d3fd16d04feea1d1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q125943",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Адалберо I фон Фробург"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adalbero I von Frohburg"
+    }
+  },
+  "lastrevid": 17539054,
+  "modified": "2025-09-17T07:32:15Z",
+  "ns": 860,
+  "pageid": 152362,
+  "sitelinks": {},
+  "title": "Item:Q125943",
+  "type": "item"
+}

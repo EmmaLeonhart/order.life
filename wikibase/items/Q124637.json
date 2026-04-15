@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John I of Arcis"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q124637$2DE48B26-E7E4-4FDD-B83C-3CD2A3831C9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124637$6148E8C9-BA8C-41CE-9701-C3BA6E9E4E3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124637$D3F39A46-BC89-41B5-A2BF-6717808A1168",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124633",
+              "numeric-id": 124633
+            }
+          },
+          "hash": "427c6f7457a4db542ec12e7505eeb8ea32912f91",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124637$BC4A0D59-7DF4-45E0-B63E-6FA81E97DF82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119394",
+              "numeric-id": 119394
+            }
+          },
+          "hash": "5ae3d166bb3f4563f497763cf744825f61d21ea4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124637$2B8676F6-F2CD-4767-99F7-D246D13CC8F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124637$A7D94BAB-EB2B-48BD-811D-D86A589EEEED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124637$25E250F3-3DDD-478E-92F3-C25B31CB9592",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1191-07-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c4c9b932c3e29ba036be981f681bb6b00043d98",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124637$DD43202E-03B6-4C62-B775-F4B960988835",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17123832"
+          },
+          "hash": "786f2b601df81701a7b9ae9a50e99ab6c26991fb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124637$1864E8AE-12D7-490B-BB54-97A56C76986F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jean;n=d arcis"
+          },
+          "hash": "13ead8f2246abd6ffa12a8112f636a71715373b0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124637$52C32BDC-3071-4DA7-9947-1F5DAE4724FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John I of Arcis Arms.svg"
+          },
+          "hash": "a593ec5cf399e110045679ea869b701bed9123dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herr von Arcis-sur-Aube"
+    },
+    "en": {
+      "language": "en",
+      "value": "French Lord"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur champenois"
+    }
+  },
+  "id": "Q124637",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Johann I. von Arcis"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Johann I. von Arcis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann I. von Arcis"
+    },
+    "en": {
+      "language": "en",
+      "value": "John I of Arcis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Johann I. von Arcis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Ier d'Arcis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jean Ier d'Arcis"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jean Ier d'Arcis"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jean Ier d'Arcis"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Johann I. von Arcis"
+    }
+  },
+  "lastrevid": 17537784,
+  "modified": "2025-09-17T07:15:15Z",
+  "ns": 860,
+  "pageid": 150613,
+  "sitelinks": {},
+  "title": "Item:Q124637",
+  "type": "item"
+}

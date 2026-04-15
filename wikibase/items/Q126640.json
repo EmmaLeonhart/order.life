@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelheid von Thüringen"
+      },
+      {
+        "language": "en",
+        "value": "Adelheid von Thuringen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126640$BC5223EF-45AD-41F6-8023-25D1DB012105",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00029942"
+          },
+          "hash": "a1c47752f8851946a7e44551216ca971de71c12c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126640$4E1E1E8D-708D-4F8A-9791-2C8191DE457B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Thuringen-4"
+          },
+          "hash": "44fc3a9f98f16764d9fe35245ebb33da86b89329",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126640$AD1D3CC8-AEB6-47DC-810B-B8D9300D50B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126640$65574B82-ECEE-4735-9B24-4D0629537292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126640$B3CDBAF8-EFAA-4B40-8BDC-B7A859DE2507",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelaide_of_Thuringia_(1)"
+          },
+          "hash": "e9b5bf410f226b5c42c94a67c1c84c8503eb7e23",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126640$67893214-E420-4D28-A3B4-97D62B720651",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121899",
+              "numeric-id": 121899
+            }
+          },
+          "hash": "a4cf4d28035a05ac0feec5c2ca221caa529acb33",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126640$78A1E635-55F8-47B9-BF4E-8579777C3EA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120986",
+              "numeric-id": 120986
+            }
+          },
+          "hash": "7cc069cac7ae68f5db242c9abe714f7740fd4104",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126640$8057349F-2A1B-48D5-88A0-E95C9F5A31D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126640$9AE3E8DB-86AD-4EAE-B9C2-A5F3B61BA0AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1092-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1655781ef92aaf604e88aa4f5142bd4670e1ece1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126640$EE9B8195-89F0-44FE-A7E6-888D220FF558",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6c017d4b5add0c293ab598f755e32e44d8243d97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126640$8A9E2844-E924-45CF-A761-05EB8A565424",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118112688"
+          },
+          "hash": "b1efa899f00545193549a161d4ccca2b512e6a44",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126640$578CEBAF-2DDE-4289-B5B8-A13DC083BB69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adelheid;n=von thuringen"
+          },
+          "hash": "947508777ff422c4670eb1f46cfbef267d8f960e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126640$6F3A568C-CDBF-4605-B9B2-36D52BC7BD5D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelheid von Thüringen Arms.svg"
+          },
+          "hash": "a3c235ee5515188d2d3a0e4ba7712f2977f2976c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1092 - est. 1148"
+    }
+  },
+  "id": "Q126640",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Adéla Durynská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adelheid von Thüringen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adelheid von Thüringen"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Adelaida de Turingia"
+    }
+  },
+  "lastrevid": 17539740,
+  "modified": "2025-09-17T07:41:51Z",
+  "ns": 860,
+  "pageid": 153298,
+  "sitelinks": {},
+  "title": "Item:Q126640",
+  "type": "item"
+}

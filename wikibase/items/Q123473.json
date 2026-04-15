@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Remiro de Navarra"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123473$1CDEECE7-BACE-4991-9CA3-6A56A7E9C6B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020633"
+          },
+          "hash": "65293b362790645358f02318f3f9c730b5efe6e1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123473$476383FB-428B-4109-BC24-DBC863E5BA07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123473$DBABE931-603A-4476-B026-F22E1CBDA4C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123473$F8637A1E-E613-4F3E-8802-A91AD623A93F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118328",
+              "numeric-id": 118328
+            }
+          },
+          "hash": "64e67b94f4409c3d9f165ed2b74b271b82c62334",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123473$5FCF6525-2F59-4968-B455-6ACF9BBD5F24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123473$126CA980-9A81-4FF6-8F5F-648501401F6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123473$F08346A6-3624-4381-AF7E-E78EB149B046",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1228-01-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c76cece3bb667f05fda6cb7c2d3d03d2d16e6c2e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123473$840BF02E-2880-41A4-BAE7-2E7DDAC488F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11702715"
+          },
+          "hash": "af25b61bb44566f01edb7a4759a1e4ecc72e74dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123473$61BF035F-9EA9-48C2-8ED9-DDF2C208556F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ramiro;n=de navarra"
+          },
+          "hash": "b9d8311c83c8ca966c06f37ff856391fbc18dec3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123473$C5CAEE8D-4518-4822-9DE4-E19A8C2E4C23",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Remiro de Navarra Arms.svg"
+          },
+          "hash": "5f862f8fbafbdd1cff53f0dce7bac039a1950a3b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "katholischer Bischof"
+    },
+    "en": {
+      "language": "en",
+      "value": "catholic bishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "katholiek bisschop"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "католицький єпископ"
+    }
+  },
+  "id": "Q123473",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ramir de Navarra"
+    },
+    "de": {
+      "language": "de",
+      "value": "Remigio de Navarra"
+    },
+    "en": {
+      "language": "en",
+      "value": "Remiro de Navarra"
+    },
+    "es": {
+      "language": "es",
+      "value": "Remiro de Navarra"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Remiro Nafarroakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Remiro de Navarra"
+    },
+    "it": {
+      "language": "it",
+      "value": "Remiro de Navarra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Remigio de Navarra"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Remiro de Navarra"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Remiro de Navarra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рамиро"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Remiro de Navarra"
+    }
+  },
+  "lastrevid": 17536654,
+  "modified": "2025-09-17T06:59:12Z",
+  "ns": 860,
+  "pageid": 149058,
+  "sitelinks": {},
+  "title": "Item:Q123473",
+  "type": "item"
+}

@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honoratus of Marseille"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q124217$979848A3-EC4F-43D8-B900-A593FE1686D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124217$2B34C298-8EA8-4AFD-83DD-7722DA55881C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124217$81DE7A6C-75CF-4BBB-96FE-BE537632A985",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124215",
+              "numeric-id": 124215
+            }
+          },
+          "hash": "d561c72d3dec1f081a2e0ed2813331099b78fe31",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124217$B807F705-854C-4498-B515-C976BA34DB75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124217$92E5EF49-E6E6-49D1-A9CE-C277B57549F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0930-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b756e5f8ce0e0858d9ec08d06a48d9c73e7ea96",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124217$35302C40-AD42-470B-A93F-1C89989B938A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0976-02-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46426351af772a60742b3ffa400ce51b7ed84792",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124217$3D5070A8-A385-4347-9560-543B5CCFDFA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3140183"
+          },
+          "hash": "f317fc3c3180f79ed53b1d6d222dc6a2600e8e3d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124217$D1DF0123-A5EE-41D7-B330-4A625F209754",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=honorat;n=de marseille"
+          },
+          "hash": "8d0ab0a7573445c91767388d3a3b9eb5b6633d50",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124217$C5013F3C-0AC9-4728-BF8A-8A8BC08A2E60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honoratus of Marseille Arms.svg"
+          },
+          "hash": "cc98a36fb6730d692839d4532f048ede2fb1722d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bischof von Marseille (10. Jahrhundert)"
+    },
+    "en": {
+      "language": "en",
+      "value": "bishop of Marseille (10th century)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Marseille au Xe s."
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo di Marsiglia (X secolo)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "10e-eeuws bisschop van Marseille"
+    }
+  },
+  "id": "Q124217",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Honoratus von Marseille"
+    },
+    "en": {
+      "language": "en",
+      "value": "Honoratus of Marseille"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Honorat de Marseille"
+    },
+    "it": {
+      "language": "it",
+      "value": "Onorato di Marsiglia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Honoratus Massiliensis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Honoratus van Marseille"
+    }
+  },
+  "lastrevid": 17537368,
+  "modified": "2025-09-17T07:09:36Z",
+  "ns": 860,
+  "pageid": 150048,
+  "sitelinks": {},
+  "title": "Item:Q124217",
+  "type": "item"
+}

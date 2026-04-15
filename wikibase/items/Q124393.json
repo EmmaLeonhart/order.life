@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nivelon II de Pierrefonds"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q124393$3E005EB5-B4B6-4123-ACFC-8F6AD7ACB5EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119284",
+              "numeric-id": 119284
+            }
+          },
+          "hash": "58941159221ddfca5c7a9f4d4ce35e1ce077b418",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124393$287A6270-F1CF-4F0F-97CC-87903F1DFB4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146841",
+              "numeric-id": 146841
+            }
+          },
+          "hash": "4dd7f16618ca1e5fe8f01701d89f38ace9e91b3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124393$5D3018A9-731F-4CCC-B49A-5192E639465F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146842",
+              "numeric-id": 146842
+            }
+          },
+          "hash": "cff939ee23049478ab6c8abf882d58d39b89a720",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124393$AA752199-BE3C-450F-BAE3-35F2C7434C3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pierrefonds-2"
+          },
+          "hash": "2a4129c7d587c315a036ac5865b59d9d0e00191a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124393$0770DFB3-204C-4B9E-B516-79BB4B75B374",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124393$E7E7C504-587A-450C-8F57-D98F061745B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124393$A6B00115-A5A2-4C73-A8F1-B22446163B04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146840",
+              "numeric-id": 146840
+            }
+          },
+          "hash": "9659ae8e9f233dd3c2c2f03a2a7c553d09f51953",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124393$D3EA662F-9834-4387-A074-C797D502A6D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124393$44203C2D-6305-4C16-A6AF-C2C2C2E1A1A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75d0b4773aface83de4236d8e314d20d6b4aaa04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124393$E3465149-AD85-4F52-AED7-D195B1532654",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1102-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6077982488466ab60cb9bc3d41fd970bba07b0e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124393$E1E559EC-EFC2-489C-90DD-FFA03D04D033",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q85854237"
+          },
+          "hash": "70746cd3f405d4cac4f6c88f9ec1e9042373dafa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124393$177BF369-E712-4270-9864-C5A189FBEBF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=nevelon;n=de pierrefonds"
+          },
+          "hash": "f0e948d18078561fc03e3286710bd05087dd9e2c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124393$323D8E76-2F8A-46AC-8637-9340B6DB4D18",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nivelon II de Pierrefonds Arms.svg"
+          },
+          "hash": "1f007f820acaff9fbe699866576a5a94b1ccdd01",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1060 -"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur de Pierrefonds"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сеньор де Пьерфон"
+    }
+  },
+  "id": "Q124393",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nivelon II de Pierrefonds"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nivelon II de Pierrefonds"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nivelon II de Pierrefonds"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нивелон II де Пьерфон"
+    }
+  },
+  "lastrevid": 17537540,
+  "modified": "2025-09-17T07:11:50Z",
+  "ns": 860,
+  "pageid": 150285,
+  "sitelinks": {},
+  "title": "Item:Q124393",
+  "type": "item"
+}

@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elzéart d'Uzès"
+      },
+      {
+        "language": "en",
+        "value": "Elzeart d'Uzes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125000$198049E9-D041-4C97-B98B-B36F1D1A46B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00196906"
+          },
+          "hash": "1ac288f1fb49651f147218652d91eda2c27fd71e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125000$C3B03B6E-4AC0-4EBF-AC9B-EB7766FA658C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119648",
+              "numeric-id": 119648
+            }
+          },
+          "hash": "b145c41b202cc948fb2c21c594c044005dca0a30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125000$A06E251E-ED26-4067-8216-F9534349425C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Uzes-8"
+          },
+          "hash": "d7a990f60629aae13784153a2c259541dab52c54",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125000$41C7DE86-3C2C-45B5-93B4-5EB3052577CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125000$9A582001-74D5-4ECC-A040-C061E366FA17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125000$E1E73101-4FD2-4716-B3FC-EBE98B73AD1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125000$5AF05F89-5E23-4904-9E42-DB8935C513A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3051920"
+          },
+          "hash": "a4beff6788f931081ff56ec6a76ae2e49c7454f4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125000$4F384250-425F-46C6-970B-17630A5198A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=elzear;n=d uzes;oc=1"
+          },
+          "hash": "2dbe42873e07d6314e6b03c67c3ff83091280a83",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125000$633FB2C6-0CA1-4B60-B162-23D03F28DDDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elzéart d'Uzès Arms.svg"
+          },
+          "hash": "4b381eb1b5642409af034eee2e139bf6f6f4c837",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1041 -"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur d'Uzès"
+    }
+  },
+  "id": "Q125000",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Elzéart d'Uzès"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elzéart d'Uzès"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elzéart d'Uzès"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Elzéart d'Uzès"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elzéart d'Uzès"
+    }
+  },
+  "lastrevid": 17538140,
+  "modified": "2025-09-17T07:20:04Z",
+  "ns": 860,
+  "pageid": 151100,
+  "sitelinks": {},
+  "title": "Item:Q125000",
+  "type": "item"
+}

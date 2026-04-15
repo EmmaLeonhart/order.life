@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berenguera de Queralt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123448$B84589F5-49E1-4C40-9248-21F36F9B46BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00551956"
+          },
+          "hash": "4b726c74cb83ff0f0ffcc8bc6f869c8707cf9aee",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123448$40849C3E-D27C-4AB6-AC67-119471814FD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123450",
+              "numeric-id": 123450
+            }
+          },
+          "hash": "5477177f648dfad0739649cda42f6dc6d09ac7f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123448$25666DB9-6889-403F-95E2-E15C411DCCFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118293",
+              "numeric-id": 118293
+            }
+          },
+          "hash": "67a2b29de18f771e699977538c587f4ea925426c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123448$B8CC9CCA-51D1-47D7-AAB3-1C60846C60AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123448$B3BA19CC-3EA8-448F-A3A5-C35507D573A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123448$728854BD-BB5E-4335-8698-C0E257616767",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123444",
+              "numeric-id": 123444
+            }
+          },
+          "hash": "3633de13bfa03cf57aa50be50f786aca0ccbecc4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123448$33D69242-2B5D-42C8-90F8-F4EF9CB6E011",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123448$258E363C-2DF1-4F44-BB0C-3D573A3C7F69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c36d5616da0c0b2cf4662248a5d88a9c7efc1ab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123448$3BD8C39D-F9A5-45FF-9054-017960FCFC91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1196-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "87fc197333b3accf92db465cafccce2933d3b271",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123448$8F12933A-DAFC-495B-B640-97AA384C7732",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19289994"
+          },
+          "hash": "6e3b5194143c33eb0d60ba210b12df44c3c6c2d7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123448$F91F0012-9D9A-4539-90F5-8EB068F3222F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=berenguela;n=de queralt"
+          },
+          "hash": "fe86bd002d13858ab6aca0b78015ea2bff22522b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123448$A2392C08-4523-4744-8FFE-CC574B0F1F73",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenguera de Queralt Arms.svg"
+          },
+          "hash": "cccb527b5ffa9ef12d821b4bdf31b0ee58025311",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "noble catalana"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble catalana (f. 1196)"
+    }
+  },
+  "id": "Q123448",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Berenguera de Queralt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berenguera de Queralt"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Berenguera de Queralt"
+    }
+  },
+  "lastrevid": 17536632,
+  "modified": "2025-09-17T06:58:55Z",
+  "ns": 860,
+  "pageid": 149025,
+  "sitelinks": {},
+  "title": "Item:Q123448",
+  "type": "item"
+}

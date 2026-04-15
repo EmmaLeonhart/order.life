@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pons Ier de Marseille"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q124221$6510B623-0E45-441F-8715-7EDB0C294339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124221$1E723DF7-E7A3-4C6B-9325-850977512303",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124221$6EF71B0C-4CCB-46CB-B239-F9C954F825A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119161",
+              "numeric-id": 119161
+            }
+          },
+          "hash": "7649662b87938404f591ba0244b94dc15af2b405",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124221$6FF3661D-0BED-418F-831C-CA39FBECB3F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124221$0C7AE265-25F7-498D-A271-072CF02DBEE3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124221$32EC21BF-D47C-4DE6-AB26-A9FE5E5E0620",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1015-03-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dea9fdf952a12f7a7f24cf7f432dc8ad0c78d439",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124221$2E5F3384-0FF9-45A1-9CDF-23EF424CAD44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3396285"
+          },
+          "hash": "5467606bee9a85fff84eeef7559d781a02d57ddf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124221$20238986-3E94-4B59-85B6-240F56E7F4EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pons;n=de marseille;oc=2"
+          },
+          "hash": "d7f5dd937f332b181f7111564ae44032b404cb9b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124221$C76D99D6-0510-4F51-B101-0A2F9DFB81FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pons Ier de Marseille Arms.svg"
+          },
+          "hash": "78a4cc2cf5af66667445e42d2e42a34830f19035",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "bishop of Marseille"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Marseille"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bisschop van Marseille"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ Марселя (977-1008)"
+    }
+  },
+  "id": "Q124221",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pons Ier de Marseille"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pons Ier de Marseille"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pons Ier de Marseille"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pontius I van Marseille"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Понс I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pons Ier de Marseille"
+    }
+  },
+  "lastrevid": 17537372,
+  "modified": "2025-09-17T07:09:39Z",
+  "ns": 860,
+  "pageid": 150054,
+  "sitelinks": {},
+  "title": "Item:Q124221",
+  "type": "item"
+}

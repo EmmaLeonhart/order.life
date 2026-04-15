@@ -1,0 +1,388 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip of Cognac"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122901$A9B33ABF-F113-45FE-9BBF-D8B54A7BE73D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00482395"
+          },
+          "hash": "229b7a6915eca962cd0e729c26d8b844d04dd55f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122901$F8484937-EF5D-4E06-86E7-43CE84EBC640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122901$AFD2804E-9860-455A-9A3B-4649A516E2ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122901$18478CE3-2B63-4124-8A6C-AA4A233BE13F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip_of_Cognac_(1)"
+          },
+          "hash": "85433e7ec6a24b897e74eba171ca13bc1d4f6a05",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q122901$A6144EE6-FD6A-48BE-A452-B90E489EC1F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10487.htm#i104867"
+          },
+          "hash": "06a19b20f8a572168616091cee1de009eef5573d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122901$478396CA-E694-4F6B-A399-1842BFDFF9BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117922",
+              "numeric-id": 117922
+            }
+          },
+          "hash": "f34f8bfc2d3903fe3c8cadbc709feb37202a8496",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122901$A057A3E4-C6DE-4647-8889-3E6FA255A046",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122901$5290686B-AF45-47DF-8BF0-65D0E5A392BF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9dff9634722d33196cf9c3fcacc41128beca84b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122901$F5F1DD3B-B8ED-4EEA-BEEB-CD144F8BDA7B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3a1c59c3e913f9199a78df6af7cf1393b77d696",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122901$3C6E2DE4-4921-41B4-A8BC-1B5939493A6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1405919"
+          },
+          "hash": "5a5316b193ba1904fd7734d050c91aa41050aeb4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122901$86938057-3FD0-4C76-A8D8-944A260E0008",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=philippe;n=fitz roy"
+          },
+          "hash": "a817455ae0471e37d478014f24aecade5a6ee201",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122901$B2956B94-D811-4FDC-B1FC-5439D98F89CD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip of Cognac Arms.svg"
+          },
+          "hash": "7099e65830ef613bf93e5555789a83291983d09e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1180-1200) o dras fonheddig"
+    },
+    "de": {
+      "language": "de",
+      "value": "illegitimer Sohn des englischen Königs Richard Löwenherz, Herr von Cognac"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "12th-century illegitimate son of King Richard I of England. Peerage person ID=104867"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils illégitime de Richard Cœur de Lion"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Filó ilexítimo de Ricardo I de Inglaterra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կոնյակի իշխան"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio illegittimo di Riccardo I d'Inghilterra, signore di Cognac"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "buitenechtelijke zoon van koning Richard I van Engeland, heer van Cognac"
+    }
+  },
+  "id": "Q122901",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Філіп Каньяцкі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Felip de Cognac"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Philip o Cognac"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp von Cognac"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος του Κονιάκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip of Cognac"
+    },
+    "es": {
+      "language": "es",
+      "value": "Felipe de Cognac"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe de Cognac"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Philip Cognac"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Filipe de Cognac"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפ מקוניאק"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Philip of Cognac"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ֆիլիպ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo di Cognac"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィリップ・ド・コニャック"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Filip av Cognac"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Filips van Cognac"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip z Cognac"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп де Коньяк"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Philip of Cognac"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "科尼亞克的腓力"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "干邑的腓力"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "干邑的腓力"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "幹邑的腓力"
+    }
+  },
+  "lastrevid": 17536086,
+  "modified": "2025-09-17T06:51:45Z",
+  "ns": 860,
+  "pageid": 148294,
+  "sitelinks": {},
+  "title": "Item:Q122901",
+  "type": "item"
+}

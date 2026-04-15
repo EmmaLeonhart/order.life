@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillaume de Beaumont-au-Maine"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124912$D05591F0-F427-42F8-AE24-6701031FED78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330893"
+          },
+          "hash": "9554d182b81aaccb9c76314e59e33ada51b8e8de",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124912$B1239B67-F68E-4176-927E-CF811FEBD3D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124912$F1A10059-9DAA-482F-8EB0-ACD43694A7D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124912$749754BE-7048-4275-A29F-55CCE469E077",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p46549.htm#i465481"
+          },
+          "hash": "976aae9a897a51bf85715fd2fb3b7dd015310e1f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124912$E921857D-2320-43B4-A208-0CE1C355EE6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124886",
+              "numeric-id": 124886
+            }
+          },
+          "hash": "8c2d4bbc06cb52a86c729c6783d6535de5f53273",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124912$4C1D1A6D-F2FC-4C7C-B63C-0844F9241D14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119587",
+              "numeric-id": 119587
+            }
+          },
+          "hash": "fd3d0f37cd65ed1b49a713efddb505665d6f2c1d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124912$7D5A9BE3-E25F-4338-86A7-B97ED02AED53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124912$EE4B3278-C8A3-4863-B601-5F934D972877",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1177-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a360f878a8d589e05a121c26b7e4aaf1a492f0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124912$18202A2E-3491-4337-BFD4-0851DF863572",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1240-09-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "11f809363bf69cfea266fc0234a437c0967531fd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124912$7DD697B7-BD3A-47E9-9AD5-C2BECE2459E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3120277"
+          },
+          "hash": "c11580617fd7289c10576f533c69982c5fd5dfd6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124912$DC695D32-68B1-4279-A28E-3BBE7262FAEB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume de Beaumont-au-Maine Arms.svg"
+          },
+          "hash": "3e8c58c1c60569e9eaf97a6e6fdd8ce71bae2552",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof der römisch-katholischen Kirche"
+    },
+    "en": {
+      "language": "en",
+      "value": "bishop of Angers"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prélat catholique (1177-1240)"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "prelaat"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ Анжера"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "єпископ Римсько-католицької церкви"
+    }
+  },
+  "id": "Q124912",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Guillaume de Beaumont-au-Maine"
+    },
+    "de": {
+      "language": "de",
+      "value": "Guillaume de Beaumont"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guillaume de Beaumont-au-Maine"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume de Beaumont-au-Maine"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guillaume de Beaumont-au-Maine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guillaume de Beaumont-au-Maine"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гильом де Бомон-о-Мэн"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Guillaume de Beaumont"
+    }
+  },
+  "lastrevid": 17538052,
+  "modified": "2025-09-17T07:18:47Z",
+  "ns": 860,
+  "pageid": 150981,
+  "sitelinks": {},
+  "title": "Item:Q124912",
+  "type": "item"
+}

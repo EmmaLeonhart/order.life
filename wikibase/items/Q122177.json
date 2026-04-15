@@ -1,0 +1,325 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ottokar I of Styria"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122177$06D1F30E-DAA5-4378-924E-51452D18A7D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "722739"
+          },
+          "hash": "15c1cf1d2cbda4f5fb8a76a2b6a05d5e943641e0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122177$70B618F8-239F-4157-AC79-1C202DA3906A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122179",
+              "numeric-id": 122179
+            }
+          },
+          "hash": "a81869fb9ae0016d5e666b906e2ce3a307f33679",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122177$E8E13581-64BA-4400-8B06-801F8A1FA9E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117542",
+              "numeric-id": 117542
+            }
+          },
+          "hash": "5fcc96f9cf7e142b1dfe7294e9196997e47ff605",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122177$C199BAEE-F6AC-4A38-9A74-D09961DB8115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122177$DCC47AF4-84F1-4CA9-9E48-3B1E7415CB8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122177$9B65095A-28C8-4227-B6F1-D71F4069EE6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ottokar_I,_Margrave_of_Styria_(1)"
+          },
+          "hash": "9eeea41ac0693cffe330acb398a162f2083a4bed",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122177$68A8C810-B1A6-456C-95DE-495D771C3A2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122177$FC6D8C33-6399-415D-8EC6-52109058875D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122177$3E26EAB5-F1A2-4944-8ABB-BCB92FBEB5C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1075-03-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "874a95618165cd051ac53d45e0f67d87d0c2896c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122177$CE74F625-EBAF-4B2F-9EFB-41EDCC7CBD44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q117323"
+          },
+          "hash": "28125a39b73fbb07dd27f8573fb32353e3c403ff",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122177$95F27C0E-75FD-4B23-9EAA-77DEE070D303",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ottokar I of Styria Arms.svg"
+          },
+          "hash": "be4c6f3a0033bc6c50d20c871812ad599a1b2c17",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Markgraf der Steiermark"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margrave of Styria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "margrave de Styrie"
+    }
+  },
+  "id": "Q122177",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوتوكار الاول من ستيريا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Отакар I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Отокар I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ottokar I d'Estíria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Otakar I. Štýrský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ottokar I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ότοκαρ Α΄ της Στυρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ottokar I of Styria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ottokar I of Styria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ottokar Ier de Styrie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ottocaro I di Stiria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オットカール1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ოტოკარ I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ottokar I van Stiermarken"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ottokar I de Stiria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Отакар I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ottokar I od Štajerske"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ottokar I of Styria"
+    }
+  },
+  "lastrevid": 17535366,
+  "modified": "2025-09-17T06:42:08Z",
+  "ns": 860,
+  "pageid": 147323,
+  "sitelinks": {},
+  "title": "Item:Q122177",
+  "type": "item"
+}

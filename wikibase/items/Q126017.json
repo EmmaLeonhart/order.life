@@ -1,0 +1,633 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ada de Warenne"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126017$0CB2F4F4-4CBC-43A3-857B-68A262E5DEB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "111087"
+          },
+          "hash": "ec2b64e31ee8aba40d58aff164cdcf8a519e56ed",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126017$C05655D5-6202-4E80-B66B-3D37F621236A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00015377"
+          },
+          "hash": "179a10a0a1651fba385f8e9d341612a68918f75d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126017$491158F1-1B26-470F-B8DC-D3053A0C3050",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129197",
+              "numeric-id": 129197
+            }
+          },
+          "hash": "869e07910c4169c6b94ea21e025958c3e6e44ac4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$0F19BD29-722C-43FE-84E5-7E0D14DB3338",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142442",
+              "numeric-id": 142442
+            }
+          },
+          "hash": "9a3282b5b604f05bd38667a597172cab9347cd52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$DAA4E2CA-EE74-40E4-AED1-287D9F6829CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143736",
+              "numeric-id": 143736
+            }
+          },
+          "hash": "e3cb8964644a7d9b1904b68d83972b31d0e3328d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$43988106-0760-4AC5-BC82-DFF8E09C7DD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143738",
+              "numeric-id": 143738
+            }
+          },
+          "hash": "13a97c9ab5f02d253e15b239fb404b01ff994b00",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$C8BA6CFF-9DD7-4F21-B5AD-B9F3A3CBFB28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143737",
+              "numeric-id": 143737
+            }
+          },
+          "hash": "a1f47a2ac1f7cb111dca4b0b27a37f629da719cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$0FCDE41F-6FF8-4CDF-92FE-3649D1898DD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143740",
+              "numeric-id": 143740
+            }
+          },
+          "hash": "0d997d5b40e79618237eff9aee9ffb879ac932eb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$47584235-DB5F-4633-A17D-6AF0791B1AB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143741",
+              "numeric-id": 143741
+            }
+          },
+          "hash": "3d13a45d006fdc3e331ec1e28eef1b887f3716a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$7608B88E-74E2-48BF-90D1-A6F3FCF2490E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143742",
+              "numeric-id": 143742
+            }
+          },
+          "hash": "a4890cf5965a5e89500e11c645cc093b373b6510",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q126017$A6D5D963-FF4F-4943-AF45-0436E1BBBA31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LZ84-SKX"
+          },
+          "hash": "527dd7b9ea2781d16b305f93bfe72b2007077abf",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126017$53A5929E-110E-405B-A98F-DC7D519AB4E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Warenne-18"
+          },
+          "hash": "eb332a211ff3a0f2ad4344f14196d3b3b45e14cb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q126017$46D1D34C-13FC-45E3-B378-01C269B7AA27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I4781"
+          },
+          "hash": "36bdae4b3c513abd57bd75af7270c05061d9537c",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126017$7109A208-C51B-4A3F-BCF1-34A5863DBE1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126017$A1D5CD11-B4F6-470B-A4B0-4741C34DD86D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126017$305A67BF-D097-4EF3-908F-211A3C352EEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ada_de_Warenne_(2)"
+          },
+          "hash": "92826e553f84459341c54336d9f17ba2b429faa2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126017$745B0185-D0E2-4A17-B261-6005D8E848DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126775",
+              "numeric-id": 126775
+            }
+          },
+          "hash": "1911d497514e5dbb6e16cba56f2c91e613dbfb7f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q126017$164E90E6-BABD-4C3A-B2B1-23EB31407049",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10293.htm#i102929"
+          },
+          "hash": "a5a2e6f21d2e8382105f58d62433887c98ce600a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126017$44626897-0BE8-4F6B-A204-EBF3D89BC162",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126007",
+              "numeric-id": 126007
+            }
+          },
+          "hash": "a338424f83789d72c783fa2e100887a1782d2f93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126017$53006490-F8AA-466F-9431-7BD595AA7BFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120444",
+              "numeric-id": 120444
+            }
+          },
+          "hash": "a490bc7307e1667ea24c2f63748a9251fa8a2742",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126017$5F979CCE-B045-49C0-A34E-110F73DB3F93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126017$7DEF0D05-82ED-49C7-963E-6FAA85B793F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1123-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9aea3269b308f8c38bed7e0fa19ab878c8f928c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126017$35AFE8EE-9616-4B27-AE84-F744DB8B2272",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1178-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e86f8745f138af51c9452a5df8faec9dc258bfc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126017$9DDACF7E-E387-45F4-B8DB-D53AE5F3E77B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2536999"
+          },
+          "hash": "001262cfc95ef514398aa5f0a6ed3b61c5621ad0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126017$700F6094-70FA-498C-8E4D-72E43B3239D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ada;n=de warenne"
+          },
+          "hash": "f4b3a0a3978e1d2c8998240e8f60a522ff61bcd2",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q126017$9E5A76A0-5441-4979-AD7B-8D083DBD8B5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sw.213610"
+          },
+          "hash": "a89af6c11b37ce111c18e5fd1526ab1fc9d7e362",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126017$C649B19B-BCDC-4EC9-BBA4-C2A1289A4E52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ada de Warenne Arms.svg"
+          },
+          "hash": "61a5f7130a4a3dc012a11f512b2c5f4f522c0608",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "schottische Adlige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mother of Kings Malcolm IV and William I of Scotland"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble anglo-normande"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня Хантингдон"
+    }
+  },
+  "id": "Q126017",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "آدا دى وارين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Ada de Warenne"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ада дэ Варэн"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ada de Warenne"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άντα ντε Βαρέν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ada de Warenne"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ada de Warenne"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ada de Warenne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ada de Warenne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ada de Warenne"
+    },
+    "he": {
+      "language": "he",
+      "value": "עדה דה וארן"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ada de Warenne"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ada de Warenne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ada de Warenne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ада де Варенн"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Ada de Warenne"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ada de Warenne"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ada de Warenne"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ади Варенн"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿達·德·瓦倫"
+    }
+  },
+  "lastrevid": 17539128,
+  "modified": "2025-09-17T07:33:13Z",
+  "ns": 860,
+  "pageid": 152462,
+  "sitelinks": {},
+  "title": "Item:Q126017",
+  "type": "item"
+}

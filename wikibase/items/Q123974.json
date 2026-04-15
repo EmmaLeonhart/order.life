@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Recimir"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123974$DA433A98-2354-4FBC-B73D-0E2C68347464",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "275241"
+          },
+          "hash": "a7de4f96451ef4b8a36913577df148a031d2f7f4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123974$AE91B60C-1B55-4591-8249-6678B6553EBC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Balthes-9"
+          },
+          "hash": "3c07b1bcc8c43fd3d0b6178dc53021d4a0cf47a5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123974$9C243178-129B-42AD-8ADD-3328F9873F81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123974$B73DD362-CB8B-4033-A576-8CC29F037E9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123974$F4C90817-E280-4BDE-8062-0F1F66CBFCAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118870",
+              "numeric-id": 118870
+            }
+          },
+          "hash": "74f7bda38ed6546669bc671f0a3f97e22e47c9be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123974$2BA55791-50A7-4E17-830E-2219964CCF33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118872",
+              "numeric-id": 118872
+            }
+          },
+          "hash": "e4c339efdc2ea3f02d31480be5d599c385670ab2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123974$4005A2AD-9742-4725-835E-C142545FC5BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123974$4E136B09-C7B1-4E8E-8313-C04DC76D5650",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0610-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "21a02d09b7dcdb2d7aef56b134d776e20da233eb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123974$82283D9C-4D47-4AB6-A25A-000E1982ADA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0631-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83d4603040e9d6f4dce09ca6a0776605350f876c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123974$EF7A5603-6F53-482B-A2EE-FB7D0D9CDA9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11945561"
+          },
+          "hash": "8a70befb3ed7b243e003c76143afa1746fefb04f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123974$3392947A-976A-4010-A5E3-ECDCC3E79E71",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Recimir Arms.svg"
+          },
+          "hash": "7ac48ef85cb8959f2b604a0d3ed8841366166569",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Visigoth prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "Principe visigodo"
+    }
+  },
+  "id": "Q123974",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ricimir"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ricimir"
+    },
+    "en": {
+      "language": "en",
+      "value": "Recimir"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ricimiro"
+    }
+  },
+  "lastrevid": 17537130,
+  "modified": "2025-09-17T07:06:20Z",
+  "ns": 860,
+  "pageid": 149722,
+  "sitelinks": {},
+  "title": "Item:Q123974",
+  "type": "item"
+}

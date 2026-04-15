@@ -1,0 +1,215 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henri I of Grandpré"
+      },
+      {
+        "language": "en",
+        "value": "Henri I of Grandpre"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q122492$9D52D388-59FD-40E6-8155-A9F51445B5B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117696",
+              "numeric-id": 117696
+            }
+          },
+          "hash": "7304e29d6aa047d8dc2476454575c47f742dc2f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122492$0913CBB1-AB6F-4F8C-BB05-AE12FB585202",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128725",
+              "numeric-id": 128725
+            }
+          },
+          "hash": "017c9e11e2379d3ea8b1aa683e01db58da59897b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122492$CDB31F5F-0FEB-4B93-85CE-8A6765BEDD2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122492$9AE58B0A-082B-4D31-BDE5-3AD2606A7E83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122492$C1C5CFB9-D12D-44D2-A2D4-667483AF2F32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122492$B9F1261D-026E-4710-844D-A43174E138B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94b17f56dd7e53642af9aedc8c2d6f0cfed5870a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122492$105B4A46-2C04-4D92-B9A4-EC61BF83AEA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128904807"
+          },
+          "hash": "20af71420619e5692b459c2883c8cfb69a1af0fb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122492$33951259-6C13-45E7-B635-D0B7F639FC33",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henri I of Grandpré Arms.svg"
+          },
+          "hash": "ce40aab15f25f005071fd7a3783681a8c2af9216",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French Lord"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur champenois"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф де Гранпре"
+    }
+  },
+  "id": "Q122492",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Henri I of Grandpré"
+    },
+    "es": {
+      "language": "es",
+      "value": "Henri I of Grandpré"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri Ier de Grandpré"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих I де Гранпре"
+    }
+  },
+  "lastrevid": 17535680,
+  "modified": "2025-09-17T06:46:19Z",
+  "ns": 860,
+  "pageid": 147746,
+  "sitelinks": {},
+  "title": "Item:Q122492",
+  "type": "item"
+}

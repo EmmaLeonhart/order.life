@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aldgisl"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q123812$184CA9D5-C022-462C-A437-3A68D9E2C5D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118692",
+              "numeric-id": 118692
+            }
+          },
+          "hash": "03203b7ebb03e93344c172728d0879f5459dfca6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123812$A637A236-EA50-4798-8392-1EF79AE72C9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123812$0D78E3D3-3B39-40B9-B611-35119039723A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123812$CF9A9792-3DDB-4287-B219-36BBE2C40335",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aldgisl_of_Frisia_(1)"
+          },
+          "hash": "339e31f89f5ed147654e919aaa3ef9e46cbc226c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123812$DB5B969B-A399-4A33-B7E3-1C3B63C98779",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123812$3AC6FE87-2DDF-4746-A207-F062E831D540",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123812$90302990-115C-4158-9F7E-E4A535CC2746",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0680-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e13f8e9f2d598d0fa8e64952496e9876317fa93",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123812$2171D29E-1392-4117-AADF-F13AD1833F47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20692"
+          },
+          "hash": "f70b72ce2f09afbe0b7a5a4e60423be45cc6b96c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123812$90A50745-3BF4-45C7-A0BA-4AC179989076",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aldgisl Arms.svg"
+          },
+          "hash": "a63a533e766466b849d448a467a5844d3c3c35e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "крал на фризите"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscher in Friesland"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruler of Frisia"
+    },
+    "es": {
+      "language": "es",
+      "value": "gobernante de Frisia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain frison"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fries heerser"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Фризии"
+    }
+  },
+  "id": "Q123812",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Aldgisl"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ألدخيسل"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الدخيسل"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Aldgisl"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Алдгисл"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aldegisel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aldgisl"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aldgisl"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aldgisl"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Aldgisl"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Aldgisl"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aldgisl"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Aldgisl"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aldgisl Ier de Frise"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Aldgillis"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Aldgillis"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aldgisl"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aldgisl"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Aldgisl Ier de Frise"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aldgisl"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альдгисл"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Альдгісл"
+    }
+  },
+  "lastrevid": 17536978,
+  "modified": "2025-09-17T07:03:40Z",
+  "ns": 860,
+  "pageid": 149506,
+  "sitelinks": {},
+  "title": "Item:Q123812",
+  "type": "item"
+}

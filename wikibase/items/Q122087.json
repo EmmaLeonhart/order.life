@@ -1,0 +1,402 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rostislav II of Kyiv"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122087$FBCFBE3E-122C-4197-B75D-75A282B99D0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "869"
+          },
+          "hash": "4537d0c0e81c0a765f37d6b87b8daa1efc687a28",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122087$7A3CBDE4-A0C4-46A2-B0DC-3E607FDEC89F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122087$B12EADD1-B732-401D-A52A-4D564F44D0AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122087$A594C2C3-308A-43D1-AD47-D71F092FB755",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Rostislav_II_of_Kiev_(1)"
+          },
+          "hash": "49de9d71039dbbbbf39488448010f6544fc5065b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122087$5A01DFA3-6A0C-43C2-9706-B347ADDEBE06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127114",
+              "numeric-id": 127114
+            }
+          },
+          "hash": "c2c10a918c9db0b157f4b7bfff976d860c6c9aad",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122087$55A17B90-6391-4C97-A46B-012D92E5E2FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122083",
+              "numeric-id": 122083
+            }
+          },
+          "hash": "4a8baf020c6c7aab31dc96b8a786ffeb0f218258",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122087$7021B74D-7A88-4CB2-A977-65C626AF08FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117496",
+              "numeric-id": 117496
+            }
+          },
+          "hash": "05c248be593e84cb99282709edf51f74aaa44cd2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122087$15C74BA0-497F-4976-AC03-F53F5AFC3621",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122087$2E85045A-EA7A-4809-9A29-6E2DC7CDE65D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1173-04-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "701cac1ecd5aa569b6d175f7a66c606c2b7209a8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122087$C607A2AC-9D91-4C08-B91D-B5B6984F525E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1218-03-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cdef7e8bb907376b62d260def508535da6398184",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122087$189562D2-AF4A-450A-B063-4EB5E13591BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q496295"
+          },
+          "hash": "a95268269bb72b7b7a716121d654075ceba4a7dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122087$9DC4BEE2-BEFF-40A6-AABE-A92AB8CF34B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=rostislav;n=rurikides;oc=21"
+          },
+          "hash": "ee6814bba6b680dcbf8152396352cbaa033923eb",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q122087$096C50F1-069D-4BF1-B1E8-0754F39C2016",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.985"
+          },
+          "hash": "b184774457a6c54cf648ddd6a784119a447814c7",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122087$9FC624BF-909B-4D4C-9809-3C274A86DBDD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rostislav II of Kyiv Arms.svg"
+          },
+          "hash": "e4ffd1a2cf698578168633f6690a2abac3893899",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "ruský velkokníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Großfürst der Kiewer Rus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Grand Prince of Kyiv (1173-1218)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince du Rus' de Kiev de la dynastie des Riourikides"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kijevi nagyfejedelem"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь"
+    }
+  },
+  "id": "Q122087",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "روستيسلاف التانى ملك كييف"
+    },
+    "be": {
+      "language": "be",
+      "value": "Расціслаў Рурыкавіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Rostislav II. Kyjevský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rostislaw II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ροστισλάβ Β΄ του Κιέβου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rostislav II of Kyiv"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rostislav II of Kiev"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rostislav II de Kiev"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Rosztyiszláv kijevi nagyfejedelem"
+    },
+    "it": {
+      "language": "it",
+      "value": "Rostislav Rurikovič"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロスチスラフ2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로스티슬라프 2세"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Rostislav II av Kiev"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rostislav II of Kiev"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rościsław Rurykowicz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ростислав Рюрикович"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Rostislav II av Kiev"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ростислав II Рюрикович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗斯季斯拉夫二世··留里科维奇"
+    }
+  },
+  "lastrevid": 17535276,
+  "modified": "2025-09-17T06:40:54Z",
+  "ns": 860,
+  "pageid": 147203,
+  "sitelinks": {},
+  "title": "Item:Q122087",
+  "type": "item"
+}

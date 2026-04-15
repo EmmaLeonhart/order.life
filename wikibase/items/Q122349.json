@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William I"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q122349$EA8F85B0-122E-4324-A850-64A7E5258012",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122349$E5D40A57-D5B5-4D49-B203-5243B61B1E99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122349$16188BD3-FF53-48D4-9FFE-D07655A1C451",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117636",
+              "numeric-id": 117636
+            }
+          },
+          "hash": "1529597c74af3bfa2d3bf0fe98698a84d76c52c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122349$4184AAB6-F692-40D7-AB9B-A5353A01A048",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122349$AB902142-D880-4378-887B-8C61D840535D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1076-04-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4bc5364b382c260e4f8206e674fc64a7dd4b904d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122349$1957866E-5A26-41A7-9CDE-AFA73E031418",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q445833"
+          },
+          "hash": "b06da4c9fc4f0e29a27ed1576d97c52de5866dde",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122349$FC50BA97-4EF0-4DA6-BED7-800718123C94",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William I Arms.svg"
+          },
+          "hash": "3771c0984a8ba35734713a98ed195668a333e080",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bischof von Utrecht"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Utrecht"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bisschop"
+    }
+  },
+  "id": "Q122349",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Guillem I d'Utrecht"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vilém I. Utrechtský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wilhelm I. von Utrecht"
+    },
+    "en": {
+      "language": "en",
+      "value": "William I"
+    },
+    "es": {
+      "language": "es",
+      "value": "William I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Willem van Gelre"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo I di Utrecht"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vilhelm I av Utrecht"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Willem van Gelre"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "William I"
+    }
+  },
+  "lastrevid": 17535538,
+  "modified": "2025-09-17T06:44:26Z",
+  "ns": 860,
+  "pageid": 147555,
+  "sitelinks": {},
+  "title": "Item:Q122349",
+  "type": "item"
+}

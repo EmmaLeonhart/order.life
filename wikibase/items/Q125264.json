@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Renaud de Montmirail"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125264$85D533F4-9C7C-4CC4-AC6D-B7D99220B39B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330932"
+          },
+          "hash": "3a9d9decd7c879f62db7eec28d7157217210d7bc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125264$B2A6710E-E4BB-4EE0-AF4B-17E5490E1F8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125264$9D577C89-09E3-46A3-B49D-D10B3D14207B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125264$E7D7EBAB-75C3-40EE-B9FB-24029F8AF052",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125260",
+              "numeric-id": 125260
+            }
+          },
+          "hash": "cd929f9299f1e124cbc139d3199438abefa4fd64",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125264$551A7404-E608-4138-99C4-58F392AC1818",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119802",
+              "numeric-id": 119802
+            }
+          },
+          "hash": "30cc7b6886c93d190614732713909dabc2627799",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125264$CB7FEE96-F9B2-4162-A701-F7D28B098FEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125264$1FBD61AB-E582-4C38-90BA-234392E61F12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1205-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e81e369c8516608ea50b01725e1bd48cfed1ee9b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125264$ADAB99AA-A311-45DB-AD66-A348875F58E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20707615"
+          },
+          "hash": "9242052cc7136e059dca063747b8541af0470a10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125264$24727046-6590-4174-A3D7-4A65BA36330A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=renaud;n=de donzy"
+          },
+          "hash": "09bbf3ea7a4b119c8d86964ccc15ed7c64db4ece",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125264$5A9A304E-9CA8-4422-9507-1C844F20381C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Renaud de Montmirail Arms.svg"
+          },
+          "hash": "57e80ae9b692bd97cecca50be810803a7bb2e207",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French nobleman, member of the Fourth Crusade"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "chevalier français"
+    }
+  },
+  "id": "Q125264",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Renaud de Montmirail"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Рено дьо Монмирай"
+    },
+    "en": {
+      "language": "en",
+      "value": "Renaud de Montmirail"
+    },
+    "es": {
+      "language": "es",
+      "value": "Reinaldo de Montmirail"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Renaud de Montmirail"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "メンティミレルのレノ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Renaud de Montmirail"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рено дe Монмирай"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蒙米拉伊的雷诺"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "蒙米拉伊的雷诺"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蒙米拉伊的雷諾"
+    }
+  },
+  "lastrevid": 17538382,
+  "modified": "2025-09-17T07:23:15Z",
+  "ns": 860,
+  "pageid": 151454,
+  "sitelinks": {},
+  "title": "Item:Q125264",
+  "type": "item"
+}

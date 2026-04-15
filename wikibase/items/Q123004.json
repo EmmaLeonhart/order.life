@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gauthier of Bethsan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123004$41B7267A-CB72-46DE-850C-D93B43F44EF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106153"
+          },
+          "hash": "966e8ce8c00279e4811bd6dd45f3bf649022d2c7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123004$D94589C0-040C-401C-881A-CCD5F022EEFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123006",
+              "numeric-id": 123006
+            }
+          },
+          "hash": "48f603a2618d15acbeef8dc7279954522d731e12",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123004$65D53754-64D2-4CD9-9187-A1823CA71135",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123004$AD1E178F-79C3-47B8-93E5-64CD6D6AF871",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123004$C318E2B8-DAFD-4080-B94E-2B8D5713FC8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117954",
+              "numeric-id": 117954
+            }
+          },
+          "hash": "30feb75c85f21f217b39d885e7c0cee40688efe1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123004$DA8B0EBF-1FE8-4593-BA79-6A3BC304C297",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123004$A3D3441C-52A8-4861-B10C-E342448729F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113954829"
+          },
+          "hash": "54f8f626cb4ccf028950b4e18f5142aee6cdfb3c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123004$904CA357-53B3-481A-A9C2-059AA9A35D34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gauthier;n=de bessan"
+          },
+          "hash": "d9ed1c5d66b23952f2ecbbbe0a4cdfc1c7850eff",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123004$FB275324-F8C3-49C5-8DC9-E53A1F73644D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gauthier of Bethsan Arms.svg"
+          },
+          "hash": "19e97fd83519275f6577bb6db6520b8ac863206a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q123004",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Gauthier Bethsanský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gauthier of Bethsan"
+    }
+  },
+  "lastrevid": 17536188,
+  "modified": "2025-09-17T06:53:06Z",
+  "ns": 860,
+  "pageid": 148431,
+  "sitelinks": {},
+  "title": "Item:Q123004",
+  "type": "item"
+}

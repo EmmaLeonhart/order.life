@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Étienne de Joinville"
+      },
+      {
+        "language": "en",
+        "value": "Etienne de Joinville"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126570$A8A35502-632C-4AD0-931B-93CD138F1391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126570$8F4AD910-67FD-4985-9F6E-0FC4B90BD613",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126570$00A4FBBB-2ED6-4F3A-9C38-94523D6D1E45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Étienne_de_Joinville_(1)"
+          },
+          "hash": "7e7b96f11c7902a936e57a7e38ca132fc95b1df8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126570$9B442ED0-52FB-49B8-AC5F-ADAE83BE7230",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126566",
+              "numeric-id": 126566
+            }
+          },
+          "hash": "1a3bcae1551e73d509a28416f8d43d6ed64fcd2a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126570$F5E9C9A8-A1A5-48C0-A07E-CCCFB9CD6A47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126568",
+              "numeric-id": 126568
+            }
+          },
+          "hash": "bc1dab93b3bbc260d2a061d7bdee02909f572143",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126570$DC316C35-D1DF-4BE9-8850-9B910155AEF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126570$529565EF-2F91-4AD6-8ED6-8A2319D02C17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1124-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9801485b24b42db9520e146758a56a18b494e1a8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126570$61A2ACC1-E385-4AE0-93DD-46637145FC1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17354379"
+          },
+          "hash": "879030598c0e773dfdd3b3e32d15ae785057c3b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126570$B43FE60A-D561-41C5-901C-EB89AD2204C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=etienne;n=de joinville"
+          },
+          "hash": "dc8589638537686ebbf6bcf92f9dbdf252a03cf5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126570$4003B899-3DC6-4B5D-B322-668CD9A47BBE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Étienne de Joinville Arms.svg"
+          },
+          "hash": "9ddf1e954ddf0b2bfd6ca709529e76b9486e3415",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Benediktiner und Abt der Abtei Saint-Pierre in Bèze"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "abbé de Bèze"
+    }
+  },
+  "id": "Q126570",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Étienne de Joinville"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Étienne de Joinville"
+    },
+    "de": {
+      "language": "de",
+      "value": "Étienne de Joinville"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ετιέν ντε Ζουανβίλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Étienne de Joinville"
+    },
+    "es": {
+      "language": "es",
+      "value": "Étienne de Joinville"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Étienne de Joinville"
+    }
+  },
+  "lastrevid": 17539670,
+  "modified": "2025-09-17T07:40:56Z",
+  "ns": 860,
+  "pageid": 153204,
+  "sitelinks": {},
+  "title": "Item:Q126570",
+  "type": "item"
+}

@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anund Emundsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126748$B3B654C3-E56E-4039-85F5-8FB5ED3A8342",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00049969"
+          },
+          "hash": "76d1164b06908bc4daa7355b914fd1b97575927e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126748$54C5C603-9650-46CB-97D2-07014F9793D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Emundsson-6"
+          },
+          "hash": "9f69a49685a3b91da4eeb3e0c2389e2eecea92c8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126748$DAB993F6-CBF8-4322-ABA4-86D3991A93E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126748$B6FFC0E8-517D-4583-9154-025CB90D87DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126748$3684E954-BDDD-4404-B6D8-80604BA0C3C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121095",
+              "numeric-id": 121095
+            }
+          },
+          "hash": "a14f53de63099686fde06309e14bdfcd8edcdb33",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126748$947C30B2-413E-4FF6-A467-5B7D58FF9AAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126748$AFE8B8DD-7F1B-4774-938B-CEC1C9363112",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1022-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "400cf316403bbed8a39cc73d9755764fd07f9247",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126748$F2995256-E370-4A22-AD49-FAD238DD359E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1056-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5db50a263feadf392bda76b1bbc8e99a4e757eed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126748$90FEA117-5086-43F4-89C6-BB80B85EA910",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2857802"
+          },
+          "hash": "16a3eccaf672849526886bb78fd1c6e118d92234",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126748$458CB249-CA25-4D56-941E-3FD46F297632",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anund Emundsson Arms.svg"
+          },
+          "hash": "54f3df743d32bc27a8fea233756627371deb1b84",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1025 - bef. 1056"
+    }
+  },
+  "id": "Q126748",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Анунд Эмудсан"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anund Emundsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Anund Emundsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anund Emundsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anund Emundsson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Amundo, filho de Emundo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Amundo, filho de Emundo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анунд Эмундсон"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Anund Emundsson"
+    }
+  },
+  "lastrevid": 17539846,
+  "modified": "2025-09-17T07:43:16Z",
+  "ns": 860,
+  "pageid": 153442,
+  "sitelinks": {},
+  "title": "Item:Q126748",
+  "type": "item"
+}

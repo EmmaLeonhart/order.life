@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Latavri of Tao-Klarjeti"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123580$978C3B90-5545-40BB-AE35-84A56F921C48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "268456"
+          },
+          "hash": "8cc0d5b28468a4d6e45b8a49a13478917d9661a5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123580$1FE0CE62-043B-42B1-954C-D383118A1D0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123580$1FC69EE3-F99F-4FC3-ADEB-0107B44C24C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123580$0FA8CB20-1E2B-4198-9E77-F343382D022E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118428",
+              "numeric-id": 118428
+            }
+          },
+          "hash": "8d03b134081d8835b3ca7465a7798a4b7a6cc0e3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123580$B384808D-8C68-4D0E-9F68-B3F2D0E72B66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123580$FAC2D0D9-1AF4-4268-90F5-EFA5EAAA1CE5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a554c7ff86988519b6b4b59e89ab9bb4e914800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123580$4656E23B-8A75-4573-8BB8-F9643D1B8CC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15557352"
+          },
+          "hash": "737bc6a68b2711a429c2ff55070930a9dd5c542d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123580$F139A869-B542-4163-B9BB-23C1805EB0CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Latavri of Tao-Klarjeti Arms.svg"
+          },
+          "hash": "6dd72d5f3d3689067a562cd48217552f00cf4cad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Georgian princess"
+    }
+  },
+  "id": "Q123580",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Latavri of Tao-Klarjeti"
+    },
+    "en": {
+      "language": "en",
+      "value": "Latavri of Tao-Klarjeti"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლატავრი"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉塔夫里"
+    }
+  },
+  "lastrevid": 17536756,
+  "modified": "2025-09-17T07:00:33Z",
+  "ns": 860,
+  "pageid": 149199,
+  "sitelinks": {},
+  "title": "Item:Q123580",
+  "type": "item"
+}

@@ -1,0 +1,318 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emmeline de Montlhéry"
+      },
+      {
+        "language": "en",
+        "value": "Emmeline de Montlhery"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126197$72141A77-B1B2-4E70-BA88-9E3D532C2E05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139476"
+          },
+          "hash": "5d4adeb06cfc6d373e2ba9270d9ab14651d37b7f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126197$55D43152-2753-4A3D-B4E1-30DFDB11C74F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124627",
+              "numeric-id": 124627
+            }
+          },
+          "hash": "94f065624978ed4066076285770d4a174cd20ca3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126197$71A29FDD-3288-41F9-9AE8-30F244EEC501",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montlhéry-13"
+          },
+          "hash": "3a48b388f2f79b133efe8aef4dc9fda7caaf2c95",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126197$00774488-61D4-42DB-8529-BF20B2B7D33D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126197$2C16983E-639C-4C54-8A92-F62B0E5CB8D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126197$6CA580D0-4874-470C-A67F-2E3B7B54DB76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120606",
+              "numeric-id": 120606
+            }
+          },
+          "hash": "24cb346fe4546ad54fe7d64999f4b395c0f6c080",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126197$6C6AD22B-7667-43E1-B059-C904C88C0BBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126191",
+              "numeric-id": 126191
+            }
+          },
+          "hash": "8d5c8f67542ea2244d7d9123e27a2119bb8377df",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126197$2C3160BF-494E-41E6-B2D9-DA7A3F74EF82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126197$062DFEE1-E1A0-41BC-9280-C1E22732666A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1075-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "994b508a4295f84a9fcfa952d15812452d9a58f6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126197$DA30A2E2-5B8F-44B9-9208-1D2CE685DD34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1121-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bdfe0a46629c425e8200a111bd991b1ba4a3f361",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126197$DB0E9874-5933-4E05-B0B8-3397344D96CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113133881"
+          },
+          "hash": "804484e4403d602c11dc21dba3c643ce3900bb7f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q126197$D21AF412-C597-48E0-8473-8AA611608A26",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Emmeline de Montlhéry"
+          },
+          "hash": "37e2a8189ff0e54a494d4aed242eb4e2f8fbd251",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126197$DBEB6C33-E435-4430-A144-93E03E2922EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=emmeline;n=de montlhery"
+          },
+          "hash": "0f1b6c847889acaceddf2b042662baf662ee2ca2",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126197$5636E667-93D5-4238-87F0-464642C1A5AA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emmeline de Montlhéry Arms.svg"
+          },
+          "hash": "25a98e58bd139a022706f8ff6947962aa4df6b9f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1075 - certain 1121"
+    }
+  },
+  "id": "Q126197",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Emmeline de Montlhéry"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emmeline de Montlhéry"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Emmeline de Montlhéry"
+    }
+  },
+  "lastrevid": 17539302,
+  "modified": "2025-09-17T07:36:08Z",
+  "ns": 860,
+  "pageid": 152704,
+  "sitelinks": {},
+  "title": "Item:Q126197",
+  "type": "item"
+}

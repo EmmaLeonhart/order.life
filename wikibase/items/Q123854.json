@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Harald Knutsson"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123854$EBCD4AE8-3259-4F20-9042-E60E620B0ED5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123854$7BF34B58-669D-4ED1-A65A-62C2A89BD690",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123854$0B6D00D9-718D-43DA-A06C-66CBAAE7CE16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118738",
+              "numeric-id": 118738
+            }
+          },
+          "hash": "751f2aae37a202205bd00b2c82793117a986a501",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123854$915CA722-0B06-4B5C-BC38-719E4DD1EF38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123854$EE1121DD-B55F-4BA8-852A-CE9EA9FBB912",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123854$27EB095C-EEED-48AD-802F-4AE9EDF2DC6E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0970-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fef57a6aeac202326af7f0f382c543d221cf6ead",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123854$AE9C6071-9432-4693-9C7E-04574ACECBDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5892234"
+          },
+          "hash": "46de97c95f2592a501e41f3007d43d8fa5531dd7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123854$415336BF-03B6-4758-B582-1025350557FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guld harald knudsen;n=de danemark"
+          },
+          "hash": "a73c6a0a453c85c59feb7e2df04bae1d41822276",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123854$AC68C62B-3E5F-4D21-8D84-A237107816D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Harald Knutsson Arms.svg"
+          },
+          "hash": "7bf04f55c6e6754ab6a7f7b2b8d02c9ec19cb750",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "dansk kongeætling, konge af Skåne (964-970)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prince danois"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "dansk høvding i vikingtiden"
+    }
+  },
+  "id": "Q123854",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Guldharald"
+    },
+    "de": {
+      "language": "de",
+      "value": "Harald Knutsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Harald Knutsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Harald Knutsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Harald le Doré"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Harald Knutsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Harald Knutsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Harald Knutsson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Harald Knutsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Harald Knutsson"
+    }
+  },
+  "lastrevid": 17537016,
+  "modified": "2025-09-17T07:04:10Z",
+  "ns": 860,
+  "pageid": 149561,
+  "sitelinks": {},
+  "title": "Item:Q123854",
+  "type": "item"
+}

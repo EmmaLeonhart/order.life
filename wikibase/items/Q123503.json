@@ -1,0 +1,287 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sancha Rodriguez de Toroño"
+      },
+      {
+        "language": "en",
+        "value": "Sancha Rodriguez de Torono"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123503$291B449D-A991-4103-8915-CEEE359FBFEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00115171"
+          },
+          "hash": "61ab1dcdf10d1b67665f47b03f113ad9fa20a0d9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123503$107678EF-3947-4DB2-B518-E95B67252D5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124313",
+              "numeric-id": 124313
+            }
+          },
+          "hash": "05017aab120f71d619ff908b4f452dc23743b191",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123503$0547D899-C3E1-4DB4-8DE4-D74DB95E97C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118352",
+              "numeric-id": 118352
+            }
+          },
+          "hash": "d7d179d7714bb14b42702b24046d06e812c83766",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123503$8267A220-17B4-4B7D-9413-45D3A611CECD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Toroño-4"
+          },
+          "hash": "14335c57b67834fdbf116712fca3a52f0adf3584",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123503$EA523856-7A9D-4066-8C18-DA255806FBF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123503$01A363BC-C8F3-4C62-8BFE-02DCD5802D0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123503$9F292D91-8B90-495D-A150-B9F231CBF4EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123501",
+              "numeric-id": 123501
+            }
+          },
+          "hash": "17bb7d1c803c9582e0268471b3556ac96843b185",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123503$5DC7F2A2-1798-43E7-8E29-DD056F2DC474",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123503$B2A753AF-1F4C-4C31-812F-2F24E27B1C9A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec722479c752f99ddc531564cc0d81140c8fcbc3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123503$F9151AE0-2CB5-41E0-ABEA-EE79169BF25C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100436197"
+          },
+          "hash": "e4d326e44149936127bf63102b00176744733e3e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q123503$333ED281-3CBD-4F5B-AC0A-C3985A9380C7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancha Rodriguez de Toroño"
+          },
+          "hash": "5465bd60f03fd7c6b8e4f8ebc0802e1e8d3f3341",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123503$A8631DCD-6555-46C4-86C7-238BC9C7CAD0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancha Rodriguez de Toroño Arms.svg"
+          },
+          "hash": "ab549a529af7d11bc9302294090000f56d6becc4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(c.1190- )"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abt 1190 -"
+    }
+  },
+  "id": "Q123503",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Sancha Rodriguez de Toroño"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sancha Rodriguez de Toroño"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sancha Rodriguez de Toroño"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sancha Rodriguez de Toroño"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sancha Rodriguez de Toroño"
+    }
+  },
+  "lastrevid": 17536686,
+  "modified": "2025-09-17T06:59:38Z",
+  "ns": 860,
+  "pageid": 149099,
+  "sitelinks": {},
+  "title": "Item:Q123503",
+  "type": "item"
+}

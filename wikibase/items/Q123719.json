@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sigeheard of Essex"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123719$B0D25DE1-E834-489E-B769-1792ED785D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123719$0145489E-5B41-4574-B777-500E26316532",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123719$15492D26-C4E1-4C97-94C9-E885E34C32C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigeheard_Unknown_(1)"
+          },
+          "hash": "2e3a1691f67802c1a7f37e5a7b31e60380e91f0c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123719$4852A26A-6397-4655-B450-56BE556FDABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118594",
+              "numeric-id": 118594
+            }
+          },
+          "hash": "930beaa491c915f0915d6c8bd7d730b067c84f83",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123719$22833269-7264-435A-909A-C4AE985D95DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123719$7BD3264A-2F89-435A-BAD5-690552AF4576",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1df0d1f7be99978f9e1ad4f177d09a6b95941413",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123719$1BF4A0B0-FD55-4C4F-B023-0F8528CB8ABA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888813"
+          },
+          "hash": "a417066d47176770ce4808dfb8391e409cb4188a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123719$91C0A202-5030-4112-B568-6212680935E4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigeheard of Essex Arms.svg"
+          },
+          "hash": "e9c3362f9d46543136eda28825c215d81e29afa9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Essex"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Essex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Essex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Эссекса"
+    }
+  },
+  "id": "Q123719",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيجهيرد من اسكس"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сігегерд"
+    },
+    "br": {
+      "language": "br",
+      "value": "Sigeheard Essex"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sigeheard d'Essex"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sigeheard"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sigeheard of Essex"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sigeheard of Essex"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sigeheard"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sigeheard"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sigeheard de Essex"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sigeheard dari Essex"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sigeheard dell'Essex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sigeheard of Essex"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sigeheard z Essex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигехерд"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sigeheard od Essexa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сігеґерд"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西赫赫德"
+    }
+  },
+  "lastrevid": 17536884,
+  "modified": "2025-09-17T07:02:13Z",
+  "ns": 860,
+  "pageid": 149381,
+  "sitelinks": {},
+  "title": "Item:Q123719",
+  "type": "item"
+}

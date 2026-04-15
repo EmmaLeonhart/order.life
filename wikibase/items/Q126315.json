@@ -1,0 +1,378 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William of York"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Вильям Йоркский"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q126315$6B238663-027F-40B1-AB04-1C911F9C9416",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzHerbert-79"
+          },
+          "hash": "1ce4f512c1ceceb8f16c876436b1bcb87d063705",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126315$90D9B767-7008-4BAC-9EB1-08AD14F9E494",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126315$7B613EDD-D394-48CB-8B56-ACD9044AEE5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126315$7A544D20-88BA-4088-ADCA-31A5622C97BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_of_York_(1)"
+          },
+          "hash": "df9a10871fb1bc1e142f389d49e81b1b14c044ce",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126315$9F257853-9735-4B0F-B508-09CB7466F799",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126313",
+              "numeric-id": 126313
+            }
+          },
+          "hash": "e4046e9fd4f97de5ea63d2d276d6154c907cff6f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126315$BA61C8D7-2BF6-4CCF-A95C-C1122C9F42EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120732",
+              "numeric-id": 120732
+            }
+          },
+          "hash": "a72f021d006decfe35589a6aa48073ffd11e45b5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q126315$48F93C62-5C56-406D-B931-C9CB77C98AF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8502030"
+          },
+          "hash": "bdab825dacd3530e075036bc3c4cb07341b98664",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126315$53393178-7FE9-47EC-8C71-28B18908ECF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126315$C2B18D2C-88D1-4423-8F84-C06DF59A9588",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126315$D8229804-6170-48C9-9626-A85C593451B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1154-06-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93d4faf136217e8e5a635b83ce211ca67d6bc29d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126315$A7CCB186-0667-4EA1-BCC1-63593988003C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q275470"
+          },
+          "hash": "900d891ba4a806b1d653d6f6398198399c28056f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126315$93F429BC-0F82-45F3-ACA9-54289A16FF4F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William of York Arms.svg"
+          },
+          "hash": "36ae05753049894504939726cb62c54aca4404eb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قديس كاثوليكى"
+    },
+    "da": {
+      "language": "da",
+      "value": "britisk præst"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erzbischof von York"
+    },
+    "en": {
+      "language": "en",
+      "value": "British Roman Catholic archbishop and saint"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "ĉefepiskopo de Jorko; kristana sanktulo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش بریتانیایی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "archevêque et saint catholique britannique"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo e santo cattolico britannico"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "britisk prest"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits priester (?-1154)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "britisk prest"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "архиепископ Йоркский, святой католический церкви"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "brittisk präst"
+    }
+  },
+  "id": "Q126315",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "وليام يورك"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guillem de York"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wilhelm von York"
+    },
+    "en": {
+      "language": "en",
+      "value": "William of York"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Vilhelmo el Jorko"
+    },
+    "es": {
+      "language": "es",
+      "value": "William of York"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "William Yorkilainen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume FitzHerbert"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "William of York"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo di York"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William Fitzherbert"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уильям Йоркский"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "William of York"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Wiliamu wa York"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "威廉·菲茨赫伯特"
+    }
+  },
+  "lastrevid": 17539420,
+  "modified": "2025-09-17T07:37:40Z",
+  "ns": 860,
+  "pageid": 152862,
+  "sitelinks": {},
+  "title": "Item:Q126315",
+  "type": "item"
+}

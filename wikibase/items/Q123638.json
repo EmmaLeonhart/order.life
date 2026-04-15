@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eucherius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123638$66DDDC5A-CAE9-43F4-8ED0-ED6600CF702A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "826042"
+          },
+          "hash": "3779155b74cf9071c6f531cd2d78b8ab50f9418e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123638$9189833F-90E6-46CD-8D32-49DC8D3EFFA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123638$3D39873F-5CE7-4A36-BDCE-5A5303F6BD3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123638$FD1A58C5-C4A6-4607-A0D2-752901B27975",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eucher_Unknown_(1)"
+          },
+          "hash": "0d73d06085dd800e0c2f80756bf3f6f980218983",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123638$C0F3B9D3-EA3E-4A7B-A987-7A2AF50D0BE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123636",
+              "numeric-id": 123636
+            }
+          },
+          "hash": "8959527247bca230cb400781f0139ebec011992a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123638$FDC80CBE-EE77-4BA3-9022-F441F6EDF117",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123618",
+              "numeric-id": 123618
+            }
+          },
+          "hash": "61c253a50c6198ecc4fffa0e8c3549285b1740d6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123638$6FCA0DBD-025E-4CA6-AAD0-19D39A43B3B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123638$C4BC410C-CB32-48AA-9547-842F7D3B505D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0389-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9bc85d1a8db85386a31ed32c3c6e8159b6a74c4c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123638$B470D667-72CC-4EA9-934B-389C800D66FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0408-08-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e840b2decdee641b2bd8d8faaad581cb4538686b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123638$951B2A4A-349D-456F-9C5F-5B26B7E33137",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3059471"
+          },
+          "hash": "fd8c430bcb0f7ac10aa798f8830ea70b7e733041",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123638$E1DFAF97-5CA2-447D-BF34-FC0FCD2D4C1C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eucherius Arms.svg"
+          },
+          "hash": "6641453b7bbb3bfdbdec7b7e006a388ff264df74",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "polític romà, fill d'Estilicó"
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Roman politician, son of Stilicho"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hijo de Estilicón"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "italialainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Stilicon"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スティリコの長男。"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans politicus (-408)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "italiensk politiker"
+    }
+  },
+  "id": "Q123638",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Eucherius"
+    },
+    "be": {
+      "language": "be",
+      "value": "Еўхерый"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Евхерий (син на Стилихон)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Euqueri"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eucherio"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eucherius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ευχέριος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eucherius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Euquerio"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Eukerio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eucher"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eucherio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エウケリウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Eucherius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eucherio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eucher"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Eucherio"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eucher"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eucher"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Евхерий"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eucherio"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Eucherius"
+    }
+  },
+  "lastrevid": 17536804,
+  "modified": "2025-09-17T07:01:11Z",
+  "ns": 860,
+  "pageid": 149276,
+  "sitelinks": {},
+  "title": "Item:Q123638",
+  "type": "item"
+}

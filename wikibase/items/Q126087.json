@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Meen de Fougères"
+      },
+      {
+        "language": "en",
+        "value": "Meen de Fougeres"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126087$B54C27A4-929D-4A40-99A8-88C9CEE9D8CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1371282|1240662"
+          },
+          "hash": "8ed363722d8c9fda654d8ddde391f9f7f9781a3a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126087$AF82AA84-0834-40B6-8E48-E59C21D9517E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146771",
+              "numeric-id": 146771
+            }
+          },
+          "hash": "b8e3b4001a7a8042ab81abb94bf62b48ff7d273f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126087$4130E8BA-EC85-4B5F-9763-1F9E36C25F49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Fougères-20"
+          },
+          "hash": "009615f75effa12a406433a95f5036ee0c3a7da9",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126087$79C39B99-BAD7-477F-986E-263CE5BC4BEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126087$EFA3E7DB-EF05-42E3-85CB-405869A719E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126087$380A6D94-F211-4356-8031-4A1AB40D8C8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Meen_Unknown_(2)"
+          },
+          "hash": "3b2475e9bb67f5f9fa930ce5fa6da9176c2ab10b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126087$E5253CC0-796C-447A-A323-EDA6ABB745E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120504",
+              "numeric-id": 120504
+            }
+          },
+          "hash": "12ef32b77165579844340748c46c17799262f818",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126087$35A1572F-133B-4F15-84F7-EF5D052E2451",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126087$F5259B75-C4D2-4EAD-9CA1-DEA2C01FAF98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1019-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e7f1a3d1de1e758928935848ebc4cea2ffc3bd9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126087$F7C68A6B-64F3-4776-8072-F1F830625880",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108273917"
+          },
+          "hash": "a8bc60c3a28a014fb1a39e5296e76a1bf8a18c8a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q126087$AB3637FF-19C5-498C-B65B-340C143349C4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Meen de Fougères"
+          },
+          "hash": "fe5be43d0cce013b33b6dd5c71452081230d1b05",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126087$2EFDFE1D-5D3D-4D6A-8701-23AB9AE13A00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=main;n=de fougeres;oc=1"
+          },
+          "hash": "dcc4ee18873efe98d00cc16b78a7893336db9e7d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126087$4044B015-21E0-4D80-ACAD-625383678C77",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Meen de Fougères Arms.svg"
+          },
+          "hash": "291805b48da12a040bf5a5a484851a932ea586a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1020"
+    }
+  },
+  "id": "Q126087",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Meen de Fougères"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Meen de Fougères"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Meen de Fougères"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Meen de Fougères"
+    }
+  },
+  "lastrevid": 17539196,
+  "modified": "2025-09-17T07:34:45Z",
+  "ns": 860,
+  "pageid": 152556,
+  "sitelinks": {},
+  "title": "Item:Q126087",
+  "type": "item"
+}

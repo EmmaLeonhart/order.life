@@ -1,0 +1,389 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelaide, Abbess of Vilich"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125546$D7BFD49B-6B99-4524-A1F6-C958E04BE95B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125546$3D657739-DCBE-4142-A1AA-AF184212BC82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125546$C529E4C5-23CF-48A4-97DD-98285015D353",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125544",
+              "numeric-id": 125544
+            }
+          },
+          "hash": "e96cda78f46dfdbac47c2c7f4f9d964ff7835c18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125546$5CDD4EEB-F800-443D-A15A-BF8003573C10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120052",
+              "numeric-id": 120052
+            }
+          },
+          "hash": "d4e0033e013256b4d8b5b6683b95e5f9acc10e88",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125546$36FB7B7D-D353-499E-84B3-94EE02E29D64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125546$525CCC05-B134-41B9-972C-2CE4877E2A92",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0960-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "046750540f633a785fdf704a64d719980f017d38",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125546$3B6EAEE3-FB6F-42A7-B2A1-BFE24D6B0A60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1015-02-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b09f759c6f66d83f0a93c0cfcd4b2c22fefbc9ba",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125546$B453290F-E618-426F-992B-0A19F844EC4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q64196"
+          },
+          "hash": "d3dd9760004c826b94831d0eff2ec2cb85922fa3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125546$505449A7-F28B-4784-892C-C39F6F6CFE7C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelaide, Abbess of Vilich Arms.svg"
+          },
+          "hash": "c2a7d61ccd36e2efbf5c4ae25361ee373dc96c84",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قديسه كاثوليكيه من المانيا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "monxa alemana (960–1015)"
+    },
+    "de": {
+      "language": "de",
+      "value": "deutsche Äbtissin des Klosters von Vilich"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abbess of Vilich and Christian saint (c.970-c.1015)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sainte catholique"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "középkori német apátnő"
+    },
+    "it": {
+      "language": "it",
+      "value": "badessa e santa tedesca"
+    },
+    "la": {
+      "language": "la",
+      "value": "abbatissa Vilicensis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits religieuze (?-1015)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "ksieni w Vilich i Kolonii, święta katolicka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "santa alemã"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "аббатиса Филихского монастыря, католическая святая"
+    }
+  },
+  "id": "Q125546",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اديلايد من دير فيليش"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Adelaida de Vilich"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Adelheid von Vilich"
+    },
+    "br": {
+      "language": "br",
+      "value": "Adelheid Vilich"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Adelaida de Vilich"
+    },
+    "da": {
+      "language": "da",
+      "value": "Adelheid von Vilich"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adelheid von Vilich"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Adelheid von Vilich"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Adelheid von Vilich"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αδελαΐδα, ηγουμένη του αβαείου του Φίλιχ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adelaide, Abbess of Vilich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adelaida de Vilich"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Adelheid von Vilich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adélaïde de Villich"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Adelheid von Vilich"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Vilichi Szent Adelheid"
+    },
+    "id": {
+      "language": "id",
+      "value": "Adelheid dari Vilich"
+    },
+    "it": {
+      "language": "it",
+      "value": "Adelaide di Vilich"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಅಡಿಲೇಡ್ , ಅಬ್ಬೆಸ್ ಒಫ್ ವಿಲೀಚ್"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Adelheid von Vilich"
+    },
+    "la": {
+      "language": "la",
+      "value": "Adalheidis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Adelheid von Vilich"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Adelheid von Vilich"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Adelheid von Vilich"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adelheid van Vilich"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Adelajda z Vilich"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Adelaide de Vilich"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Adelaide de Vilich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адельгейда из Филиха"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Adelaide, Abbess of Vilich"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Adelaide, Abbess of Vilich"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Adelheid von Vilich"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Adelaide wa Vilich"
+    }
+  },
+  "lastrevid": 17538658,
+  "modified": "2025-09-17T07:27:01Z",
+  "ns": 860,
+  "pageid": 151832,
+  "sitelinks": {},
+  "title": "Item:Q125546",
+  "type": "item"
+}

@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Everhard von Berg"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126612$AD258AC3-B5AF-4489-BCF2-275D3EA1D6F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "919733"
+          },
+          "hash": "69a66d91d879678e0ab9bdce46491d2ec2c40212",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126612$C9FB06FA-9388-43BF-B900-F9B732579E94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126612$24C7624C-9BB6-4876-A2FA-FD913591DDD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126612$F85C264C-86BD-4DC9-B67C-BA53CFD66DCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Everhard_von_Berg_(1)"
+          },
+          "hash": "98c8a09bb13ead5807c0f04bed86b6229bcab441",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126612$1689675B-F789-45C9-89CA-D4C29FEE0E9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126602",
+              "numeric-id": 126602
+            }
+          },
+          "hash": "328f3ec437bb1b3a896c6507f9ba54b318e0facc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126612$D13DB50C-0D2A-412E-86FC-630F5A7B05EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120960",
+              "numeric-id": 120960
+            }
+          },
+          "hash": "bba07d1cdee7634d05efd37f924450ac1a2764b4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126612$821EF83A-284D-4667-9115-22722D7AB2FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126612$0EE92FFB-14D2-42E8-BCF6-8B96D85A4BF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126612$95E42532-0A32-4096-B5E2-864FEBBD50DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1152-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8387b9839e66873d993a1fb62bba1bb539f6fa5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126612$103E449B-883E-421D-BEEE-F722061B4409",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1382064"
+          },
+          "hash": "c407450989a7f73505a3e323cc7a121076154c6c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126612$B9E6A41E-6F16-44E9-A9AD-F5D5815F1C62",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Everhard von Berg Arms.svg"
+          },
+          "hash": "36d28d04602936cdcec30a69fda43fa065844e7b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Heiliger der katholischen Kirche"
+    }
+  },
+  "id": "Q126612",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Everhard von Berg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Everhard von Berg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Everhard von Berg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Everhard von Berg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Everhard von Berg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Everhard von Berg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эверхард фон Берг"
+    }
+  },
+  "lastrevid": 17539712,
+  "modified": "2025-09-17T07:41:30Z",
+  "ns": 860,
+  "pageid": 153260,
+  "sitelinks": {},
+  "title": "Item:Q126612",
+  "type": "item"
+}

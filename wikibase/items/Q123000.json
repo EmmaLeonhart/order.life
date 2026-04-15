@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Humphrey I of Toron"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q123000$851B7B9A-ECE4-4E43-9BE5-D7C072BB63AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117950",
+              "numeric-id": 117950
+            }
+          },
+          "hash": "57898930d236f9d2d383bfb34ec62102378fb001",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123000$2C41217D-B1A3-4CC7-8617-2339C6CB9EC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Toron-3"
+          },
+          "hash": "ce74fffa4deeccd1418f6235542e5a6492ca55d8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123000$BCC8787E-69B8-4B8C-A482-41858CDE69A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123000$A78384F3-8F39-4EAB-82F1-8E2F66119ED9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123000$54086996-712D-46F5-B468-EEADD35B7AD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123000$D4631F1D-D289-49BD-8688-8BC7F78385A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3227ad0fbe13b40f06cb84da99a9c8ea769bcd23",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123000$E4C27D4C-EDD3-493B-A659-8F88AD49A3A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1637065"
+          },
+          "hash": "06ea4c2630884801c6bcc03bcc323ce1d459c673",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123000$BF51E32E-DCA4-4896-BB2A-6FC8EC72ED7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=onfroi;n=de thoron;oc=2"
+          },
+          "hash": "0f808728c43b5b8794d7c4ee50ad001bc0257764",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123000$8C003BFC-B2CA-40E8-B439-9F7962A35E3B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Humphrey I of Toron Arms.svg"
+          },
+          "hash": "be790c35bf6078480f23b08d419fe3331a55d5b0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herr von Toron"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norman from Italy, fl. 1115"
+    },
+    "it": {
+      "language": "it",
+      "value": "signore di Toron"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q123000",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Humfried I. von Toron"
+    },
+    "el": {
+      "language": "el",
+      "value": "Χάμφρεϋ Α΄ του Τορόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Humphrey I of Toron"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hunfredo I de Torón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Onfroy Ier de Toron"
+    },
+    "it": {
+      "language": "it",
+      "value": "Umfredo I di Toron"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Humfred I van Toron"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Онфруа I де Торон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Humphrey I of Toron"
+    }
+  },
+  "lastrevid": 17536184,
+  "modified": "2025-09-17T06:53:02Z",
+  "ns": 860,
+  "pageid": 148426,
+  "sitelinks": {},
+  "title": "Item:Q123000",
+  "type": "item"
+}

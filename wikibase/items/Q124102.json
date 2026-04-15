@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aicard"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q124102$D19010B1-A59F-4F9E-B36C-9F43279758F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124102$3A991CEA-1C77-4B49-88A3-13854D819E68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124102$C2335372-31A4-418F-88E9-B31C4EA52908",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119169",
+              "numeric-id": 119169
+            }
+          },
+          "hash": "442cacc7b040bf4bda315b1663988625fa2be341",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124102$8FFE9EA9-C88C-4B2A-BCF0-17BD815CE179",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119027",
+              "numeric-id": 119027
+            }
+          },
+          "hash": "8ed2bbbe6ff526ce7eedc7b7c658b1d802925191",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124102$A331E59F-C906-41E6-BD08-FAE48FBBF49E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124102$53F32A3C-50AB-4870-8064-821C309B1809",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1045-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52d283e1af1d7d9df00134379e705ab6f7748805",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124102$769AFBBC-034B-47EB-B841-C424D341392F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1113-08-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d19084598bb6caba3671e9e96db54e0d1726aa4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124102$43CA775C-BB41-4F4F-943B-D0C33F8B37C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2827762"
+          },
+          "hash": "5568174b9f7065cbd6e8d9b4d0ea26336f50f4cd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124102$28D224CB-C58E-4794-9879-BC90A34E99C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=aicard;n=de marseille"
+          },
+          "hash": "542ee42790731b70beaf7d51a8a350792c442c95",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124102$8404860F-5DA8-4AB4-91B2-84AD56D9F1D5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aicard Arms.svg"
+          },
+          "hash": "6767fd802d1e98d78b0343eb73fdc80f20e792f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic archbishop"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "religieux français"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo cattolico e monaco francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans priester (1045-1113)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız piskopos (1045 – 1113)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римо-католицький архієпископ"
+    }
+  },
+  "id": "Q124102",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Aicard d'Arles"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aicard d'Arles"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aicard d'Arles"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aicard"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aicard d'Arles"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aicard d'Arles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aicard d'Arles"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aicard d'Arles"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aicardo di Arles"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aicard d'Arles"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aicard"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Aicard d'Arles"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aicard d'Arles"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aicard d'Arles"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Aicard d'Arles"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aicard"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aicard d'Arles"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aicard d'Arles"
+    }
+  },
+  "lastrevid": 17537254,
+  "modified": "2025-09-17T07:08:05Z",
+  "ns": 860,
+  "pageid": 149894,
+  "sitelinks": {},
+  "title": "Item:Q124102",
+  "type": "item"
+}

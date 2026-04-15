@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Harald Thorkildsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125749$347B554F-4442-4FA8-BFA3-08D1EE388AAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00280745"
+          },
+          "hash": "68ce07f39ffbc43ff06fc786e3f77f0eae2d7862",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125749$B9D27325-C1EF-4FC7-928B-4E532A9E0999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125749$BD2452DA-F44C-433C-9AE7-08D40175C076",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125749$7EB9DDAD-6FD0-4497-8143-81AB5FC3F14F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126831",
+              "numeric-id": 126831
+            }
+          },
+          "hash": "82fdbf3d76e77c5ade17823c53abd709d1184256",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q125749$BBD6E050-4CFD-44FB-B2CE-B08405A3ABC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10666.htm#i106656"
+          },
+          "hash": "861471892275d5d641eb2ddea51d131b42898057",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125749$33FF92EF-C55F-4B0B-B218-FB985B03202F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123862",
+              "numeric-id": 123862
+            }
+          },
+          "hash": "9da8d7fd8ce02ef80e765335c3567fd75b8f09ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125749$48FCDA41-BADF-4FE9-ACE4-A76EF5ECB103",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120223",
+              "numeric-id": 120223
+            }
+          },
+          "hash": "843e5e59858b626e86a27b3a9be8c3d2eefd5eab",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125749$1F5B2651-3C1F-44B3-9803-3400A8796E31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125749$F0D49B6D-9971-46FB-9995-8261F961E15C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1042-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8a4567af20ae7f65db9b530f45b374ef9cdce74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125749$F6EABA12-C6F4-411C-90AA-8A50E2070A97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5892243"
+          },
+          "hash": "9cb3831a394252f671f93d30dbcdd5b37b2e82de",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125749$04591DF0-8B2E-4D4E-B768-F8C7F67AED74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Harald Thorkildsson Arms.svg"
+          },
+          "hash": "11bc3c745585c3e8d8230c17868e2d4618b6fe13",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=106656"
+    }
+  },
+  "id": "Q125749",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "হ্যারল্ড (?)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Harald Thorkildsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Harald Thorkildsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Harald Thorkildsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Harald Thorkildsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Harald Thorkildsson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Haroldo (filho de Torquelo)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Harald Thorkildsson"
+    }
+  },
+  "lastrevid": 17538862,
+  "modified": "2025-09-17T07:29:42Z",
+  "ns": 860,
+  "pageid": 152102,
+  "sitelinks": {},
+  "title": "Item:Q125749",
+  "type": "item"
+}

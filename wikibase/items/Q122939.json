@@ -1,0 +1,563 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isabel, Countess of Gloucester"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122939$514330E2-8261-4123-BEE1-E2290906EB62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12903"
+          },
+          "hash": "1ae4dcac204fb2e95ff0a8fdad6819d129581c45",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q122939$4E85D04A-E5CE-4B82-AF0B-C380EC1ABA48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00308314"
+          },
+          "hash": "c2f1d7d731f2ca53f93c0d1e2d33788e0f939d5b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122939$713395DF-38EB-4903-8DE6-B5852168C1C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzWilliam-517"
+          },
+          "hash": "f73d77d10948bf599960fc388305433d06ac879b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q122939$062177AC-22CE-436F-9A2E-4670B1DD5CA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I1309"
+          },
+          "hash": "a305886be69148ff0a652b3e257fa87abaef48ad",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122939$BB96911F-0912-4CFE-860D-55D567F05448",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122939$005BEA06-9712-4089-996A-5E4B27FF98A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122939$707E9834-2A9E-449A-AFB3-74ADCD06A0A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabel_FitzWilliam_(7)"
+          },
+          "hash": "96c6cdf0faebef954f8050cf96fa67ac38b68d5d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122939$B8F40C76-FCB0-4801-B48A-7E9F80CA8A56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117930",
+              "numeric-id": 117930
+            }
+          },
+          "hash": "181276074b19974c3779cec944b1f7772e9d8a81",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122939$4A34E343-448A-4CEF-99E3-86187068C298",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142157",
+              "numeric-id": 142157
+            }
+          },
+          "hash": "3a1cdb436c1972190973be7165208133733ac8c0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122939$21A28A37-3D0F-4F94-ADAC-9B1A80B434DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142158",
+              "numeric-id": 142158
+            }
+          },
+          "hash": "6cd474e88ba947539c79129e14e8682cf921f29b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q122939$3157BEA0-364C-450A-A483-2D086F4C29EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10201.htm#i102007"
+          },
+          "hash": "5b14b10b98a1a0fdced2890d945b9b90105b760d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122939$F87CE463-3A27-40FB-B4B9-B72AD0A7AB7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121802",
+              "numeric-id": 121802
+            }
+          },
+          "hash": "5cc4b59b54d7961e7a30f75d07f2e6e199626a28",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122939$02A3198E-8936-4189-B18E-04289230BC09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127800",
+              "numeric-id": 127800
+            }
+          },
+          "hash": "838c619909ee25969fde79e2d4cf7fac4f8c075b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122939$7E918CB8-1F43-4F3A-AEF3-43B5D7018E27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122939$AF6625AE-D996-4FEE-B05A-7EB260073D27",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122939$D104DB89-0FE6-451E-8E40-722D5AF4809F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1217-10-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "76c5a5ceb87eb1b4739a22ae9b1dd9891330e9a6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122939$9A55C606-EEA1-4A36-BF08-1E6600EA0AF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q242636"
+          },
+          "hash": "eaecb640b7e63b8aa000c27b481a7334c669b6dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122939$04C03EDA-1D85-4061-B61F-DED77BD61CED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=isabel;n=de gloucester"
+          },
+          "hash": "e5f6be624b536570e512bb6492b4c6abad02852d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122939$EF34EC89-61BC-439A-BC8E-23CD32831037",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabel, Countess of Gloucester Arms.svg"
+          },
+          "hash": "dc607d423eca6fce597ce6b07a151231b8d6dbed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ангельская шляхцянка"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "noble anglesa dels segles XII-XIII"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "první manželka anglického krále Jana Bezzemka"
+    },
+    "de": {
+      "language": "de",
+      "value": "Countess of Gloucester; Ehefrau des späteren Königs Johann Ohneland"
+    },
+    "el": {
+      "language": "el",
+      "value": "αγγλίδα ευγενής"
+    },
+    "en": {
+      "language": "en",
+      "value": "English noblewoman who was married to King John"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate britannique"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile britannica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits politica (????-1217)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английская аристократка"
+    }
+  },
+  "id": "Q122939",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ايزابيل كونتيسه جلوستر"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Isabel de Gloucester"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ізабела Глостэрская"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ізабэла Глостэрская"
+    },
+    "br": {
+      "language": "br",
+      "value": "Isabel of Gloucester"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Isabel de Gloucester"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Isabela z Gloucesteru"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Isabel, Iarlles Caerloyw"
+    },
+    "de": {
+      "language": "de",
+      "value": "Isabel von Gloucester"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ισαβέλλα, Κόμισσα του Γκλόστερ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Isabel, Countess of Gloucester"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Isabella, Countess of Gloucester"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Isabella, Countess of Gloucester"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isabel de Gloucester"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Isabelle de Gloucester"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Isabelle fan Glousester"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Isabel, Cuntaois Gloucester"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Isabel de Gloucester"
+    },
+    "he": {
+      "language": "he",
+      "value": "איזבל, רוזנת גלוסטר"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Izabela od Gloucestera"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Isabel, Countess of Gloucester"
+    },
+    "is": {
+      "language": "is",
+      "value": "Ísabella af Gloucester"
+    },
+    "it": {
+      "language": "it",
+      "value": "Isabella di Gloucester"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イザベル・オブ・グロスター"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იზაბელ გლოსტერელი"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Isabella, grevinne av Gloucester"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Isabella van Gloucester"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Avisa z Gloucester"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Isabel"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Isabel, Condessa de Gloucester"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Изабелла, графиня Глостерская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Isabel"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Isabella av Gloucester"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "格洛斯特的伊莎貝爾"
+    }
+  },
+  "lastrevid": 17536124,
+  "modified": "2025-09-17T06:52:15Z",
+  "ns": 860,
+  "pageid": 148345,
+  "sitelinks": {},
+  "title": "Item:Q122939",
+  "type": "item"
+}

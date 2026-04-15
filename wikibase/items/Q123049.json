@@ -1,0 +1,243 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert dit Brochard de Château-du-Loir"
+      },
+      {
+        "language": "en",
+        "value": "Robert dit Brochard de Chateau-du-Loir"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123049$28137E01-1E41-4547-AAF2-699A9E93CECC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00141486"
+          },
+          "hash": "f8d04ba566cffaa55ed055fc22cf4a7dc5d469d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123049$391F1C64-BB0A-4F29-8026-DE9DF4F272BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117986",
+              "numeric-id": 117986
+            }
+          },
+          "hash": "99b276566ac02b8a8a7a6865bf10e96b71d6c63b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123049$CBC7FC19-F096-4FCB-8C0E-CFD08DCCD4BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Château-du-Loir-3"
+          },
+          "hash": "fe2a12328382aca6456fb49bb66dadbd1049af53",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123049$A9CB0745-76B5-46BE-ABCD-087CFF31FFAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123049$3B42998B-97BD-42F1-A486-0A4C800FAB1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123049$DF7C6161-F986-4479-916F-F6F7777F5A4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123051",
+              "numeric-id": 123051
+            }
+          },
+          "hash": "782bdc068adb1df6c55a87800299c175c351a566",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123049$62AF9ABE-46FA-4241-A64E-E60462B13268",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123049$7285A8BE-66C7-47DF-9543-A9A421100165",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1015-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dae63500bf1fc2a43bccf73f5862da223a3482ce",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123049$ED6BB1F2-B4CC-411E-B364-5EA5D315AB59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100326601"
+          },
+          "hash": "63a47be527ff9707a8e3e316e081b27bfb8922c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123049$75A76BF8-9FE7-4FE6-8C2D-5B8ABE9B034E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert dit Brochard de Château-du-Loir Arms.svg"
+          },
+          "hash": "dd7826485ff16a1accc8a0596094a96b2edf6393",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1000-1035)"
+    }
+  },
+  "id": "Q123049",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert dit Brochard de Château-du-Loir"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert dit Brochard de Château-du-Loir"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert dit Brochard de Château-du-Loir"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Робер де Шато-дю-Луар"
+    }
+  },
+  "lastrevid": 17536232,
+  "modified": "2025-09-17T06:53:40Z",
+  "ns": 860,
+  "pageid": 148490,
+  "sitelinks": {},
+  "title": "Item:Q123049",
+  "type": "item"
+}
