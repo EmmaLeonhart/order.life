@@ -23,7 +23,7 @@ from pathlib import Path
 
 
 def slugify(s: str) -> str:
-    s = re.sub(r"\s*-\s*Claude\s*$", "", s.strip())
+    s = re.sub(r"\s*-\s*(?:Claude|Grok)\s*$", "", s.strip())
     s = re.sub(r"[^\w\s-]", "", s)
     s = re.sub(r"\s+", "-", s.strip()).lower()
     return s[:80] or "chat"
@@ -132,29 +132,48 @@ def extract_one(path: Path, force: bool = False) -> Path | None:
     if not user_blocks and not assistant_blocks:
         user_blocks = extract_blocks(html, "bg-bg-200 rounded-lg")
         assistant_blocks = extract_blocks(html, "text-sm text-text-100")
+    # Grok export: all messages use "message-bubble" class, alternating
+    # user / assistant in document order.
+    is_grok = False
+    if not user_blocks and not assistant_blocks:
+        bubbles = extract_blocks(html, "message-bubble")
+        if bubbles:
+            is_grok = True
+            user_blocks = bubbles[0::2]
+            assistant_blocks = bubbles[1::2]
     print(f"  {path.name}: {len(user_blocks)} user, "
-          f"{len(assistant_blocks)} assistant blocks")
+          f"{len(assistant_blocks)} assistant blocks"
+          + (" (grok)" if is_grok else ""))
     if not user_blocks and not assistant_blocks:
         print(f"  WARNING: no message blocks found in {path.name}",
               file=sys.stderr)
         return None
 
-    out_lines: list[str] = [f"# {re.sub(r' - Claude$', '', title)}", ""]
-    out_lines.append("*Extracted from Claude.ai chat.*")
-    out_lines.append("")
+    assistant_label = "Grok" if is_grok else "Claude"
+    out_lines: list[str] = [
+        f"# {re.sub(r' - (?:Claude|Grok)$', '', title)}",
+        "",
+        f"*Extracted from {assistant_label} chat.*",
+        "",
+    ]
 
-    # Interleave — typical Claude.ai chats alternate user -> assistant.
+    # Interleave — chats alternate user -> assistant.
     n = max(len(user_blocks), len(assistant_blocks))
     for i in range(n):
         if i < len(user_blocks):
             out_lines.append("## User")
             out_lines.append("")
-            out_lines.append(to_markdown(user_blocks[i]))
+            md = to_markdown(user_blocks[i])
+            out_lines.append(md)
             out_lines.append("")
         if i < len(assistant_blocks):
-            out_lines.append("## Claude")
+            out_lines.append(f"## {assistant_label}")
             out_lines.append("")
-            out_lines.append(to_markdown(assistant_blocks[i]))
+            md = to_markdown(assistant_blocks[i])
+            # Grok prepends "Thought for Ns" to assistant messages; strip it.
+            if is_grok:
+                md = re.sub(r"^Thought for \d+s\s*", "", md)
+            out_lines.append(md)
             out_lines.append("")
 
     out.write_text("\n".join(out_lines), encoding="utf-8")
