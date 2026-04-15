@@ -1,0 +1,585 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "كيندرد بريطانيا"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "Kindred Britain"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Kindred Britain"
+      }
+    ],
+    "ig": [
+      {
+        "language": "ig",
+        "value": "njirimara nke edemede na Kindred Britain"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P3051$09FC160A-3FDC-4B45-8511-9D22EB178E78",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "http://kindred.stanford.edu/#/kin/full/none/none/$1"
+          },
+          "hash": "faf9754d973a8f3ae268be78327ddb6b17249f14",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P3051$BBB77EC7-5562-4518-B383-4ADD594BA151",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145",
+              "numeric-id": 145
+            }
+          },
+          "hash": "a44880420787fb348836dc51d3babc5227c4ef7e",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P3051$ACCB4150-0C9A-4F2D-B81F-D71A6ABE7DC1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "I[1-9]\\d*"
+          },
+          "hash": "9059c6aeaedc97d48e1d32522155be2d05137d60",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P3051$F85CC0D4-14BD-4DCE-BA94-A7215B05CDF0",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "KindredBritain"
+            }
+          },
+          "hash": "31124b9fc3e4af3c3557ead1d5e6658a624bd5eb",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P3051$03BB660F-AE45-4278-AB23-8455944DDDC4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q152778",
+              "numeric-id": 152778
+            }
+          },
+          "hash": "188654e6be6ca587db070fde5f2b9d8af96a6d84",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$57782DC2-B8E1-4391-8A17-8B4C14AE7C54",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8016",
+              "numeric-id": 8016
+            }
+          },
+          "hash": "7e136d52a3cef10a7cccacb9f488c67762d3486c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$D68D5557-ED75-4A78-A185-2F579AFF2EAA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40909",
+              "numeric-id": 40909
+            }
+          },
+          "hash": "dfc6459d3695a678444124e758d94ac0311e0252",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$292BBF13-5126-42F0-A7CB-51C9357C04E9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5536493",
+              "numeric-id": 5536493
+            }
+          },
+          "hash": "74b4c16213320472dcd7f5f8a4a8821a47a3699b",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$85199107-6607-47C6-8A98-256D474DF0C8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31677",
+              "numeric-id": 31677
+            }
+          },
+          "hash": "cd0fb7d84262d90d177f1671b103d1212f15271e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P3051$F09AD028-8004-49C8-8AF8-D0204FDAB0B0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "234"
+          },
+          "hash": "473de4a094b92212249600f9c6eee05039927c0d",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P3051$D22A17F9-B3B6-426A-B0DD-9D50F8983640",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$3A6EBC98-10FF-4855-8B5A-476D331E703F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$EDAE48F0-E259-4C56-9A64-EE4DC63C40DA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$7E0E17E4-FA7F-42A6-A99B-E5577E3B52F0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$3501D19F-AC6A-4232-9ED1-91DA1644D490",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$865BDCC0-BD2D-4CEA-8DEA-74E2655D7EBD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P3051$CAD5B92E-9083-484F-8317-D67DCDB5621C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P3051$1D4C331C-82B8-46C4-9E90-9F94B9898FEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3051$14C21559-B4B9-4197-A2F4-482090846BD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P3051$04E1C742-5C5B-47B0-8E48-DAA752ACA24E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Kindred_Britain_ID"
+          },
+          "hash": "04c9f50395b46d12a4ec15a99558d7206a6ff253",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P3051$C81EA940-4FAE-47E1-84C9-58D86E620408",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+29937', 'unit': '1'}"
+          },
+          "hash": "a659dc6458e1dc3e02899cd0c93c271c88a9e225",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P3051$CE163B65-4253-4BEB-BC92-F4111D9E03AE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/kindred\\.stanford\\.edu\\/#\\/kin\\/full\\/none\\/none\\/(I[1-9]\\d*)"
+          },
+          "hash": "ec44e7f5edd6c999f944ac6ee2183bfb8174bb62",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P3051$E84FFA30-579D-421E-9D96-741932A1BDC0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75653886",
+              "numeric-id": 75653886
+            }
+          },
+          "hash": "2e908d538ac0ea6b8f217074cf14639dfde97836",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар артыкулу на бачыне http://kindred.stanford.edu/"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier of an article on Kindred Britain"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "sukulaisia ​​Kindred Britainia koskevan artikkelin tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'un article sur http://kindred.stanford.edu/"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "njirimara nke edemede na Kindred Britain"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キンドレッド・ブリテンにおける記事の識別子"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kindred Britain'da ilgili bir makalenin tanımlayıcısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор статті на ttp://kindred.stanford.edu/"
+    }
+  },
+  "id": "P3051",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف \"كيندرد\" بريطانيا (Kindred)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Kindred Britain"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Kindred Britain"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr Kindred Britain"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kindred Britain ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kindred Britain ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador Kindred Britain"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kindred Britain ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Kindred Britain"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Kindred Britain"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kindred Britain-azonosító"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "անձի կոդը Kindred Britain-ում"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Kind Britain ID"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Kindred Britain"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キンドレッド・ブリテンID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "назнака на Kindred Britain"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Kindred Britain ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kindred Britain-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator Kindred Britain"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны на Kindred Britain"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kindred Britain-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kindred Britain kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Kindred Britain"
+    }
+  },
+  "lastrevid": 17396450,
+  "modified": "2025-09-10T05:13:21Z",
+  "ns": 862,
+  "pageid": 192045,
+  "title": "Property:P3051",
+  "type": "property"
+}

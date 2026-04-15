@@ -1,0 +1,553 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "شاهد قبر سويدي"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар Swedish Gravestone"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P5259$D3F67A0E-4D3D-4ED2-844E-0385EF070F45",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://grav.genealogi.se/Gravsokview.php?g_id=$1"
+          },
+          "hash": "2ba2ebb1a245aae2b7c516762ee0bc7f3d41b583",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$A999DE8A-1B81-412D-950B-4FD05983F8DE",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.rotter.se/gsi/$1"
+          },
+          "hash": "440326c92b37c1b653ba4e6fa76f357c9a38e274",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P5259$7BB596BC-9CBA-464A-A3AA-B8C0F9F5CF60",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 535, 'id': 'P535'}"
+          },
+          "hash": "4e82e2201443f91ac929bf5f00124e7c443818a8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P5259$16C99761-FAC6-403E-ADF6-E7EE2EA98BC3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P5259$14A7064A-3143-412F-A273-753CF54AEEFD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "\\d+\\?pid=\\d+|begravningsplatser\\/\\d{1,4}"
+          },
+          "hash": "0d5c662d95f2af5345f4a329d1175d564975a358",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P5259$C2962D89-6566-4963-83C7-D33E250E4296",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43247",
+              "numeric-id": 43247
+            }
+          },
+          "hash": "e248abfc1f5ec15195894f495e1b08b2a4e05811",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$E029867B-5604-4291-B330-6887336317A0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5443",
+              "numeric-id": 5443
+            }
+          },
+          "hash": "9100bd7da1b2d8cdf70d6fe9d898fd00fb820e99",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$DF5E8904-B0FE-4D6F-B202-0624BAF545EA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19672911",
+              "numeric-id": 19672911
+            }
+          },
+          "hash": "243efd19c31e9aa59bcae3712bb967d72289acff",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P5259$04EACE3E-5AD6-4135-859F-1FAC60C2E219",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$356DFADA-ECEA-43CB-9CE2-1D9C912DEDFB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$02DCA430-CBAE-4CF5-9B14-4A743C6E03C7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$DAB059BD-5628-48BF-BCA3-2470710E0054",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P5259$280F19AE-A6F3-4242-B361-B9B3126F7D56",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10685961",
+              "numeric-id": 10685961
+            }
+          },
+          "hash": "66becc507692474cd7c89656418656761a80f7fd",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P5259$5D2A8B42-A940-417E-A35B-AC8E68CE1C30",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P5259$FDDE1D6B-FBC8-43F7-A04F-5CDE3C6BF69B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45484922",
+              "numeric-id": 45484922
+            }
+          },
+          "hash": "11c72f91182f941b378b5add31587b5261b92c3c",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$FBD0601F-D48C-4F84-9441-07F6FDE9364B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$CCA86C6A-722C-4ACD-9EB5-63FE3AC515EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51122237",
+              "numeric-id": 51122237
+            }
+          },
+          "hash": "31c2d66615118939c7a10d06628dcbcacc473e37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P5259$37CE49DC-424F-431B-B445-2CE224F38373",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Swedish_Gravestone_ID"
+          },
+          "hash": "4f185b40bb218e7c67ea50e893fa4db68b984d3d",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P407": [
+      {
+        "id": "P5259$091B18E7-BFD9-40D6-875F-C0E2EFEEB7F9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9027",
+              "numeric-id": 9027
+            }
+          },
+          "hash": "e41efcf0acaa18ea8fca63b87e2e0c24618f5664",
+          "property": "P407",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P5259$67D7932B-B07F-4CA8-A2DC-8220D1816E80",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+348000', 'unit': '1'}"
+          },
+          "hash": "381f821f3af2d3ade1d3e608330975d2a7918949",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P5259$EEE2452E-EC4E-497E-A9B1-628D7FB0F710",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115206846",
+              "numeric-id": 115206846
+            }
+          },
+          "hash": "dd3349aad4c0e38edd5e1d6191e63025afa68517",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P5259$E9EAA627-62DF-480E-89F1-A0FB8431899E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/grav\\.genealogi\\.se\\/Gravsokview\\.php\\?g_id=([1-9]\\d*)"
+          },
+          "hash": "f12f17779256657d376ea4ae4f5d48ced52cccd5",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5259$82014D1E-FCAE-4CAE-9BF3-657B29FBA0DF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?rotter\\.se\\/gsi/([1-9]\\d*)"
+          },
+          "hash": "11768cd8584ed2835cd7db8469ff3ec7b447b735",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P5259$41F16BFD-07D0-48F6-94A6-5222EA780BDB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28736343",
+              "numeric-id": 28736343
+            }
+          },
+          "hash": "3e2ae92e62bd7bce5da94d39426d9b570f164cc9",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "register of +348 000 Swedish gravestones for +759,000 Swedish people and cemeteries"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "register of +348 000 Swedish gravestones for +759,000 Swedish people"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "register of +348 000 Swedish gravestones for +759,000 Swedish people"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "register med svenske gravsten og gravsteder"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "register of +348 000 Swedish gravestones for +759,000 Swedish people"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "register med +348 000 svenska gravestenar och gravplatser"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "реєстр +348 000 шведських надгробків для +759 000 шведських людей"
+    }
+  },
+  "id": "P5259",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف شاهد قبر سويدي"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Швэдзкіх магілаў"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Gravstensinventeringen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Swedish Gravestone ID"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Swedish Gravestone ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Swedish Gravestone ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Gravstensinventeringen"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Gravstensinventeringen"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "назнака на шведска надгробна плоча"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gravstensinventeringen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zweedse grafsteen-identificatiecode"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "Swedish Gravestone ID"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gravstensinventeringen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Swedish Gravestone"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "瑞典墓碑编号"
+    }
+  },
+  "lastrevid": 17395170,
+  "modified": "2025-09-10T05:12:30Z",
+  "ns": 862,
+  "pageid": 192062,
+  "title": "Property:P5259",
+  "type": "property"
+}

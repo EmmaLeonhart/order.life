@@ -1,0 +1,656 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "اسم عائلة في تراثي"
+      },
+      {
+        "language": "ar",
+        "value": "تراثي"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "MyHeritage příjmení ID"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "MyHeritage Nachname-ID"
+      },
+      {
+        "language": "de",
+        "value": "MyHeritage Familienname-ID"
+      },
+      {
+        "language": "de",
+        "value": "Familiennamen-Kennung (MyHeritage)"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "MyHeritage-azonosító"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "マイヘリテージ姓ID"
+      },
+      {
+        "language": "ja",
+        "value": "MyHeritage姓ID"
+      },
+      {
+        "language": "ja",
+        "value": "マイヘリテージ姓識別子"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "MyHeritage-identificatiecode voor familienaam"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "MyHeritage efternamn"
+      },
+      {
+        "language": "sv",
+        "value": "MyHeritage efternamnsidentifierare"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P5452$C979506C-4F9C-415A-B179-9BB94CBE0BCD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q589757",
+              "numeric-id": 589757
+            }
+          },
+          "hash": "dac3881e087dc2fd539db3b324232f3daa943ae3",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P5452$3499816D-CF88-4E64-ABB5-97C2A4B8DFA8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://lastnames.myheritage.com/last-name/$1"
+          },
+          "hash": "3c261dd63cdc56249bdfee47409ae093a8db6351",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P5452$076A4856-68A9-40D7-B927-7C33C1DF2871",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 6597, 'id': 'P6597'}"
+          },
+          "hash": "4fa87d7898e8e7f106eb14a86f86b854f55414ed",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$1E152B45-00C2-48D6-84A1-94DC73D2114D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 9644, 'id': 'P9644'}"
+          },
+          "hash": "ba2535c35a8c3e2a35e76b1f3641dda5a347da96",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$E949C0C7-F724-4DAE-87CC-2EAEFC708F0F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 3370, 'id': 'P3370'}"
+          },
+          "hash": "200f4cb6b8edb3a3e3d2b2f70a58eaefd6b8e4d2",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P5452$47F2765F-525C-4E6E-BA73-49B33D43FF00",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1397060",
+              "numeric-id": 1397060
+            }
+          },
+          "hash": "22cb69d9c676c46d89b5c37fb8cced52a9f4062a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$64380E77-7E20-4B56-B71B-CC333D7F26EB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16802302",
+              "numeric-id": 16802302
+            }
+          },
+          "hash": "81b993508500394410524d21276bd24bd5e9057e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$D26FAE5A-E816-4487-BD18-7CBE1783D46A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19861038",
+              "numeric-id": 19861038
+            }
+          },
+          "hash": "c47c0c1da63a7fdd793b544903cb2586179cc95e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$51A7C2A6-24AE-4886-8740-2F13A8F028FD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1158446",
+              "numeric-id": 1158446
+            }
+          },
+          "hash": "be131c3f146115f3272260a35c7b6a50b38c01c3",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P5452$A870819C-4C8D-44CF-B6B0-88B045E45DCF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://lastnames.myheritage.com/last-names/"
+          },
+          "hash": "c34b40d62ae0a18e1f10f334d58fbaab0373f2d2",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P5452$7FEB3F0C-E1E3-424E-A791-78AF9F123680",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$4861148E-27B4-4F43-BF60-0399BC1DFC6B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$463B6C9B-BD52-4A32-851A-12DBE6BB4F58",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$1C0B90A6-80DD-42B9-A525-EF470EB8D6BF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$DD95EB88-3D17-48F3-BDD7-EC310AA82002",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$04625D92-54D6-4F1A-814F-42A8B738E7A3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P5452$543AD073-237C-4268-80CE-1BAB36384AC1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q589757",
+              "numeric-id": 589757
+            }
+          },
+          "hash": "612951d6262c74150cf7b106234fe3ff09840aa3",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P5452$383B85BC-2F24-48DD-AB6A-8871AD950FCD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P5452$B9BFE59F-EDDE-424B-A656-5CD80541B62E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$0CA8413E-5E02-4840-8D0B-C7C4D1DBAD45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5452$BAB39C3F-B3C2-4C8D-8B5E-CB3A5860BD82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19643892",
+              "numeric-id": 19643892
+            }
+          },
+          "hash": "65f5b4005a94feedb8a77a5ee4de98c3566ea1fe",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P5452$E8406EDC-4E64-4E3B-A72D-3B748FF03465",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/My_Heritage_Surname_ID"
+          },
+          "hash": "9849900b4f60947648d7b28c92afa9eaec7e3088",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P5452$F4E754C5-A4CB-47E6-9CFF-27D808E18120",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://lastnames.myheritage.com/last-name/$1"
+          },
+          "hash": "417c9860852373b89002836c2b29c5630c5a4361",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P5452$D32F34FD-4368-4F19-A0D8-C02AEC04BBAC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/lastnames\\.myheritage\\.com\\/last-name\\/([^\\/?]+)"
+          },
+          "hash": "b199703901d97317a2e1fd04a959d130e357a788",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P5452$D160CC61-E46E-42D0-B1F7-F999BB417596",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q589757",
+              "numeric-id": 589757
+            }
+          },
+          "hash": "99bd9816418629c04dc0f1cdf6ceff46308e9589",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "радок, які ідэнтыфікуе прозьвішча, на генэалягічнай вэб-бачыне MyHeritage"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "řetězec identifikující příjmení na genealogickém webu MyHeritage"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für einen Familiennamen in der Genealogie-Datenbank von MyHeritage"
+    },
+    "en": {
+      "language": "en",
+      "value": "string identifying a surname (family name) at the MyHeritage genealogy website"
+    },
+    "es": {
+      "language": "es",
+      "value": "cadena que identifica un apellido en el sitio web de genealogía de MyHeritage"
+    },
+    "it": {
+      "language": "it",
+      "value": "stringa che identifica un cognome (nome di famiglia) sul sito web di genealogia di MyHeritage"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "MyHeritage系譜学ウェブサイト上の姓の文字列識別子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "строковой идентификатор фамилии на генеалогическом сайте MyHeritage"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare för efternamn i MyHeritage"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MyHeritage soyağacı web sitesindeki bir soyadını (aile adı) tanımlayan dize"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "рядок, що ідентифікує прізвище на генеалогічному веб-сайті My Heritage"
+    }
+  },
+  "id": "P5452",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف اسم عائلة في تراثي"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар прозьвішча MyHeritage"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador MyHeritage de cognom"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "ID příjmení na MyHeritage"
+    },
+    "de": {
+      "language": "de",
+      "value": "MyHeritage-Familiennamen-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "MyHeritage Surname ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de apellido en MyHeritage"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant MyHeritage"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador MyHeritage de apelido"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "MyHeritage-családnévazonosító"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo MyHeritage di un cognome"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "MyHeritage姓識別子"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "MyHeritage etternavn ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "MyHeritage-identificatiecode voor achternaam"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator nazwiska w MyHeritage"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код фамилии MyHeritage"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "MyHeritage familjenamn"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MyHeritage Soyadı kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор прізвища My Heritage"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID MyHeritage de cognom"
+    }
+  },
+  "lastrevid": 17395180,
+  "modified": "2025-09-10T05:12:30Z",
+  "ns": 862,
+  "pageid": 192049,
+  "title": "Property:P5452",
+  "type": "property"
+}

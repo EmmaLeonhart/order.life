@@ -1,0 +1,1051 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "رودوفيد"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "Rodovid"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Rodovid-ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "rodovid ID"
+      }
+    ],
+    "en-ca": [
+      {
+        "language": "en-ca",
+        "value": "rodovid ID"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "rodovid ID"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "id rodovid"
+      },
+      {
+        "language": "es",
+        "value": "rodovid id"
+      }
+    ],
+    "ig": [
+      {
+        "language": "ig",
+        "value": "Njirimara Rodovid"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "Rodovid ID"
+      },
+      {
+        "language": "ja",
+        "value": "Rodovid識別子"
+      },
+      {
+        "language": "ja",
+        "value": "ロドヴィド識別子"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "Rodovid ID"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Родовод"
+      },
+      {
+        "language": "ru",
+        "value": "Код Родовод"
+      },
+      {
+        "language": "ru",
+        "value": "Rodovid"
+      },
+      {
+        "language": "ru",
+        "value": "Родовид"
+      },
+      {
+        "language": "ru",
+        "value": "Род"
+      },
+      {
+        "language": "ru",
+        "value": "код Rodovid"
+      },
+      {
+        "language": "ru",
+        "value": "rodovid.org"
+      }
+    ],
+    "simple": [
+      {
+        "language": "simple",
+        "value": "rodovid ID"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "Родовид идентификатор"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Rodovid id"
+      },
+      {
+        "language": "uk",
+        "value": "родовід"
+      },
+      {
+        "language": "uk",
+        "value": "Родовід"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P1185$4DB35CC4-7E12-4E26-9E84-AB7150E94406",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83336425",
+              "numeric-id": 83336425
+            }
+          },
+          "hash": "58a14f57dbe483c2b5b697888d5c8712ad75047d",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$3D0461F9-3578-4E9B-A225-88BF5A19C8F7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P1185$FD76F749-0668-4606-9ECD-D3AFA8968A12",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://en.rodovid.org/wk/Person:$1"
+          },
+          "hash": "0408896ccec6ac09d52fa8514ffc0f44dae98f39",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$E0093EA5-A109-43CE-9A1B-03E2AE713648",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ru.rodovid.org/wk/Запись:$1"
+          },
+          "hash": "e9b5c54da055befa4473f69e2a3fa697cc53865d",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$D8BA6331-6AA1-435B-8757-3188478FA15E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://uk.rodovid.org/wk/Запис:$1"
+          },
+          "hash": "5f688f39d416b03eb86745dd43d577c60faa8d3f",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P1185$46E61C86-F7D2-4015-81D9-3B8EA2DC6FCC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2889, 'id': 'P2889'}"
+          },
+          "hash": "f2a0a26647c5459fc77010148be26c5d858ad59e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$D41D0D72-AF11-46EE-AD29-6164DCBD50A3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2600, 'id': 'P2600'}"
+          },
+          "hash": "39da32a732b8dfa6fbcebf9ac27a7b384f69287d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$5BC65EA8-BD78-4430-A01F-CA984653FFDF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4193, 'id': 'P4193'}"
+          },
+          "hash": "c8d06ef5c05270ae2fed4ff28ebafcc623ba71d9",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$4142558F-8A38-4C11-970A-EFC8D94BEC4C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 535, 'id': 'P535'}"
+          },
+          "hash": "4e82e2201443f91ac929bf5f00124e7c443818a8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P1185$140DD2B1-2DF7-4FA0-89A7-948C5A587552",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "[1-9]\\d{0,6}"
+          },
+          "hash": "733cb5bde58153f8c280ec981af195163adb4541",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P1185$1BD4FC07-1B7D-4E1C-A3B0-D93408F62A74",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Rodovid"
+            }
+          },
+          "hash": "0aac1dc885eeec1bc733bb6072c473ca49c35a86",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P1185$EDFEFEB2-A329-4721-B36A-BDE0964683FC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7200",
+              "numeric-id": 7200
+            }
+          },
+          "hash": "952805316085ba97b171c4e3aaa638c5377ffe1d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$9A790377-7B76-42D3-B8ED-2712F8CE164D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q919247",
+              "numeric-id": 919247
+            }
+          },
+          "hash": "306524b0da86464ca51af6e5fd2ca205c92b2966",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$76E57123-4883-415E-A41C-9F4B9B029563",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1034073",
+              "numeric-id": 1034073
+            }
+          },
+          "hash": "914e507243049f80018ce971997cbf4b19e5560f",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$D825BD6F-E729-4DC3-8333-C429166403E4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q949706",
+              "numeric-id": 949706
+            }
+          },
+          "hash": "a5f7fcfbf0f0096bc6220ad2eb5942d9d436353c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$757CE1E4-6B98-4238-A7C0-CAAA13035157",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40715",
+              "numeric-id": 40715
+            }
+          },
+          "hash": "0ef6e2645ad3e4058cbecb60c7951037c7c0570d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P1185$72E79DC9-9228-4CEB-8829-8F9499A1E8FC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.rodovid.org"
+          },
+          "hash": "8d8e46c912e64ae82f3b0f13a05ac41262cd1409",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P1185$779C76E7-0891-4A07-8596-5DF0C949E669",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "6068"
+          },
+          "hash": "ee69cdb9369694161d6e0f4be74ca91685e82f29",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P1185$AB459682-1903-475D-A1D7-31D416837929",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$8C439D7A-29B2-420E-A5D6-77D3D2D53A30",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$E082552F-DBFF-4343-859A-C686B6E290A8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$70AF2EC7-5440-4396-A952-4AC1BF654CD2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$6A7754FA-CDBD-4088-996F-B0A68900159F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$9DFC6D64-479A-42B7-9461-4CC5ABA461B8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$1086B030-DF77-492D-B688-595D22EC75B7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P1185$333A57F9-DC0A-4E95-A912-08214D7A5B71",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P1185$7F2B8864-8FB4-439A-A5BE-AFF7741F5285",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P1185$7101E86D-CC69-4DCC-B12D-A94C3E69536E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$93112AF3-4084-4D73-B4A1-1131AED72A8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$AD4A4A45-15A6-4406-9621-B5DFF68569D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123667996",
+              "numeric-id": 123667996
+            }
+          },
+          "hash": "16d0558ed9d68a04a5ca1ae7c7a9f5355d81bf27",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$355B088C-A078-445D-B6BC-24023F174E45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P1185$C8972785-EC1C-48FA-BC22-CED1271592F2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/20#P1185"
+          },
+          "hash": "1878f0a245957fab5fbe471ff0fd35188edf6881",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P1185$CE21CE4A-4C2C-4621-B97C-53D53DC66830",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+1251267', 'unit': '1'}"
+          },
+          "hash": "590cdc0f90575201a6a4efbf0eb3edfd5d2a66db",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P1185$5B4E8F3D-896B-4353-8C69-14A973DF4230",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/en\\.rodovid\\.org\\/wk\\/Person:([1-9]\\d{0,6})"
+          },
+          "hash": "5cfe257c3d810d23204cf6cbf980b3a591705bb4",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$729157DD-5B17-4ADB-9CE8-5BB4DCE33C77",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/uk\\.rodovid\\.org\\/wk\\/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1:([1-9]\\d{0,6})"
+          },
+          "hash": "5069c8e9956f4b1b9ce49761507f3b7beb7d8652",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1185$AB0D6C8B-91C1-4580-9025-9408B16118F8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/ru\\.rodovid\\.org\\/wk\\/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C:([1-9]\\d{0,6})$"
+          },
+          "hash": "6e1e7eb9964e3c6165995a653645f1e923834c09",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P1185$76376D15-F918-41C8-AFB2-651154CC0373",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q649227",
+              "numeric-id": 649227
+            }
+          },
+          "hash": "42f23a3c8f2280acaf012efea9b314e0de8f1679",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы на rodovid.org"
+    },
+    "br": {
+      "language": "br",
+      "value": "kod anaout an den-mañ war rodovid.org"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für eine Person im Stammbaumportal auf rodovid.org (englischsprachige Version)"
+    },
+    "el": {
+      "language": "el",
+      "value": "κωδικός αναφοράς ενός προσώπου στο rodovid.org"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a person on rodovid.org"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "identifer for a person on rodovid.org"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "identifer for a person on rodovid.org"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de la persona en rodovid.org"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسهٔ Rodovid برای اشخاص"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identification de cette personne sur rodovid.org"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ihe njirimara maka mmadụ na rodovid.org"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "panangilasin para iti tao iti rodovid.org"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di una persona sul sito web rodovid.org"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "rodovid.org 上の人物の識別子"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "mājaslapas rodovid.org personas ID"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор персоны на генеалогическом сайте"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "identifer for a person on rodovid.org"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identiferare för en person hos rodovid.org"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "rodovid.org'daki bir kişi için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи на сайті Rodovid.org"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "在開放家族樹網站rodovid.org上的人物資料索引碼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "在開放家族樹網站rodovid.org上的人物資料索引碼"
+    }
+  },
+  "id": "P1185",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف رودوفيد (Rodovid)"
+    },
+    "be": {
+      "language": "be",
+      "value": "код Rodovid"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "код Rodovid"
+    },
+    "br": {
+      "language": "br",
+      "value": "kod anaout rodovid"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Rodovid"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kód rodovid.org"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr Rodovid"
+    },
+    "da": {
+      "language": "da",
+      "value": "Rodovid-ID"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Rodovid ID"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rodovid-Kennung"
+    },
+    "el": {
+      "language": "el",
+      "value": "κωδικός αναφοράς Rodovid"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rodovid ID"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Rodovid ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Rodovid ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador Rodovid"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسهٔ Rodovid"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rodovid-tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Rodovid"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Rodovid"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה רודוויד"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Rodovid-azonosító"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Njirimara Rodovid"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "panangilasin ti Rodovid"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Rodovid"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロドヴィドID"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "Rodovid ID"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Rodovid ID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Rodovid-назнака"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Rodovid-ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rodovid-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator Rodovid"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador Rodovid"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны на Rodovid"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Rodovid ID"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "Rodovid ID"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Rodovid"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Rodovid ID"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Родовид"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Rodovid-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rodovid kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "код Rodovid"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "Rodovid索引碼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "Rodovid索引碼"
+    }
+  },
+  "lastrevid": 17396418,
+  "modified": "2025-09-10T05:13:20Z",
+  "ns": 862,
+  "pageid": 192054,
+  "title": "Property:P1185",
+  "type": "property"
+}

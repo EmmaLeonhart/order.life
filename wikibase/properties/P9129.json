@@ -1,0 +1,601 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "MFAT ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "MFAT person ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "identifiant MFAT"
+      },
+      {
+        "language": "fr",
+        "value": "MFAT ID"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "MFAT-személyazonosító"
+      },
+      {
+        "language": "hu",
+        "value": "Magyar főnemességi adattár azonosító"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P9129$73A3766A-8B38-48DC-87C1-E84960268C75",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P9129$ADD9D9CC-52A8-4E0E-BB0A-05E66F1B21A0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104601195",
+              "numeric-id": 104601195
+            }
+          },
+          "hash": "aa5b2360f0307d17082d5925dbb27c053b5b43ec",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P9129$C4E0167A-82BC-4B1A-960B-ED4BB3584FC3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://macse.hu/db/gudenus/gudenus.php?f=ghit&lang=hu&ds=MFAT&id=$1"
+          },
+          "hash": "60642441e07c6e6618de836b4d6b869fd52e94c0",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$A5CE4D2C-774F-4C34-B589-807BCA360EA8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://macse.hu/gudenus/mfat/fam.aspx?id=$1"
+          },
+          "hash": "0db38c45c57089e558ba58a1d6ed182fbd7763c3",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P9129$A2F180D8-D04B-4D26-8157-B849EAB62EDF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28",
+              "numeric-id": 28
+            }
+          },
+          "hash": "5705435a66751f26a989f0bbd80533799f57397b",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P9129$F2543DDD-F48A-4170-8497-6FB346CB5A09",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q702016",
+              "numeric-id": 702016
+            }
+          },
+          "hash": "8f36db4aee358be63e6259dbf5ee15eabfd37f63",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$897BFFC2-942E-418C-BC50-1C9C43208C53",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105491",
+              "numeric-id": 105491
+            }
+          },
+          "hash": "a1c9af8dae03eef3da3dec00adc1df485beb2fd6",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P9129$3ACC2B0F-4D49-4FD7-A6DB-193DB1435830",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "4247"
+          },
+          "hash": "29ca510709454b7ca6a98c2ed74e8061ebf6e3ca",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P9129$3825A65D-801D-49A9-9C71-79E5707025FE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$785B8E25-FF46-4C86-8699-2D98C3E81E77",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$22B824D7-BAED-443D-BA12-FA24ECEA67DF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$3BD6BBB6-A8F2-4E54-9673-D807D8AB0AB4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$9ED5BE6E-31DD-4B58-B7C8-9AD8186D35C5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$A003CA8C-8861-4633-975C-4DD2A895711B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$5D9D50D5-06E8-468E-8CC5-D9FC2F1B87CE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P9129$81A81230-68F7-4F3B-B9C6-D2F6A452F927",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873974",
+              "numeric-id": 21873974
+            }
+          },
+          "hash": "1b97f07ea808523c58f82502c2df4a8afbb9a31c",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P9129$383D3E19-F926-4E5B-A86C-A3F1D559BD13",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P9129$609D432D-B06F-47BF-A33B-E6993CA79FDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$4DD5FC6B-74F7-4F7C-98F1-9738320C005F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$A36751C5-A930-4FE4-A149-A8CD1AC3D44D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P9129$B2823A34-9A7C-4EBE-9786-214415E4615B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/MFAT_person_ID"
+          },
+          "hash": "c0f898a2d95fdf70f8740535375c51fe478a5356",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P9129$E5DF1222-09C5-466C-B231-3E7CA2B34D00",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+30950', 'unit': '1'}"
+          },
+          "hash": "634389c2b527f53f6dc9f51ada6358f62b1ee0b1",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$5F4DAD90-5209-4D34-AEB1-E1795A4BC376",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+30948', 'unit': '1'}"
+          },
+          "hash": "2f157f20fef903d01dac549e6c4d907cc3699932",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$09B6FB8C-5C3D-4950-8F16-48E43CAC676E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+31003', 'unit': '1'}"
+          },
+          "hash": "47920d7f1d3a459f63ae849da1eeb197c6c4feeb",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$580AF5BF-4EF2-49F5-9967-D046055E7E87",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+31853', 'unit': '1'}"
+          },
+          "hash": "5b108e1a48114ea297ec9fc50a0c83a1541a2d1a",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$8714BB93-69AB-4BFD-8D1F-9956CC076B71",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+32054', 'unit': '1'}"
+          },
+          "hash": "3ba53caac0cd71b510b53dfa3bbe636738cacd32",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9129$344FF4D3-8008-492A-8CB7-85D6B1D57E8D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+32088', 'unit': '1'}"
+          },
+          "hash": "3ab4a49165377be5246ab1df8948fc48531830a2",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P9129$13D7D19F-519B-4277-AA1C-0EDE807AE1F3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104601195",
+              "numeric-id": 104601195
+            }
+          },
+          "hash": "2b22a8912a9ac724991355c1812475e8197450b4",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы ў базе зьвестак Вугорскага таварыства вывучэньня сямейнай гісторыі"
+    },
+    "de": {
+      "language": "de",
+      "value": "Datenbank der Ungarischen Verein zur Erforschung Familiengeschichte"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier of a person in the database of the Hungarian Society of Family History Research"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne dans la base de données de la Société hongroise de recherche sur l'histoire des familles"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "személy azonosítója a Magyar Családtörténet-kutató Egyesület (MACSE) adatbázisában"
+    }
+  },
+  "id": "P9129",
+  "labels": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Калекцыі зьвестак вугорскай шляхты"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Magyar főnemességi adattár"
+    },
+    "de": {
+      "language": "de",
+      "value": "Verzeichnis des ungarischen Hochadels"
+    },
+    "en": {
+      "language": "en",
+      "value": "Data Collection of the Hungarian Peerage ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Data Collection of the Hungarian Peerage"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Magyar főnemességi adattár"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Magyar főnemességi adattár-beli azonosító"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gegevensverzameling van de Hongaarse Hoogadel-identificatiecode"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Magyar főnemességi adattár-ID"
+    }
+  },
+  "lastrevid": 17395246,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192032,
+  "title": "Property:P9129",
+  "type": "property"
+}

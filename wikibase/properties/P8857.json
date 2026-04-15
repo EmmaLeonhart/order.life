@@ -1,0 +1,425 @@
+{
+  "aliases": {
+    "fr": [
+      {
+        "language": "fr",
+        "value": "CRGPG ID"
+      },
+      {
+        "language": "fr",
+        "value": "Cercle de recherches généalogiques du Perche-Gouët ID"
+      },
+      {
+        "language": "fr",
+        "value": "perche-gouet.net ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1001": [
+      {
+        "id": "P8857$319E722C-2700-45D5-A67F-918BAFC762C0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3375123",
+              "numeric-id": 3375123
+            }
+          },
+          "hash": "4440b4a9ca6fb8e6ca0b9c425e6e2c038ef4f304",
+          "property": "P1001",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1552": [
+      {
+        "id": "P8857$F31F4239-3EAB-41B4-A68B-6D3DD677EE6A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P8857$DD9A5D4D-0B4E-438C-9D26-72F3CEF7EBD8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.perche-gouet.net/histoire/personne.php?personne=$1"
+          },
+          "hash": "fee6506f096f5e1fb02817930b682f8312385e50",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P8857$95193A9A-D7C5-47BF-826C-F4EADE4700A5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142",
+              "numeric-id": 142
+            }
+          },
+          "hash": "c05db5d169c2560b9799d567a803d20a392f53e4",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P8857$8467CDE5-A378-45B1-91B8-A449984EFA2F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q556371",
+              "numeric-id": 556371
+            }
+          },
+          "hash": "932bb73be28135e90ebdfaff8fe887aeb0eddd7e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8857$7A8CAACD-982D-47D5-BB3C-52A3B1D3EF99",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101480549",
+              "numeric-id": 101480549
+            }
+          },
+          "hash": "0d9aeb1f0460fdb9fda7e802e5ef49f990468f18",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P8857$72D79951-D091-4A17-B765-71268601F045",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.perche-gouet.net/histoire/"
+          },
+          "hash": "aec232f25b3ee665d01035294b57c86ad3d516ea",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P8857$22FBCAA3-81F3-4509-9221-E08C63D76051",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8857$A5965DB4-BC7E-4B71-B063-7AB0C907DE76",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8857$1E0CBF48-BEB5-414B-9AEC-2231DDF137E4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8857$E186254B-F6BB-4CEF-B398-6545897E447C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8857$6055D88A-427C-4E54-8FC0-F4335DDA6A10",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8857$E7B59AA1-1A92-4517-99FD-2438B210F993",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P8857$3DFB51EF-DCAD-43DA-88A8-736C01C65965",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101479566",
+              "numeric-id": 101479566
+            }
+          },
+          "hash": "591a3d328a95604775807c3e959dba4f19a87cc8",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P8857$7F01E54E-218E-4DC7-9C2E-D6C561F65826",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P8857$12FE1667-6367-4362-86BF-75BB54991D3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8857$744042F2-9026-4DAC-A6E1-931A732269FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P8857$DE71089F-DBF7-41EE-B12D-784FD562DCE0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/CRGPG_ID"
+          },
+          "hash": "80d46f51401972408b006c0324e979fad996572d",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P8857$34AD6662-E843-4A52-94C5-4655E553CBF5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?perche-gouet\\.net\\/histoire\\/personne\\.php\\?personne=([1-9]\\d*)"
+          },
+          "hash": "f2ce616fefa0690686ab972544b81ac5d54bbd56",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "identifier of a Perche-Gouët personality on CRGPG's website"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personnalité du Perche-Gouët sur le site du CRGPG"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи в колишній провінції Perche-Gouët на вебсайті CRGPG"
+    }
+  },
+  "id": "P8857",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "identificador CRGPG"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "CRGPG dalinli"
+    },
+    "en": {
+      "language": "en",
+      "value": "CRGPG ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Cercle de recherches généalogiques du Perche-Gouët"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador CRGPG"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "CRGPG-identificatiecode"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор CRGPG"
+    }
+  },
+  "lastrevid": 17395242,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192030,
+  "title": "Property:P8857",
+  "type": "property"
+}

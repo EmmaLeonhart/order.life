@@ -1,0 +1,596 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "تصنيف في ويكيتري"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "WikiTree category"
+      },
+      {
+        "language": "en",
+        "value": "WikiTree space"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "WikiTree catégorie"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P7607$ADE96092-2448-4431-90FD-1A139953A38D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83336425",
+              "numeric-id": 83336425
+            }
+          },
+          "hash": "58a14f57dbe483c2b5b697888d5c8712ad75047d",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P7607$6A51A4C1-CCAF-43C7-8FD4-59EA85963A35",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135841035",
+              "numeric-id": 135841035
+            }
+          },
+          "hash": "b6e30169346ab7e57363964f8cc26942407fdac9",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$BCC3C819-E5A4-425A-BF2C-76BD5A8BFB10",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135841061",
+              "numeric-id": 135841061
+            }
+          },
+          "hash": "d9723411207bee9c86fcaef38507eeff65adef38",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P7607$6EFDA186-2148-4BAC-89A2-A47ECC2E33EB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikitree.com/wiki/$1"
+          },
+          "hash": "dfcf997f2a2b7d0962fed7085c3bd338c2aef7f6",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P7607$6019F9B1-7217-4E23-AFBF-0DF7868C0446",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2949, 'id': 'P2949'}"
+          },
+          "hash": "75537a994e6bfd265f2ad0600e7c465b5bc36707",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P7607$8E177390-43E4-43D4-AE9E-28A93CAB66A8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "(Category|Space):.{1,250}"
+          },
+          "hash": "4c1cbe038a84ed0a0627caa2bbbe773abb649c6a",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P7607$A4ECDF1A-582D-48A0-BFAD-0F55F39BBD6B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10688470",
+              "numeric-id": 10688470
+            }
+          },
+          "hash": "fb70aad9185163e489fe688ee32d006964393a5c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$6544F077-5847-4BAE-835A-B04A6B9D60D7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10855226",
+              "numeric-id": 10855226
+            }
+          },
+          "hash": "418ad8a4574ce0430d7a72b0e903f23e844a6e98",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$536387CB-33DF-419A-8E54-5C802D8298BC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q216344",
+              "numeric-id": 216344
+            }
+          },
+          "hash": "a81f44b67b2b88f2e4b27ff8565604b1362b13c7",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$5F2CF53B-6B81-41A7-BEFE-2D35E43A9631",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41967248",
+              "numeric-id": 41967248
+            }
+          },
+          "hash": "e28f68d4d304ed18add915a21e5453c101d07eac",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$852C7904-ED9C-458B-854B-CCB28E2AF390",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q785304",
+              "numeric-id": 785304
+            }
+          },
+          "hash": "db1bbcf78fba9a50cd6832b9bd4b5963d9f8cc57",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P7607$C327471A-654D-4872-9F27-FBABFAB11F3D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$E2D0AF6C-8168-400B-960C-DFD3D1CFB595",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$4613FDC6-ABAA-429E-B81B-95EF10E5CE4D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$4D23A458-D55D-413B-B105-3D0F74A3655F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$01556FD9-9F0B-4D9C-8C92-50031D63E514",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$F5D66CEE-E7F9-4B7A-994F-3D2575277E3F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P7607$5281C8DB-8C4C-42EC-A719-B4AC645C0AA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$144EB411-AE3A-48A8-B953-058131F88F80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7607$20C6A0B9-1F1F-4721-9FF9-67D94518AA98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24075706",
+              "numeric-id": 24075706
+            }
+          },
+          "hash": "bf13fde231320dda5f8d779d855050600db98b59",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P7607$1C64FF93-B7D4-4362-8926-5B84296DE538",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/WikiTreeCategories"
+          },
+          "hash": "af6dd6a1e5ec297bd9f1d31d9d6f46e227792472",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P7607$B547F520-0792-417B-9255-21A38A16BEE2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?wikitree\\.com\\/wiki\\/((?:Category|Space):.{1,250})"
+          },
+          "hash": "25fb2e7e8745b7b80ef645f7710a2b5e1004e098",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P7607$D08EF8DC-0BA7-4B00-9A73-B026F9F97EA2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1074931",
+              "numeric-id": 1074931
+            }
+          },
+          "hash": "b4cc01c0eb784e493d7c8f29c7e8c2c09e5d0ffe",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "катэгорыі ў ВікіДрэве для аб’ектаў, апісаных таксама ў Вікізьвестках (напрыклад, могілак)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kategorie oder Themenseite in WikiTree"
+    },
+    "en": {
+      "language": "en",
+      "value": "Categories in Wikitree for things that also exist in Wikidata like cemeteries"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Categories in Wikitree for things that also exist in Wikidata like cemeteries"
+    },
+    "es": {
+      "language": "es",
+      "value": "categoría en WikiTree para elementos que también existen en Wikidata, como cementerios"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "crassi en WikiTree pa elementus qu'essistin en Güiquidata tamién, comu velaí cimenterius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "catégorie dans Wikitree pour les éléments qui existent dans Wikidata, tels que les cimetières"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kategorije v Wikitree za stvari, ki obstajajo tudi v Wikipodatkih, npr. pokopališča"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mappar WikiTree kategoriers som kyrkogårdar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "mezarlıklar gibi Vikiveri'de de bulunan şeyler için Wikitree'deki kategoriler"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "категорії на веб-сайті WikiTree для об'єктів, які також описані у Вікіданих (наприклад, кладовища)"
+    }
+  },
+  "id": "P7607",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف تصنيف في ويكيتري"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "катэгорыя ці прастора ВікіДрэва"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "categoria de WikiTree"
+    },
+    "de": {
+      "language": "de",
+      "value": "WikiTree-Kategorie/Space"
+    },
+    "en": {
+      "language": "en",
+      "value": "WikiTree category or space"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "WikiTree category or space"
+    },
+    "es": {
+      "language": "es",
+      "value": "categoría en WikiTree"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "crassi en WikiTree"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "catégorie WikiTree"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "categoría en WikiTree"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "категорија или простор во WikiTree"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "WikiTree-Kategorie"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "WikiTree-identificatiecode voor categorie"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "categoria em WikiTree"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "категория WikiTree"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kategorija ali prostor WikiTree"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "WikiTree Kategori"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "WikiTree kategorisi veya alanı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "категорія WikiTree"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "categoria de WikiTree"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "维基树类别"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "维基树类别"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維基樹類別"
+    }
+  },
+  "lastrevid": 17395222,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192070,
+  "title": "Property:P7607",
+  "type": "property"
+}

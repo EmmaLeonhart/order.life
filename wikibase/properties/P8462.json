@@ -1,0 +1,617 @@
+{
+  "aliases": {
+    "bar": [
+      {
+        "language": "bar",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "bar",
+        "value": "Political Graveyard-Kennung"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Political Graveyard ID"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "de",
+        "value": "Political Graveyard-Kennung"
+      }
+    ],
+    "de-at": [
+      {
+        "language": "de-at",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "de-at",
+        "value": "Political Graveyard-Kennung"
+      }
+    ],
+    "de-ch": [
+      {
+        "language": "de-ch",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "de-ch",
+        "value": "Political Graveyard-Kennung"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "en",
+        "value": "Political Graveyard identifier"
+      },
+      {
+        "language": "en",
+        "value": "The Political Graveyard ID"
+      }
+    ],
+    "en-ca": [
+      {
+        "language": "en-ca",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "en-ca",
+        "value": "Political Graveyard identifier"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "Political Graveyard identifier"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Political Graveyard ID (homme politique)"
+      }
+    ],
+    "nds": [
+      {
+        "language": "nds",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "nds",
+        "value": "Political Graveyard-Kennung"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "ID Political Graveyard"
+      }
+    ],
+    "simple": [
+      {
+        "language": "simple",
+        "value": "Political Graveyard ID"
+      },
+      {
+        "language": "simple",
+        "value": "Political Graveyard identifier"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Siyasi Mezarlık siyasetçi kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "Political Graveyard politikacı kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "Political Graveyard siyasetçi kimliği"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P8462$AB9EE7FC-6FD6-4109-A1C4-5C980EAB863D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7757656",
+              "numeric-id": 7757656
+            }
+          },
+          "hash": "c811d232e49e562a46f229254005b9e54119ceb7",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P8462$4D2DEC23-CC7E-47A7-B77F-B553E45E9434",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://wikidata-externalid-url.toolforge.org/?p=8462&url_prefix=http://politicalgraveyard.com/bio/&id=$1"
+          },
+          "hash": "afc8bc28578d98ff01086612c9dfd6b3f17e5096",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P8462$6CD2F710-117D-4F39-97F4-6FE5D9210AA5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 8445, 'id': 'P8445'}"
+          },
+          "hash": "3082a2b9e14a67c5d1b4c32d28990b0b73a2b2db",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P8462$58A33F21-9296-4792-9F55-70367D548943",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6143905",
+              "numeric-id": 6143905
+            }
+          },
+          "hash": "a344e9b373f609fd4be7a89bdb4008656d3a3e12",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$EBA52532-2F3E-4B2C-87DA-4DA0EBC76809",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23",
+              "numeric-id": 23
+            }
+          },
+          "hash": "1cfd5e7b658ffcf985a3f3a6c8584d95e682078a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$1385AE7E-AF55-451F-8C56-CED6485DF661",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106808148",
+              "numeric-id": 106808148
+            }
+          },
+          "hash": "d47c59e8406e50f32890b30f3e2063aae01f8e41",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P8462$2E0D1BA5-B734-4CCF-880A-0CF75EE03EEB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "4491"
+          },
+          "hash": "1e436b72372a2ff95fbe2a44058ea04f83d94553",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P8462$63117F54-CE82-44FF-AA5D-29721C54B2DC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$2762E2A1-D9B0-4074-9B5A-2A0C7984D7B5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$652BBBF6-FB42-4956-B0CF-F978135A07E4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$859A8DC3-B0F2-402F-B618-42262167CF19",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$A5358D06-91B9-41AF-B29B-C632C161B724",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$384BC6DA-2232-446F-AEFA-86E21171E3D5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$9F915BCD-EF78-49CD-A640-934A326E3F35",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P8462$A1BB28C0-A7CE-42FE-B361-602402E928AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93433126",
+              "numeric-id": 93433126
+            }
+          },
+          "hash": "d6b9ccb8f1dc9978776bbd45511cee5b529084d4",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8462$7725C65C-2BED-4D5C-BDA4-58EA0A929505",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P8462$FFE57321-52C4-4DB8-9022-452796EC815D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Political_Graveyard_politician_ID"
+          },
+          "hash": "948f0ef6962f47e9d4ebdf8f9ccff36c177d96a7",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P8462$E52048C3-9AB5-4FD7-85E0-D31D406B6E98",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+302477', 'unit': '1'}"
+          },
+          "hash": "c5e7ddbba011d58047d5f33a2322da33a36c795f",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P8462$F2968153-581F-46EC-800B-FF03F70B56AA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7757656",
+              "numeric-id": 7757656
+            }
+          },
+          "hash": "82ce166c9fa33d8ab673fa4e6b44d81a17542fa2",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف لأحد الساسة في قاعدة بيانات المقبرة السياسية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар палітыка ў базе зьвестак Political Graveyard"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a politician in the Political Graveyard database"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "identifier for a politician in the Political Graveyard database"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "identifier for a politician in the Political Graveyard database"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personnalité politique dans la base de données de Political Graveyard"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di un politico nel database Political Graveyard"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator polityka w bazie Political Graveyard"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор политика в базе данных Political Graveyard"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "identifier for a politician in the Political Graveyard database"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Siyasi Mezarlıklar veritabanındaki bir politikacı için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор політика в базі даних Political Graveyard"
+    }
+  },
+  "id": "P8462",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف المقبرة السياسية لسياسي"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Political Graveyard Politiker-ID"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар палітыка Political Graveyard"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Political Graveyard de polític"
+    },
+    "de": {
+      "language": "de",
+      "value": "Political Graveyard Politiker-ID"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Political Graveyard Politiker-ID"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Political Graveyard Politiker-ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "Political Graveyard politician ID"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Political Graveyard politician ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Political Graveyard politician ID"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه سیاست‌مداران آمریکایی Political Graveyard"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Political Graveyard d'une personnalité politique"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Political Graveyard di un politico"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Political Graveyard Politiker-ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Political Graveyard-identificatiecode voor politicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator polityka Political Graveyard"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код политика Political Graveyard"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "Political Graveyard politician ID"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Political Graveyard politiker-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Siyasi Mezarlık politikacı kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор політика Political Graveyard"
+    }
+  },
+  "lastrevid": 17395240,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192053,
+  "title": "Property:P8462",
+  "type": "property"
+}

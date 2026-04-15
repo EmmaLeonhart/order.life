@@ -1,0 +1,613 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "DAR ID"
+      },
+      {
+        "language": "en",
+        "value": "DAR person ID"
+      },
+      {
+        "language": "en",
+        "value": "DAR ancestor ID"
+      },
+      {
+        "language": "en",
+        "value": "Daughters of the American Revolution ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P7969$41FCD6AA-B0AF-4C1C-83BD-C768CC351536",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=$1"
+          },
+          "hash": "5e10754c2517afc0a67b972046a44e9479b99ff7",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P7969$A3CEC7CA-2426-43D6-8250-0ADBD45D00AF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 496, 'id': 'P496'}"
+          },
+          "hash": "f778f35f27ca9d493dae6c6b7fd4702f2dcc1f50",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$2EB85461-05B1-4D07-9025-80919D7194F8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2600, 'id': 'P2600'}"
+          },
+          "hash": "39da32a732b8dfa6fbcebf9ac27a7b384f69287d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$F8E9597E-B8D3-430F-96A8-14041186E3DB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2949, 'id': 'P2949'}"
+          },
+          "hash": "75537a994e6bfd265f2ad0600e7c465b5bc36707",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$E47DEF80-5E97-4A1C-9848-8AABAD4139FC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1819, 'id': 'P1819'}"
+          },
+          "hash": "0cfe0d6b31d01612ad84cbb2a069f4945327cf45",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$FBC22EF8-9414-44BC-AB7F-AE68103EC995",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4638, 'id': 'P4638'}"
+          },
+          "hash": "630d1a1d5cd752f617f7190be094492027edd859",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P7969$E6816740-B50D-4C05-B263-33EAD98B513E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30",
+              "numeric-id": 30
+            }
+          },
+          "hash": "be4c6eafa2984964f04be85667263f5642ba1a72",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P7969$00BDF2AE-0838-4C44-886D-CFB51F211BD2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "A\\d{6}"
+          },
+          "hash": "ba66987ef3e19e6b562bde906ad9a99dcca19ea0",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P7969$88FC64F3-A1A9-4471-B8DB-94F67854F415",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75764755",
+              "numeric-id": 75764755
+            }
+          },
+          "hash": "d841c84fd8028c13895e02fe776200aa3872f13c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$12574ED7-6EC0-48E7-BF62-EAC2EDB48AF3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q81110974",
+              "numeric-id": 81110974
+            }
+          },
+          "hash": "9c1f1756e97ad3f15cd0f4acd62b31901c3a07b3",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$49C9A86E-1E61-4AE7-935F-8D74C61D81BD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11812",
+              "numeric-id": 11812
+            }
+          },
+          "hash": "3c598d29ae2c2cb4d937ea85417f27af0c0672c1",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$FE254D78-D545-46AA-81B0-F299E0D7295E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61698690",
+              "numeric-id": 61698690
+            }
+          },
+          "hash": "37e8aa6561a36aa4e2c3d0435014b6ffe56433fb",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P7969$3F76029D-1E7C-4A04-8F59-B875941F2BD7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geni.com/projects/Patriots-Daughters-of-the-American-Revolution/15046"
+          },
+          "hash": "3a809780962b31a7b900c5ea3971facf712cdf4a",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P7969$19BB97B0-45EA-43BA-B6AA-0939CC250E7B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$BD4A0BB5-2407-453F-A841-BFA076DD3E10",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$EC63A395-BA8B-4F1B-B0C0-3F86D4A88393",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$1B4B53D7-55C8-4969-8886-FD4BD46B4B4F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$C9687131-6DA2-47C9-B4DB-1DE96F1AE938",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$3A2443D6-E061-45CE-A9A6-49C162C1A4B2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P7969$6940014B-F5BA-4F61-A7C7-67B4A91C10AA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1541947",
+              "numeric-id": 1541947
+            }
+          },
+          "hash": "72a7a98d78a07f83fd4921c20d4516b50ab59ca9",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P7969$4AA8ECF5-D06C-49E5-92BB-1EB99889A308",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873974",
+              "numeric-id": 21873974
+            }
+          },
+          "hash": "1b97f07ea808523c58f82502c2df4a8afbb9a31c",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P7969$3E200EB5-2596-4175-90AE-5F7DCABA0C1B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Use to link to entry in the Daughters of the American Revolution ancestor database. ID is a string starting with the character A followed by 6 digits. e.g. A999999."
+            }
+          },
+          "hash": "ee22682ad7d9251a2f9c56c4d60a5bec304c13f5",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P7969$5803EB46-FF2C-457A-A1B0-E4019011B7DB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P7969$D9502B49-77F2-4F8D-9002-FF483F346CA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$C82E7E3C-F951-40EE-AD20-500419E1D04B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$0940D7DE-B215-485F-BC06-CC959574E0E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P7969$BDD17467-FD40-43CB-A86A-28E26F6AA6AE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Daughters_of_the_American_Revolution_ancestor_ID"
+          },
+          "hash": "729a7b6d5ef8dac66cffc41603d225f8518e4814",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P7969$00E1F039-09F6-4065-A5BD-25F0F71AF704",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19817878",
+              "numeric-id": 19817878
+            }
+          },
+          "hash": "be1bf5adc29a21ef0a2f246268333c11edd4530b",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7969$74ACF2A3-2D12-428B-9D3E-633C27DE0216",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88300058",
+              "numeric-id": 88300058
+            }
+          },
+          "hash": "9717e6f1082c880bb85d5ce1704d6bc0ebb6ec11",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P7969$F1364541-5FA2-49CD-946D-A35E6562AF26",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/services\\.dar\\.org\\/public\\/dar_research\\/search_adb\\/\\?action=full&p_id=(A\\d{6})"
+          },
+          "hash": "267cc2678d64f61f117793ea73679cf4cae8582d",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P7969$81201265-2FF4-41AB-AAC7-6D385A01C8E3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q87213116",
+              "numeric-id": 87213116
+            }
+          },
+          "hash": "201842b14572bf216cfffd669af917e758036683",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ID of someone in the ancestor database of Daughters of the American Revolution"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор когось у базі даних предків Daughters of the American Revolution"
+    }
+  },
+  "id": "P7969",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "identificador DAR de persona"
+    },
+    "en": {
+      "language": "en",
+      "value": "DAR ancestor ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "DAR-identificatiecode voor voorouder"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор предка DAR"
+    }
+  },
+  "lastrevid": 17395228,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192031,
+  "title": "Property:P7969",
+  "type": "property"
+}

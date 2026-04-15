@@ -1,0 +1,736 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "ويريليت"
+      },
+      {
+        "language": "ar",
+        "value": "شخص في ويريليت"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "WeRelate"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "We Relate Kennung"
+      },
+      {
+        "language": "de",
+        "value": "We-Relate-ID"
+      },
+      {
+        "language": "de",
+        "value": "We Relate ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "wrpud"
+      }
+    ],
+    "fi": [
+      {
+        "language": "fi",
+        "value": "WeRelate-tunniste henkilölle"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "WeRelate ID (personne)"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "WeRelate 人物識別子"
+      },
+      {
+        "language": "ja",
+        "value": "ウィーリレート 人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "ウィーリレート 人物識別子"
+      },
+      {
+        "language": "ja",
+        "value": "ウィーリレイト 人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "ウィーリレイト 人物識別子"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "код человека WeRelate"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "我們來晚了家譜數據庫人物 ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P4159$A6EAB896-60BB-4558-B3DC-5FF7E1BC72EA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83336425",
+              "numeric-id": 83336425
+            }
+          },
+          "hash": "58a14f57dbe483c2b5b697888d5c8712ad75047d",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P4159$48FAFABD-41A2-48CB-A1D8-01369B51BBB4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.werelate.org/wiki/Person:$1"
+          },
+          "hash": "924025dd7d73ac28b8935f2a55d5996e1df1b900",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P4159$B7C139D2-1883-426F-BB97-052D17B4B0E5",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "WeRelate"
+            }
+          },
+          "hash": "1f5c9902d27d494474574eca4ff099e2b699c144",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P4159$4DA33AC9-37BC-4C60-8139-DF0F8BDA478A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68214",
+              "numeric-id": 68214
+            }
+          },
+          "hash": "6aaaeef558fced2664c9611d2950b12481c78c53",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$C3D2F413-D69C-4246-9254-1D13BA9646E8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q236669",
+              "numeric-id": 236669
+            }
+          },
+          "hash": "0b845cf172b81d1ac0458eb2e069e77fbbc34f60",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$C68F6012-AE2E-473D-9F3C-DC735D77466E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31677",
+              "numeric-id": 31677
+            }
+          },
+          "hash": "cd0fb7d84262d90d177f1671b103d1212f15271e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P4159$C9B4CE01-5520-4B8C-B1EE-4C5846104202",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$1C1280BE-24EF-4173-AD07-83D256B35B26",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$8273F458-DB33-4AD4-BDD5-769D1A61D720",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$FE225AF1-98AB-4C5C-AF4A-4BC419DB918A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$77A6AC50-036F-4614-A268-F0DB077A73EF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$CDE14328-61AD-4F9F-B4E9-F73AA56F286F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P4159$14761EE1-E889-442E-9EE0-D5332431F51A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7983244",
+              "numeric-id": 7983244
+            }
+          },
+          "hash": "c445ed6b85bce90817c164c7353daa5cd8ec230f",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P4159$949D9044-5ED6-4A3F-804F-2322D460B41E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P4159$F10597BC-59B2-4A9F-B1AD-9B88653780A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$64022D29-F87C-4284-93F6-D51A3CF70D2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$BFB99628-0A40-4756-8E03-30577559A02F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123667996",
+              "numeric-id": 123667996
+            }
+          },
+          "hash": "16d0558ed9d68a04a5ca1ae7c7a9f5355d81bf27",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P4159$000ADC92-15CF-4F7B-A357-F5FB90AD9EA4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/WeRelate_person_ID"
+          },
+          "hash": "43d585ee14cb25a3ea0425750c89b1eaa796da76",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P4159$E7ED115C-9354-4A31-A73B-5F89FDEE12E5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+2900000', 'unit': '1'}"
+          },
+          "hash": "260a9f2a01ff8419dc3efe38f02235df7326fda4",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$28454566-3123-4152-BDA8-3C3B618B2519",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+3000000', 'unit': '1'}"
+          },
+          "hash": "62f933e7909ddfa32261a25e6d171bfdbc8dd3ad",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$C904004A-C92A-4C8E-A069-1D0833409096",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+3100000', 'unit': '1'}"
+          },
+          "hash": "d6e5c87b884b56ed7c1f1efaac72fd6aad92fe9b",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P4159$2C01C79F-1463-46C0-91A0-27C737BB2F0B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19817878",
+              "numeric-id": 19817878
+            }
+          },
+          "hash": "be1bf5adc29a21ef0a2f246268333c11edd4530b",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4159$36FC9B9A-FB7F-46D4-846D-9F417740C12D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q87268730",
+              "numeric-id": 87268730
+            }
+          },
+          "hash": "e8f6ad3b07d9505a5c90e7a166cbdf6e63816967",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P856": [
+      {
+        "id": "P4159$0BE355D3-430B-4647-8CAA-D49ABE1242DB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.werelate.org"
+          },
+          "hash": "90c82ebc0026daf604da2b1adbe5bc073b3c4b5a",
+          "property": "P856",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P4159$757AFF3C-FA86-4B40-8EC4-83B65DEA64D5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?werelate\\.org\\/wiki\\/Person:(.+)"
+          },
+          "hash": "a19ae5f5b6bc93c92ff4991e28262f8c653608b6",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P4159$37B46749-579F-40DB-8623-AFC4F0096698",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7983244",
+              "numeric-id": 7983244
+            }
+          },
+          "hash": "c84d973f29eb5c9051c785bf3a9df050633b6584",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ідэнтыфікатар асобы ў генэалягічнай  базе зьвестак WeRelate"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für eine Person in der genealogischen Datenbank auf WeRelate.org"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a person in the Creative Commons-licensed genealogical database WeRelate"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسۀ اشخاص در ب.د. شجره‌شناسی WeRelate با پروانه کریتیو کامنز"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant pour une personne dans la base de données généalogiques WeRelate sous licence Creative Commons"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ihe nchọpụta maka onye nọ na nchekwa data usoro ọmụmụ nke Creative Commons nyere ikike WeRelate"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di una persona sul database genealogico online WeRelate"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор для человека в лицензированной генеалогической базе данных Creative Commons WeRelate"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare för en genealogisk databas"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Creative Commons lisanslı soyağacı veritabanı olan WeRelate'deki bir kişi için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для особи в ліцензованій Creative Commons генеалогічній базі даних WeRelate"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "知識共享許可的家譜數據庫我們來晚了中某人的標識符"
+    }
+  },
+  "id": "P4159",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف شخص في قاعدة بيانات \"نحن مرتبطون\" (WeRelate)"
+    },
+    "be": {
+      "language": "be",
+      "value": "індэнтыфікатар асобы ў WeRelate"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ідэнтыфікатар асобы WeRelate"
+    },
+    "br": {
+      "language": "br",
+      "value": "anaouder WeRelate"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador WeRelate de persona"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr WeRelate (person)"
+    },
+    "de": {
+      "language": "de",
+      "value": "We-Relate-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "WeRelate person ID"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسۀ شخص در WeRelate"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "henkilön WeRelate-tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant WeRelate"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה אדם בווירילייט"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "WeRelate-személyazonosító"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Anyị na-ejikọta ID mmadụ"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo WeRelate"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "WeRelate 人物ID"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "WeRelate personas ID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "WeRelate-назнака"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "WeRelate person ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "WeRelate-identificatiecode voor persoon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator osoby w WeRelate"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны на WeRelate"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Вирилејт особа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "WeRelate person-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "WeRelate kişi kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи WeRelate"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "WeRelate 人物 ID"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "WeRelate个人编号"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "WeRelate個人編號"
+    }
+  },
+  "lastrevid": 17395130,
+  "modified": "2025-09-10T05:12:29Z",
+  "ns": 862,
+  "pageid": 192069,
+  "title": "Property:P4159",
+  "type": "property"
+}

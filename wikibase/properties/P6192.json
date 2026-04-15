@@ -1,0 +1,475 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "الاتحاد السويدي للتراث المحلي"
+      },
+      {
+        "language": "ar",
+        "value": "مكان في الاتحاد السويدي للتراث المحلي"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "Bygdeband ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P6192$73D90AD0-B2D7-4D7E-A90E-52A731941367",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.hembygd.se/shf/plats/$1"
+          },
+          "hash": "40d9c7709ab1f8ab087a945284ff875192f5511a",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P6192$616112BE-94B4-42D5-9B22-2D3059F6F62F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P6192$370416C7-266A-45D4-A0E5-FD2BFE7EB7DF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^\\d+(\\/\\w+\\/\\d+)?$"
+          },
+          "hash": "38f285e8b77cf732f03ae4ce6644147c6a480bc6",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P6192$AA6D3542-FCCF-4295-811C-1D78FB086382",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21567631",
+              "numeric-id": 21567631
+            }
+          },
+          "hash": "33bf60453b1138eb2da6793c685ceb94b7d2c432",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6192$BB6EA0CC-7FB2-4DDB-A346-B1263EE860CE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92559",
+              "numeric-id": 92559
+            }
+          },
+          "hash": "3916ee5f2cc81c21396c5424aae92c4ee8b49ed1",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P6192$E99CB373-1733-4637-837B-B89A7D35BBB9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6192$FEE027BE-6A57-4C01-95AD-CD900F4180E1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6192$99E32C93-F6F3-4686-B78F-FCBE94CD9DF2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6192$ADB9CD1B-BC4B-4201-ADAA-F75677CE059A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6192$17CE2557-CB76-4B65-9998-539E646E1132",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6192$10AEF333-F9F3-4334-BAC8-81CEA349BA52",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P6192$C41FDCEB-75AB-4D6E-AEDB-5A2276324691",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10686111",
+              "numeric-id": 10686111
+            }
+          },
+          "hash": "85c61f7d7b56f593f89087a1742dfb31c6f37553",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P6192$82F523E1-2B39-4F9A-9B30-E3CF229358F4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59676581",
+              "numeric-id": 59676581
+            }
+          },
+          "hash": "00a65cabb8330e67c69a80d5060b7f308618562e",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P6192$DFB4CEFD-6057-45A7-80F8-032A3D280608",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6192$BD9C9156-098F-4F08-85ED-3A6A96DF2777",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P6192$517D0F0C-A97E-48D0-A720-41B59579B0FF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Bygdeband_location"
+          },
+          "hash": "470053534fa70fa2287b169c0dc93fe039da6375",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P407": [
+      {
+        "id": "P6192$76AFED7C-1747-4DC3-B33D-2B064C2F8ECC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9027",
+              "numeric-id": 9027
+            }
+          },
+          "hash": "e41efcf0acaa18ea8fca63b87e2e0c24618f5664",
+          "property": "P407",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P6192$23F4C7E3-AB3D-4A04-B241-EC9D6FD9AF7A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+20000', 'unit': '1'}"
+          },
+          "hash": "7e97e8695aa54059e51d7c63c084d43882b3cfd5",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P6192$D54A17B5-27DE-4B48-85FA-A3A49061EC8B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?hembygd\\.se\\/shf\\/plats\\/([0-9]*)"
+          },
+          "hash": "1158f9793b3048f8ad54455fedc6229c32f0c076",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P6192$4F3D518D-FD34-4E0A-A401-62910914513D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59342471",
+              "numeric-id": 59342471
+            }
+          },
+          "hash": "f106bb55838a32ec417981d0e09042824b1de709",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9100": [
+      {
+        "id": "P6192$E48A51EB-150A-45CF-9F80-53226C49E6C4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "wdp6192"
+          },
+          "hash": "16c886f06abed9aa60de86bdc1e44305ab2136a3",
+          "property": "P9100",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Hembygdsportalen is a site containing local history material added by +600 local history communities in Sweden"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Identitet i hembygdsportalen, webbplatsen för  svenska hembygdsföreningar."
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bygdeband, İsveç'teki 600'den fazla yerel tarih topluluğu tarafından eklenen yerel tarih materyallerini içeren bir sitedir"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор місця на веб-сайті Bygdeband, який містить матеріал про місцеву історію, доданий понад 600 спільнотами місцевої історії у Швеції"
+    }
+  },
+  "id": "P6192",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف مكان في الاتحاد السويدي للتراث المحلي"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Hembygdsportalen"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Bygdeband de lloc"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hembygdsportalen ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Bygdeband"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bygdeband-identificatiecode voor locatie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator Bygdeband"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hembygdsportalen-id"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bygdeband kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор місця Bygdeband"
+    }
+  },
+  "lastrevid": 17395202,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192042,
+  "title": "Property:P6192",
+  "type": "property"
+}

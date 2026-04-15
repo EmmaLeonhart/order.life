@@ -1,0 +1,947 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "ألفين"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Uppsala University Alvin ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Uppsala University Alvin"
+      },
+      {
+        "language": "en",
+        "value": "Uppsala University Alvin ID"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Alvin de la Universidad de Upsala"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Uppsala University Alvin ID"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Uppsala University Alvin ID"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "ウプサラ大学アルヴィンID"
+      },
+      {
+        "language": "ja",
+        "value": "ウプサラ大学アルヴィン"
+      }
+    ],
+    "nn": [
+      {
+        "language": "nn",
+        "value": "Uppsala University Alvin"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "Uppsala University Alvin"
+      }
+    ],
+    "simple": [
+      {
+        "language": "simple",
+        "value": "Uppsala University Alvin ID"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "Uppsala University Alvin ID"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "Uppsala Universitet Alvin-ID"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Uppsala Üniversitesi Alvin tanımlayıcı"
+      }
+    ],
+    "vec": [
+      {
+        "language": "vec",
+        "value": "Uppsala University Alvin ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P6821$1F61489C-0C39-4C2F-BD93-8C410661D7D5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.alvin-portal.org/alvin/view.jsf?pid=$1"
+          },
+          "hash": "7a03d93d96f444fa43f589e01d1deab8ae2990a9",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P6821$D0C72F29-3133-41B0-BE0B-15BEA17C31AF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 3217, 'id': 'P3217'}"
+          },
+          "hash": "5ef92bfa7247e76080a9c780705be70251a8deed",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P6821$DD2F41CA-7712-4CBC-B03F-2F3E7966A18C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P6821$895C866C-76E9-4DA3-9386-B262A0E72D7E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^alvin-(record|person|place|organisation|work):[1-9]\\d{0,6}$"
+          },
+          "hash": "ca0e7e43b575a6c7852ae45e989c917e0b51da51",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P6821$8B854D17-DAFA-4D06-984D-8E2BF3C6724E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16801941",
+              "numeric-id": 16801941
+            }
+          },
+          "hash": "f884ed161d3c0308a18c542a7e5c93ea2bad0eb6",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$F76F844F-CC53-4DF5-A973-03122A5897B1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5613604",
+              "numeric-id": 5613604
+            }
+          },
+          "hash": "697712421d64c9c3244249f0be92315b98fdbf16",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$7B34537A-6838-4EEA-A73C-FE2FED5FA842",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2846475",
+              "numeric-id": 2846475
+            }
+          },
+          "hash": "801f7e6041af6de223c155abf0d74c498974e306",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$C077B3D9-B603-4507-8512-83A99EC233B8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7724",
+              "numeric-id": 7724
+            }
+          },
+          "hash": "f7c93e570ca309a55eda435bd25d997794d1f390",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$4EB41174-E644-4DB6-A65F-1AAB34A8DA99",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64",
+              "numeric-id": 64
+            }
+          },
+          "hash": "f9cfb314283acaf6bcbff1c2da27fa9584728c59",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$FF29A008-4BB4-4721-AD4A-2D0AE65C6A29",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10398035",
+              "numeric-id": 10398035
+            }
+          },
+          "hash": "49daa2122ead63454d8df5fc0f9b37ea184e8cb6",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$4DE421E7-2F5D-4CA0-8E35-DF9C9EC72CED",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1658249",
+              "numeric-id": 1658249
+            }
+          },
+          "hash": "a9102109e4c8a050ab3b56f5a9e1d71fea047f07",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P6821$B64D89DC-B2EB-4884-8D1B-3EE4CC40918D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://info.alvin-portal.org/"
+          },
+          "hash": "b8ee4398dd0785207563dc27cc46fee33119affe",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1921": [
+      {
+        "id": "P6821$307141F5-7700-417F-AAAA-BF0D034CA80B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.alvin-portal.org/alvin/view.jsf?pid=$1"
+          },
+          "hash": "b8a2473dfbb693aafd4c91bb38c35c0913576fbf",
+          "property": "P1921",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P6821$30F90046-6E87-48F6-BB1A-85AAE77E2186",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "3919"
+          },
+          "hash": "eb32c266f7d4da10862f5b93cfd83805c19a52c9",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P6821$BBB822ED-8C49-4698-A797-44CD4738007C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$37FE7B3E-3918-4E52-83EA-432527250737",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$F8AE370F-CC96-452D-B5E0-5AC92C9FD796",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$3B5E2887-9740-4CF9-B5D2-514497B7BFF5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$C4F027EB-6F3D-44CF-B312-9F7F7492BEE8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$C6F23DAA-7597-42CC-9CAA-DB3E2F89C5BE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P6821$8D007082-3C3D-4F4E-907C-DCAD800B8441",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q185246",
+              "numeric-id": 185246
+            }
+          },
+          "hash": "a0cb8e976e9bd3c57162815e1fedc5e20386ec31",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$9C59A7CC-2914-4437-A411-90BC77D3562B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59341385",
+              "numeric-id": 59341385
+            }
+          },
+          "hash": "68372f1054b0dfab2351caeebb720ab7e830b2de",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P6821$E4A087E6-0721-4771-BE49-C863693C6681",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P6821$436356CB-1A5E-4865-98AB-26AB2AC85FD0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "sv",
+              "text": "Ange Alvin ID finns plats, person och record"
+            }
+          },
+          "hash": "b19395ae785412507c23daab877d84f8fd127fef",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P6821$22147B27-6CBD-4AEF-BED4-92F6654E2604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18614948",
+              "numeric-id": 18614948
+            }
+          },
+          "hash": "ed373531b0c5988fa55cdaa7cd75247f1ee104a9",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$8E966DFA-7696-42B2-8F2B-79C33C34B2C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27918607",
+              "numeric-id": 27918607
+            }
+          },
+          "hash": "3b1ed6591330e17e6ffa2a611eb7cfa9d7bad757",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$55A4B805-934E-42D5-B67C-84F23FE29B78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P6821$E687CC2C-FE06-4A4D-A2A1-8D0C3AA59D53",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Alvin"
+          },
+          "hash": "6a1fbc2942902f6d0e8aa371a96d5e3f0ad78f0a",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P407": [
+      {
+        "id": "P6821$51618B56-02B3-4C57-A9C2-D6584AA46308",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9027",
+              "numeric-id": 9027
+            }
+          },
+          "hash": "e41efcf0acaa18ea8fca63b87e2e0c24618f5664",
+          "property": "P407",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P6821$A7300B45-4031-4DF0-80E6-A8CCF621930E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.alvin-portal.org/alvin/resultList.jsf?faces-redirect=true&includeViewParams=true&query=$1&searchType=EXTENDED&dswid=-9762"
+          },
+          "hash": "99d076e2a52ed1e208805d751ce3ae0680bd4c65",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P6821$47DC2222-A677-4826-93FB-234650C95D5C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+250000', 'unit': '1'}"
+          },
+          "hash": "b1c2169d02c5357870f57322e658c186a66aaab6",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6685": [
+      {
+        "id": "P6821$D55659D8-CDE3-4453-99EF-85C51954963C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "O. Alins album s. 1.tif"
+          },
+          "hash": "dfddacb356e15ff1b93d2d4ed09469cf6cf25be4",
+          "property": "P6685",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$93EDEEEC-F914-42F5-BF9F-18413A7D4A48",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Karl Henrik Karlsson - Annerstedts fotoalbum II s. 13.tif"
+          },
+          "hash": "29954758256e8b526aeefb699f3145f59d275a01",
+          "property": "P6685",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$5F44051A-E6A4-450D-86BA-8F39D563778A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Professor Bo Wickmans installation 1962 Bo Vahlquist, Bo Wickman och Torgny Segerstedt.tif"
+          },
+          "hash": "e93cf45f1f2dcbe6a5cdc04f9494a888b2d386af",
+          "property": "P6685",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P6821$1456587D-2B51-418D-A3D8-BF7288A429B5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?alvin-portal\\.org\\/alvin\\/view\\.jsf\\?(?:.*&)?pid=(alvin-(record|person|place|organisation|work):[1-9]\\d{0,6})(&.*)?"
+          },
+          "hash": "9b957904484b331c8104362d881f511cc942fc63",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P6821$C765BE35-679A-4606-BC02-64ACD4A8C5CB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59341385",
+              "numeric-id": 59341385
+            }
+          },
+          "hash": "ade7a047ca43a8ef9bc523954c71170b78b10fc2",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "P6821$0E0CB70B-F6D5-4DB7-9D11-F683B668AE0D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://phabricator.wikimedia.org/T225522"
+          },
+          "hash": "e45aeb16a89b5b1a54ab4c1ae92566adc4cbba30",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6821$52BEC871-6782-47FF-8C05-23C9D3DFDAB4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Category:P6821_Error"
+          },
+          "hash": "704c6cb5b37a86398e3ec8f886f89c2f062ec4de",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар у лічбавым зборы Упсальскай унівэрсытэцкая бібліятэкі"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifkator für Digitalisate in der Sammlung in Uppsala"
+    },
+    "en": {
+      "language": "en",
+      "value": "platform for digital collections and digitized cultural heritage in Uppsala about, managed by Uppsala university library"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "platform for digital collections and digitised cultural heritage in Uppsala about, managed by Uppsala university library"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador Alvin de la Universidad de Upsala"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه Alvin کتابخانه دانشگاه اوپسالا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant suédois de la plateforme pour les collections digitales et l'héritage culturel digitalisé Alvin"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "azonosítója az uppsalai könyvtár digitális gyűjteményében"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo nella piattaforma svedese Alvin per le collezioni digitali e il patrimonio culturale digitalizzato gestita dalla biblioteca dell'università di Uppsala"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウプサラ大学図書館の運営する、ウプサラのデジタル収蔵物とデジタル化された文化遺産のプラットフォーム"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator w Uppsala University Alvin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alvin är en plattform för långsiktigt bevarande och tillgängliggörande av digitaliserade samlingar och digitalt kulturarvsmateria som drivs av Uppsala universitetsbibliotek"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Uppsala üniversite kütüphanesi tarafından yönetilen Uppsala'da dijital koleksiyonlar ve sayısallaştırılmış kültürel miras platformu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "платформа для цифрових колекцій та оцифрованої культурної спадщини в Уппсалі, керована університетською бібліотекою Уппсали"
+    }
+  },
+  "id": "P6821",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف أَلفِين في جامعة أبسالا  (Alvin)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Swedish Alvin"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Alvin"
+    },
+    "da": {
+      "language": "da",
+      "value": "Uppsala Universitet Alvin-ID"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alvin-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alvin ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Uppsala University Alvin ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador Alvin"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه دیجیتال دانشگاه اوپسالا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Alvin-tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Alvin"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Alvin"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה אלווין באוניברסיטת אופסלה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Alvin-azonosító"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Alvin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウプサラ大学アルヴィン識別子"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "на Алвин"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Uppsala Universitet Alvin-ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alvin-identificatiecode"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Uppsala Universitet Alvin-ID"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator Uppsala University Alvin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код в Uppsala University Alvin"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "Swedish Alvin ID"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "UUA ID"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alvin-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Uppsala Üniversitesi Alvin kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Alvin університету Уппсали"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "identifegador Alvin"
+    }
+  },
+  "lastrevid": 17395212,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192029,
+  "title": "Property:P6821",
+  "type": "property"
+}

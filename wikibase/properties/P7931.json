@@ -1,0 +1,640 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelsvapen-Wiki ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "identifiant Adelsvapen-Wiki"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Adelsvapen tanımlayıcı"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P7931$8CE714B7-EE63-431F-B144-4842AAC0F052",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83336425",
+              "numeric-id": 83336425
+            }
+          },
+          "hash": "58a14f57dbe483c2b5b697888d5c8712ad75047d",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P7931$AD371ABF-6E78-4A64-A41E-B13EC061AF12",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.adelsvapen.com/genealogi/$1"
+          },
+          "hash": "1ba37d7d017d067eb077a35eb358120a6d4a2be5",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P7931$48356C77-9CDE-4610-A96E-DB4488B5776D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1819, 'id': 'P1819'}"
+          },
+          "hash": "0cfe0d6b31d01612ad84cbb2a069f4945327cf45",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$6CDE4E52-6BAC-40CF-9D2F-51C7C5721E52",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2949, 'id': 'P2949'}"
+          },
+          "hash": "75537a994e6bfd265f2ad0600e7c465b5bc36707",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$237EB478-60C3-4702-9997-DB6D734FC984",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 7929, 'id': 'P7929'}"
+          },
+          "hash": "29e85ebaa5c24954b959a97fe8fc9c048575f561",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$8208B1E1-33BF-4D1A-829C-6A593C0B3CC1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 3217, 'id': 'P3217'}"
+          },
+          "hash": "5ef92bfa7247e76080a9c780705be70251a8deed",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P7931$21A2B196-6716-420D-BDF3-B7DB6F984CC5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P7931$AEC3F0DC-4AC1-4382-8079-BACEC9CB0965",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^\\S{2,128}$"
+          },
+          "hash": "02abdbef6160a462fbac5747be7dc6374cdbc8bc",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P7931$B73F0A4B-6330-499C-BF17-7B6B9B3223D1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61881525",
+              "numeric-id": 61881525
+            }
+          },
+          "hash": "953ce6aa984548d31557625cbb1534e41aad82e7",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$DD5113EC-1D41-427A-B7BE-72B224CB59CA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70326138",
+              "numeric-id": 70326138
+            }
+          },
+          "hash": "acf0a4b468874bb20ac0881bd00dfa094f016ddd",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$78F2869E-16B0-47E3-97F7-C094D74BC52F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q830048",
+              "numeric-id": 830048
+            }
+          },
+          "hash": "501b59209191007e36a0bf125ee6973348d79f30",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$8A0C4DE1-61AA-4E7A-A455-E7DF6F780C33",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2450753",
+              "numeric-id": 2450753
+            }
+          },
+          "hash": "8c9c278f85127b9a2937d3f3f3c7fc3f4bf7be4b",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$4ED11492-DF3A-4AB7-B71F-BE7CC53AEAF8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61881892",
+              "numeric-id": 61881892
+            }
+          },
+          "hash": "93a8a4c277858555915765212d5a72be464d31c7",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$3A39796D-5530-4EE7-8B50-DF4D8EBFE7DB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16155869",
+              "numeric-id": 16155869
+            }
+          },
+          "hash": "0ab7b2942f20ed50cd6e9c0cdf6a6a5826985669",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$49575A21-A74E-4429-A98E-ADAFA2F6688F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q81349919",
+              "numeric-id": 81349919
+            }
+          },
+          "hash": "45f05802c735def1b9faea53f4c275d2c6add53e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P7931$B5E29477-DE56-4DA2-986E-69895D49D99D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.adelsvapen.com/wiki/index.php?title=Special%3AAlla+sidor&from=&to=&namespace=0&hideredirects=1"
+          },
+          "hash": "83cd0ab05f3bdfad448521ff509baea418ef12b7",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P7931$5BEF2BAB-C834-4BFF-AC5A-F014A1E47264",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$9A6C3FC3-295E-48A7-A223-F1F9FFFC74F4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$D695D300-265A-4863-BB40-A30D7BF7D23B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$7B967C1A-95D4-4425-99D5-C314F2E24963",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$0DF024A4-6CDC-4499-BB56-7FEF81832B6A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$4AB06789-2C5B-4AD8-B439-6F017FD51208",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P7931$6570DB1B-D211-4A7B-B7B6-6FD208F35826",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P7931$FC70756F-C7F9-442A-B5A2-FFF7C926EBAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$7862520D-362F-4B40-9A76-FB4912237101",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18608871",
+              "numeric-id": 18608871
+            }
+          },
+          "hash": "d8457d9d1fba60630ec5ac970e1d065b28459ee3",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7931$BDCE6FFC-F058-4504-9989-B6F1FA6897D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P7931$9ABDFA0E-CF6E-4750-AAFA-F6051414A0F1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Adelsvapen_ID"
+          },
+          "hash": "b9ffada843a1743558c65e31a52a6124726f000c",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P7931$3A11E85D-D9C0-484C-85DE-0AFCF6A8E30F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+3453', 'unit': '1'}"
+          },
+          "hash": "abe98d782f9291975b9029c66510e78b3cff654d",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P7931$ECCC22D1-E2A3-43FC-8D1A-6C9B9E361E3A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?adelsvapen\\.com\\/genealogi\\/(\\S{2,128})"
+          },
+          "hash": "9362b8b38ab4b6bf3d03c272174ed7be73ed3e20",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P7931$D69C46B9-04D5-4669-BDBC-EA8AF6505A35",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77944274",
+              "numeric-id": 77944274
+            }
+          },
+          "hash": "ee15e59cbeb39d7527d7581bd1ded3893b05d8e8",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Swedish noble family on Adelsvapen-Wiki"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "famille noble suédoise sur le site Adelsvapen-Wiki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор знатного рода в вики-проекте Adelsvapen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "svensk adelsfamilj på Adelsvapen-Wiki"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Adelsvapen-Wiki'de yer alan bir İsveç asil ailesi tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор знатного роду у вікіпроєкті Adelsvapen"
+    }
+  },
+  "id": "P7931",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "identificador Adelsvapen"
+    },
+    "de": {
+      "language": "de",
+      "value": "www.adelsvapen.com-Familienikennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adelsvapen ID"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Adelsvapen-tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Adelsvapen"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Adelsvapen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adelsvapen-identificatiecode"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код Adelsvapen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Adelsvapen-Wiki-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Adelsvapen kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Adelsvapen"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID Adelsvapen"
+    }
+  },
+  "lastrevid": 17395226,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192028,
+  "title": "Property:P7931",
+  "type": "property"
+}

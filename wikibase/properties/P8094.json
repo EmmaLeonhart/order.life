@@ -1,0 +1,801 @@
+{
+  "aliases": {
+    "bar": [
+      {
+        "language": "bar",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "GeneaStar-ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "en-ca": [
+      {
+        "language": "en-ca",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "GeneaStar-azonosító"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "GeneaStar"
+      }
+    ],
+    "nds": [
+      {
+        "language": "nds",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "ID GeneaStar"
+      }
+    ],
+    "simple": [
+      {
+        "language": "simple",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "sr-ec": [
+      {
+        "language": "sr-ec",
+        "value": "GeneaStar ID"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "GeneaStar-ID"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "GeneaStar kimliği"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "ідентифікатор GeneaStar"
+      },
+      {
+        "language": "uk",
+        "value": "ідентифікатор особи GeneaStar"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P8094$3E4CFA7A-E7CF-4F26-B451-B375A60FB031",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geneastar.org/genealogie/?refcelebrite=$1"
+          },
+          "hash": "75c5ee4cbc716ec0b1a81bea4e796c190a59bfb9",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P8094$38A4135D-4CE1-4641-9A24-7E99204EA41B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 9352, 'id': 'P9352'}"
+          },
+          "hash": "afeb5da6ac01790b2697b8a674e6544308ffb9fa",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$D063A246-67A4-4767-84AA-65DC4638806B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2600, 'id': 'P2600'}"
+          },
+          "hash": "39da32a732b8dfa6fbcebf9ac27a7b384f69287d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P8094$46C65FAF-6E77-4313-82F6-72256D906FFE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142",
+              "numeric-id": 142
+            }
+          },
+          "hash": "c05db5d169c2560b9799d567a803d20a392f53e4",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P8094$533C26ED-7BCD-43A9-AB2F-807BF7A64165",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "GeneaStar"
+            }
+          },
+          "hash": "688629f06d71a47f4026b57fcbb57aa228da1e9e",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P8094$D6DDE8A5-D7DC-4BFB-8D21-6E06AE26F26C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36268",
+              "numeric-id": 36268
+            }
+          },
+          "hash": "4cb6318ebe328352a0d7848261a5d2530be843c1",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$4ACAFA1D-EC74-4706-A58F-5A1B56ACFA4B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94846",
+              "numeric-id": 94846
+            }
+          },
+          "hash": "e5801b720ebe11b25564ceda824e25a1723dabf9",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$5320EC12-1967-4ED2-B5C1-D2FC08003F4A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76",
+              "numeric-id": 76
+            }
+          },
+          "hash": "ea2759933a2e118773c7fc6218a8513631787422",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P8094$E510A9A3-7516-4906-89AD-DBE5E8CCB013",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geneastar.org/catalog/?nom=&action=search"
+          },
+          "hash": "b091d1941f84db279ac7013c8991bd786e9e5032",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P8094$26220B69-620A-452E-9839-808107D23071",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "3634"
+          },
+          "hash": "a8e581bdd29911f873ea5d5880c9e85a04e63867",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P8094$09964450-51A9-4102-A8E6-5DF6D7ECC670",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$B4F60645-92D1-4025-8ABA-A42846B93FB4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$B19AD205-F8FC-4054-BBC8-BA8567EAB22E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$B7A76123-2770-4AB7-9C7D-64424568DAE4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$7EB84E51-2AD6-4D74-B3B9-4395122614AB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$E3C8FEE1-6947-4117-AB34-955B83FA1F21",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P8094$DE48FF0F-E8CA-4960-9E13-BE3C34FF9B93",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P8094$72C89842-1AA9-48F1-9AF0-2198729FC0FA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P8094$5CAA318E-1192-4B63-80A1-4ABD60392422",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$1C2F0ED2-2618-4BED-BCA7-4034E4813471",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P8094$BA0A48C4-408F-452D-AF54-21DBA2E79B3D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/identifiant_Geneastar"
+          },
+          "hash": "d33e1835864c6167ebcda216b2f2d7bd969762b1",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P8094$D145101B-9044-468D-8661-BCC71CB91D37",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://en.geneastar.org/search?names=$1"
+          },
+          "hash": "72f2c4705d612aa34c7f99b3a327bbec10649495",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P8094$5808247E-3FD5-4190-B461-793067CC8B28",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+12949', 'unit': '1'}"
+          },
+          "hash": "7978c46e082586b31d7dafdc9b07f6c30160af70",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$074215D0-A1B8-436F-AAC3-2550EA54D2FE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+21819', 'unit': '1'}"
+          },
+          "hash": "b94da5fbdb0dfdeb2606d44e047f659dfa633240",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P8094$7D0F3601-CD6C-48C4-B66B-A6F5CE4BA648",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q87268730",
+              "numeric-id": 87268730
+            }
+          },
+          "hash": "e8f6ad3b07d9505a5c90e7a166cbdf6e63816967",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P8094$A4CD3CD2-FEFE-419B-8989-044B00538CAB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?geneastar\\.org\\/genealogie\\/\\?refcelebrite=(\\w+)"
+          },
+          "hash": "1be7d78850f839952d76b2c0230daadd51e1dc24",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8094$0436BB7F-8BB6-4739-8B6B-F7DAACFD7AEB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:\\w+\\.)genea(?:star|logy|net)\\.org\\/(?:genealogy|genealogie|profil)\\/(\\w+)"
+          },
+          "hash": "49808cfa2678396aa26efecf0d4484bcd7c8b732",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P8094$51D154AA-833D-4CD6-805B-CFB868E220D6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98769076",
+              "numeric-id": 98769076
+            }
+          },
+          "hash": "9de31b8e222b4122244cae7be8a5c83a748e0621",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы ў генэалягічнай базе зьвестак GeneaStar"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für eine Person in der mehrsprachigen genealogischen Datenbank von Geneanet auf geneastar.org"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier of a person in the GeneaStar genealogical database"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "identifier of a person in the GeneaStar genealogical database"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "identifier of a person in the GeneaStar genealogical database"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de una persona en la base de datos genealógica GeneaStar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه ب.د. فرانسوی GeneaStar برای افراد مشهور"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne dans la base généalogique GeneaStar"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Personidentifikator i GeneaStar-databasen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator osoby w GeneaStar"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "identifier of a person in the GeneaStar genealogical database"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "идентификатор особе у генетичкој бази података  GeneaStar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "GeneaStar kişilerin soylarına (şecere) ait veritabanındaki bir kişinin tanımlayıcısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи в генеалогічній базі даних GeneaStar"
+    }
+  },
+  "id": "P8094",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف شخص في قاعدة بيانات \"جينيا ستار\" (GeneaStar)"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "GeneaStar-Kennung"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы GeneaStar"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador GeneaStar de persona"
+    },
+    "de": {
+      "language": "de",
+      "value": "GeneaStar-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "GeneaStar person ID"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "GeneaStar person ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "GeneaStar person ID"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "identigilo de homo ĉe GeneaStar"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador GeneaStar de persona"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه GeneaStar افراد مشهور"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant GeneaStar"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה אדם בגניאסטאר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "GeneaStar-személyazonosító"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "անձի կոդը GeneaStar-ում"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo GeneaStar"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "личност на GeneaStar"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "GeneaStar person-ID"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "GeneaStar-Kennung"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "GeneaStar-identificatiecode voor persoon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator GeneaStar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны в GeneaStar"
+    },
+    "rue": {
+      "language": "rue",
+      "value": "GeneaStar особа"
+    },
+    "simple": {
+      "language": "simple",
+      "value": "GeneaStar person ID"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "GeneaStar ID"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "GeneaStar person ID"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "GeneaStar person-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "GeneaStar kişi kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "GeneaStar особа"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "GeneaStar人物編號"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "GeneaStar人物編號"
+    }
+  },
+  "lastrevid": 17395232,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192040,
+  "title": "Property:P8094",
+  "type": "property"
+}

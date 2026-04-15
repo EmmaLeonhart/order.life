@@ -1,0 +1,950 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "النبلاء"
+      },
+      {
+        "language": "ar",
+        "value": "شخص في النبلاء"
+      }
+    ],
+    "be": [
+      {
+        "language": "be",
+        "value": "Peerage person ID"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар асобы Peerage"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "The Peerage"
+      },
+      {
+        "language": "cy",
+        "value": "Peerage"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Peerage person ID"
+      },
+      {
+        "language": "en",
+        "value": "TP id"
+      },
+      {
+        "language": "en",
+        "value": "thepeerage"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "ピアリッジ 人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "The Peerage 人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "Peerage 人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "ザ・ピアリッジ 人物識別子"
+      },
+      {
+        "language": "ja",
+        "value": "ピアリッジ 人物識別子"
+      },
+      {
+        "language": "ja",
+        "value": "The Peerage 人物識別子"
+      },
+      {
+        "language": "ja",
+        "value": "Peerage 人物識別子"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "ID TP"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "identifikator The Peerage"
+      },
+      {
+        "language": "sl",
+        "value": "označevalec The Peerage"
+      },
+      {
+        "language": "sl",
+        "value": "koda The Peerage"
+      },
+      {
+        "language": "sl",
+        "value": "oznaka TP"
+      },
+      {
+        "language": "sl",
+        "value": "identfikator TP"
+      },
+      {
+        "language": "sl",
+        "value": "označevalec TP"
+      },
+      {
+        "language": "sl",
+        "value": "koda TP"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "Peerage ID особе"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "貴族人物編號"
+      },
+      {
+        "language": "zh",
+        "value": "贵族家谱网站上个人的标识符"
+      }
+    ]
+  },
+  "claims": {
+    "P10787": [
+      {
+        "id": "P4638$0DACC8A4-9744-40B3-8429-9F153C011F75",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "P1062"
+          },
+          "hash": "2ecd3ce5298f8551efd3b7d3f50ce199afd5ae6c",
+          "property": "P10787",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P4638$0178C7EC-3DCD-4334-995B-306D70F60387",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://wikidata-externalid-url.toolforge.org/?p=4638&url_prefix=https://www.thepeerage.com/&id=$1"
+          },
+          "hash": "a7ea1fcf0637dea00bc03c249a71622550a172fc",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$6C199075-E394-4E92-BA75-4CE53C11AD4D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.thepeerage.com/$1"
+          },
+          "hash": "e0a6f60181a9cf7b667ac7eb9e8b6f4c99616110",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P4638$E298F00C-C695-4B1E-90A1-0BD81977943C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1819, 'id': 'P1819'}"
+          },
+          "hash": "0cfe0d6b31d01612ad84cbb2a069f4945327cf45",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$A2950B0A-66BC-4DE3-AB6A-DF521E0FCDDE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4159, 'id': 'P4159'}"
+          },
+          "hash": "ad9fad07a050026442879437b46f64fe0390d4ab",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$E58E30F1-F30B-4025-BF1A-DA1CC945B637",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 3051, 'id': 'P3051'}"
+          },
+          "hash": "032c677d5853119ee231c2e69140d04c68e45d04",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$94B51EE0-A043-40BF-8F9F-6D122FEA5416",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2889, 'id': 'P2889'}"
+          },
+          "hash": "f2a0a26647c5459fc77010148be26c5d858ad59e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P4638$53D70D98-CBE2-43E2-9A93-566954D38306",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "p[1-9]\\d*\\.htm\\#i[1-9]\\d*"
+          },
+          "hash": "3f23796c214de04b92af4624bb19979cfb520219",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P4638$AEFB1C7B-8212-4583-8A99-F9308CE038B6",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "thepeerage"
+            }
+          },
+          "hash": "10eb5ccf7f6ffddaae29719385211d7519565af8",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P4638$EA376231-AE0B-4AF3-9EEF-CD40A1A0EBF2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131691",
+              "numeric-id": 131691
+            }
+          },
+          "hash": "d8141940d84108db33885d1a8200bd1a8ecef6ac",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$6880C4D1-607D-4806-827E-A216B6063456",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80823",
+              "numeric-id": 80823
+            }
+          },
+          "hash": "ae9afc97e7bd8e9a40d1a48c00d5429d3936e214",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$33144212-1020-4F26-9336-1FDC89AA1830",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31677",
+              "numeric-id": 31677
+            }
+          },
+          "hash": "cd0fb7d84262d90d177f1671b103d1212f15271e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$0BADB0FC-F1DD-45F2-B44F-5928CBD43403",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43274",
+              "numeric-id": 43274
+            }
+          },
+          "hash": "5530fc0f2b4052beddee0125b173b7b49a49b111",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P4638$01F75A03-31A1-4C3B-8936-BC93C54F6420",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.thepeerage.com/"
+          },
+          "hash": "5c525fa01856f627d2ea65f317771df6a7b54053",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P4638$859FB7CE-BB5C-4B90-A045-C7D2E595363D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "695"
+          },
+          "hash": "de6d29ce2cf2e9b5e01f363ed1a3119f462e5ab5",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P4638$5C2C55B9-4A85-48AE-B5A5-A5B411811905",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$042D4C29-5E80-4EDF-AEEC-C4BD5D2341DA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$66B3FE73-ECAF-4EA5-9C0E-200E90204F92",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$20FDF316-C18E-4C47-95BC-CC7ECE18C00D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$349F3B80-7B16-4303-ADFF-D2CDC3D5D7CB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510851",
+              "numeric-id": 21510851
+            }
+          },
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$61A30B97-B93A-4469-9911-2961BE9DDC0B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$36DBC6D1-95CD-4EAD-89BD-65F88B0008BE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P4638$A2C86BAD-BE98-4F3B-997E-81838A0A7DF6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P4638$5C785C68-FFFD-4B76-B5C6-78172436462D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P4638$ABA6E190-C4BE-46C2-9B86-C4428C90B672",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$5FF78119-8575-4DC8-9DF4-B438DF3A438C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P4638$92085CF4-9B93-4FF4-B6B8-3CD56DC5FCA6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/The_Peerage_person_ID"
+          },
+          "hash": "f1467e92caec32bd519906f47eccc3275007c824",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P4638$693A1A90-2608-4226-B3C2-D4F9883E00D0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+747063', 'unit': '1'}"
+          },
+          "hash": "2956a66c992e4ed87861e3cd0a639c849b705b8e",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$49EFB9CA-FDEF-4188-95BC-7C52A98315FE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+722506', 'unit': '1'}"
+          },
+          "hash": "1cd5b2b0c40d1159db9e0528fcbb4965509dcefd",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4638$A676AEF2-348F-48FA-851D-B99B45AF38D2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+755668', 'unit': '1'}"
+          },
+          "hash": "59975d42026239abb4a7ea756cbd1f4984d32dc1",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P4638$99DB60CA-72DC-4199-AD0E-5BD0A15EC816",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q87268730",
+              "numeric-id": 87268730
+            }
+          },
+          "hash": "e8f6ad3b07d9505a5c90e7a166cbdf6e63816967",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P4638$2920B7EA-8D49-4CE4-BDBB-3556CD09787F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?thepeerage\\.com\\/(p[1-9]\\d*\\.htm\\#i[1-9]\\d*)"
+          },
+          "hash": "a9bf404dae215a1c578c24bc70d195ac68b51e4b",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P4638$68BF651D-50A0-4592-8745-2CA367F944EC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21401824",
+              "numeric-id": 21401824
+            }
+          },
+          "hash": "a98d1937d579868e7c36bf305bebf677a2182236",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "код асобы на генеалагічным сайце The Peerage"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы на генэалягічнай бачыне The Peerage"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "identifikátor osoby na genealogickém webu The Peerage"
+    },
+    "de": {
+      "language": "de",
+      "value": "genealogischer Identifikator über das britische und das europäische Königshaus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αναγνωριστικός αριθμός προσώπου που καταλογογραφείται στην ιστοσελίδα Γενεαλογίας Ευγενών"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a person on The Peerage genealogical website"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "identifier for a person on The Peerage genealogical website"
+    },
+    "es": {
+      "language": "es",
+      "value": "propiedad de Wikidata relacionada con la genealogía"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه افراد نجیب‌زاده در وبگاه تبارشناسی پیرج"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne sur The Peerage, site web de généalogie en Grande-Bretagne et des familles royales européennes"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ihe nchọpụta maka mmadụ na webụsaịtị ọmụmụ Peerage"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator osoby na genealogicznej stronie internetowej The Peerage"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador pessoal no site genealógico The Peerage"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador pessoal no site genealógico The Peerage"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор персоны на генеалогическом сайте The Peerage"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare för en person i släktforskardatabasen \"The Peerage \""
+    },
+    "tr": {
+      "language": "tr",
+      "value": "The Peerage soy ağacı web sitesinde bir kişinin tanımlayıcısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для особи на генеалогічному веб-сайті The Peerage"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貴族家譜網站上某人的標識符"
+    }
+  },
+  "id": "P4638",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف شخص في موقع \"النُبلاء\" (thepeerage.com)"
+    },
+    "be": {
+      "language": "be",
+      "value": "ідэнтыфікатар асобы на The Peerage"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы The Peerage"
+    },
+    "br": {
+      "language": "br",
+      "value": "anaouder The Peerage (den)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador The Peerage de persona"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "The Peerage person ID"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr The Peerage (person)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Peerage-Kennung"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ταυτότητα Ευγενούς"
+    },
+    "en": {
+      "language": "en",
+      "value": "The Peerage person ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "The Peerage person ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de persona en The Peerage"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه نجیب‌زادگان پیرج"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "The Peerage -henkilötunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant The Peerage"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador de persoa en The Peerage"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה אדם במסד The Peerage"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "The Peerage-személyazonosító"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "անձի կոդը The Peerage-ում"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "NJ onye Peerage Akara"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo The Peerage di una persona"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ザ・ピアリッジ 人物ID"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "The Peerage person ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "The Peerage-identificatiecode voor persoon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator The Peerage"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "پیرایج پرسن آئی ڈی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador pessoal The Peerage"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador pessoal The Peerage"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Identificator (ID) The Peerage"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны на The Peerage"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oznaka The Peerage"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Пирејџ ID особе"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "The Peerage person-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "The Peerage kişi kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи The Peerage"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پیرایج پرسن آئی ڈی"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貴族家譜人物编号"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "The Peerage人物编号"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "The Peerage人物編號"
+    }
+  },
+  "lastrevid": 17395148,
+  "modified": "2025-09-10T05:12:29Z",
+  "ns": 862,
+  "pageid": 192068,
+  "title": "Property:P4638",
+  "type": "property"
+}

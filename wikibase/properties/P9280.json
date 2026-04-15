@@ -1,0 +1,620 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Museum of the Jewish People at Beit Hatfutsot identifier"
+      },
+      {
+        "language": "en",
+        "value": "Beit Hatfutsot ID"
+      },
+      {
+        "language": "en",
+        "value": "Beit Hatfutsot identifier"
+      },
+      {
+        "language": "en",
+        "value": "Open Databases Project ID"
+      },
+      {
+        "language": "en",
+        "value": "Open Databases Project identifier"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Museum of the Jewish People at Beit Hatfutsot ID"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "מזהה בית התפוצות"
+      },
+      {
+        "language": "he",
+        "value": "אנו – מוזיאון העם היהודי"
+      },
+      {
+        "language": "he",
+        "value": "בית התפוצות"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P9280$43394054-77E3-45A5-91EE-1199AA97D2B9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P9280$4F3D076F-C5D7-4E8C-A2A1-97AF4A45232E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://dbs.anumuseum.org.il/skn/en/e$1"
+          },
+          "hash": "08b735afe354ed6924157717e212031219185736",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$6A657B05-DDF6-402B-A490-929B3A429D7C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://dbs.anumuseum.org.il/skn/he/e$1"
+          },
+          "hash": "e284ad4469692e5699e01813d0aa88a6f4acc719",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P9280$D3C2EE9B-7168-454E-8882-C0DE3F5CBB74",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q152886",
+              "numeric-id": 152886
+            }
+          },
+          "hash": "957f624c56f5f2583700b29fb2d32ef171bf241d",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P9280$F799DD2B-C455-423C-887F-85DFD9D203AB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "[1-9]\\d*"
+          },
+          "hash": "b11a207353fbbc014d3317bccfda3b8dba3ab975",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P9280$60A5621B-A148-4AA6-8F76-C873CF715F2A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153579",
+              "numeric-id": 153579
+            }
+          },
+          "hash": "6643fdabaed6bcc0d53a2d33472f32dac42f87e0",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$25B67570-F672-4C9C-9EB3-D94911681321",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4583",
+              "numeric-id": 4583
+            }
+          },
+          "hash": "65d30ed0af78c3d6cf7bfcb8a6423b0eb651edba",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$96D41C8C-D548-47DC-B485-EAF2F119EC3F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21504697",
+              "numeric-id": 21504697
+            }
+          },
+          "hash": "6be81656f17fb1864ac39ba51e8b7c3c438fbd84",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$6661CA23-6528-4A92-A2AC-8A08C44BF798",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105845538",
+              "numeric-id": 105845538
+            }
+          },
+          "hash": "be2dcd75c58689cd7bfaa37c0fdbbecd5913a22d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$D4054ECF-1DDE-46BE-8C59-D7417D41F249",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111803172",
+              "numeric-id": 111803172
+            }
+          },
+          "hash": "c57ba5b7d9790c5ac2c1bdac2800b25a1d236ee6",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$F76EDC68-7FED-47DE-9BCE-407DD63B1BEA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1516827",
+              "numeric-id": 1516827
+            }
+          },
+          "hash": "421f41452071e35b095eb5c346486fd9e2729ed4",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$9B845EB5-9679-426F-8C7C-A2FA25D1F49D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8065871",
+              "numeric-id": 8065871
+            }
+          },
+          "hash": "096ff173dc7ba5b30dceb71f1c243d1d408d7656",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P9280$E386C208-FF53-4E12-8501-F7DEE5D07794",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://dbs.anumuseum.org.il/skn/en/c6/BH"
+          },
+          "hash": "f89d4b09824460d6c499260d1629e5953557714f",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$10CFA66D-66E6-4E65-A717-90CB7426FC5B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://dbs.anumuseum.org.il/skn/he/c6/bh"
+          },
+          "hash": "8b6f42de3abb12f57beb6d017e8f20b2e7810c05",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P9280$C270118A-5E90-4310-A0AC-506E1C430F52",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$E20F8F07-4E1E-4448-BB68-C74119D816E6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$48925508-E1C0-4D35-9439-161B2DF1125D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$A60B46A7-1735-44BD-B769-C8A49C494BC7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$CA4F47F1-1EAF-41C2-9787-1D3D6327C6AD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P9280$6F51C94A-B8AB-41BB-B73F-EC4C87E9204A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q796764",
+              "numeric-id": 796764
+            }
+          },
+          "hash": "ff41157eadf8c20bc013c3306e5cfd15a16d012e",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P9280$46DF09C2-6243-435E-B6C8-300CE017A472",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P9280$FAA23405-9D22-424E-A706-FBD80CA2B378",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$A258F8CF-284A-4A6F-8C2F-A35EEC4162DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64348848",
+              "numeric-id": 64348848
+            }
+          },
+          "hash": "f40e1933e823634a38562e0fed802b594bcccf30",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$7AEC9E52-7F4A-45B4-930E-6543CCD314FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111339517",
+              "numeric-id": 111339517
+            }
+          },
+          "hash": "9d86a78ace8c1064c471f9dff673452500a2ef83",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9280$B6390722-8A0C-4329-B76C-F88C0AEE6B62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P9280$C8A6406E-D1BB-4FB4-BA06-C1F171D74363",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Museum_of_the_jewish_people_ID"
+          },
+          "hash": "230f44b2faf2124b0d6e1cf80ddb61de6defae2a",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P9280$DBDB5E00-22DB-4D86-9885-59B966E6232C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15884604",
+              "numeric-id": 15884604
+            }
+          },
+          "hash": "82102f4c272d5aa06ded38ba11e81e0df7df40f9",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P9280$9CD9AB72-0B95-4E08-8C44-A2E501F3AFCF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/dbs\\.anumuseum\\.org\\.il\\/skn\\/en\\/e([1-9]\\d*)"
+          },
+          "hash": "00144a2107fac2d222e1c19ffa43b8429f71886f",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف خاص مُدرج بقاعدة بيانات متحف الشعب اليهودي في بيت التفشي"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for an entity in the databases of the Museum of the Jewish People at Beit Hatfutsot"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une entité dans les bases de données du Museum of the Jewish People at Beit Hatfutsot"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה של יישות במאגר הנתונים של אנו – מוזיאון העם היהודי בבית התפוצות"
+    }
+  },
+  "id": "P9280",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف متحف الشعب اليهودي في بيت التفشي"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Bet ha-Tefutsot"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "taarihi binkura duu zaŋti Jewish niraba ban be Beit Hatfutsot ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "Museum of the Jewish People at Beit Hatfutsot ID"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه موزه ملت یهود"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Museum of the Jewish People at Beit Hatfutsot"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה אנו – מוזיאון העם היהודי"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Beth Hatefutsoth-identificatiecode"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID Bet ha-Tefutsot"
+    }
+  },
+  "lastrevid": 17395250,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192048,
+  "title": "Property:P9280",
+  "type": "property"
+}
