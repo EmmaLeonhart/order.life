@@ -1,0 +1,130 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ramiro de Asturias"
+      },
+      {
+        "language": "en",
+        "value": "Ramiro Menéndez de Valdés"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118599$DF24F6E0-174D-4CE7-A72C-7BE91B6E5639",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118599$6B8C21F2-6932-4C4A-B3E7-EC5C671B4836",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118599$2A0D2B21-C188-4842-8173-673445CFA628",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118599$D51125E1-A5D6-43A8-8E86-A4EFD1C310B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000078341054033"
+          },
+          "hash": "0621be79ff460b45ae667d58aa90cb713a3cf2be",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118599$6953E7BC-EA31-4234-84B4-9162462C7104",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ramiro  Menendez de Valdes Arms.svg"
+          },
+          "hash": "55468a3d2813a63c07f838e834bbc88a3af72a4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118599",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ramiro  Menendez de Valdes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ramiro  Menéndez de Valdés"
+    }
+  },
+  "lastrevid": 17531480,
+  "modified": "2025-09-17T05:49:23Z",
+  "ns": 860,
+  "pageid": 142524,
+  "sitelinks": {},
+  "title": "Item:Q118599",
+  "type": "item"
+}

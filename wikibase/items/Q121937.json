@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Svyatoslav Vladimirovich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121937$78007AF0-02F2-4941-904E-0355DEB32618",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "572"
+          },
+          "hash": "fec42e9ace2f075e7828241ef5a9e82c52f30b79",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q121937$2AECEF5F-C7C1-4F70-9CF4-D7AF32829EFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00300218"
+          },
+          "hash": "765ade0f512a2e66aceef8bde44bb3b9540d88ad",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121937$324CCCF2-3D27-45D7-A390-0E2ED33A3FD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127956",
+              "numeric-id": 127956
+            }
+          },
+          "hash": "99a227f56c1d083ddb8c80e019ab1f0c4588e3b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121937$CBA6A73F-02B1-46B3-BC9D-16FB1414D7CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121937$42F5E87E-BDB3-4325-9CB9-A3848440801B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121937$808CD53A-B989-44A5-8F9A-02DFB103ACE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117391",
+              "numeric-id": 117391
+            }
+          },
+          "hash": "060fde29c14dadce8e5337f041e249d0c036828e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121937$76746F1A-03C0-4183-B7A5-302DD6CD4321",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121931",
+              "numeric-id": 121931
+            }
+          },
+          "hash": "07d965333e566f3a55827398417bb1506830c33b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121937$6FCEEAE1-3D62-45B9-BB17-ADC49FA27C5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121937$34A5A7C1-8CEF-4926-B5D7-8BEF87B8B1DD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1015-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f4d2945b3abe6308471acc4c5b6860f9b74aeed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121937$151B22C7-EBE1-4C02-8330-93213488133F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4411634"
+          },
+          "hash": "9ad6829dc76a35656b73e1f721ff71651f2c24a7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121937$F2003A0A-1487-4FF3-9C9C-F556541C2F79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=swiatoslaw;n=rurikides"
+          },
+          "hash": "e8f0534117de362f2d33057db6c3556cee0e6ade",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121937$566A2CE2-83E1-4862-BFFD-D3C8074E4B5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Svyatoslav Vladimirovich Arms.svg"
+          },
+          "hash": "b1f324a2ae6d9de72feda9e3b79c7ccc7f5da5a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "князь драўлянскі"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst der Drewljanen (um 990–1015)"
+    },
+    "la": {
+      "language": "la",
+      "value": "dux Drevlianorum"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь древлянский, сын Владимира Святославича"
+    }
+  },
+  "id": "Q121937",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Святаслаў Уладзіміравіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Svjatoslav Drevljanský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Swjatoslaw"
+    },
+    "en": {
+      "language": "en",
+      "value": "Svyatoslav Vladimirovich"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Svjatoslav la Drevlana"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sventoslaus Vladimiri filius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Swjatoslaw"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Światosław Włodzimierzowic (zm. 1015)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Святослав Владимирович"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Svyatoslav Volodymyrovych"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Svjatoslav Vladimirovitj"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Святослав Володимирович"
+    }
+  },
+  "lastrevid": 17535126,
+  "modified": "2025-09-17T06:38:54Z",
+  "ns": 860,
+  "pageid": 147001,
+  "sitelinks": {},
+  "title": "Item:Q121937",
+  "type": "item"
+}

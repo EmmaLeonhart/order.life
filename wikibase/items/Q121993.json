@@ -1,0 +1,386 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Leszek, Duke of Masovia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121993$AA97CC48-1141-42DB-8EF6-0B857EC6400D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "173964"
+          },
+          "hash": "976dd2df6f599181c261707c67985933b4ec1340",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121993$7EAA235E-80B8-4C6E-938B-370F292B220D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121993$D5132815-8C89-4355-B504-7CA4A4399D2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121993$2B0E5CFC-720C-4884-9B61-A5B17BF80948",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Leszek,_Duke_of_Masovia_(1)"
+          },
+          "hash": "535e54313b0f3b98a72ac06bfaa554dd86cd481f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121993$C39AD45E-CE74-4944-BC83-8410A8126350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117435",
+              "numeric-id": 117435
+            }
+          },
+          "hash": "b72531f523801aea28256be667ff588a13c36ce1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121993$1B82236E-BB02-4591-8A2A-322E9DD6FB87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121991",
+              "numeric-id": 121991
+            }
+          },
+          "hash": "719c3a0687cc3bb77ae8babee0cc0784ac446cd4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121993$A2D9C2BD-559A-4DFE-B144-1D38088AFAA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121993$8740C63F-F63F-4DA1-BD05-70B6BB77E243",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1162-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1769e78996ef1856c66af9a0dd23dc11feab98a5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121993$5861E6B8-3FF1-43A8-9D59-C6213EC4F0EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1186-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9c459854425fdb59035fc99453063752594992c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121993$ED0306E8-58BF-47D4-9B1A-E64A67A45CDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3228728"
+          },
+          "hash": "f57085bd7543c8fbcd462449b449161c7dff1af1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q121993$E854ECEC-0982-4AD8-848E-5E1EE7A9702F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "363886034950010574"
+          },
+          "hash": "122e503d28c9c7dc2d8351dd5e770de605cc9699",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121993$85D947B6-AA05-4B49-9BEF-AC009207726E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=leszek;n=piast;oc=4"
+          },
+          "hash": "565723bea2a33d5fcfe8585287ed67a39d87a6d1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121993$BFAAC2F9-8C64-442E-AA7D-A3B65C8C615A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.531"
+          },
+          "hash": "180a55ec912f896e56d3ebfaa4172daab627a2a3",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121993$67EFEB3A-15F4-4723-AF82-32124705F7AA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Leszek, Duke of Masovia Arms.svg"
+          },
+          "hash": "0d51c7f9d75f292763400c3fc4fd89932f2de168",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "polský šlechtic"
+    },
+    "de": {
+      "language": "de",
+      "value": "polnischer Herzog"
+    },
+    "en": {
+      "language": "en",
+      "value": "Polish noble"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "hertog van Mazovië en Koejavië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "(zm. 1186) książę mazowiecki i kujawski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "второй князь Мазовии (1173–1186)"
+    }
+  },
+  "id": "Q121993",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Lešek Mazovský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Leszek (Sohn von Bolesław IV.)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λέσεκ της Μαζοβίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leszek, Duke of Masovia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Leszek, Duke of Masovia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Leszek, Duke of Masovia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leszek, Duke of Masovia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lech de Mazovie"
+    },
+    "he": {
+      "language": "he",
+      "value": "לשק, דוכס מזוביה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Leszek Bolesławowic"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leszek di Masovia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Leszek van Mazovië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Leszek Bolesławowic"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лешек Болеславович"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лешек Мазовецький"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Leszek, Công tước xứ Masovia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萊謝克"
+    }
+  },
+  "lastrevid": 17535182,
+  "modified": "2025-09-17T06:39:39Z",
+  "ns": 860,
+  "pageid": 147077,
+  "sitelinks": {},
+  "title": "Item:Q121993",
+  "type": "item"
+}

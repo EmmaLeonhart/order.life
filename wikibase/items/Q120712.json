@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anselm"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q120712$678C524D-C860-48F5-AD75-E852E53CCD27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116795",
+              "numeric-id": 116795
+            }
+          },
+          "hash": "71c1ef9345cec3be81d8a1b9ae52afd444cec2c5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120712$C051F63C-A80B-45C0-9C39-238EF858FCD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116793",
+              "numeric-id": 116793
+            }
+          },
+          "hash": "507b8c8e9544d2aef3e1c89f7723a8dbafba5a95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120712$9BE7E8EE-8784-4014-9467-EEB77E8F8864",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116797",
+              "numeric-id": 116797
+            }
+          },
+          "hash": "ad235230aadd6cd617f0a227a0e4006d05147005",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120712$6D0F8BA1-03AD-48B8-9B58-667DD7A4226E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120712$F614367A-6D40-4A6F-A194-93D40D716994",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q120712$B549DDF7-31D9-4CE8-B325-6613644BDE33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116791",
+              "numeric-id": 116791
+            }
+          },
+          "hash": "8fde72e6aa4def3351aab4a2ee3fd102bcda0395",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120712$D734769E-EE1F-4062-BA3C-E5B9A8AD021F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120712$A8B73233-5057-433F-B454-F4E7BF645652",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120712$7652DC1C-520B-4217-9DE6-B542AD7123A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55713978"
+          },
+          "hash": "3f5a23dbb63f22342fb6b420e3020093a838420e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120712$3A265294-E2DB-4580-81C9-1479A30FC7CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anselm Arms.svg"
+          },
+          "hash": "7a298e4ad5e1cbbc61c9bb8301e681746f84c69e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Burgundian nobleman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble bourguignon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "teść Humberta I Białorękiego"
+    }
+  },
+  "id": "Q120712",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Anselm"
+    },
+    "es": {
+      "language": "es",
+      "value": "Anselm"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anselme"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンセルム"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anselm"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Anzelm (burgundzki szlachcic)"
+    }
+  },
+  "lastrevid": 17533921,
+  "modified": "2025-09-17T06:21:54Z",
+  "ns": 860,
+  "pageid": 145359,
+  "sitelinks": {},
+  "title": "Item:Q120712",
+  "type": "item"
+}

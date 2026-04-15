@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto I von Regensburg"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q121734$2D334B1A-9B26-41DC-81C7-0A6B6AFE7796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117307",
+              "numeric-id": 117307
+            }
+          },
+          "hash": "8614b2071f03458d2e68091b4b5a0613aa00301a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121734$61282893-C898-4369-8AB0-C710539B9D21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121736",
+              "numeric-id": 121736
+            }
+          },
+          "hash": "b8f6ee0b4139d8a6f580ae03e678334b09adcd2c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121734$BFBA43EF-167D-427E-B964-9310A71FE4FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Babonen-3"
+          },
+          "hash": "67a9c9a6abfbb45325f51eeea6f847a143987d06",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121734$90A3426F-D8B8-49AF-AC8F-A9EB64FE5821",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121734$AE666D0C-C8C7-4A07-9EBF-97374EADD3A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121734$B8E4A045-532C-4C76-9F80-6CADB6BBDDE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127698",
+              "numeric-id": 127698
+            }
+          },
+          "hash": "7a60e2cb9d03222da6334a6f670a90b3c76508b7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121734$B63A80E7-58E6-4857-BDF0-E084BA9C647D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127696",
+              "numeric-id": 127696
+            }
+          },
+          "hash": "b413701d344bf29b229689e84afa33ad6c57d32b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121734$995F75B2-38A8-4721-8581-9123E7962071",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121734$1117EE09-A71E-4AF1-BD15-55CBE3C957D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1143-10-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81e7fbd02a98f01d46aeedcc210b9e535cf1f8d2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121734$AF0406AF-D6CD-4684-979A-9E0DF4B0E6F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q31191171"
+          },
+          "hash": "5742981b4b470e74bfc4c8d95d627ad65bb9548c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121734$9B070F41-F3B3-4524-AEB9-34608BA5A222",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=otto;n=von sinzing;oc=1"
+          },
+          "hash": "adebb9efa285507ff32d9c9276a394f1fd99ab2d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121734$E42DAB62-930C-4023-AA6D-6C7AE8BC6CC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto I von Regensburg Arms.svg"
+          },
+          "hash": "9c887e5df06ba050a1aa28153b8988a1e79e7ec3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "21 Oct 1143"
+    }
+  },
+  "id": "Q121734",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Ото I фон Регенсбург"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto I von Regensburg"
+    }
+  },
+  "lastrevid": 17534926,
+  "modified": "2025-09-17T06:36:02Z",
+  "ns": 860,
+  "pageid": 146729,
+  "sitelinks": {},
+  "title": "Item:Q121734",
+  "type": "item"
+}

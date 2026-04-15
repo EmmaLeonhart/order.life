@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Durancie"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q121304$DBCB42EC-24B3-447B-A0C5-D39F5EBBED6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127060",
+              "numeric-id": 127060
+            }
+          },
+          "hash": "a3bc0afee017afe0dcb7f2830230badaba8441fc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121304$119B5E5A-7A26-46AE-BEAC-D09BFA25AC3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127062",
+              "numeric-id": 127062
+            }
+          },
+          "hash": "ebb20a2da30fc7f5df7386959f217068903e539b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121304$C96FFBC8-2CB8-4415-AC40-30BA6BDE7B98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121304$290E6E79-757F-45E4-A638-82F8C5B0DD68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121304$174650A8-0EDD-412E-A268-05631903DBE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127058",
+              "numeric-id": 127058
+            }
+          },
+          "hash": "378c8601ecc062c1bebad891b3bb320c6ce4d64c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121304$892EC4CB-340D-4EF6-94B1-F29D510DC8EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117153",
+              "numeric-id": 117153
+            }
+          },
+          "hash": "1620e90550b8e4f59d23749310e60653e6595a5e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121304$D29918A1-DB29-4F91-B4B5-C9AA82A0E2C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121304$B359DC96-F235-4CEE-9DE9-B1E6CBEB3EA6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121304$C76377BC-AB35-4840-9A98-17FFFB81B4C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9212996"
+          },
+          "hash": "06cb7f6d778d6117ee9def832b1f30950509edc5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121304$401A2649-9236-44A8-ABA8-F1F37F7D8C8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.6518"
+          },
+          "hash": "bab7e102c4aaf0f6df6391458293a9f69d03d6d8",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121304$469F5FFB-B1CA-4649-AA54-7FA739FC11F0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Durancie Arms.svg"
+          },
+          "hash": "508b88e63a62641ad2adf528eb353c363b0f0d62",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka olomouckého údělníka Oty III. Dětleba"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "оломоуцкая княгиня"
+    }
+  },
+  "id": "Q121304",
+  "labels": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Дзюранса"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Durancie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Durancie"
+    },
+    "es": {
+      "language": "es",
+      "value": "Durancie"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Durancia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Durancie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Durancja (żona Ottona III Detleba)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дуранция"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дюранса"
+    }
+  },
+  "lastrevid": 17534509,
+  "modified": "2025-09-17T06:30:19Z",
+  "ns": 860,
+  "pageid": 146152,
+  "sitelinks": {},
+  "title": "Item:Q121304",
+  "type": "item"
+}

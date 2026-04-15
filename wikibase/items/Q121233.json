@@ -1,0 +1,218 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q24357457"
+      },
+      {
+        "language": "en",
+        "value": "Conon of Geneva"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q121233$67AF0CED-F920-44C1-87C9-5515A37C1B0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121233$65F7B2E6-7179-4E78-82B5-153DCE0BA81E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121233$29E6A963-F2BD-47A9-96BE-3F948ED70C65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Conon_de_Genève_(1)"
+          },
+          "hash": "5305bd0cb6ab7b7ba33e45470a64d074e6b90e3a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121233$8EFBBE1A-4B00-4582-906F-C4EE5AA0F1AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121227",
+              "numeric-id": 121227
+            }
+          },
+          "hash": "df8d9dca2c92adfca55fd1c12bae1ceb978e34be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121233$7724FD0F-9D7A-4278-80BF-44A286F7E485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121229",
+              "numeric-id": 121229
+            }
+          },
+          "hash": "1af0ce4af49b3df4edaba7773996f842a57d9490",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121233$95B1FA45-7423-4870-8D75-31AA52F59636",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121233$2F93B486-3F2F-4832-86F7-D1B68473569A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24357457"
+          },
+          "hash": "5929fa5a23bf6b8575f6e8d75303b6bd0b592590",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121233$3D85BA9D-9B5F-475A-BD0F-646BA39F1D84",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Conon de Geneve Arms.svg"
+          },
+          "hash": "67f4c2fe238d257b06fbae9c6bd76f2ce75ecc50",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Κόμης της Γενεύης"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Genève"
+    }
+  },
+  "id": "Q121233",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Conon de Genève"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Conon de Ginebra"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόνων της Γενεύης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Conon de Geneve"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Conon de Genève"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Conon de Genève"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Конон Женевский"
+    }
+  },
+  "lastrevid": 17534439,
+  "modified": "2025-09-17T06:29:22Z",
+  "ns": 860,
+  "pageid": 146058,
+  "sitelinks": {},
+  "title": "Item:Q121233",
+  "type": "item"
+}

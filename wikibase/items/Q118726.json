@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rabarr"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Ráðbarðr"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q118726$43DD6BBE-F06B-4D62-8489-0E33AE27C28F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115295",
+              "numeric-id": 115295
+            }
+          },
+          "hash": "02cd5c81ba039acff3157df04d7e92a25c98b85a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q118726$9038BCDF-3D12-487C-8447-C2B4A7000F00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118726$9B1DA7D7-254F-4349-9DA2-A3036EC985C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q118726$37C6D046-5641-4EA1-AF33-F3F5B2838E23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118728",
+              "numeric-id": 118728
+            }
+          },
+          "hash": "636933bbb6731334ea27e95d9280957e00c56751",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q118726$53AEB58A-41BF-4DA6-8B2A-9879B2D9A452",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123833",
+              "numeric-id": 123833
+            }
+          },
+          "hash": "0ce33199e7593481ef1488acd0d1c9da133ddfe6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118726$26714DFC-E48F-4AE2-B46A-537896132B4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q118726$5C809A46-2E46-4392-B43F-3F06E8631E32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2335361"
+          },
+          "hash": "fa1eb2684422022bf7dfce3ffc1101e99e11be0e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118726$7DC7B2C2-8CFC-4498-B303-50D7AD14594A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ráðbarðr Arms.svg"
+          },
+          "hash": "8090ee8378d605fb36e92f9e4897fe3085462df4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "legendarischer Herrscher in Garðariki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Legendary king of Garðaríki"
+    },
+    "es": {
+      "language": "es",
+      "value": "caudillo vikingo legendario"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "конунг Гардарики"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "enligt de nordiska sagorna kung av Gårdarike"
+    }
+  },
+  "id": "Q118726",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Радбарт"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ráðbarðr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ráðbarðr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ráðbarðr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Radbart"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ráðbarðr"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ráðbarðr"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Radbard"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ráðbarðr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Радбарт"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Radbart"
+    }
+  },
+  "lastrevid": 17531710,
+  "modified": "2025-09-17T05:52:27Z",
+  "ns": 860,
+  "pageid": 142695,
+  "sitelinks": {},
+  "title": "Item:Q118726",
+  "type": "item"
+}

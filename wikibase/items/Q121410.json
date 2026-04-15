@@ -1,0 +1,387 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adalbert II. von Saarbrücken"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121410$A28D726C-D398-4EC8-8DAB-D38E9CEF63F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00105528"
+          },
+          "hash": "3063141f418d57b47aca44f8d40e84cd5e4bb9e7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121410$84D620A4-A1BD-4A88-A04B-18379EDC61B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121410$6B7683AD-DB8E-453B-8DDA-479B71C755FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121410$5EDB9046-DD5E-400D-99AC-DB6ACC3931CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Adalbert_von_Saarbrücken_(1)"
+          },
+          "hash": "fa5aecc3bbe39f37c487b1eb45704b909990845a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121410$3BED1DBC-E484-4BBC-A5B8-608CF7541918",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121404",
+              "numeric-id": 121404
+            }
+          },
+          "hash": "31b14b72b886117f5a856fc07d2a5df569c8fa26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121410$DC86B4C5-91D5-4D89-8480-6D18406A57A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121410$82694F15-DE9E-41AB-8E36-9C34C1174B2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121410$EFDD15EB-A3A7-43A7-9DAA-23D78369E895",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1141-07-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f5f6a913431611188e4fff1b55a090cf54dedb7a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121410$A5A9CB95-7E61-4F50-8763-C32F1E622DEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q347484"
+          },
+          "hash": "626c6b0fb34dc7637997384c621548be80809010",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121410$109B6F93-1241-4051-8F6D-893B0FBFB758",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adalbert;n=von saarbrucken;oc=1"
+          },
+          "hash": "f59e72fe99402b76883feb0ebb6c9958467c1661",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121410$6F44324F-427D-4E3D-920D-3F46DF96D579",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adalbert II. von Saarbrücken Arms.svg"
+          },
+          "hash": "744f145bedcad948b9798195634732997496fe91",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "رئيس أساقفة ألماني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Arzobispu alemán (1100–1141)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític alemany"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erzbischof von Mainz (1138–1141)"
+    },
+    "en": {
+      "language": "en",
+      "value": "German archbishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "arzobispo alemán"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari alemaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "archevêque catholique"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "ardeaspag Gearmánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político alemán"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "archiepiscopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aartsbisschop (?-1141)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político alemão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "архиепископ Майнца"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Germany."
+    }
+  },
+  "id": "Q121410",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Adalbert de Saarbrücken"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Адалберт II фон Саарбрюкен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Adalbert II von Saarbrücken"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "da": {
+      "language": "da",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adalbert II de Sarrebruck"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "it": {
+      "language": "it",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adalbert II van Saarbrücken"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адальберт фон Саарбюккен"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Adalbert II. von Saarbrücken"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Adalbert II. von Saarbrücken"
+    }
+  },
+  "lastrevid": 17534616,
+  "modified": "2025-09-17T06:31:48Z",
+  "ns": 860,
+  "pageid": 146294,
+  "sitelinks": {},
+  "title": "Item:Q121410",
+  "type": "item"
+}

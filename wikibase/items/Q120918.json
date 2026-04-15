@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lisiard Le Riche"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q120918$8385545D-0911-482C-B2CD-F3CE6459BB50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116941",
+              "numeric-id": 116941
+            }
+          },
+          "hash": "2594cbd37f97cda5352201ef6961f5a5b3d7d31e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120918$3A20E488-6F0C-4660-B450-88F1EABE543D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120918$4646FB44-869F-4E5A-8A9F-822D69EE833C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120918$6E115007-8A75-4547-9E93-39A2FF7E6C60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126535",
+              "numeric-id": 126535
+            }
+          },
+          "hash": "5a7ac2d4b7884d7eed38d982713db0e3a5a028f1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120918$0FCD9F4A-6849-46AE-8378-2FBE98B654B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120918$3505AC32-5A64-4CC7-B301-CC5ECC2212D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d87210d668e225f8a8e60f9aa6f750a8b23e4d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120918$4306A9E0-7519-44D0-BD54-007BEE59BAAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16034336"
+          },
+          "hash": "0e8ac44e3411acb6e59e7edb9717631c3b85b866",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120918$8B12E3D1-22D7-4BD9-A553-7010193F5EF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=lisiard;n=le riche;oc=2"
+          },
+          "hash": "fb08605d7a6d616e32b156d44570d40f838778d6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120918$B62CD198-E616-4275-874F-9BC34DB245B6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lisiard Le Riche Arms.svg"
+          },
+          "hash": "bdaf7c243e1e82ae79ac6e3a2c45f4eb8899cd76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "französischer Adliger und Herr von Sceaux-du-Gâtinais"
+    },
+    "en": {
+      "language": "en",
+      "value": "French lord"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heer"
+    }
+  },
+  "id": "Q120918",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Lisiard Le Riche"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lisiard Le Riche"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lisiard Le Riche"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lisiard Le Riche"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リジャール・ル・リッシュ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lisiard Le Riche"
+    }
+  },
+  "lastrevid": 17534125,
+  "modified": "2025-09-17T06:24:41Z",
+  "ns": 860,
+  "pageid": 145635,
+  "sitelinks": {},
+  "title": "Item:Q120918",
+  "type": "item"
+}

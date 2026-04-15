@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guy III of Limoges"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q120766$8A4CB01B-6703-4701-BBD0-D9CCB741C099",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00473463"
+          },
+          "hash": "d0a5d916f10e61719ce5b1f8b0b2b567221b61f9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120766$700C7787-CE2C-4479-9DAC-33C2CA98F5B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120766$3E7F99B2-A0B7-4FF7-B4F5-89EAEF3635DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120766$756E7A11-CD93-4E75-B61D-5592BDBCFDDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116841",
+              "numeric-id": 116841
+            }
+          },
+          "hash": "3f48d7da025d7e6cb856330dc2d8ebebcfd429d1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120766$72160F80-4627-4D10-BBA4-96CE9F0CB7B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120766$ABD68226-B7C6-4483-8F61-6C2480C8F9CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1124-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8aac85713711ce1920324417a120f4a51b92bfc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120766$48DBB357-C4A6-4F90-B1E5-97801F30186C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55998385"
+          },
+          "hash": "dc3ff58115b64b879bba70dda1b7258cdf8800c9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q120766$338E7553-3385-47C0-ACCF-DDC14E9E8B8E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy III de Limoges"
+          },
+          "hash": "6d0c12358e48ed87f11f6978fd0d2fa72ee5ffef",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120766$0B87F4E1-F5B6-4EEA-AFD7-C130B128CBE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guy;n=de limoges"
+          },
+          "hash": "7f12ed7e9db91802a72ec3b9cf1a5d0e0eaaeb09",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120766$06DD3B4C-6E88-4B56-8436-0922FA2B9F3A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy III of Limoges Arms.svg"
+          },
+          "hash": "bc6e1507922751c58f64d88bf3cf3249f40cd864",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q120766",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Guy III de Limoges"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guy III of Limoges"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guy III de Limoges"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Guy III de Limoges"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guy III de Limoges"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ги III (виконт Лиможа)"
+    }
+  },
+  "lastrevid": 17533973,
+  "modified": "2025-09-17T06:22:37Z",
+  "ns": 860,
+  "pageid": 145431,
+  "sitelinks": {},
+  "title": "Item:Q120766",
+  "type": "item"
+}

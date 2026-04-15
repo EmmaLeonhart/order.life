@@ -1,0 +1,322 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q107608$EB61904C-AD88-46A3-AFB6-670D1CC4F1BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q107608$F3C9BDAC-21E4-4F82-82E4-D7A15A73FFDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q107608$05F60010-75C6-49E6-8B21-B723729E96B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94415",
+              "numeric-id": 94415
+            }
+          },
+          "hash": "34eb3481d3145d59d7f3340c3c2d84faed4bfd48",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q107608$FDC57F88-5D68-41B1-8718-A82C38AC34A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108032",
+              "numeric-id": 108032
+            }
+          },
+          "hash": "65bdb5dd21a7e5b3649ba966ab75c02138a3fcf9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q107608$337D8C04-64E7-4A9E-83F4-8332FA5B6DB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q107608$D71B8775-88B1-4A44-BE6B-EE50F389112E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2680782"
+          },
+          "hash": "48cf04454a567705c13611814c451d2c9d2687fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q107608$788452D9-F193-4083-AF16-ECDC549F9865",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Al-Fadl ibn Abbas Arms.svg"
+          },
+          "hash": "51ecc3bff257cb1826203264144050f431fd9d16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن عم محمد"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "sahabí (company de Muhàmmad)"
+    },
+    "en": {
+      "language": "en",
+      "value": "cousin of the Islamic prophet Muhammad (c. 611-c. 639)"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Sahabi kuma dan uwa"
+    },
+    "he": {
+      "language": "he",
+      "value": "בן דודו של מוחמד"
+    },
+    "id": {
+      "language": "id",
+      "value": "sahabat dan sepupu Nabi Muhammad"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "sehabe"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "wetenschapper"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Muhammed'le sohbet etmiş Müslüman (sahabe)"
+    }
+  },
+  "id": "Q107608",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الفضل بن العباس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Al-Fadl ibn al-Abbas"
+    },
+    "az": {
+      "language": "az",
+      "value": "Fəzl ibn Abbas"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ফাদল ইবনে আব্বাস"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fadl ibn al-Abbàs"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Фазл ибн Ӏаббас"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "فەزل کوڕی عەباس"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fadl ibn Abbás"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fadl ibn Abbas"
+    },
+    "en": {
+      "language": "en",
+      "value": "Al-Fadl ibn Abbas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fadl ibn Abbas"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فضل پسر عباس بن عبدالمطلب"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fadl ibn Abbas"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Fadl ɗan Abbas"
+    },
+    "he": {
+      "language": "he",
+      "value": "פדל בן עבאס"
+    },
+    "id": {
+      "language": "id",
+      "value": "Al-Fadhl bin Abbas"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ファドル・イブン・アッバース"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Фадл ибн Аббас"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "فادل ىيبن ابباس"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Фадл ибн Аббас"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Fadl ïbn Abbas"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Fedl bin Ebas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fadl ibn Abbas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fadl ibn Abbas"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "فضل ابن عباس"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фадль ибн Аббас"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fadl ibn Abbas"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фадл ибн Абас"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fadl ibn Abbas"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fadl b. Abbas"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "فضل ابن عباس"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Fadl ibn Abbos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "法德爾·伊本·阿巴斯"
+    }
+  },
+  "lastrevid": 17519533,
+  "modified": "2025-09-17T02:53:24Z",
+  "ns": 860,
+  "pageid": 127775,
+  "sitelinks": {},
+  "title": "Item:Q107608",
+  "type": "item"
+}

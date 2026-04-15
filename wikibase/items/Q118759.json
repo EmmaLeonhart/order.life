@@ -1,0 +1,174 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arnaud Loup de Dax"
+      },
+      {
+        "language": "en",
+        "value": "Arnaud Loup I, vicomte de Dax"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118759$2CC28E10-2568-42BA-90DD-9A3C6194D061",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118759$A44ED75F-F83E-4D54-B245-7FA82684FEC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118759$873CBC29-1DAE-4438-A1D4-971B26774D06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118759$319A75A0-D530-467F-935B-BCBCB169285D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0955-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "88d3d91067c5473cb67ce737265dfa07ab11c12e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118759$4AC217F7-6F07-436D-9037-8BAD9EEF5612",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1021-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45ce35c44846a8a35797696b04b6835d8a213803",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118759$266AEF92-F68C-40CF-B5BA-A1C3F8FC570F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004869131022"
+          },
+          "hash": "29b7224d60cf6164012d70e0283c32d8ced80e85",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118759$6917A78B-6043-4206-8A2C-E683AF221E65",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnaud Loup I, vicomte de Dax Arms.svg"
+          },
+          "hash": "39e3fbed4cb96db35b9005a801f078b1f23973e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118759",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Arnaud Loup I, vicomte de Dax"
+    }
+  },
+  "lastrevid": 17531768,
+  "modified": "2025-09-17T05:53:09Z",
+  "ns": 860,
+  "pageid": 142739,
+  "sitelinks": {},
+  "title": "Item:Q118759",
+  "type": "item"
+}

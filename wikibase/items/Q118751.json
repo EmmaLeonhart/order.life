@@ -1,0 +1,174 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arnaud de Lomagne"
+      },
+      {
+        "language": "en",
+        "value": "Arnaud I, vicomte de Lomagne"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118751$F4E64F21-356E-45C0-8FA1-54CFD4DCAA04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118751$ABBA297D-56AA-483D-96D5-67F1247BE48C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118751$5F44666E-E019-4591-9047-D2EFEDEDDABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118751$CAE89A31-B246-4D08-924B-4854FB37E31B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0975-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "68b218a42bcf302d4a1b93a3afb31d5d592f8d84",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118751$66E74B66-E8F2-4900-91C3-65BD0418B242",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1011-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60fb0dc710f545d286df35f9601b8c859050960a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118751$54F23E03-81BA-4EBD-9C32-3969C72659A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003827661452"
+          },
+          "hash": "96386f7e3d520ffcad0f55fab6a268550398ec98",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118751$33567B72-6C90-4844-B35A-B2B23522A2C4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnaud I, vicomte de Lomagne Arms.svg"
+          },
+          "hash": "e81f237975891b801dc9cb382b34372dc8bcbc39",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118751",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Arnaud I, vicomte de Lomagne"
+    }
+  },
+  "lastrevid": 17531752,
+  "modified": "2025-09-17T05:52:57Z",
+  "ns": 860,
+  "pageid": 142728,
+  "sitelinks": {},
+  "title": "Item:Q118751",
+  "type": "item"
+}

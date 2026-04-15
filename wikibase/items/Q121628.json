@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Odola of Hungary"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121628$DA702FC4-05FB-4BDF-9323-56BBD424D641",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "498327"
+          },
+          "hash": "7aa223ce9b2602f0ca8e08bb4e5c64ba1983ddd3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q121628$AFD8557D-31EB-4C07-A70D-87380AC357CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020738"
+          },
+          "hash": "08dc7066908383072522f71ea4d10ed7ed1a434f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121628$D4F95E90-8324-4298-9895-A87E0526036E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arpadhazi-76"
+          },
+          "hash": "271bdcfa5267ad638067d337e55118d8b4606104",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121628$F5ADF284-41A4-4BFD-A8E0-6AAD15D5EF23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121628$8608919C-8B50-4130-8229-6B95FF68FD21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121628$AAAD3B09-783B-4669-AE6D-3873DB621392",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117263",
+              "numeric-id": 117263
+            }
+          },
+          "hash": "e4214e1e212c4537eaeda82b4e9fc7962a1a4c4c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121628$D47AB2A3-F89E-42AD-BC57-14F180CA2094",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121628$FA331F66-8422-481E-AC4D-299DDEB55017",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1156-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8e7e7a0b6755585eb5eef32b402976ddedb6255",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121628$E8D55A7C-64E3-463C-9941-D467A7DBEE0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1199-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d26b8c49f9480664ce28d97af16d6316801cea36",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121628$B910C3C6-99AF-4CD4-AC84-3311E14E874D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q122706310"
+          },
+          "hash": "f5c18912af7219c57cf73e489fbb8bef0a55c192",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121628$8DB28DC7-23E6-470C-B912-76B3D6F09C73",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Odola of Hungary Arms.svg"
+          },
+          "hash": "bbd9adfe0d34dde6f2322d2dac1e21a428450830",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1156 - 1199"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1156-1199)"
+    }
+  },
+  "id": "Q121628",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Odola of Hungary"
+    }
+  },
+  "lastrevid": 17534820,
+  "modified": "2025-09-17T06:34:36Z",
+  "ns": 860,
+  "pageid": 146586,
+  "sitelinks": {},
+  "title": "Item:Q121628",
+  "type": "item"
+}

@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tochter von Bayern"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q109882$406959F2-354A-47B6-8794-CEEFD59A9D4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q109882$5E2C04C0-5358-48AF-9E78-18B864CCAABF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q109882$5EBFF405-86C6-40F8-A171-D8F60E97DAD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110240",
+              "numeric-id": 110240
+            }
+          },
+          "hash": "63708746af5d5b9929719eed5c27732dfef5487f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q109882$7E543B4A-CE64-49E4-B0DA-3F91321EB94F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109868",
+              "numeric-id": 109868
+            }
+          },
+          "hash": "e211016e6427a5a809477d189b51c0bfabaee2db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q109882$EBE8B4A9-0FD3-4B5B-89F2-A10EB0E5A81D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109626",
+              "numeric-id": 109626
+            }
+          },
+          "hash": "046e3d3614bd16fd30fa7739f2a20233464f4e8a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q109882$6262A4B6-53AE-4BA3-9C35-A361B76DFA43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q109882$60E0A043-0D8B-4416-8551-9737AA954058",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76299497"
+          },
+          "hash": "45185bce97db13738c8de4a9422de0f484f0f198",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q109882$1A481E55-FEE0-4B78-88E5-14481FFFC410",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tochter von Bayern Arms.svg"
+          },
+          "hash": "09227f0cd1e3320e011ff15bffca8f15c5ac45bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=672234"
+    }
+  },
+  "id": "Q109882",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Tochter von Bayern"
+    },
+    "da": {
+      "language": "da",
+      "value": "datter af Bayern"
+    },
+    "en": {
+      "language": "en",
+      "value": "N.N."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tochter von Bayern"
+    }
+  },
+  "lastrevid": 17613752,
+  "modified": "2025-09-20T01:20:11Z",
+  "ns": 860,
+  "pageid": 130834,
+  "sitelinks": {},
+  "title": "Item:Q109882",
+  "type": "item"
+}

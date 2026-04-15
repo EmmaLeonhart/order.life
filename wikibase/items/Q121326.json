@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ivan Yuryevich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121326$E1D55ED8-2710-41FC-A93E-E49594D390A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "672"
+          },
+          "hash": "cc859be7fe5a6c544b5d305f548ba69c908da88d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121326$4D6F6FC5-0825-4378-B9CB-10F801DB9D2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121326$824A7981-C303-425E-B4D9-5857F4E476E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121326$60934AE2-F65D-49E2-A99D-38696246C2E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11474.htm#i114736"
+          },
+          "hash": "05addfd11bffec81fb55dda971bdf3416ec28b75",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121326$17BE77F4-9033-4303-BA0E-7E4C7504536B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117161",
+              "numeric-id": 117161
+            }
+          },
+          "hash": "800458d38503ace9cb0d0d4af0d782c1d9d52269",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121326$EA603D04-988D-4B16-8EC1-1428F50A2C60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121312",
+              "numeric-id": 121312
+            }
+          },
+          "hash": "7298487581b298b635913d6f69bef77c4bed89fc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121326$EC86E2E4-159A-4585-BC59-5CF0F63B995F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121326$C4ACB1F6-B347-4628-9BB2-F15E99DDF6A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121326$A4EE310E-FDF9-425C-B149-4F30671BFCC5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1147-02-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6f3cd74c1dc4e6c16b65768ef93cc78b304ee34b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121326$6546D63A-94A5-4B23-A2F2-F362DFC80D70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4195666"
+          },
+          "hash": "6ac66d79b25fcf9d9ad9f5047433e3d28dc2c418",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121326$52E84D7B-1543-4B9E-A4D2-44F8F93636AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ivan;n=rurikides;oc=1"
+          },
+          "hash": "ff0a99f9dc151a0caf67184f74652643288a02dc",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121326$7063124A-DF7F-4B70-9FEC-086F4B017597",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ivan Yuryevich Arms.svg"
+          },
+          "hash": "1099d6c41436193e12d799073bdb9f1c5ca8f674",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "ruský kníže"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "ростово-суздальский княжич, второй сын Юрия Долгорукого"
+    }
+  },
+  "id": "Q121326",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ivan Yuryevich"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іван Юр’евіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ivan Jurjevič"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ivan Jurevitj"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ivan Yuryevich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ivan Yuryevich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イヴァン・ユーリエヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ivan Yuryevich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иван Юрьевич"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван Юрійович"
+    }
+  },
+  "lastrevid": 17534531,
+  "modified": "2025-09-17T06:30:37Z",
+  "ns": 860,
+  "pageid": 146182,
+  "sitelinks": {},
+  "title": "Item:Q121326",
+  "type": "item"
+}

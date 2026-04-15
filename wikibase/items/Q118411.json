@@ -1,0 +1,167 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sancha de Portugal"
+      },
+      {
+        "language": "en",
+        "value": "Sancha, infanta de Portugal"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118411$7AAFD464-AFF6-462F-8C2F-069703DB1E6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118411$DBBB81D4-7E19-48EF-AD2E-F789CD9436C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118411$6586BDEC-953D-473B-862B-5923181A00BD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "infanta de Portugal"
+          },
+          "hash": "796e66e3cc24f601cb1375b1f04de9bace8f1ff7",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118411$196C011F-279E-4413-94FE-325455278C6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118411$F80F7C52-5E7A-4A7A-ACD4-81FD7B6D6C59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f82d11c2e3d6b2be63a94106db53bfaaa89adbfa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118411$777D3251-5D07-41DA-9F8D-C5565D7F33DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000436259192"
+          },
+          "hash": "7f6fb0ddcc97f986b09c6f4bf720c324405cac6b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118411$EDEACC2C-4147-40FF-A58C-C1C78217162B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancha, infanta de Portugal Arms.svg"
+          },
+          "hash": "d0523a355dc9130ded0fe845fde40b6d43f21b69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118411",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sancha, infanta de Portugal"
+    }
+  },
+  "lastrevid": 17531147,
+  "modified": "2025-09-17T05:44:56Z",
+  "ns": 860,
+  "pageid": 142272,
+  "sitelinks": {},
+  "title": "Item:Q118411",
+  "type": "item"
+}

@@ -1,0 +1,385 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Boris Vyacheslavich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121039$3A6A3B4C-C1A2-4347-9560-83899DC4FE90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "669"
+          },
+          "hash": "03252f2cd4a2949728d656342dca8b6b6b9bac57",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121039$5E05D353-5EA7-41B5-8CB6-D8AE2F217BA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vyacheslavich-1"
+          },
+          "hash": "e7664e62ad36ea08fcfe696a90665469c581c448",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121039$E1FE1CA1-FAA6-4F84-A792-506599A16463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121039$B0DB2948-F8B9-4714-AA26-4302CB1BE375",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121039$092C656F-B310-4541-A891-4BC99D8DCFE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117141",
+              "numeric-id": 117141
+            }
+          },
+          "hash": "6c151ed77f4f7125cf9808ff962aa45efbdede60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121039$8864E2A1-F961-4B0A-849F-A8DF37640B9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117037",
+              "numeric-id": 117037
+            }
+          },
+          "hash": "f7f872200470aeb451dfd90b73571b58bd9e5e2d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121039$5A7A77E5-3E98-41D8-A54A-2EB7CCEFF6E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121039$C5B39107-156A-46C6-A3EC-F7B725D79072",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1054-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a44e0d08ae58846568b6d21329783be8e27ef6a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121039$5474D104-717D-413F-9C31-249FF27DB987",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1078-10-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c2ebe329eb4215f8b5ff25c387dc59e94212905",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121039$50844BF9-021B-4242-B88B-2BF60D281980",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4093749"
+          },
+          "hash": "0d2552492cdde57062ad9b1fc5b563f0f1ffcad3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121039$954B898E-AFE1-4120-9566-F97ADDBECDF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=boris;n=rurikides;oc=4"
+          },
+          "hash": "164b31831e43883aba4b40a4aef087cc8197d0e8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121039$ABA40DC8-8C7C-4FB4-8227-16D02F892083",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.264"
+          },
+          "hash": "fb5db07c79015b07cfc22f2eda02b88fbcbd5c0f",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121039$75640C02-657D-4FF2-B5F1-D9E41A920EA7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Boris Vyacheslavich Arms.svg"
+          },
+          "hash": "c8e42eaeb7910e3e9b8421cb2d6f3149adc4fdbd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata soviéticu"
+    },
+    "be": {
+      "language": "be",
+      "value": "рускі князь"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata soviètic"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Rus'"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata soviético"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata sobietarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate soviétique"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata soviético"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico sovietico"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata"
+    }
+  },
+  "id": "Q121039",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بوريس فياتشيسلافيتش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Барыс Вячаславіч"
+    },
+    "de": {
+      "language": "de",
+      "value": "Boris Vyacheslavich"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπόρις Βιατσεσλάβιτ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Boris Vyacheslavich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Boris Vyacheslavich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Boris Viatcheslavitch"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Борис Вјачеславич"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Boris Vjatsjeslavitsj"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Boris Vyacheslavich"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Borys Wiaczesławowic"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Bóris I de Czernicóvia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Bóris I de Czernicóvia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Борис Вячеславич"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Boris Vyacheslavich"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Борис Вячеславич"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鲍里斯·维亚切斯拉维奇"
+    }
+  },
+  "lastrevid": 17534247,
+  "modified": "2025-09-17T06:26:28Z",
+  "ns": 860,
+  "pageid": 145796,
+  "sitelinks": {},
+  "title": "Item:Q121039",
+  "type": "item"
+}

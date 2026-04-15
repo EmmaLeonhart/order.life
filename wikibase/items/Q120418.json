@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roger of Hainaut"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q120418$2890442E-CBCA-401B-A8AF-10114F2346B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00426908"
+          },
+          "hash": "7e1550bcbd0f35c63a3de8df7f13bc3a52e9ab3f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120418$CFF599D2-A91B-4025-AF20-A080C29A7846",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120418$4852E66C-1494-49E6-85BC-E41C71CD8803",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q120418$F077BCCC-5FB6-4786-967C-C2923BA62F78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p53224.htm#i532233"
+          },
+          "hash": "5d1de9958eda10844a93c208a622030c335172a4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120418$3331CEAF-EBCD-4B70-B637-C5F3684A0E22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116581",
+              "numeric-id": 116581
+            }
+          },
+          "hash": "dad0d59c8a52c7f7fd38163ae5b2cd47ecd70fac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120418$4F9830E0-053D-4BF2-ABEA-EE9910D5E362",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120416",
+              "numeric-id": 120416
+            }
+          },
+          "hash": "476441d3f143699777200942e45fbc7cc0e8815c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120418$423E554C-C4E4-4F57-9219-D5066B70E623",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120418$2773B52F-B699-42DD-9627-92C4B98348D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120418$4A8D4F25-EE73-42B5-965C-572E07FF56B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1093-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "150d7eaadda2bd86c9b57097783da43c295ed542",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120418$58C04E04-51A1-4B0E-AAF9-0BAA45FA577A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2468779"
+          },
+          "hash": "0c395edc0592db30efe259367db0819c85d55100",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120418$146A7A83-CC5C-426A-BFEB-9A4752455028",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=roger;n=de hainaut"
+          },
+          "hash": "5dd3657a43b82363ce830031b7652356073e8ca7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120418$A5CBAE44-8FF0-4DF5-AA3D-AF920685635F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roger of Hainaut Arms.svg"
+          },
+          "hash": "2cd44360dcf2731036b195354533c148d1cd05dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=532233"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prélat catholique"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "prelaat"
+    }
+  },
+  "id": "Q120418",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Roger d'Hainaut"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρογήρος του Αινώ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roger of Hainaut"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roger de Hainaut"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rogier van Henegouwen"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Roger de Hainaut"
+    }
+  },
+  "lastrevid": 17533621,
+  "modified": "2025-09-17T06:17:49Z",
+  "ns": 860,
+  "pageid": 144963,
+  "sitelinks": {},
+  "title": "Item:Q120418",
+  "type": "item"
+}

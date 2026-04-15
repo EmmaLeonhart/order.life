@@ -1,0 +1,610 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mabel FitzRobert of Gloucester"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121800$DA1DF5CE-AA62-4226-B5E4-C892F02F4F47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "596333"
+          },
+          "hash": "835445a1ead7aacf823721c7fccb47136531995c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q121800$F030E76D-D50F-4F4C-876B-F32BE83954A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027783"
+          },
+          "hash": "89d5fbe6da31a11a3652d8f56bd32b9d5a2a7438",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121800$629A6DB8-C5FD-4CDF-9C3A-C9A703906C00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121802",
+              "numeric-id": 121802
+            }
+          },
+          "hash": "a62adee745a0e579172d7029eb256be0f531b241",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$38B39DD4-CCA0-44E3-B934-392DDC4444A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121808",
+              "numeric-id": 121808
+            }
+          },
+          "hash": "2423139059cc2c38478d3899dc06b042dc1e519c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$51DA9751-10DA-41C2-90A1-A93D9A9BD041",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121804",
+              "numeric-id": 121804
+            }
+          },
+          "hash": "3ee20904b64d5557aeb8b31a05c97c545581bdc4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$CF344FAA-0953-4CDD-B5E0-AD765486B20F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121806",
+              "numeric-id": 121806
+            }
+          },
+          "hash": "92703956ed76fe29dfc851baaa78b7218070a4cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$98BEEE36-6CF0-4F30-BE06-C4F038B1382E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121811",
+              "numeric-id": 121811
+            }
+          },
+          "hash": "fe8d38dc0c2b33787d221ebce3f16700225fab71",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$3B4BEA64-9B75-41F3-A8AA-8A30CEE0E65A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121813",
+              "numeric-id": 121813
+            }
+          },
+          "hash": "990d661b3a7846477154f77f057860931e680170",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$60AFED98-C929-486F-A39E-D83100331C72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121815",
+              "numeric-id": 121815
+            }
+          },
+          "hash": "1f04d1a56c085cbcf9292ff3035d08891bbac137",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$CED063A7-180F-4E2B-952F-21D5039E5F41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121817",
+              "numeric-id": 121817
+            }
+          },
+          "hash": "b63e661c725a1f8de68eccef462103bc831e1eb4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$8203F5BA-98A9-448A-B0EC-391DDB15C0FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121819",
+              "numeric-id": 121819
+            }
+          },
+          "hash": "25721269fa2d30c372f204d36660a337dbf0b4a2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121800$51673431-54AC-469F-A555-BB2CC613CB5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzRobert-131"
+          },
+          "hash": "8b90203b2ba9f3a764cf703b2edb2e4d16524cc6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q121800$206227BC-99E2-46A2-A2D1-86E9EBABBF04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I5136"
+          },
+          "hash": "6bdc65575adcc32a896f60cf56ce6a99f929b3d9",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121800$55F0CE39-2E10-417D-93EE-6ED9FB9D2B26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121800$6C54CF8C-7E05-4E62-89AF-5A10AC825E5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121800$A6B3BBED-5846-4CD8-8393-DD75ABE9D2AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mabel_FitzRobert_(1)"
+          },
+          "hash": "f41b2b3438f36aff9072a0b6891acac2b0f260da",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121800$2AC97B83-AA20-4F49-9746-C4E09ECBE917",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117335",
+              "numeric-id": 117335
+            }
+          },
+          "hash": "8b4eab048e2ac9ab4cbc24c99a25a2c16657e17c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121800$9F2C45AF-471A-45A0-95C7-F31EE19ED514",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10472.htm#i104713"
+          },
+          "hash": "f09c764867d91873ea19360606dab18a9eb00687",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121800$CBB77059-BF1A-485A-8776-671DF5A4AA48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125735",
+              "numeric-id": 125735
+            }
+          },
+          "hash": "bfdfda12fda327e086c7b5faaeca53d1a5fbbb2e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121800$5430B87B-6273-4FFE-B130-288506A58015",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125312",
+              "numeric-id": 125312
+            }
+          },
+          "hash": "3fe9433a77aa09a073fbb2937c0a9febd96b7b2e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121800$C279FF6C-340A-49DB-93CE-E4BAFD8187E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121800$7D42EE45-B21B-41DD-91C5-D4FAA37C7811",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1094-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4405ec3d755f709a2d7c727288f713a18a536394",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121800$DD15EBCD-6204-4E9E-9F7F-DD827EB2D772",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1157-09-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fa07a23592e8572324f1e784f4f66cc6958717b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121800$073CABF4-3E02-4C3A-8173-A28F163BBB05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3841908"
+          },
+          "hash": "7e7713dc8fed02a4d3c97d3908e8fb5bb8d921c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121800$850B22C1-DB1A-4857-83CB-CC6DB04EECA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=maud;n=de creully"
+          },
+          "hash": "acad6896e835245cd9733f0ff05ebf5a2793963a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121800$750191AF-D054-407C-8145-9AAC844921DF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mabel FitzRobert of Gloucester Arms.svg"
+          },
+          "hash": "60e1d3a7a839f82e8cf62d1f9712b6d25d0428d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "britská šlechtična"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(1090-1157)"
+    },
+    "de": {
+      "language": "de",
+      "value": "anglonormannische Adlige"
+    },
+    "en": {
+      "language": "en",
+      "value": "British noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate britannique"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile britannica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "англо-нормандская аристократка"
+    }
+  },
+  "id": "Q121800",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "مابل فيتزروبرت من جلوستر"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mabel FitzRobert de Gloucester"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mabel FitzRobertová Gloucesterská"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Mabel Fitzrobert o Gaerloyw"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mabel FitzRobert"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mabel FitzRobert of Gloucester"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mabel FitzRobert de Gloucester"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mabel FitzRobert de Gloucester"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mabel FitzRobert of Gloucester"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mabel Fitzhamon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mabel FitzRobert of Gloucester"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mabel FitzRobert"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mabel FitzRobert"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мабель Фиц-Роберт, графиня Глостер"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mabel FitzRobert of Gloucester"
+    }
+  },
+  "lastrevid": 17534990,
+  "modified": "2025-09-17T06:36:53Z",
+  "ns": 860,
+  "pageid": 146817,
+  "sitelinks": {},
+  "title": "Item:Q121800",
+  "type": "item"
+}

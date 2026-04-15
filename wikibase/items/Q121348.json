@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vladimir Andreevich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121348$3676E22A-FB84-4462-8351-28E23501283E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "847"
+          },
+          "hash": "42f246d695e53e7f473457df192f153b80e7dc5a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121348$84541DA4-6028-4663-A580-ED28B6DE0B0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121348$DCB02DAC-FA1B-4560-A29B-87BCB99631BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121348$42FBF77E-3EDB-49F7-BE05-9F7AA7A924A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117165",
+              "numeric-id": 117165
+            }
+          },
+          "hash": "02089ccaf26e6288aa6c8a4ea30d1b0e7d18050b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121348$AC2E194D-7478-46EB-A4D5-4EDB8B3B6784",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121348$8F6DE06B-CDC1-4E75-9D46-B62F227D0859",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1118-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "58331039520416b0dc97dd18da04ec54287dd261",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121348$52653986-4382-4731-B908-AFF6038F02EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1170-01-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bce369effe2f24c10555518ca6b887cc7eb2f874",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121348$5867BF5E-3932-4941-9E81-D25B08A8A9A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12090419"
+          },
+          "hash": "086d34f32176b299d1a468c2658af00132fc4dc0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121348$07CEBB43-7BEF-47B4-B7D2-21F79F10D8B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=vladimir;n=rurikides;oc=16"
+          },
+          "hash": "779de2a0b80e7875ec0f38b86b009956c5ae0e11",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121348$A5913831-3774-4163-83BA-A153DD094EE4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.5934"
+          },
+          "hash": "0df245d27db4223702fc157d1c3d87ddfd0f557e",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121348$A974100F-A7D1-476A-8AFE-9C58D9592FBB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vladimir Andreevich Arms.svg"
+          },
+          "hash": "306e5e33161860b5c264331f936d01117ef6b837",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "князь берасцейскі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "князь дарагабускі"
+    }
+  },
+  "id": "Q121348",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Vladimir Andreevich"
+    },
+    "be": {
+      "language": "be",
+      "value": "Уладзімір Андрэевіч"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Уладзімер Андрэевіч"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vladimir Andreevich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vladimir Andreevich"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vladimir III Andreevič"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウラジーミル・アンドレエヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Владимир Андреевич (князь дорогобужский)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Володимир Андрійович (князь волинський)"
+    }
+  },
+  "lastrevid": 17534554,
+  "modified": "2025-09-17T06:30:55Z",
+  "ns": 860,
+  "pageid": 146211,
+  "sitelinks": {},
+  "title": "Item:Q121348",
+  "type": "item"
+}

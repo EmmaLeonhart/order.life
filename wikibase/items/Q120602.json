@@ -1,0 +1,571 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guy I of Montlhéry"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120602$723A1F10-F9FA-41F7-8C0D-1592073E5B9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "309946"
+          },
+          "hash": "e4c607acd21ce31d4c567f5afd6a57d833e0d85a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q120602$9DC70389-F3A0-4117-8056-5EB5234185DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106272"
+          },
+          "hash": "759a8895f7384371f0cb0b8a2b668fd299ee9d4d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q120602$03FFACED-FBE1-442E-A3EA-6FC94BA0FDAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126189",
+              "numeric-id": 126189
+            }
+          },
+          "hash": "e06665ecfc287e98f88eb86e9ad6c5c5b50a7671",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$1BB39FC4-4430-4D6C-9AC8-C707C91A67E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125819",
+              "numeric-id": 125819
+            }
+          },
+          "hash": "996d43f0bf4c0c8584770c2203f30e24d7edbdd7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$5FB430E8-4AF2-4B3C-A5A4-134D07E258BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120608",
+              "numeric-id": 120608
+            }
+          },
+          "hash": "4c2fc14779c9e9efc32e02e583bbd43225353743",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$01FEB2A6-96C8-4DA3-802B-670B518D1A74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120612",
+              "numeric-id": 120612
+            }
+          },
+          "hash": "60d8b63f3e96cbf1b6497638eb57f2cf78948a5c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$76C72D3D-39AA-43A0-B27B-EE3F267CA3A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116711",
+              "numeric-id": 116711
+            }
+          },
+          "hash": "16adcc780fb6688b1b4949e527defba8d4a07c18",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$EA0A5071-ABB2-4E54-B5D6-2EC9C318F36B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120614",
+              "numeric-id": 120614
+            }
+          },
+          "hash": "9e066ed797c95bcd9365579401f0546579c79050",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$1C8E4A50-56D0-4FD0-BA7A-553D8354545F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120610",
+              "numeric-id": 120610
+            }
+          },
+          "hash": "1cd9d35ddc211c7be47392a37b4eff9ca33c0fc8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$676A2DDD-AD0A-4F4A-90DF-35F92A2ED9D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120606",
+              "numeric-id": 120606
+            }
+          },
+          "hash": "51ce9fc897435a20eaac6873d361cada03a6e871",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q120602$816E26B1-BEC7-4795-B077-6A584CB9CDE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montlhéry-18"
+          },
+          "hash": "b4c994203e4534b5e68f14d4a5091e1081ea2426",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120602$9F18CFB6-2507-400C-9F68-98859CD4EDBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120602$206492B7-11AB-4656-81B5-57B4E8AD1D0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q120602$F5966D11-6C76-4E5A-ABB5-4DE179FEEBFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy_I_of_Montlhéry_(1)"
+          },
+          "hash": "b4932844cdbe977ef4dd0e0a1775e8c4fcdc4ed3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q120602$D5C1A9C2-F9BA-4DF1-9A1F-63A340B8972C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120604",
+              "numeric-id": 120604
+            }
+          },
+          "hash": "46d7d320fe2f37fa75f52d147cc968543b31768a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q120602$F599F787-E070-40FA-B39B-179BACED79FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p40567.htm#i405668|p24821.htm#i248201"
+          },
+          "hash": "9808c798d038c8d48e3b3c63f5b3e7a0864cdf8e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120602$846A0D0F-F241-40D7-83BE-50FAEDCB8118",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126187",
+              "numeric-id": 126187
+            }
+          },
+          "hash": "0bfc1df8f424d0bd7715343ec0b7adb7b6c1f7c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120602$73E20409-6306-4129-A871-EA0D316B7245",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120650",
+              "numeric-id": 120650
+            }
+          },
+          "hash": "00a630199f071b8700a1db7aaa2228f450e7b9cb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120602$60D67381-071C-43EF-A010-CFFC11433A0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120602$065E0D59-EE18-4514-9115-04E49EF7F872",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1095-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "289dba990408eceb09a5d9404bd74ea11de5bcb5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120602$504508CA-D84E-425D-99A3-A305C5930560",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q958918"
+          },
+          "hash": "37ed9d56cfc910025f9b0e861c2f1e9f3665d1e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120602$8DE2141D-FE1B-4126-805D-36A2C340C319",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gui;n=de montlhery;oc=1"
+          },
+          "hash": "9dc8f9203690ceb2832d7176a794df36b215d34b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q120602$84D3F3A3-5DC5-491A-8361-B70F938A952A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sw.212871"
+          },
+          "hash": "c3076a8143b6287b459062a38913f7238454e662",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120602$60834261-9BC5-45E1-A4E3-804A44D974A2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy I of Montlhéry Arms.svg"
+          },
+          "hash": "9c8937639e80bdf62b0283bf40bf799169c751f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herr von Montlhéry und Bray-sur-Seine"
+    },
+    "en": {
+      "language": "en",
+      "value": "French noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur de Montlhéry"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сеньор Монлери"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız soylu (10.. – 1095)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q120602",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Гуго I дэ Манлеры"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gui Ier de Montlhéry"
+    },
+    "de": {
+      "language": "de",
+      "value": "Guido I. von Montlhéry"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκι Α΄ ντε Μοντλερί"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guy I of Montlhéry"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guido I de Montlhéry"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gui Ier de Montlhéry"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gui Ier de Montlhéry"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギー1世"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gui I de Montlhéry"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guy I of Montlhéry"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Guy I de Montlhéry"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ги I де Монлери"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gui Ier de Montlhéry"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gui de Montlhéry"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蒙莱里的居伊一世"
+    }
+  },
+  "lastrevid": 17533807,
+  "modified": "2025-09-17T06:20:20Z",
+  "ns": 860,
+  "pageid": 145211,
+  "sitelinks": {},
+  "title": "Item:Q120602",
+  "type": "item"
+}

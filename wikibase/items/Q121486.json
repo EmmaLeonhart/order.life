@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konrad von Pfitzingen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121486$A07D1357-B2F6-4FA8-97CF-0F99434B48F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00279400"
+          },
+          "hash": "52ea0dc27a9881c337270ba89db7533da235edd1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121486$3876AC0E-C9CA-40F4-815B-4A83C3E48006",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121491",
+              "numeric-id": 121491
+            }
+          },
+          "hash": "f2415a6bb87134a44a94a952972038d018009133",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121486$4BF0EDFD-525E-4231-85E8-76DFDFB82BE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121489",
+              "numeric-id": 121489
+            }
+          },
+          "hash": "b54b893fbc1e3d1509bda95ec4a6b50370c7967c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121486$ADF2DD7B-550D-487B-925A-D4A402432360",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121486$A0CF199B-7F77-4318-B629-E7E7E6B37E97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121486$47FCF6B2-CA1D-4D64-80EA-CF7F607FA96A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117217",
+              "numeric-id": 117217
+            }
+          },
+          "hash": "2744b91488575154d16e2d875c60516ebb8d11f0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121486$0225C75F-3AB7-4C0D-919A-6ABC12E6EEC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p403.htm#i4025"
+          },
+          "hash": "dc785edc3c8a6b1729edba0a61883e31a5f31a18",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121486$0F53F2E3-1C80-41B6-AEA2-ECCB512FFC0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121486$45E1F845-4D71-44B8-89BF-0BB32C83214A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121486$0CD53105-34A0-40E1-8EDE-F3DD99BC84F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61139850"
+          },
+          "hash": "78ced1b1c079c9f02457d5d47b0b048de1d2a43a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121486$FAE8BA7C-9ECC-4539-ABBF-04A10AA6D891",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konrad von Pfitzingen Arms.svg"
+          },
+          "hash": "706dc73c11b854fc6518769fe804a6d4b5a5f891",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=4025"
+    }
+  },
+  "id": "Q121486",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Конрад II фон Пфицинген"
+    },
+    "en": {
+      "language": "en",
+      "value": "Konrad von Pfitzingen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Konrad von Pfitzingen"
+    }
+  },
+  "lastrevid": 17534692,
+  "modified": "2025-09-17T06:32:50Z",
+  "ns": 860,
+  "pageid": 146396,
+  "sitelinks": {},
+  "title": "Item:Q121486",
+  "type": "item"
+}

@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heinrich von Weikersheim"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q121489$23EC1C92-1D46-41E2-A649-D1F9FCE3AFD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127310",
+              "numeric-id": 127310
+            }
+          },
+          "hash": "ff8064f41920c14438cff0f05aff267cd3335807",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121489$F7086667-A38B-495E-8CD2-5B4BD37BFE00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127312",
+              "numeric-id": 127312
+            }
+          },
+          "hash": "519dc8412b5205a0a07b5fe82829a5f3fa9d7479",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121489$FB163BD9-3F16-4CBB-8CF8-18349FC4732C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121489$F51EB781-85F2-4EFC-A175-54C00863F339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121489$C43D8973-E772-4176-B1CD-75347C39AFFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p403.htm#i4028"
+          },
+          "hash": "5ed93ce1fd3e4204b614d0b2cc0fc049e182064c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121489$77CE3DF5-E73A-4321-92AF-D17F80B99AD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121486",
+              "numeric-id": 121486
+            }
+          },
+          "hash": "bf1defa82080edc800788fc9b330202b837e2d76",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121489$AC2F87E4-F495-4369-84DD-0C241151290C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117217",
+              "numeric-id": 117217
+            }
+          },
+          "hash": "89579669944cff24a968af83dda88af27fd33068",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121489$351683FD-E9A9-45A8-B838-79A29153E8F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121489$D8A47200-BFFA-4410-A097-A9031ECC6866",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121489$092EB19D-59B8-49EB-A507-529DFD1096F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61139907"
+          },
+          "hash": "82e6207408c36d3d637ba864f638a3f7997ce8b3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121489$E28AB9F4-A8C8-4BC3-86E7-99C8CA870B6E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heinrich von Weikersheim Arms.svg"
+          },
+          "hash": "b7bc80f3490f4f848b28560f0d00df25637e0cba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=4028"
+    }
+  },
+  "id": "Q121489",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих фон Вайкерсхайм"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heinrich von Weikersheim"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Heinrich von Weikersheim"
+    }
+  },
+  "lastrevid": 17534694,
+  "modified": "2025-09-17T06:32:52Z",
+  "ns": 860,
+  "pageid": 146399,
+  "sitelinks": {},
+  "title": "Item:Q121489",
+  "type": "item"
+}

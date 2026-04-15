@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaston V, Viscount of Bearn"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Gaston V, Viscount of Béarn"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118338$766433EC-B7E7-450F-B51D-44FC6E7CD016",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118338$97144E43-C30A-4D8B-A1B4-CE4B9AC3DFFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q118338$D1C8373F-C553-453B-9A9E-3D59DA4FA851",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114844",
+              "numeric-id": 114844
+            }
+          },
+          "hash": "3e63a6731ec9590d6e62822cde630aa2a7e56724",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q118338$EA08291D-A916-4279-94DB-AC41263835EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115936",
+              "numeric-id": 115936
+            }
+          },
+          "hash": "664f52f6c3c702787fc10eea1c367f15897f6b6a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q118338$103C255A-E5EF-46E4-9025-F6B8B9399BF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119483",
+              "numeric-id": 119483
+            }
+          },
+          "hash": "1fd96d7db9b86ebc704989e8f0ec1fcc32b7d7b9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118338$2F7B3218-0A08-40FE-9675-1F3343C80304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q118338$B2CB9E40-AE6A-40CB-B3CF-3EAC8BF79B11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2502478"
+          },
+          "hash": "8b458f395c9f8ccf5fb321813f2561a8f1386576",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118338$CB2B6C1C-4541-4BF9-9D39-6A999A3B2761",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007472051048"
+          },
+          "hash": "797b5970e5d771f13146a65cc70421aa57370d95",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118338$EC070ADF-3065-471B-B66C-89327B5F3147",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaston V, Viscount of Béarn Arms.svg"
+          },
+          "hash": "250789062435d5d8630b7fdfb4b1a6186322ffcf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Vescomte de Bearn, Gabardà i Brulhès s.XII"
+    },
+    "en": {
+      "language": "en",
+      "value": "French noble"
+    }
+  },
+  "id": "Q118338",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Gastó V de Bearn"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gaston V. z Béarn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaston V, Viscount of Béarn"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gastón V de Bearne"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gaston V.a Biarnokoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gaston V de Béarn"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gastone V di Béarn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaston V van Béarn"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Gaston V de Bearn"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гастон V (виконт Беарна)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaston V, Viscount of Bearn"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貝亞恩子爵加斯頓五世"
+    }
+  },
+  "lastrevid": 17531023,
+  "modified": "2025-09-17T05:43:17Z",
+  "ns": 860,
+  "pageid": 142174,
+  "sitelinks": {},
+  "title": "Item:Q118338",
+  "type": "item"
+}

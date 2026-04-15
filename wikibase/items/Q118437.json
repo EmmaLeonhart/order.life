@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Béatrix de Bourgogne"
+      },
+      {
+        "language": "en",
+        "value": "Béatrix, infante de Bourgogne"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118437$F0F5DD9C-F6C4-4870-82BD-4E0A6557A6FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118437$C1362DE7-7DA9-4624-92CF-905318D741AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118437$B98BF6EE-E063-445E-8B05-C3307A4B57CE",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "infante de Bourgogne"
+          },
+          "hash": "10ad12e0d2b16cd9b5f198605467470a3f8a654e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118437$C626038F-00BA-42D4-B730-5597E1D29189",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118437$B53998C0-B59F-45CE-A76D-ADE96912931B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1063-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f15db25fca55953039676d800dc7e485d7dd3035",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118437$D74B5919-A746-455D-9AAF-C09FC005937B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "becf1f785515e7bb828b2035a2037aa6b47f8776",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118437$20BF9C8D-0216-43B5-A2F4-0C5633A3824B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003243447118"
+          },
+          "hash": "d66b924d41db67ce40e6b1f17e0627e8fbd970a8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118437$E4D5B787-3DAC-4EA3-BA1B-956AEB4F7D4E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Beatrix, infante de Bourgogne Arms.svg"
+          },
+          "hash": "73d04288edf8d181f408fa5e6d3231aa44288dc1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118437",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Beatrix, infante de Bourgogne"
+    },
+    "es": {
+      "language": "es",
+      "value": "Béatrix, infante de Bourgogne"
+    }
+  },
+  "lastrevid": 17531198,
+  "modified": "2025-09-17T05:45:35Z",
+  "ns": 860,
+  "pageid": 142307,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q118437",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q118437"
+    }
+  },
+  "title": "Item:Q118437",
+  "type": "item"
+}

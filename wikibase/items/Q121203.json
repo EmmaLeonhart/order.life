@@ -1,0 +1,641 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ida of Boulogne"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Ида Булонская, графиня Монтегю"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121203$F0187BA3-B03A-41C7-B577-16105E14B2E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8778"
+          },
+          "hash": "dd65f904481ef5c2f246ef7d5d4ba274637aa677",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q121203$C1F282AA-845A-4522-93A6-1B1DF847234D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139703"
+          },
+          "hash": "a3343fc0dd1d4e69d1d641cf541340b5b17207da",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121203$3015382C-D3D2-4620-BCDF-CA1747D7B8C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126894",
+              "numeric-id": 126894
+            }
+          },
+          "hash": "1236175d93d76272bb0eac0172a84ea70b4f19b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121203$516FF85B-61CF-4181-92A3-57AFE79B36B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126896",
+              "numeric-id": 126896
+            }
+          },
+          "hash": "5ae8f18b1615dc25c7bd5202341656df52374b20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121203$62F726AC-38B5-4061-94CB-4D3CF93E7A80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Boulogne-97"
+          },
+          "hash": "ebaf6acb581f1cb70dc9c6c2e41d93192b719b36",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121203$A24E72A7-B3F3-4A70-AF6B-9B2E29250AC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121203$D7806127-4E46-4451-8126-C32C13FF07E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121203$D5E2F59F-618C-4EE6-AA01-A63D67A4EEE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ida_Van_Boulogne_(1)"
+          },
+          "hash": "562864c0d36d689f187158adb255bce601f3a6bf",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121203$312740A1-119E-4693-A18A-8F34F7F6BE6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126890",
+              "numeric-id": 126890
+            }
+          },
+          "hash": "1097fed290a6e354435084b395c05598e3106def",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121203$B669B187-92C8-45EA-809A-9B0C8148A0CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126892",
+              "numeric-id": 126892
+            }
+          },
+          "hash": "5a5b1adedea30e9b5a51b3be3fbb77c050bfed1d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121203$467970B5-E8CE-4CB6-A782-EB97C2680534",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p62944.htm#i629432"
+          },
+          "hash": "afbf9efe6a16fb0f3e77940d3bea4881fb51513b",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121203$552E57CB-4EB8-4942-9670-1B48F4C2DF26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117103",
+              "numeric-id": 117103
+            }
+          },
+          "hash": "ef737bc40c41541f470a0b4fc16e52fb47d09a8f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121203$6A6CAF80-0099-4519-93D9-4625B2DEC515",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121197",
+              "numeric-id": 121197
+            }
+          },
+          "hash": "274cda22a8d304937c7cb0f08a2f84c9a9c0bf29",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121203$1E759F3E-B618-426F-9C3A-FDD43C685684",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121203$D26D2213-3E33-42A4-AB47-489E7E7C394B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121203$654AE51E-86DA-4E4D-AC19-128C23262A95",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1106-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "80ba597f8207d354f8d39417d93864027f07dace",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121203$81F8016C-79B4-4A95-8129-4F3D3F1589CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17351352"
+          },
+          "hash": "fe96f18c2f9ec7e13cb9670279a442fe957db51c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121203$07C989FE-168D-4891-8822-A05A10121BDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ida;n=de boulogne"
+          },
+          "hash": "20cf198f2fd1d720b9c8eabef3705cf8d69a44e9",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121203$C85D2F8A-EE14-472C-8017-2D2100FA96B1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ida of Boulogne Arms.svg"
+          },
+          "hash": "f2f83fcad01eb188acf30a0e5d4cbdc9bdc9aed5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter von Eustace II und Ida von Lothringen"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Tochter von Eustace II und Ida von Lothringen"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Tochter von Eustace II und Ida von Lothringen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=629432"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Eustache II de Boulogne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dochter van Ida van Verdun"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь Евстахия II и Иды Лотарингской"
+    }
+  },
+  "id": "Q121203",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ida"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Ida"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Ida"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ida"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Ida"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ida"
+    },
+    "co": {
+      "language": "co",
+      "value": "Ida"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ida"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ida"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ida"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ida"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Ida"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Ida"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ida of Boulogne"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Ida"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ida"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ida"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ida"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ida"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ida"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ida de Boulogne"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Ida"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ida"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Ida"
+    },
+    "he": {
+      "language": "he",
+      "value": "אידה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ida"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "Ida"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ida"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ida"
+    },
+    "is": {
+      "language": "is",
+      "value": "Ida"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ida"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იდა ბულონიელი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ida Boloniae"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Ida"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ida"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Ida"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ida"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Ida"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ida"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ida"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ida"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ida"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ida"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ида Булонская"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Ida"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Ida"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ida"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ida"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Ida"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ida"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ida"
+    },
+    "ty": {
+      "language": "ty",
+      "value": "Ida"
+    }
+  },
+  "lastrevid": 17534411,
+  "modified": "2025-09-17T06:29:00Z",
+  "ns": 860,
+  "pageid": 146017,
+  "sitelinks": {},
+  "title": "Item:Q121203",
+  "type": "item"
+}

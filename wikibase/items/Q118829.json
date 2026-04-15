@@ -1,0 +1,167 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fernando Ponce"
+      },
+      {
+        "language": "en",
+        "value": "don Fernando Ponce, \"El menor\""
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118829$CCDBC422-0089-41DA-B1B2-5F25D6F52D12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118829$81AD7AE6-F44D-45D2-8B9A-1F105538C50A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118829$A9D52C40-9FC0-48F8-BC22-A97F38F78413",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "\"El menor\""
+          },
+          "hash": "c115e442f926716681cd2cc634d9b4fcc7d28d9a",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118829$7B1CABEA-396A-4D8B-9865-1D20323AB10F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118829$9AEFD1B3-2486-47D8-ABE5-38AE5D9131AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18b26d6269d66f0e1ec5fc613fc17f19e7f5bd05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118829$85E14A21-18E1-4DC4-9430-846FF258DE65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013726831597"
+          },
+          "hash": "b8688750207a9ac3254156922fa85d4fc398a1ef",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118829$3A5A0E51-98E1-42A0-9804-8298BFA2AEA2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "don Fernando Ponce, \"El menor\" Arms.svg"
+          },
+          "hash": "9af0d0fa684a8bc00c9aeabf18fdad7fc745868e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118829",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "don Fernando Ponce, \"El menor\""
+    }
+  },
+  "lastrevid": 17531894,
+  "modified": "2025-09-17T05:54:48Z",
+  "ns": 860,
+  "pageid": 142833,
+  "sitelinks": {},
+  "title": "Item:Q118829",
+  "type": "item"
+}

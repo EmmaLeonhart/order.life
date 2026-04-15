@@ -1,0 +1,329 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diederik II van Katlenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121017$6C54C9B2-E3B5-42CE-ABB1-A8B128D57AF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00080004"
+          },
+          "hash": "b7bda6bcff0b1219c88c1ea25b4e65fb3e4e0a8a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121017$0CE35D06-A8A8-4F58-B4A0-F20BC6DBE14A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121027",
+              "numeric-id": 121027
+            }
+          },
+          "hash": "0084127b34e14aafaf30c02ff8fce589a309dc32",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121017$59F68A77-CA68-40A5-AB39-B99953B818AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121017$199DBB4C-E728-40D8-AA80-A4896F66D0F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121017$1C190C19-1B04-469F-9AE5-D991111AD7B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117025",
+              "numeric-id": 117025
+            }
+          },
+          "hash": "fdd4a654bf2bf13269bbbaf7fa1945c3fdcf5c37",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121017$B63C7B56-0906-43F0-985B-9CE3D5B9E51D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126682",
+              "numeric-id": 126682
+            }
+          },
+          "hash": "7b074978fed5fd447e7dcb6fd975387f38ea2cf8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121017$8AAC106F-8993-47C4-BEA6-9D39CB4B93CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125873",
+              "numeric-id": 125873
+            }
+          },
+          "hash": "f9e2c7d1c7abac901f224d54992ad5f3299d1e2d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121017$9D026A61-E497-4077-9358-B51AF60DD5F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121017$9EBB099A-3F18-4D70-A227-9A77C1B83D75",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121017$8A2B5960-D0E3-4E12-B3B8-87BDBB976F0A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1085-01-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7301bb6b243f6f39bb94f608c168d994e430ff38",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121017$2B16EC46-F192-4AEE-8C32-2EE59FFB89D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q91550"
+          },
+          "hash": "0e2f0446c2b608a4b2253f42d7e858f75d86f30c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121017$970C2978-00D9-460F-B0A9-736FC430A1DC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Diederik II van Katlenburg Arms.svg"
+          },
+          "hash": "c735978feb0ee0bc3ed8b1269ec5281fe0960ccd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q121017$50CF7164-C18C-4C0A-8E8E-021743C3FEDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/0a29c930-ce89-4da3-883c-f1c981d002e9"
+          },
+          "hash": "1c9f35de9f8097bbfa3d13a8278d49cf3d50ebe7",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Katlenburg"
+    }
+  },
+  "id": "Q121017",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Дитрих II от Катленбург"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dietrich de Katlenbourg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dietrich II. von Katlenburg"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ντήτριχ Β΄ του Κάτλενμπουργκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Diederik II van Katlenburg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dietrich de Katlenbourg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodorico II di Katlenburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Diederik II van Katlenburg"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Diederik II van Katlenburg"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дітрих II"
+    }
+  },
+  "lastrevid": 17534225,
+  "modified": "2025-09-17T06:26:09Z",
+  "ns": 860,
+  "pageid": 145767,
+  "sitelinks": {},
+  "title": "Item:Q121017",
+  "type": "item"
+}

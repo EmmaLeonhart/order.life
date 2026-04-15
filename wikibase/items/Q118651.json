@@ -1,0 +1,143 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118651$BDEC77A5-E681-449B-AFF5-574E7B7FE0F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118651$21080F94-6D7D-45C9-B4AA-55B621B327B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118651$16D1BFDA-BEA4-409B-8ADF-A64BD401AABF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118651$E0FB1C73-57A2-485D-9D3C-8CEF5B497872",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0759-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f11a17382cd72be69e37be4934b9c74908f1f906",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118651$6EB8D823-91C0-487D-976D-BCD929097E9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006281330010"
+          },
+          "hash": "c13089fcca158cf6ed9ada1cf3409fa6bb7f0c4e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118651$8860766F-0287-4730-A127-C44CB15BA8DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Suero  Ferrandez Arms.svg"
+          },
+          "hash": "a0b9424d2ac8740cc98355ca021b3f2f3e603c9f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118651",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Suero  Ferrandez"
+    },
+    "es": {
+      "language": "es",
+      "value": "Suero  Ferrández"
+    }
+  },
+  "lastrevid": 17531576,
+  "modified": "2025-09-17T05:50:43Z",
+  "ns": 860,
+  "pageid": 142594,
+  "sitelinks": {},
+  "title": "Item:Q118651",
+  "type": "item"
+}

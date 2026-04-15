@@ -1,0 +1,621 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Stephen, Count of Trégor"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Esteban, conde de Trégor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120239$5BC65D42-3903-415C-A800-4104B78122E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "108148"
+          },
+          "hash": "c413920a50db72da25be37eaf4e0fed514cc585b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q120239$7F291D93-0EA2-40D8-BFB6-56D32527BF82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293976"
+          },
+          "hash": "c1b73d9eb1b52a1d391a17c4d34bb89156b8f2c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q120239$0008F519-E440-4418-9FEF-BEDB135C40AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125759",
+              "numeric-id": 125759
+            }
+          },
+          "hash": "39a4331694b258bd5dbf2f8e13dbcca3d37d31c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120239$9BD0864D-4BEF-40C1-B976-3DC69D888C67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120742",
+              "numeric-id": 120742
+            }
+          },
+          "hash": "1b5b9b22209d3aad6255ac070e407a78fbc905f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120239$DEB1F3F0-6C11-40D6-80E5-DEB1FDEBFDD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120744",
+              "numeric-id": 120744
+            }
+          },
+          "hash": "6ea4c878279e5db1dbef987186502be15fe07c6e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120239$780D5076-1BF3-4EB3-8D14-5957A18C8CB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120746",
+              "numeric-id": 120746
+            }
+          },
+          "hash": "aca762b2d60abe1e137f0c7610f1fdb505356779",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120239$9235BE87-569D-44F6-9F5D-A58541BD5FC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120738",
+              "numeric-id": 120738
+            }
+          },
+          "hash": "9d9c917f19b34654bc09b2908b2f112611d66b34",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120239$FD0FB60B-B8E8-4A4F-8642-5E36ACDC6DD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120736",
+              "numeric-id": 120736
+            }
+          },
+          "hash": "bf3ac3ee6b86e8e4f8c81e3b757962d6eaeedc87",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120239$D087E667-ECFB-4E2D-9836-02F50269D88E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120740",
+              "numeric-id": 120740
+            }
+          },
+          "hash": "bdd1956f372215a0a01e16ad96db78de1645baa3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q120239$C3AD9FD8-2B5D-41BF-83E2-596FE8D446BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bretagne-99"
+          },
+          "hash": "463fa6a197563fd8f00095bc49726c0abf19d2a4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120239$26173547-B89C-4452-A4BC-3B9B7E3C3F13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120239$596B44D9-5009-4933-A0A4-5C3BE56B8351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q120239$A2E4821B-3F3F-402D-AC9D-E79F66CB6DB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Etienne_de_Bretagne_(1)|Etienne_Unknown_(6)"
+          },
+          "hash": "88531c3121fdb8f1cb5c054a3b5beab0ded17229",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q120239$1ED402F1-E5CF-40CF-A1EF-4A3DEBDCBF25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116813",
+              "numeric-id": 116813
+            }
+          },
+          "hash": "10997d08386359e006039d3cb76b5cf95e9501e0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q120239$5A8EAABB-EF27-4E9F-AE46-FF797FC7AFDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4047.htm#i40466"
+          },
+          "hash": "4ae759ce7e2859f9cc28fb722fb7ac2b0d26be1d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120239$9527BFE7-D982-4E2B-A839-CA1E09E2B746",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116441",
+              "numeric-id": 116441
+            }
+          },
+          "hash": "5c7b5c36729f0e142f721f56210d7f0827b39295",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120239$54F78B76-D815-41A1-8752-8DA6F0401B7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120235",
+              "numeric-id": 120235
+            }
+          },
+          "hash": "967a45a4f642bda07a21b4ea9f17b366af2e410f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120239$1A3EFB1D-0077-4B9B-9668-C2A2E9B69EEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120239$EE15609A-938A-4D78-9E3D-2B6D6AD072D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75d0b4773aface83de4236d8e314d20d6b4aaa04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120239$4B27A8A8-9464-4051-8458-ADAD22C1908C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1136-04-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1ed6377118e894e80bc5a15737d286eb4bd7ea6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120239$05E56DFF-B500-443E-A8A6-B7251D6CABDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2670176"
+          },
+          "hash": "93fbec474e061fc1ea9b684aa8f86c85965d6d7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120239$ECE54A58-6AAA-4184-9AA2-75B90AE2D4AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=etienne;n=de penthievre;oc=1"
+          },
+          "hash": "c740b74d4582461937d58c488cab04d7dbcd113b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120239$DF7800D6-7068-4CC0-89D5-8E9B87F320A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Stephen, Count of Trégor Arms.svg"
+          },
+          "hash": "27a5354240b250171e1584a470e1d49d9b51143f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata francés (1060–1136)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata francès"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Penthièrve, Lord of Richmond"
+    },
+    "en": {
+      "language": "en",
+      "value": "Breton noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble bretón"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata frantziarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Penthièvre et de Trégor, comte de Richemont (1093-1136/1137)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata francés"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans aristocraat (1060-1136)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata francês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф де Пентьевр, Трегье и Генгана, сеньор де Гоэлё"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız soylu (1060-1136)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q120239",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ستيفن كونت تريجيه"
+    },
+    "br": {
+      "language": "br",
+      "value": "Steven Treger"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Esteve I de Penthièvre"
+    },
+    "da": {
+      "language": "da",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Étienne I. de Penthièvre"
+    },
+    "el": {
+      "language": "el",
+      "value": "Στέφανος, κόμης του Τρεγκιέ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Stephen, Count of Trégor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Esteban de Penthièvre"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "it": {
+      "language": "it",
+      "value": "Stefano I di Penthièvre"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スティーブン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Stefanus I van Penthièvre"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Этьен I де Пентьевр"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Stephen, Count of Tregor"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Étienne Ier de Penthièvre"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Étienne de Penthièvre"
+    }
+  },
+  "lastrevid": 17533439,
+  "modified": "2025-09-17T06:15:24Z",
+  "ns": 860,
+  "pageid": 144722,
+  "sitelinks": {},
+  "title": "Item:Q120239",
+  "type": "item"
+}

@@ -1,0 +1,290 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William, Margrave of the Nordmark"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121051$CB69B28B-5663-4BFB-857B-7330AADE53CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "897519"
+          },
+          "hash": "82bec9f15584d7954c14d913996ef5a854d3fcc6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121051$317465A7-3B69-48FA-B4DD-3061469C1F75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121051$84D77AF5-99E9-496D-BAEC-680351510276",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121051$97423470-7A35-494E-B289-B3F2DDE9E9C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121047",
+              "numeric-id": 121047
+            }
+          },
+          "hash": "36eb9b4a04c856d69938ea2f2fc739ad71fb880d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121051$75B84272-F194-4A10-ABE3-6F9D4C9CF173",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121051$27E2070B-B595-4E07-8301-702B5B0694AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121051$C9C3FA05-9A03-4C17-99A4-246F3981B215",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1056-09-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "07f0ab05ace3b3483854db28a3f47f92e6daac07",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121051$5455CB60-4155-4BD6-8921-85155D68FD3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q559384"
+          },
+          "hash": "f2fe106397a751cfa8ce46e89c8040992a012a95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121051$CAAAD90F-4AB0-40CD-BCAC-EE7C07C79E92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.243"
+          },
+          "hash": "7669d93536a881e35d1f490e3daf2546d252dfb9",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121051$482AC6E5-B497-4FD5-A188-BE88D479C6F5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William, Margrave of the Nordmark Arms.svg"
+          },
+          "hash": "c0b39d3a1db2f284a4beffeda71ba0cc086d7465",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Haldensleben, Markgraf der Nordmark"
+    },
+    "en": {
+      "language": "en",
+      "value": "German Margrave"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Гальденслебена, маркграф Северной марки"
+    }
+  },
+  "id": "Q121051",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "وليام مارجريف نوردمارك"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Вилхелм"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wilhelm"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γουλιέλμος του Νόρντμαρκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "William, Margrave of the Nordmark"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillermo de la Marca del Norte"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Willem fan Brandenboarch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Willem van Brandenburg"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wilhelm"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Guilherme da Marca do Norte"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Guilherme da Marca do Norte"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вильгельм"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "William, Margrave of the Nordmark"
+    }
+  },
+  "lastrevid": 17534259,
+  "modified": "2025-09-17T06:26:38Z",
+  "ns": 860,
+  "pageid": 145813,
+  "sitelinks": {},
+  "title": "Item:Q121051",
+  "type": "item"
+}
