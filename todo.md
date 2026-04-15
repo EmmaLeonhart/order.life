@@ -2,35 +2,45 @@
 
 ---
 
-## 📥 Wikibase dump: BLOCKED — actions not working, pivot to manual
+## 📥 Wikibase dump: in progress (allpages backfill)
 
-**Status update:** The `wikibase-dump` GitHub Action (`.github/workflows/wikibase-dump.yml`
-+ `wiki-scripts/wikibase_dump.py`) is not working in practice. Both
-`wiki.order.life/wiki/Special:EntityData/Q1.json` and the `wbgetentities`
-API fallback return 503 from GitHub Actions and from sandbox probes.
-Unclear whether this is a Miraheze-side issue, a URL-shape mismatch with
-the actual Wikibase install, or a transient outage.
+**Status (2026-04-15):** Pivoted off blind range-walking. The endpoint
+*does* work from a local laptop — the 503s were an Actions-environment /
+Miraheze interaction that we stopped fighting.
 
-**Pivot:** Emma will collect the genealogy manually / via other means from
-home. The automated action stays in place as a scaffolding for when it can
-be fixed, but we are NOT blocking on it.
+`wiki-scripts/wikibase_fill_missing.py` enumerates every entity via the
+MediaWiki `allpages` API (items = ns 860, properties = ns 862), writes
+the ID list to `wikibase/{items,properties}_index.txt`, and fetches only
+the entries missing on disk. Skips the sparse high-end gaps entirely.
 
-### Everything still standing
-- `wiki-scripts/wikibase_dump.py` — stdlib dumper, ready to run once the
-  endpoint works.
-- `.github/workflows/wikibase-dump.yml` — workflow_dispatch with range
-  inputs, auto-PR per run.
-- Output layout: `wikibase/items/Q*.json`, `wikibase/properties/P*.json`.
+Snapshot:
+- Items: 164,544 on wiki, ~104K on disk → ~60K to fetch (running locally
+  with `--commit-every 5000`, ~7 hour ETA)
+- Properties: ~460 max P-number, only 42 on disk → backfilling with
+  `--type properties --commit-every 50` (short job)
 
-### When it comes back up
-Trigger the workflow from the Actions tab. Defaults Q1..Q100, P1..P100.
-PR is created automatically on success.
-
-### Open after first run (or after manual collection)
+### After import is done
+Genealogical analysis to assemble lineages for the chapter-130–220 gap.
+Build the graph from the dumped items and walk P-statements.
+- Empirical centrality: do Charlemagne / Bustanai actually pass the
+  gateway-ancestor centrality test, or are other nodes doing the work?
+- Weakly-connected components: how scattered is Asia, really?
+- QA pass: cycles, impossible dates, excessive fan-out (conflation).
 - Schema parity with pre-human `Gaiad/genealogy/*.json`.
-- Network analysis on the graph: empirical gateway ancestors vs. the
-  hypothesized Charlemagne / Bustanai, weakly-connected components
-  (how scattered Asia actually is), QA for merging errors.
+
+### Future direction (deferred — NOT now)
+
+**Wiki ↔ repo syncing.** Keep the local dump alive on a daily basis,
+driven by **recent-changes on the wiki**, not by re-running a forced
+full enumeration. The existing wiki-related workflows (`wiki-bot.yml`
+etc.) operate on different content; nothing currently incrementally
+syncs the Wikibase entity dump. Build that later — only after the first
+full backfill + analysis pass is done.
+
+Tighter integration between the Wikibase contents and our planning /
+Gaiad docs is also future work. The wiki has contradictions and
+inconsistent coverage that make naive integration unsafe; a "thinks
+with the wiki" tool needs the messy parts cleaned up first.
 
 ---
 

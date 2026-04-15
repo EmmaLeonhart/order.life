@@ -27,16 +27,23 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from wikibase_dump import (  # noqa: E402
-    WIKI_BASE, USER_AGENT, ITEMS_DIR, fetch_entity, write_entity,
+    WIKI_BASE, USER_AGENT, ITEMS_DIR, PROPERTIES_DIR,
+    fetch_entity, write_entity,
 )
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-INDEX_FILE = REPO_ROOT / "wikibase" / "items_index.txt"
+
+ENTITY_CONFIG = {
+    "items":      {"prefix": "Q", "ns": 860, "dir": ITEMS_DIR,
+                   "index": REPO_ROOT / "wikibase" / "items_index.txt"},
+    "properties": {"prefix": "P", "ns": 862, "dir": PROPERTIES_DIR,
+                   "index": REPO_ROOT / "wikibase" / "properties_index.txt"},
+}
 
 
-def enumerate_items(namespace: int = 860, limit: int = 500,
-                    verbose: bool = False) -> list[str]:
-    """Walk the allpages API for the given namespace, return sorted QID list."""
+def enumerate_entities(namespace: int = 860, limit: int = 500,
+                       verbose: bool = False) -> list[str]:
+    """Walk the allpages API for the given namespace, return sorted entity-ID list."""
     qids: list[str] = []
     apcontinue: str | None = None
     page = 0
@@ -61,7 +68,7 @@ def enumerate_items(namespace: int = 860, limit: int = 500,
                 _, _, qid = title.partition(":")
             else:
                 qid = title
-            if qid.startswith("Q"):
+            if qid and qid[0] in ("Q", "P", "L"):
                 qids.append(qid)
 
         page += 1
@@ -81,32 +88,39 @@ def enumerate_items(namespace: int = 860, limit: int = 500,
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--type", choices=["items", "properties"], default="items",
+                    help="Which entity type to fill.")
     ap.add_argument("--throttle", type=float, default=0.4,
                     help="Seconds between entity fetches.")
     ap.add_argument("--limit", type=int, default=0,
-                    help="Max missing items to fetch this run (0 = no limit).")
+                    help="Max missing entities to fetch this run (0 = no limit).")
     ap.add_argument("--enumerate-only", action="store_true",
                     help="Build the index but don't fetch anything.")
     ap.add_argument("--refresh-index", action="store_true",
-                    help="Re-enumerate even if items_index.txt exists.")
+                    help="Re-enumerate even if the index file exists.")
     ap.add_argument("--commit-every", type=int, default=0,
                     help="Git commit+push after every N successful writes. 0 = off.")
     args = ap.parse_args()
 
-    if INDEX_FILE.exists() and not args.refresh_index:
-        print(f"Using cached index: {INDEX_FILE}", flush=True)
-        qids = [line.strip() for line in INDEX_FILE.read_text(encoding="utf-8").splitlines() if line.strip()]
+    cfg = ENTITY_CONFIG[args.type]
+    prefix = cfg["prefix"]
+    out_dir = cfg["dir"]
+    index_file = cfg["index"]
+
+    if index_file.exists() and not args.refresh_index:
+        print(f"Using cached index: {index_file}", flush=True)
+        qids = [line.strip() for line in index_file.read_text(encoding="utf-8").splitlines() if line.strip()]
     else:
-        print("Enumerating items via allpages API...", flush=True)
-        qids = enumerate_items(verbose=True)
-        INDEX_FILE.parent.mkdir(parents=True, exist_ok=True)
-        INDEX_FILE.write_text("\n".join(qids) + "\n", encoding="utf-8")
-        print(f"Wrote {len(qids)} QIDs to {INDEX_FILE}", flush=True)
+        print(f"Enumerating {args.type} via allpages API (ns={cfg['ns']})...", flush=True)
+        qids = enumerate_entities(namespace=cfg["ns"], verbose=True)
+        index_file.parent.mkdir(parents=True, exist_ok=True)
+        index_file.write_text("\n".join(qids) + "\n", encoding="utf-8")
+        print(f"Wrote {len(qids)} IDs to {index_file}", flush=True)
 
     if args.enumerate_only:
         return
 
-    have = {p.stem for p in ITEMS_DIR.glob("Q*.json")}
+    have = {p.stem for p in out_dir.glob(f"{prefix}*.json")}
     missing = [q for q in qids if q not in have]
     print(f"On disk: {len(have)}  Total on wiki: {len(qids)}  Missing: {len(missing)}", flush=True)
     if not missing:
@@ -120,7 +134,8 @@ def main():
     since_commit = 0
     def do_commit(label: str):
         try:
-            subprocess.run(["git", "add", "wikibase/items", "wikibase/items_index.txt"],
+            subprocess.run(["git", "add", str(out_dir.relative_to(REPO_ROOT)),
+                            str(index_file.relative_to(REPO_ROOT))],
                            cwd=REPO_ROOT, check=True)
             diff = subprocess.run(["git", "diff", "--cached", "--quiet"],
                                   cwd=REPO_ROOT)
@@ -147,7 +162,7 @@ def main():
         if data is None:
             stats["missing"] += 1
             continue
-        status = write_entity(data, qid, ITEMS_DIR, overwrite=False)
+        status = write_entity(data, qid, out_dir, overwrite=False)
         stats[status] = stats.get(status, 0) + 1
         if i % 100 == 0 or status != "unchanged":
             print(f"  [{i}/{len(missing)}] {status}: {qid}", flush=True)
