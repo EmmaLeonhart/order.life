@@ -1,0 +1,235 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aurelio Froilaz"
+      },
+      {
+        "language": "en",
+        "value": "Aurelio l, rey de Asturias"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q99789$808B684A-BA4F-4AB8-987A-F622CD5E3EAA",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Aurelio"
+            }
+          },
+          "hash": "6433ffb52eb43802f4f7ac5095e04df3bb284a30",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99789$C8C104A9-691A-4E13-93EC-6245A4E5E977",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99789$6939F56D-3E55-44FB-9A84-3CAD0AA9DD0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q99789$1FE104CA-5360-4C55-9E39-42D941B58A28",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Froilaz"
+            }
+          },
+          "hash": "008b5c6499998cf33fb942e95299200b16328cef",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99789$DE8ABFA4-A8F8-41E6-99FE-FA2E78586942",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99785",
+              "numeric-id": 99785
+            }
+          },
+          "hash": "45296e4c496ac755042e7a1b797c94140f0a9f27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q99789$DBACF180-7C16-4BBB-A138-E78E1CA08845",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99787",
+              "numeric-id": 99787
+            }
+          },
+          "hash": "a349a180a12a1c5f78672116942ae0e0e62d7158",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99789$AE25BE10-87B7-4C4E-AA65-821B03B363AC",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Aurelio /Froilaz/"
+            }
+          },
+          "hash": "49ce02fe62f9286463cb23e15b9ac28e1547bc64",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99789$CD8CF487-1815-49ED-A298-149B91E0125F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99789$50EDE4A0-C0F0-4E74-B530-72FE9741D9A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000173294792190"
+          },
+          "hash": "ff443ff920849231013ded6669d3bed7543a65f7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99789$9D91D442-CFB7-4BF2-B6B7-8C4C347EE16F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aurelio  Froilaz Arms.svg"
+          },
+          "hash": "a2737e3e6b5839f487fec3654a75d34f43dcd70f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q99789",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aurelio  Froilaz"
+    }
+  },
+  "lastrevid": 17514377,
+  "modified": "2025-09-17T01:23:45Z",
+  "ns": 860,
+  "pageid": 117259,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99789",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99789"
+    }
+  },
+  "title": "Item:Q99789",
+  "type": "item"
+}

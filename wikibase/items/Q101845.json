@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Melech Shem Tov Stern"
+      },
+      {
+        "language": "en",
+        "value": "מלך שם טוב שטרן"
+      },
+      {
+        "language": "en",
+        "value": "מלך שם טוב  שטרן"
+      },
+      {
+        "language": "en",
+        "value": "מלך שם טוב  שטרן הכהן"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q90165$FEF40E91-78FC-4681-A9F9-0D7CFC70347D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31524",
+              "numeric-id": 31524
+            }
+          },
+          "hash": "8f2999101de576c9eeb0f4f3bb5e8bca71e193ca",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q90165$2240F0E9-B4DB-4E03-AA77-783393C0A51A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q90165$14BF543D-A703-44DC-81DB-E0F450D57F52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q90165$4DCCB82A-3D8F-4430-BCA3-8AF0260C1A9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89917",
+              "numeric-id": 89917
+            }
+          },
+          "hash": "dd4c9d6edb7d679f40c466262d5892eb32d4ebe2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q90165$EFA51C74-76AE-4B28-AF05-6313772F7425",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "מלך שם טוב /שטרן/"
+            }
+          },
+          "hash": "06bf0535d01401b4042f17bf61f093bfce6eaf23",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q90165$65DB78B3-CCF9-44C1-8824-F738226242A2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "הכהן"
+          },
+          "hash": "3b2141751def5365f9b40f914e4e3f0d04549017",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q90165$E5B2A4DE-9E7D-4E32-BE14-FE69EF3CF955",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q90165$0825E57B-EF2D-4021-955B-846F0D98AADC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q90165$C4FC1879-3E0C-4A7F-A592-C618E35729D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q90165$1495CCD5-54B7-4E21-A180-91A2AD3E399B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000348802949"
+          },
+          "hash": "38ff147d0fe0e78754327ff99745c478364c8ed4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q90165",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Malech Shem Tov Stern"
+    }
+  },
+  "lastrevid": 17504973,
+  "modified": "2025-09-16T23:10:44Z",
+  "ns": 860,
+  "pageid": 104996,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q90165",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q90165"
+    }
+  },
+  "title": "Item:Q90165",
+  "type": "item"
+}

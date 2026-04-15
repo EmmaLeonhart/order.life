@@ -1,0 +1,176 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yihya bin  ."
+      },
+      {
+        "language": "en",
+        "value": "Yihya son of  ."
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q97819$EF42F438-CAA8-4E51-A522-06D371D1E999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98428",
+              "numeric-id": 98428
+            }
+          },
+          "hash": "2963bcebbcb619059c4deff831fc10ee25fbeb5b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q97819$A7F59F0E-099D-4351-B370-9425609FF1B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97819$CBBDBC44-E61B-4A2F-9276-C71F8C6F2636",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q97819$17CDA8E1-F91D-4FD5-AB2D-7292AC615385",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97129",
+              "numeric-id": 97129
+            }
+          },
+          "hash": "f5a713785c39f97625734cd43c9b56f07dffbeef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97819$3841DB0B-0E99-4837-BDFE-8A0804B1A702",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q97819$33737779-FDD7-4C8A-A911-E49C13E3E516",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97819$B1ECA560-D2A6-4C81-8689-DA6C08DD3DAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4413243520300037996"
+          },
+          "hash": "a9eab06cf54c5d3cb1cd68afa0395a04f68d24e1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97819",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yihya son of "
+    }
+  },
+  "lastrevid": 17512587,
+  "modified": "2025-09-17T00:58:51Z",
+  "ns": 860,
+  "pageid": 114614,
+  "sitelinks": {},
+  "title": "Item:Q97819",
+  "type": "item"
+}

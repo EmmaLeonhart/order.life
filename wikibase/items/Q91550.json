@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Catalina ha-Nasi"
+      },
+      {
+        "language": "en",
+        "value": "Catalina de Luna Ha Nasi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91550$5FFCD1CA-F5E8-4CAF-96CF-B2E620353554",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89715",
+              "numeric-id": 89715
+            }
+          },
+          "hash": "d7ea7f04d16188560f6d75ae6e214ecbd3c08713",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91550$F5CBEF5A-4F26-4208-9941-F814F3F3326C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89717",
+              "numeric-id": 89717
+            }
+          },
+          "hash": "149a1b89606902b03d8e8ab8dba63dbe7a6c5dd8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91550$F23FA7A4-E62D-47E3-AB89-CF370C88678E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91550$A6C2AE98-71B6-48DF-9777-E1271C5A3048",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91550$F2305DC2-63C7-4123-BCF1-6FF5D42C579D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89491",
+              "numeric-id": 89491
+            }
+          },
+          "hash": "e6783f873351c41cb53b673db90fa0104e847ee9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91550$6422C305-0722-4239-A38B-B606FFC76E85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89493",
+              "numeric-id": 89493
+            }
+          },
+          "hash": "36147b708f8fe051da73ff2b0c2d49da2061d0fb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91550$FA2AEA99-587C-479C-A3EF-422F0CC009DF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Catalina /de Luna Ha Nasi/"
+            }
+          },
+          "hash": "7b465d989edf27081d2f0d40737c688dfc6d65a8",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91550$27F4599B-4B55-439C-B0DA-63D71CA0E0B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91550$22C74551-9B8B-407D-AC16-583D923F573C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91550$E690E656-5336-490F-9F1E-726E1006BFE4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007151138986"
+          },
+          "hash": "4ad6c1b480ae1d6b006486918997238520806813",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91550",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Catalina  de Luna Ha Nasi"
+    }
+  },
+  "lastrevid": 17506353,
+  "modified": "2025-09-16T23:29:38Z",
+  "ns": 860,
+  "pageid": 106765,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q91550",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91550"
+    }
+  },
+  "title": "Item:Q91550",
+  "type": "item"
+}

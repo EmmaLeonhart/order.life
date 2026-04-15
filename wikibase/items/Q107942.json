@@ -1,0 +1,206 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ramla bint Ali"
+      },
+      {
+        "language": "en",
+        "value": "Ramla daughter of Ali"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q107942$780A11C5-2886-4974-A8DB-DE68328A112B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q107942$A74D9B6B-53B2-4ABB-82B8-0EB6466B906A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q107942$AA8E4EB3-A9AF-45F6-B3A8-E9E7CF06ADCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108064",
+              "numeric-id": 108064
+            }
+          },
+          "hash": "4c4d9d3600203ae24b2f003ab2576dcb9ad4bee9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q107942$5FF6F170-A943-4C33-93E3-F1FEE375D47E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107566",
+              "numeric-id": 107566
+            }
+          },
+          "hash": "cdd46f52351594b042586bdc6d90ba45c54d5074",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q107942$3889EC9B-2B6F-4065-8324-FD26C01C3FB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107914",
+              "numeric-id": 107914
+            }
+          },
+          "hash": "7cf590c47aaf06b1086d4a746dd74665cddef524",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q107942$BA9059D8-03A8-422C-A67D-DFF20231FF72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q107942$C004848E-C9B9-4076-BEA7-F822D1437C51",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q93278653"
+          },
+          "hash": "2094660752ae6fa64d3e5106b460b3f26949003a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q107942$1F382F66-29F8-4368-84E9-CEBB28A63A95",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ramla bint Ali Arms.svg"
+          },
+          "hash": "f20d30be4ce3550d45b74a131251e7edd5169909",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابنة علي بن أبي طالب"
+    }
+  },
+  "id": "Q107942",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "رملة بنت علي"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ramla bint Ali"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "رملہ بنت علی"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رملہ بنت علی"
+    }
+  },
+  "lastrevid": 17519853,
+  "modified": "2025-09-17T02:57:42Z",
+  "ns": 860,
+  "pageid": 128225,
+  "sitelinks": {},
+  "title": "Item:Q107942",
+  "type": "item"
+}

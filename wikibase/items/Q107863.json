@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "'Abd al-Malik Salih bin Alī"
+      },
+      {
+        "language": "en",
+        "value": "'Abd al-Malik ibn Salih ibn Ali Abimelech"
+      },
+      {
+        "language": "en",
+        "value": "'Abd al-Malik bin Salih bin Alī"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q96202$CB6D7992-48F8-4F7C-8494-8322DD92B17D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96872",
+              "numeric-id": 96872
+            }
+          },
+          "hash": "a969cf43af209e3dc85336c226a12632b4a0db35",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q96202$B4FF11E4-7466-4453-A8EE-53CC151C17FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96202$FD895928-8E22-459D-9C36-D31D45E1F660",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q96202$FA3D0866-394D-4262-996E-6BF3685F17D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95660",
+              "numeric-id": 95660
+            }
+          },
+          "hash": "d81c4e7d191d05ea8c98700c44aa552ef7463c91",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q96202$2B4F534B-F0A6-4335-971E-FC5E8E335613",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q96202$914C5BB4-22BD-4A87-84C4-08451DE8F989",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q96202$8361BBB3-C294-4C79-A1BD-62FC589D44FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q96202$FCB34889-1DCF-40E1-9F18-8ABBD4A86FBC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000025181357804"
+          },
+          "hash": "8b0ff00c46fd88a3062e2de0630b563972b94510",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q96202",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "'Abd al-Malik bin Salih bin Ali"
+    },
+    "es": {
+      "language": "es",
+      "value": "'Abd al-Malik bin Salih bin Alī"
+    }
+  },
+  "lastrevid": 17510985,
+  "modified": "2025-09-17T00:35:31Z",
+  "ns": 860,
+  "pageid": 112451,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q96202",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q96202"
+    }
+  },
+  "title": "Item:Q96202",
+  "type": "item"
+}

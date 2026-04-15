@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zayd al-Nar Al-Husayni"
+      },
+      {
+        "language": "en",
+        "value": "Zayd al-Nar"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q95424$FE9AA8B7-8CD6-48DA-AB21-8353F3778089",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95930",
+              "numeric-id": 95930
+            }
+          },
+          "hash": "76b021b40f4ca2c32de8900ebee1e7562abef598",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95424$34A86568-3B67-4E44-836F-DE6C72BA0F1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95932",
+              "numeric-id": 95932
+            }
+          },
+          "hash": "7699d99ad5e6f89962d78de284c4f95b3896ddfd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95424$5ED34616-A7EC-47BC-A2B8-C9C5211BA929",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95934",
+              "numeric-id": 95934
+            }
+          },
+          "hash": "ef1315aa7e61bf69f052f20d29cf6bb04c0ae66c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95424$A66AF6F3-FCE7-4846-9E57-253CC17386D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95936",
+              "numeric-id": 95936
+            }
+          },
+          "hash": "5061bc9b152aa2705c63b0573531916889e315d7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q95424$4FAFE6FB-BBFB-4220-951A-F08DE521F90C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95424$4659EBE1-D736-49B9-977C-065A3F07FFC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q95424$7B8EDF11-CB17-4950-8CAA-00A4DCDDB3DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94978",
+              "numeric-id": 94978
+            }
+          },
+          "hash": "c6c8c48ee0281a8b18cba9d7531482f41015b3ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q95424$695A39CA-D3FF-4F4C-8A23-B514470DC9E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q95424$3A36D45A-FFD1-46A8-950C-EA0BFBD90B12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q95424$08ED0EDF-0CF7-46CC-8035-B744173893F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000078478943844"
+          },
+          "hash": "829e5e36ec31ad712248a7b404d60b10bd39d815",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q95424",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Zayd al-Nar"
+    }
+  },
+  "lastrevid": 17510213,
+  "modified": "2025-09-17T00:24:47Z",
+  "ns": 860,
+  "pageid": 111407,
+  "sitelinks": {},
+  "title": "Item:Q95424",
+  "type": "item"
+}

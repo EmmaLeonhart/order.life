@@ -1,0 +1,176 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muhammad Al-Abbasi"
+      },
+      {
+        "language": "en",
+        "value": "Prince Muhammad"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q97560$2C1C6184-48A5-4136-80E1-D0D41D9C812C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97560$7BDA572E-C15E-4078-8D5F-5BCDDD1E2C2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q97560$06C26B52-1FE5-4CE0-ACA5-FE2F92146DB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96886",
+              "numeric-id": 96886
+            }
+          },
+          "hash": "ff5b05ca7d4b963e89979e1d80d9fe1f36ceee26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q97560$7AD60EF7-64F9-423C-AA06-0B78D3348A70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97558",
+              "numeric-id": 97558
+            }
+          },
+          "hash": "ddd124137771370bea76860ce2af076203aed470",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97560$21ECB291-AD9C-4527-8EE0-FD94DF617226",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q97560$27D09787-48AA-46D5-8B25-D5B550174B1F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97560$F34E70FB-032B-4F34-9475-3CEB8A4CA62A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000025182396225"
+          },
+          "hash": "318003355b79fc057a40f910b229b0ac530e1194",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97560",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Prince Muhammad"
+    }
+  },
+  "lastrevid": 17512331,
+  "modified": "2025-09-17T00:55:00Z",
+  "ns": 860,
+  "pageid": 114266,
+  "sitelinks": {},
+  "title": "Item:Q97560",
+  "type": "item"
+}

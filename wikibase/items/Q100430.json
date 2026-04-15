@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Moshe Benvenist  bar Yosef"
+      },
+      {
+        "language": "en",
+        "value": "Moshe Benvenist  son of Yosef"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q88747$D40EE486-4508-4473-89F2-ECB41E00027D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88839",
+              "numeric-id": 88839
+            }
+          },
+          "hash": "de3dce006fda78506cccfeb599e172b62dd1b44c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q88747$FF9B8F9F-72CF-436F-9970-774E2E180314",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q88747$E9F10598-3198-4D7E-8C76-C04D1F626503",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q88747$2796160C-F5EA-4F75-97CD-BC3560D904F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91242",
+              "numeric-id": 91242
+            }
+          },
+          "hash": "7b6e3013f140c69fec4c19da5f5ce54a97b123b7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q88747$BDA91608-2527-4BC2-A61B-1A38D1CB7981",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88664",
+              "numeric-id": 88664
+            }
+          },
+          "hash": "f6d971972c07de9b7e561d7972ee909963c1a895",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q88747$B18B84A7-999C-4797-9352-973221956A2B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Moshe Benvenist /bar Yosef/"
+            }
+          },
+          "hash": "7d618b19363525390f0c80693e9ddd4d31bdd1b4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q88747$077EDA31-C2B9-4C13-B518-F497EAC3C72C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q88747$C9C259D4-1234-47F6-B14D-9A0B0B49F213",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q88747$2AFC624E-0B41-4690-8616-4D5C6FAC5C84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000015844511879"
+          },
+          "hash": "3163719b75fcdac6357ed1c74bad5db0f181ce44",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q88747",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Moshe Benvenist  son of Yosef"
+    }
+  },
+  "lastrevid": 17503555,
+  "modified": "2025-09-16T22:49:46Z",
+  "ns": 860,
+  "pageid": 103578,
+  "sitelinks": {},
+  "title": "Item:Q88747",
+  "type": "item"
+}

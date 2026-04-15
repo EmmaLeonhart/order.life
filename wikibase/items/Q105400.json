@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berechiah ."
+      },
+      {
+        "language": "en",
+        "value": "Berakhiya ben Hananya 6th Exilarch"
+      },
+      {
+        "language": "en",
+        "value": "ברכיה ."
+      },
+      {
+        "language": "en",
+        "value": "Berechia"
+      },
+      {
+        "language": "en",
+        "value": "Berakhiya"
+      },
+      {
+        "language": "en",
+        "value": "Berechiasz"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q93734$DEE56B8F-AD27-499D-9C8D-577D20B87462",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93734$2E921986-E789-4247-A95D-AE585A1707E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q93734$5CDB7F8B-4023-40F7-88B4-CE7DD61831F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135796",
+              "numeric-id": 135796
+            }
+          },
+          "hash": "352b5b204f5a3e71de46f2c86f1bd95bd6fad0e4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q93734$157F3B62-3CEA-4C8D-AAED-EEFEB98E2054",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86754",
+              "numeric-id": 86754
+            }
+          },
+          "hash": "76377f695d7d0b419c9505a72b423060f929972f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q93734$E193374F-D588-4FCB-A718-CB8A42D273F4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "6th Exilarch"
+          },
+          "hash": "93627d23bd5f06c547cd36ab432be35d7f335837",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93734$ECA2C43B-A703-459F-8788-E1B749C1C1D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93734$C435883B-7186-424D-A76B-2758B04D81EF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93734$71B9B84B-DE95-4F3D-8FE2-141CB284AA30",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5715652054430137310"
+          },
+          "hash": "cd3e46ec6bd7d0aabdcb0328394457090e329b35",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93734",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Berechiasz"
+    }
+  },
+  "lastrevid": 17508527,
+  "modified": "2025-09-16T23:59:19Z",
+  "ns": 860,
+  "pageid": 109170,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93734",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93734"
+    }
+  },
+  "title": "Item:Q93734",
+  "type": "item"
+}

@@ -1,0 +1,215 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Salomon  bar Yosef Benvenist"
+      },
+      {
+        "language": "en",
+        "value": "Salomon  son of Yosef Benvenist"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89087$9F12267F-3003-4BF2-B168-F4CFABB7F6E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89235",
+              "numeric-id": 89235
+            }
+          },
+          "hash": "ac684799625433707f1e331c6f2b9ff6119f2629",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89087$AF80783C-3DB3-4310-B17D-E89F63355AA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89237",
+              "numeric-id": 89237
+            }
+          },
+          "hash": "487659995b62bda0a57d7097b8f2ca8546b11e1a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89087$5839254D-60FA-4623-9B95-97F8D3324FEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89087$55EE1950-FA4E-464D-BA20-84BE2103ED60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89087$88E722EE-FE40-4839-88DF-EC78CEA75A5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88976",
+              "numeric-id": 88976
+            }
+          },
+          "hash": "a8a0d1048c2b3b9badf89648765f8c1b44c49f0e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89087$5F4F04D3-5D8C-4291-85DC-E094C832A2DF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Salomon /bar Yosef Benvenist/"
+            }
+          },
+          "hash": "02db13698d967f4115bf7983f47a3144c391f2d4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89087$C08F080C-BFF9-4ED6-8CC8-50347D5375C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89087$48C20C19-78FF-4005-BB69-3159AB393B6B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89087$38BAA0CB-2952-412E-A7FB-0862B04FF7A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000022514552060"
+          },
+          "hash": "bf8f39aab098bb1e2fd8ef295c1276ac2badc945",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89087",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Salomon  son of Yosef Benvenist"
+    }
+  },
+  "lastrevid": 17503895,
+  "modified": "2025-09-16T22:54:36Z",
+  "ns": 860,
+  "pageid": 103918,
+  "sitelinks": {},
+  "title": "Item:Q89087",
+  "type": "item"
+}

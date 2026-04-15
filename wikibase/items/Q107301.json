@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pèire I Bernat Bernard de Fois"
+      },
+      {
+        "language": "en",
+        "value": "Pierre Bernard de Foix, comte de Couserans"
+      },
+      {
+        "language": "en",
+        "value": "Pedro I de Foix"
+      },
+      {
+        "language": "en",
+        "value": "Pierre Bernard de Foix"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q107301$93A9CD5A-8F12-4740-ABB2-42633F551CF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q107301$5FE0CD5B-F0DB-4F37-AC58-12AA0B7BA63A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q107301$A19CC5C3-BB4F-420D-9A07-C8A9D3506AF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107292",
+              "numeric-id": 107292
+            }
+          },
+          "hash": "e192f002a3b5bede09d087eb71befb5883406450",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q107301$AECB8A54-0FC6-4141-992E-CE08259F6264",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107290",
+              "numeric-id": 107290
+            }
+          },
+          "hash": "57e17f4fb9086c05a12c455dcd56bf9111d243b3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q107301$49F1BCAC-76B3-4E71-AB9D-C8897AD685C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q107301$9B826C0C-3BFF-476A-9FC0-908DC0FFA3A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1071-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a1d41123763250c1f7f9872d394c519f457c93c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q107301$CF71D78A-3F9F-4B09-A95B-F01157636272",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pierre Bernard  de Foix Arms.svg"
+          },
+          "hash": "2d5769c74cca7a2e5edee13ba4dada6cad12480d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q107301",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pierre Bernard  de Foix"
+    }
+  },
+  "lastrevid": 17519307,
+  "modified": "2025-09-17T02:49:39Z",
+  "ns": 860,
+  "pageid": 127362,
+  "sitelinks": {},
+  "title": "Item:Q107301",
+  "type": "item"
+}

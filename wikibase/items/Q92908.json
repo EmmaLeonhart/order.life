@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ana González del Águila"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q92908$89754F23-8338-4591-8E3A-2F15D93EA3A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33552",
+              "numeric-id": 33552
+            }
+          },
+          "hash": "408d7953beae076057e31c853bb2cac547ab2599",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92908$F83ABD7F-5CFA-4B29-8219-C15024B1E707",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33556",
+              "numeric-id": 33556
+            }
+          },
+          "hash": "3b8a8de89e4dbb6c8a7c703ded7cb0d53f8d6b44",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92908$F8FCD468-B9CC-4EF0-9E83-6A40445258F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32146",
+              "numeric-id": 32146
+            }
+          },
+          "hash": "3dc61bc799b8703f27c485e8bbe82fd1ba257772",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q92908$1C20CEEB-A465-4F00-B3B1-43C3C8A792F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92908$22CCC4D3-6218-4048-B40C-C64E8B391D69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q92908$208E3978-56AE-4262-B012-A0117F3E9D2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92386",
+              "numeric-id": 92386
+            }
+          },
+          "hash": "b5d186a13aacf83a496221c43f8df1111adb88bc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q92908$58EC882D-98E6-4779-B233-D00C7312DF1B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ana /González del Águila/"
+            }
+          },
+          "hash": "760d556a9e47dcbcc57ea12167fd1bc314f3c794",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q92908$F9DD1111-D9A2-4F8B-B16A-C534C53440A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q92908$3ED47762-2F28-418A-A26E-D9CEAE0B68B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q92908$90ABD017-4444-4B35-800A-9C5B5075FA1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000076676264411"
+          },
+          "hash": "4f69a46ff15bdae6f98afa0587d8a25a91c95c66",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q92908",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ana  Gonzalez del Aguila"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ana  González del Águila"
+    }
+  },
+  "lastrevid": 17507701,
+  "modified": "2025-09-16T23:47:55Z",
+  "ns": 860,
+  "pageid": 108280,
+  "sitelinks": {},
+  "title": "Item:Q92908",
+  "type": "item"
+}

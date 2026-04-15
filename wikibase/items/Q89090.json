@@ -1,0 +1,781 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iapetos"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q75225$C48047DB-15FB-4963-81A4-C4D27047556F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "288742"
+          },
+          "hash": "9605cc97c80b036dbb133e43d16b07107e1b4ba4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q75225$E3008D4D-76F2-4B7E-8B98-57A0D0E291A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75186",
+              "numeric-id": 75186
+            }
+          },
+          "hash": "7aefc46cd9f02c9cd756e29b8b281158f44d913c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$9051E728-6735-40D1-90DB-08FDD7F938AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75195",
+              "numeric-id": 75195
+            }
+          },
+          "hash": "50f0b3b2b234d7124dde9be12670555b99374849",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$B683771C-46F9-4914-A32D-7730E01A161F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75324",
+              "numeric-id": 75324
+            }
+          },
+          "hash": "27d11079fb026c3d8c969b9ac317db556ea69a79",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$E6D7BE06-5889-4537-A4D5-986881F4C869",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130582",
+              "numeric-id": 130582
+            }
+          },
+          "hash": "23be2c1f824f817df753780ac7ebfedf990d0ca8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$88B3A9DC-CC77-4405-BFEA-6E93CDFDB8CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130584",
+              "numeric-id": 130584
+            }
+          },
+          "hash": "b2e11ce0e4c0b9e76af1cce6cf2b67f116432df0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$FE81378C-9F80-49EB-95CE-48CCD3DF4C53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130588",
+              "numeric-id": 130588
+            }
+          },
+          "hash": "197a089bf404779f7e69c220d8ec9f825a540061",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$4FCBC17D-B3FC-42FE-BAA3-723EDBB82B92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90388",
+              "numeric-id": 90388
+            }
+          },
+          "hash": "9a7b1ad05f5eea766cd764f65d10cd28b283182b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$7F826A49-4259-44E8-825C-58A0AE66D358",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130592",
+              "numeric-id": 130592
+            }
+          },
+          "hash": "abf15ac0b1a6e74ee9c5f1427a602e42b2d27ddf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75225$8AAF3B11-DDD9-4579-BB34-C25C5985827C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$84061771-111D-44FB-891B-6FC7AD5CD32B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q75225$A757AD44-775C-4C65-8DC1-F6C8503A599C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75054",
+              "numeric-id": 75054
+            }
+          },
+          "hash": "40b6e3f9f0e573add94e6fd94b927f461d4553f3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$B21363D4-9BF3-49DC-BB9E-04C962A40D0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90476",
+              "numeric-id": 90476
+            }
+          },
+          "hash": "1a69da4516d60a53c74f41816daeca67e4f121de",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$518EF181-CB36-4312-B781-952796A5D4E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130019",
+              "numeric-id": 130019
+            }
+          },
+          "hash": "d1c16b5a1fdf3525d8c8ea3ee272a945fffc9477",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$A58E939D-9DEA-4206-96AC-58252702A7DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90317",
+              "numeric-id": 90317
+            }
+          },
+          "hash": "06d373be5de44018c6c1b3c14a2b28f1eb55a146",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75225$A922FF4F-7042-45A8-8FB8-F6A0FC4F8BC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131222",
+              "numeric-id": 131222
+            }
+          },
+          "hash": "330929771b46cc743b6e449e7f214995910de6e6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75225$1F20167B-1BEB-4850-85FD-B8EB2B7A3AE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74698",
+              "numeric-id": 74698
+            }
+          },
+          "hash": "97626e289114771848f7eaa20dc643af2cec198b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q75225$9E18A404-673B-43B4-98E1-37EC93ED147B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74701",
+              "numeric-id": 74701
+            }
+          },
+          "hash": "d32cd75bc70b5493bf110e83ce108095a08c2115",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75225$F9F519D4-6BA9-4E78-B37A-370694FF4056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75225$FAD88DBE-CA1C-49F8-996F-DB49F7CB9A9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q179543"
+          },
+          "hash": "839550b5c58a4bc9ac8469e11741ff4a82b83a8d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75225$76CA33F2-9791-4099-BE52-E18E6E8D89EC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iapetos Arms.svg"
+          },
+          "hash": "94098409b9471198a06807997984c80dc5e359e5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Titan in der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Titan in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "titán de la mitología griega"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "titaani kreikkalaisessa mytologiassa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "טיטאן המערב מהמיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, titán"
+    },
+    "id": {
+      "language": "id",
+      "value": "Titan mortalitas, kematian, dan barat"
+    },
+    "it": {
+      "language": "it",
+      "value": "titano della mitologia greca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の神"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнегреческой мифологии один из титанов, сын Урана и Геи, супруг океаниды Климены"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "titanu dâ mituluggìa greca"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "titan v grški mitologiji"
+    }
+  },
+  "id": "Q75225",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Iapetos"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إيابيتوس (ميثولوجيا)"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Xapetu"
+    },
+    "az": {
+      "language": "az",
+      "value": "İapet"
+    },
+    "be": {
+      "language": "be",
+      "value": "Япет"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Япет"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইয়াপেতুস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Iapetos"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Japet"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jàpet"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Iapetos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Iapetos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iapetos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιαπετός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Iapetos"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Japeto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jápeto"
+    },
+    "et": {
+      "language": "et",
+      "value": "Iapetos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Japeto"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یاپتوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Iapetos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Japet"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Iapetos"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xapeto (mitoloxía)"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἰαπετός"
+    },
+    "he": {
+      "language": "he",
+      "value": "יאפטוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Japet"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Iapetosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հապետոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Iapetos"
+    },
+    "io": {
+      "language": "io",
+      "value": "Yapetos"
+    },
+    "is": {
+      "language": "is",
+      "value": "Japetos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giapeto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イーアペトス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이아페토스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Iapetos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Iapetos"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Йафес"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iapetus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Iapetos"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Japetas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Japets"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јапет"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "आयपेटस"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Iapetos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iapetus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Iapetos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Japet"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jápeto"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iapetus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иапет"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Giapetu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Iapetos"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Japet"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Iapetos (Titan)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Japet"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јапет"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јапет"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Japet"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Iapetos"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Iapetus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İapetos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Япет"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Iapetus"
+    },
+    "war": {
+      "language": "war",
+      "value": "Iapetus (mitolohiya)"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "伊阿珀托斯"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "伊阿珀托斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊阿珀托斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "伊阿珀托斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "伊阿珀托斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伊阿珀托斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "伊阿珀托斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "伊阿珀托斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "伊阿珀托斯"
+    }
+  },
+  "lastrevid": 17488386,
+  "modified": "2025-09-16T19:15:39Z",
+  "ns": 860,
+  "pageid": 90056,
+  "sitelinks": {},
+  "title": "Item:Q75225",
+  "type": "item"
+}

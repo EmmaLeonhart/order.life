@@ -1,0 +1,986 @@
+{
+  "aliases": {
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Thaïs"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Rodrigo 'el Cid' Díaz de Vivar"
+      },
+      {
+        "language": "en",
+        "value": "El Cid"
+      },
+      {
+        "language": "en",
+        "value": "Rodrigo Diaz de Vivar"
+      },
+      {
+        "language": "en",
+        "value": "Rodrigo  Diaz de Vivar"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q105101$F89392BB-3B73-4649-9504-AB9174024798",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "114602"
+          },
+          "hash": "0b9a0e9b3226a8d90242ca6cc40387f522993375",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q105101$80D43014-28B1-4B14-BDE0-0DA929494935",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00038820"
+          },
+          "hash": "aeda961590f07a01bb22f0a4cef8d7ab4e90951f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q105101$EBD0F542-6081-4B0A-BDE2-D6874B8E7E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105103",
+              "numeric-id": 105103
+            }
+          },
+          "hash": "5d2786df1c0f4149f983818567f7ec0ad17f7aaf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105101$54797625-E87D-4535-87C7-EF65CC67C022",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105105",
+              "numeric-id": 105105
+            }
+          },
+          "hash": "1524773675cc4db303e545d60868535c5a2ef93f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105101$8A3B5B0E-1163-47E7-8771-C951D9D8889A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105107",
+              "numeric-id": 105107
+            }
+          },
+          "hash": "bdd55aa15e0b6404adaaf79a6d541ac9cbc814b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105101$5938AF6C-75DD-42E5-A89D-750A25D1667C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112865",
+              "numeric-id": 112865
+            }
+          },
+          "hash": "c0b65ba53ced816bdbed269228824abac3779379",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105101$DAB9422D-9719-4812-B21A-E380AE9A0B16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114832",
+              "numeric-id": 114832
+            }
+          },
+          "hash": "585da3459c5d2099be69349837713da6ef84c14d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105101$4FDBEE71-A186-4FE0-8DBB-127969238F9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114748",
+              "numeric-id": 114748
+            }
+          },
+          "hash": "1fc9997ed3e53a0b4152b3793a5bb8861ff6f35e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q105101$2CCD05E8-2AE2-4740-B98B-43BE21935433",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LH8H-YJQ"
+          },
+          "hash": "33c034b30f6ed66b328f43e1fc40e7692960cac9",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q105101$4871FF1C-9EB9-4CBE-B401-B51FDCA2DC52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vivar-3"
+          },
+          "hash": "0786918f6836ca0d43099b69b5abc178a82d3711",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q105101$FDA21012-30DE-4DD9-95A6-02B008FE18F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105101$0091694A-335C-4CFB-BF57-C1B5FEE88D2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q105101$100ADE49-E808-4BFE-9441-3E78BBEB1056",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Rodrigo-Diaz_De_Vivar_(1)"
+          },
+          "hash": "8ad02bb34b2d85179a719840e1fc19ea87a9024d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q105101$BC8C7883-D857-4C85-8524-9D2E6D2A2D74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q103101",
+              "numeric-id": 103101
+            }
+          },
+          "hash": "76d084ff3ba08b6fae2ad29ebf3c667fdd3de081",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105101$DA8DC7EB-982A-47D1-9582-8CF99D771AEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114830",
+              "numeric-id": 114830
+            }
+          },
+          "hash": "f5018e798e981a57f88acda3425b1fb65d4e37e9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q105101$61B314AE-BDF5-49E6-8176-4225A2FC40AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p385.htm#i3843|p42047.htm#i420467"
+          },
+          "hash": "30cbf1f73b01cae47f6cb5f1f5066238278417d9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q105101$0979F843-16A7-4DF0-B010-FD5ED7D08317",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118313",
+              "numeric-id": 118313
+            }
+          },
+          "hash": "97526562f669b433b2d136562e9c9bb850dc6fa1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q105101$27240BF9-3036-499B-954C-5EC063020A2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118317",
+              "numeric-id": 118317
+            }
+          },
+          "hash": "30ea720d1043b07ee282440504b4196c8522a3eb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q105101$A763E159-B1B7-46AE-BF15-6955EB664B4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8091411"
+          },
+          "hash": "8b20c77d9cf063b6a19c843a54706e273b378f6c",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q105101$4D36E63B-541D-4585-8740-AE487419DF16",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "príncipe de Valencia"
+          },
+          "hash": "a41b5e85f3dc2d4509b87a7d65d6f6b45b0f5603",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q105101$5D2063A5-6F1C-4D9A-83FE-95B6567FCB91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q105101$F72DE852-64C4-4B24-962A-119EE99D8D98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1048-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc4e9fcb8ff3b29e49683671270ca654cf89938f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q105101$C3F00776-6DB2-456C-96A7-EA045B2CF836",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1099-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cdf18ce4a4f0496be5d904b7e80d47e638ebb97e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q105101$EF83C4EF-D450-4510-82C0-3066039A7CFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q43958"
+          },
+          "hash": "efb3cd5c2670227998bfcbfb742b40cc48a86812",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q105101$7CAA357A-34B2-4271-9E28-1ECDF72663BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5666856869970026974"
+          },
+          "hash": "18f20dea10583d389e0f33a2d6e1d51d3edad24f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8094": [
+      {
+        "id": "Q105101$39DE58E3-DB0B-41AB-BEF3-69F9D4766FC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "diazdebivarr"
+          },
+          "hash": "e7ef9367b7fb74af48f267c3d90ec9fbf1bd885e",
+          "property": "P8094",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q105101$6A021DBF-9BFA-4713-A9C6-3E84C324C646",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "El Cid Arms.svg"
+          },
+          "hash": "42ad5053d796593241adcac1b38439e5939f7692",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q105101$8CEADFF3-1D86-48A0-A4CE-D2856128C087",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/E305FC03-A624-4F1D-9100-26A532CDAE15"
+          },
+          "hash": "376d5a650eda77dd96cbb1baaec27ae7f8bd8a89",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "an": {
+      "language": "an",
+      "value": "fidalgo y caballer castellán d'o sieglo XI"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "قائد عسكري ونبيل ثم أمير حرب قشتالي"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "гішпанскі рыцар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "cavaller castellà del segle XI"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Španělský šlechtic a vojenský vůdce"
+    },
+    "de": {
+      "language": "de",
+      "value": "spanischer Ritter und Nationalheld"
+    },
+    "el": {
+      "language": "el",
+      "value": "Εθνικός ήρωας της Ισπανίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "11th century Castilian nobleman and military leader"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "nacia heroo de Hispanio"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar castellano"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kastilialainen sotilasjohtaja ja kansallissankari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble espagnol et chef militaire"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "nobre e militar castelán"
+    },
+    "he": {
+      "language": "he",
+      "value": "אביר ספרדי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spanyol hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero spagnolo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カスティーリャ王国の貴族 (1043?-1099)"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "11. gadsimta kastīliešu bruņinieks un militārais līderis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "katalansk adelsmann og militær leder fra middelalderen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Spaans Condottiero (1048-1099)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rycerz kastylijski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nobre guerreiro do século Xl"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кастильский военный и политический деятель, национальный герой Испании"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Španielsky šľachtic a vojenský vodca"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kastiljski plemič in vojskovodja iz 11. stoletja"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "кастиљански ратник и јунак"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "härförare under återerövringen av Spanien från morerna"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西班牙领袖"
+    }
+  },
+  "id": "Q105101",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "رودريغو دياث دي بيبار"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "رودريجو دياث دى بيبار"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "az": {
+      "language": "az",
+      "value": "Sid Kampeador"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ال سید"
+    },
+    "ban": {
+      "language": "ban",
+      "value": "El Cid"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "El Cid"
+    },
+    "be": {
+      "language": "be",
+      "value": "Сід Кампеадор"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сід Кампэадор"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ел Сид"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "এল সিদ"
+    },
+    "br": {
+      "language": "br",
+      "value": "El Cid"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "El Cid"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Cid"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "El Cid"
+    },
+    "da": {
+      "language": "da",
+      "value": "El Cid"
+    },
+    "de": {
+      "language": "de",
+      "value": "El Cid"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελ Σιντ"
+    },
+    "en": {
+      "language": "en",
+      "value": "El Cid"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Cido"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "et": {
+      "language": "et",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Cid Campeador"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ال سید"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "El Cid"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "El Cid"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "El Cid"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "El Cid"
+    },
+    "he": {
+      "language": "he",
+      "value": "אל סיד"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Էլ Սիդ"
+    },
+    "id": {
+      "language": "id",
+      "value": "El Cid"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "is": {
+      "language": "is",
+      "value": "El Cid"
+    },
+    "it": {
+      "language": "it",
+      "value": "El Cid"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エル・シッド"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სიდ კამპეადორი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "엘 시드"
+    },
+    "la": {
+      "language": "la",
+      "value": "Rodericus Didaci"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Sids Kampeadors"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "席德"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ел Сид"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "El Cid"
+    },
+    "my": {
+      "language": "my",
+      "value": "ရိုဒရီဂိုဒီယက်ဒေဝိဝါရ်"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "El Cid"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "El Cid"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "El Cid"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "El Cid"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Cyd"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "O Cid"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "O Cid"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "El Cid"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сид Кампеадор"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "El Cid Campeador"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "El Cid"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "El Cid"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Родриго Дијаз де Вивар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "El Cid"
+    },
+    "th": {
+      "language": "th",
+      "value": "เอลซิด"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "El Cid"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сід Кампеадор"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "السید"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "El Cid"
+    },
+    "war": {
+      "language": "war",
+      "value": "Rodrigo Díaz de Vivar"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "熙德"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "熙德"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "熙德"
+    }
+  },
+  "lastrevid": 17517800,
+  "modified": "2025-09-17T02:20:40Z",
+  "ns": 860,
+  "pageid": 124403,
+  "sitelinks": {},
+  "title": "Item:Q105101",
+  "type": "item"
+}

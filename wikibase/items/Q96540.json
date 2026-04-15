@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmad al-Zanbur"
+      },
+      {
+        "language": "en",
+        "value": "إبراهيم المرتضى"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q96540$DFA61285-F4E4-48D9-AE38-BE0B3E10366B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97211",
+              "numeric-id": 97211
+            }
+          },
+          "hash": "03d8466382e66d4c682eff2f747404186074c599",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96540$6872558C-22B9-422C-AAD6-500635844429",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97213",
+              "numeric-id": 97213
+            }
+          },
+          "hash": "a3d94bbd929b5ea3f151973a0e4ef239c5ea423f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96540$C9074C42-A0FD-43D1-8053-567F2A4B2796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97215",
+              "numeric-id": 97215
+            }
+          },
+          "hash": "134371f304c325502399e5acc87b23a7d5beedd2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q96540$4549C32B-C922-4327-AE98-C689491D9000",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96540$ACF5DC85-A5F2-4BD7-BD89-A103BE006163",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q96540$5D624389-C851-4A9A-A8C4-589A6E7684E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95924",
+              "numeric-id": 95924
+            }
+          },
+          "hash": "2d3049cb6b0140d59ff24772245df11ae20ec96d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q96540$80D955AF-03CE-4E71-BDD3-A3B8EF9ABC45",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "/إبراهيم المرتضى/"
+            }
+          },
+          "hash": "f4026b576acc544a72fdcde658ece73723b04a80",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q96540$8C4602F7-F5F7-454C-864C-CE94591459C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q96540$53382D03-B0D8-4691-AA9A-BE18D69BD17F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000219204421845"
+          },
+          "hash": "51b7682dba6d688aa1f9c317767ab8f545735ae2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q96540",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ahmad al-Zanbur Al-Husayni"
+    }
+  },
+  "lastrevid": 17511315,
+  "modified": "2025-09-17T00:40:13Z",
+  "ns": 860,
+  "pageid": 112902,
+  "sitelinks": {},
+  "title": "Item:Q96540",
+  "type": "item"
+}

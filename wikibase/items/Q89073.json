@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gomez \"Judah Benveniste\" Gutierrez de la Cavalleria"
+      },
+      {
+        "language": "en",
+        "value": "Gómez Gutiérrez \"Benveniste\" de la Cavalleria"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89073$9521B438-DB3B-41A4-A725-72469B4B239A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89213",
+              "numeric-id": 89213
+            }
+          },
+          "hash": "de10a1842b6118fbf61df9ba0a1793caaffaf165",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89073$2856A7F1-D7D2-486A-A087-AB0BD21A20AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89215",
+              "numeric-id": 89215
+            }
+          },
+          "hash": "42b266bd4c2d0a9e30ba4721b986d31fb803a022",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89073$B24FDA12-2857-4283-A1DC-227A5AC5C691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89217",
+              "numeric-id": 89217
+            }
+          },
+          "hash": "26ea6e825b529ae433428314da3ae3c6f5c77d6e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89073$73F25CCE-4BDC-4284-9B44-62395F3545AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89073$1ECDA504-FD2C-4BBF-88EE-E7144C9D06CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q89073$812D5D94-5EB3-434E-8D93-17A2174518B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89335",
+              "numeric-id": 89335
+            }
+          },
+          "hash": "c1cce4c621a7eaea75a6fac3a0574a6cc03e9060",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89073$D1BAC8AD-7B45-461C-B212-9439CC453608",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88950",
+              "numeric-id": 88950
+            }
+          },
+          "hash": "db8466dc3edee15a6603890db4ad3184bd342105",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89073$7FBFE1CE-9D3E-4904-BA6F-72BD5BE71716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89073$97248DA9-9D5B-4563-B6F1-B13E235FFC47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89073$F7F2E254-AF3F-4595-9D58-CCE0371DC410",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001500832030"
+          },
+          "hash": "abea2422ecf713f8856a1a98d3a853e8a3921e46",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89073",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gomez Gutierrez \"Benveniste\" de la Cavalleria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gómez Gutiérrez \"Benveniste\" de la Cavalleria"
+    }
+  },
+  "lastrevid": 17503881,
+  "modified": "2025-09-16T22:54:25Z",
+  "ns": 860,
+  "pageid": 103904,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q89073",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q89073"
+    }
+  },
+  "title": "Item:Q89073",
+  "type": "item"
+}

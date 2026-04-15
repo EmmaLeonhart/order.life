@@ -1,0 +1,581 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pedro de Cantabria"
+      },
+      {
+        "language": "en",
+        "value": "Pedro I, duque da Cantábria"
+      },
+      {
+        "language": "en",
+        "value": "Pedro Duque de Cantabria"
+      },
+      {
+        "language": "en",
+        "value": "Pedro"
+      },
+      {
+        "language": "en",
+        "value": "Peter of Cantabria"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q99815$733B46FA-86BC-448C-9F8A-D614A1532E08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "131121"
+          },
+          "hash": "6c5d03cd63501c4899cbf4f1c02e4f7082cdd343",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q99815$1CA19EA3-643B-4A43-A71D-C53F41471A78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120398"
+          },
+          "hash": "b557eca96a9e168cb25324df538101aa34c1d4e6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q99815$0727C369-4710-4C9D-9606-0EB4DE906B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99819",
+              "numeric-id": 99819
+            }
+          },
+          "hash": "e03853c37ad485f06a0c64c49e3cf34aa1e675b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99815$50A7AB05-C09E-45FE-A859-62F596F72F0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99785",
+              "numeric-id": 99785
+            }
+          },
+          "hash": "76bf58024cf8a516ffffdc622294dbe340fa28e8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99815$F83F45A7-1463-43AA-9DAB-56B95D8F9DE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113388",
+              "numeric-id": 113388
+            }
+          },
+          "hash": "fbcd84b173e8aeef0a1defe21246e02aa2a9db13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99815$0243051A-97F0-4342-94CE-CF2262A81120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110842",
+              "numeric-id": 110842
+            }
+          },
+          "hash": "ad7678a11acd982a038afa20d60e8e7ec150dcbe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q99815$9066A74D-C172-4022-A195-31450029EC0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cantabria-17"
+          },
+          "hash": "c071033d7f18e2f65cef3c4ff106d4e63fa94fe7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99815$19A6B19E-0FF3-4819-A1D9-23895CF9B10C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Peter of Cantabria"
+            }
+          },
+          "hash": "419dc231eb136e7370e7fbcdeceae4518d5627de",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99815$F302A2F6-6405-4A87-AEFD-78E5493B6CE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99815$7749510E-A468-40BC-8FE2-E147094DCB7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q99815$C8D373BC-D6F9-4FFD-9A13-D75D9412D813",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pedro_De_Cantabria_(2)|Peter_of_Cantabria_(1)"
+          },
+          "hash": "80ef94d3cec2a0f855f8c6c3c3ed7b3a1c2224e3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99815$255DFC82-C9D0-4C64-A614-8171388B0530",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99817",
+              "numeric-id": 99817
+            }
+          },
+          "hash": "980b109a684ef0a15c6b648ae80068adfd87f3f5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q99815$87157D3B-22D1-41ED-AF14-705ED3F5A45F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15271.htm#i152710"
+          },
+          "hash": "34285baab34a1522d82263601e76c641edfa5ba0",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99815$BD5CC988-57A2-43A3-A30D-36998097B289",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Peter of Cantabria //"
+            }
+          },
+          "hash": "840353d6212e489b6b04603145889e03b074716a",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q99815$F7AD4DE5-461B-46F1-9682-36AF25A73FC4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Duque de Cantabria"
+          },
+          "hash": "3836122b2d5a23b5d2109aebffde19b29f92626e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99815$D9071AE2-5587-4AEF-A428-36216B8DD763",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q99815$F28E1102-D46D-408D-995D-847FA1A414F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0680-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1db450d8c19152533093d3eb0392b0e39f6c5613",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q99815$D99F3A2C-04BF-4DB4-BF3F-0610B091FA06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0730-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "11f6685fa0251d59da23f1b359aa117848ac6eac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q99815$7EF86D4D-044A-4E3A-9DAD-46B1C8448A56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2192525"
+          },
+          "hash": "5b9d55e0c85d9c8d4aef70e2003f0267ce1d01ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99815$108B0547-9F72-44EE-A6E5-ADAF88C6EB39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003742102823"
+          },
+          "hash": "020ea0da65f55fe5009437f6e570aa0370ad2fbb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q99815$00AA2CA0-988C-4359-8341-51293DDC3FFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pedro;n=de cantabria"
+          },
+          "hash": "9ef1fbd3c330b6f1a6b31456738b21b0df96a0e6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99815$77EAA705-585E-4132-99D9-B46D2A699CE6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter of Cantabria Arms.svg"
+          },
+          "hash": "2f3f906a18269d43f27a205dd7e8c505d861ce18",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata español (665–730)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "noble espanyol"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spanish noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "duque de Cantabria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble hispanique du VIIIe siècle, ancêtre des rois des Asturies"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Spaans aristocraat (665-730)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "испанский герцог"
+    }
+  },
+  "id": "Q99815",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بيدرو دوق كانتابريا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بيدرو دوق كانتابريا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Pedro de Cantabria"
+    },
+    "be": {
+      "language": "be",
+      "value": "Педра Кантабрыйскі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pere de Cantàbria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Petr z Kantábrie"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pedro, dug Cantabria"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πέτρος της Κανταβρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peter of Cantabria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pedro de Cantabria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pierre de Cantabrie"
+    },
+    "id": {
+      "language": "id",
+      "value": "Petrus dari Cantabria"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pedro di Cantabria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペドロ (カンタブリア公)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peter van Cantabrië"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pedro, duque da Cantábria"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pedro, duque da Cantábria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Педро Кантабрийский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pedro od Kantabrije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pedro de Cantabria"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Peter of Cantabria"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Педро (герцог Кантабрії)"
+    }
+  },
+  "lastrevid": 17514403,
+  "modified": "2025-09-17T01:24:07Z",
+  "ns": 860,
+  "pageid": 117294,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99815",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99815"
+    }
+  },
+  "title": "Item:Q99815",
+  "type": "item"
+}

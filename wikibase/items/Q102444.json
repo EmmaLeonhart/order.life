@@ -1,0 +1,196 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Haninai  bar Adoei David"
+      },
+      {
+        "language": "en",
+        "value": "Haninai  son of Adoei David"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q90763$6D2305B4-BF4A-4AA5-AA79-6BC1B2B21983",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q90763$FEB162EE-B735-4F79-B8E2-026CB75E3BD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q90763$ED9E910D-25E5-4136-B178-B5684C3D35A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90731",
+              "numeric-id": 90731
+            }
+          },
+          "hash": "885006cc1736a3861036c10e3a1b70fcb6f0304d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q90763$6C479D97-A5A0-4CF5-9C9C-FB6DA8959993",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90761",
+              "numeric-id": 90761
+            }
+          },
+          "hash": "97b5f64a7a7a54edeac4a04e5f228e62ae2dc704",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q90763$AB198EFB-7A25-4B16-A588-2361B98850CF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Haninai /bar Adoei David/"
+            }
+          },
+          "hash": "248fb3b6d209b9f091b046eac0574a21907e8bcb",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q90763$B8E045C8-ABEE-44E1-B4D1-0A1D209EE19B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q90763$687A43FE-8777-4BDE-8151-792E2FAFD10D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q90763$A3072FAC-9E47-4774-92CC-E29744D7186F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000042121806420"
+          },
+          "hash": "b9a7c6920f166a71ed403f7b6740384513e1ca17",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q90763",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haninai  son of Adoei David"
+    }
+  },
+  "lastrevid": 17505571,
+  "modified": "2025-09-16T23:19:08Z",
+  "ns": 860,
+  "pageid": 105727,
+  "sitelinks": {},
+  "title": "Item:Q90763",
+  "type": "item"
+}

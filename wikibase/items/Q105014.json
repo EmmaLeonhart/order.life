@@ -1,0 +1,230 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diego de Ayala Valverde"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q93349$A46617D9-3992-4184-B3CF-F4F402206ADE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34916",
+              "numeric-id": 34916
+            }
+          },
+          "hash": "07b58895a2dd5661a04bf9e15111e0f056f178d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93349$BC6C6521-9FDD-482F-80CC-6EF7A0C64B2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34920",
+              "numeric-id": 34920
+            }
+          },
+          "hash": "fd565d18a383a0c3581b967190541bea03636ad9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q93349$27F3671C-80C1-4916-AFFC-CFBF909797E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93349$E302ECB0-C295-4A69-B0C2-C620E29C8848",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93349$58844132-C1C9-4423-9F78-30A1A3F393B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33045",
+              "numeric-id": 33045
+            }
+          },
+          "hash": "892a18141288182a63b2699008308d17683182e1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93349$C8B648CC-0075-4CCB-9778-AC1CBBDCBE71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33049",
+              "numeric-id": 33049
+            }
+          },
+          "hash": "79ff300179d3dc2cdc715d1f60c98df72a62b04c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93349$0B8B52C3-6AD3-4C87-941E-5B03C97CA334",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Diego /de Ayala Valverde/"
+            }
+          },
+          "hash": "b518ffedddbeb288863766b2f2252834e4a9e263",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93349$924D3A08-AA48-461D-AF14-0281CC7F203D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93349$235FD399-309D-4AB4-ABE4-5DE94736B94F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93349$560D4F1A-13D8-4D81-96E9-B6DCD046BE2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011232868153"
+          },
+          "hash": "745eca14d654113774f7fe0b268430818186a5d2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93349",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Diego  de Ayala Valverde"
+    }
+  },
+  "lastrevid": 17508141,
+  "modified": "2025-09-16T23:54:02Z",
+  "ns": 860,
+  "pageid": 108749,
+  "sitelinks": {},
+  "title": "Item:Q93349",
+  "type": "item"
+}

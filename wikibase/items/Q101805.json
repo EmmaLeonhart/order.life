@@ -1,0 +1,202 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q90125$E202F120-8FDD-4A6B-82A0-66E4EF9A2E87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31436",
+              "numeric-id": 31436
+            }
+          },
+          "hash": "8cfd15a57311b750657598dae9bf3b731866a69f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q90125$F50EEB59-4964-4C6B-A45E-887352D2307B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q90125$49AD6594-A235-4D91-A651-054882F764D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q90125$DC1F2063-A766-4874-B4B3-DF209ABF674F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92220",
+              "numeric-id": 92220
+            }
+          },
+          "hash": "ee7be38c1d78711e37190e4ba53b344b6406286a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q90125$3B269AC7-A65A-44E4-BC8A-3A98B1784F56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89877",
+              "numeric-id": 89877
+            }
+          },
+          "hash": "5fcc9ffbc76a84abd1f2a673ae8faa970315eea1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q90125$BD4241DE-6374-4978-B175-476874A54022",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91944",
+              "numeric-id": 91944
+            }
+          },
+          "hash": "836d1413fa8d39553b311524c969ff3c29ba6771",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q90125$EB268D2E-430F-480F-8AAC-8CB3719ABF2F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pedro /de Bolea/"
+            }
+          },
+          "hash": "e009b4b46f9b7ebadb0d9bbc22e3926dc30afdd7",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q90125$2264BA37-8326-4F56-B702-0A57B4A9953A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q90125$8E73B327-28AB-4EB6-A70F-27DF8205750D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000029179496081"
+          },
+          "hash": "b139531319aa5ee3b1b1364e1b094977ca49645d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q90125",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pedro  de Bolea"
+    }
+  },
+  "lastrevid": 17504933,
+  "modified": "2025-09-16T23:10:10Z",
+  "ns": 860,
+  "pageid": 104956,
+  "sitelinks": {},
+  "title": "Item:Q90125",
+  "type": "item"
+}

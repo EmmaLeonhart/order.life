@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaudiosa de Castrogeriz"
+      },
+      {
+        "language": "en",
+        "value": "Gaudiosa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q99504$9D42CFE0-0DAC-464F-BD22-BDE33BE67D04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99502",
+              "numeric-id": 99502
+            }
+          },
+          "hash": "9564a71f6726dcf55812a678bccb922ae54a021a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99504$00BD1EE3-61C6-4A01-B438-44D00B3A97A2",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gaudiosa de Castrogeriz"
+            }
+          },
+          "hash": "b76a5d46b1996b36504ba8b590d5337a27f2bda1",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99504$CD858B1C-EAB6-49CD-BA89-72EBC2B5038D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99504$B25BCDC1-97D5-407C-9B9A-99F54CBACC94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99504$06F4DD73-26A1-4D5A-B208-26FCEFB0F587",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99506",
+              "numeric-id": 99506
+            }
+          },
+          "hash": "823142db5f6e2f1f89189127514b4df99fd96055",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99504$02B63366-3884-496B-9B6E-D147814B2721",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gaudiosa de Castrogeriz //"
+            }
+          },
+          "hash": "9c9a5a29dc4ac9ee66dbcd8753bae6d676071168",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99504$695EB683-343E-48D0-84CA-9AD689EFAE32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99504$80164704-D3A3-4BBA-B221-E695D5C1C5AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000071653542852"
+          },
+          "hash": "3988229652c701efaf09010281f49544ef84d9b8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q99504$283C4BE1-B266-44A3-A088-67F187728C86",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given {'text': 'ABT 700', 'language': 'en'}",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "{'text': 'ABT 700', 'language': 'en'}",
+              "timezone": 0
+            }
+          },
+          "hash": "b439335ca6ccac7ebbc80d37207544f93f4ba066",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99504$98F4D14A-60A1-47EE-81D4-18299B5A18EC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaudiosa de Castrogeriz Arms.svg"
+          },
+          "hash": "58cced348600bc55c64d334998d2a2166148d70f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q99504",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gaudiosa de Castrogeriz"
+    }
+  },
+  "lastrevid": 17514161,
+  "modified": "2025-09-17T01:20:53Z",
+  "ns": 860,
+  "pageid": 116877,
+  "sitelinks": {},
+  "title": "Item:Q99504",
+  "type": "item"
+}

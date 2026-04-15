@@ -1,0 +1,178 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Faquilène de Rouergue"
+      },
+      {
+        "language": "en",
+        "value": "Faquilène de Toulouse (de Rouergue)"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113417$B95E5AED-9D35-486D-BA9B-6479FA0E0250",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113417$B79B15B6-BCE6-4BD6-AD04-A33F74389AA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113417$74414F5D-3C9C-499F-8909-7530748A2D25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113417$77B9EFD4-C841-4032-802B-29B04D2A9D9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0840-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "744906e426ae19440bdaaeafada194c5e506f3b2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q113417$5B9CD115-8639-4581-B6D0-43776C3F1B87",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0887-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05642be23937be14a7454520e0efe13d9d37799d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113417$7C5371E5-5AC7-490E-A4BA-4C2E4F841D0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000424707234"
+          },
+          "hash": "6aea1920c573ecdba7e88b8c82f8f74c939fbd9a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113417$9E52BAE3-863E-447C-806C-00F36D9188AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Faquilene  de Toulouse (de Rouergue) Arms.svg"
+          },
+          "hash": "cd72239e6bda1fec0c8e8fee98bdb73096c75531",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113417",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Faquilene  de Toulouse (de Rouergue)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Faquilène  de Toulouse (de Rouergue)"
+    }
+  },
+  "lastrevid": 17525213,
+  "modified": "2025-09-17T04:14:13Z",
+  "ns": 860,
+  "pageid": 135580,
+  "sitelinks": {},
+  "title": "Item:Q113417",
+  "type": "item"
+}

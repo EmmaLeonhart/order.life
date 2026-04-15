@@ -1,0 +1,206 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91912$3D4D825C-3CAF-4809-A000-B1B8BEB8F219",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90073",
+              "numeric-id": 90073
+            }
+          },
+          "hash": "e67d8bb93ebe473a363865f2c4efaf821187f986",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91912$C80E84C7-3734-4479-A5D8-A28B957171E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91912$FABD2D97-A8AB-4EE5-AD86-43558F2B1B45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91912$B36169D5-3971-42A5-9769-9348DAA735F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89813",
+              "numeric-id": 89813
+            }
+          },
+          "hash": "46c81556a1d487b870ec8a3fda07f28266562576",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91912$22C70FDC-481A-4A64-AF0A-C4A01FBD7008",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Manuel /de Ariño y Núñez Cabeza de Vaca/"
+            }
+          },
+          "hash": "63ce4c73abe8877758e83344477f982cdbbcb514",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91912$72106B6F-DE77-459A-9250-2B2E7E9FFF6C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Señor de Figueruelas y Cabañas"
+          },
+          "hash": "5618a595879231ec68dd49dc4e0d3fc84c8e5e61",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91912$7E0CFA63-E29D-4C4D-9D0A-5929662A7D41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91912$744E855D-A801-4132-B7CB-727D862515E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91912$F162891A-0F0A-4E7F-858A-CE136D02EE4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000029178109113"
+          },
+          "hash": "fa9e0dea0c6e061862b4e1ebc231818c2564569c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91912",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Manuel  de Arino y Nunez Cabeza de Vaca"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manuel  de Ariño y Núñez Cabeza de Vaca"
+    }
+  },
+  "lastrevid": 17506713,
+  "modified": "2025-09-16T23:34:30Z",
+  "ns": 860,
+  "pageid": 107227,
+  "sitelinks": {},
+  "title": "Item:Q91912",
+  "type": "item"
+}

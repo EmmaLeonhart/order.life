@@ -1,0 +1,194 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ka‘b bin  al-Khazraj"
+      },
+      {
+        "language": "en",
+        "value": "Ka‘b son of  al-Khazraj"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q94878$8A654D57-3C92-45A9-8A30-E61E1164972E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94513",
+              "numeric-id": 94513
+            }
+          },
+          "hash": "32d97d6ef7843bf94c0d04ed1c76b4b0d619cea0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94878$876FECCC-5BD8-4D63-9DEE-56447BA374B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94880",
+              "numeric-id": 94880
+            }
+          },
+          "hash": "cf693382a96221105f4fdcbdbf162b4797627849",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q94878$3520C4CA-8B0C-480C-92D3-CC3589180D2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94878$4386A3AF-F62B-41B8-82A3-F14477947725",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q94878$06C807EA-79AB-40FC-B4A2-5B7848DA0F80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95239",
+              "numeric-id": 95239
+            }
+          },
+          "hash": "9576669e34d2d4aa1ae98f54f66a23ac7a267256",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q94878$B5E59A39-DDB9-4076-9B64-55E9A91A03C1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ka‘b bin /al-Khazraj/"
+            }
+          },
+          "hash": "acd95a17ea10498159738f827228187fa4d6c570",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q94878$84C9E672-E22D-4533-B3FD-F299E4015026",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q94878$D424D7BA-0577-483B-8D1B-6BF397B4B2BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039149869936"
+          },
+          "hash": "26e9449387b01eda785978ebafde0ee5f8d7ac63",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q94878",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kab son of  al-Khazraj"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ka‘b son of  al-Khazraj"
+    }
+  },
+  "lastrevid": 17509653,
+  "modified": "2025-09-17T00:16:14Z",
+  "ns": 860,
+  "pageid": 110671,
+  "sitelinks": {},
+  "title": "Item:Q94878",
+  "type": "item"
+}

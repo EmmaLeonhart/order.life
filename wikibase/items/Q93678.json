@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diego Ramón"
+      },
+      {
+        "language": "en",
+        "value": "Major Diego Ramón, Commandante del Presidio de San Juan Bautista"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q93678$F5C2EED9-73EB-4CF3-BB47-B18468CBC1FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93678$51EA183B-C0F2-4751-9BB7-85B5E2AD6ECA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q93678$12277C54-C204-40E2-92AF-D01E79439549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92956",
+              "numeric-id": 92956
+            }
+          },
+          "hash": "69ad8136cd1b0d9e0b1e048275c61e67ce92e7ab",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q93678$2221B0F3-B245-4913-B2D1-0019DCA26D78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93676",
+              "numeric-id": 93676
+            }
+          },
+          "hash": "cdbebf49ba69851ef03cea873295c511bfca8a74",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93678$02A9C2C1-413C-4C36-B444-AAF01A0F76B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93678$4FABF672-912A-40DA-9C68-0D1877ACA462",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93678$01FFDB7D-394C-4FB8-A523-4E6F06B69968",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93678$7130D0E4-5010-4542-B24A-5B89829296E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000014410309648"
+          },
+          "hash": "529533b8c5ba1b434ed3be05391ca201209d6999",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93678",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Major Diego Ramon, Commandante del Presidio de San Juan Bautista"
+    },
+    "es": {
+      "language": "es",
+      "value": "Major Diego Ramón, Commandante del Presidio de San Juan Bautista"
+    }
+  },
+  "lastrevid": 17508471,
+  "modified": "2025-09-16T23:58:33Z",
+  "ns": 860,
+  "pageid": 109107,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93678",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93678"
+    }
+  },
+  "title": "Item:Q93678",
+  "type": "item"
+}

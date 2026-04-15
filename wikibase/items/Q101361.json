@@ -1,0 +1,821 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alfonso V 'el Noble' de León"
+      },
+      {
+        "language": "en",
+        "value": "Alfonso V \"El Noble\" de León"
+      },
+      {
+        "language": "en",
+        "value": "Alfonso V of León"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q101361$AEE41EB0-DCCF-416E-94E0-27F022231EB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "64131"
+          },
+          "hash": "6fbd3677128fa0d89ff7defb952c7853aee9736b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q101361$9881DE52-F35E-4B63-96BC-55245A8C2B40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120381"
+          },
+          "hash": "7935aa604325db509fa0f8de04f23fcc6461877e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q101361$F68F5A0B-9453-4F8C-9B7F-6B6BF8C61150",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123443",
+              "numeric-id": 123443
+            }
+          },
+          "hash": "8a1a6a587be824c2b0e8fc445af0bd406503d734",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$A4267A81-E826-4BF3-B4BD-0F738256FD89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113979",
+              "numeric-id": 113979
+            }
+          },
+          "hash": "04333d9699f7909ccb273a83f59bd466ef9dc82f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$63415E69-0AA1-4360-8BC3-7C8DCEFBE5A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113509",
+              "numeric-id": 113509
+            }
+          },
+          "hash": "eaad992f3ef233de7e800fc67b8b33c20c6aae32",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$8658B9E6-8282-41F8-A3C1-A938F5191809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110508",
+              "numeric-id": 110508
+            }
+          },
+          "hash": "9f2e177ae52f3d357270b2f501c947e401f26b9b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$83F0C0B3-69A3-4A30-BDE1-1F114FFE647C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102451",
+              "numeric-id": 102451
+            }
+          },
+          "hash": "2be824c481d8fc1706d61afbb730f8a9b665bcd6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$77E60C10-7C78-4477-AD31-16AB3CC4B610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110976",
+              "numeric-id": 110976
+            }
+          },
+          "hash": "c4f9e8cf45656faa5f2b713331d5e8448ed282aa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$2328FB0D-9B9B-4FF5-ACA7-D5A09D3FF9FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110978",
+              "numeric-id": 110978
+            }
+          },
+          "hash": "3489caed64bdb148632ccae5ba680f085d1353f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q101361$7A97F8E9-4B51-427B-9275-C35704DB4D55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "L1MN-K1H"
+          },
+          "hash": "4e005f1d4ef328b57f7b681312205d9ff960d63a",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q101361$E365ABE3-0DB9-4768-A761-3A0DEA2264EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "León-131"
+          },
+          "hash": "09f715f24049cea828c3608ae9a3639720b080cb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q101361$77476449-22AC-4D46-BB71-810484B04995",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$729DCA8B-110A-4628-8116-D65930101711",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q101361$DFB76D10-05C0-4302-AEB8-988AC2B2C1A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfonso_V_of_León_(1)"
+          },
+          "hash": "4262501b3f557d0b6c54a88dbbc1862800a9edf9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q101361$10EB013A-6761-4CF2-AD86-FD1C74967EF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101287",
+              "numeric-id": 101287
+            }
+          },
+          "hash": "14feb775923ebad567566ed018e75019b39ba22b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$EDC69D6F-99C3-4A82-B39F-8DE98C39B263",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101722",
+              "numeric-id": 101722
+            }
+          },
+          "hash": "349367632bca5b5f382ea171328360f661e60c55",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$5C225319-E59A-4BCE-9FF8-35885F88965E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111035",
+              "numeric-id": 111035
+            }
+          },
+          "hash": "dbac3731e4f83bc6fd7cef0c7b1d7684f29f3b30",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$AA5B4371-5B77-4790-A68F-2EF45219B5B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113385",
+              "numeric-id": 113385
+            }
+          },
+          "hash": "b27d059f80a4e4a4e0660e6eda2c30399eee3c30",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q101361$B1461FEA-6C89-4715-BC1D-4AB8D02A6DE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11332.htm#i113311"
+          },
+          "hash": "f1fe87262cf9fec5532d5d1ed3140946a5ce1828",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q101361$4F3E5417-D283-49A3-BF2C-758AAEB0A221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100661",
+              "numeric-id": 100661
+            }
+          },
+          "hash": "74a468d0c396b176b800e7d556da47bbd104a55d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101361$E2E4145E-0DB2-4FD1-B939-D205D9A6F047",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110116",
+              "numeric-id": 110116
+            }
+          },
+          "hash": "c0a14beba3749d22c1bc372725366f832389321b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q101361$CBFBFDD4-0641-493D-BCF7-81A731F20523",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100926",
+              "numeric-id": 100926
+            }
+          },
+          "hash": "26ce4c58584c614e99382c0a3df9fe5d6abc9e0d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q101361$59666146-FC26-4E39-ADDB-50100C603FDD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rey de León"
+          },
+          "hash": "b0ee63daa5df656b00c603020c0c48bd535105c0",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q101361$0B2B759F-CD9B-41DD-A434-70C7DA41257D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q101361$4D7CBB50-270E-4014-9AE2-FD54E6768604",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0994-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5997496f605e09b7bbab3a90d36b2b8331817e41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q101361$5F7721FD-602D-4E25-AFFF-9F0DFC8FA0CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1028-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8126b7044f2ad28ae1a06bcd2974010ab30adb8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q101361$4186F839-D894-4CBA-8E32-F9110B23824A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q283561"
+          },
+          "hash": "5dc8b864a5e7735b0697c30813165061b89664ac",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q101361$494D7EB2-718A-441C-A64A-5DA42876E584",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4876709487680081308"
+          },
+          "hash": "871c483f3f9f3012a2fc44671eb8a0a97497ba71",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q101361$034D1AC9-9A93-4FCC-A420-F99F1BA59495",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alfonso;n=de leon;oc=5"
+          },
+          "hash": "e80f482b52b6b06839192e0624b57985a8bc86d1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q101361$D593511C-AF22-4E15-A46A-C3EF10B4B277",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfonso V of León Arms.svg"
+          },
+          "hash": "ddc1965a58031811f470bc64954fa58f03b9f873",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "кароль Леона (999—1028)"
+    },
+    "br": {
+      "language": "br",
+      "value": "roue León"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "leonski kralj"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(996 - 1028) rei de Lleó (999-1028)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "král leónský a galicijský"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von León und Galicien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς του Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of León"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de León"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de León"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei de Galiza"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "kralj Leona"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di León (r. 999-1028)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Koninkrijk León (994-1028)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei de León (999–1027)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Леона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av León"
+    }
+  },
+  "id": "Q101361",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ألفونسو الخامس ملك ليون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الفونسو الخامس ملك ليون"
+    },
+    "be": {
+      "language": "be",
+      "value": "Альфонса V Высакародны"
+    },
+    "br": {
+      "language": "br",
+      "value": "Alfonso V León"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Alfons V Leonski"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alfons V de Lleó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alfons V. Leónský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alfons V."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλφόνσος Ε΄ του Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alfonso V of León"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alfonso V de León"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Alfontso V.a Leongoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Alfonso V"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alphonse V"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Afonso V o Nobre"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלפונסו החמישי, מלך לאון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Alfons V. Leonski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "V. Alfonz leóni király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Alfonso V dari León"
+    },
+    "is": {
+      "language": "is",
+      "value": "Alfons 5."
+    },
+    "it": {
+      "language": "it",
+      "value": "Alfonso V di León"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルフォンソ5世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალფონსო V"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알폰소 5세"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Alfonsas V"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alfons V van León"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Alfons V"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Afonso V de Leão e Castela"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Afonso V de Leão e Castela"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Alfonso al V-lea de Leon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альфонсо V"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Alfonso V od Leona"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Алфонсо V од Леона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alfonso V av León"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Альфонсо V"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿方索五世"
+    }
+  },
+  "lastrevid": 17515023,
+  "modified": "2025-09-17T01:33:00Z",
+  "ns": 860,
+  "pageid": 119370,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q101361",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q101361"
+    }
+  },
+  "title": "Item:Q101361",
+  "type": "item"
+}

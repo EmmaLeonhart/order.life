@@ -1,0 +1,222 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matan ibn Elazar"
+      },
+      {
+        "language": "en",
+        "value": "Matan ibn Eliab (ibn Elazar)"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86705$47ADBC71-F3F9-4D61-8767-8042223251B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86697",
+              "numeric-id": 86697
+            }
+          },
+          "hash": "bb8b5ac8cdba6ec4454558537fb96191aecd39cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86705$03669C85-5E06-4120-A192-90F211B25A64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92659",
+              "numeric-id": 92659
+            }
+          },
+          "hash": "e300b9481995302aec5633ed2be2857506881fbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86705$36A5347F-893A-438A-BAAA-394F323D4AB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86705$C02ED19B-E08A-45C0-9B56-33E70BB5E34B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86705$4406CC69-A7AB-411B-A54E-52E882254874",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86715",
+              "numeric-id": 86715
+            }
+          },
+          "hash": "de9f563238b17802e62dfa583e4c395e1a65ca01",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86705$BA2F4179-9416-4C4D-A51C-AB68E7F91C8A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Matan /ibn Eliab (ibn Elazar)/"
+            }
+          },
+          "hash": "8d469e1a8c56dc5df912b6ecfd14f349c3113305",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86705$803B6B4B-97AF-4EC8-A2C7-C603A19528C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86705$47048EAC-766F-4E64-BADD-29504C249FBF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86705$59C7CBA9-8269-4EEA-B75E-3285374DD90E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019129493046"
+          },
+          "hash": "9e57d9a7536910e03307ed738f2d4eba0aac8910",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86705",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Matan  ibn Eliab (ibn Elazar)"
+    }
+  },
+  "lastrevid": 17501515,
+  "modified": "2025-09-16T22:20:52Z",
+  "ns": 860,
+  "pageid": 101536,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q86705",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q86705"
+    }
+  },
+  "title": "Item:Q86705",
+  "type": "item"
+}

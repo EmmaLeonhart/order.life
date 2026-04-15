@@ -1,0 +1,179 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oton de Fedenzac"
+      },
+      {
+        "language": "en",
+        "value": "Odon, comte de Fézensac"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q107076$F3A7055E-7088-4684-80D8-4FFC4CE24E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q107076$65B53904-76F9-486F-B289-432501778872",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q107076$ED59DF4A-9AD5-435C-86E5-08AF9D033538",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104315",
+              "numeric-id": 104315
+            }
+          },
+          "hash": "9126ba61b748215b7f74cac16262ad4a30b2af6a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q107076$11341794-3B17-478B-A200-FBDDBE329270",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118847",
+              "numeric-id": 118847
+            }
+          },
+          "hash": "2c00cee1148f40f6b918cf98d314d6191bc01233",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q107076$2D037159-BEA9-4F5C-AAEC-AF4EBBFADE26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q107076$17B88DBF-43A5-4EF6-8541-629EC07A1716",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0985-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f822286f9054d44cd5915411b6d74c1df3205264",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q107076$2AC3F662-BBC6-4B90-845A-6090BDE47F14",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Odon, comte de Fezensac Arms.svg"
+          },
+          "hash": "66592dea330e3526df1d9bd65ac752b9d3007695",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q107076",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Odon, comte de Fezensac"
+    },
+    "es": {
+      "language": "es",
+      "value": "Odon, comte de Fézensac"
+    }
+  },
+  "lastrevid": 17519239,
+  "modified": "2025-09-17T02:46:50Z",
+  "ns": 860,
+  "pageid": 127060,
+  "sitelinks": {},
+  "title": "Item:Q107076",
+  "type": "item"
+}

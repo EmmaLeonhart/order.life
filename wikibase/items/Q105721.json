@@ -1,0 +1,243 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "הכהן רפא"
+      },
+      {
+        "language": "en",
+        "value": "The priest Rapha"
+      },
+      {
+        "language": "en",
+        "value": "The Priest Rafa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q94054$D4E7659D-25FD-4602-A9CB-BC37DDE27FA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94271",
+              "numeric-id": 94271
+            }
+          },
+          "hash": "9e159437834fd2da9ff02a1c51380a6b5b03db94",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94054$B52DD0FE-5F40-46D3-B677-779A8FEF9BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94273",
+              "numeric-id": 94273
+            }
+          },
+          "hash": "7d888484b5207e0e06a07805f4cfaa5b8ef7af4f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q94054$99D15B6F-4BFE-4880-97C8-5C8DD610E9C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94054$A7EFAB76-3472-4C7D-9188-1B4365CA28B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q94054$48B3ECF2-7A43-401A-BF63-3E86061A63BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93957",
+              "numeric-id": 93957
+            }
+          },
+          "hash": "7f0d48f4a5462710046ecc82137d3e47da3d05e4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q94054$71A290CB-E334-4AD5-B375-0A2BC74F361E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "/הכהן רפא/"
+            }
+          },
+          "hash": "aa5571c2db22b57ff943c22c8eff90ffbb809ff3",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q94054$5D0282F8-D644-481C-9C62-707EAF5DEE9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q94054$A0A23CEB-11A4-4F95-ADC2-4412CD493BE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q94054$BA285898-C359-41AE-847E-3C3A2D1101AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q94054$538BCA0B-2B79-48FA-85D1-CCBCACDC4703",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000169608513959"
+          },
+          "hash": "1ba973f5c6fcacaae00c69f2bda1baa52f19176a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q94054",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hilay ben Mari HaKohen"
+    }
+  },
+  "lastrevid": 17508843,
+  "modified": "2025-09-17T00:04:42Z",
+  "ns": 860,
+  "pageid": 109558,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q94054",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q94054"
+    }
+  },
+  "title": "Item:Q94054",
+  "type": "item"
+}

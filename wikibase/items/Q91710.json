@@ -1,0 +1,162 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "David ben Samuel d'Étoile-sur-Rhône, Dauphiné"
+      },
+      {
+        "language": "en",
+        "value": "David ben Samuel of Estelle"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q91710$53B1A0A3-BA5F-4453-B0EA-FDAEFADD4A82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91710$A22FC410-95DC-48AB-905C-D585963E686B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91710$00802142-5CF4-4FE8-BFDC-388C1CE6558F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89669",
+              "numeric-id": 89669
+            }
+          },
+          "hash": "02b9f91fb8f50d119f167e2f7c165c3e5b394117",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91710$B786665F-B60B-493E-928E-7D1B4638B20E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91710$99B14C29-C583-403F-B4AE-34EAB32A13E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91710$3C089557-C14D-4D27-8F30-4A69CF14D4C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000348876714"
+          },
+          "hash": "d94aa25a3e5114ba06c14f4c9763c25f11a46935",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91710",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "David ben Samuel of Estelle"
+    }
+  },
+  "lastrevid": 17506513,
+  "modified": "2025-09-16T23:31:48Z",
+  "ns": 860,
+  "pageid": 106978,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q91710",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91710"
+    }
+  },
+  "title": "Item:Q91710",
+  "type": "item"
+}

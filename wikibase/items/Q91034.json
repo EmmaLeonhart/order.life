@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "ר' יוחנן"
+      },
+      {
+        "language": "en",
+        "value": "R. Yochanan"
+      },
+      {
+        "language": "en",
+        "value": "Yohanan bar Achaya"
+      },
+      {
+        "language": "en",
+        "value": "ר' יוחנן 3rd Exilarch Yohanan II"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91034$F0521A98-0628-4181-9A68-AB1A21C86F14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91078",
+              "numeric-id": 91078
+            }
+          },
+          "hash": "004665927be3e43d965e4058f76a1105f95cd268",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91034$37B73DC1-4F7A-430F-8A9F-F3ED091AC7F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91034$33C1EDF6-42ED-4349-8E44-E603A8FC4931",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q91034$29BDDE6C-CE53-4F2F-AB74-74E842970C6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86573",
+              "numeric-id": 86573
+            }
+          },
+          "hash": "8f4b733c3d4db98b7d6b39aa9e265aa5110892a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q91034$D563FD51-8F85-4CD3-8E43-6197070758F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91032",
+              "numeric-id": 91032
+            }
+          },
+          "hash": "6c7797ea9a02d0f2a09b4e4982da8d91272bb721",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91034$B8AB628B-B108-4BAA-95BC-2E3EB48684D0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "3rd Exilarch Yohanan II"
+          },
+          "hash": "ea6bbbc52d5d58b3053046eb6a2fd44bb5691c0c",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91034$01112030-32EC-45AA-9582-58F278DD79B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91034$D0DDCE73-3D1F-4FEE-9F0A-83F0C1B5B77E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91034$613760EC-F042-413A-9295-7B803CEE6C0F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91034$3CF05704-6B92-46DA-B9C0-187E243CC0AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005747693254"
+          },
+          "hash": "6018d2791161df593d176cdd5da2a34528b2a758",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91034",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yohanan bar Achaya"
+    }
+  },
+  "lastrevid": 17505839,
+  "modified": "2025-09-16T23:22:44Z",
+  "ns": 860,
+  "pageid": 106076,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q91034",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91034"
+    }
+  },
+  "title": "Item:Q91034",
+  "type": "item"
+}

@@ -1,0 +1,134 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isa bin Abdullah al-Kamil"
+      },
+      {
+        "language": "en",
+        "value": "Isa son of Abdullah al-Kamil"
+      },
+      {
+        "language": "en",
+        "value": "Isa Al-Hasani"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q94561$AF7029C4-9896-40A5-B9B6-E988309D9B5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94561$D9A2F282-6453-4796-87FB-42888C5A975D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q94561$C35176DA-0F20-4BDA-A882-0082F70F9281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94303",
+              "numeric-id": 94303
+            }
+          },
+          "hash": "5795593feae053f944b7ea410f35a324f0379479",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q94561$53E56C00-ABFD-4346-B94E-EECB7761EE74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q94561$2D40DEE7-A50C-4672-BC11-AB9EAA20B8D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039187700605"
+          },
+          "hash": "5000747a0b74b230215fd719a538c104f45cbd9e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q94561",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isa son of Abdullah al-Kamil"
+    }
+  },
+  "lastrevid": 17509343,
+  "modified": "2025-09-17T00:11:45Z",
+  "ns": 860,
+  "pageid": 110245,
+  "sitelinks": {},
+  "title": "Item:Q94561",
+  "type": "item"
+}

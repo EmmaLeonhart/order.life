@@ -1,0 +1,175 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "alKassim bin  alMukhtar"
+      },
+      {
+        "language": "en",
+        "value": "alKassim son of  alMukhtar"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q97821$1E3127E7-60BC-491F-A802-04CD39E2F73D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97821$E2FBAE6F-3404-40D8-93FD-208B7D29FC37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q97821$4C746B6D-A9ED-44AB-9FD2-D606BEB8C1FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97129",
+              "numeric-id": 97129
+            }
+          },
+          "hash": "f5a713785c39f97625734cd43c9b56f07dffbeef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q97821$99C6B350-A840-4D28-8BC8-C3F2300A7DC7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "alKassim bin /alMukhtar/"
+            }
+          },
+          "hash": "8a0aadfa97dfe01a4cd993190926daa2894b7005",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97821$AF73F374-105B-4B20-AF30-856900740A04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q97821$C4F45E1E-028C-4E06-8241-A8A8488CD562",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97821$073D6CC6-074D-4E5D-BA33-5D6C05A5C503",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4413245426210042025"
+          },
+          "hash": "82609c637497c38ff20fc90df630bce182a08a5f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97821",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "alKassim son of  alMukhtar"
+    }
+  },
+  "lastrevid": 17512589,
+  "modified": "2025-09-17T00:58:53Z",
+  "ns": 860,
+  "pageid": 114617,
+  "sitelinks": {},
+  "title": "Item:Q97821",
+  "type": "item"
+}

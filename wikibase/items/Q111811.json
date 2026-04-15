@@ -1,0 +1,229 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q111811$480E8250-1B81-4F7C-9F98-7E69BB730465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111811$83039B33-1C69-4B71-BB98-5680558D38B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q111811$9D7FC7C3-77C6-4A3C-8414-B62A42B07EC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111809",
+              "numeric-id": 111809
+            }
+          },
+          "hash": "963d2dbb180556f1da7a6f69b0365ccb763a4d31",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q111811$0BD946C4-2A76-47C7-BC22-29CBEB7670C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q111811$4BE1856F-4981-B785-22C2-F4D4EEBA07EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0215-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d8e83d282b9331c884c88b7b2279e16ccd5868c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q111811$9055C13E-41FF-E74F-0208-A43CF7EA30A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0230-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb282cb51844f3dd6f06a1ef1e97066e95b8bcfc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q111811$0A204F0C-99B4-43E1-B8BA-4C82BB254862",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2864794"
+          },
+          "hash": "10174c06e35b11e216ccc7f5c2ca4ec30799e153",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q111811$428F178D-990F-459B-A120-D9FE73EE5911",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artavazdes Arms.svg"
+          },
+          "hash": "5a6a08fd980ef7ffd7cefbdf21c22cbe845fcaca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "probably fictional son of Artabanus IV of Parthia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils d'Artaban V"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Artabano IV"
+    }
+  },
+  "id": "Q111811",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Artavasdes de Pàrtia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artavazdes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتاوازد (پسر اردوان پنجم)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artavazde"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտավազդ Պարթև"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artavasde"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artavasdes de Pàrtia"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Artavazdes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артавазд"
+    }
+  },
+  "lastrevid": 17523541,
+  "modified": "2025-09-17T03:48:55Z",
+  "ns": 860,
+  "pageid": 133424,
+  "sitelinks": {},
+  "title": "Item:Q111811",
+  "type": "item"
+}

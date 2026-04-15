@@ -1,0 +1,130 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muhammad al-Qa'im Al-Fatimi"
+      },
+      {
+        "language": "en",
+        "value": "Muhammad al-Qa'im"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q96695$38A1A332-4D41-4767-BC18-8129B25731FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96695$C38FE8CE-A8BC-4513-9581-6C69EC3D5515",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q96695$89E5F51A-F06B-4792-88C5-3D1320C4078B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96044",
+              "numeric-id": 96044
+            }
+          },
+          "hash": "bf211cc33902fc555df59d460d7a00a3636ba24a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q96695$9E886FEA-A308-4540-B80F-8501A7BE86C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q96695$B0551489-352A-4A27-83E4-65F3A3EAE81E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000026066746333"
+          },
+          "hash": "e30ea8ed6cd2dd5a88d59187b52ee96bfb35e80d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q96695",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Muhammad al-Qa'im"
+    }
+  },
+  "lastrevid": 17511469,
+  "modified": "2025-09-17T00:42:24Z",
+  "ns": 860,
+  "pageid": 113108,
+  "sitelinks": {},
+  "title": "Item:Q96695",
+  "type": "item"
+}

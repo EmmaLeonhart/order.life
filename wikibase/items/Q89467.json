@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "בנבנישתי הורוביץ"
+      },
+      {
+        "language": "en",
+        "value": "בנבנישתי  הורוביץ"
+      },
+      {
+        "language": "en",
+        "value": "Benvenishti Horowitz"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q89467$E22CFC2B-3740-4267-9EED-6E2D291589A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89467$7B08E1F5-D615-4650-A837-0BE3B2C3D0EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89467$46C86549-E548-449B-BD11-D13284954BBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89295",
+              "numeric-id": 89295
+            }
+          },
+          "hash": "4611b2052feaf43428bd1605223eadea68b4487d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q89467$82B6CFF8-95D2-4F25-932B-4F5C4BD95C94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91438",
+              "numeric-id": 91438
+            }
+          },
+          "hash": "5bd1f47f5aba52afaa9a731d54dc5668ab064786",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89467$FDCE71B0-9918-4D3B-81AE-D75DCB51D52C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "בנבנישתי /הורוביץ/"
+            }
+          },
+          "hash": "16f85198f451210c9e799ed7e60860b4a15452dd",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89467$7045F39F-879D-4ED8-A2C9-CC568255AE17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q89467$C6E76F37-00B5-49EE-AE4F-B84495B20DE5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89467$8C6FCBBD-F872-483D-902F-0E762177913E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007898581909"
+          },
+          "hash": "163ca0e93ad17a5cb4dc737e43722bcde182b454",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89467",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Benvevisti Ha'Levi"
+    }
+  },
+  "lastrevid": 17504275,
+  "modified": "2025-09-16T23:00:00Z",
+  "ns": 860,
+  "pageid": 104298,
+  "sitelinks": {},
+  "title": "Item:Q89467",
+  "type": "item"
+}

@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yonah ben Avraham"
+      },
+      {
+        "language": "en",
+        "value": "יונה בן אברהם"
+      },
+      {
+        "language": "en",
+        "value": "יונה  בן אברהם"
+      },
+      {
+        "language": "en",
+        "value": "Yonha ben Avraham"
+      },
+      {
+        "language": "en",
+        "value": "Rabbi Yona Girondi"
+      },
+      {
+        "language": "en",
+        "value": "יונה  בן אברהם החסיד מגירודני,מח\"ס \"שערי תשובה\""
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q88833$7C671C6A-A543-45DA-B995-53DA81D93D38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88946",
+              "numeric-id": 88946
+            }
+          },
+          "hash": "2c26d9e2d122c76914ca3426bfafd4c1dee70790",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q88833$794D2AE6-0D1C-46C6-A320-2437A9829E80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q88833$B9E65F43-967D-4D54-B39A-2C33CDA75A11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q88833$356ED504-3928-4EC0-8A54-514066CB2788",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88745",
+              "numeric-id": 88745
+            }
+          },
+          "hash": "d796e6d5c54b1e10d20ac9fbaa56055a46a8d0b7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q88833$91C22168-5E29-467C-8DF9-6E1760CF3C30",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "יונה /בן אברהם/"
+            }
+          },
+          "hash": "1de99932c1228b98dc447c7c9c7024e76e6f737f",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q88833$E0791058-2495-467A-907C-5D7CEB109326",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "החסיד מגירודני,מח\"ס \"שערי תשובה\""
+          },
+          "hash": "ac05cafba040eadfec7db1a1f3695e30c2261782",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q88833$4B624186-E25E-4475-AEC4-D0F1E054DCDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q88833$152F84B9-9EF8-41E9-9BDC-BB44059EFA54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q88833$9D28AA26-3FD4-4B22-A999-F23D71A7677B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q88833$3EABBC2B-D1DD-497D-8A85-7FB9E7C1A3D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000194835153821"
+          },
+          "hash": "61f5b180ec973e44e7db6e8e779d9ffda1d833cc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "החסיד מגירודני,מח\"ס \"שערי תשובה\""
+    }
+  },
+  "id": "Q88833",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rabbi Yona Girondi"
+    }
+  },
+  "lastrevid": 17503641,
+  "modified": "2025-09-16T22:51:08Z",
+  "ns": 860,
+  "pageid": 103664,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q88833",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q88833"
+    }
+  },
+  "title": "Item:Q88833",
+  "type": "item"
+}

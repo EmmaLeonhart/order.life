@@ -1,0 +1,230 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q88488$F3B74AA6-36E0-4BD8-BFEE-C241B77A9D35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88559",
+              "numeric-id": 88559
+            }
+          },
+          "hash": "5a4db058b98d554001664da6dfef09412843083a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q88488$A705E720-5FE6-4B13-ACCB-5CC8DEF181E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q88488$43C7D0C6-D3E4-4405-84F5-CB06C6C74809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q88488$154DC23E-F98B-442D-9821-395AE7EFA4CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88414",
+              "numeric-id": 88414
+            }
+          },
+          "hash": "eb6241eb3c4d117286a2df438786576cc1d7b818",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q88488$882DC23B-7CD6-4CBA-B725-4B35005B9D7B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ma‘ādh Abū Tamīm ibn Badis al-Mu‘izz /li Dīn Allāh/"
+            }
+          },
+          "hash": "4ca139448a3e4e7d33ab9c27fce98fb733e03dac",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q88488$6EE9277F-A0D3-4E74-A22C-DFBE40F2EFCB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "4th Zirid Emir al-Ifriqiya"
+          },
+          "hash": "2c669d509a81fd1a0d0eaadde4be2b4d548e7ebb",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q88488$48295529-B613-42D8-BAC0-7819F9EFEBB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q88488$7F7CE6DB-0CE6-4C36-8DCA-C1F15C1B4A3C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q88488$A3879AEF-E5CC-4B40-99EE-8A63F1D20E9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q88488$BB642152-D556-4985-9728-40FE2E431A2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019227774558"
+          },
+          "hash": "080ae92b363e2b55a16a3b6f61cffb7f2477d021",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q88488",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maadh Abu Tamim ibn Badis al-Muizz  li Din Allah"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ma‘ādh Abū Tamīm ibn Badis al-Mu‘izz  li Dīn Allāh"
+    }
+  },
+  "lastrevid": 17503293,
+  "modified": "2025-09-16T22:46:11Z",
+  "ns": 860,
+  "pageid": 103319,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q88488",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q88488"
+    }
+  },
+  "title": "Item:Q88488",
+  "type": "item"
+}

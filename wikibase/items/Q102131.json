@@ -1,0 +1,143 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113795$431B5890-E655-4B03-BA08-ABB2DA85F574",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113795$26A98ADA-11D6-4827-AA9D-3616AA1DEA79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113795$3CC6AB6F-DFD6-4AC8-AB30-5370F3610C6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113795$F4E10ED1-3E1D-44EA-AA95-921451DF3349",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1230-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "587e5f5edae80040bca618b28147d06b9d51406e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113795$7937EFEC-FDEC-42F2-BFEC-F64F12A52A61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013996954752"
+          },
+          "hash": "722eba1685c69a92c1e14dfac62e27dd7375fcb3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113795$BA101635-63FB-4B2B-BECC-3865EC6C5842",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria  Ponces de Baiao Arms.svg"
+          },
+          "hash": "7d745357dcb823b2964156da50e38d587930844a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113795",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maria  Ponces de Baiao"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Maria  Ponces de Baião"
+    }
+  },
+  "lastrevid": 17525854,
+  "modified": "2025-09-17T04:27:01Z",
+  "ns": 860,
+  "pageid": 136088,
+  "sitelinks": {},
+  "title": "Item:Q113795",
+  "type": "item"
+}

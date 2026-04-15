@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yitzhak  bar Sheshet Perfet"
+      },
+      {
+        "language": "en",
+        "value": "Yitzhak  son of Sheshet Perfet"
+      },
+      {
+        "language": "en",
+        "value": "Yitzhak  bar Sheshet Perfet Ribash"
+      },
+      {
+        "language": "en",
+        "value": "Yitzhak  son of Sheshet Perfet Ribash"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89029$47101A71-2528-4C3C-B7FE-4336AB264A93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89155",
+              "numeric-id": 89155
+            }
+          },
+          "hash": "7abe704d9b6ae3a5dbe99aa6c80514b0ed99d13e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89029$84CA78B7-CC3C-4C18-B9A8-454ED7CE297B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89029$DF27DC62-E0F6-441D-8D30-989B5B338044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89029$9D5C445E-72D0-4724-B287-773753D55A54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88912",
+              "numeric-id": 88912
+            }
+          },
+          "hash": "1e646a29d5508092dde913c287f944bd88522df4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q89029$175B7BD9-DC20-47D8-A300-7542724509FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91310",
+              "numeric-id": 91310
+            }
+          },
+          "hash": "feea0152278f00cde43e88553733d1d325410fac",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89029$A3B5CEE2-6201-4E82-B611-8F01B541A5AB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Yitzhak /bar Sheshet Perfet/"
+            }
+          },
+          "hash": "e0855123b6b29daa8b4df1bb3dbd401b028b117e",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q89029$62F6D080-6E78-4561-99E1-72E991BB0AF0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ribash"
+          },
+          "hash": "1d20de5d2fb0616f1b4cba0221ce493fd6eec536",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89029$B34B3B4B-5611-41A0-88BA-BC1D14173E50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89029$FB604626-E680-483D-913B-9E8EEB5E4252",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q89029$9112145B-7B23-42B9-B1A3-6ED03D37A512",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89029$F1C8D73F-91E4-4593-86F4-90919C19F315",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000014683635224"
+          },
+          "hash": "3b5d2c0a4b0e6c2dc417894d48e2bd82ea8f0ac3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89029",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yitzhak  son of Sheshet Perfet"
+    }
+  },
+  "lastrevid": 17503837,
+  "modified": "2025-09-16T22:53:48Z",
+  "ns": 860,
+  "pageid": 103860,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q89029",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q89029"
+    }
+  },
+  "title": "Item:Q89029",
+  "type": "item"
+}

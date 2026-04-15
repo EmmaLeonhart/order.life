@@ -1,0 +1,856 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Petronius Maximus"
+      },
+      {
+        "language": "en",
+        "value": "Petronius Maximus, Roman Emperor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q99627$0FED9A2A-DE79-4798-91D6-F39567DE7663",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "273264"
+          },
+          "hash": "55fdccf3a432c8c6b129f17d9db6da9afbac3a1f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q99627$385F4440-DA06-4BD8-BFD7-26BC838FB6C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248943"
+          },
+          "hash": "4ea1a17faed250fdeb4a52e1c9c4b8f275ef239d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q99627$2588EC56-3F51-40C8-941D-E9E6FFA68DC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75495",
+              "numeric-id": 75495
+            }
+          },
+          "hash": "b6804f5bbec46cbcdd196ed1fd6b9ae48f0965dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99627$303D9186-D7BF-4720-BBE6-E20082B98B3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111145",
+              "numeric-id": 111145
+            }
+          },
+          "hash": "71c8714a30c3aa285864f974eeee0d2ff3c0a962",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99627$E1901954-682D-46BA-86E9-A2EABA9DD4C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111931",
+              "numeric-id": 111931
+            }
+          },
+          "hash": "ebb03db64fd8b02d879f80e3a398b691ba2dcc1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q99627$E18D02A3-51DF-415F-9C9C-43002CAEF586",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Anicii-9"
+          },
+          "hash": "884e0f7e6592fda05e37cc8a8a35a34a8081ab7a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99627$45AC33C5-9E69-413B-89EB-A174536443EF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Petronius Maximus"
+            }
+          },
+          "hash": "bb18068a4324397bb98dfcf25d7132109e6a4fd9",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99627$912C2B08-B4B4-439F-B08A-98F6AB6D2768",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99627$F3F77FCA-77B4-4691-B211-A50E084231F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q99627$2B116100-C107-4A83-88D6-5F6DBF2A4117",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Petronius_Maximus_(1)"
+          },
+          "hash": "7c6bf5d4f8d0e2a66eac63726eee9aa4ac1ff6dc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99627$665A17BC-CE43-449A-A28A-95B6598015E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75498",
+              "numeric-id": 75498
+            }
+          },
+          "hash": "93715ac7b9d8791e6f2dced4e9b6ae2c5776a791",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99627$073E0DCD-FCB2-4CB0-B08D-8AC2329BC222",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111905",
+              "numeric-id": 111905
+            }
+          },
+          "hash": "8ee6e6e89bc034e0215fb1bffd5d0d60038e07dc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99627$F0A2E79A-CB80-46EC-8853-3EE956E2D579",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60518",
+              "numeric-id": 60518
+            }
+          },
+          "hash": "beba9a1218daddb908a77ba78c60909d6b3b2376",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99627$0A20500E-28EC-49E4-A4A9-208D2D40F377",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113007",
+              "numeric-id": 113007
+            }
+          },
+          "hash": "9aedcb4ff946d98421fab832d739e4e1a43f4450",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99627$92CBD459-99F8-4FE5-A2EE-ADDFA58391F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75513",
+              "numeric-id": 75513
+            }
+          },
+          "hash": "290b3f3b04f2e3578e6ac1c888c053ab236e63d8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q99627$3157B088-2670-422F-845A-B9DBB8EA9562",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113005",
+              "numeric-id": 113005
+            }
+          },
+          "hash": "93eb456a5701324d26fd5a75ebcd3592fda295b4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99627$2B568A2B-F311-4E3A-A33A-6DEB9C8FDEB4",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Petronius Maximus //"
+            }
+          },
+          "hash": "593688843af2398a60824f6aeb937a6758d90793",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q99627$0711EDF5-0F8D-4F07-BF0F-1808C89E3C0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "40495933"
+          },
+          "hash": "62b75ce895c9411e5d58d0efa1589b8aa895ad9d",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q99627$D7953421-8340-43AE-BCD6-F420BC61A7D1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Western Roman Emperor"
+          },
+          "hash": "c3e42184948d55dc8e3a7b3a818ccece14ed0055",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99627$16D2142B-2115-4D6F-94CC-FD558F7EBB58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q99627$DEFBBEAD-68EB-4663-8181-C2E5E0144F76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0396-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4bc22b12465968584aafe14747b6378cd7db95e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q99627$CA9D27B6-3DB0-4007-B08D-BB20346B0FAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0455-04-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61ad72507152f033e50dd988f290628eee53dd1c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q99627$BB43FA9D-3111-4E35-A54B-D388F7D0F3D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q191940"
+          },
+          "hash": "ffa98cf85a132eb11a40e950971dbbba30b93a4a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99627$28A96F77-0124-41C9-AE92-30F46FDA318C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187572907"
+          },
+          "hash": "5823b6fa23e6abfea7f85c79b4c27b5063822f10",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99627$98AECCD1-2BE8-474C-A642-2B95E3FDB8B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Petronius Maximus Arms.svg"
+          },
+          "hash": "3cb50cbe8d9dda68696c0abb6f63871389a4c7ca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "αυτοκράτορας της Δυτικής Ρωμαϊκής Αυτοκρατορίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th century western Roman emperor (396-455)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano de occidente (455)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور رم غربی در ۴۵۵ پیش از میلاد"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Länsi-Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain d'Occident en 455"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano en 455"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "nyugatrómai császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi Barat yang memerintah selama beberapa bulan pada tahun 455"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano d'Occidente (r. 455)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西ローマ皇帝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (396-455)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "västromersk kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Batı Roma İmparatoru (455)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پانچویں صدی کا مغربی رومی شہنشاہ (396-455)"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "西罗马帝国皇帝（455年）"
+    }
+  },
+  "id": "Q99627",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Petronio Maximo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بيترونيوس ماكسيموس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بيترونيوس ماكسيموس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "پترونیوس ماکسیموس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Петроній Максім"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Петроний Максим"
+    },
+    "br": {
+      "language": "br",
+      "value": "Petronius Maximus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Petroni Màxim"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Petronius Maximus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Petronius Maximus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Petronius Maximus"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Petronius Maximus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πετρόνιος Μάξιμος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Petronius Maximus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Petronio Máximo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Petronio Maximo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پترونیوس ماکسیموس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Petronius Maximus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pétrone Maxime"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Petronius Maksimus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Petronio Máximo"
+    },
+    "he": {
+      "language": "he",
+      "value": "פטרוניוס מקסימוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Petronije Maksim"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Petronius Maximus római császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Petronius Maximus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Petronio Massimo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペトロニウス・マクシムス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "페트로니우스 막시무스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Petronius Maximus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Petronijus Maksimas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Petronijs Maksims"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Петрониј Максим"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "पेट्रोनियस मॅक्सिमस"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Petronius Maximus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Petronius Maximus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Petronius Maximus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Petronius Maximus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Petroniusz Maksymus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Petrónio Máximo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Petrónio Máximo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Petronius Maximus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Петроний Максим"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Petronius Maximus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Petronije Maksim"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Petronius Maximus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Petronij Maksim"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Петроније Максим"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Петроније Максим"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Petronije Maksim"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Petronius Maximus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Petronius Maximus"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Petronius Maximus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Petronius Maximus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Петроній Максим"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پیترومیوس ماکسیموس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Petronius Maximus"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Petronius Maximus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佩特罗尼乌斯·马克西穆斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "佩特罗尼乌斯·马克西穆斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "佩特罗尼乌斯·马克西穆斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "佩特羅尼烏斯·馬克西穆斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "佩特羅尼烏斯·馬克西穆斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "佩特罗尼乌斯·马克西穆斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "佩特羅尼烏斯·馬克西穆斯"
+    }
+  },
+  "lastrevid": 17514283,
+  "modified": "2025-09-17T01:22:30Z",
+  "ns": 860,
+  "pageid": 117041,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99627",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99627"
+    }
+  },
+  "title": "Item:Q99627",
+  "type": "item"
+}

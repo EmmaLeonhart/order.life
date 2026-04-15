@@ -1,0 +1,154 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iñiga González"
+      },
+      {
+        "language": "en",
+        "value": "Íñiga González"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113965$7DF9583C-E890-4C93-B25F-AB676F85D462",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113965$04A46E44-C2EE-4460-83E5-500331E0F6AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113965$430504C5-E0CE-40DA-BD81-3E35EF9B034F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113965$E9F3EAC9-F306-4B16-A212-6AB32F5A01E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113965$1FCA0503-305E-4F7A-B710-E88E37E5C633",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006277429551"
+          },
+          "hash": "958ffaecfe72fa5261e367bc6a9712730d35b940",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113965$D25B7851-7E1D-4AC3-A90F-6764EAAD533A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iniga  Gonzalez Arms.svg"
+          },
+          "hash": "e2b3146e132d3be524c727808c176a63263c2bd5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113965",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Iniga  Gonzalez"
+    },
+    "es": {
+      "language": "es",
+      "value": "Iñiga  González"
+    }
+  },
+  "lastrevid": 17526143,
+  "modified": "2025-09-17T04:32:59Z",
+  "ns": 860,
+  "pageid": 136315,
+  "sitelinks": {},
+  "title": "Item:Q113965",
+  "type": "item"
+}

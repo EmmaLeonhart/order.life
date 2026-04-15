@@ -1,0 +1,215 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ἀριστόμαχος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ἀριστόμαχος"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q74780$728DEA4B-DBBB-4A62-9E2F-D07FBC1E8F6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74771",
+              "numeric-id": 74771
+            }
+          },
+          "hash": "7dbdc2071cb2b8cf318bb72cd83c7fa9a7657101",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74780$08D00EA0-BB7A-4560-A55E-30CD57C604E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134774",
+              "numeric-id": 134774
+            }
+          },
+          "hash": "004fe5e504f1351bc70cddd40b30e58047539d69",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74780$5845C0B8-662F-451A-B0E8-A580C2FBD980",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166641",
+              "numeric-id": 166641
+            }
+          },
+          "hash": "81293cdb42f8c6b28727089e16271d665a876667",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74780$5383D0AC-7CA6-410B-9077-15B2E0E259D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74780$E17160FD-7CC1-457A-ABA8-149795BD4A35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74780$81A7BB07-6567-4525-8600-E9B5B5DE3C64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74789",
+              "numeric-id": 74789
+            }
+          },
+          "hash": "d48f7623c76555794f88b62be033550a429f7ee5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74780$F96B6DF4-1062-4885-A9B8-508820BB90C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74780$E2412EFF-EDC7-44C8-9D36-ECF7A6BE1587",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007878195769"
+          },
+          "hash": "125ad1f3b8c31e7e363a0e1e3644e44d9140696a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74780$148F6B43-B86A-4370-A6B7-94062FF8B35E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aristomachus Arms.svg"
+          },
+          "hash": "d75b0b38332caea24323f1e9e281226f266cb312",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q74780",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aristomachus"
+    }
+  },
+  "lastrevid": 17487789,
+  "modified": "2025-09-16T19:07:39Z",
+  "ns": 860,
+  "pageid": 89611,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74780",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74780"
+    }
+  },
+  "title": "Item:Q74780",
+  "type": "item"
+}

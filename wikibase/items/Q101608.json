@@ -1,0 +1,219 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yehudah ben Daniel Ximenes"
+      },
+      {
+        "language": "en",
+        "value": "Diogo ben Daniel Nasi"
+      },
+      {
+        "language": "en",
+        "value": "Yehuda Diogo ben Daniel Nasi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89929$CCB44BFC-D727-4E32-808D-328A354EE46A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90189",
+              "numeric-id": 90189
+            }
+          },
+          "hash": "7b18a4be10a52cb5118dcbdc349b452da831d221",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89929$DF7FEB45-8FFF-4219-A2F7-E8B3B58926CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91964",
+              "numeric-id": 91964
+            }
+          },
+          "hash": "da981780fe5b3ec69fc622c76e367f420612fa2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89929$9DA96914-5359-4F06-8688-9C7F44F9CC15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89929$AD667498-BF8A-46E6-A860-4700F5866CD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89929$4FACDBE0-18E3-4213-8CA7-821AC2A53399",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89689",
+              "numeric-id": 89689
+            }
+          },
+          "hash": "ead4c58e64d9fd5ac68dab2caeb33ec4c848561f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89929$D7393377-F892-4ACC-948C-3F1E9081B7ED",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Yehuda Diogo ben Daniel /Nasi/"
+            }
+          },
+          "hash": "cb84aeee00733a42a7fab95ab8a0b8a65b8122f3",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89929$C5405F26-CEDC-4602-8FB2-C0D05581F193",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89929$13994B6C-8C0B-4D9D-BDCE-A31417ADCA0F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89929$D53E900B-A57B-4111-AFC3-19129A055489",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000028958549290"
+          },
+          "hash": "36d086e4364ba741a451f2344d3a497d446c7598",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89929",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yehuda Diogo ben Daniel  Nasi"
+    }
+  },
+  "lastrevid": 17504739,
+  "modified": "2025-09-16T23:07:18Z",
+  "ns": 860,
+  "pageid": 104760,
+  "sitelinks": {},
+  "title": "Item:Q89929",
+  "type": "item"
+}

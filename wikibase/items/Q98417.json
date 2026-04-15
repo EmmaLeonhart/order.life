@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shlomo Hazaken Ben David"
+      },
+      {
+        "language": "en",
+        "value": "שלמה הזקן בן דוד"
+      },
+      {
+        "language": "en",
+        "value": "שלמה הזקן  בן דוד"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86734$274BB8FE-A229-4EED-B9CF-4EEFC1CC10E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86721",
+              "numeric-id": 86721
+            }
+          },
+          "hash": "51d2b10f4bbd6dfd569ac41a9625381a604edfc8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86734$D1EEBF8F-A5CA-4902-A03A-1F2EEB0D15D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86734$53DF0826-56B4-425D-B28E-EF500E12A125",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86734$4D396E16-8580-445D-874A-3981D68D4D34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86742",
+              "numeric-id": 86742
+            }
+          },
+          "hash": "a5f82cd7de4f2c204a5542bf9c45d50eb77e78c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86734$D66F56F6-7FE7-4E68-9E15-3F9EEF95F8BE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "שלמה הזקן /בן דוד/"
+            }
+          },
+          "hash": "c3614333a84a1a0fb561311b3a31a45c1c2e9b26",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86734$8D5E6992-4407-44FC-9985-22CBEB4F194C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86734$3BFF9832-1F06-4B04-9996-9A98E3224328",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86734$4EE191FA-BECB-4D20-AF5E-8F439194A91B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001422705229"
+          },
+          "hash": "4479cf3c4663a9a15671f373ea77b460dfc63143",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86734",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shlomo Hazaken Ben David"
+    }
+  },
+  "lastrevid": 17501543,
+  "modified": "2025-09-16T22:21:16Z",
+  "ns": 860,
+  "pageid": 101565,
+  "sitelinks": {},
+  "title": "Item:Q86734",
+  "type": "item"
+}

@@ -1,0 +1,817 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ordoño I das Astúrias"
+      },
+      {
+        "language": "en",
+        "value": "Ordoño I Nuñez de Guzman"
+      },
+      {
+        "language": "en",
+        "value": "Ordonho I das Astúrias"
+      },
+      {
+        "language": "en",
+        "value": "Ordoño I of Asturias"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q99799$F3FD8476-A18C-46D3-BCE6-28D9A1A5CE37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "264931"
+          },
+          "hash": "683a655062ce65f74b7eefa03e2aeaf1eb166bf6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q99799$E2C6FBA0-62D9-4576-AD4C-8BEE290A9D98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120410"
+          },
+          "hash": "f33f25e77997bd7b77aadf9091e9df49b48f76a5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q99799$AC72EC2C-236F-41E4-960D-77ACDAFED6DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99835",
+              "numeric-id": 99835
+            }
+          },
+          "hash": "dd5405964a7f35360bd10d310245637bca4e35f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$5BBA8A50-D80F-4B20-87C7-B8181722E43E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99837",
+              "numeric-id": 99837
+            }
+          },
+          "hash": "b7d4b8d5b12629ceffa9902297e63c100c18ed54",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$6F218C5F-0025-4E53-AE16-92E28AFA0E49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99839",
+              "numeric-id": 99839
+            }
+          },
+          "hash": "da1c53755c31c65ffefd926806626a08f2d564b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$D07E6D6C-D2E3-41C3-84E2-E1D5FE910958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99841",
+              "numeric-id": 99841
+            }
+          },
+          "hash": "261c887fe86ebccd35223d3bf41dfc491cac317d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$9FA02BA2-D3D4-4ADD-B744-9FE257A4D4B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99843",
+              "numeric-id": 99843
+            }
+          },
+          "hash": "e3696c929d79c9a9a4fc065fc7bfbc2304e98e1a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$03FF87CD-0927-4DF4-9609-CA782A530CE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99845",
+              "numeric-id": 99845
+            }
+          },
+          "hash": "7face922c03b7a07ad8db27998ffd4ab1a93acad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$0A217E2E-9726-41CD-A7DB-5EF6D5432426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99847",
+              "numeric-id": 99847
+            }
+          },
+          "hash": "3d434455e275e295a3b808055e62200946bc73d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$F844787A-663C-4360-84ED-C52DAF585F07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109732",
+              "numeric-id": 109732
+            }
+          },
+          "hash": "575dc845b871bbfb0f10977caaf4c29adcaa8a7b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q99799$0C258A99-DFDB-4A88-9392-D9411FD2C681",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Asturias-22"
+          },
+          "hash": "dc8be714998008e0aa3a2876e18c5505720c600e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99799$91C04D30-BCA4-4ACE-88F7-B55BDDB090BD",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ordoño I of Asturias"
+            }
+          },
+          "hash": "20a0c61bccee01a87edf36867b966952444067fd",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99799$772276F2-DB7E-474F-9E9E-EE65790656F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$A606A280-B73E-4D9D-8575-3DBAD7962C77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q99799$11F3FB08-08AC-42A5-8D20-2E0CE081AB8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ordoño_I_of_Asturias_(1)"
+          },
+          "hash": "cbab02dc93f8722ffc4e8c9c8a100ce1be9ff476",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99799$A8512B02-4D78-4487-BBE8-6342D638AD2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99833",
+              "numeric-id": 99833
+            }
+          },
+          "hash": "5487fd9b5863db3416c35f1d89a8f47da9f1b4e6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$D3D278ED-F342-4C0C-95F9-EC0F5E5CCEC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110012",
+              "numeric-id": 110012
+            }
+          },
+          "hash": "06b68d83b11be33fee125aa5171c52a8b009190e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q99799$F384C86B-CB57-446A-AAA4-CF23913349E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15272.htm#i152719"
+          },
+          "hash": "c1f9ba24ca3031c3135e40581f06868224484c9a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99799$B1FC08C2-129C-4DC4-9402-AA2ACEB03443",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75453",
+              "numeric-id": 75453
+            }
+          },
+          "hash": "b05c149b63e0d237e1de807beb121edfc7bfd3bd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q99799$5D66B95F-0230-44F3-A1EB-B4DDE25ADC1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99795",
+              "numeric-id": 99795
+            }
+          },
+          "hash": "97f39ddd185e81656b28daec50fef7014543ee82",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99799$9DD53517-9DF0-4136-B861-4CC1CDC0C137",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110408",
+              "numeric-id": 110408
+            }
+          },
+          "hash": "e769b5f73dea937f4152b7394a1ef80459af91d1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99799$325069F0-1B87-4B27-9D55-A986A9513F29",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ordoño I of Asturias //"
+            }
+          },
+          "hash": "69951ee5295a14bbb252178b689f9b6395971559",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q99799$8900B475-5990-44ED-BE0F-7CA333B4F7BD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rey de Asturias"
+          },
+          "hash": "52d8c85f71502e3fc0a22220619e34de2229431c",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99799$84A588A7-E71D-443B-A094-3F2C8A4FB384",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q99799$D862E82A-DEFD-442B-B597-A41645A7A038",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0821-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4271ceb26ffa30f517478c17752d798313da6529",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q99799$843F85D1-6082-4790-9367-9DBC32A2A326",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0866-05-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "229987eaf840a2329f081314ecffd8f14c4f7b44",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q99799$97BB6C24-DA8A-4249-8106-A83744000C55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q223646"
+          },
+          "hash": "174da23e9f6c78d2c00410a4dbf10b8c7adf1bf7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99799$ACDE6F32-7626-43DE-9739-9D9DFA547EF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000448593758"
+          },
+          "hash": "cfbde42d5225b41bc2096e702ce3b0bed59a7475",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q99799$88709407-4255-4893-926B-D4A4E04A399B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ordonius;n=de cantabria|p=ordono ramirez;n=de asturias;oc=1"
+          },
+          "hash": "d910df9e5bf4634196b8069fbab646f6cc2fdf7e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99799$1964C956-24E6-4DCF-8177-87207B0D9046",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ordoño I of Asturias Arms.svg"
+          },
+          "hash": "e169e75d6c3500b58de3e29f786f0b86a925ac12",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك أشتوريش بين عامي 850 و866"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Астурыі (850—866)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei d'Astúries"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Asturien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας των Αστουριών"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Asturias"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Asturias"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Asturies"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei de Galiza"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Asztúria királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re delle Asturie (r. 850-866)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Koninkrijk Asturië (821-866)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Asturii"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "regele Austriei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Астурии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Asturien"
+    }
+  },
+  "id": "Q99799",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أردونيو الأول ملك أشتوريش"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اردونيو الاول ملك استورياس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Ordoño I"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ардонья I"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ordoño Iañ Asturiez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ordoni I d'Astúries"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ordoño I. Asturský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ordoño I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ορδόνιο Α΄ των Αστουριών"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ordoño I of Asturias"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ordoño la 1-a (Asturio)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ordoño I de Asturias"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ordoño I.a Asturiaskoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ordoño I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ordoño Ier d'Oviedo"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ordoño I de Oviedo"
+    },
+    "he": {
+      "language": "he",
+      "value": "אורדוניו הראשון, מלך אסטוריאס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ordonjo I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Ordoño asztúriai király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ordoñu I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ordoño I delle Asturie"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オルドーニョ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ორდონიო I"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ordonas I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ordoño I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ordoño I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ordonho I das Astúrias"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ordonho I das Astúrias"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ordono I de Austria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ордоньо I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ordoño I od Asturije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ordoño I av Asturien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ордоньйо I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧多尼奧一世"
+    }
+  },
+  "lastrevid": 17514387,
+  "modified": "2025-09-17T01:23:53Z",
+  "ns": 860,
+  "pageid": 117272,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99799",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99799"
+    }
+  },
+  "title": "Item:Q99799",
+  "type": "item"
+}

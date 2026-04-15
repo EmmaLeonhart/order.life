@@ -1,0 +1,195 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "García Sánchez de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "García II Sánchez, conde de Castilla"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113347$E46A558A-7842-408E-9432-9AD3F60636F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113347$585C43BF-4125-4390-8EC2-BDB8A6036D28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q113347$D4B5199A-15CF-4437-BA0B-EBE2740C4409",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "conde de Castilla"
+          },
+          "hash": "cb8b7cfa32f795790bea9bf0d216672a89a356d8",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113347$ECC3135C-C924-4EE6-93F4-039D7625E19D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113347$0D5E6DFA-572C-44C1-965C-6799306772A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1009-11-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca37bfc320ceb7faaa2da1601a53b73278b7fc8f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q113347$B9B0C3D3-0663-4B4D-91C8-CAA46A4A98C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1029-05-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1ae3cd388fe4e743af49aa2822b0ca9426c552a6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113347$66EBA403-7D51-4327-AB02-283B2B6B1697",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187918192"
+          },
+          "hash": "a9fef4f775ab594b1386a4506a449268dbbc1e88",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113347$2DB39472-525E-4A80-AF8F-A437F6964C32",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Garcia II Sanchez, conde de Castilla Arms.svg"
+          },
+          "hash": "028ddf061346dbfcdb182473390bfbd01c395f1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113347",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Garcia II Sanchez, conde de Castilla"
+    },
+    "es": {
+      "language": "es",
+      "value": "García II Sánchez, conde de Castilla"
+    }
+  },
+  "lastrevid": 17525087,
+  "modified": "2025-09-17T04:11:55Z",
+  "ns": 860,
+  "pageid": 135486,
+  "sitelinks": {},
+  "title": "Item:Q113347",
+  "type": "item"
+}

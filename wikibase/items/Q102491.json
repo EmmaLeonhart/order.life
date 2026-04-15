@@ -1,0 +1,154 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Andrade"
+      },
+      {
+        "language": "en",
+        "value": "María de Andrade"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q114156$99DA0E69-A39D-46D3-ADE8-5DF829540178",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q114156$6CB4DE8A-A055-4B5C-94FB-58390A88F576",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q114156$5E07D8ED-4676-4D8B-ABD2-6B276CAADBE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q114156$40A7C682-6D0C-43BA-B28D-3B2D8A23DD18",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1111-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14aa0a5d4328a2dda1476ef9baaeaef2e7aa879b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q114156$93133030-C384-410D-8178-879457DDFA35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003637306717"
+          },
+          "hash": "289a2a1417427cea3cc936aeac9e24b65c69356c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q114156$5D897999-F45D-4AD3-804E-856070715AD9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria  de Andrade Arms.svg"
+          },
+          "hash": "a0b4917d667e52c89cdd9ff3abb05bac61d8ad45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q114156",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maria  de Andrade"
+    },
+    "es": {
+      "language": "es",
+      "value": "María  de Andrade"
+    }
+  },
+  "lastrevid": 17526491,
+  "modified": "2025-09-17T04:39:29Z",
+  "ns": 860,
+  "pageid": 136571,
+  "sitelinks": {},
+  "title": "Item:Q114156",
+  "type": "item"
+}

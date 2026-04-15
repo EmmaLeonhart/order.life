@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amihud ibn Shemaya"
+      },
+      {
+        "language": "en",
+        "value": "Amihud ibn Elida (ibn Shemaya)"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86736$B6388860-9B99-4631-A52A-D3547B143263",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86725",
+              "numeric-id": 86725
+            }
+          },
+          "hash": "c34b7d3982a388f1677a3cb5156e5125cd405349",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86736$1381D0EA-2CE8-444E-A98E-A05C250D11F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86736$797B10F8-AE0A-415F-8294-72FCDF77A437",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86736$1DAB205A-DE3D-46C7-B0CC-E680E43F9E4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86744",
+              "numeric-id": 86744
+            }
+          },
+          "hash": "c449b70207a0654bf33caf9b66bdedcf39eebb1f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86736$08F6BEBD-148B-40F0-BCAD-0892CA142C74",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Amihud /ibn Elida (ibn Shemaya)/"
+            }
+          },
+          "hash": "d188be350ad5dc85903df77fb1aa6d2d96653373",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86736$EFAA270D-E7E6-43AD-BC48-1D0C2564E65D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86736$9E5B87AE-DA7C-4B32-A16E-959545611AA8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86736$EDABF81F-BE56-4998-9691-827E878FE455",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019129135495"
+          },
+          "hash": "6383e1e9e8c491e661570f5144fb7851746190e7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86736",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Amihud  ibn Elida (ibn Shemaya)"
+    }
+  },
+  "lastrevid": 17501545,
+  "modified": "2025-09-16T22:21:18Z",
+  "ns": 860,
+  "pageid": 101567,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q86736",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q86736"
+    }
+  },
+  "title": "Item:Q86736",
+  "type": "item"
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pedro Gerdel Montesinos Navarrete"
+      },
+      {
+        "language": "en",
+        "value": "Pedro Montesinos Navarrete"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q93542$0989D801-45DD-42F5-B6B9-5D63EBBD3B15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93544",
+              "numeric-id": 93544
+            }
+          },
+          "hash": "552bb5abf2fee55460ffd6700c754db8332de335",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93542$782B3536-90AF-46E3-8C9C-2814232FE6CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93546",
+              "numeric-id": 93546
+            }
+          },
+          "hash": "21f9f2d5bbd7bb22ebd57ffce6c2086773a27108",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93542$404C7EBA-5EFF-4DA8-B024-F66834F54944",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93548",
+              "numeric-id": 93548
+            }
+          },
+          "hash": "5f268e9ded7da74061aadb7fdefcdc704f977272",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q93542$68135B2D-2AED-4F78-8032-4AD853295096",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93542$DA81C636-5527-4569-BB19-6704C4EFC34C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93542$E3CD30D5-816A-4E3C-A89E-B7AEDC0252AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92878",
+              "numeric-id": 92878
+            }
+          },
+          "hash": "fc3aefaec329466474fde1e0fdd013509ffdc4ce",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93542$D788C294-8146-4458-B48A-FFDEEC1C9FA0",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pedro /Montesinos Navarrete/"
+            }
+          },
+          "hash": "5ab51472453753db9d3cc325c575318bd13819c7",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93542$23E118F0-0542-46C1-8A98-540C09D0179D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93542$03F172BE-A566-4763-9726-663553EB7A28",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93542$047B250C-0350-4D7E-9FA5-37D7FF4370F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000668486020"
+          },
+          "hash": "f12a6e6b5a7cfd650a874700408e2eefbf0351df",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93542",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pedro  Montesinos Navarrete"
+    }
+  },
+  "lastrevid": 17508335,
+  "modified": "2025-09-16T23:56:39Z",
+  "ns": 860,
+  "pageid": 108956,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93542",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93542"
+    }
+  },
+  "title": "Item:Q93542",
+  "type": "item"
+}

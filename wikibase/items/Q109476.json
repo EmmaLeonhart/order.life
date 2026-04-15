@@ -1,0 +1,130 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ali bin  ."
+      },
+      {
+        "language": "en",
+        "value": "Ali son of  ."
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q97817$811A6B59-7124-4225-952D-DC80A7626FC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97817$9A53F8AA-6853-46BA-BB52-0C33C7F70691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q97817$74025BC9-3940-4EEC-A515-0B78FFD03767",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97129",
+              "numeric-id": 97129
+            }
+          },
+          "hash": "f5a713785c39f97625734cd43c9b56f07dffbeef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97817$0C7A534B-D753-448D-B715-AC1FA2FBC340",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97817$A0EBEBB5-FD4C-457B-84F4-A69A52FC2C89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4413241234740053136"
+          },
+          "hash": "8f8f02ece7d0f0ea8ef68905e2e38f3f4595cafa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97817",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ali son of "
+    }
+  },
+  "lastrevid": 17512585,
+  "modified": "2025-09-17T00:58:49Z",
+  "ns": 860,
+  "pageid": 114611,
+  "sitelinks": {},
+  "title": "Item:Q97817",
+  "type": "item"
+}

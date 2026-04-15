@@ -1,0 +1,143 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118095$260267E3-C846-4263-837A-6643ED5DA6C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118095$5312571D-6316-4C99-9D49-1D92BBFB5F11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118095$8399CF88-AED8-4965-96E2-74CED30FABCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118095$AB46094F-6180-4045-9BF3-43806D61DAD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1320-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b653dbab790ba249a0d4f13e25ae9347d7770695",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118095$39AD93AA-93C7-481C-B509-FA8894F79407",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000015423514126"
+          },
+          "hash": "e26359402ad09aade9b40be682a9bf33577bae18",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118095$610433ED-1657-4E52-875C-64F996D1AA1E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aldonca  Martins de Alvarenga Arms.svg"
+          },
+          "hash": "382306ac958785ff612050a92d6187ca1f44e293",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118095",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aldonca  Martins de Alvarenga"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aldonça  Martins de Alvarenga"
+    }
+  },
+  "lastrevid": 17530595,
+  "modified": "2025-09-17T05:37:31Z",
+  "ns": 860,
+  "pageid": 141848,
+  "sitelinks": {},
+  "title": "Item:Q118095",
+  "type": "item"
+}

@@ -1,0 +1,234 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q93592$C647CE0B-3F14-461B-9C32-9B9328341C17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35640",
+              "numeric-id": 35640
+            }
+          },
+          "hash": "8fdfd3367526a1d6dcc586ae4e5363b0809abbf0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93592$8ACFA7FA-3103-4325-BA6A-08EA948C3605",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35644",
+              "numeric-id": 35644
+            }
+          },
+          "hash": "61548b8194c9cc84d8fd3c598e85688f61417839",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93592$7EF64F5A-293D-4487-8E09-F88DD10EEE37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35648",
+              "numeric-id": 35648
+            }
+          },
+          "hash": "5a85863604975c934010418f3d667ed3728197f4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q93592$9EFF10F9-27F6-42C7-98AA-F6F133E727E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93592$69EC325C-A6FE-40B2-8F25-4DD8FC8AB962",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93592$98885FEC-D3BA-49E4-9DA0-D5F85A24CE54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33576",
+              "numeric-id": 33576
+            }
+          },
+          "hash": "42cafefce9587fe6666df2200ebdb404ac26d875",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93592$4668824A-3C4F-40BB-905D-37334A0B9599",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Violante /Ponce De León Y Guzmán Irala/"
+            }
+          },
+          "hash": "1ad7bb965c758866b747eb4231c5c97b92c3db13",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93592$91360871-24B2-4A6B-9AAC-418D0D03F91E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93592$EC081630-7336-462A-9D4F-0FA6B02A14CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93592$99F6041D-913A-48EE-8054-D456CED45C5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000014775072029"
+          },
+          "hash": "43f1848411a71e69d4e35e97e288cab60d55b78d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93592",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Violante  Ponce De Leon Y Guzman Irala"
+    },
+    "es": {
+      "language": "es",
+      "value": "Violante  Ponce De León Y Guzmán Irala"
+    }
+  },
+  "lastrevid": 17508385,
+  "modified": "2025-09-16T23:57:22Z",
+  "ns": 860,
+  "pageid": 109011,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93592",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93592"
+    }
+  },
+  "title": "Item:Q93592",
+  "type": "item"
+}

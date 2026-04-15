@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isabel Ordonez de Villaquiran"
+      },
+      {
+        "language": "en",
+        "value": "Isabel Ordóñez de Villaquirán"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q92663$1CD87F6E-7035-4FA2-80F4-B4A47EF6ED33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32664",
+              "numeric-id": 32664
+            }
+          },
+          "hash": "7b2326ee84d6f3b33c3ecb55a4d8e3244ab0c1c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92663$E4E08532-29CA-474D-B87C-6EECCF285936",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32668",
+              "numeric-id": 32668
+            }
+          },
+          "hash": "12037534913429d05d5c21c1edbe9200cbdac4d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92663$EF94A8A8-2678-433D-961B-DEA03D1C20ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32672",
+              "numeric-id": 32672
+            }
+          },
+          "hash": "36c68cc11d2d70445aaf66dc6d230a846ab340f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q92663$BF361353-AE4F-49FE-ABCE-44541CB059D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92663$14531C8F-ADB9-41FE-8DF6-959E29A2DFC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q92663$4FF2AE33-CF03-4827-B6DD-E854578B143F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31496",
+              "numeric-id": 31496
+            }
+          },
+          "hash": "379511a378006eee6022ad127f870a8935a5f064",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q92663$939063CC-5409-4DB0-9799-CCE4FFF68F0E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Isabel /Ordóñez de Villaquirán/"
+            }
+          },
+          "hash": "6563884ba1eda53836abcc86714c01ae4fd16902",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q92663$79009CA7-59F6-4C86-84B9-29C01B24FD5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q92663$4A81B971-0906-4439-B32B-F233F6B9288A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q92663$F641251D-01BF-4BCC-809A-4C76DB8BDF81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012522736348"
+          },
+          "hash": "4c8a10a9e7d8b8e1bb4ee3a31940b40bcf6969c8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q92663",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isabel  Ordonez de Villaquiran"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isabel  Ordóñez de Villaquirán"
+    }
+  },
+  "lastrevid": 17507459,
+  "modified": "2025-09-16T23:44:34Z",
+  "ns": 860,
+  "pageid": 108035,
+  "sitelinks": {},
+  "title": "Item:Q92663",
+  "type": "item"
+}

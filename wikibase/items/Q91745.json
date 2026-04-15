@@ -1,0 +1,243 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Magdalena Spoerri"
+      },
+      {
+        "language": "en",
+        "value": "Magdalena Spörri"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91745$A66F8C07-CCBA-4BE4-A7E4-3C3F48319995",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89967",
+              "numeric-id": 89967
+            }
+          },
+          "hash": "a6392d60f7d8c5df52dabef413d0a8dce6252ca8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91745$10D80BEB-A804-4F06-AF2B-369223953001",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89969",
+              "numeric-id": 89969
+            }
+          },
+          "hash": "d1df2d419c0479f87d219701cc3fa8561dd11be3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91745$0C1C24AF-1140-4353-B2D8-ED3FB75E4679",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91745$0CC93B86-C351-42F1-9CE8-5CA92EA5210B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91745$4CDB98F8-52CA-4B4F-8942-11397305CDFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89719",
+              "numeric-id": 89719
+            }
+          },
+          "hash": "c4b10dccb30d64914ff3a8db906dc81b0e615918",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91745$944DFB58-C486-4D6E-947D-713C02DAC24D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Magdalena /Spörri/"
+            }
+          },
+          "hash": "e0c45ecd36fcb1e2a714efdd9adbbe5c91867e00",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91745$B8995D54-449F-4872-80B3-459737FF007D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91745$B01CACE7-650A-4FBB-9D8C-1F72C809EFBF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91745$A193F54B-32E5-4726-A730-07A24E6C63B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91745$23AAE194-B0BE-49EE-AE5D-02E83B406CC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000055889647850"
+          },
+          "hash": "ee391c3f9b51eacbeb45815a0399c17d3b477f8e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91745",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Magdalena  Sporri"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Magdalena  Spörri"
+    }
+  },
+  "lastrevid": 17506547,
+  "modified": "2025-09-16T23:32:15Z",
+  "ns": 860,
+  "pageid": 107024,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q91745",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91745"
+    }
+  },
+  "title": "Item:Q91745",
+  "type": "item"
+}

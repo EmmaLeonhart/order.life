@@ -1,0 +1,154 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Fogaça"
+      },
+      {
+        "language": "en",
+        "value": "Maria Gedeão"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118495$04E39895-E3DF-4694-862D-ED1CBE317CAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118495$4A667F2E-3834-4B0C-8E1C-4CAE241AFAB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118495$FDC5929F-1CF4-4F89-82A7-EDDC89412C49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118495$62614366-7385-4CDA-83E3-05D3C7AF63DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9dff9634722d33196cf9c3fcacc41128beca84b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118495$E93C2015-6EEE-476E-8226-CD2E852FAA6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001412933228"
+          },
+          "hash": "ee767c25cc0009257c8d8f3713cab5ee4402befc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118495$C715F078-DC1E-4906-9CE4-4C8BE3CC7E7B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria  Gedeao Arms.svg"
+          },
+          "hash": "82d0fda9376860e53ff39d28cb27c2c37a40447b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118495",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maria  Gedeao"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Maria  Gedeão"
+    }
+  },
+  "lastrevid": 17531295,
+  "modified": "2025-09-17T05:46:52Z",
+  "ns": 860,
+  "pageid": 142385,
+  "sitelinks": {},
+  "title": "Item:Q118495",
+  "type": "item"
+}

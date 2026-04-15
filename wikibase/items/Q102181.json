@@ -1,0 +1,219 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q102181$57732C9F-73AC-43FC-AA58-2C14CDB1C1A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101189",
+              "numeric-id": 101189
+            }
+          },
+          "hash": "261e3e4959807ec92fb1cfb3a7832e70506e4f11",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q102181$7D11F853-F7F5-4843-BEE1-427B84C7D5B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102181$C387F0BE-465D-4896-BCCA-E1109FF2E301",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q102181$75C05255-D83F-43FB-9EA0-C46C9B113734",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102183",
+              "numeric-id": 102183
+            }
+          },
+          "hash": "eac03840ab69fdff9a8cb564152ce0a526fe9833",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q102181$DBD54DD3-B803-4F60-81B8-2DA78B4A95FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101910",
+              "numeric-id": 101910
+            }
+          },
+          "hash": "d0a4e13dc9deee36e9f7dfeac7581c9d5a8360bd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q102181$5900E11F-0277-4A00-9179-4E25DDA14469",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q103197",
+              "numeric-id": 103197
+            }
+          },
+          "hash": "3fa14f128dc1c5e05a00a9045adc214008205864",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q102181$79738A39-7673-4039-B60F-A7DCC5B32753",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q102181$7ED64DAD-C0DD-480B-87DD-53F90F530A6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1107-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3277ec326e02163d89c5acafcdbe43c29a30abc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q102181$5C23EAFB-998C-4D79-9767-C5D37963F722",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Soeiro  de Sousa Arms.svg"
+          },
+          "hash": "d3a461b7f6976e9ef14a75a4a24a961f45965627",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "metropolitan area in the Netherlands"
+    }
+  },
+  "id": "Q102181",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Soeiro  de Sousa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アーネム＝ナイメーヘン都市圏"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿納姆-奈梅亨都會區"
+    }
+  },
+  "lastrevid": 17515403,
+  "modified": "2025-09-17T01:43:23Z",
+  "ns": 860,
+  "pageid": 120472,
+  "sitelinks": {},
+  "title": "Item:Q102181",
+  "type": "item"
+}

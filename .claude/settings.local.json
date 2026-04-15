@@ -78,7 +78,9 @@
       "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run watch 23021922368 --exit-status 2>&1)",
       "Bash(gh run:*)",
       "Bash(gh api:*)",
-      "Bash(gh workflow:*)"
+      "Bash(gh workflow:*)",
+      "Bash(git show *)",
+      "Read(//tmp/**)"
     ]
   }
 }

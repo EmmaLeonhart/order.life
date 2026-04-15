@@ -1,0 +1,796 @@
+{
+  "aliases": {
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "Гіпэрыён (міталёгія)"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Hyperion"
+      },
+      {
+        "language": "en",
+        "value": "OCEANO"
+      }
+    ],
+    "io": [
+      {
+        "language": "io",
+        "value": "Hiperion (titano)"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "Hyperion (Titan)"
+      }
+    ],
+    "tl": [
+      {
+        "language": "tl",
+        "value": "Hyperion (mitolohiya)"
+      }
+    ],
+    "war": [
+      {
+        "language": "war",
+        "value": "Hyperion (mitolohiya)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q75372$8B5D8001-58D7-4947-9736-9BFC374450EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "27710"
+          },
+          "hash": "9e76ca828a4888ea847880b4f1489bc509fa93e0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q75372$512DE699-987D-49C5-9EAA-B50CE6A7F528",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75351",
+              "numeric-id": 75351
+            }
+          },
+          "hash": "7b74d4287c0cbb5a3ca7fe46e7c4e05e9c5e43d7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75372$30F54B73-727A-492A-A200-7BFDE71B4C7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130602",
+              "numeric-id": 130602
+            }
+          },
+          "hash": "5d5d27888c9420f8a83b21fd74e5f30a13f33f57",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75372$533F0FBB-2C25-45FE-B59D-154640E8E61C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130598",
+              "numeric-id": 130598
+            }
+          },
+          "hash": "c98e30a1d6935158a4b55f7e290b97d36e46b665",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75372$C40BBED2-6AE1-4128-9C04-93467793A4E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130604",
+              "numeric-id": 130604
+            }
+          },
+          "hash": "def925529acdd24883f3d4cc7b36f7a6dc242d2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75372$44D31AC2-B1F7-483C-86B6-163D0DC5B6BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75372$F57BE54A-5D35-492F-AB1F-8E163FAA4CF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q75372$145E2B79-EECE-492E-9C69-0417F862FAF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75375",
+              "numeric-id": 75375
+            }
+          },
+          "hash": "8d49344eb9a83bc80c7eee1dfb3a4832abbfd7c6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75372$BBDFF876-C6F9-40D6-AF31-185179BBDB2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130594",
+              "numeric-id": 130594
+            }
+          },
+          "hash": "5002c3c5247eef01c30a2a2c2763c2416ed1cf21",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75372$0023ABE5-0D8C-46AC-BA3A-5F1D987EF846",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130490",
+              "numeric-id": 130490
+            }
+          },
+          "hash": "0c6ea3d371ba9aa747e49e43f5012a4caf436458",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75372$89B82C56-9079-4190-9526-00F96159A7DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130596",
+              "numeric-id": 130596
+            }
+          },
+          "hash": "58643fb9c80a93462bd2b635afd219b28c3dd7c0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75372$ADDB1BEC-ABB6-4B26-8928-32826EFCC49C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74698",
+              "numeric-id": 74698
+            }
+          },
+          "hash": "97626e289114771848f7eaa20dc643af2cec198b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q75372$55D41D22-D53D-4F4E-842D-669103BE559E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74701",
+              "numeric-id": 74701
+            }
+          },
+          "hash": "d32cd75bc70b5493bf110e83ce108095a08c2115",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75372$313B546B-3CB2-4CDB-BEBA-864CFD747BEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75372$6CD5F361-66C2-40AC-81F2-7977C4D8971D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q179209"
+          },
+          "hash": "eff90522cb0e83b0f5d5bc0a0adaa33b1cabecf9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75372$ED9CE496-1977-456A-83E4-CCCC75CA8E3B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hyperion Arms.svg"
+          },
+          "hash": "605262f3c620ec6111bb784739b9446c3592cabb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إله من سلالة الجبابرة في الميثولوجيا الإغريقية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "міталёгія"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "tità de la mitologia grega"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Titán z řecké mytologie"
+    },
+    "da": {
+      "language": "da",
+      "value": "en græsk mytologisk skikkelse"
+    },
+    "de": {
+      "language": "de",
+      "value": "Titan in der griechischen Mythologie"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιτάνας της ελληνικής μυθολογίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Titan in Greek mythology"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "titano de helenaj mitoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "titán en la mitología griega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "divinité primordiale de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "un dos titáns na mitoloxía grega"
+    },
+    "he": {
+      "language": "he",
+      "value": "טיטאן במיתולוגיה היוונית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Titan grčke mitologije"
+    },
+    "id": {
+      "language": "id",
+      "value": "Titan cahaya, kebijaksanaan, kewaspadaan, dan timur"
+    },
+    "io": {
+      "language": "io",
+      "value": "titano"
+    },
+    "it": {
+      "language": "it",
+      "value": "titano della vigilanza e dell'osservanza della mitologia greca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の神"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 신"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Karakterekê mîtolojiyê"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "ग्रीक पौराणिक कथांमध्ये सौर देव"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Titan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Griekse titaan van het licht"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "tytan w mitologii greckiej"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнегреческой мифологии титан, сын Урана и Геи"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "titanu dâ mituluggìa greca"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "solgud och en av titanerna i grekisk mytologi"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "mitolohiya"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi titan"
+    },
+    "war": {
+      "language": "war",
+      "value": "mitolohiya"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希腊神话中的泰坦"
+    }
+  },
+  "id": "Q75372",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Hyperion"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "هايبريون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Hiperión"
+    },
+    "az": {
+      "language": "az",
+      "value": "Hiperion"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гіперыён"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Гіпэрыён"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хиперион"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হুপেরিয়ন"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hyperion"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Hiperion"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hiperíon"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hyperion"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hyperion"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hyperion"
+    },
+    "el": {
+      "language": "el",
+      "value": "Υπερίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hyperion"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hiperiono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hiperión"
+    },
+    "et": {
+      "language": "et",
+      "value": "Hyperion"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Hiperion"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هیپریون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hyperion"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hypérion"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hyperion"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Hiperión"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ὑπερίων"
+    },
+    "he": {
+      "language": "he",
+      "value": "היפריון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Hiperion"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hüperión"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հիպերիոն"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hiperion"
+    },
+    "io": {
+      "language": "io",
+      "value": "Hiperion"
+    },
+    "it": {
+      "language": "it",
+      "value": "Iperione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヒュペリーオーン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰიპერიონი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히페리온"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hîperîon"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hîperîon"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hyperion"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Hyperion"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Hiperionas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Hiperions"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хиперион"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯍꯥꯏꯄꯔꯤꯌꯟ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "हायपेरिऑन"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Hyperion"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hyperion"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hyperion"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hyperion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hiperião"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hyperion"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гиперион"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Ipirioni"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Hyperion"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hiperion"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Hyperión"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hiperion"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хиперион"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Хиперион"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Hiperion"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hyperion"
+    },
+    "th": {
+      "language": "th",
+      "value": "ไฮพีเรียน"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Hyperion"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hyperion"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гіперіон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hyperion"
+    },
+    "war": {
+      "language": "war",
+      "value": "Hyperion"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "许佩里翁"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "許珀里翁"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "许珀里翁"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "许珀里翁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "许珀里翁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "許珀里翁"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "許珀里翁"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "许珀里翁"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "許珀里翁"
+    }
+  },
+  "lastrevid": 17488580,
+  "modified": "2025-09-16T19:18:18Z",
+  "ns": 860,
+  "pageid": 90203,
+  "sitelinks": {},
+  "title": "Item:Q75372",
+  "type": "item"
+}

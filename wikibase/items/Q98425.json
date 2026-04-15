@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "David Ben Eliezer"
+      },
+      {
+        "language": "en",
+        "value": "דוד בן אליעזר"
+      },
+      {
+        "language": "en",
+        "value": "דוד  בן אליעזר"
+      },
+      {
+        "language": "en",
+        "value": "David ben Eliezer"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86742$A214E988-64E0-4065-A53F-60C7CBEB9E51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86734",
+              "numeric-id": 86734
+            }
+          },
+          "hash": "27cff8a4ed2f5560aac36828d01ddd24349eb1f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86742$36659D3F-11C8-4051-8121-EB676BFE2FE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86742$E1D99855-22FD-41EC-A592-41FAD719F1CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86742$A73024B2-5EE6-4FCE-94A8-8DEFE51880E8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "דוד /בן אליעזר/"
+            }
+          },
+          "hash": "7e962bc46d6620f3a7b103a2feacc368fd5e8f13",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86742$6C339AE0-BC78-4426-A462-62A4824237FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86742$99D965B3-AD7E-44E1-BCD3-2E0D6F6BC793",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86742$4169CF43-C4A7-422D-94A2-EFA76D514C16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000825425754"
+          },
+          "hash": "4b4ee9800d302c6d4bea75fa369fdb6054caa63b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86742",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "David Ben Eliezer"
+    }
+  },
+  "lastrevid": 17501551,
+  "modified": "2025-09-16T22:21:23Z",
+  "ns": 860,
+  "pageid": 101573,
+  "sitelinks": {},
+  "title": "Item:Q86742",
+  "type": "item"
+}

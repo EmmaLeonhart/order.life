@@ -1,0 +1,175 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Umm Kulthum bint  Qasim"
+      },
+      {
+        "language": "en",
+        "value": "Umm Kulthum daughter of  Qasim"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q95343$431EEF46-E72B-4D63-8BA1-B38B0187065F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95343$03D93449-3B11-427D-A1ED-145C63DF7C80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q95343$0A73E109-7B60-443E-8B78-16B551064A61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94944",
+              "numeric-id": 94944
+            }
+          },
+          "hash": "0d9dbdbfbdab25c13d93777c6e7e4e49e44c2bbf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q95343$F9BF1BC7-C737-4775-BE0B-94C457E84790",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Umm Kulthum bint /Qasim/"
+            }
+          },
+          "hash": "fb734fe4a01324cd7f9f7fc8d3638a2ebcba217f",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q95343$FE43ECFC-B13E-4812-BE96-1C1D39C9C4AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q95343$EF9CA4DC-E235-476D-9FE5-B3E2F4F7513C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q95343$7A9F29B1-5087-415B-B756-1B2E43E19903",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039181453043"
+          },
+          "hash": "7caa9a3694b648e940bbe14b8cd7903ccec671c3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q95343",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Umm Kulthum daughter of  Qasim"
+    }
+  },
+  "lastrevid": 17510123,
+  "modified": "2025-09-17T00:23:33Z",
+  "ns": 860,
+  "pageid": 111297,
+  "sitelinks": {},
+  "title": "Item:Q95343",
+  "type": "item"
+}

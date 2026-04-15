@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "הכהן רפא"
+      },
+      {
+        "language": "en",
+        "value": "The priest Rafa"
+      },
+      {
+        "language": "en",
+        "value": "Yakov ben Natronai HaKohen"
+      },
+      {
+        "language": "en",
+        "value": "הכהן רפא Gaon of Sura"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q94273$01678CC5-079A-4AA5-81C1-55B660B0AD84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94503",
+              "numeric-id": 94503
+            }
+          },
+          "hash": "7d98eade8968eacbb0b92196d3f45d194fa1f3f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q94273$2125F7A7-3E9D-4499-A7D2-86FD2FDFCF48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94273$223E85E5-C6DB-47D1-8B6B-79BCFF90173C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q94273$FAE85C4E-B333-4105-87CB-5C69030633F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94054",
+              "numeric-id": 94054
+            }
+          },
+          "hash": "fb7706d30fd9382c513620fa382887b2da5cbc4c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q94273$A36DEC6F-D08D-46A9-BC6E-127E58E5FDF7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "/הכהן רפא/"
+            }
+          },
+          "hash": "aa5571c2db22b57ff943c22c8eff90ffbb809ff3",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q94273$DD900FD7-3DC8-4495-B171-2C20713DBDF8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaon of Sura"
+          },
+          "hash": "40b27570c8bb174bfb5373f5f227b52fcf139092",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q94273$24FE9842-2D1D-40CD-957A-B676A2FB28A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q94273$B5D6309D-781A-45A3-9AA9-9C6CB1CBDEB4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q94273$5EE31D02-58FB-4268-A192-2A5130AFCDF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q94273$857BB579-E5D8-4E87-BD08-FC3DCC438686",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000169605726992"
+          },
+          "hash": "dbb971dacbeb0ef1a658bebda16a5a7bcb49b89f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q94273",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yakov ben Natronai HaKohen"
+    }
+  },
+  "lastrevid": 17509059,
+  "modified": "2025-09-17T00:07:47Z",
+  "ns": 860,
+  "pageid": 109851,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q94273",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q94273"
+    }
+  },
+  "title": "Item:Q94273",
+  "type": "item"
+}
