@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artasyrus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q78974$2DDDAB4F-CC14-44EB-896B-46B62D56645E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737834"
+          },
+          "hash": "fdd7519dd117c4da7ff7b2f5680d3fa50a4390ac",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78974$5017C873-08AA-4B22-9621-55C697EF6366",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78953",
+              "numeric-id": 78953
+            }
+          },
+          "hash": "7824f8208412939b9d4c898875c47bcfff00b11a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78974$757BDCE7-AB47-408A-B793-EFC27D906882",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78974$6EFBD076-F48E-4F5C-94E9-02425270B637",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q78974$945F80C9-FEA1-4EEF-B0AB-823F1851D2E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Artasyrus_(1)"
+          },
+          "hash": "4c00fdd32a7414b7f39d879db9b790c587419f49",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q78974$D09DF841-18DF-4317-8EA9-E98C3BF4B470",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Satrap of Armenia"
+          },
+          "hash": "f850b257d53044b824f3f10b11c322cbe904e435",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78974$BC04FD3B-294B-452D-9D52-94F616A5888A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78974$02282E7E-047D-4EBA-AF7D-E429E8539395",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78974$DAA9A364-4257-4630-95C6-B7AEB1C10E43",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78974$572F6D58-CDF6-4E14-9F63-5392BE9A6ACA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q706174"
+          },
+          "hash": "6cc965cad9f073e34714911bff79efb63625493b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78974$A4473E40-BEB9-4C9F-B19D-170871C06C02",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001354419384"
+          },
+          "hash": "6d43a57a3cf68ebc2ae36edb8ba133a78915971f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78974$A638B453-6BB3-4A94-AAE1-34A79FB37AC5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artasyrus Arms.svg"
+          },
+          "hash": "dacfedeaa8e709432aec51e53b576150ade054a8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "escritor armeniu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "escriptor armeni"
+    },
+    "de": {
+      "language": "de",
+      "value": "Feldherr und Beamter im persischen Großreich der Achämeniden"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Satrap of Armenia"
+    },
+    "es": {
+      "language": "es",
+      "value": "escritor armenio"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "idazle armeniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "écrivain arménien"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "escritor armenio"
+    },
+    "it": {
+      "language": "it",
+      "value": "scrittore armeno"
+    }
+  },
+  "id": "Q78974",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Artasiras"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "آرداشیر اروندی"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artasyras"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρτάσυρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artasyrus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Artasyrus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Artasyrus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ardashir Orontid"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اردشیر اروندی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artasyrus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ardashir Orontid"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտաշիր Երվանդունի"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artasiro"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არტაშირ ერვანდუნი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artasyras"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artasiro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artasiro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арташир (сатрап Армении)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿塔西拉斯"
+    }
+  },
+  "lastrevid": 17492962,
+  "modified": "2025-09-16T20:20:46Z",
+  "ns": 860,
+  "pageid": 93805,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78974",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78974"
+    }
+  },
+  "title": "Item:Q78974",
+  "type": "item"
+}

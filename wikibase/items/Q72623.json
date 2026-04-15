@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Junrong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72623$5BB2D807-E48F-4476-9715-414741FCA9F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77435",
+              "numeric-id": 77435
+            }
+          },
+          "hash": "420d7369d4c93354cfb795697c15853d257e0c16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72623$BBF95B8A-F284-4B31-9597-3B0838805857",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72623$A97AE5D8-9DEA-4310-A22D-A3263C65FC0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72623$860C444A-63E2-4181-8270-E961070753C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72620",
+              "numeric-id": 72620
+            }
+          },
+          "hash": "e8d4b19469deb4cfa1d9f7ad64fade654ffd7f22",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72623$300BDCD4-B8EE-4FF8-8CBD-743EB32C167A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67661",
+              "numeric-id": 67661
+            }
+          },
+          "hash": "a99abbb14e7ddadf8ce23f3997c4e3c0508a5a10",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72623$753ECD0C-4721-41DD-A61A-FD5E924020BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72623$E1E8EA50-FD12-47CC-B70A-E14C20FE1FDF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0607-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dccdf3c3ffc527e1bcf3e7affac0785903a635b8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72623$42122D0B-5607-4BC2-B250-4BA2706B8D7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45588820"
+          },
+          "hash": "ff301cf2f84dd7ebb7db82c3915f083474a47ac9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72623$4B372776-E61D-4FE5-A2AA-A6819FE8A020",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000055819896913"
+          },
+          "hash": "981e3e2c88b28b96336cc017e26712cb955e9d76",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72623$3F14A42D-6584-475B-A188-1DBC4FFA8565",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Junrong Arms.svg"
+          },
+          "hash": "cd1f385b3a753d5616275fd06ed2ad3d30ca396f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 174200"
+    }
+  },
+  "id": "Q72623",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Junrong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Junrong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Junrong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李君榮"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Junrong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李君榮"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李君荣"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李君榮"
+    }
+  },
+  "lastrevid": 17485148,
+  "modified": "2025-09-16T18:30:49Z",
+  "ns": 860,
+  "pageid": 87454,
+  "sitelinks": {},
+  "title": "Item:Q72623",
+  "type": "item"
+}

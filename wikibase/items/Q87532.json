@@ -1,0 +1,802 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Αντίοχος \"Γρυπός\" /./"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus Grypus Philometer ."
+      },
+      {
+        "language": "en",
+        "value": "Αντίοχος \"Γρυπός\" ."
+      },
+      {
+        "language": "en",
+        "value": "Αντίοχος \"Γρυπός\"  ."
+      },
+      {
+        "language": "en",
+        "value": "Αντίοχος \"Γρυπός\"  . Η' Φιλομήτωρ της Συρ&..."
+      },
+      {
+        "language": "en",
+        "value": "Antiochus VIII Grypus"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus VIII, ruler of the Seleucid Empire"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72891$12E64CD3-BFD7-4321-9B35-C2B57E5AEA8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "376414"
+          },
+          "hash": "3b06df11e02f1a3f7b4bb30011194aaca548de7f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72891$F398FE3C-BF62-4589-A6D9-5D2158D53D10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567210"
+          },
+          "hash": "cf3edbcd8a9bb53c760e49443ae68f289a0386fc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72891$155FB76D-E93D-43E2-A252-4783E0738107",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72720",
+              "numeric-id": 72720
+            }
+          },
+          "hash": "6581b0f6fa1591e239ddbfc2bfbefa6ebd610ff1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$939B7AC3-C279-4D97-B464-80FA2E7A1ACC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136168",
+              "numeric-id": 136168
+            }
+          },
+          "hash": "b7892ddaf0ba96f81b30ebe70e6e2c1287c2927a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$61784E5F-4CD0-4D64-AE5C-0086C0F8F4B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136167",
+              "numeric-id": 136167
+            }
+          },
+          "hash": "b28c5066783aa588aaea9fb82b94533bdb4c9bfa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$A73D26FD-6DA6-46AA-8808-B5BDDBA02657",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136166",
+              "numeric-id": 136166
+            }
+          },
+          "hash": "b48338f2562ae31f28cc4ff06ac7686529742c8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$D8067ED1-0D96-4D6B-969D-18184F6A8B51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136165",
+              "numeric-id": 136165
+            }
+          },
+          "hash": "6b00f4438a668bfa4b4e3108ee6c06ffc2567ef5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$5AAC6C86-537F-4EEA-A0D6-7348B38A059D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136163",
+              "numeric-id": 136163
+            }
+          },
+          "hash": "833da3e83ed2ff1fafa4fc69a2a774da3f47e567",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$63815B15-6788-4AD0-B521-63DF6A69F63F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165504",
+              "numeric-id": 165504
+            }
+          },
+          "hash": "7562007afe7f8a11870047c8a458df7b01324d15",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$1812FE5F-96FA-43F8-9724-CDC024855D5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165505",
+              "numeric-id": 165505
+            }
+          },
+          "hash": "df75ac7474e343b3d26694e2e896f43dd68b75b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$BB602CA3-F5D4-4CA8-90C4-164885AFA65F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165506",
+              "numeric-id": 165506
+            }
+          },
+          "hash": "45b8d8aa71416610681fbc39633c2de485736391",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$8148745A-43EE-4AA7-A312-9E910F9EC28D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165507",
+              "numeric-id": 165507
+            }
+          },
+          "hash": "2cb9ebdb05b041fb2f9056e71f3a6306740344b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$8F24D5B1-BFBF-49A7-B4E4-16CFFA36187F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165508",
+              "numeric-id": 165508
+            }
+          },
+          "hash": "7c56aff3178b7130f902670791d890b278fe82bf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72891$7AD626F1-F91D-4C5B-96AA-ADD30E4130EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$4136DADE-4B7C-420A-B182-A3BA17EB3215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72891$760B2BD9-A438-4AF4-AB81-65F0FE123773",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_VIII_Grypus_(1)"
+          },
+          "hash": "21b1b8a02a6ad4bd25c57be5ce177cea7294d313",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72891$B18FE582-3E96-46AE-AFEF-F58E518782D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72888",
+              "numeric-id": 72888
+            }
+          },
+          "hash": "c1479d7c88680836dea30d3f7691bf40d75f244c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$D2FC33EF-8839-452B-80B1-33C6326E85C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78252",
+              "numeric-id": 78252
+            }
+          },
+          "hash": "6f5db8e796e2fba01e0beb9b76b3a8e6d7ee0430",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$09C16E0E-1305-40C9-BC51-3FA054B229E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135922",
+              "numeric-id": 135922
+            }
+          },
+          "hash": "34150bf05a3f1ea443efd9d4fbba9f87fc08c1a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72891$EAF696E7-6ED2-4570-A90A-F6AE109DD163",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78716",
+              "numeric-id": 78716
+            }
+          },
+          "hash": "9df78429441b6bf6ecb62bf779b8388eb93a7b0f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72891$FE5C64D6-A0AC-47CB-9168-9C75C8653237",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Η' Φιλομήτωρ της Συρ&..."
+          },
+          "hash": "b991a893432536f2b52c175c4d47e8770ba20d36",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72891$7EF713BF-815F-4287-9E8D-49237F0C1407",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72891$F338CF94-5366-424F-B828-B8B48DD1F104",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0141-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "78784a7f5f9ff7d60d9eec053dd03b2e3f2335ee",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72891$8239CA5D-9EBD-4FD7-98E7-020A8E37D666",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0096-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0defa9c47d9bd3776ae0b86390838366a212f0ad",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72891$F19D0033-9D65-4C85-B408-4ED58AB1F3EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q311112"
+          },
+          "hash": "5597e5a56bcb936e510862fbab50a9d4737d5791",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72891$F2B4989A-42E2-4C74-9487-AAE78708F336",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645859300"
+          },
+          "hash": "4b756432a4d61948bfefdc0ad79fc1eab29b6ef2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72891$820AD198-0256-4E16-844D-0CAF8ED1F04B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus VIII Grypus Arms.svg"
+          },
+          "hash": "b6828f2f9751e645a7aea34cabb2dcb1d8b7fd84",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "sobirà de l'Imperi Selèucida"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der Seleukiden, Sohn von Demetrios II. und Kleopatra Thea"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seleucid Empire politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Siria (125 a.C. - 96 a.C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 125-96 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Seleucidische rijk (141v Chr-96v Chr)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Selevkidov, sin Demetrija II. in Kleopatre Tee"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av seleukiderriket"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Selefkî hükümdarı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цар Сирії"
+    }
+  },
+  "id": "Q72891",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الثامن"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس التامن"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх VIII Грып"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох VIII Грюпос"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc VIII Grip"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antiochos VIII. Grypos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 8. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos VIII."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Η' Γρυπός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus VIII Grypus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antioĥo la 8-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco VIII Gripo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko VIII.a Grifo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس هشتم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos VIII Grypos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos VIII"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aintíochas VIII Grypus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Antíoco VIII Grifo"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס השמיני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VIII. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos VIII Grypos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco VIII"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオクス8世・グリプス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus VIII Philometor"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos VIII Grypus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus VIII Grypos"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antiokos VIII Grypus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch VIII Grypos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco VIII Filometor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco VIII Filometor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох VIII Грип"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh VIII Grip"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antioh VIII."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох VIII Грип"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos VIII"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VIII. Antiohos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох VIII Гріп"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos VIII Grypos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安条克八世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克八世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克八世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克八世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克八世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克八世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克八世"
+    }
+  },
+  "lastrevid": 17614295,
+  "modified": "2025-09-21T04:33:52Z",
+  "ns": 860,
+  "pageid": 87722,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72891",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72891"
+    }
+  },
+  "title": "Item:Q72891",
+  "type": "item"
+}

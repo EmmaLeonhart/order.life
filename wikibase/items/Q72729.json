@@ -1,0 +1,534 @@
+{
+  "aliases": {
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Ariobàrzanes I Filoromà"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariobarzanes"
+      },
+      {
+        "language": "en",
+        "value": "Ariobarzane I"
+      },
+      {
+        "language": "en",
+        "value": "Ἀριοβαρζάνης"
+      },
+      {
+        "language": "en",
+        "value": "Ἀριοβαρζάνης de Cappadoce"
+      },
+      {
+        "language": "en",
+        "value": "Ariobarzanes I of Cappadocia"
+      },
+      {
+        "language": "en",
+        "value": "Ariobarzanes I, king of Cappadocia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72729$D29E38E9-7FF9-4327-A1E2-77FA41D5137E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736265"
+          },
+          "hash": "a735c47281cca063862b43ef9680b60afcdda70c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72729$F4BDA173-5B88-4AF7-BC3D-C4F05CF04657",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72541",
+              "numeric-id": 72541
+            }
+          },
+          "hash": "76ddaa5da63fa73d1d4baeb738f2ac15e9ffd61a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72729$6E9C1CCF-1B2C-44CE-AEF1-76CB1EF37DB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137135",
+              "numeric-id": 137135
+            }
+          },
+          "hash": "10e829208fb464ab22fb3424d18cccf5071ea63b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72729$4A390177-EFAE-4598-A8C3-FE950726C9C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72729$BCC72D99-016D-4291-9771-D5B907285E7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72729$B92F8344-E783-41A6-B7AF-739AE5AFC74A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariobarzanes_I_of_Cappadocia_(1)"
+          },
+          "hash": "9ebeacb4f65ad27cd53517856a732ae9eae97ad3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72729$27868829-51CB-4DA0-8569-016697D23A98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72726",
+              "numeric-id": 72726
+            }
+          },
+          "hash": "1e52d1db41243615c9ae0488e9c40d8dc3ba33d7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72729$073016CD-E8E0-4D6C-945F-485C745B3F1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135324",
+              "numeric-id": 135324
+            }
+          },
+          "hash": "99ca24e6de6137be6e1ef66edfa7b59674125566",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72729$BCA77CC6-4096-4F7B-ACCE-9A3A26DA514E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "de Cappadoce"
+          },
+          "hash": "f7174f229f751130492cacbc54a68c467d45c2f3",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72729$1E2D27A2-55A2-45AB-8E1E-10A67ED51BA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72729$E1EBBCDD-56D3-4048-B918-0AC9BAA1838B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72729$19B709D8-CE6A-4E1D-BD1C-ADF3E6C4B7F4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72729$F9823790-7568-4862-8488-0DE8434E90D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q380371"
+          },
+          "hash": "8910d8bf5161476f695c205be64518f0b4ffdd9a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72729$43F9BED2-F39C-4D2A-9052-D53072F47011",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19997957"
+          },
+          "hash": "6aa3f998934653e48a43959acc22baa196b49b49",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72729$ADBAFECB-9D5A-464B-A105-6D17C16B0638",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005924906190"
+          },
+          "hash": "395b3c39f663ec8346ed5bdefaf3f5ad2f33eedd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q72729$EAE6B9D2-A9CC-44A5-973A-20F9B207EF0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52165"
+          },
+          "hash": "576b74e3bbf5fba35a0b884706d01ac65326a156",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72729$205A8B53-B8E8-4D53-8DD1-735DEECE330D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariobarzanes Arms.svg"
+          },
+          "hash": "0acfc6b534c4f5a5112e4099bd7d47152be57b62",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "comandant persa, fill d'Artabazos II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscher in Kappadokien"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Artabazos II"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه کاپادوکیه از ۹۵ تا ۶۳ یا ۶۲ پ.م. بود."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Cappadoce"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kappadókiai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Cappadocia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Каппадокії"
+    }
+  },
+  "id": "Q72729",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ariobarzanes I"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыябарзан I Філарамей"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ариобарзан I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariobàrzanes"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ariobarzanes 1. af Kappadokien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariobarzanes I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριοβαρζάνης Α΄ της Καππαδοκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariobarzanes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariobarzanes I de Capadocia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ariobarzanes I.a Filorromano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آریوبرزن یکم (کاپادوکیه)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ariobarzanes I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariobarzane Ier de Cappadoce"
+    },
+    "he": {
+      "language": "he",
+      "value": "אריוברזנס הראשון, מלך קפדוקיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Ariobarzanész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariobarzane I di Cappadocia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリオバルザネス1世"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Aryo Barzanê yekê yê Kapadokyayê"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariobarzanes I van Cappadocië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariobarzanes I Filoromajos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ariobarzanes Filorromano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ariobarzanes Filorromano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариобарзан I Филороман"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ariobarzan I od Kapadokije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ariobarzanes I of Cappadocia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ариобарзан I Филоромеј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariobarzanes I av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аріобарзан I Філоромей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ariobarzanes I của Cappadocia"
+    }
+  },
+  "lastrevid": 17485286,
+  "modified": "2025-09-16T18:32:45Z",
+  "ns": 860,
+  "pageid": 87560,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72729",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72729"
+    }
+  },
+  "title": "Item:Q72729",
+  "type": "item"
+}

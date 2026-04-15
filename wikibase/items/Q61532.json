@@ -1,0 +1,781 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavia Maximiana Theodora"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61532$B0289D9B-5133-4642-9B04-B338A510C41C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "169516"
+          },
+          "hash": "c4205e7d24041ae2ceea214639bf06deebeb8dc5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q61532$86E9954F-F7AE-4308-9EFC-17E4A24BAA6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00313516"
+          },
+          "hash": "23c397383db9ec0b9cbba73bd124789ea1b38905",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61532$C1CF6E06-5882-457C-87A9-7A85C7C0FB31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61301",
+              "numeric-id": 61301
+            }
+          },
+          "hash": "7f5e3f113b6cb36eba9a5a392af6d7d062975e57",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$9DC7416D-5437-42A1-8871-1F7DE151A3E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166426",
+              "numeric-id": 166426
+            }
+          },
+          "hash": "0d63ab1e4cad3026f85a8333a1f36814e20493c5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$4BD2C0B4-A779-4814-901C-92D9595E5387",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166427",
+              "numeric-id": 166427
+            }
+          },
+          "hash": "76f15ada15b7ebfce8524554ce930899125e38e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$EA72F538-83B9-462F-9AC4-DBFCAF039C30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166428",
+              "numeric-id": 166428
+            }
+          },
+          "hash": "39197ce389749d775683cdfafcdd0d01f761f087",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$C0FB3C5A-4DC3-4466-A228-3D6EC742FB6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166430",
+              "numeric-id": 166430
+            }
+          },
+          "hash": "17edb3d9dea48fb6bd0ce10dea7c6f5e57da87ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$846ACFEE-CED8-4CDF-9DE2-46F2F04092EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166431",
+              "numeric-id": 166431
+            }
+          },
+          "hash": "dd2a380a4c23d37e6bd05c2a7a76e86b4a51658f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$441E26BF-B3BF-4968-8749-01EB8A6F1E79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136511",
+              "numeric-id": 136511
+            }
+          },
+          "hash": "53c8912c9a928539cb5eebb5d525ac2006a62cbf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$21A68E93-BED8-442E-9920-D8E4BAAE68D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136506",
+              "numeric-id": 136506
+            }
+          },
+          "hash": "eea1f459a7d87443706a4b10b7750f63786c6159",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$73745D22-9692-4A96-8AAF-E553E8B031C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136508",
+              "numeric-id": 136508
+            }
+          },
+          "hash": "11d958d82327e37f2499696711f55acb80951f46",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$59079B8F-C113-4819-A877-B05CE027D828",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136507",
+              "numeric-id": 136507
+            }
+          },
+          "hash": "425fd5f6fb9ec74eb7548f66a1a27b6e2c220f93",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$DD57AD4C-BE08-469F-8772-2D70640BD458",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136510",
+              "numeric-id": 136510
+            }
+          },
+          "hash": "41ec7e88ae409671b2ffc8205c8f8f8548b93a72",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q61532$C2C70912-7145-412C-82A6-2D39482E265C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora-2"
+          },
+          "hash": "1e4c9d61071acbe60d1f7e3da44e4fe62db1e8c6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61532$BE5C9E2B-1549-4FF3-BF83-B4C23ABF1E5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$DD45F326-F60D-4243-8AD2-4E493947C8CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q61532$EFA4AA2F-60ED-4058-BEBC-C045FEE67923",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Flavia_Unknown_(2)"
+          },
+          "hash": "34442b9dc7c3acfec2a6d0ee2352764f36cf7c15",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61532$4E1C89C1-7874-46F6-9451-6C03D92A94BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61565",
+              "numeric-id": 61565
+            }
+          },
+          "hash": "cd49229a3aa5cba073d756f3f08fc5b4ae771a1e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61532$349DBDFC-7A72-4E49-9CA3-984AAF7B534A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61891",
+              "numeric-id": 61891
+            }
+          },
+          "hash": "a35851dec650850a1d0da4f3fc49d712a0e8e4c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61532$A212D438-35DA-4772-905F-3AA76005EF3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61598",
+              "numeric-id": 61598
+            }
+          },
+          "hash": "c6a4e67745400e6fb8746eda2e4f10252c522910",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q61532$3A6FD0F7-F4FA-43D9-B119-27E872A16C46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61631",
+              "numeric-id": 61631
+            }
+          },
+          "hash": "ddd52b4fc046f367d7729dcea3ea29833d50892b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61532$67E70EF6-D615-4E5D-9BCB-0B8D7E45E92C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61532$1C54177B-BFD8-4AE2-AE95-6C5A7833FCA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0270-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4de6e4c5e1457f369dedba5eb468671a54a90a69",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61532$FACC7DBC-3F8B-41BD-B358-37954DCF5A12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a0c9c32050284c7a2dea87e76132cc9116b52faa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61532$7061D266-E256-4052-BAD6-9F6FDC63F056",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q232094"
+          },
+          "hash": "1df78ecc7a915677af2c4aeef12af34579781498",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q61532$E921C1EE-1955-47B9-8A05-D63CAA88AE3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012560069447"
+          },
+          "hash": "abeaefeeded3e983521d04e91a6cdad7d94ee4b6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61532$CA9EAE72-27CC-4F08-93CC-01CAD80994EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Flavia Maximiana Theodora Arms.svg"
+          },
+          "hash": "47e9c94674224737ee25151f63eaec7a4fd41d0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q61532$49607372-8226-4B4F-962F-275ACCCA51B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/dc49f1af-01de-48e5-b2a5-792deb75be0b"
+          },
+          "hash": "0567593392c13ccaf74db22d605ec964411183f4",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "římská císařovna, manželka Constantia Chlora"
+    },
+    "de": {
+      "language": "de",
+      "value": "spätantike römische Kaiserin"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαία αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman empress, wife of Constantius Chlorus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Esposa del emperador Romano Constantino I"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Costanzo Cloro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Oude Rome (-)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rzymianka"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська імператорка"
+    }
+  },
+  "id": "Q61532",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فلافيا ماكسميانا تيودورا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فلافيا ماكسميانا تيودورا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Flavia Maximiana Teodora"
+    },
+    "be": {
+      "language": "be",
+      "value": "Флавія Максіміяна Феадора"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Флавия Максимиана Теодора"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Flàvia Maximiana Teodora"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "de": {
+      "language": "de",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φλαβία Μαξιμιανή Θεοδώρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "es": {
+      "language": "es",
+      "value": "Flavia Maximiana Teodora"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Flavia Maximiana Teodora"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فلاویا ماکسیمیانا تئودورا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodora"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Flavia Maximiana Teodora"
+    },
+    "he": {
+      "language": "he",
+      "value": "פלאביה מקסימיאנה תיאודורה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "id": {
+      "language": "id",
+      "value": "Flavia Maximiana Teodora"
+    },
+    "it": {
+      "language": "it",
+      "value": "Flavia Massimiana Teodora"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フラウィア・マクシミアナ・テオドラ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodora"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Flávia Maximiana Teodora"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Flávia Maximiana Teodora"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флавия Максимиана Феодора"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Flavija Maksimijana Teodora"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Флавија Максимијана Теодора"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Flavia Maximiana Theodora"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Флавія Максиміана Теодора"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "弗拉维娅·马克西米安娜·狄奥多拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "弗拉维娅·马克西米安娜·狄奥多拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "弗拉维娅·马克西米安娜·狄奥多拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "弗拉維婭·馬克西米安娜·狄奧多拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "弗拉維婭·馬克西米安娜·狄奧多拉"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "弗拉维娅·马克西米安娜·狄奥多拉"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "弗拉維婭·馬克西米安娜·狄奧多拉"
+    }
+  },
+  "lastrevid": 17471092,
+  "modified": "2025-09-16T15:05:05Z",
+  "ns": 860,
+  "pageid": 76363,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q61532",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q61532"
+    }
+  },
+  "title": "Item:Q61532",
+  "type": "item"
+}

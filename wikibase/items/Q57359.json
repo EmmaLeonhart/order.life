@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Murayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q57359$4B4892D2-2942-4DE4-962D-A2C2B084838E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57359$FCC99D3A-B172-450F-BE79-923469A0DA18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q57359$C2C1F15F-B3AE-4B32-BC13-5598F7C0954F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49465",
+              "numeric-id": 49465
+            }
+          },
+          "hash": "7b3b9a580f75d6d69ccff92cafee9eb6679464f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57359$C35B4423-6A60-4FC5-A6F0-4618D4774897",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57359$22AA6EF4-3078-414B-B950-6265670E66FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1778-04-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3adc9173d5f75f52623b8fb41821adfad0f39fee",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57359$2803A8B9-7F77-49A5-A9F4-72447322A2AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1820-09-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c2b94e48392c4336d4c4a7b8327b24ff143561e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57359$C1B055B3-C600-4EDC-9078-DEB07FBD15B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380818"
+          },
+          "hash": "681b1d551d22cd48814ef6748ea0cf96efb5c91c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57359$EC54B62D-28E0-4000-84EA-C802C06B335E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Murayoshi Arms.svg"
+          },
+          "hash": "69d051308e4c994230367b0a26b054aafb162e41",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q57359",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Murayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達村芳"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мураёси Датэ"
+    }
+  },
+  "lastrevid": 17465928,
+  "modified": "2025-09-16T13:47:45Z",
+  "ns": 860,
+  "pageid": 72190,
+  "sitelinks": {},
+  "title": "Item:Q57359",
+  "type": "item"
+}

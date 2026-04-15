@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Shenyan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q67057$C6E18F49-9B5B-46E6-8745-1AE984CB6A7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71989",
+              "numeric-id": 71989
+            }
+          },
+          "hash": "536eb0fe2af73ffa026c1631f314ad5226cf1bdb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67057$BD275F96-E381-4C1E-9D58-7E993A1DFF78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71992",
+              "numeric-id": 71992
+            }
+          },
+          "hash": "cdfc7a8f389b6039e9674f3a676ecee69e1d013a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67057$7F72156D-7503-4B32-B7EC-C85F50B5B496",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71995",
+              "numeric-id": 71995
+            }
+          },
+          "hash": "ab952a89a5ecfc3f4387045b90763e9c0b101de4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q67057$DAA3480C-8BC6-494F-834B-DA6B703198C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67057$65B8E9AC-DB30-4F8D-BFFE-57DCDA2F6C7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67057$C2F3598D-A97F-4EA4-87A3-80728469F17B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61323",
+              "numeric-id": 61323
+            }
+          },
+          "hash": "7786ed077217038eed7c4cb2961f462e1f780c84",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67057$DE8C77AC-A5A8-4814-AE60-E33541CCEBE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67057$ACE86697-FBC1-4955-BC0B-61116F6C7FF0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0750-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebbc090087ef0813f7c21a5cd835c867ce7c93ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67057$5FCDDB97-1C82-49D7-9A68-C9927D8A8883",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45475523"
+          },
+          "hash": "48acf9b5b6bb3eb41bd3767b9e417ceb62b2d931",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67057$C61B1658-1B6F-4120-ABE7-6BAF7473DA21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Shenyan Arms.svg"
+          },
+          "hash": "612226942da3559749daf7e8fad988844546c5f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172135"
+    }
+  },
+  "id": "Q67057",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Shenyan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Shenyan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Shenyan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇審言"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Shenyan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇審言"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦审言"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇審言"
+    }
+  },
+  "lastrevid": 17478020,
+  "modified": "2025-09-16T16:50:48Z",
+  "ns": 860,
+  "pageid": 81888,
+  "sitelinks": {},
+  "title": "Item:Q67057",
+  "type": "item"
+}

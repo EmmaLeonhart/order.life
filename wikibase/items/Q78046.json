@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manabe Akisane"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q78046$4F8DDEB9-659A-499D-92DF-AE4895F5DECE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "間部-21"
+          },
+          "hash": "def911761c0ae2b4ea76499db9cc03b391efff3a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78046$BA14950C-3502-4A87-963B-758CDC1CF51C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78046$ACC9C1EC-E554-4F68-8A10-2519026DDE93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78046$B1665105-3217-4192-958C-1960FD65D720",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73213",
+              "numeric-id": 73213
+            }
+          },
+          "hash": "b6be76759834cb6accbf56e1b9f0aa97cc79b826",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78046$4E854A4B-F099-4510-9EA3-728A0A7BCA9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78046$3D88365B-53ED-4E5E-9BEC-B1CB13A9F113",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1790-02-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d488118349badf1631f88db3a7f490ff746327f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78046$4F2DBDD5-DD03-4FB2-A9CE-77B44906B989",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1814-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c44650095541506083fbef7965d7d4348e0c035",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78046$EE41E3C0-EB89-4181-B439-FDC8E2E67C7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11655468"
+          },
+          "hash": "3b85a85699eb7f35f01e82b7b672c8db49ea173e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78046$B5C105A3-912A-4C4F-AA96-1B1C6F967D1F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manabe Akisane Arms.svg"
+          },
+          "hash": "6deb4025930cab08774a5c8ab2074ac2a258c56c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1790-1814)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "越前鯖江藩6代藩主。間部家7代。間部詮熙の長男。従五位下・主膳正"
+    }
+  },
+  "id": "Q78046",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Manabe Akisane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manabe Akisane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manabe Akisane"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manabe Akisane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "間部詮允"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акисанэ Манабэ"
+    }
+  },
+  "lastrevid": 17492026,
+  "modified": "2025-09-16T20:07:33Z",
+  "ns": 860,
+  "pageid": 92877,
+  "sitelinks": {},
+  "title": "Item:Q78046",
+  "type": "item"
+}

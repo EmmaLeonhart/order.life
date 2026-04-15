@@ -1,0 +1,653 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavia Justina ."
+      },
+      {
+        "language": "en",
+        "value": "Flavia Justina"
+      },
+      {
+        "language": "en",
+        "value": "Justina"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73086$45284F28-F55C-4A5C-A994-8B2EAB581B1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "31824"
+          },
+          "hash": "320321b3880daed8cb655723c2598bbf21f692f3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73086$E4D729F5-C9F6-49A0-87C1-DE7A3D77919A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248957"
+          },
+          "hash": "36979c89e74d48b598b69587f0ef19d350ea52f8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73086$FCBCCD18-5E95-4EF5-8260-5366D043B207",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62668",
+              "numeric-id": 62668
+            }
+          },
+          "hash": "558d911ce736e1c1c459c6f4bc63ab2993f94498",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$BB3E34ED-5B7F-4F63-8C3A-E6F54CC52039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118478",
+              "numeric-id": 118478
+            }
+          },
+          "hash": "6fc6c5aef7ca317ac54dc715f182a82b1e11c8b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$E79C6C04-DD16-4F4C-BA67-7748C8FC7EB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118476",
+              "numeric-id": 118476
+            }
+          },
+          "hash": "a34baf9834f0a744c422222c7d87cf128a46d29e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$4A806854-D10A-48DE-8C9A-872AC07FA9A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166662",
+              "numeric-id": 166662
+            }
+          },
+          "hash": "257b56c26a0de7154a28b4f285c0183b9a262ffc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$1D8E93D6-7CC7-492F-A3C7-CD53697D2F6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166664",
+              "numeric-id": 166664
+            }
+          },
+          "hash": "b2b70a4d8e8a52b66720e971fa642618cce6fbfa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$5C9F8EB9-8C0B-4B32-B091-417757F402E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166665",
+              "numeric-id": 166665
+            }
+          },
+          "hash": "c50a7064bac91db8a05f9436b6a1939da6a177a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$80858A9E-3B4C-4570-BE7E-171DE8B6E3FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166666",
+              "numeric-id": 166666
+            }
+          },
+          "hash": "f47bd3536112de57bba675fefea9ba706be2b2ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q73086$D17290F0-0CA6-4A38-AC41-C1081FCBD8AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Justina-5"
+          },
+          "hash": "63b214899d18ba36924ce55e1065d6098928fe75",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73086$687BDBB1-1D88-4243-9FBC-C3B3E492EEEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$1A873843-FDA0-4B3E-9F3F-B39478579DD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73086$D68EBB26-AD36-4A8C-BAA2-0BAD4405613A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Justina_Of_Rome_(1)"
+          },
+          "hash": "f96bbf41143c7eb2e3f3e20cbdebf61087225d73",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73086$221996E0-32D6-4AFE-985A-9397D85CF7A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73089",
+              "numeric-id": 73089
+            }
+          },
+          "hash": "16b1fe06f5f32b7b177a353c708a7534a0be7895",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73086$79131AC4-B479-4FA4-BCE8-51E3C76964B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123630",
+              "numeric-id": 123630
+            }
+          },
+          "hash": "6337298df78091c9c7d201aebac8a597995cf741",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73086$AD658DAE-F9A0-495E-B63F-6C5009E815B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60944",
+              "numeric-id": 60944
+            }
+          },
+          "hash": "752cdd3659585e41278c34901bcb6a1352069e9a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73086$D10BC514-7429-41E1-A5F5-D7648DF966A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60974",
+              "numeric-id": 60974
+            }
+          },
+          "hash": "6dd0cf56509dada76b76d55206df08a51536ac73",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q73086$B5B50C0A-B03E-413B-A25B-6BD18B9535A9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman Empress"
+          },
+          "hash": "25d180b7e2546b13b70d2df6044c1d66f353bf6d",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73086$32017B00-05AA-41E0-925E-923E17EBB071",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73086$FF045E4C-B2C6-4205-9FDF-4AE48408D9AA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b25d6a5bd14cdc6596403ea6b972ca928cb2a01",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73086$9DFD771A-9590-4B12-9BD2-E61BA1E710BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0388-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4bc2781855a68278f6a60a9367f7408bc8e64ef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73086$7FD78A71-609D-4001-B353-703FBFD63CA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q254471"
+          },
+          "hash": "11a480933c966256989fec81c1a9382d144db450",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73086$5D766AFD-3041-426F-933A-43D5ABA7002D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003858782342"
+          },
+          "hash": "69d50f9c6bf445fdb4647fffd711bb1e1cfeac8f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73086$A68120BE-A518-44A3-85C8-4FE64EF2F7BA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Justina Arms.svg"
+          },
+          "hash": "85fa8329cfbb229cf2e8f7425865228bbd3b591a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "segona esposa de l'emperador Valentinià I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římská císařovna"
+    },
+    "de": {
+      "language": "de",
+      "value": "zweite Frau des römischen Kaisers Valentinian I. und Mutter von Valentinian II."
+    },
+    "el": {
+      "language": "el",
+      "value": "δεύτερη σύζυγος του ρωμαίου αυτοκράτορα Βαλεντινιανού Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman empress as the wife of Valentinian I"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice dans la Rome Antique"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana, moglie di Valentiniano I e madre di Valentiniano II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "regentes uit Oude Rome (-388)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императрица"
+    }
+  },
+  "id": "Q73086",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جاستن"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Justina"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юстина"
+    },
+    "br": {
+      "language": "br",
+      "value": "Justina"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Justina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Justina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Justina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουστίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Justina"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Justina"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Justina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Justina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یوستینا (امپراتریس)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Justine"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giustina"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユスティナ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iustina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iustina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Justyna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Justina (imperatriz)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Justina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юстина"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Justina"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Justina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юстина"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尤斯提娜"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "优斯提那"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "優斯提那"
+    }
+  },
+  "lastrevid": 17485754,
+  "modified": "2025-09-16T18:39:22Z",
+  "ns": 860,
+  "pageid": 87917,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73086",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73086"
+    }
+  },
+  "title": "Item:Q73086",
+  "type": "item"
+}

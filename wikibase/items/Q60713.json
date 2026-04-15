@@ -1,0 +1,624 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Athenaïs \\ Aelia Eudocia Augusta ."
+      },
+      {
+        "language": "en",
+        "value": "Aelia Eudocia Augusta"
+      },
+      {
+        "language": "en",
+        "value": "Aelia Eudocia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q60713$59C854A3-E3FE-4525-A722-AE9EC5B889F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "704500"
+          },
+          "hash": "40393247cc297ee47b75714efe3a7a7968845af8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q60713$97F9AF40-20E2-4B29-924F-A3513853E8EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248954"
+          },
+          "hash": "62e64092addc2c7e47c9ecf6478efe093cf20b4a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q60713$D4740580-48B2-464B-8016-8648E87E35BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60518",
+              "numeric-id": 60518
+            }
+          },
+          "hash": "59adb63419bf4ae2ef238597c9e3add3dfbb3d51",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q60713$AACC2D71-9A84-4703-9B19-E01FAEE5A866",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eudocia-1"
+          },
+          "hash": "792679974061cdd44a95b80dedfc09d8381e20c3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60713$14B983E8-3DFA-4117-8CE1-920D75AD770B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60713$CBAFE301-DF09-41E8-BBE0-47609A3E012E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q60713$60F4F017-21A2-4481-9444-681DEA3723AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eudocia_Athenais_(1)"
+          },
+          "hash": "7b7f8f2bc1168143bd526d0bb7117f3bec3cf370",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q60713$1539D26A-8404-4FC1-9EB7-FB6C3BD0AA68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60680",
+              "numeric-id": 60680
+            }
+          },
+          "hash": "3af55e6fa27b47081f7137978e1a856f25d94dbf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60713$6CF58202-C154-4332-BB47-A3FB57082CB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62321",
+              "numeric-id": 62321
+            }
+          },
+          "hash": "d74aa306e1e511b921f3089de1948332ddcc5c18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q60713$802013B5-4939-4B01-B8DD-9AFA368D20C4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "./"
+          },
+          "hash": "73e076c9b6abcaef69aae2adf427cafe742d99cd",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60713$CD954683-4E9A-4919-ACC8-C124921816F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60713$4C097F59-B9A8-43A4-AB05-AE6AD3B8C332",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0401-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecd0b3ed6408515ad7c3c643e7fed582623778e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60713$4664D2E7-E217-487F-A4E7-833C63ED1AA3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0460-10-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a010c586bfd18a5e5f2b827ecb3881b781772c2a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60713$4455637E-B54A-477C-BF84-2AD41593A389",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q229307"
+          },
+          "hash": "71abb9ccb0b96d7ea9e6b3e11235105bee233fad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60713$8581C373-0066-412A-B3A8-FC50D7A358D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006267771300"
+          },
+          "hash": "926a1fe6f88e3e043bd0b31db85dc4da1b8fe0f0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60713$8324325E-638B-451D-8CF6-CBFB74958EA2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aelia Eudocia Arms.svg"
+          },
+          "hash": "3ee6d1c05a340a0d7873408816fabbee343dff37",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q60713$4A1D58A4-360E-4AB4-BF6B-8358E3DC2A70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/2AA6ED00-62FD-4992-940E-723BB18A5F06"
+          },
+          "hash": "077fda395bed8cfecc88a2309f6665caaf4b8bf9",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "císařovna Východořímské říše"
+    },
+    "de": {
+      "language": "de",
+      "value": "Frau des oströmischen Kaisers Theodosius II."
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek Eastern Roman Empress by marriage to Byzantine emperor Theodosius II (c.401-460)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "edzino de bizanca imperiestro Teodozio la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperatriz bizantina"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ekialdeko erromatar enperatriz kontsortea eta V. mendeko literatoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice byzantine"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו של קיסר ביזנטיון, חיה במאה הרביעית לספירה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci politikus, görög író, költő"
+    },
+    "id": {
+      "language": "id",
+      "value": "Istri Theodosius II"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana d'Oriente consorte di Teodosio II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "østromersk keiserinne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Byzantijns dichteres (????-0460)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "żona cesarza Teodozjusza II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperatriz-consorte romana do oriente, esposa do imperador Teodósio II. Eudócia foi uma importante figura história para entender a ascensão do cristianismo nos primeiros anos do que seria o Império Bizantino"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărăteasă bizantină"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "супруга императора Феодосия II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "östromersk kejsarinna"
+    }
+  },
+  "id": "Q60713",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إيليا أودوتشا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ايليا يودوكيا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Elia Eudocia"
+    },
+    "be": {
+      "language": "be",
+      "value": "Элія Еўдакія"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Елия Евдокия"
+    },
+    "br": {
+      "language": "br",
+      "value": "Aelia Eudocia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eudòxia Augusta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Aelia Eudocia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aelia Eudocia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aelia Eudocia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αιλία Ευδοκία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aelia Eudocia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aelia Eŭdocia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elia Eudocia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Elia Eudozia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aelia Eudocia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eudocie"
+    },
+    "he": {
+      "language": "he",
+      "value": "אליה אודוקיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aelia Eudocia"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aelia Eudocia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elia Eudocia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アエリア・エウドキア"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ელია ევდოკია"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಡೆಲಿಯ ಯುದೋಷಿಯಾ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아일리아 에우도키아"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aelia Eudocia"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Елија Евдокија"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aelia Eudocia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aelia Eudocia"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Aelia Eudocia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Atena Eudokia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aélia Eudócia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aélia Eudócia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Aelia Eudocia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Евдокия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Elija Eudokija"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Aelia Eudocia"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aelia Eudocia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Атенаида-Евдокија"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Атенаида-Евдокија"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Atenaida-Evdokija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aelia Eudocia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aelia Eudocia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Афінаїда"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ایلیا یوڈوشیا"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "欧多西亚"
+    }
+  },
+  "lastrevid": 17470000,
+  "modified": "2025-09-16T14:48:50Z",
+  "ns": 860,
+  "pageid": 75544,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q60713",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q60713"
+    }
+  },
+  "title": "Item:Q60713",
+  "type": "item"
+}

@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tian Jing"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q76928$12F0168D-56DF-4B54-AC98-DAA1D5A9D693",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72123",
+              "numeric-id": 72123
+            }
+          },
+          "hash": "1b99c5623f2cbd152b8eec945564433e68506f79",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76928$BD7B54BC-6562-42B3-8F2E-993FF2313FFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q81466",
+              "numeric-id": 81466
+            }
+          },
+          "hash": "fe1ffd2dad798abc3fd551fe7b136d8458b06dea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76928$D23A1363-59E7-4E85-8EAF-CD71220D16E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76928$F0C8FE01-9362-4461-AA79-34A0826C7F11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76928$8589324E-5D53-4284-B492-252B27DC7088",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q81463",
+              "numeric-id": 81463
+            }
+          },
+          "hash": "65d876b6db470cc383e65698f201e4d7099e7628",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76928$4445B03A-786B-4C51-94B8-ABEADD2B7D2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76928$27DA8DA4-7353-4DD9-85D9-588705721EB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0689-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e112826e3b4a5f6f07157284919d0a556ac3c620",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76928$15C4A26E-B22B-40EA-8695-CAEA1FF2CE69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45604177"
+          },
+          "hash": "423c4b0a18262f8f785bc4df4a6ea5dade63e42b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76928$2998ABF2-2BDF-4D05-9AA2-E056B0A17D9E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tian Jing Arms.svg"
+          },
+          "hash": "e8fcd2d3fd76a22d059285f3ab80bd4887efb1e0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 184955"
+    }
+  },
+  "id": "Q76928",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tian Jing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tian Jing"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tian Jing"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "田璟"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tian Jing"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "田璟"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "田璟"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "田璟"
+    }
+  },
+  "lastrevid": 17490606,
+  "modified": "2025-09-16T19:47:03Z",
+  "ns": 860,
+  "pageid": 91759,
+  "sitelinks": {},
+  "title": "Item:Q76928",
+  "type": "item"
+}

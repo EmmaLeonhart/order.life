@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Hongze"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q64231$F682785C-22FD-426B-87F5-778CC2ADE4FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69402",
+              "numeric-id": 69402
+            }
+          },
+          "hash": "a745378ae120f6cf4a58e0d75a68775122af2b5a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64231$9364CC43-43D3-4D2F-B888-F3E1CD3D5A33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69405",
+              "numeric-id": 69405
+            }
+          },
+          "hash": "530d698efe78455e8f77786f5a2ea2ac1bb2b5c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64231$B241E45A-3743-4827-9646-211E31903B12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69408",
+              "numeric-id": 69408
+            }
+          },
+          "hash": "ccd7939e9e13039855f7ae74d2c267b8da90f01f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64231$C06F21FE-64B4-4456-8834-6072E8E8A05F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69411",
+              "numeric-id": 69411
+            }
+          },
+          "hash": "80131ad9beb95175d39dfe0bdcb98c3bb07121aa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q64231$88D78C87-1C19-44EC-98BD-A6347E37DA29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64231$05482C26-EC43-4BAB-82B1-AC256BCB5545",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q64231$0C5EBD34-F9DA-4E57-AAD8-290744CDE7D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58860",
+              "numeric-id": 58860
+            }
+          },
+          "hash": "9836e5ef44dd028fe86dc614596bd71b38a0fc18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q64231$BE5CA639-6AEB-4952-AAF3-DF94A8DAD4F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q64231$3FC6C4DB-8B61-40F5-8A8E-DC46B8DDC7C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0806-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "417915b6c3304e417d59f9fff8322890a84e292f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q64231$B9518E3A-B42D-4BFB-98AA-62F51D0FE4D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45438152"
+          },
+          "hash": "0ff52f97a8b38dbf7899c6d16c4120bd05b7d7fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q64231$9F99B0F8-17F1-42FC-82E1-354F2395CBD6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Hongze Arms.svg"
+          },
+          "hash": "be62a1fae4e3f86d4d5986226d79df8dc889191e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187376"
+    }
+  },
+  "id": "Q64231",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Hongze"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Hongze"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李弘澤"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Hongze"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李弘澤"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李弘泽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李弘澤"
+    }
+  },
+  "lastrevid": 17474282,
+  "modified": "2025-09-16T15:54:44Z",
+  "ns": 860,
+  "pageid": 79062,
+  "sitelinks": {},
+  "title": "Item:Q64231",
+  "type": "item"
+}

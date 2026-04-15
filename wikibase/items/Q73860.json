@@ -1,0 +1,642 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Φίλα"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Φίλα"
+      },
+      {
+        "language": "en",
+        "value": "Phila"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73860$7589E35A-B39B-4CD7-A9EA-1B68600800C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "667006|753365"
+          },
+          "hash": "02618bc17a31a6047c3be41dcf336c43e8b364d4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73860$A6BA2D7B-2263-479F-9897-9FAB4930D16A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736322"
+          },
+          "hash": "ab92360bd8111c4858e6afd4bee5855e15d84fa0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73860$C30732E4-7885-4819-8B04-5AEC12773FC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73740",
+              "numeric-id": 73740
+            }
+          },
+          "hash": "48f225edbce6f4b2cb8479426ab96f984036655e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$2B801854-A670-4506-B79E-9D50E945A798",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135352",
+              "numeric-id": 135352
+            }
+          },
+          "hash": "79397dc442a42be139d85258d1bddd27e2bbb8ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$981B5D8C-6E91-4097-BC69-16C43538165C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135350",
+              "numeric-id": 135350
+            }
+          },
+          "hash": "2a95d0de8007bba3915f1938bd69a5b305c19680",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$0B450EEA-DAE8-4846-8E55-A5067171715E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165264",
+              "numeric-id": 165264
+            }
+          },
+          "hash": "74c4b02707eefd8cf4c09fbb090836c4f6da75c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$918D3D8F-90B0-434A-BEF2-AB5011DF23C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165265",
+              "numeric-id": 165265
+            }
+          },
+          "hash": "2c5b5a22bfb132073e8794d4fc8836b9e7adb1b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$8EA0E1A1-EFFB-4511-84CF-9AF3CCD47D63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165201",
+              "numeric-id": 165201
+            }
+          },
+          "hash": "5f96e3d9c4dc96d13059efdf23d918912bca3a2f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$E170F29A-0068-4FBE-8023-F2E2B0699E67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165202",
+              "numeric-id": 165202
+            }
+          },
+          "hash": "519b47a5df7a11522b93592b5b44b8d9ff8f22cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73860$AF81A381-C2F5-4989-8316-483778C67105",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$C91F08F5-D2CD-43E9-9F42-1611D0B9AB2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73860$049859DF-F9B8-461F-9404-1327208A2EA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Phila_(daughter_of_Antipater)_(1)"
+          },
+          "hash": "9008e96dcfcfc438aebe0939d3fe99d8c5d10ce7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73860$39BCA5D9-A6CB-4954-9508-4C851A391A4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73857",
+              "numeric-id": 73857
+            }
+          },
+          "hash": "aa68b073b2e2ac8b68c8bc2517c889a29aa5c493",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$49F5149C-BBCC-428E-B013-B76A51DB12C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135210",
+              "numeric-id": 135210
+            }
+          },
+          "hash": "be8f107d446b8e24fbc2b8d97eb7fcf477a093c6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$0C1200B1-B094-4C14-AFB6-AFCED4509EC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135349",
+              "numeric-id": 135349
+            }
+          },
+          "hash": "c20b84d0df27c80175a521fe95c81b014c6a6b59",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73860$1D6D683A-1D0B-450D-A8ED-1516551036D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165263",
+              "numeric-id": 165263
+            }
+          },
+          "hash": "9e4ba4400e16e0c6c49fc57a978656756842369c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73860$71AEC038-34E5-446B-BD04-CB929F4D00D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73830",
+              "numeric-id": 73830
+            }
+          },
+          "hash": "d05c4e291b09458740b54175d1bf1f9ab676ea93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73860$C0BDBB5E-10CD-43BB-B778-CEA8C2140CB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73860$EB41C199-32A7-4419-9E37-28D90695C3E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73860$95DE62C8-73F1-4AC1-9F8F-49E8C75852F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0287-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e5e7d97bd8c95eea342de3d1c749d8b5a702783",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73860$EE16BCD6-BAB1-4CDE-B55E-7AF5FAFE9BB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q269964"
+          },
+          "hash": "90c5cdbb5b51225402b1b17e680c3579e0cef613",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73860$62FBF893-91AD-463D-B8C6-29D076FEE5B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006820844039"
+          },
+          "hash": "cbdac73ef057d2d83cf55276d296ace3aea25baf",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73860$2234E334-0A47-4525-A25E-A228638793E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phila Arms.svg"
+          },
+          "hash": "4a3470d59b53d8e33d46fb26d561a47ed6e78b9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des Antipater, Ehefrau des Balakros, Krateros und Demetrios I. Poliorketes"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Antipater, the regent of Macedonia"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble macedonia, hija de Antípatro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille d'Antipater"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori görög nemesasszony"
+    },
+    "id": {
+      "language": "id",
+      "value": "phila (Putri antipartros)"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Demetrio I Poliorcete"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь Антипатра, жена Деметрия Полиоркета"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "makedonsk drottning"
+    }
+  },
+  "id": "Q73860",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Фила"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fila"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fila"
+    },
+    "de": {
+      "language": "de",
+      "value": "Phila"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phila"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fila"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phila Ire"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Φίλα"
+    },
+    "he": {
+      "language": "he",
+      "value": "פילה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Phila"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fila"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィラ (アンティパトロス1世の娘)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Phila Antipatri filia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phila"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fila"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fila"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фила"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fila"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fila"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філа"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phila"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "菲拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "菲拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "菲拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "菲拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "菲拉"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "菲拉"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "菲拉"
+    }
+  },
+  "lastrevid": 17486682,
+  "modified": "2025-09-16T18:52:37Z",
+  "ns": 860,
+  "pageid": 88691,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73860",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73860"
+    }
+  },
+  "title": "Item:Q73860",
+  "type": "item"
+}

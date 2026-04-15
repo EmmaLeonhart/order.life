@@ -1,0 +1,609 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sextus Claudius Petronius Probus"
+      },
+      {
+        "language": "en",
+        "value": "Petronius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q65002$68D8FBA9-3FEE-4217-B0FE-54889BC6E4E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "273313"
+          },
+          "hash": "acf68ada13795810a29bf08194d058ed7937b4a2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q65002$38CFA0B7-29D8-4158-A922-8EF9CF77C3A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00771208"
+          },
+          "hash": "6864200ed589960022298b41f2cd7bf58e653b7d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q65002$7C2B01CD-3E0D-4C89-98D5-CEE151D0A465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64169",
+              "numeric-id": 64169
+            }
+          },
+          "hash": "a9c0b20f3895186a76d49ac84625b7c0190aa42e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$214D94D6-0213-463A-A97D-7DF8B613A8CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75513",
+              "numeric-id": 75513
+            }
+          },
+          "hash": "8c4cbc056cd195b12ea04c80f22007655ce86d1b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$89F5485D-9538-4D5B-B226-8F416F89931A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75516",
+              "numeric-id": 75516
+            }
+          },
+          "hash": "49edb686970bcc3b35a7fec4c177d27abdb7667d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$4DC946D3-11C5-4CB0-BEF2-DCB15BBD180D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118446",
+              "numeric-id": 118446
+            }
+          },
+          "hash": "ae33ed03472185c3c30d42e97d1f8043b2bbe760",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$5E616CE2-AB04-4F91-8F27-AA562C849A33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114959",
+              "numeric-id": 114959
+            }
+          },
+          "hash": "fa2873e6c6414ac2182251dda70b6c90ecd9dce0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$AB308655-5586-4139-BDE3-42D896D7A241",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166453",
+              "numeric-id": 166453
+            }
+          },
+          "hash": "f77808a21fa70b488bbcc3a6168c0dc1eb230f42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$B2B97FBF-87B8-4184-8533-8E4093AF6EE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166455",
+              "numeric-id": 166455
+            }
+          },
+          "hash": "c6888f169aa8c1733f2f768e9e6d05c25a2163e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$A479AE06-E8B5-40D7-9821-81A80AAF9E34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166457",
+              "numeric-id": 166457
+            }
+          },
+          "hash": "b9e77d19737791a3df8154d5b3e564ce63de95a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$B9067D95-52AD-408A-989B-ACD0E5833427",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166458",
+              "numeric-id": 166458
+            }
+          },
+          "hash": "1b92457610dc832b77291b42dddbdad340e6bca3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q65002$7BE65547-CC72-415F-99DA-6144B5191216",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Probus-3"
+          },
+          "hash": "ac6e8abe135f024093f9d79de1c3c0e67e091522",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65002$BF869702-C0FB-42D7-B261-FDB15027553D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$4270883E-C4C4-4FA1-9318-14D4D6BAB1F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q65002$DDAEAD49-F982-4E88-84B4-2870810A1D72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sextus_Claudius_Petronius_Probus_(1)"
+          },
+          "hash": "7703ef8c8e0f0b46acd3cabc35aff441bcbc118f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q65002$B4B18EED-07D6-46A9-8218-4358EBE51AFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75522",
+              "numeric-id": 75522
+            }
+          },
+          "hash": "1ea850fb911df4d38ff4257313f5b8ed9d78ee97",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65002$37A42677-4134-4CDC-8C99-D08DDA7982D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66164",
+              "numeric-id": 66164
+            }
+          },
+          "hash": "8830d7449f8a21a4e05c1cc5165c0cb5285f2b78",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$F26DB56C-B614-41F5-86B2-5971BD41227D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75561",
+              "numeric-id": 75561
+            }
+          },
+          "hash": "6415901891b65648409fefdb5ce104d0cb8ae1ec",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q65002$59A3F398-50A6-4F64-A2D7-B9DDF69AFFF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75558",
+              "numeric-id": 75558
+            }
+          },
+          "hash": "f1d832691fb38ed5a96cf191b4d8123cfb0703d3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65002$6F9933BB-060E-42BE-8EB8-4AD9BA0A7F70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q65002$474BCBDE-1764-4802-AEDD-802B89EDF501",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0328-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b28f6feb939660008f7d21e47685075b21d2073d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65002$5E864F07-6B52-47B1-9114-FB534447A020",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0388-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4bc2781855a68278f6a60a9367f7408bc8e64ef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65002$38E1CFD6-9EAF-4835-BD07-A6DF1FE6A76F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1542092"
+          },
+          "hash": "ca5031f2f92d559aef0c84e9bce4f152107472d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q65002$8845012B-EC59-4C57-A3B8-C14320BA5A23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000030546565350"
+          },
+          "hash": "e17621341839479f48d446517237c525920fa3b7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65002$D4580468-D5B2-409E-89D2-AA3B09EE032A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000316744035"
+          },
+          "hash": "281adb316e2e1808cf77060d57970a6221a9ce45",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65002$1DF38CC3-43E5-4BAF-A4A3-80729F75325D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sextus Claudius Petronius Probus Arms.svg"
+          },
+          "hash": "5b53fa4020d79658824b0030a0e29004fd7d7a2b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "spätrömischer Aristokrat und Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "consul of the Roman Empire (328-388)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 371"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "cónsul do Imperio romano (328-388)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (328-388)"
+    }
+  },
+  "id": "Q65002",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Секст Клавдий Петроний Проб"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sextus Petronius Probus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέξτος Κλαύδιος Πετρόνιος Πρόβος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sextus Claudius Petronius Probus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sexto Claudio Petronio Probo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sextus Claudius Petronius Probus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sexto Petronio Probo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sexto Claudio Petronio Probo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sesto Claudio Petronio Probo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セクストゥス・クラウディウス・ペトロニウス・プロボス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sextus Claudius Petronius Probus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sextus Claudius Petronius Probus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Секст Клавдий Петроний Проб"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Секст Клавдій Петроній Проб"
+    }
+  },
+  "lastrevid": 17475296,
+  "modified": "2025-09-16T16:10:03Z",
+  "ns": 860,
+  "pageid": 79833,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q75531",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q75531"
+    }
+  },
+  "title": "Item:Q65002",
+  "type": "item"
+}

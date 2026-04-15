@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kexiang //"
+      },
+      {
+        "language": "en",
+        "value": "Kexiang"
+      },
+      {
+        "language": "en",
+        "value": "Kexiang   King of Wu"
+      },
+      {
+        "language": "en",
+        "value": "Ke Xiang   Ji"
+      },
+      {
+        "language": "en",
+        "value": "柯相  姬"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "Kexiang 柯相  King of Wu"
+      }
+    ]
+  },
+  "claims": {
+    "P1317": [
+      {
+        "id": "Q25437$BE04C335-4228-4B73-4A65-31189EAB3F57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0980-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd15c97969d6e8f3ad953917cd1631f031ec566a",
+          "property": "P1317",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25437$40D6A433-04D7-4B79-81A8-FA7A20ACFAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25451",
+              "numeric-id": 25451
+            }
+          },
+          "hash": "1103241bca91fd501c89026f67a600b2f25bd7af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25437$6D8C7A83-746E-4EBE-B1D9-193027094418",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25437$EF621831-9809-4C1F-A28B-BBFF4D540DC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25437$CC30E258-9624-4D1B-85A1-A293A695A116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25423",
+              "numeric-id": 25423
+            }
+          },
+          "hash": "0c486796ca610582d08141f97efc635b5dc61b7a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q25437$B1D9F3FC-6C8A-4847-B67D-7AF55B3D106E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Kexiang 柯相 /King of Wu/"
+            }
+          },
+          "hash": "a5351d16ddaa6bc1163c2fa851cad702fcff5a89",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25437$4AA72A0A-15C7-4103-90A2-899FF2FFF3FE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "柯相 /姬/"
+            }
+          },
+          "hash": "f2f804b432ebfcc8b7a92a545da02fcd6c7477f2",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25437$2E0A6948-9EAC-4262-9A10-CC5CB53C5FDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25437$548892CE-4F7A-76DA-4A69-AD660FA0FEEF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1036-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "48bb4a14b4fcad5a286b34ad03cbcbe01de252b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25437$FE5EC6E3-40AC-E13D-5640-E36AAA3DD513",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0976-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b636c6b05cf4200592274777685f2d87051e9bfc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25437$0BC76B46-1ACF-4D61-B617-A717A8750F7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6774847"
+          },
+          "hash": "6d3a27e87f95dffe12a74cf3ef4f8d3115a8edeb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25437$87C4EFB1-B934-4785-A600-65EDC856B7AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kexiang Arms.svg"
+          },
+          "hash": "8cb0b22349e47f0a0915922ada43076a2a7a44c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q25437",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kexiang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "柯相"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ngô Kha Tương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "柯相"
+    }
+  },
+  "lastrevid": 17424240,
+  "modified": "2025-09-16T03:41:51Z",
+  "ns": 860,
+  "pageid": 47081,
+  "sitelinks": {},
+  "title": "Item:Q25437",
+  "type": "item"
+}

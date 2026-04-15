@@ -1,0 +1,788 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavius Theodosius Augustus"
+      },
+      {
+        "language": "en",
+        "value": "Theodosius II, Eastern Roman Emperor"
+      },
+      {
+        "language": "en",
+        "value": "Theodosius II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q60680$FF4C91C1-CEE1-4B52-8010-93A715AF9C07",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "143779"
+          },
+          "hash": "919fb5de5818d101f8991b11cf812576d30e7042",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q60680$4125A024-2A21-4303-AB8E-4FD1F4B5E411",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248953"
+          },
+          "hash": "3376bddd850a649206e1b51aced72e8a019fe195",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q60680$DB8B6A81-D5A3-4EA9-A4E4-CE50999F1D92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60518",
+              "numeric-id": 60518
+            }
+          },
+          "hash": "59adb63419bf4ae2ef238597c9e3add3dfbb3d51",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q60680$A8BB1125-674F-40FD-8E5D-16BCE5DABB45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Of_Rome-67"
+          },
+          "hash": "afa8e54cdc5aec2ad3a38dca478cf8f85f76e59f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60680$26EC476A-D02F-4380-9D22-3D6DACC9DAB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60680$F5AFBEFC-2424-44C6-8921-DE61CD916DC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q60680$C9F6ECAC-1DD8-413F-A1B2-1F1074F3FA0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodosius_II_(1)"
+          },
+          "hash": "230f8b28275422e7c102c14c49a84d65ed429639",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q60680$54E4A417-3D7D-46F3-8D3E-4300B3262356",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60713",
+              "numeric-id": 60713
+            }
+          },
+          "hash": "454a410838ef49a1a99f25ade5fde24a31c1a373",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60680$72F546AF-83D1-4689-B63A-55E28F15F33F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61140",
+              "numeric-id": 61140
+            }
+          },
+          "hash": "b87912c54154dcc87597f08aec18b400fc9d82fe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q60680$9014521A-317D-40EC-8E24-8B9C6B661866",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61268",
+              "numeric-id": 61268
+            }
+          },
+          "hash": "9af812c3b4d3616fe3d3f21d85f235586f3e1c2d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60680$D71C79F4-F1EC-4199-8775-9749802F6533",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60680$AAA07A19-29BE-4176-9229-981C14493B96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0401-04-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b0869557279d375ea2a64ea0a1cc6a0f055d3df",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60680$55380BF6-E3E9-4FE3-B81D-C54C5F581AA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0450-07-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "682171a766947180c29ec838e61e7db1074d51f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60680$7E23E30D-0956-4BD7-81B1-37C6F391C48D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q160353"
+          },
+          "hash": "2f3f937a56f7f76231be145b39f37c802a0b2a46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60680$D8F4693B-31FA-431E-8FD3-CF9C8DE08D22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006267645324"
+          },
+          "hash": "555dfbec99f7eda484599eff98a040e216ed0521",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60680$FE0E136F-11CB-4E74-92BE-82EE446D2979",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodosius II Arms.svg"
+          },
+          "hash": "26bc1efc685001c4401f91a6207549bbc15fc37a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q60680$D70C39D2-B827-451A-8502-F5CD12B45127",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/97C024C4-5D1F-44F0-AE8B-4ED32219CFAC"
+          },
+          "hash": "85750ba04a6ca6fdb48ac4185f85b9b02ba8f03f",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور بيزنطي (401–450)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador bizantí de 408 a 450"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oströmischer Kaiser von 408-450"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine Emperor (401–450)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "bizanca imperiestro (401–450)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano de oriente (408-450)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Itä-Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur byzantin de 408 à 450"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Oströmische Kaiser"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר ביזנטי, בן ארקדיוס ואליה אודוקסיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "keletrómai császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi Timur yang memerintah dari tahun 408 hingga kematiannya pada tahun 450"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano d'Oriente (r. 408-450)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東ローマ帝国皇帝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Byzantijnse Rijk (401-450)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz wschodniorzymski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Perandor Romak i Lindjes (401-450)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "bysantinsk kejsare"
+    }
+  },
+  "id": "Q60680",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Theodosius II"
+    },
+    "an": {
+      "language": "an",
+      "value": "Teodosio II"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ثيودوسيوس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ثيودوسيوس التانى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی تئودئوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Феадосій II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теодосий II"
+    },
+    "br": {
+      "language": "br",
+      "value": "Theodosius II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teodosi II el Jove"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Theodosius II."
+    },
+    "cu": {
+      "language": "cu",
+      "value": "Ѳеодосій В' Мній"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Theodosius II"
+    },
+    "da": {
+      "language": "da",
+      "value": "Theodosius 2."
+    },
+    "de": {
+      "language": "de",
+      "value": "Theodosius II."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Theodosius II"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεοδόσιος Β´"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodosius II"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Teodozio la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodosio II"
+    },
+    "et": {
+      "language": "et",
+      "value": "Theodosius II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Teodosio II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تئودوسیوس دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Theodosius II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodose II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Teodosio II"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Theodosius II."
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Theodosius 2-sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "תאודוסיוס השני, קיסר האימפריה הביזנטית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teodozije II."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Theodosius bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թեոդոսիոս Բ Փոքր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Theodosius II"
+    },
+    "is": {
+      "language": "is",
+      "value": "Theodosius 2."
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodosio II di Bisanzio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テオドシウス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "თეოდოსიუს II"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Феодосий ІІ"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "فەودوسىيي ٴىى"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "فەودوسىيي ٴىى"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Феодосий ІІ"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Феодосий ІІ"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Feodosïý İİ"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Feodosïý İİ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "테오도시우스 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Theodosius II"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Teodosijus II"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Теодосиј II"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "थियोडॉसियस, पवित्र रोमन सम्राट"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Theodosius II"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Theodosius 2-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Theodosius II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodosius II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Theodosius II av Austromarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Teodòsi II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodozjusz II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teodósio II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teodósio II"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Teodosiu al II-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодосий II"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Theodosius II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Teodosije II"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Theodosius II."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Teodozij II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Teodosi II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодосије II"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Теодосије II"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Teodosije II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theodosius II"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Theodosius II"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิเทออดอซิอุสที่ 2"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Theodosius II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Theodosius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Феодосій II"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تھیوڈوسیئس دوم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Theodosius II"
+    },
+    "war": {
+      "language": "war",
+      "value": "Theodosius II"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "狄奥多西二世"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "狄奧多西二世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "狄奧多西二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "狄奥多西二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "狄奥多西二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "狄奧多西二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "狄奧多西二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "狄奥多西二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "狄奧多西二世"
+    }
+  },
+  "lastrevid": 17469956,
+  "modified": "2025-09-16T14:48:11Z",
+  "ns": 860,
+  "pageid": 75511,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q60680",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q60680"
+    }
+  },
+  "title": "Item:Q60680",
+  "type": "item"
+}

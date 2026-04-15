@@ -1,0 +1,934 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Πτολεμαῖος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy"
+      },
+      {
+        "language": "en",
+        "value": "Πτολεμαῖος"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy II Philadelphus"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy II Philadelphus, Pharaoh of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73614$3E6AF1F2-A236-4578-8136-FDDCDC7EE94C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "115913"
+          },
+          "hash": "a0f5cec60bdbd7f5968d084f9788c9dac572b571",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73614$2FC24FEE-2A80-40E2-A5F4-D68522EC9CD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567190"
+          },
+          "hash": "a9eb894f632aeac29a5266fe04c065240b2d047e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73614$C2D6FAB4-32DB-4034-91D4-A3CFA9035B21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73491",
+              "numeric-id": 73491
+            }
+          },
+          "hash": "5a78708cbff97b215466dfef9dfae4c0bd729fb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$42DF7D70-88E7-47CF-98D8-8C5B67D36A39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135337",
+              "numeric-id": 135337
+            }
+          },
+          "hash": "f7fa98fefe4e97f549d7076a59482667e4ad5715",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$CB35C75C-AB0A-4D0A-9774-D7E3A7E92283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135338",
+              "numeric-id": 135338
+            }
+          },
+          "hash": "60a4f4b4414b2ebde9edf95864742a9ed0f656d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$FE41CEF4-DFBC-413E-A2E9-027248B546EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135339",
+              "numeric-id": 135339
+            }
+          },
+          "hash": "4ef0a6de54ec0f43ce743c9a8b916be807dd5ecf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$3DA6110A-1519-4D48-BF6F-C2D774C9E18C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165155",
+              "numeric-id": 165155
+            }
+          },
+          "hash": "d7e9979eb96bffcfe38c037b06d445696fc2512f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$03FFCD05-3D9E-4F41-808D-224F281605AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165449",
+              "numeric-id": 165449
+            }
+          },
+          "hash": "12e5b70f063f8df3ec4c0cf7cf79b8994d8d6e2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$4ABBF372-DB83-41FC-9090-9A3C7BEEE96F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165666",
+              "numeric-id": 165666
+            }
+          },
+          "hash": "bbaafba83518c7dd337da95a2fd0ba5ad28b3737",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73614$21495736-ADCD-4A49-AB5B-BB5460591410",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$748DD0AA-F7FC-4C19-B35E-CB8EF7389FE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73614$8F60F537-A2EB-4CC4-A3E4-4376FFD89943",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73611",
+              "numeric-id": 73611
+            }
+          },
+          "hash": "243b3c2722e307c262a477e87a8d69679d57c2c1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$19C2B91C-CB1E-435C-A07F-703F2BA31D1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135256",
+              "numeric-id": 135256
+            }
+          },
+          "hash": "764f27c32ddc4ef48a3d46e7e1c694b4ec5db0f0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$DB0C0776-1EE1-46E9-80C7-D14FED02DB4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135463",
+              "numeric-id": 135463
+            }
+          },
+          "hash": "b4f7069ad4320fa82d7ab5f21be11754c541fad2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$5452CA01-A03C-4E87-BA39-C237D9BA58BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165664",
+              "numeric-id": 165664
+            }
+          },
+          "hash": "2c5c0682d1b940343f27786949308a160f20198e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$24C7CF42-E599-439A-A085-8E750B25F6A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165607",
+              "numeric-id": 165607
+            }
+          },
+          "hash": "9d88f6b0335a3a7539fc9878dffb94f468f85183",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73614$39DEA141-0C67-4769-AC9E-F0C617F70B1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165665",
+              "numeric-id": 165665
+            }
+          },
+          "hash": "7d549d96bbefd641a803258976e443c84958bc37",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73614$4BC2743E-2032-4AEE-A914-DCD755A367AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73731",
+              "numeric-id": 73731
+            }
+          },
+          "hash": "b55c570b63169f39cf3c4bece05a5938b61b94b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73614$A5D7F0EA-4BE4-4674-9C12-4538E139B765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73728",
+              "numeric-id": 73728
+            }
+          },
+          "hash": "e2c2e7e9ccca965888611c17871d07ab7e95aade",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73614$9C588B4A-E3BB-4E64-97C4-9CB8AE8D40E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73614$828BB493-BEB8-43C8-8760-4AF65905D8B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0308-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5cb1dd483a7ff36dad3c6a2cd0446b5aa66e3e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73614$07E61098-AFBD-48EF-992F-B5F50C04412C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0246-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5355fdb63d5c718d406b68ecd8261481cc2b09c0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73614$3AF7E384-0251-4238-9D8D-9B24019504A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q39576"
+          },
+          "hash": "b1351d834119087ec348fe38662010df6c5f8a5e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73614$1B4D74E8-4FF9-4770-81B2-42EEFF81746A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008630613094"
+          },
+          "hash": "b9a494697cf54eac0655916dda1ca3b808f8e76e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73614$B794563A-A926-4AD3-8CE4-DECCF4B506C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:50796"
+          },
+          "hash": "4c3e9b99a4e8822f836b58d7d262328af461f86f",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73614$216EF82A-1284-426E-952B-864B67155A76",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy II Philadelphus Arms.svg"
+          },
+          "hash": "b64a84596e69301d346301934c6bb007dfeb29de",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q73614$9A1367F8-D59B-49FC-B6D2-D348E2594C2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/8f082513-2934-4103-9498-36b8c2862fd4"
+          },
+          "hash": "096a708a57ce5fefe7a5da990be869b007ba6813",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Egiptiese koning"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "az": {
+      "language": "az",
+      "value": "Misir kralı"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "faraó d'Egipte (308-246 aC)"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der Ptolemäer und Alleinherrscher seit 283/282 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "king of the Ptolemaic dynasty in Egypt (308-246 B.C.)"
+    },
+    "es": {
+      "language": "es",
+      "value": "faraón de Egipto"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Egyptin faarao (281–246 eaa.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך מצרים התלמיית במאה השלישית לפנה\"ס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano del Regno tolemaico d'Egitto (r. 282-246 a.C.)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 왕조 이집트의 왕이다."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge av det ptolemeiske kongedømmet i Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit het oude Egypte (308v Chr-246v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faraó do Egito Antigo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Египта"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තු පාරාවෝ"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Птолемејског Египта"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密埃及的第二位法老和国王"
+    }
+  },
+  "id": "Q73614",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ptolemeus II Philadelphus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Ptolomeu II"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس التانى"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Ptolemey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей II Філадэльф"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей II"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Ptolemej II Filadelf"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu II Filadelf"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios II. Filadelfos"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Птолемей II Филадельф"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ptolemy II Philadelphus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ptolemaios 2."
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος Β΄ Φιλάδελφος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy II Philadelphus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ptolemeo la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo II"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ptolomeo II.a Filadelfoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بطلمیوس دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tolamaes II Philadelphus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tolomeo II Filadelfo"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ptolemej II. Filadelf"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Ptolemaiosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պտղոմեոս II Եղբայրասեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios II Philadelphos"
+    },
+    "is": {
+      "language": "is",
+      "value": "Ptólemajos 2."
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პტოლემე II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 2세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Ptolemaîos II Fîladelfos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Ptolemaîos II Fîladelfos"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaeus II"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ptolemėjas II Filadefas"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ptolemaiosy II"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Птоломеј II Филаделф"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Ptolemaios si Pesumbang"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ptolemaios 2-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios II Filadelfos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus II Philadelphus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ptolemaios II Filadelfos"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Ptolemèu II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz II Filadelfos"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "دویم بطلیموس فیلادلفیوس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu II Filadelfo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu II Filadelfo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ptolemeu al II-lea Philadelphus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей II Филадельф"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Ptolemy II Philadelphus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ptolemej II"
+    },
+    "si": {
+      "language": "si",
+      "value": "දෙවන ටොලමි ෆිලඩෙල්ෆස්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj II. Filadelf"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Птолемеј II Филаделф"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios II Filadelfos"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இரண்டாம் தாலமி"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปโตเลมีที่ 2"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ptolomeo II Philadelphus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Ptolemaios Filedelfos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей II Філадельф"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بطلیموس دوم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemaios II Philadelphos"
+    },
+    "war": {
+      "language": "war",
+      "value": "Ptolomeo II"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "托勒密二世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Ptolemy 2k Philadelphus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密二世"
+    }
+  },
+  "lastrevid": 17486404,
+  "modified": "2025-09-16T18:48:29Z",
+  "ns": 860,
+  "pageid": 88445,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73614",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73614"
+    }
+  },
+  "title": "Item:Q73614",
+  "type": "item"
+}

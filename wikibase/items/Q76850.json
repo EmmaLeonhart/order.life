@@ -1,0 +1,171 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Tianchang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q76850$4246C646-C792-4E88-9432-E44F0F62A82E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76850$2778ECD3-D202-4100-99BB-CD6905B5E35F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76850$E2F77230-B4F3-4E5E-88E7-6009DBD48088",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72084",
+              "numeric-id": 72084
+            }
+          },
+          "hash": "6f444cf1bcff4dc466f8149052dbe8f972557a2c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76850$CDA81411-BAB3-4D77-9C46-2657C113EAB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q76850$57275266-863F-406E-99AF-33A164E97C4A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0825-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e25dedfbd98947ac5a101ca0eab2a05f1b6f6c3b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76850$4BEEE48E-E5F8-43AC-810E-E1A77EC17B09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10940787"
+          },
+          "hash": "c90effb703327173a5fc82e0a52d6f873b484eb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76850$1963DA6F-93A3-47B3-9CE2-2B020BCDF9C8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Tianchang Arms.svg"
+          },
+          "hash": "7f376dbebbdb435118f65880e7dbd075822cdb10",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q76850",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Tianchang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "天长公主"
+    }
+  },
+  "lastrevid": 17490508,
+  "modified": "2025-09-16T19:45:36Z",
+  "ns": 860,
+  "pageid": 91681,
+  "sitelinks": {},
+  "title": "Item:Q76850",
+  "type": "item"
+}

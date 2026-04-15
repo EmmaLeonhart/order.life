@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Yasunao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68316$345F5E0C-3013-4075-85B7-F36B72350F6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62679",
+              "numeric-id": 62679
+            }
+          },
+          "hash": "116c8d2879407546176f6efaafef4bcec425413d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68316$0392DD4C-A692-4DCD-BAE9-945D6979866D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68316$D65AFC56-B200-459E-AC76-7E6925D9C2FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68316$3BEF5681-49E9-4CD0-B9B5-CB8658A9EFF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68316$50EB494B-5CC1-4D48-A0EF-B60519632A41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1569-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b113749044ce80896273b85ca8be0b3f71fab25",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68316$A8902EF6-FCA8-4423-A049-596E448EFD84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1593-12-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "54279ff0a0e241b2386b760d63361640347aa5b9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68316$2552C902-EE74-426E-BCDC-C9DE65CBFB0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530416"
+          },
+          "hash": "e2cdaead9c6abd17e87014f8dfc6c99add2daf86",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68316$2CCC321E-71F0-4CE7-8668-06233EF35638",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yasunao Arms.svg"
+          },
+          "hash": "caa85b290def6935d1521d41a7bef66bf2ac071e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Nagasawa-Matsudaira clan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代の武将。三河長沢城主松平康忠長男で、武蔵深谷藩初代藩主（長沢松平家9代当主）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q68316",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Yasunao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Yasunao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Yasunao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平康直"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ясунао Мацудаира"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Yasunao"
+    }
+  },
+  "lastrevid": 17479686,
+  "modified": "2025-09-16T17:14:04Z",
+  "ns": 860,
+  "pageid": 83147,
+  "sitelinks": {},
+  "title": "Item:Q68316",
+  "type": "item"
+}

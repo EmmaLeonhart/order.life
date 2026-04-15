@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Yoshinori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q57302$0895B999-BA53-4510-9998-A9FAEC88982B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-535"
+          },
+          "hash": "9d78871ebf91cb502794e6cf327d028fd1097fad",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q57302$06A01D13-27C9-4C83-AB3E-C8CC4C3C793B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57302$580896F9-A08A-4694-B6FC-6F2D61FE14E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q57302$5A8D5909-3124-413A-B992-6300863FC2C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49280",
+              "numeric-id": 49280
+            }
+          },
+          "hash": "98381635c53566984477574bc72dcb91e539312f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57302$F36E851D-83D0-4FEC-B598-64108AB56A51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57302$15A6BA22-6F36-4A1D-B4C4-E97BC693DDA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1826-10-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "54b5b3342f5f3b1c06c10d792b759380406ef245",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57302$5421FA55-CFD9-463C-8EB5-A31720E225B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1897-11-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a2681564869fdce16fc3f4119713f77ec890e72",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57302$00BFC0C9-F59C-40D2-88AC-E498CABA3D41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530455"
+          },
+          "hash": "6c3e01d78181433095fd328f4adfff88263f095a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57302$0CC504B1-6633-42FE-8DD4-5831821D2525",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yoshinori Arms.svg"
+          },
+          "hash": "bae2a7337cf80e933086fd5f4afba8562a588df6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the late Edo period; 9th lord of Akashi"
+    }
+  },
+  "id": "Q57302",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Yoshinori"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Yoshinori"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Yoshinori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Yoshinori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平慶憲"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰다이라 요시노리"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсинори Мацудаира"
+    }
+  },
+  "lastrevid": 17465852,
+  "modified": "2025-09-16T13:46:39Z",
+  "ns": 860,
+  "pageid": 72133,
+  "sitelinks": {},
+  "title": "Item:Q57302",
+  "type": "item"
+}

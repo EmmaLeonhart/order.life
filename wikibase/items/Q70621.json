@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Yan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q70621$8E33C185-2790-4549-9AE8-160347424EFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70621$B004D92A-2ED8-4AE5-9D7B-D9DBA322F7A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70621$192A5857-00D8-4752-89F5-5AE7ABB329F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65701",
+              "numeric-id": 65701
+            }
+          },
+          "hash": "b264a15f47f215c42e9fc227c6e84f94169adfe3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70621$9D3149FA-6C74-49AD-9197-BEA133941BF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70621$6ABE6DB9-FE4A-4C94-B1F5-25A28E717765",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0841-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0cbe12c47e259cdf6d1751a3f7c6e94f123c5303",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70621$855C3167-2613-420D-A4C1-29F1B4218000",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45459644"
+          },
+          "hash": "c753a47f4c6e337a38fccd9b42b131d493640c3d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70621$3C8E6C7F-C677-4DD1-8FA8-0CE86A65F1DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Yan Arms.svg"
+          },
+          "hash": "4655560833ba0fcef1b125528609fdd01a540b85",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171880"
+    }
+  },
+  "id": "Q70621",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Yan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Yan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Yan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇晏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Yan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇晏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦晏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇晏"
+    }
+  },
+  "lastrevid": 17482498,
+  "modified": "2025-09-16T17:53:24Z",
+  "ns": 860,
+  "pageid": 85452,
+  "sitelinks": {},
+  "title": "Item:Q70621",
+  "type": "item"
+}

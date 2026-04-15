@@ -1,0 +1,390 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hitotsuyanagi Suenori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73237$7814AD3C-9D39-4A35-A88B-7D42625A1BE4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "九鬼-3"
+          },
+          "hash": "cde21914fb7631bdbea924489f2d5775a69b2eac",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73237$8F6892EC-1619-4E06-8957-E2F6036D3F9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73237$0042171D-5942-47CA-BFA7-04878ED67408",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73237$28295F58-F572-44E4-A021-6B089A16C6F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68322",
+              "numeric-id": 68322
+            }
+          },
+          "hash": "10d20c6a560e31aef59091b2cc8dd06bf80fa935",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73237$F19CC87E-A249-458E-9A66-3C156DEE96D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73237$0EEBB212-C58E-4497-86F8-34276F582C51",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1850-08-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "59c2afbb65580989ebe178529c0e73392fb14131",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73237$808744E8-1B5B-4272-9101-FACE767AD0BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1922-03-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "991bae6c38364ff752035a1239b89081087f0f63",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73237$3C4CD252-532E-4518-AB6D-8C60DA98A049",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11352856"
+          },
+          "hash": "28a659a383a86c77713c605012c32e6f2243f3b5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73237$C86F2611-4CDB-48E8-970E-31392E217D15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000031936661645"
+          },
+          "hash": "b99483fe0e91573a3d8e11ec86c99962bf76d6d6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73237$F9C2A73B-0B73-4A2C-83CF-573D763419BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hitotsuyanagi Suenori Arms.svg"
+          },
+          "hash": "cbf23932d5ed627666f84290023255ee392713dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský politik"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk politiker"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי יפני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "japanski političar"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "ճապոնացի քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の政治家 (1850-1922)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk politikar"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician japonez"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan japonez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon siyasetçi (1850 – 1922)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський політик"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "chính trị gia Nhật Bản"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本政治人物"
+    }
+  },
+  "id": "Q73237",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hitotsuyanagi Suenori"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hitotsuyanagi Suenori"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hitotsuyanagi Suenori"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hitotsuyanagi Suenori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "一柳末徳"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Hitotsuyanagi Suenori"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Суэнори Хитоцуянаги"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hitotsuyanagi Suenori"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Hitotsuyanagi Suenori"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "一柳末德"
+    }
+  },
+  "lastrevid": 17485948,
+  "modified": "2025-09-16T18:42:13Z",
+  "ns": 860,
+  "pageid": 88068,
+  "sitelinks": {},
+  "title": "Item:Q73237",
+  "type": "item"
+}

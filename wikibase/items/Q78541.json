@@ -1,0 +1,484 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Wanrong"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78541$23EFB13D-9F83-4E98-B869-1145492129E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "839550"
+          },
+          "hash": "491090603aedcdf03ef27d757ba440db16ee739d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q78541$8360ACB6-D12F-42EE-A3CA-5B5E2E042E2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00568706"
+          },
+          "hash": "8660affd122b599b3329227882e7b4f9035ff36e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q78541$63EFF23E-801D-41D0-AB48-E9017B896631",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "郭布羅-1"
+          },
+          "hash": "db2432a92f81548c2df73a19cefb2a138c18f442",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78541$CFAA77AD-8554-477E-B2D4-EE572DF675D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78541$34B78AED-B6E8-4E0B-B2A0-F5F78D79372F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78541$965F2F6F-D9D7-4AF6-BCC2-C48DFC1733C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73799",
+              "numeric-id": 73799
+            }
+          },
+          "hash": "3aa58e7688fa91460a4e09df9138dc0c335afb02",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78541$C1AA5D56-945E-49AB-952D-88A54CABE98C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78541$3894458E-FED2-48BA-84E9-87734C8779D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1906-11-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4a1dcbd35472fc786857d6006a6a2f8a9924193",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78541$967D849D-8B41-4E32-B001-46552BA1BBF1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1946-06-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "311d42340e85851c9d5c8d5703f13cd8bf7116df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78541$62EDD527-B10C-4641-85EC-AD686AC4BC7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q464563"
+          },
+          "hash": "7c14831fff74dca5a9fa5e6f95794ea37b12a0eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78541$78B464F3-2DA9-4E5C-B971-1C1467E4C584",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010029164728"
+          },
+          "hash": "ac8389ab412cfb4a66a0330f4e7b2ed1472ef3ff",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78541$06D70CF8-6BEA-4A16-8685-C33952ABBC37",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Wanrong Arms.svg"
+          },
+          "hash": "cf19b9c60cd712751bcd32145a534850c1f10919",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسيه من جمهوريه الصين"
+    },
+    "de": {
+      "language": "de",
+      "value": "letzte Kaiserin der Qing-Dynastie in China und spätere Kaiserin von Manchukuo"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Puyi, Empress of China (1906-1946)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Última emperatriz de China"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Impératrice mandchoue de Chine, sous la dynastie Qing"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "muller de Puyi, emperatriz da China (1906-1946)"
+    },
+    "it": {
+      "language": "it",
+      "value": "ultima imperatrice consorte della Cina della dinastia Qing, imperatrice del Manciukuò"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "満洲国の皇后"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "laatste keizerin van China"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Esposa de Pu Yi, Imperatriz da China (1906-1946)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Esposa de Pu Yi, Imperatriz da China (1906-1946)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "последняя императрица Китая, императрица-консорт Маньчжоу-го"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperatris ng Tsina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Son Qing İmparatoru Puyi'nin eşi ve Mançurya Devleti İmparatoriçesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "остання імператорка Китаю"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hoàng hậu Đại Thanh"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "大清帝国皇后，溥仪妻子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "大清帝國宣統皇后，溥儀妻子"
+    }
+  },
+  "id": "Q78541",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "وانرونج"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطوره وانرونج"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Empress Wanrong"
+    },
+    "be": {
+      "language": "be",
+      "value": "Імператрыца Ваньжун"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gobulo Wanrong"
+    },
+    "el": {
+      "language": "el",
+      "value": "αυτοκράτειρα Γουάνρονγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Wanrong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wan Rong"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Wan Rong"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Wanrong"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wanrong"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Emperatriz Wanrong"
+    },
+    "id": {
+      "language": "id",
+      "value": "Permaisuri Wanrong"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wan Rong"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "婉容"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Wanrong"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვანრონგი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "완룽"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Emperora Wanrong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wan Rong"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wan Rong"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperatriz Wanrong"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperatriz Wanrong"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Императрица Ваньжун"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Wanrong"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பேரரசி வான்ராங்"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดินีวั่นหรง"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperatris Wanrong"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Wanrong"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператриця Ваньжун"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ملکہ وانرونگ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Uyển Dung"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "婉容"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "婉容"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "婉容"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "婉容"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "婉容"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "婉容"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "婉容"
+    }
+  },
+  "lastrevid": 17492568,
+  "modified": "2025-09-16T20:15:11Z",
+  "ns": 860,
+  "pageid": 93372,
+  "sitelinks": {},
+  "title": "Item:Q78541",
+  "type": "item"
+}

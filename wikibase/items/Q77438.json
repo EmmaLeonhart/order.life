@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Yi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q77438$39D6BF61-30B0-4BE2-B4C8-B674CF963042",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72647",
+              "numeric-id": 72647
+            }
+          },
+          "hash": "5a51c0103ebb1c50f558e2c12435147d3e125533",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q77438$E423A51C-A948-4A9E-8DF1-74AA2A45A143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77438$B9BA7E2E-F273-4A10-AF67-301FA1DD5B25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q77438$AE164E0B-6723-4E35-A400-62224AF5FB44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77333",
+              "numeric-id": 77333
+            }
+          },
+          "hash": "4e1279f78d395981fa3f9197586443c70c12710a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77438$C221DD1E-1807-4AF0-9D24-45179B8FB3FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77438$623CA4DB-89AC-404F-B413-C980064D7105",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0502-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61b41be07a08813e726b5427ba2286eab10d42f2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77438$E1D5B5EF-D585-4EFB-907C-6A61F5E704F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20688547"
+          },
+          "hash": "efaeef4c9335eb9016f5d0c7f04f2a130ae1d8db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77438$952C90C6-8F66-40AF-9AB3-59256866CA98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074739148854"
+          },
+          "hash": "d373158633993e67c16397a23eaf734f38027166",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77438$A7186F4F-DB74-4254-8A9D-67F061A459E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Yi Arms.svg"
+          },
+          "hash": "2228075cbc0231838c962b7f82c1537dea104994",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei person CBDB = 174328"
+    }
+  },
+  "id": "Q77438",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yi"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "লি ই"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Yi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李弈"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Yi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李弈"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李弈"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李弈"
+    }
+  },
+  "lastrevid": 17491246,
+  "modified": "2025-09-16T19:56:17Z",
+  "ns": 860,
+  "pageid": 92269,
+  "sitelinks": {},
+  "title": "Item:Q77438",
+  "type": "item"
+}

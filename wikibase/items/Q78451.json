@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eisuke Ono"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q78451$A96AFA4F-A131-4836-AAFB-7339DA9C8A82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00593548"
+          },
+          "hash": "68211f8f93c44b7d891330344c8ae944e897e66a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78451$7558F2EB-D649-470F-A1D7-5520B6B552AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78454",
+              "numeric-id": 78454
+            }
+          },
+          "hash": "596633189b16f6cb79cd5063c6f784211356eb78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q78451$E49BB75E-33A1-4D21-BD18-F0593070126D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "小野-3"
+          },
+          "hash": "84f78e86184a283a9bca939d03d66c55afd3508a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78451$D68893C7-AA7C-4E80-A11B-52947EBD9E1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78451$E584D24F-4828-436D-A51F-6098F189DC44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78451$3C031D12-0505-4954-9341-5E38B5B4D153",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73732",
+              "numeric-id": 73732
+            }
+          },
+          "hash": "0044863f3aa2bda4d1e2b2106ceb10921a48ed23",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78451$461FECE6-CACF-4F6F-8F79-79BB75C284FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78451$1E31A1FF-CA2A-4003-B68D-225C6A013AB9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1902-03-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2e6bef1b421fa8f16d20d0d62edfcc7c904d0e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78451$48C92A8E-C7A1-4D71-848B-2E75E72EF944",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1975-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7789e0529e88c6ff7b768326dda4710b60788610",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78451$E70AFFAF-DA11-4E5B-9DD1-35906C7F3457",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q95422055"
+          },
+          "hash": "e24717a8f1a50f79da650392dcda11d29f2c9186",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78451$FBD27689-6FA4-4AB8-911D-855CE6104804",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000015336379195"
+          },
+          "hash": "2c95297e13ca2513fd97a6eb8a00e2118873e0e9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78451$A4E8F3A2-E6AB-4AE7-AEA2-6BAE9F11463A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eisuke Ono Arms.svg"
+          },
+          "hash": "dcc04b2b21831e06af192ef171a55156f2054153",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1902-1975)"
+    }
+  },
+  "id": "Q78451",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Eisuke Ono"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eisuke Ono"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eisuke Ono"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eisuke Ono"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eisuke Ono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eisuke Ono"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eisuke Ono"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eisuke Ono"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eisuke Ono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小野英輔"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eisuke Ono"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эйсуке Оно"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eisuke Ono"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eisuke Ono"
+    },
+    "th": {
+      "language": "th",
+      "value": "เอสุเกะ โอโนะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Eisuke Ono"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ейсуке Оно"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "小野英輔"
+    }
+  },
+  "lastrevid": 17492468,
+  "modified": "2025-09-16T20:13:48Z",
+  "ns": 860,
+  "pageid": 93282,
+  "sitelinks": {},
+  "title": "Item:Q78451",
+  "type": "item"
+}

@@ -1,0 +1,348 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Yasutō"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q63111$ACE7D272-D829-496A-9442-C610B8E28746",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52381",
+              "numeric-id": 52381
+            }
+          },
+          "hash": "5495f15531244831fbb66c1352e9a7f83e32f43a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63111$A555C455-EBAC-4B39-BAF4-FBF7418B6517",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63117",
+              "numeric-id": 63117
+            }
+          },
+          "hash": "dcd1a3bb4ef667fec91e7e42aa584c29507e9f43",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63111$28509024-B2FC-46A7-B00F-1EDAA874A0A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63114",
+              "numeric-id": 63114
+            }
+          },
+          "hash": "de67579341d9518bf7b273b574ec009cf017f464",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q63111$ABA3B948-32B0-45F3-A266-E0271F2BE97C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-132"
+          },
+          "hash": "67348d1148f9dbb9e9b316c6a99ea2702bc046a3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63111$7A4C3763-C082-463B-A632-237B0468EB26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63111$AEB23218-D53B-4F14-AAF0-AD032EAEB534",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63111$2C14B458-8ECB-42DF-B947-452D4EFD3073",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68616",
+              "numeric-id": 68616
+            }
+          },
+          "hash": "30c3a0ed58e94ffeaf0142243d4fcd6d9b7e9fde",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63111$66A056F5-7054-4BDE-9C41-86194FF11709",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63111$9557070B-6F67-48DB-B0FA-6BA9A40F789E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1779-06-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "045da9b920bcf2541e2f34690772e344f8a0b633",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63111$063E87E1-68DD-4DF2-A432-D138F14234DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1841-09-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "587b83f6f90f9f7a85d14b30a8228954f4653c52",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63111$898CB45D-E952-4511-AC43-E141C0477BDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3538594"
+          },
+          "hash": "4343ce8bf30b7db56634216b3258a02cb4c4cd4d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63111$A307BE30-4767-44BE-B3AD-BDE0BFFFF82B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yasutō Arms.svg"
+          },
+          "hash": "e9cc3b9fb74c248facc281a16d137572237aa25a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1779–1841)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の大名"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-1841)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1779 – 1841)"
+    }
+  },
+  "id": "Q63111",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Yasutō"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jasutó Macudaira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Yasutō"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Yasutō"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Yasutō"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماتسودایرا یاسوتو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matsudaira Yasutō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平康任"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matsudaira Yasutō"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ясуто Мацудаира"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Yasuto"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Yasutō"
+    }
+  },
+  "lastrevid": 17473080,
+  "modified": "2025-09-16T15:36:03Z",
+  "ns": 860,
+  "pageid": 77942,
+  "sitelinks": {},
+  "title": "Item:Q63111",
+  "type": "item"
+}

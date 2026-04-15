@@ -1,0 +1,932 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Puyi"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73799$C02398BF-EBE9-4B0A-BC10-56355740BE17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "839499"
+          },
+          "hash": "7777ca42dd0c0b17831b108a86dd94b3cde41b08",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73799$3F900F17-15E4-40CA-969D-5C16B07491D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00568705"
+          },
+          "hash": "f7c4b94fa280ca76e945ac8a301436de2d684dad",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q73799$79807A3C-32E5-4726-A063-6ABF9B8C724D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "愛新覺羅-195"
+          },
+          "hash": "e1dfeabb0e8a174518d530efa9b282b0ac213c51",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73799$FF01494E-0E06-4E6E-B87A-DC1144F8ABB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73799$6F9FD3BA-86F4-4F82-9DE6-7274E604A7F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73799$E5EDD565-E176-4169-A251-FF3D7BF4EB8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78541",
+              "numeric-id": 78541
+            }
+          },
+          "hash": "7e599d2e90ccfb9922ab9b784c13815f175db9a0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73799$EF17E1B3-4539-436C-B63C-F8E800548C45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78544",
+              "numeric-id": 78544
+            }
+          },
+          "hash": "4cebf0815ca9f9a4f2aeca0b2fa7210367525efb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73799$2A8BAF78-9420-4979-9FCC-8B68B568F25E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78547",
+              "numeric-id": 78547
+            }
+          },
+          "hash": "b34c18fe81e07b8717303ee2dd9b13729985ba91",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73799$3955A4BD-E46E-47FC-AAAB-B014A9C8C762",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78550",
+              "numeric-id": 78550
+            }
+          },
+          "hash": "5994476522725f7131f30d70be2786a7284aae0c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73799$9C579052-0C83-41FE-BD41-122CB9E8864C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78553",
+              "numeric-id": 78553
+            }
+          },
+          "hash": "212d2c01bf05ba0302236780d8ec495a546cb4a4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73799$6FB54ADD-7E17-4B58-8E1A-ECC8935F8213",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73793",
+              "numeric-id": 73793
+            }
+          },
+          "hash": "64f81a2e892860b73f38e1f6888d4ce02e8063de",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73799$6EAA81DD-E544-49AF-8677-F3B335D762CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73796",
+              "numeric-id": 73796
+            }
+          },
+          "hash": "804df8cdc325d264efa24090d286f7c6f30d3412",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q73799$25934ADF-AA03-45B9-930B-CAFCDE7E7AD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8698818"
+          },
+          "hash": "43b04c8abb416d60f0d7067b70f775acccc45227",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73799$26C1EEAD-0DE6-46FD-B1B0-7370B1D3B1BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73799$979C8C18-67A1-4124-B9B9-3CF0E8EA7D50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1906-02-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "165cb8c54e043a3eec9f8dc97c69dd530677195c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73799$1F2BC6DB-2BA7-4B0F-AB20-B24C6C7FF235",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1967-10-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "08f1a3b60953fdb19b29d0aed38c3f77bd6256d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73799$9817DBEC-4709-4D2E-9AF0-F8947EA38F8C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q185152"
+          },
+          "hash": "3c9366e787afdad6ae2841f5dd83a8bfbab0cc93",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73799$1E429C27-90EB-447E-A6CA-870FE1974D75",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009796535956"
+          },
+          "hash": "438813dec236e0df337d662361a0e17e70994cd3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73799$B3E07A89-9269-48C4-8339-BAD4C438C982",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:61365"
+          },
+          "hash": "d134e70c4e0e8dee377a87393d5ac441cfe7e9aa",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73799$7BCFBB1C-CDC3-480A-B97D-C5B1B08F124D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Puyi Arms.svg"
+          },
+          "hash": "172342f03a977071504a0946f30d9651653c8666",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Laaste keiser van die Qing-dinastie (1906–1967)"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور الأخير من سلالة تشينغ المنشورية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "імпэратар імпэрыі Цынь"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "últim emperador de la Xina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Poslední čínský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "China siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "letzter Kaiser von China"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Last Emperor of Qing dynasty and Manchukuo (1906–1967)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "la lasta imperiestro de Ĉinio kaj Manĉurio (1906–1967)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador de la Dinastía Qing del Imperio chino y Primer Emperador del Gran Imperio de Manchukuo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kiinan viimeinen keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois mandchou le 12e de la dynastie Qing"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai császár"
+    },
+    "is": {
+      "language": "is",
+      "value": "síðasti keisari Kína"
+    },
+    "it": {
+      "language": "it",
+      "value": "esponente della dinastia Qing, ultimo imperatore della Cina (r. 1908-1912) e imperatore del Manciukuò (r. 1934-1945)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中国の皇族、第12代清国皇帝、初代満洲国皇帝 (1906-1967)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "청나라의 말대 황제이자 제12대 황제이며 만주국의 집정왕 및 황제이다"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "keiser av Kina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "laatste keizer van China"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "ostatni cesarz Chin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Último imperador da Dinastia Qing e Manchukuo (1906–1967)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Último imperador da Dinastia Qing e Manchukuo (1906–1967)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărat al Dinastiei chineze Qing"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "император Великой Цин, правивший под девизом \"Сюаньтун\""
+    },
+    "sr": {
+      "language": "sr",
+      "value": "последњи цар кинеске династије Ћинг, цар Манчукуа и поглавар куће Ајсјин-Гиоро"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kinesisk kejsare"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิจีนราชวงศ์ชิงพระองค์สุดท้าย และอดีตจักรพรรดิแมนจู"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "12. ve son Qing İmparatoru ve Mançurya Devleti İmparatoru"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "hoàng đế cuối cùng của Trung Quốc"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "清朝及中国历史上的最后一位皇帝，满洲国执政及皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "中国历史上最后一位皇帝，清朝最后一位皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "中國歷史上最後一位皇帝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "中國歷史上最後一位皇帝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "中國歷史上最後一位皇帝"
+    }
+  },
+  "id": "Q73799",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Puyi"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Hsuan-tung Cāsere"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بوئي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بوئى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Puyi"
+    },
+    "az": {
+      "language": "az",
+      "value": "Puyi"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "پویی"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Пу И"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пу І"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пу І"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пу И"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཕུ་ཡི།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pu Yi"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Puō-ngì"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پویی"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pchu I"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Пу И"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Puyi"
+    },
+    "da": {
+      "language": "da",
+      "value": "Puyi"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Puyi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Puyi"
+    },
+    "ee": {
+      "language": "ee",
+      "value": "Henry Puyi"
+    },
+    "el": {
+      "language": "el",
+      "value": "Που Γι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Puyi"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pu Ji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Puyi"
+    },
+    "et": {
+      "language": "et",
+      "value": "Pu Yi"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pu Yi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پویی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pu Yi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Puyi"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Puyi"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Puyi"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Phú-ngì"
+    },
+    "he": {
+      "language": "he",
+      "value": "פויי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pu Yi"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pu Ji kínai császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պու Ի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Xuantong"
+    },
+    "is": {
+      "language": "is",
+      "value": "Puyi"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pu Yi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "溥儀"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Henry PuYi"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პუი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Пу И"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "푸이"
+    },
+    "la": {
+      "language": "la",
+      "value": "Puyi"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Puyi"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Puji"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "清廢帝"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Puyi"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Пу Ји"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "പൂയി"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хэвт Ёс"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡦᡠ ᡞ"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯄꯨꯌꯤ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "फू-यी"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Puyi"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Phó͘-gî"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Puyi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Puyi"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Henry Puyi"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Puyi"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Puyi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Puyi"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "پویی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pu Yi"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pu Yi"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pu Yi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Айсиньгьоро Пуи"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Puyi"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pu Yi"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pchu-i"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Puyi"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Puyi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Пу Ји"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Puyi"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "புயி"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิผู่อี๋"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Puyi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Puyi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пуї"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پویی"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phổ Nghi"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "溥仪"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "溥儀"
+    },
+    "za": {
+      "language": "za",
+      "value": "Buj Yiz"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "溥仪"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "溥仪"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "溥仪"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "溥儀"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "溥儀"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "溥儀"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "溥仪"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "溥仪"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "溥儀"
+    }
+  },
+  "lastrevid": 17486602,
+  "modified": "2025-09-16T18:51:23Z",
+  "ns": 860,
+  "pageid": 88630,
+  "sitelinks": {},
+  "title": "Item:Q73799",
+  "type": "item"
+}

@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Jie"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q67036$0CC3D9D0-26B4-4E3F-89D5-E1AF828273E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67227",
+              "numeric-id": 67227
+            }
+          },
+          "hash": "d068c7ceab21492031cecfe975d40eacf1b55c9d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q67036$639CF9DE-7EE4-42A3-9FB9-B3298BB6D17C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67036$9A429C4A-D508-4FD4-B70B-38EE40D54C88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67036$53D2F173-0B3F-465C-A7AE-3DCE3138487F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61293",
+              "numeric-id": 61293
+            }
+          },
+          "hash": "967380c630cf85af8b243139704bd3e7ee55bb63",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q67036$29E15D02-F8DC-4508-9425-19CF73937A7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71974",
+              "numeric-id": 71974
+            }
+          },
+          "hash": "3a46b4a7d40ae2a85b6b70eca810383bbfd4dd67",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67036$A5AE67E9-F79D-4F85-8F2B-5DC3F6DC55D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q67036$A5DF4A37-41DB-4CBD-935D-E395C1FC1334",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67036$FD4C9B8E-5BB3-4BDB-8801-9D25877A3A64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0847-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4289a3a7ed3b90c36029c48436dc2c737d139df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67036$1D7DDD43-F021-483A-A238-97102746C942",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11097772"
+          },
+          "hash": "c05b911431d9fd72e9ff113c344ef0cdc0f7a60a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q67036$31407919-4459-4593-A9FC-C62AB2D3FA54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074750781891"
+          },
+          "hash": "d3fe46fc946a9ccb5a14ea67bea908150d3bbe6a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67036$344E7E31-79AF-41EA-8385-A3A16F78ADB7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Jie Arms.svg"
+          },
+          "hash": "b8d1adf08f2f0a2c6e3f9c0cf56f27edb257d1e5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 189209"
+    }
+  },
+  "id": "Q67036",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Jie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Jie"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李結"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Jie"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李结"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李结"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李結"
+    }
+  },
+  "lastrevid": 17477992,
+  "modified": "2025-09-16T16:50:24Z",
+  "ns": 860,
+  "pageid": 81867,
+  "sitelinks": {},
+  "title": "Item:Q67036",
+  "type": "item"
+}

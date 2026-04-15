@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maecius Faustinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q76643$E1FAE1A3-7130-4766-8781-66AA047D17EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76412",
+              "numeric-id": 76412
+            }
+          },
+          "hash": "c0ae859237c38f14ecf94ae1f60b803b48bd4d58",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76643$AFA956F6-F51B-4B7B-A18F-608EEF38BE57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76643$CC657612-BA9E-48F7-82EC-006098367827",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q76643$02AB5E62-49ED-4998-ABC1-5A77E8D3D903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76640",
+              "numeric-id": 76640
+            }
+          },
+          "hash": "6d9a72646a675e675c24846a99fef8099be9797b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76643$10497C37-5B09-4C59-ACA9-20CE3E00ECD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63879",
+              "numeric-id": 63879
+            }
+          },
+          "hash": "36d886537be9d3a621dd907ba4e746698d12e8e3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76643$B067692E-0D87-4446-A4D6-954C9DC5A2B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q76643$5024637f-4802-5d21-108b-c518fc39347a",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0130-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "11e8d337e27893eede64f3c062fc6ef077c71c67",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76643$A9FE7979-352C-4552-82A7-A8B99A6DC98B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108494665"
+          },
+          "hash": "e0eac225a3a8f3091b8b23bb5ce72713afe20912",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q76643$0405D289-B5ED-4F2E-95D7-257EB5D32127",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000024792798499"
+          },
+          "hash": "18b4fb4c311afc9d5a92eeb90512671cbfc76bff",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76643$D4D31D82-685F-4E84-9455-9EDCC1EAAA98",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Severus Antoninus Marullus Arms.svg"
+          },
+          "hash": "f99f13df8facf718e27044f6353b8c4e4b0a08fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76643$828DAC6D-DAC7-4606-8BE8-A631F34FF77F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maecius Faustinus Arms.svg"
+          },
+          "hash": "74f8da84abde46e7262f5ed893a8c7c791e2496c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "supposed grandfather of Roman emperor Gordian I"
+    }
+  },
+  "id": "Q76643",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Severus Antoninus Marullus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maecius Faustinus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Меций Фаустин"
+    }
+  },
+  "lastrevid": 17595723,
+  "modified": "2025-09-17T20:44:01Z",
+  "ns": 860,
+  "pageid": 91474,
+  "sitelinks": {},
+  "title": "Item:Q76643",
+  "type": "item"
+}

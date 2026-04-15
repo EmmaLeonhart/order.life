@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tozawa Masanobu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q77998$E5D9B717-2DD5-4C64-A7B7-661306C0E136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77998$DFD04B97-4F93-4C99-9319-E942281275D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q77998$35AB0DE1-A341-4123-9C47-E6C68812C3B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73126",
+              "numeric-id": 73126
+            }
+          },
+          "hash": "87e6a935e784d2025974bdb274ee09e2625f79af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77998$D1086F0D-D1CA-4687-9217-5C31A2B2036A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q77998$70BD0294-CB6B-471A-B64A-CC1D99E76A77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1720-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a74231ba812a3024fcc947e871293552fa21dbc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77998$FF886922-4BE3-4DE2-AF4B-C04E50FDDEF9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1765-11-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca8e879a4dba8fe50d51550ba738c83b6414c6e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77998$8204B161-0CFA-451D-94DC-507AF17ED00B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514159"
+          },
+          "hash": "811a8f856ebf962dac6bf0abec6e926fabc1c0c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77998$21D283FA-6019-41C5-BE97-E0F55499751C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tozawa Masanobu Arms.svg"
+          },
+          "hash": "2fbead3c93f2fbe105551ca78e9443145f9b3618",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の藩主 (1720-1765)"
+    }
+  },
+  "id": "Q77998",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tozawa Masanobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戸沢正諶"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "도자와 마사노부"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "戶澤正諶"
+    }
+  },
+  "lastrevid": 17491964,
+  "modified": "2025-09-16T20:06:38Z",
+  "ns": 860,
+  "pageid": 92829,
+  "sitelinks": {},
+  "title": "Item:Q77998",
+  "type": "item"
+}

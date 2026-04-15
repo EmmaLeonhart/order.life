@@ -1,0 +1,292 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikeda Masaaki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62619$48255FD6-4127-4187-AC3E-C0A1568B9C92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68284",
+              "numeric-id": 68284
+            }
+          },
+          "hash": "861ec0a3347d27c72f610122308e0bfb68f20b0f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62619$B78B70F2-7847-4DB0-9024-87A7B29C9849",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68281",
+              "numeric-id": 68281
+            }
+          },
+          "hash": "0bb6fb56650d321cca7e104b87cd6a11aac3c675",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62619$3690E940-455D-4E8C-8600-B3FE47648BC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68286",
+              "numeric-id": 68286
+            }
+          },
+          "hash": "031957835d9828ff784ff834d4cc584cac6ffab8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q62619$6A236D63-C628-4FD4-83AF-0F766C93CD54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "池田-146"
+          },
+          "hash": "78d2f78bc1035c9c2ed22fdcfb57dfc16e7fff70",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62619$472CC420-10EE-4975-9C3B-FE529B04519F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62619$9AFF57BD-BBB7-486E-BD8A-1C7336EB64A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62619$8111E31A-BBEA-4366-9DEA-654BE07EF863",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56748",
+              "numeric-id": 56748
+            }
+          },
+          "hash": "221f3b79181c87771bad709049f06e8a01dcdf18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62619$6990060B-3D52-476E-B861-0F6E2A7527E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62619$B09EE03C-B684-4F44-AD5E-CB9C85A5A83E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1824-01-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b84cddbf7491c57babcb340c191679e1f40f736",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62619$67CDACD5-ACA8-49A7-8095-3BC4800820CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1865-09-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95ab6e26f8241fff60b3b694189288e3a926a523",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62619$AC37E697-CF31-4BBC-866B-AF24C599F6BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11551921"
+          },
+          "hash": "67e2588011d8684b6464f3d67b018b62b09751d7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62619$BA32E527-EF97-4223-8253-5DE4E37CCC46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda Masaaki Arms.svg"
+          },
+          "hash": "57511bc5ebbf383b98abdf63f52520c182a05ddc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "14 Jan 1824 - 29 Sep 1865"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代後期の備前岡山藩の家老。天城池田家10代。池田政徳の長男"
+    }
+  },
+  "id": "Q62619",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ikeda Masaaki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田政昭"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масааки Икэда"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "池田政昭"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "池田政昭"
+    }
+  },
+  "lastrevid": 17472524,
+  "modified": "2025-09-16T15:27:35Z",
+  "ns": 860,
+  "pageid": 77450,
+  "sitelinks": {},
+  "title": "Item:Q62619",
+  "type": "item"
+}

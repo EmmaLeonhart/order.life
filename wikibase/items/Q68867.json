@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nakijin Nobuko"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68867$9B0C0CDF-D496-4373-9E60-192B01C77B10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68867$54E76067-FDDD-492C-9495-E43A47B303E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68867$04C40EF4-09D1-433E-8F88-C36FF1B8C1B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68864",
+              "numeric-id": 68864
+            }
+          },
+          "hash": "262b75b208d94cd7647cab407625ec450246f799",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68867$7C4DD1B8-BD17-46BF-B04F-46C2F45F761E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68867$3564B669-33C0-4142-A89F-13D6E99086D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1887-01-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "feb0c5806388dca6404946c4fd2fb1a7f7f623d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68867$1FD8DA6E-7AFC-4CDA-A929-DB9E8E1D9431",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1968-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aba27f3b45f35ead89869771e9fbc93c23d3a300",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68867$339F262D-83F9-4938-BD9E-75877EC63F40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q123237688"
+          },
+          "hash": "fa741c646b613f99afb6da79db7cee2f1f4a19d1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68867$1BF73866-351A-47BD-A0DE-05988E69C2FD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nakijin Nobuko Arms.svg"
+          },
+          "hash": "690cda67263728c4b4962c1ce624171502be535d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "18th Kikoe-ōgimi"
+    }
+  },
+  "id": "Q68867",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nakijin Nobuko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "今帰仁延子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "今歸仁延子"
+    }
+  },
+  "lastrevid": 17480334,
+  "modified": "2025-09-16T17:22:57Z",
+  "ns": 860,
+  "pageid": 83698,
+  "sitelinks": {},
+  "title": "Item:Q68867",
+  "type": "item"
+}

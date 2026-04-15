@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Dalian, Prince Nan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q60145$CFFA66C4-F7EC-4F76-8150-A95584635647",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60145$6829CA58-42F6-45C9-9BE2-9342495AD325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60145$862106EF-3FAB-4355-B555-B5A5AB5C0C86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53293",
+              "numeric-id": 53293
+            }
+          },
+          "hash": "ca7b4963cfafc9b958e43a9ba53be89dacdb62ae",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q60145$5A5C7238-AF90-497B-8A0A-09774BEF3FD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60103",
+              "numeric-id": 60103
+            }
+          },
+          "hash": "0f6b076fdc01f8b8f379068a539780fef47750b4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60145$2BBC8E35-383A-4178-BD4C-793BA0DCC244",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60145$D58ED96C-9251-4C84-A8A9-C7B95022CBB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0527-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2560a293f5cbd25460eab8cff5f5ff8ce9d31cc2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60145$161EC998-16E7-4B1A-8D05-5D86A741697D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15936940"
+          },
+          "hash": "7b1e10e0d6b3841d7cb3dacf66446288ba592abf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60145$28AD6B1C-279A-4F77-B8AD-16DEAD1B0B7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Dalian, Prince Nan Arms.svg"
+          },
+          "hash": "831ac810e338e9d1a94d31031dc1fd6e1a0bdbb6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q60145",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Xiao Dalian, Prince Nan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蕭大連"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "소대련"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萧大连"
+    }
+  },
+  "lastrevid": 17469222,
+  "modified": "2025-09-16T14:37:30Z",
+  "ns": 860,
+  "pageid": 74976,
+  "sitelinks": {},
+  "title": "Item:Q60145",
+  "type": "item"
+}

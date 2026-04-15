@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Munetaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q73153$D1BC5E10-1E26-4177-8D82-49579AF64284",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73153$9CFAF369-D5C8-49FB-9E05-CCBC0F24CD19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73153$4364063E-E85B-4FE0-808A-09D07185A0AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68206",
+              "numeric-id": 68206
+            }
+          },
+          "hash": "7197920ab96cde669d57332e5ceba81d9d03ea9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73153$32CACCEF-90C6-454F-B7B6-D83241AF95E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73153$BF7BC66A-C448-4C33-83F9-EBA4C0115B41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1803-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d0ce9b5eb2d1c771065db8611c4dc515f4eca4d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73153$099D4FFB-62E1-4552-BC8A-7714614C6621",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1824-07-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "885f8246fa734827fdbafa2288ce970ad947becb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73153$6B5C856F-C1C3-40E5-B020-6563CF95730D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380716"
+          },
+          "hash": "0e899aba6d3ca6e04bd7bd725effffae874be0c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73153$8C26B4A4-11E4-4C50-B155-1DFA24464AAE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Munetaka Arms.svg"
+          },
+          "hash": "ad1b0145d24e9ac4148048ae21e23f7fa2d8cc03",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese samurai (1803-1824)"
+    }
+  },
+  "id": "Q73153",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Munetaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達宗嵩"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мунэтака Датэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Date Munetaka"
+    }
+  },
+  "lastrevid": 17485844,
+  "modified": "2025-09-16T18:40:47Z",
+  "ns": 860,
+  "pageid": 87984,
+  "sitelinks": {},
+  "title": "Item:Q73153",
+  "type": "item"
+}

@@ -1,0 +1,226 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maecia Proba De Rome"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q75670$FFA501C3-5E86-4CE3-B781-4D0612DD7222",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75613",
+              "numeric-id": 75613
+            }
+          },
+          "hash": "6a4009385240489cb46f8a2cd01ace01ddb096dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75670$14457D97-1AC5-44DD-B699-3E2D98D14FDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75670$D2D02A37-67ED-414F-BEAA-E43D827F16D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q75670$5ADE61FF-CDF3-4986-9A33-182A93FA7B0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75673",
+              "numeric-id": 75673
+            }
+          },
+          "hash": "0ba90d3f35133007a87fd6f9b38e0da94eeaad66",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75670$57E881E4-F15D-4954-8EE6-CBF8D550A05B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75757",
+              "numeric-id": 75757
+            }
+          },
+          "hash": "fcc8535fd663e99f5a74308b6b5425afaff2da40",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q75670$67446267-B056-42FD-85FB-DDBDB4E38D45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75754",
+              "numeric-id": 75754
+            }
+          },
+          "hash": "1ae3231ad815d8469a44203cee05def8ecb6ab3c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q75670$82C204D7-A3D2-44DC-BBB7-BDBEA909A852",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Maecia Proba /De Rome/"
+            }
+          },
+          "hash": "78b8c3c5ccecd32b2a24491c3db2d14af195ed76",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75670$7E7A7805-1F38-4004-87E6-5C4FCD36C11F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q75670$24FBE276-8183-4CB6-ADEA-75BD04078275",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645877257"
+          },
+          "hash": "7b8ccfe84b5c4d14a3602b01d321eefd393812d1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75670$74BB0655-B6C1-45C7-973E-075C3C0DBC8F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maecia Proba  De Rome Arms.svg"
+          },
+          "hash": "f1183a1789e425b57a7ed20ae5d9ca584593b04e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q75670",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maecia Proba  De Rome"
+    }
+  },
+  "lastrevid": 17488972,
+  "modified": "2025-09-16T19:23:50Z",
+  "ns": 860,
+  "pageid": 90501,
+  "sitelinks": {},
+  "title": "Item:Q75670",
+  "type": "item"
+}

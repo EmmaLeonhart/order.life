@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kii Tomofusa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68834$52E71E11-0CC0-4423-993C-D62CC7FFFBC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68834$DD5AF6AE-7263-4EF8-A5B9-FF26A3BA976A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68834$ADE8029B-82DA-4455-A1CC-1A033251011B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63521",
+              "numeric-id": 63521
+            }
+          },
+          "hash": "5ee73cd420a7fd00c9a3ac6c7153aa0ea8f02785",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68834$71974BB5-1243-4FC2-A1F9-06B9FC23360E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68834$0E81247F-505E-4111-BAEE-4DA0B0E9B392",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1571-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45661e2ab9dec6f055963d988f8a4939471b0756",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68834$8D7B816E-685D-4CDC-98DC-70EF778A042E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1588-05-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce52e6fc2ed716daa97f47f17592e912acd2c26e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68834$5F62F961-F977-44C2-A9DE-568D49E86618",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11425973"
+          },
+          "hash": "3780187a834b38fdf8c8264beffc5ffcb8449362",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68834$CC07794C-640D-4DAA-870A-F53156080272",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kii Tomofusa Arms.svg"
+          },
+          "hash": "85fc96ec60599e275feb7ab4574d2e87d806af76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q68834",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kii Tomofusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "城井朝房"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томофуса Кии"
+    }
+  },
+  "lastrevid": 17480290,
+  "modified": "2025-09-16T17:22:17Z",
+  "ns": 860,
+  "pageid": 83665,
+  "sitelinks": {},
+  "title": "Item:Q68834",
+  "type": "item"
+}

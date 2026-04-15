@@ -1,0 +1,826 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy"
+      },
+      {
+        "language": "en",
+        "value": "Πτολεμαίος"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy VI"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy VI Philometor, Pharaoh of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73197$5C5BA071-1F8A-4976-8A00-69A558D764AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567164"
+          },
+          "hash": "d74bc925359af3d25da20b21bd035149dace5d69",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73197$B4C2E7C7-C80C-4EF1-95F8-51844A7771CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78719",
+              "numeric-id": 78719
+            }
+          },
+          "hash": "555e7bef9f56254f83ed65860a3a564edaa92e30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$6E001934-D9D9-4BDE-A565-0B3611220CF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73044",
+              "numeric-id": 73044
+            }
+          },
+          "hash": "588b940af5253b245d7af7a81568dbc9d84fb232",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$138722F2-310D-42AF-9D0D-F139F3957552",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135917",
+              "numeric-id": 135917
+            }
+          },
+          "hash": "5f6b8e7a53f920e1ed0379397a3278b45e834007",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$875F47AC-E914-4BD6-BB65-018805CFA5B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73035",
+              "numeric-id": 73035
+            }
+          },
+          "hash": "1d035132209c670928511257a4438b764385b5f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$CE740B5D-F859-4ED1-9455-09E1E386A61D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135915",
+              "numeric-id": 135915
+            }
+          },
+          "hash": "c82f092ec3be18af788dd46756146f4b627a06c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q73197$DCE01D39-8429-460E-B013-16AAF8535640",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Πτολεμαίος"
+            }
+          },
+          "hash": "49558d8619644a99ab0c6c6ec3f83bfcebfa584c",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$B28B2B71-542D-40A8-901A-548513B33A22",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ptolemy VI"
+            }
+          },
+          "hash": "e846cf1d23eff13543eb58abdeb65dc9f2588efb",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73197$FC945D1A-E0D5-4896-A706-844AB91AFF1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$87E06398-C235-40A9-A22C-A82D777AF692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73197$93FF4AA5-8772-4676-A110-3660B4440B30",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy_VI_Philometor_(1)"
+          },
+          "hash": "060c4beecbe227f1c7b976617b15ac49e49c0802",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73197$5F8A4621-0F5E-424E-8D3B-20F652F188B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73194",
+              "numeric-id": 73194
+            }
+          },
+          "hash": "e4506589896fb44de288e5a441cfcfe68aab2ecf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$5031421E-B0AA-429F-9915-3E3B0B5F61C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73035",
+              "numeric-id": 73035
+            }
+          },
+          "hash": "d6b7c478a8f76fccadc65bab945660d811371e57",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73197$0D45CA2E-808C-405F-9067-2B48ADF91D56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99396",
+              "numeric-id": 99396
+            }
+          },
+          "hash": "03fbc7187161381ca94b3fbe1ca140c14b1cb473",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$20EA30A1-8DB6-42C3-BD05-36F657651B28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73200",
+              "numeric-id": 73200
+            }
+          },
+          "hash": "b89d5fcc509ab37e197dd77e06b11623dd55c040",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73197$B70A5222-97AB-4A25-ABC0-91CB48C9719C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73203",
+              "numeric-id": 73203
+            }
+          },
+          "hash": "23c7f42eca1cc1b2ee8668d54cad9732575ab201",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q73197$EE35D599-E054-45A2-8A1C-69CA254E1743",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Πτολεμαίος //"
+            }
+          },
+          "hash": "6372cbe1de57bcfc10fb3185cb5072d4af7d07a1",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73197$BB5289BD-AF6B-4601-BDDD-8D40723D299F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ptolemy VI //"
+            }
+          },
+          "hash": "ffd00dd8b0e2b0829e85b18a56013b56a72854c6",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73197$850A4533-3249-4E53-8234-05826DC628E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73197$F63FAF41-8002-4C48-8DC3-3F88ECBFA08A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0184-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d042e3b0f513510efaca295aed9145c284b79dd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73197$7A125695-7719-45AD-8B26-A7710FD10B70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0145-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f22eca527f4a9c27f4ca1b2c21e0398b01ea213",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73197$D587609B-AE8F-45B5-BC5C-7FB5CBD016E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q39952"
+          },
+          "hash": "c28ba48c1b9e0a0652da170ba5eeebddf949b0db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73197$9642C01F-533A-48A9-8616-1B82DD6CFB94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005987293003"
+          },
+          "hash": "09d612a7728aae2d73fe2efc510898fb33b5d930",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73197$8ECA94D2-3C41-4F4C-A1AD-B056DC076772",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:50804"
+          },
+          "hash": "7fd99b3e1b66e11a33828e404474de175c4e5435",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73197$AE30C992-D033-4581-B76D-141855F2BCFA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy VI Arms.svg"
+          },
+          "hash": "74e82a4390ad6126df10d925472bcd1f3bc011e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q73197$B3E3E7E0-4907-4FC5-99DC-82EABC0C5088",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/e383315f-78ea-4c12-b452-bb66ab8ecd92"
+          },
+          "hash": "9922d5c34d6bb01f7019d87aeb208974caa531c2",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "de": {
+      "language": "de",
+      "value": "6. König von Ägypten während der Ptolemäerzeit"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς της ελληνιστικής Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Egyptian pharaoh"
+    },
+    "es": {
+      "language": "es",
+      "value": "faraón de Egipto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך מצרים"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եգիպտոսի փարավոն"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano del Regno tolemaico d'Egitto (r. 180-170, 163-145 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Ptolemaeën (184v Chr-145v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faraó"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Faraó"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Египта, правил в 181/180 — 146/145 до н. э. гг. до н. э."
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තු පාරාවෝ"
+    }
+  },
+  "id": "Q73197",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس السادس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس الساتت"
+    },
+    "az": {
+      "language": "az",
+      "value": "VI Ptolemey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей VI Філаметар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей VI"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu VI Filomètor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios VI. Filométor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ptolemi VI Philometor"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ptolemaios VI Filometor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios VI."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος Στ΄ Φιλομήτωρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy VI"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ptolemeo la 6-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo VI"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios VI"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ptolomeo VI.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بطلمیوس ششم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios VI"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée VI"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tolamaes VI"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי השישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ptolemej VI. Filometor"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VI. Ptolemaiosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պտղոմեոս VI"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios VI Philometor"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo VI"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス6世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პტოლემე VI"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 6세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaeus VI"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ptolemėjas VI Filomėtoras"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ptolemaiosy VI"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ptolemaios 6-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios VI Filometor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus VI Philometor"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ptolemaios VI Filometor"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Ptolemèu VI"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz VI Filometor"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "شپږم بطلیموس فیلومتر (په مور میین)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu VI Filometor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu VI Filometor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей VI Филометор"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Ptolemy VI Philometor"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ptolemej VI Filometor"
+    },
+    "si": {
+      "language": "si",
+      "value": "ටොලමි VI ෆිලොමේටර්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj VI. Filometor"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Птолемеј VI Филометор"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios VI Filometor"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஆறாம் தாலமி"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปโตเลมีที่ 6"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ptolomeo VI Philometor"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VI. Ptolemaios"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей VI Філометор"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemaios VI Philometor"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Ptolemy 6k Philometor"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密六世"
+    }
+  },
+  "lastrevid": 17614263,
+  "modified": "2025-09-21T01:07:56Z",
+  "ns": 860,
+  "pageid": 88028,
+  "sitelinks": {},
+  "title": "Item:Q73197",
+  "type": "item"
+}

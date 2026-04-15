@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Stork  Pharaoh of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62567$C8E2B769-B7EB-45D8-A8B5-3273FC4AE0F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62564",
+              "numeric-id": 62564
+            }
+          },
+          "hash": "58534188a55ccf60b2a2b63cbb6c3b5d0d1f3cb4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62567$DB4F1F7F-391F-4A42-A584-E8362183887C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62567$ADBFF43C-018E-4B2C-9ACC-DAA3E05C0E7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62567$DAED759D-35C2-4051-BACD-9BA947400AAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62573",
+              "numeric-id": 62573
+            }
+          },
+          "hash": "c509be9f1ae6d1ccdf56fb00098d5c9491ca629b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q62567$5E4BFE20-B461-4070-BE2E-2022880AB3AA",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Stork /Pharaoh of Egypt/"
+            }
+          },
+          "hash": "0c6e600adc0765d0ace42c6a2566b099e7675cd6",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62567$2E4E718D-AAEC-44EA-8C14-CF5838AE937B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62567$DAA97980-FF2B-4FE9-8AE2-106455F9CC6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65165370"
+          },
+          "hash": "f2f45c8baca2939c6602e4c6e194041e21af3fb8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62567$2C063261-A581-43E3-8412-0878106D624E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Stork Arms.svg"
+          },
+          "hash": "d5ea2fcac87de7a4a22107a1b0ec9e62c916286a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ancient Egyptian ruler (pharaoh)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "фараон 00 династии Древнего Египта"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古埃及傳說統治者"
+    }
+  },
+  "id": "Q62567",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Cigonya (faraó)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Stork"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Stork"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cegonha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cegonha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аист"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟาโรห์สตอร์ก"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鸛_(法老)"
+    }
+  },
+  "lastrevid": 17472464,
+  "modified": "2025-09-16T15:26:42Z",
+  "ns": 860,
+  "pageid": 77398,
+  "sitelinks": {},
+  "title": "Item:Q62567",
+  "type": "item"
+}

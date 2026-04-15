@@ -1,0 +1,802 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Cocceius Nerva Caesar Augustus"
+      },
+      {
+        "language": "en",
+        "value": "Nerva, Roman Emperor"
+      },
+      {
+        "language": "en",
+        "value": "Nerva"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q68283$DD0A77FC-ED5F-4E31-94C0-E5001A832E39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446828"
+          },
+          "hash": "60643fae081bee721850d69af60f034477b591a7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q68283$7D1A8100-BDB6-4EF2-8451-7B36B89F77DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66784",
+              "numeric-id": 66784
+            }
+          },
+          "hash": "0b6049283fc5f1fbb396e75a680b2ba0967bd3d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68283$2442EE31-DF6A-4276-97D4-2EF300D23085",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68283$9F86865D-E775-4419-AD0D-D9150A62D18B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68283$C1D15F0A-1789-4CDE-A103-B5569A4B5B87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70005",
+              "numeric-id": 70005
+            }
+          },
+          "hash": "67f0b563b226c7cbb33c25e749d6011dc106f2d9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q68283$7DE93F9F-857E-4760-A356-09B9DFCE4654",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69972",
+              "numeric-id": 69972
+            }
+          },
+          "hash": "eb2e5739bdf15b8af10b8168e93220bdb02dc4f4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q68283$E173A186-204F-4C42-9E20-2F21DDD4C366",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "33996359"
+          },
+          "hash": "c03a24dfd50296a3edd1cad9c0f5fca28c216a9e",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68283$E808E479-6147-4409-BD7F-4296A6A5B769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68283$6FC26D19-1294-455E-923A-DCD891D972C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0030-11-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5afca5bafd573dc261585a7bf6a8d3c6e5f99b78",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68283$96C5C231-4D78-4DF5-BBD3-3AE1CA415275",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0098-01-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a22c985eb4b7e3f2e3a42df09bc75df7365268e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68283$D6A3D46D-DDBE-441B-8D18-8D11848D125B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1424"
+          },
+          "hash": "60f3b476c96880a49ded0990f0185d45c41ac1d9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q68283$0AD24C4D-FB9B-44D1-A1C4-1EB6421A7D91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010249948712"
+          },
+          "hash": "c840900c13a8988c84ec14bed5308fac044cb8c7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q68283$BFCE2959-0DB2-4CED-8617-CACCD6B4FC85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26415"
+          },
+          "hash": "61e3b85845f91c64e59ca87a88bdd6237b16b702",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68283$9A628390-F681-4870-9462-89C322C1E5C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nerva Arms.svg"
+          },
+          "hash": "2c51382714065cc49f988406f03804a6b2b60159",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q68283$C636CFA4-23EF-4193-B92D-DFA58508997F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/6709E280-7CDA-4B3F-9836-1092F23F4901"
+          },
+          "hash": "5005300b7308142830c24ac980c021387f9ed586",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer roman"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà (96-98)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař (96–98)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ymerawdwr Rhufain Hynafol"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of Ancient Rome"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (96-98)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain de 96 à 98"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "impire na Sean-Róimhe"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 96 e 98"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi dari tahun 96 hingga 98 M"
+    },
+    "it": {
+      "language": "it",
+      "value": "dodicesimo imperatore romano (r. 96-98)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ帝国皇帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "제12대 로마 황제"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators no 96. līdz 98. gadam"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Romersk keiser"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperador Romano (96-98)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "12-й римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Romersk kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma imparatoru"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський імператор"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "君主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "古罗马帝国五贤帝时代的第一位君主"
+    }
+  },
+  "id": "Q68283",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Nerva"
+    },
+    "an": {
+      "language": "an",
+      "value": "Nerva"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "نيرفا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "نيرفا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Nerva"
+    },
+    "az": {
+      "language": "az",
+      "value": "Nerva"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "نروا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Нерва"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Нерва"
+    },
+    "br": {
+      "language": "br",
+      "value": "Nerva"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Nerva"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nerva"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nerva"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Nerva"
+    },
+    "da": {
+      "language": "da",
+      "value": "Nerva"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nerva"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Nerva"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Nerva"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νέρβας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nerva"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Nerva"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Nerva"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Nerva"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nerva"
+    },
+    "et": {
+      "language": "et",
+      "value": "Nerva"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nerva"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Nerva"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نروا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nerva"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nerva"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Nerva"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Nerva"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Nerva"
+    },
+    "he": {
+      "language": "he",
+      "value": "נרווה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Nerva"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nerva római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ներվա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Nerva"
+    },
+    "io": {
+      "language": "io",
+      "value": "Nerva"
+    },
+    "is": {
+      "language": "is",
+      "value": "Nerva"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nerva"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ネルウァ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნერვა"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Nerva"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "네르바"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Nerua"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Nerva"
+    },
+    "la": {
+      "language": "la",
+      "value": "Nerva"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Nerva"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Nerva"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Нерва"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "नर्व्हा"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Nerva"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "نروا"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Nerva"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nerva"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nerva"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Nerva av Romarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Nerva"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nerwa"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Nerva"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nerva"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Nerva"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Nerva"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нерва"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Nerva"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Nerva"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nerva"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Nerva"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Nerva"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nerva"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Нерва"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nerva"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kaizari Nerva"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิแนร์วา"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Nerva"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nerva"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нерва"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "نیروا"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nerva"
+    },
+    "war": {
+      "language": "war",
+      "value": "Nerva"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "涅尔瓦"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ნერვა"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Nerva"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "尼法"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "涅尔瓦"
+    }
+  },
+  "lastrevid": 17479644,
+  "modified": "2025-09-16T17:13:29Z",
+  "ns": 860,
+  "pageid": 83114,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q68283",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q68283"
+    }
+  },
+  "title": "Item:Q68283",
+  "type": "item"
+}

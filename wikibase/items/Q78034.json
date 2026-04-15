@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bōjō Toshinaga"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q78034$65596E95-8681-412B-8167-43388880A8A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "坊城-23"
+          },
+          "hash": "9be319c4b695e8e175e553e1e68e101cf2024f16",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78034$AE4C87B1-130A-4C6C-8E17-5560C86CC7F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78034$11AD4290-F6A2-41EC-AD2A-07964DD698E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78034$19C394AD-581F-478F-9988-CB0F4FBDC8CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52497",
+              "numeric-id": 52497
+            }
+          },
+          "hash": "56735fb259350ea427b88a8f7379c04d79d4bd46",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78034$22F1B89E-3981-4012-A1B8-D95FBCA1649A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78034$87D5AA1C-8594-406E-BC01-010913672CA9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1893-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbec239965cefda0782a91f3e07938e76bdc7d2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78034$3438442B-3935-466D-ADFA-742A727ACCAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1966-05-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f3815df2d7c9d132bb16991355e4f84a94428460",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78034$E02FC446-66D5-4200-B6A7-DA57F84010B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16865306"
+          },
+          "hash": "ea0e7e42f6596c12c97b36f386918dbb97b24b58",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78034$6E47B4FF-7555-42E3-800B-C7C4F046AE54",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bōjō Toshinaga Arms.svg"
+          },
+          "hash": "59bef949bd607327e79bf9787a409d7f792a6c59",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "15 Aug 1893 - 30 May 1966"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の華族"
+    }
+  },
+  "id": "Q78034",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Bōjō Toshinaga"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bōjō Toshinaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bōjō Toshinaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bōjō Toshinaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "坊城俊良"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "보조 도시나가"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bōjō Toshinaga"
+    }
+  },
+  "lastrevid": 17492010,
+  "modified": "2025-09-16T20:07:19Z",
+  "ns": 860,
+  "pageid": 92865,
+  "sitelinks": {},
+  "title": "Item:Q78034",
+  "type": "item"
+}

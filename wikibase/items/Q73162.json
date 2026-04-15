@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Doi Toshisuke"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73162$CCFC19BF-0D39-42E9-BD7F-81AEF4DDBB10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "堀田-23"
+          },
+          "hash": "980149cf9def08c81f59c93bebce4f2e4f32d59a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73162$092938DD-B620-4409-96D9-3026B2386C23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73162$54BF7035-519D-422E-9F9B-97A609C6A03D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73162$FEC9CF20-0A84-46C6-8530-989C840123A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68212",
+              "numeric-id": 68212
+            }
+          },
+          "hash": "e2329437f4e02507596aa4cc976891604410a4da",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73162$B5BBB821-8A94-4956-BDD5-9A82013BD0D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73162$AA976F4F-A680-4674-85E0-D860CD7DF79D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1821-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ba56e0f05195c108547cd992ecfd97f9c5b3bea",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73162$59CBF727-C634-4858-B834-78837F17FD78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1847-01-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9dea4c9f1676c345af5dc53402f17aa2742544cd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73162$92B24571-1FB9-46B4-8D2D-2CDBDD35E13E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10524619"
+          },
+          "hash": "6b29d4ed75b4a47ab81506ca56444d20a3838f15",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73162$4ABD2B39-DE0E-47D7-B3F6-981181B09CDA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Doi Toshisuke Arms.svg"
+          },
+          "hash": "65e937b9254d9c576de4bca1fcdcf695a2484e91",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1821 - certain 29 Jan 1847"
+    }
+  },
+  "id": "Q73162",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Doi Toshisuke"
+    },
+    "de": {
+      "language": "de",
+      "value": "Doi Toshisuke"
+    },
+    "en": {
+      "language": "en",
+      "value": "Doi Toshisuke"
+    },
+    "es": {
+      "language": "es",
+      "value": "Doi Toshisuke"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土井利祐"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосисукэ Дои"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "土井利祐"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "土井利祐"
+    }
+  },
+  "lastrevid": 17485856,
+  "modified": "2025-09-16T18:40:57Z",
+  "ns": 860,
+  "pageid": 87993,
+  "sitelinks": {},
+  "title": "Item:Q73162",
+  "type": "item"
+}

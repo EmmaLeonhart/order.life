@@ -1,0 +1,494 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Arrius Antoninus Calpernius Antoninus"
+      },
+      {
+        "language": "en",
+        "value": "Consul (69) - Gnaeus Arrius Antoninus"
+      },
+      {
+        "language": "en",
+        "value": "Gnaeus Arrius Antoninus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q66653$A2C3D815-901D-4F29-9264-EC045BF6621E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "415817"
+          },
+          "hash": "8c9b0aa23ef5c67cbd13679fef5a49cac356e82f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q66653$E107AD59-00A0-4E71-A261-FAE5DFBBD066",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800943"
+          },
+          "hash": "2576d34c43030fb6765bc2e9df00d323bd5e672c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q66653$9AE46B52-6634-470E-9DBF-891523DB8D36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65456",
+              "numeric-id": 65456
+            }
+          },
+          "hash": "2acd0ac43d162574b7e7cf2dba3424a8762dc843",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66653$D61F95D5-9739-469A-9B6E-612894964493",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67184",
+              "numeric-id": 67184
+            }
+          },
+          "hash": "096b1bb67414d90b7487f40d74cc53c3e6a7fb20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66653$A28DE299-3026-49F8-95C4-7AF9D0202ABD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144385",
+              "numeric-id": 144385
+            }
+          },
+          "hash": "8ddea7b3cb795cc680c4719a85d022cb45081f83",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66653$5134DFCF-C435-42FF-A869-0834F9BA6603",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144384",
+              "numeric-id": 144384
+            }
+          },
+          "hash": "61eb24237c088713a5c1e37d9e12ef8822a0b82c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66653$315A73DB-D486-49DC-95A6-663027815D91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66653$D7FF5203-C2D7-45AA-BF9A-E4EC95BD04F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q66653$87C661FA-8C22-431D-BFA6-6473EBF20A15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66685",
+              "numeric-id": 66685
+            }
+          },
+          "hash": "3fad4c4e3b4b828a64d5ca41a17aa184349b9134",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66653$107E6885-DF8F-4F78-BE55-E891B031E490",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68845",
+              "numeric-id": 68845
+            }
+          },
+          "hash": "251c90914cd93682e3269104215f8692cba7909b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66653$E7315A40-8B43-4BA5-BF28-1A15643B817B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68091",
+              "numeric-id": 68091
+            }
+          },
+          "hash": "e1381245539af5924426665bb0ea256283784458",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66653$E3712582-CF91-4432-899A-D796DEC66B79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68058",
+              "numeric-id": 68058
+            }
+          },
+          "hash": "709889dfc01da44814ded0871b11253fd951e3fc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66653$C60122F3-9350-4244-BA9E-F7F61951D644",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q66653$42F4CC56-8EF8-4C79-811A-C02C0B4827C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0031-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a353a89abc1f2d8d86b514db08c93fbf5b22571",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66653$A302DFD5-9E9D-4484-945A-6BA9CBABC965",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1225299"
+          },
+          "hash": "ea0c4374611e8ffbd293dc808031bc0128a06376",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66653$158CFB7B-1454-4005-BB16-94F368D38CBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009438016327"
+          },
+          "hash": "5085917f8d785f8cc051ba3074ef43c433c210de",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q66653$48FAE297-86B9-42AB-A1A6-C8232C9DFB7A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Arrius Antoninus"
+          },
+          "hash": "08d88007903202a4a9db72be775571dabfab02c5",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66653$66799611-AE7A-4203-9787-ECF0FE19C928",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Arrius Antoninus Arms.svg"
+          },
+          "hash": "cd04b84c841d50775ccd58a5e7c7189a3bc9d9b0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 69 und wahrscheinlich 97"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century AD Roman senator and consul"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen senaattori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 69 et en 97"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "서기 1세기 로마 원로원 의원 및 집정관"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q66653",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Qney Arri Antonin"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гней Арий Антонин"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Arrius Antoninus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Άρριος Αντωνίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Arrius Antoninus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arrio Antonino"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گنائوس آریوس آنتونینوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Arrius Antoninus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Arrius Antoninus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Arrio Antonino"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Arrio Antonino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・アリウス・アントニヌス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그나이우스 아리우스 안토니누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Arrius Antoninus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gnaeus Arrius Antoninus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Arrius Antoninus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Árrio Antonino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Árrio Antonino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Аррий Антонин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Аррій Антонін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "格奈烏斯·阿里烏斯·安敦尼"
+    }
+  },
+  "lastrevid": 17477480,
+  "modified": "2025-09-16T16:42:26Z",
+  "ns": 860,
+  "pageid": 81484,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q66653",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q66653"
+    }
+  },
+  "title": "Item:Q66653",
+  "type": "item"
+}

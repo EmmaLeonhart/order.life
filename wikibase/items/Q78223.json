@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Noriyoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q78223$3CC252A1-4144-40E8-8BD3-6245B4B5B663",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-630"
+          },
+          "hash": "24c707030baec43595685a400992eedc14075f87",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78223$3DEC45F9-DB4F-4311-A299-E52FC3584DE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78223$590B8CEF-EDBE-4A81-82FC-3EA283064012",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78223$58557E08-6B54-40BF-8F6D-9C28A97A97EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73411",
+              "numeric-id": 73411
+            }
+          },
+          "hash": "3d4fa292704a3a9634eeb093cf5458900ba118f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78223$C8DD785E-4DB8-4FA0-9F09-23280FE2AD0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78223$C108CF00-D8C5-4B37-B9B0-30B1B3A05235",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1827-12-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4ccd9b997a0cc3e333f4ab1e8b67a03869445c14",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78223$E4EE025D-565D-4CB1-90C1-6C9FB895A7AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1850-07-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ccb3a0cddf041c5cc5babd19cd7ee8eb316bc2d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78223$21C2910F-73FF-41DB-8703-39740028C284",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10729479"
+          },
+          "hash": "f68e3821de1094184f606e21311c777755678641",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78223$A040CC44-958C-424C-9D9F-73BFB0761CA7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Noriyoshi Arms.svg"
+          },
+          "hash": "0c120d3741c98ac96339be1bc98d27e923554d12",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "14 Dec 1827 - 11 Jul 1850"
+    }
+  },
+  "id": "Q78223",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Noriyoshi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Noriyoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Noriyoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Noriyoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平乗懿"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нориёси Мацудаира"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Noriyoshi"
+    }
+  },
+  "lastrevid": 17492214,
+  "modified": "2025-09-16T20:10:12Z",
+  "ns": 860,
+  "pageid": 93054,
+  "sitelinks": {},
+  "title": "Item:Q78223",
+  "type": "item"
+}

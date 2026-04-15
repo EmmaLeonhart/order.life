@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogasawara Ienaga"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73117$32A7220F-63AC-41A9-9C1D-0DC23B98262B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77986",
+              "numeric-id": 77986
+            }
+          },
+          "hash": "4bba2fc2c1d436b8777051961d8a9223c256ad48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73117$306D2094-A7A4-45C3-A377-203ADADC4369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73117$4974E19D-BE38-4F8B-8277-6A01AE3C33E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73117$1A64A775-126E-47C3-A958-56C4696590DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68137",
+              "numeric-id": 68137
+            }
+          },
+          "hash": "25026c81e1fa18efc51b715cb0269d68bc2abf27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73117$FA626122-6A51-4321-B44D-49667CD7FF03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73117$7633C212-EF23-4058-A414-3478BD774EFF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f80914007d655a7de613108a9637157810ff6cd8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73117$8050595F-98BA-43D4-87F0-31EA4E9879FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10856532"
+          },
+          "hash": "f0b8a531a0325b465bd4539c976ce7e0d7e75af2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73117$BB934237-7D14-45B4-B9BC-960C32AC3B98",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogasawara Ienaga Arms.svg"
+          },
+          "hash": "4648899697eb6a18882b0653fdc71832c6b4b344",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the late-Muromachi period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代後期の武将。信濃国の松尾小笠原家当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q73117",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ogasawara Ienaga"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ogasawara Ienaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ogasawara Ienaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ogasawara Ienaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原家長"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иэнага Огасавара"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ogasawara Ienaga"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小笠原家长"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "小笠原家长"
+    }
+  },
+  "lastrevid": 17485796,
+  "modified": "2025-09-16T18:39:56Z",
+  "ns": 860,
+  "pageid": 87948,
+  "sitelinks": {},
+  "title": "Item:Q73117",
+  "type": "item"
+}

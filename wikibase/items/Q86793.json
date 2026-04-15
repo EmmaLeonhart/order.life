@@ -1,0 +1,707 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Massinissa"
+      },
+      {
+        "language": "en",
+        "value": "Masinissa  King of Numidia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q71786$2C692F4C-B413-4AB1-9137-7C2A7539E8DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "379597"
+          },
+          "hash": "ea18fd8df9a396ee069711c752aa635f83c3857d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q71786$E52598CB-3568-4C6C-912A-518615274B7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71771",
+              "numeric-id": 71771
+            }
+          },
+          "hash": "abdbc9d43b713586800d17b0d67324e1c139dc5f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71786$49A85E48-AEFA-4603-B496-4ED1C3920FB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71789",
+              "numeric-id": 71789
+            }
+          },
+          "hash": "272f947787886455727bff1eeb9abcdf12f23e64",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71786$6F82F0F9-62AE-4CEE-8E2B-B39805953AE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71792",
+              "numeric-id": 71792
+            }
+          },
+          "hash": "5717a6229c993c2ac51f7dd96275f3a2fe2424d9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71786$30424153-EE7E-42EA-88D3-5C554994354D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148223",
+              "numeric-id": 148223
+            }
+          },
+          "hash": "6b3b115ceec01b1786dc28d953ba988eb8802d81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71786$E9717698-6BF9-4E76-BB60-D02048F86AC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144294",
+              "numeric-id": 144294
+            }
+          },
+          "hash": "beff4995eae64e3205487531c7f267e449a51eb2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71786$85E1111E-D680-4B65-B0E9-1D3F02A4E621",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144293",
+              "numeric-id": 144293
+            }
+          },
+          "hash": "69ee41d3b40ed7ee46a8d37e5dd3649005970c99",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71786$CAA710BB-EDF8-4763-AD89-B3358164B6D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71786$E2339491-5A10-4659-A74C-05800DDFDC7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q71786$F6EFF0A5-D4DC-4C3F-A0D7-D6992313F254",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148222",
+              "numeric-id": 148222
+            }
+          },
+          "hash": "e2575fcff316c898b1052da759ecde614edc4478",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71786$ADC00A17-71B2-4E55-9665-22A94867ACB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71807",
+              "numeric-id": 71807
+            }
+          },
+          "hash": "b5b532158da2213e02e53bb754eaba139c40bc9f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q71786$67D646B5-A3D8-40E4-A270-507CED3DA60F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Masinissa /King of Numidia/"
+            }
+          },
+          "hash": "e42d161f105554f8701bb6a16b6bbd4783d48a43",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71786$39FA3876-6350-4D1B-9DD2-399D6FAB1B2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q71786$99852B47-B22F-497C-BA97-D358A4E15A8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0238-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea7d4a0b85fb7d479b3e965570cfec1572cffe8f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71786$B1A4D67F-A46C-46A6-AF6D-67DF83B2C017",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "121b367c9ee91ffd821434c19e12d7d5c925692d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71786$809E687B-DF59-4E33-8A95-894B7E25F687",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q314685"
+          },
+          "hash": "e27fbf30d6c625c0be68b8a5619b20d87653ebe9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71786$E5D5D3A1-553B-4860-961F-EB3E7F897279",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Massinissa Arms.svg"
+          },
+          "hash": "c6bc26b542dfe9c4564542f6851bf4bc3daa75ea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q71786$A5C9D967-554C-4BA5-B016-02784DB158DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/c1ef640b-c203-485d-a612-83d20271aa09"
+          },
+          "hash": "8358004b8c0aa48fb1b5f18b06031431d5d30e29",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك نوميدي أمازيغي"
+    },
+    "arq": {
+      "language": "arq",
+      "value": "الملك تع مملكة نوميديا"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "ملك نوميدي أمازيغي"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Numidia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "numidský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Numidien"
+    },
+    "el": {
+      "language": "el",
+      "value": "ιδρυτής και πρώτος βασιλέας του Βασιλείου της Νουμιδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "first king of Numidia from 202 BC to 148 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Numidia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fondateur et premier roi du royaume de Numidie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "numida masszüliosz törzs királya"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Numidia"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Numidia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヌミディアの王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Numidië (238v Chr-148v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Numidii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Нумидии"
+    },
+    "shi": {
+      "language": "shi",
+      "value": "Agllid amaziɣ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "prvi kralj Numidije od 202 pr. n. št. do 148 pr. n. št."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цар"
+    }
+  },
+  "id": "Q71786",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماسينيسا"
+    },
+    "arq": {
+      "language": "arq",
+      "value": "ماسينيسا"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "ماسينيسا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماسينيسا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Масініса"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Масиниса"
+    },
+    "br": {
+      "language": "br",
+      "value": "Massinissa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Massinissa de Numídia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Massinissa"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Massinissa"
+    },
+    "da": {
+      "language": "da",
+      "value": "Massinissa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Massinissa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μασσανάσης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Massinissa"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Masinissa"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Masinissa"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Masiniso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Massinissa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Masinisa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماسینیسا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Masinissa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Massinissa"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Massinissa"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Μασανάσσης"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Masinissa"
+    },
+    "he": {
+      "language": "he",
+      "value": "מסיניסה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Masinisa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Masszinissza"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մասինիսսա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Masinissa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Massinissa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マシニッサ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მასინისა"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Massinissa"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마시니사"
+    },
+    "la": {
+      "language": "la",
+      "value": "Masinissa"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Masinissa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Masinissa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Massinissa"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Masinissa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Masynissa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Massinissa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Massinissa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Массинисса"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Masinisa"
+    },
+    "shi": {
+      "language": "shi",
+      "value": "Massinissa"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Masinisa"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Masinissa"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Масиниса"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Masinissa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "massinissa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Масинісса"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "მასინისა"
+    },
+    "zgh": {
+      "language": "zgh",
+      "value": "ⵎⴰⵙⵉⵏⵏⵙⵏ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马西尼萨"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "马西尼萨"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "马西尼萨"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬西尼薩"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "馬西尼薩"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "马西尼萨"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "馬西尼薩"
+    }
+  },
+  "lastrevid": 17484048,
+  "modified": "2025-09-16T18:15:20Z",
+  "ns": 860,
+  "pageid": 86617,
+  "sitelinks": {},
+  "title": "Item:Q71786",
+  "type": "item"
+}

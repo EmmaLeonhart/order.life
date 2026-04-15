@@ -1,0 +1,466 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Mucius Scaevola"
+      },
+      {
+        "language": "en",
+        "value": "Consul (133 BC) - Publius Mucius Scaevola"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72633$2325982D-1082-4D8E-8EB5-4FFB91F51D02",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736059"
+          },
+          "hash": "ce3f98a6ba988d79f45fb5fcc1d2f6dcff3e3244",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72633$75061E37-5D8B-47E3-991B-74F34984B420",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72451",
+              "numeric-id": 72451
+            }
+          },
+          "hash": "72178dca6fb2cd1a23a60dd7d43a42698c764285",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72633$782B377A-F215-4301-AF1B-3DF1C1F840C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72633$753CDA05-9A3F-4801-9993-C0E20B6324CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72633$E0BCB5E0-BFBA-40C5-B54B-C63D485853CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius_Mucius_Scaevola_(1)"
+          },
+          "hash": "ef5e20a13661caa8256cf11c14870e51fc544054",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72633$ED602D9C-F329-4C4B-BB30-0540BF86CE61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72636",
+              "numeric-id": 72636
+            }
+          },
+          "hash": "4aa8ad60b174aa1869c10a041f1a1dc58ea23755",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72633$CE795D3F-9378-4F0B-9C80-BC3DBEE3E3A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72807",
+              "numeric-id": 72807
+            }
+          },
+          "hash": "a1acf22cef6fcd0ef7f97a77ae1fa9b15e46d530",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72633$612BA65D-7A9F-44C4-9B8A-802892AE22A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72810",
+              "numeric-id": 72810
+            }
+          },
+          "hash": "2a81bdb6d210758ebc6eed7b84bd00f330461162",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72633$021DF979-AE94-468E-89D8-DA392B0C356C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "consul 133 BC"
+          },
+          "hash": "977570ff862a8b3bd1114959b714c0c21b6896b8",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72633$2CA27615-1286-474F-BCDB-0739E1526106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72633$BD7CE5E9-14D1-4C9D-9E5A-628E45665DF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcf2ac482ee72ef95ed692ae698dbe4e881b734a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72633$D584EEF0-0A13-4465-A2D5-4E36FB24C4C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0114-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c977301a12096e18e904ea922c2562f9b9a7e618",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72633$90E09100-E9AD-4442-A612-54F4D39E6914",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q261441"
+          },
+          "hash": "e8d0b350de18c3cf6d0deef5e3ad484c3254dd5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72633$542CB2AE-2A1D-4501-B559-FE71B4BE3325",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002188289133"
+          },
+          "hash": "92b5705d07302baf3d62cf4750c4cda577e9dec6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72633$E6ECBFE8-10B7-43C5-85D9-7173B7E5E7FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Mucius Scaevola Arms.svg"
+          },
+          "hash": "e790c9876a94f352763092acf11d8f0f25f6c542",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol 133 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul (v180-v115)"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ancient Roman politician"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 133 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e giurista romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (180v Chr-115v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 133 года до н. э."
+    }
+  },
+  "id": "Q72633",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "پوبليوس موسيوس سكايڤولا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Муций Сцевола"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Muci Escèvola"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Mucius Scaevola"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Μούκιος Σκαιβόλα (ύπατος το 133 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Mucius Scaevola"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Mucio Escévola"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Mucius Scævola"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Mucio Escévola"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Publio Mucio Scevola"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Muzio Scevola"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・ムキウス・スカエウォラ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Mucius Scaevola"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publius Mucius Scaevola"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Mucius Scaevola"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Publius Mucius Scaevola"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Publiusz Mucjusz Scewola"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Múcio Cévola"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Múcio Cévola"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Муций Сцевола"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Mucije Scevola"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Mucius Scaevola"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Mucius Scaevola"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Муцій Сцевола"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利乌斯·穆修斯·斯卡沃拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普布利烏斯·穆西烏斯·斯卡埃沃拉"
+    }
+  },
+  "lastrevid": 17485162,
+  "modified": "2025-09-16T18:31:01Z",
+  "ns": 860,
+  "pageid": 87464,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72633",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72633"
+    }
+  },
+  "title": "Item:Q72633",
+  "type": "item"
+}

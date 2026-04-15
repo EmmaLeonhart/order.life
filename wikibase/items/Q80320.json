@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Meng"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q80320$F59A6E95-EC45-443B-B6C8-BB34B14F424B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q80320$AEEB2F57-FBD3-4B48-AC5E-A06709AE5211",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q80320$E6B700A5-DAA8-4AB9-A2D4-47ED6E56E3BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75780",
+              "numeric-id": 75780
+            }
+          },
+          "hash": "901de0a1f332a1f418db3152cc418028be64adb3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q80320$91E0C7DB-BC61-4FF4-AC95-7D46CEAA5AA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q80320$C97C1012-E3EA-4395-B6E7-086A43F8C88F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0813-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe82c8d17bb5aefbf436ea3d72c6241b1b623bfd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q80320$975F1FCC-0047-42C7-AE84-38174F540C68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0851-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60fb4dd5bcec79debc4fa979f3d15510625d1034",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q80320$56F03F01-212F-4FE1-9E00-1E4B7D464EB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45442857"
+          },
+          "hash": "5c421c2723b932febcb912922c84a8ca5371f04a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q80320$7FA4BA82-31C3-4FCB-AFE3-3D66B13E0B3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074733264872"
+          },
+          "hash": "f9ed673db5c36b0fe9f775fc3609d22a1337027c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q80320$114D8723-3159-457F-926F-A226541EEFDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Meng Arms.svg"
+          },
+          "hash": "529096525b95845dc571322e678233ce4143162c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 145067"
+    }
+  },
+  "id": "Q80320",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Meng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Meng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Meng"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭濛"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Meng"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Mông"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭濛"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧蒙"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭濛"
+    }
+  },
+  "lastrevid": 17494739,
+  "modified": "2025-09-16T20:45:13Z",
+  "ns": 860,
+  "pageid": 95151,
+  "sitelinks": {},
+  "title": "Item:Q80320",
+  "type": "item"
+}

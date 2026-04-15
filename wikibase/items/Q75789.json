@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Shuzhen"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q75789$7B2DFD8A-9773-4CA5-B0D3-67FDB1CBA877",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80329",
+              "numeric-id": 80329
+            }
+          },
+          "hash": "2a7a95e406d71d7c281be57bebffba898f3cd8df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75789$591F645D-083C-4E94-AF4D-1628D956B0A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80326",
+              "numeric-id": 80326
+            }
+          },
+          "hash": "0e688400145292a487c45d7bfd618af9560e00b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75789$12ED6705-3FB8-4D42-9DA2-0E36CEDD7EA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75789$4FBDB40D-E984-41BB-8840-CF4E442CB25F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75789$BDB6B2F9-2248-48A2-B14F-D9BCE44D5D49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75783",
+              "numeric-id": 75783
+            }
+          },
+          "hash": "4f36092b8cb456146b1490b9f98e9d2d4114442a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75789$654FFB12-1A28-4BDC-A864-7211290B16C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75789$3CF347F9-2A0E-45B2-B9B0-0B17EE62B2CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0485-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d0ff4d83b94ef30534d19913fb600c26c989c0f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75789$3DE716CF-BB5D-453A-B0D4-0751EB08EEF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26197789"
+          },
+          "hash": "6661b91ed0c1ac47caed82e3e51b23ecc73a22a3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q75789$77372A11-CDF1-4573-99E9-3BA1C2417DD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075346479888"
+          },
+          "hash": "a486c78e20c54e07f6ea91b9bcd09b24e203b6a7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75789$07E34703-B261-4A42-B41F-DC0C7F087B03",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Shuzhen Arms.svg"
+          },
+          "hash": "3ac8be6401b62562daa05280f098866fc281801a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Southern Qi person CBDB = 31800"
+    }
+  },
+  "id": "Q75789",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Shuzhen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Shuzhen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Shuzhen"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "柳叔珍"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Shuzhen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "柳叔珍"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "柳叔珍"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "柳叔珍"
+    }
+  },
+  "lastrevid": 17489130,
+  "modified": "2025-09-16T19:26:00Z",
+  "ns": 860,
+  "pageid": 90620,
+  "sitelinks": {},
+  "title": "Item:Q75789",
+  "type": "item"
+}

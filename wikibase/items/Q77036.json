@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Zigong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q77036$68CBB442-2767-4986-B72F-9F0055B7E44C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72261",
+              "numeric-id": 72261
+            }
+          },
+          "hash": "0b280b25d3183c8690412fe48132767012aa2b32",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q77036$B2DADDA7-E946-4468-88B7-1ABC7174D1D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77036$FFAEB99F-F60E-499B-9920-18CC4753B68E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77036$6FC6EE57-A36D-4701-8F99-CDF54184FB22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q77036$602B7F3A-19D3-4830-988B-D27456A70D2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77036$FD6D8C01-73CC-46C7-A98F-54B5B806A511",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0538-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b2b43ea157ede49b17210197f3de7c0a28b0078",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77036$89BB60A3-1BA9-4B08-8530-008DC21BF795",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15920460"
+          },
+          "hash": "49057957f35ed3cbae2c18a6d1818bff1a627b2f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77036$90AA27C8-1B4C-4477-878C-100E8ADFA61F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075373460821"
+          },
+          "hash": "fc56cc76dc4da6ed5c55bf6413bcc30f741674e7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77036$48F60413-730F-4350-941B-CD3E72869A86",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Zigong Arms.svg"
+          },
+          "hash": "b917c59b1e57d4936b54701ff68b1f7c30ac4687",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Eastern Wei person CBDB = 31837"
+    }
+  },
+  "id": "Q77036",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuan Zigong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuan Zigong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yuan Zigong"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源子恭"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "源子恭"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yuan Zigong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源子恭"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "源子恭"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "源子恭"
+    }
+  },
+  "lastrevid": 17490740,
+  "modified": "2025-09-16T19:48:57Z",
+  "ns": 860,
+  "pageid": 91867,
+  "sitelinks": {},
+  "title": "Item:Q77036",
+  "type": "item"
+}

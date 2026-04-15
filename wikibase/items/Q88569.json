@@ -1,0 +1,638 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Teispes"
+      },
+      {
+        "language": "en",
+        "value": "Teispes, king of Anshan"
+      },
+      {
+        "language": "en",
+        "value": "الملك تيسبس  بن الملك أخمينيس"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74443$87826B77-DA79-4E72-AD69-8D2224A52AE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "95863"
+          },
+          "hash": "f7fe274d0df6ec7701926040144a6368ba2e4a11",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74443$F59BCE34-A6C2-4AFD-A0EE-6BF7DAC55DAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736337"
+          },
+          "hash": "72660224dd0c9f4c7a3826607c4fafc6d774040a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74443$98DA3B27-1323-40AA-8328-BAD7590088BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74398",
+              "numeric-id": 74398
+            }
+          },
+          "hash": "4d6bb97b221c510178d8b4337feb456cabf17231",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74443$B83BAB6D-B98E-451A-8F89-A524BD36C792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74407",
+              "numeric-id": 74407
+            }
+          },
+          "hash": "67cf21a1967f55a51dd42d6e9b3322713cc2c2d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74443$F82412DB-B006-4555-82D6-3D3E11399EE9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك تيسبس"
+            }
+          },
+          "hash": "c869fdf97ef8a392341b76f5d1b33682d84a9077",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74443$85B61039-3C38-4044-8CDD-A0978C5E6149",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74443$3180E93D-7DFB-48AF-A91A-1C9F97BE87BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q74443$67258EB2-F895-4E27-9BF4-6104F08799FC",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "بن الملك أخمينيس"
+            }
+          },
+          "hash": "5a41ed098b66535086ae5adab9d0a1ed5004b524",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74443$C7BA1691-D6EA-4C99-B806-9584FCC1332D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135290",
+              "numeric-id": 135290
+            }
+          },
+          "hash": "cf71aa8d5bacc0453963feb672ec883fd22a2605",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74443$E4C57238-7AF1-4952-AC4D-DA90A69A15FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74485",
+              "numeric-id": 74485
+            }
+          },
+          "hash": "3b898829eded2d2b487b5d30ac073ea8da8af8fe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74443$1CD9239C-C0E1-42F5-BAA9-BC44ED636613",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك تيسبس /بن الملك أخمينيس/"
+            }
+          },
+          "hash": "bc46f03e9bd8986ce521b8ef45bc37b6bef03dfb",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74443$D9338286-7063-4781-AACE-FC5F00D41EB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74443$84836934-23DF-49FD-B43D-0987AAF014BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0640-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b135c1ef91fd7bec74aaa51ce6930a1345406576",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74443$09D0ED6B-2DBF-4C51-9716-E95B42F73B38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q310095"
+          },
+          "hash": "8ba5165b041b406e0162030c02cfb4769d086b4d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74443$6BC0C591-0042-4E31-A8A1-90A052549C55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008506694917"
+          },
+          "hash": "df7fcc19b7c2f5c84b10260d30420f8d06fa5f25",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74443$66462E10-D79F-4F5A-A855-26B2F90488EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007177486846"
+          },
+          "hash": "af699bd2bc1db9227f20b5e468ffabeb06ee15ee",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74443$388DEFDC-7AD0-468E-8111-982E739F356A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Teispes Arms.svg"
+          },
+          "hash": "21b8f390ba57efd16d37641db1b88119ad3d35da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "пэрсыдзкі кароль"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Anshan o'r 7fed ganrif CC"
+    },
+    "de": {
+      "language": "de",
+      "value": "zweiter Achämenidenkönig"
+    },
+    "en": {
+      "language": "en",
+      "value": "7th century BC King of Persian Anshan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دومین پادشاه پادشاهی هخامنشی (۶۵۰–۶۲۵ پ.م)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az ókori Parsa fejedelme"
+    },
+    "id": {
+      "language": "id",
+      "value": "raja Persia (675–640 SM)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "테이스페스는 페르시스의 아케메네스의 아들이며, 키루스 대왕의 조상"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ساتویں صدی قبل مسیح فارسی انشان کا بادشاہ"
+    }
+  },
+  "id": "Q74443",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "تيسبس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "چیشپیش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тэісп"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Тэісп"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teispes d'Anshan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Teispés"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Teispes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Teispes"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Teispes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τεΐσπης της Περσίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Teispes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Teispes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Teispes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teispes"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Teispes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "چیشپیش"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Teispès"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Teispes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Τείσπης"
+    },
+    "he": {
+      "language": "he",
+      "value": "צ'ישפיש"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teisp od Anšana"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Csaispis"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թեյսպ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Teispes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teispe di Ansan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テイスペス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "테이스페스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Çîspîş"
+    },
+    "ku-arab": {
+      "language": "ku-arab",
+      "value": "چیسپیش"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Çîspîş"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Teispas"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Teispesy"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Теисп"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Teispes dari Anshan"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "چیش پیش"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Teispes av Anshan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teispes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teispes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teispes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teispes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Теисп"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Teisp od Anšana"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Teisp"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теисп"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Теисп"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Teisp"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Teispes"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Чишпиш"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Teispes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Теісп"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "چیش پیش"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Teispes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "铁伊斯佩斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "铁伊斯佩斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "铁伊斯佩斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "鐵伊斯佩斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "鐵伊斯佩斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "铁伊斯佩斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "鐵伊斯佩斯"
+    }
+  },
+  "lastrevid": 17487370,
+  "modified": "2025-09-16T19:02:00Z",
+  "ns": 860,
+  "pageid": 89274,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74443",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74443"
+    }
+  },
+  "title": "Item:Q74443",
+  "type": "item"
+}

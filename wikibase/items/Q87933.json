@@ -1,0 +1,842 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Πτολεμαῖο"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy"
+      },
+      {
+        "language": "en",
+        "value": "Πτολεμαῖο"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy III Euergetes"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy III Euergetes, Pharaoh of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73491$42686B18-FAE5-4B90-B5D2-ABDE34725D91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351153"
+          },
+          "hash": "504b6e14366a5c6badc798bf8a93cc514294c0d8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73491$421CA6BC-4026-4E92-AE09-C61B6BE4484F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567192"
+          },
+          "hash": "e8bd68b24222afc7d90553eb10d76e43f953fdfe",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73491$502B6414-368C-4E8D-BAF3-C890AC41B94F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73353",
+              "numeric-id": 73353
+            }
+          },
+          "hash": "6f21242c889f91f7a93922e1c83a7abf54e085a2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$25C58989-B285-4D06-9ABE-57843CA89ACE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73356",
+              "numeric-id": 73356
+            }
+          },
+          "hash": "134f4d370b32469fe1033fb6599f9ddfb1c0c528",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$8012B479-F965-4093-ADB5-A7D2EFD02593",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135459",
+              "numeric-id": 135459
+            }
+          },
+          "hash": "73342dc8cef7c4a7b58edb4c13d4161e8bea96d8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$6A9DAD5C-325F-495A-BB5A-BF82150D749E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135601",
+              "numeric-id": 135601
+            }
+          },
+          "hash": "ff04b5a83d34690f31d522e77d91af2ddd3c9f17",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$6F78FC49-B57D-4F88-843D-169CFA5ECFB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135460",
+              "numeric-id": 135460
+            }
+          },
+          "hash": "84b6b5fdf234802ec0d54a5fe7eca5ffcadb42a6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$5C2CA722-203E-463A-9B37-8A632BDEDBB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165281",
+              "numeric-id": 165281
+            }
+          },
+          "hash": "7cdda02e1709979d9953e85ee98968593dea7e21",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$3F4982C7-9367-462B-9E38-F8ABAD408882",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165282",
+              "numeric-id": 165282
+            }
+          },
+          "hash": "f0da6cdbe59f3668ac41e54bc793db5242083258",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$182FB45A-8A4C-4CFA-978B-FCBFBE9927A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165283",
+              "numeric-id": 165283
+            }
+          },
+          "hash": "8666a2023326830da0469766aebcf6f38bd7374d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$2FC389A2-6476-4E65-BF97-A5AE336A359F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165285",
+              "numeric-id": 165285
+            }
+          },
+          "hash": "fa4fcb08ae94f83bc7e58183dd3b4672c79eb078",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73491$162700D1-0622-4E34-8A14-182DFB0D4C2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73491$25405F22-DEA6-4B24-8037-7445666B8EC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73491$1A9165A1-F962-4225-9C1F-ECBECC2896BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy_III_Euergetes_(1)"
+          },
+          "hash": "9f51bdfccb92eaf3193c6860f93044f757dc173f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73491$0ADDE00B-9F39-46C2-B8B2-4486516B0E6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73494",
+              "numeric-id": 73494
+            }
+          },
+          "hash": "7720fb58c979b2227c0693863a983a9563e77b6d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73491$B484F71F-28C0-40CC-8FB2-97E7830C1010",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73614",
+              "numeric-id": 73614
+            }
+          },
+          "hash": "c6bb9969743c197aa64a43a96c7582d9a18afbb1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73491$1374BEFA-FF8D-4327-9175-95CD50740877",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73611",
+              "numeric-id": 73611
+            }
+          },
+          "hash": "65ebcc547a94e7086297cf54360f138c6f93b86e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73491$54309DDB-8A7C-4C0A-B6AB-68E9DE1B644C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73491$35C7CFF5-333B-4628-9F59-2EA34D135E53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0284-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e50db90b3ae9615c7b927be4e556d02a8fab374",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73491$D0AEB161-E58A-4BDF-94A6-D36FFB1CD74D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0222-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "51b51086589139117e52188077b01c700ac7d13e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73491$98B102F5-FCA4-41CC-A0FA-EB52EFFF2E79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q39602"
+          },
+          "hash": "cea571941d09f11a38028d159f8b5948e9116ff4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73491$91704B97-3578-4FEA-AF32-31AFC385DA4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645853628"
+          },
+          "hash": "4a46d883c9e79058c06a481d272ba7641e5b3abf",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73491$37CEEB11-49CF-491E-A962-48343CC493C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:50799"
+          },
+          "hash": "ba2c50b283255974dd30af5d6a15078aba863c2a",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73491$D1004622-8452-45C7-A1F0-1935F97BB424",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy III Euergetes Arms.svg"
+          },
+          "hash": "26f98ccd4de6ba42caf2deba94ba07ed63927edd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q73491$A70B3C99-8CD9-4BF4-BBF0-C226A4AA9F7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/9be36637-f569-40d6-81a2-eb89fb499c47"
+          },
+          "hash": "dfee894d4885ef6ce36b3183c4cf976e6879f6c8",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Egiptiese koning"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "de": {
+      "language": "de",
+      "value": "3. König von Ägypten während der Ptolemäerzeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "Egyptian pharaoh"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tercer Faraón de la Dinastía Ptolemaica"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Égypte"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "faraón exipcio"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano del Regno tolemaico d'Egitto (r. 246-222 a.C.)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고대 이집트 프톨레마이오스 왕조의 파라오이다."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit het oude Egypte (284v Chr-222v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faraó"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Faraó"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Египта в 246/245 — 222/221 гг. до н. э."
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තු පාරාවෝ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Egiptovski faraon in kralj Ptolemajske dinastije"
+    }
+  },
+  "id": "Q73491",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ptolemeus III Euergetes"
+    },
+    "an": {
+      "language": "an",
+      "value": "Ptolomeu III"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس الثالث"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس التالت"
+    },
+    "az": {
+      "language": "az",
+      "value": "III Ptolemey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей III Эвергет"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu III Evergetes I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios III. Euergetés"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Птолемей III Эвергет"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ptolemi III Euergetes"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ptolemaios III Euergetes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος Γ΄ Ευεργέτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy III Euergetes"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ptolemeo la 3-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo III"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios III"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بطلمیوس سوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée III"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tolamaes III Euergetes"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ptolomeo III Everxetes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πτολεμαῖος Εὐεργέτης"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי השלישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ptolemej III. Euerget"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Ptolemaiosz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios III Euergetes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პტოლემე III"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 3세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Ptolemaîos III Evergetês"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Ptolemaîos III Evergetês"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaeus III"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ptolemėjas III Euergetas I"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ptolemaiosy III"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ptolemaios 3-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios III Euergetes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus III Euergetes I"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ptolemaios III Euergetes"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Ptolemèu III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz III Euergetes"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "دریم بطلیموس اورژتس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu III Evérgeta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu III Evérgeta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей III Эвергет"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ptolemej III Euerget"
+    },
+    "si": {
+      "language": "si",
+      "value": "තෙවන ටොලමි යුවෙර්ගිටීස්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj III. Everget"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Птолемеј III Еуергет"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios III Euergetes"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "மூன்றாம் தாலமி"
+    },
+    "th": {
+      "language": "th",
+      "value": "ทอเลมีที่ 3"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ptolomeo III Euergetes"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Ptolemaios"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей ІІІ Евергет"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemaios III Euergetes"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "托勒密三世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Ptolemy 3k Euergetes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密三世"
+    }
+  },
+  "lastrevid": 17486244,
+  "modified": "2025-09-16T18:46:18Z",
+  "ns": 860,
+  "pageid": 88322,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73491",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73491"
+    }
+  },
+  "title": "Item:Q73491",
+  "type": "item"
+}

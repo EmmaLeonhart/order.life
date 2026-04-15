@@ -1,0 +1,192 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q62320$662F56BD-D167-495E-8A13-A7897574F7AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62320$44F9E4A9-62AC-47E4-88A0-A4B8DFCFA3F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62320$01D43E70-E558-43D3-AF96-22749DF0A976",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56308",
+              "numeric-id": 56308
+            }
+          },
+          "hash": "d489ff88df14053141c2e79ee99499c4e27fa0ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62320$0BB9AD4F-AE44-44BC-B66A-CFABBF44C93E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62320$6FA61C9F-773B-408C-AA1A-44E242B9274B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62320$D2EEDD91-CBF3-4AC7-9B88-A3C8B2F16980",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1377-02-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "483eed5f182c1af0998323e4fe48bd37987c6a19",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62320$6AE87BD9-730C-4ED8-BCE1-6F25FDA5765C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11657647"
+          },
+          "hash": "d404d4cba6bd5960f0126e4373b37f5cb32d1d23",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62320$D2DEC2F7-354D-423C-A968-38A822934417",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Koretake Aso Arms.svg"
+          },
+          "hash": "830cecfe9347866ee95eaba392fbd931b3f831ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q62320",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Koretake Aso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "阿蘇惟武"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Корэтакэ Асо"
+    }
+  },
+  "lastrevid": 17472144,
+  "modified": "2025-09-16T15:21:48Z",
+  "ns": 860,
+  "pageid": 77151,
+  "sitelinks": {},
+  "title": "Item:Q62320",
+  "type": "item"
+}

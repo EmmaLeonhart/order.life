@@ -1,0 +1,147 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Haiyan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q60169$998AC85C-037C-4577-A8FF-E291F6C10940",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60169$F8C2D6DF-210F-420C-8D8E-F7D1F8AE9613",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60169$09A00F79-63C9-4F7F-BB84-B230C0725FA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53293",
+              "numeric-id": 53293
+            }
+          },
+          "hash": "ca7b4963cfafc9b958e43a9ba53be89dacdb62ae",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60169$ADF4C1D6-32DF-41F8-9C5F-A73E38CB4577",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60169$81F28FE6-B953-48B8-9007-73C223A36C77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16603479"
+          },
+          "hash": "3da5403edbb2fdca7be10aabeb12b96e44e57033",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60169$14E8E806-83CF-4F65-BFBA-EE9482475ECB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Haiyan Arms.svg"
+          },
+          "hash": "98ef7af9f88f8313973e3f1c87feb23a0cdb1ad3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q60169",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Haiyan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "海盐公主"
+    }
+  },
+  "lastrevid": 17469254,
+  "modified": "2025-09-16T14:37:57Z",
+  "ns": 860,
+  "pageid": 75000,
+  "sitelinks": {},
+  "title": "Item:Q60169",
+  "type": "item"
+}

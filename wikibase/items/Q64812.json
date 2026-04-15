@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Juan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q64812$6FBFBF5A-BD2B-4FA7-9736-55F425AF908E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69915",
+              "numeric-id": 69915
+            }
+          },
+          "hash": "daa07b3c5347b2a9367ff535d3598a7b1c228526",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64812$C80FAD32-F71B-45AC-825F-C16C7443819C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69918",
+              "numeric-id": 69918
+            }
+          },
+          "hash": "19457267347590fed1416734387a9f9a0b53bb61",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64812$A2EDE85B-063F-4FD5-85EB-55B126DFA92B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69921",
+              "numeric-id": 69921
+            }
+          },
+          "hash": "e853e053d19cc51be1c8d589edaf357bfe4a93c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q64812$97FB0547-DDA8-4CCC-B707-A0923279E396",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64812$97CB814A-BAC8-4AF0-BE0C-B2121D4F923A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q64812$0977D676-A795-478D-83BB-C7F58C354FBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59424",
+              "numeric-id": 59424
+            }
+          },
+          "hash": "46cb9034d011aa6cce58da951d3650e24508c6ad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q64812$18EDB287-594D-423B-A678-1B6FE950FE67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q64812$16A1D9A8-F3CB-425E-837D-2036CACB5E56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0772-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "158d6bd9982b08832aec85674c3a4773bd1b97da",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q64812$961B99D9-8E56-4D10-8907-E0526038A130",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45473243"
+          },
+          "hash": "5462a5fea367c7cf35c73c9e89c9edfeaca32f1f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q64812$0A2DBE2C-AC75-4813-A7B3-59F30AAFDBB2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Juan Arms.svg"
+          },
+          "hash": "8f69f3b88e06cbfb55c7778e1355c4cb23deb303",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172095"
+    }
+  },
+  "id": "Q64812",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Juan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Juan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Juan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇涓"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Juan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇涓"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦涓"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇涓"
+    }
+  },
+  "lastrevid": 17475044,
+  "modified": "2025-09-16T16:06:27Z",
+  "ns": 860,
+  "pageid": 79643,
+  "sitelinks": {},
+  "title": "Item:Q64812",
+  "type": "item"
+}

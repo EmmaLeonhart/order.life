@@ -1,0 +1,624 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mandane of Media"
+      },
+      {
+        "language": "en",
+        "value": "الأميرة ماندان  بنت الملك أستياجس"
+      },
+      {
+        "language": "en",
+        "value": "Mandana of Media"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74368$11C05753-AE73-48F6-96C6-CB8E4721C25B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "95787"
+          },
+          "hash": "b594d49e47d2580422f2a979efb852df566a9bd0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74368$4CA81040-0C3B-42AE-914C-356ECCE5CAEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736401"
+          },
+          "hash": "34c071cc767a7ac3e78a632243c0bc08c834c169",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74368$CF0F297A-D85C-404D-AD2B-0AF22E2013B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74305",
+              "numeric-id": 74305
+            }
+          },
+          "hash": "f48794489a7566d846f2cd415ed437b8c893cc0e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74368$C0AC407D-4948-4960-B10D-C4820F084E23",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الأميرة ماندان"
+            }
+          },
+          "hash": "ff434932fe1527808bfca170247750f2290fe5ed",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74368$52D177CF-D8E8-43AF-989C-B53FDDDD69B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74368$D6F9E6B1-1191-4C6A-A7DF-4483B2D4B411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q74368$0D25AB16-5EFC-4F50-AF51-09D82232028D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "بنت الملك أستياجس"
+            }
+          },
+          "hash": "4ed9b1bb126f76643b532126ca6d4cd2a9f98175",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74368$6E382E30-10C5-4677-B434-F2FAC0B6167B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74365",
+              "numeric-id": 74365
+            }
+          },
+          "hash": "3f714fae4ccdc5eb5f6dcc960f9430f6c7ce1392",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74368$6F5D039A-F3FD-442B-B73C-BB8B908B3F43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74407",
+              "numeric-id": 74407
+            }
+          },
+          "hash": "c9537297fc4598a41c87b940cc44acc2947a2b35",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74368$76C505A7-8159-491B-BC9B-8A725785D624",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74410",
+              "numeric-id": 74410
+            }
+          },
+          "hash": "98f1fe283a931ba9bfb8077e09bf4c57fac52460",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74368$BF1A2FAA-9CFA-4140-9D7F-FFC24A6083E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74413",
+              "numeric-id": 74413
+            }
+          },
+          "hash": "5fd739c4c2184cc25cca868bb061511c7bbbe472",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74368$827B7636-8A1F-4D6B-BCC2-75C98E0599F7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الأميرة ماندان /بنت الملك أستياجس/"
+            }
+          },
+          "hash": "539aa6e6c3b764a5c7d4f6164f6a80d20cc94468",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q74368$61CFD137-7559-4CF4-AAF0-8722B83A6738",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Queen of Anshan"
+          },
+          "hash": "f692a39c95bfe7f3162f8d33d3703858911a4d05",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74368$687BF0D1-2D2D-4579-A70D-E38151489209",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74368$303ED791-9611-4E36-AEBD-7D6B435477C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0584-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "014178ee67245c5ea66ecd67b1537cf23d1b8ddb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74368$C8CC409C-7CBF-4339-B629-665A0EF071FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0559-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "741bbce122aef822395440b32fccab30c3f4734a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74368$22544E03-6287-456F-8673-37370CC0DFCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q271260"
+          },
+          "hash": "c0d5de58c2cd3dcdf1aea35ad361dab83506ad51",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74368$BAA0DCD1-A309-497F-94D0-60BDB18748E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006079492556"
+          },
+          "hash": "f75bc49860726025771383c598f4c77a87959a2b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74368$E29E511B-F1C7-4A20-8930-7D417194EAE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007178268218"
+          },
+          "hash": "7276bd9bec9d4a4f339cd13f51254e946998d143",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74368$9DAAEE5C-07A9-4F30-A71D-A43C901517A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mandane of Media Arms.svg"
+          },
+          "hash": "c7765141daaf9344a29a2190fe1fc52fb324cba0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "princesa de Mèdia filla del rei Astíages"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "médská princezna, královna choť Kambýse I. Anšanského a matka Kýra II."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "tywysoges Media a brenhines cymar o Cambyses I o Anshan a mam Cyrus Fawr"
+    },
+    "de": {
+      "language": "de",
+      "value": "königliche Gemahlin des altpersischen Königs Kambyses I."
+    },
+    "en": {
+      "language": "en",
+      "value": "princess of Media and Queen consort of Cambyses I of Anshan and mother of Cyrus the Great"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهدخت ماد و همسر کمبوجیه یکم و مادر کوروش بزرگ"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Cambise I, madre di Ciro II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "perska królowa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "filha de Astíages"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Medya prensesi ve Anşanlı I. Kambises'in kraliçe eşi ve Büyük Kiros'un annesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "мати Кіра Великого"
+    }
+  },
+  "id": "Q74368",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماندانا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Mandana"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ماندانا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Мандана Медыйская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мандане от Мидия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mandana de Mèdia"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ماندانا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mandané Médská"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Mandane o Media"
+    },
+    "da": {
+      "language": "da",
+      "value": "Mandane"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mandane"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μανδάνη της Μηδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mandane of Media"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Mandana de Medujo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mandane de Media"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماندانا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mandane"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Mandane Media"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Mandane de Media"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Μανδάνη"
+    },
+    "he": {
+      "language": "he",
+      "value": "מנדאנא ממדי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mandana"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mandana dari Media"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mandane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マンダネ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Mandane"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mandane"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mandane"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mandane"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mandane"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мандана Мидийская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mandana"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mandana Medijska"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mandane of Media"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мандана"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Мондонои Модӣ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mandane (I. Kambises'in karısı)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мандана Медійська"
+    }
+  },
+  "lastrevid": 17487272,
+  "modified": "2025-09-16T19:00:38Z",
+  "ns": 860,
+  "pageid": 89199,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74368",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74368"
+    }
+  },
+  "title": "Item:Q74368",
+  "type": "item"
+}

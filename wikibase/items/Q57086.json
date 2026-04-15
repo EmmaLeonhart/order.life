@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hijikata Katsufusa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q57086$9611FE61-50E1-4357-862B-F34D0FFAF3E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57086$845A5B1F-0D5D-482E-AC0B-F1B1577A0517",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q57086$9717388F-3F72-4AD3-B38D-52A168A1C599",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48989",
+              "numeric-id": 48989
+            }
+          },
+          "hash": "bec3b5d7c321b43c3baae0533a762f75437c7d72",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57086$C5742DB4-26C0-4840-8A33-F04DAE44661D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57086$585EC91B-BDDC-431B-840E-ECF7D15CDBBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1711-05-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03fc46e8de15d37ff514a11229a66ca62f033921",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57086$BBB07466-B605-4D52-A8B6-C16B967F7092",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1758-12-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5bd9bf83849e7181d37146f1adbef9d5ed14b2a0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57086$87334151-A898-404F-983A-4AFD165AFE8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11423545"
+          },
+          "hash": "13615e8fea56e1710d44372f6b4ad266d0b4ebec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57086$0FF2AEFF-A692-4342-9EC3-2BAB262BE195",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hijikata Katsufusa Arms.svg"
+          },
+          "hash": "87d5d5e895c30f4f6033647151413e98ba890cff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q57086",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hijikata Katsufusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土方雄房"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кацуфуса Хидзиката"
+    }
+  },
+  "lastrevid": 17465680,
+  "modified": "2025-09-16T13:43:55Z",
+  "ns": 860,
+  "pageid": 71917,
+  "sitelinks": {},
+  "title": "Item:Q57086",
+  "type": "item"
+}

@@ -1,0 +1,769 @@
+{
+  "aliases": {
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Marc Livi Emilià"
+      },
+      {
+        "language": "ca",
+        "value": "Marc Livi Drus"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Marcus Livius Drusus Aemilianus"
+      },
+      {
+        "language": "de",
+        "value": "Marcus Livius Drusus der Jüngere"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Livius Drusus"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Livius /Drusus/"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Livius minor  Drusus"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Livius  Drusus"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Marco Livio Druso Emiliano"
+      },
+      {
+        "language": "es",
+        "value": "Marco Livio Druso"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Marco Livio Druso Emiliano"
+      },
+      {
+        "language": "it",
+        "value": "Marco Livio Druso"
+      }
+    ],
+    "la": [
+      {
+        "language": "la",
+        "value": "Marcus Livius Drusus Aemilianus"
+      },
+      {
+        "language": "la",
+        "value": "Marcus Livius Drusus"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "Marc Livi Drus Emilià"
+      },
+      {
+        "language": "nl",
+        "value": "Marcus Livius Drusus minor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73119$ED96E6EA-EBDD-4604-BAFE-64A2F94B0875",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465535"
+          },
+          "hash": "b047eb539fa36ef13939cfe24a93fa8d561256cd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73119$F17160EC-8450-4E05-91D6-B9EB191134F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716791"
+          },
+          "hash": "45860fab2bbbd78229385348a5703f0a054e59e8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73119$52ADA144-BA7E-4BBA-9A29-3AEAB5AB3DEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72951",
+              "numeric-id": 72951
+            }
+          },
+          "hash": "99c57e534b5618b1d8c904c0f32fe16f03479844",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$635830D2-176E-4163-8583-96F3C3BEE848",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78156",
+              "numeric-id": 78156
+            }
+          },
+          "hash": "01fff74d87f45518547a809bfb5a8c64594b6d8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$985BA9E4-D58E-4826-A100-73B7011ABEEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141460",
+              "numeric-id": 141460
+            }
+          },
+          "hash": "b1505d5169c48d2f3da5ef3f685cd16b016d7786",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73119$FD0A64CA-6E03-4ADD-8FFB-4177C90D57E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$C201F3E9-BDAA-4FDD-BF1B-90C8D6C4A7DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73119$876FAC17-A6A4-4B25-9D7B-2735C18D65FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78306",
+              "numeric-id": 78306
+            }
+          },
+          "hash": "299fe7bd6aaec15cc8d133450b08178069daeba8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73119$A4A0000F-0E17-43B4-A337-F951A637431B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73173",
+              "numeric-id": 73173
+            }
+          },
+          "hash": "5a179dadcf90abed7d0f400f7188b2fe56034537",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$05975389-359E-4868-9CAC-95AA763D6796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73284",
+              "numeric-id": 73284
+            }
+          },
+          "hash": "c1e3c0dcf3f85c23467682f094ed184daeb3bdf8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$E3C3B5BC-85A6-44D9-A445-25539D347141",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78453",
+              "numeric-id": 78453
+            }
+          },
+          "hash": "286592037dcbdce2a097e3e3a022cff3459b77ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$F6CBA143-97C5-42A1-B8B9-2A08BBEB9FED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151476",
+              "numeric-id": 151476
+            }
+          },
+          "hash": "98d70ac621324fd89221953d558375770d8cb90e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73119$78BF4A0F-0773-482A-9D8F-62A3626B2911",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72801",
+              "numeric-id": 72801
+            }
+          },
+          "hash": "3130fdd3c8f506a5fe15fa55999bafaab34d2f6f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$19F9EE56-EA44-4C38-B3BE-0069E040AA24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78746",
+              "numeric-id": 78746
+            }
+          },
+          "hash": "4f88bb2e02d77eddcfccbaa817a591737c2e9b7a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$58171E7B-0E38-4B21-BF6E-C3CA660B39F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78450",
+              "numeric-id": 78450
+            }
+          },
+          "hash": "36fe56976d5f967cfae431d5aecbd7d91462288d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q73119$BEFE3FC0-027A-4F81-9916-46C15C411AD3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Marcus Livius /Drusus/"
+            }
+          },
+          "hash": "bf498eeddb94caa331faf8cc881910a0e76745ca",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$51FB5B14-16EF-4683-9581-1DAA413CE65A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Marcus Livius minor /Drusus/"
+            }
+          },
+          "hash": "09518f219ad1000533887a315d35a05adf762c8b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73119$95610A15-532E-4571-AC5D-D9FFD08EEE66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73119$604D967A-C5A8-4D18-9D00-DE5E823B707D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0124-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8f26f910d4b3e5017940aba21da59ede8a87593",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73119$FB03D39E-0DB9-4A4D-BD69-F5340A8FBC77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0091-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e9e59c4a7742b3c0b0ace18f45395dc1d1d22f84",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73119$DB6E1DD6-447E-4AB4-BEB1-6906D5C97FFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q433463"
+          },
+          "hash": "70d1d568b031615e0af4f405027fa91ad5e5a352",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73119$01397BF6-E60C-4D82-B802-98C389F41A75",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20005554"
+          },
+          "hash": "5b06fceeefdef8c2b6a8a90ed0f6b46e41dbf3e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73119$9EE462B4-B733-468A-8EF2-FC886F0FBA12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002205617469"
+          },
+          "hash": "462536f0bea12d7c8be3aede62c527676c5cdfb1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q73119$ACF992A6-46F8-4172-AA2E-FC4372A8F5BD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Livius Drusus"
+          },
+          "hash": "1117f0d7af81465949efd5dbde9904fc132e4098",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73119$873BA5CB-9EB3-4904-90C7-29BD355E6721",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Livius Drusus Arms.svg"
+          },
+          "hash": "9eeacb12452db97916c9740c3e4fc299cc02bb6e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "pare de Gai Livi Drus"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tribun im Jahr 91 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "father of the general Gaius Livius Drusus"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tribun de la plèbe romain en 91 av. J.-C."
+    },
+    "hr": {
+      "language": "hr",
+      "value": "rimski političar"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "tribuno della plebe della Repubblica romana"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-91v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "народный трибун 91 года до н. э."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Римски политичар и реформиста"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "roman siyasetçi ve reformcu"
+    }
+  },
+  "id": "Q73119",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Ливий Друз"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Livi Emilià"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marcus Livius Drusus mladší"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Livius Drusus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Livius Drusus Aemilianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Λίβιος Δρούσος (αναμορφωτής)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Livius Drusus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Livio Druso Emiliano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارکوس لیویوس دروسوس (اصلاحطلب)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Livius Drusus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Livius Drusus"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס ליוויוס דרוסוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marko Livije Druz"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Livio Druso el Tribuno"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Livio Druso Emiliano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小リヴィウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Livius Drusus Aemilianus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Marcus Livius Drusus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marcus Livius Drusus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marc Livi Drus Emilià"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Marcus Livius Drusus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Liwiusz Druzus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Lívio Druso, o Tribuno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Lívio Druso, o Tribuno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Ливий Друз"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Livije Druz"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марко Ливије Друз"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Livius Drusus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marcus Livius Drusus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Лівій Друз Молодший"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬爾庫斯·利維烏斯·德魯蘇斯"
+    }
+  },
+  "lastrevid": 17485798,
+  "modified": "2025-09-16T18:39:58Z",
+  "ns": 860,
+  "pageid": 87950,
+  "sitelinks": {},
+  "title": "Item:Q73119",
+  "type": "item"
+}

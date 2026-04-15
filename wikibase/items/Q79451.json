@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wang  Senglang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q79451$0228E740-4191-44D3-93D7-9A478E83D6D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74769",
+              "numeric-id": 74769
+            }
+          },
+          "hash": "e1ae56e42130a7cb4a50a1a4f72282328fb5a480",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79451$F3E7BB6A-1643-4FE9-A211-C89680A2510E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q79454",
+              "numeric-id": 79454
+            }
+          },
+          "hash": "c1201ce3017662940dd0ed4cb662f235f95a2ada",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79451$AFC0FCE5-8482-4691-AA49-DD9C9E43806B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q79457",
+              "numeric-id": 79457
+            }
+          },
+          "hash": "04a93f101f96cf826e2c3ae065867e4a41480494",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79451$A70EB1BC-352D-4C99-9429-B08A2ADBDFB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75467",
+              "numeric-id": 75467
+            }
+          },
+          "hash": "9184d2e99686925ffa8e8d439ad49a6136163836",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q79451$FF009692-2282-4AD1-B247-5CC794BCD0AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79451$7BF0A630-94AF-4D4D-B008-FCB9C7EEDD94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q79451$B611F3FF-0BF5-41EA-9DE5-090D2613E13B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q79451$46E3BE00-2B48-41A5-806A-99622F420D2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q79451$8A2F6451-5E74-4AC2-93FD-BD1B75B20959",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22814767"
+          },
+          "hash": "3d7b0e63382265b15d668a136d142e93446e1a6a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q79451$399D2062-2265-43C5-B42D-A1537BE0E1EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wang  Senglang Arms.svg"
+          },
+          "hash": "95906d5af6caca771371eb4c44293c536debdf0e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "南朝宋の外戚"
+    }
+  },
+  "id": "Q79451",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wang  Senglang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "王僧朗"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vương Tăng Lãng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王僧朗"
+    }
+  },
+  "lastrevid": 17493581,
+  "modified": "2025-09-16T20:29:17Z",
+  "ns": 860,
+  "pageid": 94282,
+  "sitelinks": {},
+  "title": "Item:Q79451",
+  "type": "item"
+}

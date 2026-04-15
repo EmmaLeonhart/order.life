@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tulayb bin  Umayr"
+      },
+      {
+        "language": "en",
+        "value": "Tulayb son of  Umayr"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q66826$E080A787-BD2F-44CD-8C2D-79E1BBFEB6FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66826$2B3FD6E9-ED22-4B14-A442-D7D6E9FF0D84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66826$9132CA76-F3BE-496C-BC31-A19B2AE9F3F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94469",
+              "numeric-id": 94469
+            }
+          },
+          "hash": "44820ebbfe2e7e22cb20a7347420d7375fd3a972",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66826$E26169A5-4ECA-41AC-B117-41803733C337",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65885",
+              "numeric-id": 65885
+            }
+          },
+          "hash": "5a83baebdbf1eec70678a9b1205e44f9c86c3da8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66826$58E690B6-D66F-4C46-8FF2-97D30357B423",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94229",
+              "numeric-id": 94229
+            }
+          },
+          "hash": "3ff830c6b82bdf95f740c80d1bb0a884e229f7d0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q66826$A85975B9-D933-46DE-8103-610F835524EB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Tulayb bin /Umayr/"
+            }
+          },
+          "hash": "1c626413bf4e1cf194428f088fc29920b1c17dd0",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66826$4AAB17F1-D9A2-4A01-ABBB-7AB77AC7CC3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66826$57F75372-14A6-42FD-8B16-9740AC82587E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039105993799"
+          },
+          "hash": "26a0ee7e69b2cb8a6d4bc1d634912bf7ec6dc2db",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66826$78AEECD3-1367-457F-8E8F-788A95E9836C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tulayb son of  Umayr Arms.svg"
+          },
+          "hash": "7079e73bf493c135c74ed9a65a3209cc58054404",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q66826",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tulayb son of  Umayr"
+    }
+  },
+  "lastrevid": 17477712,
+  "modified": "2025-09-16T16:46:15Z",
+  "ns": 860,
+  "pageid": 81657,
+  "sitelinks": {},
+  "title": "Item:Q66826",
+  "type": "item"
+}

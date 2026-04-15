@@ -1,0 +1,429 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Cassius Longinus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q78270$97BD911C-5378-45C4-AA6B-A39D33F4C78D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801058"
+          },
+          "hash": "b6212b505dd42f3f922b6db0f6145bc0bd8c5f65",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78270$E8C5DC88-DDEA-40C5-AFB6-FDB91752028B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78114",
+              "numeric-id": 78114
+            }
+          },
+          "hash": "bb04f0ea5848867500f506f2334c4c68ae807a52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78270$B015FF75-ECD4-4E4C-8BD4-93E7EBEC60F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148077",
+              "numeric-id": 148077
+            }
+          },
+          "hash": "0ff4df275ed582ced040b58bdb2dcffc1f975f10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78270$2A33CEA0-728D-42CA-B0DD-BE9314CEF017",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151400",
+              "numeric-id": 151400
+            }
+          },
+          "hash": "8def2b474cb4ccd3709fd2cd8f21dda4721357e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78270$C8B7B7B9-08EB-40BA-8538-5A4031446D8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78270$E6FC308C-F3FB-450A-9B48-236F400DEEDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78270$33F9E9A3-DFD6-47E4-88D4-3C67787576E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78423",
+              "numeric-id": 78423
+            }
+          },
+          "hash": "ef30ba3c1be5193e0cefc83fb6f4cc45f3e0c014",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78270$E34ADE82-3F70-4E0C-93D4-460469D19B59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78270$89746F3B-2E16-47EE-B57C-F659CAC470C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd011cc38c8008d9233e3a5ad5f7ccc4caf61ff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78270$18B1B752-6F97-41C8-8497-07C5D36B7C89",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0043-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fecb8ad9ad1a27d4044497a5512d95c0951a93e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78270$238732B7-357C-4930-86C0-97F44AADF794",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q459857"
+          },
+          "hash": "e66118adad56106c2edb6441e47a1d26faed2f1e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78270$C05F41E0-0A1F-4131-83FF-DB405A0E0DC3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828382624"
+          },
+          "hash": "3727fb4065b5098e3f06b7f2f8e945f36306202b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78270$3AECAAA3-848C-4411-8D08-947D0B47BD6A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Cassius Longinus Arms.svg"
+          },
+          "hash": "8ea9fd283a7064d0d8486b29c0b8585ad6303450",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 73 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 73 BC"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia konsulo"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 73 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرباز در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 73 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 73 a.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soldaat uit Oude Rome"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Senador e general romano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 73 года до н. э."
+    }
+  },
+  "id": "Q78270",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غايوس كاسيوس لونجينوس فاروس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جايوس كاسيوس لونجينوس فاروس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Касий Лонгин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Cassi Longí Var"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Cassius Longinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Κάσσιος Λογγίνος (ύπατος το 73 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Cassius Longinus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gajo Kasio Longeno Varo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Casio Longino"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gaio Kasio Longino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Cassius Longinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caius Cassius Longinus Varus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaius Cassius Longinus Varus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Cassio Longino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・カッシウス・ロンギヌス・ウァラス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Cassius Longinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Cassius Longinus Varus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Kasjusz Longin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Cássio Longino Varo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Cássio Longino Varo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Кассий Лонгин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Kasije Longin Var"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Cassius Longinus Varus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Кассій Лонгін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蓋烏斯·瓦魯斯"
+    }
+  },
+  "lastrevid": 17492274,
+  "modified": "2025-09-16T20:11:03Z",
+  "ns": 860,
+  "pageid": 93101,
+  "sitelinks": {},
+  "title": "Item:Q78270",
+  "type": "item"
+}

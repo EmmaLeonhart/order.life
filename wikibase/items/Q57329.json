@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Makino Yasushige"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q57329$4C5F420D-51A5-4D1E-BFA2-E88E79710429",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49389",
+              "numeric-id": 49389
+            }
+          },
+          "hash": "4be1dc56fc0705a2034d83aa79e2d8869c18188e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q57329$2DF91778-21E6-4088-9B78-9441CB65BC03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57329$F1B599B7-BD05-46B5-91DF-35B76C24002D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57329$95FDAE81-6FF0-4A6F-885E-AE7C34A79303",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57329$DED1F4ED-6EDD-4FA8-8384-FFD119AB4725",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1548-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44f1906238911a83fd2ef7a882b85a15c38f0d59",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57329$F28295BB-6D4A-4AAA-A115-DB15FF312833",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1599-04-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0735f5b742ae298b9ac324deb8172c54aad61e84",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57329$970201F5-37D4-4823-AA9B-5AAF82A6F66B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10860170"
+          },
+          "hash": "c92edb1ce818436275695b4f1558d22bfe46b6bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57329$13D87493-C94E-4792-937E-2A7192E57E12",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Makino Yasushige Arms.svg"
+          },
+          "hash": "8382225d99621fc2461498adffe9a81a68480279",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国武将、徳川家臣、武蔵石戸領主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q57329",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Makino Yasushige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Makino Yasushige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Makino Yasushige"
+    },
+    "es": {
+      "language": "es",
+      "value": "Makino Yasushige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "牧野康成"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Makino Yasushige"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "牧野康成"
+    }
+  },
+  "lastrevid": 17465888,
+  "modified": "2025-09-16T13:47:10Z",
+  "ns": 860,
+  "pageid": 72160,
+  "sitelinks": {},
+  "title": "Item:Q57329",
+  "type": "item"
+}

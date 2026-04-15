@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Degui"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72665$58CDC6C2-5841-4CA6-9452-FBDDAD3CCADF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77504",
+              "numeric-id": 77504
+            }
+          },
+          "hash": "a5d30aa1f28d2d9af78f37fbc74d45ab59e91d1f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72665$A84D2EB0-2EEA-454E-8139-A4F1A5A6FFA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77507",
+              "numeric-id": 77507
+            }
+          },
+          "hash": "6a4fe6fd738018e8f6509743de6bc2f9a08a4ccf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72665$41736C36-7645-407D-9E19-9BA3C559CBA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72665$D6E1D377-9F80-4A3A-AE71-CAC7AABD96CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72665$36A44716-0B6F-4A59-9DD5-58C20FC51A5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67685",
+              "numeric-id": 67685
+            }
+          },
+          "hash": "0227a9b63e82980188856d43a55676a45a2ad713",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72665$C302D794-D52F-45C3-8715-4C41E9F46084",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72665$5CC819DE-346A-4C4B-9225-19F965AD5E14",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0634-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8c6f21d5100214f949530abf1991c785cff58f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72665$D0B5A373-C522-4F12-917A-92FFB2C372AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45593738"
+          },
+          "hash": "92671355e5ac815c821653e0de5bc40370d52075",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72665$A6C4F8CD-A41F-412A-96ED-7094CC0ACD74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Degui Arms.svg"
+          },
+          "hash": "f1240593dbc92bff80621993e63a6d32ee850474",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 174277"
+    }
+  },
+  "id": "Q72665",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Degui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Degui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Degui"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李德珪"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Degui"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李德珪"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李德珪"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李德珪"
+    }
+  },
+  "lastrevid": 17485204,
+  "modified": "2025-09-16T18:31:37Z",
+  "ns": 860,
+  "pageid": 87496,
+  "sitelinks": {},
+  "title": "Item:Q72665",
+  "type": "item"
+}

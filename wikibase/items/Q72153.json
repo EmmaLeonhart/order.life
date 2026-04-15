@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tian Mou"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72153$37D5C9B0-26FE-4CE8-8327-DFE63A790E9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76955",
+              "numeric-id": 76955
+            }
+          },
+          "hash": "e54da53ed75f0027bff9b1cc8beba28cbea9e93a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72153$0510422D-628B-4C6A-B125-9FCDADAE178C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76952",
+              "numeric-id": 76952
+            }
+          },
+          "hash": "d9105b5dc61357d206bfeb7f7ade12ad2c7f5878",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72153$14D4F0D6-2496-40E6-9CE8-4D4ABFAA9CB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72153$61A14374-8130-4EC4-96AA-85EAB2A9896A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72153$CB498A38-E231-4C32-AC57-22BC7C4AC5D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67185",
+              "numeric-id": 67185
+            }
+          },
+          "hash": "88f0f0b72ce75e85e46c458eec078e02485ed140",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72153$D69FE95A-CA40-467D-AA28-4D93D2885937",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72153$1E6BA1CD-F155-46BD-9E5A-F71790825246",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0800-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebb52bfa2159da12fc96ec915000e1a60490c79a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72153$AF33A361-07E8-430C-A4AF-005188FAEB71",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45485150"
+          },
+          "hash": "fc193ad3c34ad9216ee845019d6557ad54a97c1d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72153$102A0AC5-A1C9-4039-8D39-D77E2DFA01CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tian Mou Arms.svg"
+          },
+          "hash": "7745eccdc577b9ad0d666502fb3d8afed3b453ff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 193532"
+    }
+  },
+  "id": "Q72153",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tian Mou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tian Mou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tian Mou"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "田某"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tian Mou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "田某"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "田某"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "田某"
+    }
+  },
+  "lastrevid": 17484528,
+  "modified": "2025-09-16T18:22:00Z",
+  "ns": 860,
+  "pageid": 86984,
+  "sitelinks": {},
+  "title": "Item:Q72153",
+  "type": "item"
+}

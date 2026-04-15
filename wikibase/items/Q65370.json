@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yu Dexing"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65370$2CCC8FE7-BB8F-4FCE-991A-0D01C5D01350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70423",
+              "numeric-id": 70423
+            }
+          },
+          "hash": "4f29cfa07f12c6034d56da345033baad428bd50f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65370$8F5F77C5-F2FF-42EC-A623-7B24A7A0D0BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70426",
+              "numeric-id": 70426
+            }
+          },
+          "hash": "1bdde6383b1d57263582f0ada9521131eff3ca6f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65370$71FE7F4A-34CB-48FF-9FB3-653FACEA056D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65370$3955F8A2-268E-4293-A175-50D63F4BFC9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65370$7A16179D-2B02-414D-B729-809560C93D17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59685",
+              "numeric-id": 59685
+            }
+          },
+          "hash": "b8c1c00173ecdfded75d3253fee4d0b0139ea209",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65370$EA0CE08F-0F0D-43C1-805C-D1CD622884C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65370$E8FFDBC7-0E6F-4EDC-891E-74F90D141858",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0664-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "642876d777a75f20c44c76983f511c818649bb9d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65370$F9D40B72-60E4-4DF8-8A8D-546D8C4DBBBC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45484389"
+          },
+          "hash": "6884609a9eeb15e071006590a6e70bd9be0f9add",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65370$2D51BF0A-CE1A-4C49-9253-A163E6D890A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yu Dexing Arms.svg"
+          },
+          "hash": "9928a424997a33daa73e3038af70177ded7ebaf4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 177631"
+    }
+  },
+  "id": "Q65370",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yu Dexing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yu Dexing"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "于德行"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yu Dexing"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "于德行"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "于德行"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "于德行"
+    }
+  },
+  "lastrevid": 17475784,
+  "modified": "2025-09-16T16:17:05Z",
+  "ns": 860,
+  "pageid": 80201,
+  "sitelinks": {},
+  "title": "Item:Q65370",
+  "type": "item"
+}

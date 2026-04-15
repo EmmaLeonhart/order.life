@@ -1,0 +1,671 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Asinius Gallus Saloninus Asinius Gallus Saloninus"
+      },
+      {
+        "language": "en",
+        "value": "Consul (8 BC) - Gaius Asinius Gallus Saloninus"
+      },
+      {
+        "language": "en",
+        "value": "Gaius Asinius Gallus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72236$7EF6A517-8B39-4016-804C-1E68E6F8F832",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "167401"
+          },
+          "hash": "01f3cd4b3782aaf74c252eedd2e19837530a7d82",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72236$30621230-746A-4383-A9CE-2A5394666A77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735497"
+          },
+          "hash": "2a553eb09422fd6c8663fedf633e22af8fcb5e48",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72236$9FC12CAF-07F7-4A84-B43F-40185C95E071",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70937",
+              "numeric-id": 70937
+            }
+          },
+          "hash": "3ca4f9d91de9b2fdb5cbdab4d32cc077ce8bb85d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$BD0C6AA5-D67D-4637-A04F-AEE44B2F5BCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77622",
+              "numeric-id": 77622
+            }
+          },
+          "hash": "3566b654598d166eb4c25786b10d2235afed36bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$4B20A1E3-CE81-4916-973A-DF7011FBBB2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139678",
+              "numeric-id": 139678
+            }
+          },
+          "hash": "ab3b3c8e8e622f7c08fcf7ad038940005b07ab9a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$F603B84F-57CA-4C80-AB17-4F5D036351F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139672",
+              "numeric-id": 139672
+            }
+          },
+          "hash": "348d348c97ba680eaf24c8c31b2b54abf1dcdc84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$03D6AA0B-9EA6-4390-949E-D4E748F2D35F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139671",
+              "numeric-id": 139671
+            }
+          },
+          "hash": "ce7b80e2716fea9f2331c1db3a4efa23e4bf8f26",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$0FE9754B-4373-47AA-8CE3-403A5C280803",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139673",
+              "numeric-id": 139673
+            }
+          },
+          "hash": "52776ae5bb56d499c6fef49587c3135b01209dab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$7C4DF4CF-6C8D-48F4-8203-CC30C2C39DE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139675",
+              "numeric-id": 139675
+            }
+          },
+          "hash": "b60a11f2ac68edfe0b20ffe3d43691dd574da69e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$047824CA-076D-4B62-B0C1-4FC5751A47A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139676",
+              "numeric-id": 139676
+            }
+          },
+          "hash": "aba0e9e8651d6adb9f49881f7a1ab7c275bac5c0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$84BF62B9-81EB-4D32-B9BB-030BAFED5E1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139674",
+              "numeric-id": 139674
+            }
+          },
+          "hash": "e62508fd03f9be17084213561db5070095b07c4d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$59E9DF2D-F5EB-42AC-B2B1-36BDFA021D3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139677",
+              "numeric-id": 139677
+            }
+          },
+          "hash": "5e3018dbe9351ffd3a738997c2cba71011595612",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72236$77DFC81E-5D28-492E-A5B8-BD899AF224ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72236$B1ECA6CC-CAA5-42F0-92BE-4B92F86EF52A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72236$3722EB1F-28AA-43C5-B48A-2EB53DD6640A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius_Asinius_Gallus_Saloninus_(1)"
+          },
+          "hash": "5c96040df7f342b43acce08d6e93b9c148a755db",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72236$FAEB7EBF-8CEA-4ADA-A952-94557507BFB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72239",
+              "numeric-id": 72239
+            }
+          },
+          "hash": "ac913bb24b8c552478245468d0d2c6a78cca75de",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72236$7BAC3157-7CA7-49F0-AFE1-6717CC898AB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72422",
+              "numeric-id": 72422
+            }
+          },
+          "hash": "11f7e949100c7a2277d5f708db7a54f58838d62e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72236$C88C9369-8210-454B-805B-56D53DECAAA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72419",
+              "numeric-id": 72419
+            }
+          },
+          "hash": "04b9f8ed1c93a60eed3081d90ef3691881d76d90",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72236$5C40CE5C-F756-4F70-8A58-1DDC8BE43CF5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Consul of the Roman Empire"
+          },
+          "hash": "001975c17b522ca02d7e1e90b26d950ca53595d7",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72236$2FB974C6-08B1-4F7D-A0DD-861B3A9D99B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72236$CD6980C8-FE6A-47CF-B06F-57CA386F1010",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0040-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a00ed194fc4ca6297a6f807647adfb17b769f01f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72236$F269F5B1-894F-4596-8A25-F309A8672A8C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0033-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49bcb25efb27433ce211d7d641592f5da58b392b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72236$8412F472-CA1B-48BB-964B-A2110740C813",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q450708"
+          },
+          "hash": "96a71d5daf2c502faa203cc1c59f94dd2328b433",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72236$3432A4E3-4A55-4C08-BAC0-A0BB144A8ED0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012011576430"
+          },
+          "hash": "89e9ab9b389236576f0224fb0c8eceb21cf12705",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q72236$D4429D8A-902D-41A1-8F41-FBE8AF2963A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26320"
+          },
+          "hash": "d6f768b49a992304495f3ba6754a1f58d0c7f846",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72236$F8166E84-EB04-4EE5-8904-529EA362C0C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Asinius Gallus Arms.svg"
+          },
+          "hash": "4c9f1db336f6e1bb8c53c7dd053842b80304e098",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "مؤرخ من روما القديمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský řečník, politik a spisovatel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Romersk politiker og forfatter aktiv under kejser Augustus og Tiberius styre"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "el": {
+      "language": "el",
+      "value": "(ύπατος το 23)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul (8 BCE) and writer active during the rule of Emperors Augustus and Tiberius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "senatore romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (40v Chr-33)"
+    }
+  },
+  "id": "Q72236",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جايوس جالوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Азиний Гал"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Asini Gal Saloní"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gaius Asinius Gallus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gaius Asinius Gallus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Asinius Gallus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Ασίνιος Γάλλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Asinius Gallus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Asinio Galo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Asinius Gallus"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס אסיניוס גאלוס סלוניוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caius Asinius Gallus Saloninus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaius Asinius Gallus Saloninus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Asinio Gallo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・アシニウス・ガッルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Asinius Gallus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Asinius Gallus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Asínio Galo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Asínio Galo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Азиний Галл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Asinije Gal Salonin"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Asinius Gallus Saloninus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Азіній Галл"
+    }
+  },
+  "lastrevid": 17484638,
+  "modified": "2025-09-16T18:23:40Z",
+  "ns": 860,
+  "pageid": 87067,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72236",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72236"
+    }
+  },
+  "title": "Item:Q72236",
+  "type": "item"
+}

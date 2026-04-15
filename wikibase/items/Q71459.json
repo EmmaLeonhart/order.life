@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei Dan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71459$BCC9860C-263A-4754-9047-0348E6731561",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76203",
+              "numeric-id": 76203
+            }
+          },
+          "hash": "91a16d918778e4f6d59072369e050371d0054bbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71459$424CE29B-E8BD-4C45-88B2-B510C849A6D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76206",
+              "numeric-id": 76206
+            }
+          },
+          "hash": "866c5a9cfefa57af0a2bdce7b3c88ce369b98d8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71459$8620EE3A-7711-4CD1-81A8-57F27087F590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76209",
+              "numeric-id": 76209
+            }
+          },
+          "hash": "4a99ac688d6ff21910a5eae25bd690b660ea86ff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71459$E3D2EB95-1872-435F-9333-5BD8D0378138",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76212",
+              "numeric-id": 76212
+            }
+          },
+          "hash": "d2ce5055bef8c702253192e824793dc37282c11b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71459$ADE404AD-5759-42A1-B3E3-F6638E339385",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71459$02D6701E-6CFD-45CE-A410-D695758B02A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71459$89128F40-3469-403A-B71B-EEB7A9BCC631",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66609",
+              "numeric-id": 66609
+            }
+          },
+          "hash": "fbcb680827024a7040b0244e4df93923b54bc358",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71459$799E5AE7-E5ED-47AD-B293-459317C25B6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q71459$5E2E05E9-39F7-4488-AECC-56E22BF984A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0753-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05404c87ee1e352378cf56e04909695a1d46aee1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71459$26AB9168-A986-4BAA-9D00-64DA51B91B7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0810-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "793fa6b6d3c3455e9695c25bb7710b5069b6024e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71459$2AB208C5-8490-45D6-A663-9F6A4FC4FBB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10566044"
+          },
+          "hash": "34013293b845cfac6d34b4864ab7ba8dc69c56b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q71459$3F7EEFD1-CF91-4271-8532-09FF49F9D018",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075328438258"
+          },
+          "hash": "788b09d377e561626bdea1e50c754b593f9481f5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71459$157D8639-5386-4469-995C-88570D92D6D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei Dan Arms.svg"
+          },
+          "hash": "7bf50d608f8410be5c7cb7072f92067740ada6a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 92153"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit Tang-dynastie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "poeta"
+    }
+  },
+  "id": "Q71459",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wei Dan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wei Dan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei Dan"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위단"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋丹"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei Dan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Wei Dan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韋丹"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦丹"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋丹"
+    }
+  },
+  "lastrevid": 17483612,
+  "modified": "2025-09-16T18:09:07Z",
+  "ns": 860,
+  "pageid": 86290,
+  "sitelinks": {},
+  "title": "Item:Q71459",
+  "type": "item"
+}

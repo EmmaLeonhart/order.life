@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Tadaatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P2889": [
+      {
+        "id": "Q78307$6C7B1EF6-1419-4A5B-B7C7-6F279C735ACA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LC8X-NHH"
+          },
+          "hash": "ae8d9cb8e64cc701b67ecd36a6b84f4535bc68d5",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q78307$3E517380-C7AE-4FF0-88A0-9FB81FA1334A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-33"
+          },
+          "hash": "d2991d034490bc847da3284377bb974b6dca87f1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78307$52927A48-9E5F-42B0-9677-1D5FEC871132",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78307$61E2DE06-0B76-4582-B59F-FFDC52C569F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78307$4247A9A2-AD0D-428A-8B91-97D316FF7D12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73573",
+              "numeric-id": 73573
+            }
+          },
+          "hash": "0b64523ec8e85a2c14c787807177cc4b2f45588f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78307$81010CF9-FF6B-4063-AACE-6CA19F74AD23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78307$B6493A97-29DD-459C-A44C-4643EF3859FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1851-09-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a3fb79fbd1a3594b2b93c8e73f14ad485671c57",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78307$4E78000A-0C9A-4813-862A-F315809B7C74",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1888-01-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71c3c5f4245cdf267cd51c516607bfcc7cef917c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78307$FE6436C5-9739-43BA-A4D6-CDEBF677C1E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11069807"
+          },
+          "hash": "913f38415151baae3e296b35bb7a29b3e599cc73",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78307$B1081FE4-3E89-4F23-BE44-F70541BB6E5F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Tadaatsu Arms.svg"
+          },
+          "hash": "48c2626a8b200b400910266fab0f0f94c895b9e6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese-American engineer"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代末期（幕末）～明治時代の武士・鉄道技術者。信濃上田藩6代藩主松平忠固次男で、塩崎松平氏7代当主。アメリカで活動し、コロラド州初の日本人市民として知られる"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ingenieur"
+    }
+  },
+  "id": "Q78307",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Tadaatsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Tadaatsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Tadaatsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Tadaatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平忠厚"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тадаацу Мацудаира"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Tadaatsu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Tadaatsu"
+    }
+  },
+  "lastrevid": 17492324,
+  "modified": "2025-09-16T20:11:45Z",
+  "ns": 860,
+  "pageid": 93138,
+  "sitelinks": {},
+  "title": "Item:Q78307",
+  "type": "item"
+}

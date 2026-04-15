@@ -1,0 +1,381 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gauda"
+      },
+      {
+        "language": "en",
+        "value": "Gauda  King of Numidia"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71768$AE336B06-D892-4B02-BEF4-7421F7518FA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71763",
+              "numeric-id": 71763
+            }
+          },
+          "hash": "e81e72db24e6557b2412e8fedcfd9bc9eedc2082",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71768$1EA119B7-4A9C-47AA-A340-F68A37BBAB80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139750",
+              "numeric-id": 139750
+            }
+          },
+          "hash": "22957ded903745d9cbbf95ec7e37c36085ebbcfc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71768$D7DFD937-D3FD-43DC-BAF6-76EF7FAB471D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71768$500379CB-C7E1-46DB-B7E4-E320A705B430",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71768$7196ACBA-6F6A-4D54-8935-BC6297E190AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71771",
+              "numeric-id": 71771
+            }
+          },
+          "hash": "69c479d5facb9d9d40ba30cab3a5341900186c99",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q71768$BAE54F04-9F27-4614-BAF9-9A660951CB69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71774",
+              "numeric-id": 71774
+            }
+          },
+          "hash": "2a6af40aef5738416a58e99c985338ce4640c706",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q71768$8607A6A0-B671-42BD-9C9B-EF4D4B6CFD98",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gauda /King of Numidia/"
+            }
+          },
+          "hash": "1bedd5377dfff4f2e8175c92167ed947f21a1b45",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71768$E68463E8-C7EF-46A6-9B92-1E29CFDBEBFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q71768$C1BFA5B8-A2D2-4135-A978-F64549352A67",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71768$0FD910F3-30F7-4FD9-8976-3F53F52064EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0088-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7568941e46ec8d3c2fa8b510ecd1e42ab4ffdca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71768$3DBC4928-7579-4EC2-AE38-F633EE684CE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q340116"
+          },
+          "hash": "e50a87eaf52f8e9530aecadfe851718cd519cf2a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71768$1AC38592-7BD3-466E-86EF-FCA1D69D63D9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gauda Arms.svg"
+          },
+          "hash": "da88b65a7a16ec1425efcc2226edcd3324ec9162",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král Numidie"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Numidien"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Numidia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Numidie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך נומידיה"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Numidia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Нумидии"
+    }
+  },
+  "id": "Q71768",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غودا النوميدي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جودا النوميدى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Gauda"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gauda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gauda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gauda"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γαύδας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gauda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gauda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gauda"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאודה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գաուդա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gauda"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gauda"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Guda"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gauda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gauda"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gauda (król Numidii)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гауда"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гауда"
+    }
+  },
+  "lastrevid": 17484024,
+  "modified": "2025-09-16T18:14:59Z",
+  "ns": 860,
+  "pageid": 86599,
+  "sitelinks": {},
+  "title": "Item:Q71768",
+  "type": "item"
+}

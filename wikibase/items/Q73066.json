@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Yuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73066$32CD4B34-48D2-4F64-9D0F-208068C54250",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76173",
+              "numeric-id": 76173
+            }
+          },
+          "hash": "f9ee1104f1b31a579b5c8b3a0c3d62e21cd03f49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73066$99173653-14AD-4B0B-A7D3-3496B5E1A0BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77965",
+              "numeric-id": 77965
+            }
+          },
+          "hash": "9eac92d782451c446d9855910c4d396913f7709b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73066$4713F883-795F-48FB-91FA-9BDAEA3EE6BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73066$4262804C-5AE4-4FB0-B33F-6C7B89D195F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73066$1704A71D-BD8C-4E4D-BB57-9D1BC969F78A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68038",
+              "numeric-id": 68038
+            }
+          },
+          "hash": "802eb12a60c47a5152f5d7b4c4161da8d5a839ff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73066$12C1208A-8D5D-4163-94B7-BF17A04780CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73066$76F6000F-3842-4CA0-A7AC-33D6B0B3157A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0615-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5e24823f9a2cd13392c7abde11fc979584023676",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73066$3E5257E4-B226-4F65-9764-DD07EC268AF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45673913"
+          },
+          "hash": "3e97f55ccc51ab90ee55aa8ff30132dbb9a32e07",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73066$0189292B-DABE-49BD-9D5F-53D77D16DCD5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074746967907"
+          },
+          "hash": "f3b19766ac8d3c2e171102707cb6984ad0cd71b3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73066$CFAA4A82-BA98-44E6-96DA-27C4529D7DA0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Yuan Arms.svg"
+          },
+          "hash": "54cb8369ba9810e8c9999e7caf99988d0a55eb65",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 171394"
+    }
+  },
+  "id": "Q73066",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Yuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Yuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Yuan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉瑗"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Yuan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉瑗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘瑗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉瑗"
+    }
+  },
+  "lastrevid": 17485728,
+  "modified": "2025-09-16T18:38:59Z",
+  "ns": 860,
+  "pageid": 87897,
+  "sitelinks": {},
+  "title": "Item:Q73066",
+  "type": "item"
+}

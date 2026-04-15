@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikeda Nagatoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q68278$662AA069-0824-4A11-91ED-547E70BAA671",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "池田-87"
+          },
+          "hash": "2d8a327f7bc4ab629040f2951b19530c971079d3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68278$72AE986D-33F1-420E-97A5-5C1D5DB6C680",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68278$691A4C3E-748E-4AA5-BE6D-DDA2ACBADECC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68278$3F4F22B6-D7A1-4969-80F3-4A0D09F69FDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62616",
+              "numeric-id": 62616
+            }
+          },
+          "hash": "551e6ef6c905a61cc42a055aae084a76e6ba5759",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68278$67FCACE5-4B22-4842-9C32-6C3208518100",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68278$2A8BC7B8-9CF8-4E2F-BE92-6483625817C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1853-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de6f5b05eab315ada8573c73daebc876acfac04e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68278$116B4759-D640-457F-8399-716F8B892C69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1913-03-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "359b4811877acbab07b9a10aa62f4f1de38d8b3f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68278$0336CD05-C7F5-4856-9073-8CCA7E1F4AC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11552193"
+          },
+          "hash": "1fff9c98b03fbd5c7687947fbae3ed6352861a60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68278$8DB92202-FA18-42DA-89F7-58A0DD3B56B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda Nagatoshi Arms.svg"
+          },
+          "hash": "09d1293a990f4c786aa43f1472ca4e57babb5213",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "5 Apr 1853 - certain 4 Mar 1913"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岡山藩家老。片桐池田家11代、男爵片桐池田家初代。池田長常の次男"
+    }
+  },
+  "id": "Q68278",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ikeda Nagatoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ikeda Nagatoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田長準"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ikeda Nagatoshi"
+    }
+  },
+  "lastrevid": 17479638,
+  "modified": "2025-09-16T17:13:24Z",
+  "ns": 860,
+  "pageid": 83109,
+  "sitelinks": {},
+  "title": "Item:Q68278",
+  "type": "item"
+}

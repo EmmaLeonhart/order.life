@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Umar bin  Abu Salama"
+      },
+      {
+        "language": "en",
+        "value": "Umar son of  Abu Salama"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q67678$644E2290-89CC-4D97-ACA1-DFAE4ADA1607",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67678$9E1EFF9A-6EBC-4A57-AACC-7A3FB04F6CFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67678$268680ED-203E-46A3-96B0-A0F16FF11156",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66829",
+              "numeric-id": 66829
+            }
+          },
+          "hash": "ecba661922a1ba1692cb72492432a02c3cd72bd0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q67678$A8D16C5C-3ABF-4DAE-A3CE-1D9F06CE8A1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66506",
+              "numeric-id": 66506
+            }
+          },
+          "hash": "5f60323ec77217ada6eea6051d79eded7862c777",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67678$299DD934-9D5E-4478-B278-6D147411AE86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94475",
+              "numeric-id": 94475
+            }
+          },
+          "hash": "9b22ca35058e5b0cc0aad3305207d4a9698fba74",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q67678$AB7E48E6-1C56-4A8B-8814-7A5AE77F7AEE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Umar bin /Abu Salama/"
+            }
+          },
+          "hash": "60f8c3b405ef5dac23cd3eb51ace0a5364c770e1",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67678$0D2FEAD6-2FE4-433A-A38E-1365AF477958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q67678$62C3246D-CB87-46E2-95BC-35076EAC21B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018211200920"
+          },
+          "hash": "1b98497e14b3243d1b82d147e41e23a4971ee868",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67678$A5272B3C-4127-4AC0-B0B5-008337B7AD28",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Umar son of  Abu Salama Arms.svg"
+          },
+          "hash": "93251184c0d7628f8702e4b150ee56f0b6430c3c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q67678",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Umar son of  Abu Salama"
+    }
+  },
+  "lastrevid": 17478850,
+  "modified": "2025-09-16T17:02:34Z",
+  "ns": 860,
+  "pageid": 82509,
+  "sitelinks": {},
+  "title": "Item:Q67678",
+  "type": "item"
+}

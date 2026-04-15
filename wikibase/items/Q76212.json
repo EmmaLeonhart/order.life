@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei Shen"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q76212$37E54540-D329-42CE-8E81-B30226513F9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80719",
+              "numeric-id": 80719
+            }
+          },
+          "hash": "385bca90050cb7eca0fc678b20f6810d9e9a3f4f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76212$54813984-C108-458E-898E-73C4E3EB7CC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80723",
+              "numeric-id": 80723
+            }
+          },
+          "hash": "21925b1bdd3bc283af9a3fbeb5f00ae428cdcd16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76212$C4972435-77CE-482C-96C8-058C8C256F82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76212$9E81FB6D-C5E1-4D92-9CE1-A1B18001B80B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76212$D6D404B0-C8E6-4A28-AED5-4ECB5D4588C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71459",
+              "numeric-id": 71459
+            }
+          },
+          "hash": "5ae1b2fa1a443573b8eff3c715174f2ad4130eb3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76212$AE40E557-3627-4951-BBA8-70B5D391C4B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76212$460AD5F3-4699-4824-BA22-B2A5D4D34BC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0849-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14b648a383e1ed78879e9e7df033b086c84c6f1c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76212$AE45FBC2-BCB1-466A-BE48-E81F15EB7D70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45670236"
+          },
+          "hash": "bfbe3fc34b6115d5909e02b18f4d32cbd90811bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76212$C814CD39-D9DC-4420-9D48-23522D8E3C6F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei Shen Arms.svg"
+          },
+          "hash": "9f39c3cc574dfac4008e873a34a13c95467cabfc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 181090"
+    }
+  },
+  "id": "Q76212",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wei Shen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei Shen"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋審"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei Shen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韋審"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦审"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋審"
+    }
+  },
+  "lastrevid": 17489684,
+  "modified": "2025-09-16T19:33:39Z",
+  "ns": 860,
+  "pageid": 91043,
+  "sitelinks": {},
+  "title": "Item:Q76212",
+  "type": "item"
+}

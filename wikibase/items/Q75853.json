@@ -1,0 +1,895 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Antonius Gordianus Pius Augustus"
+      },
+      {
+        "language": "en",
+        "value": "Gordian III, Roman Emperor"
+      },
+      {
+        "language": "en",
+        "value": "Gordian III"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q75853$50A77DA2-1412-4DF3-AE6A-F37B77752CD6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716755"
+          },
+          "hash": "600ef4065de631f3e02197b333f9925fd6c868f5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q75853$CB78B869-E222-48D6-A2A3-1D634F355453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75754",
+              "numeric-id": 75754
+            }
+          },
+          "hash": "0eb39df7e9360867567c9dd91c3df898afe62660",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75853$5EB8CAFC-7AAE-4DE0-8FAF-DFD5C9373201",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151790",
+              "numeric-id": 151790
+            }
+          },
+          "hash": "79d78018a5102ad29f4d182a7d0e420699289a86",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75853$31467CFE-090E-4A21-A9AF-019ADBC59DC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166385",
+              "numeric-id": 166385
+            }
+          },
+          "hash": "12e1e9d95bfb4e80549b6d27e6878c3eb799804f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75853$885DCE1D-B073-46FE-ACBE-3A45408B4184",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166386",
+              "numeric-id": 166386
+            }
+          },
+          "hash": "714c87c9ff6662a20051037a7288e0ff796bbf50",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75853$18B6CF6D-0F8D-44FE-915A-9748518077EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75853$DA034E32-BD95-4944-9CD6-F233D9C90D06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q75853$B083F7A7-CD52-403E-BFAC-BDA58CBC06BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75856",
+              "numeric-id": 75856
+            }
+          },
+          "hash": "146bbda5b28b620f2c9a94f13dc0c5411b0f8672",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75853$2E5DC119-7552-43C8-A498-B69F514C265E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151789",
+              "numeric-id": 151789
+            }
+          },
+          "hash": "09bbafad84da5ac2c89d9ddd66487cf9dc34fdb5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75853$1025F49D-F472-48B5-A5A6-D1E377A175DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61957",
+              "numeric-id": 61957
+            }
+          },
+          "hash": "435acec54935e6cddc0876dcaea9b9153307a354",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75853$7A4BA641-08A0-47D2-AAF2-1197E0C53B13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75997",
+              "numeric-id": 75997
+            }
+          },
+          "hash": "65e1ec13bfdb755639e9963b81b196b51bc0649f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q75853$BCF7C92B-09D5-433B-8D65-BD5D734E51E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75994",
+              "numeric-id": 75994
+            }
+          },
+          "hash": "d249883baac4db5ff1e3d4ab9ad25efb8ce0bdf1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q75853$D90B3FAC-887D-414B-95C3-E5A2C3196226",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "35410041"
+          },
+          "hash": "8c897c75b8bd1840ac241795ad6b229911da4259",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75853$696672F3-18D8-4546-BE8A-030A1A9BE006",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q75853$A7F59BE4-0D2E-4E87-9732-E3EEDB3463A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0225-01-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ddb027fd8afccb4c8bbed5422890241cdd40c21f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75853$D320DAAA-8618-40C0-9547-77FDCEC4807F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0244-02-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0b9a2dafb1b47fa556e380641258b453146a431",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75853$B5B61495-A8EB-4153-95DE-235505ACB3F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1812"
+          },
+          "hash": "c84ba83bcfbf5313d95f5bfa4d9e357f860c9377",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q75853$29857A40-294A-42DF-A589-A7E2913714CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645870459"
+          },
+          "hash": "a703be24f03df438446fe848dc4f0981bcec55dd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q75853$6F9A6910-8209-46DA-BA75-EB0CEE058DAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:35025"
+          },
+          "hash": "db107d9f191861f4679963e603e30c745a03b109",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75853$6923DD81-AA17-4226-B345-277938884361",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gordian III Arms.svg"
+          },
+          "hash": "ee8831608c8f5bff0f69be0935cb0a767d2a2e6b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q75853$B521FF43-0694-4156-99B8-0E9054374573",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/6a7bafa7-fa78-4b5d-af70-e2ed6f887a0a"
+          },
+          "hash": "536d05d143b48a36be6372dd21f4d7697d6a73dd",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer roman"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆری ڕۆمانی"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser von 238 bis 244"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor (225-244)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (238-244)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisari vuosina 238–244 (225–244)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain de 238 à 244"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "impire Rómhánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 238 e 244"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang berkuasa pada tahun 238 sampai 244 Masehi"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano (r. 238-244)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk keiser"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans politicus (225-244)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk keisar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Romersk kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma İmparatoru (238-244)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський імператор у 238–244 рр."
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ (225-244)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "hoàng đế La Mã (225-244)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "西元238年至244年的羅馬皇帝"
+    }
+  },
+  "id": "Q75853",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غورديان الثالث"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جورديان التالت"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اۆچونجو قوردیان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гардыян III"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гордиан III"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gordian III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gordià III"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "گۆردیان سێیەم"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gordianus III."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gordian III"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gordian 3."
+    },
+    "de": {
+      "language": "de",
+      "value": "Gordian III."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Gordian III."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Gordianus III"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γορδιανός Γ'"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gordian III"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Gordian III"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gordian III"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gordiano la 3-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gordiano III"
+    },
+    "et": {
+      "language": "et",
+      "value": "Gordianus III"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gordiano III.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گوردیان سوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gordianus III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gordien III"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Gordianus III"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gordianus III"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gordiano III"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Gordian 3-sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "גורדיאנוס השלישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gordijan III."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Gordianus római császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gordianus III"
+    },
+    "is": {
+      "language": "is",
+      "value": "Gordianus 3."
+    },
+    "it": {
+      "language": "it",
+      "value": "Gordiano III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゴルディアヌス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გორდიანე III"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고르디아누스 3세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Gordianus III"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Gordianus III"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gordianus III"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Gordianas III"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Гордијан III"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "गॉर्डियन तिसरा"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Gordianus 3-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gordian III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gordianus III"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gordiano III"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Gordian III"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਗੋਰਡਿਅਨ III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gordian III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gordiano III"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gordiano III"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gordian al III-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гордиан III"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Gordianu III"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Gordian III"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gordijan III"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gordián III."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gordijan III."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гордијан III"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gordianus III"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Gordian III"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิกอร์ดิอานุสที่ 3"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Gordian III"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gordian III"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гордіан III"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "گوردیان سوم"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Gordian III"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gordian III"
+    },
+    "war": {
+      "language": "war",
+      "value": "Gordian III"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "戈尔迪安三世"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "გორდიანე III"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Gordian 3k"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "戈爾迪安三世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "戈爾迪安三世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "戈爾迪安三世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "戈爾迪安三世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "戈爾迪安三世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "戈爾迪安三世"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "戈爾迪安三世"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "戈爾迪安三世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "戈爾迪安三世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "戈爾迪安三世"
+    }
+  },
+  "lastrevid": 17546535,
+  "modified": "2025-09-17T09:13:38Z",
+  "ns": 860,
+  "pageid": 90684,
+  "sitelinks": {},
+  "title": "Item:Q75853",
+  "type": "item"
+}

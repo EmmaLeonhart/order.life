@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hori Naohide"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q69037$C829521F-EA27-42EC-9B95-8BF58136D952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69037$CC04A364-E47B-494D-A979-7CF7A6618089",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q69037$3261AB76-7991-42A1-83F9-0C5784254DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63878",
+              "numeric-id": 63878
+            }
+          },
+          "hash": "b4a60ec394cd1233114a0456b647235a64dd8e0a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q69037$0F4E567A-E946-4CFF-AA54-9E14AE204E2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q69037$408728A9-2432-499C-97D4-44321F59A048",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4d117ec241cab71a6c7548b153423d00e75fa04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q69037$D06320EC-3DD0-4139-AF84-58AE538D04D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1767-09-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45b9fee264f3e850c86840a2b94c0fe50d7cdfe0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q69037$D8512ADB-EFAB-444C-BEC6-FF87BD438730",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11427717"
+          },
+          "hash": "4dda84b263baff5a170353f368ec48531ac6907a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q69037$02CCDBFC-BC88-44C1-9C41-4EC7B61C02D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hori Naohide Arms.svg"
+          },
+          "hash": "cf9d9d5ab232a8dd9acfcf6f86b95bcd1267174c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q69037",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hori Naohide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "堀直英"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наохидэ Хори"
+    }
+  },
+  "lastrevid": 17480488,
+  "modified": "2025-09-16T17:25:06Z",
+  "ns": 860,
+  "pageid": 83868,
+  "sitelinks": {},
+  "title": "Item:Q69037",
+  "type": "item"
+}

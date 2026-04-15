@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei Jian"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q61392$D0337882-F730-4DE3-85BA-F9B266F1E0F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67104",
+              "numeric-id": 67104
+            }
+          },
+          "hash": "c77358634c3e422483704b661c033b6604919395",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61392$3B7FBF6E-D135-40E7-A799-56EBC7D7EFB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67107",
+              "numeric-id": 67107
+            }
+          },
+          "hash": "c346d6baf8d79beebb196a9df96c0f860bf96aae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61392$1E821559-E22D-4D9D-88E1-690C9A40F136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67110",
+              "numeric-id": 67110
+            }
+          },
+          "hash": "03e7bb8ffcecf5d9e775e6298776db54ebf7190e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61392$425325A8-BDFF-4068-8BD9-8B9DD38A544D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61392$82FCA765-C7B1-4507-AF74-070A6E4EEBFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61392$C3FB513C-D188-4748-BEDF-F8CED09AF780",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54763",
+              "numeric-id": 54763
+            }
+          },
+          "hash": "a4ebb27284468b04906589f479f855bfa94df132",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61392$1C488825-678F-4A34-86D1-6F505C543786",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61392$D2210C10-4421-4A82-B628-2476BD43DA63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0746-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d059fe9fb919594ca643b5c04750bc73452c8e9e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61392$90045F8B-E23D-447B-8F8C-9799F49AAE43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11663937"
+          },
+          "hash": "1a61fca1c63d2b864ac2b5e9ef5aecefbba9d217",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61392$966483CB-0615-4634-97E7-078CB877F2A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei Jian Arms.svg"
+          },
+          "hash": "6e24ccc85934deea0d664a68b95332403a8b2985",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180797"
+    }
+  },
+  "id": "Q61392",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wei Jian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wei Jian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei Jian"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "韋堅"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋堅"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei Jian"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Wei Jian"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韋堅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦坚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋堅"
+    }
+  },
+  "lastrevid": 17470906,
+  "modified": "2025-09-16T15:02:16Z",
+  "ns": 860,
+  "pageid": 76223,
+  "sitelinks": {},
+  "title": "Item:Q61392",
+  "type": "item"
+}

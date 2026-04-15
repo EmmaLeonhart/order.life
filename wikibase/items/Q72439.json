@@ -1,0 +1,699 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Servilia"
+      },
+      {
+        "language": "en",
+        "value": "Servilia Caepionis Maior"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72439$8743E09F-A8CD-4D60-92A9-BE9EE19529B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "90670"
+          },
+          "hash": "a91ab78aacb059b4599553166c835b388c6fea3e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72439$2CF7341C-3AA7-4464-876B-FCED370A928C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716798"
+          },
+          "hash": "671384c7236bdda8badf161dd14b34896b7c81fd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72439$2FFCFA15-7DF1-49CC-8221-C52630A07455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72254",
+              "numeric-id": 72254
+            }
+          },
+          "hash": "099163dee3a91ed33648b7f3c80e82fe0d918372",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$951D069C-E140-4447-A54F-2C2957AB457B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72305",
+              "numeric-id": 72305
+            }
+          },
+          "hash": "ad900e13744d45fc1f9c2c4958f5a35504c97df5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$BD4DEFFD-73ED-46A4-B03C-084B12994F15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72308",
+              "numeric-id": 72308
+            }
+          },
+          "hash": "f2d3385b4d2ed6a885733d0783638f7190e30cbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$2A510C7D-A373-409C-A0EE-782EFD612CE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78111",
+              "numeric-id": 78111
+            }
+          },
+          "hash": "8774f464c165bd4f71fe916a85da41a7a805d278",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$6D7B19D6-BA4F-4BB0-B25D-5D6EF5C512A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141412",
+              "numeric-id": 141412
+            }
+          },
+          "hash": "9da16135d6e56bef6bba66d81c21a4cc26b8df14",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$8CE6EFAB-6DDC-41C5-A483-B06358A764EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144075",
+              "numeric-id": 144075
+            }
+          },
+          "hash": "9ba7cd0177b8f5cefae06e94b29832047f13aaac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$55192CF2-46BD-491F-9FF5-09DA2A969630",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144074",
+              "numeric-id": 144074
+            }
+          },
+          "hash": "9be1029b45c89008c3657434135deca2f0eb179d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$BA38A114-2BB2-4B66-8B42-F9E99B5811DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71137",
+              "numeric-id": 71137
+            }
+          },
+          "hash": "3099aa86f06fc8d760c848cc000bbe553970767a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72439$96D9AE2D-87FC-4B33-8893-B3578FB65A72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$A2BE3B28-CA82-4206-85CA-A6064A1F003B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72439$05446052-2F87-46F9-9774-0C361D31DD06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Servilia_Caepionis_(1)"
+          },
+          "hash": "0f20a6569a352fde0d09579c12432b229335570f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72439$B547712E-CB1C-4F2B-AF7B-7C4556ED4710",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72436",
+              "numeric-id": 72436
+            }
+          },
+          "hash": "1f110e9d996a8a475a2c54b71a41d08ad5d28a71",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72439$71AA7CF3-8A28-4419-BB30-96309F61E126",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72287",
+              "numeric-id": 72287
+            }
+          },
+          "hash": "ee710dca55725e4c0f670ef38513f50b22704895",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72439$481346DA-8658-49C7-A448-EF6076F9D9FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72621",
+              "numeric-id": 72621
+            }
+          },
+          "hash": "9cc5d10c086aa98c12b235e960ecf9c61a928eb1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72439$74CD7B08-1075-4FCA-89D4-E7F6CE15EB1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72624",
+              "numeric-id": 72624
+            }
+          },
+          "hash": "91226dfcb9c87f3002c4229353a1b991562d80e4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72439$A42B7273-6B51-43E0-B408-0E46B221C721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72439$87201C9C-DA98-497E-B712-4318C7D24FF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72439$D04513A5-B195-481E-A2C7-6B9748A43810",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q232229"
+          },
+          "hash": "27404051054a1e43c08204aa2b01a6f93c1fe417",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72439$318BAA38-9A51-44E1-8573-94A7B6FAF6A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003355637296"
+          },
+          "hash": "0cf9356bb3e5e66b114f7ad45a1caa940483fd88",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q72439$22392036-E08A-44BD-BE72-A6CFF0728240",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Servilia"
+          },
+          "hash": "ae78cbda2fd81d6701df11598201f446a059ca3a",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72439$A01306FF-F7C4-4C66-B992-33E23AAE2249",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Servilia Arms.svg"
+          },
+          "hash": "5bc3ead58c264350989bc2748e085c144681e6b9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "ارستقراطيه من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "römische Patrizierin"
+    },
+    "el": {
+      "language": "el",
+      "value": "ερωμένη του Ιούλιου Καίσαρα, μητέρα του Βρούτου του Τυρανοκτόνου"
+    },
+    "en": {
+      "language": "en",
+      "value": "mistress of Julius Caesar and mother of his killer Marcus Brutus"
+    },
+    "es": {
+      "language": "es",
+      "value": "madre de Bruto el Tiranicida"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Brutuksen äiti"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "nai de Bruto, o asasino de Xulio César"
+    },
+    "he": {
+      "language": "he",
+      "value": "אצילה רומאית"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeinse vrouw uit de gens Servilia, minnares van Julius Caesar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata romana"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julius Caesars älskarinna och mor till Brutus"
+    }
+  },
+  "id": "Q72439",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيرفيليا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Сервілія Цэпіёна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сервилия Цепиона"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Servília Cepió la Major"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Servilia Caepionis"
+    },
+    "da": {
+      "language": "da",
+      "value": "Servilia Cepione"
+    },
+    "de": {
+      "language": "de",
+      "value": "Servilia Caepionis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σερβιλία (μητέρα του Βρούτου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Servilia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Servilia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Servilia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Servilia Caepionis"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Servilia"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Servilia Cepión"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σερβιλία"
+    },
+    "he": {
+      "language": "he",
+      "value": "סרוויליה קפיאוניס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Servilia Caepionis"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սերբիլիա Ցեպիոնիս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Servilia (104 SM - 42 SM)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Servilia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セルウィリア・カエピオニス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "세르빌리아 카이피오니스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Servilia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Servilia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Servilia Cepione"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Servilia Caepionis"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Servilia Cepione"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Serwilia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Servília Cepião"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Servília Cepião"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сервилия Цепиона"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Servilija Cepionis"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Servilia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Servilia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Servilia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сервілія Цепіона"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سرویلیا"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞薇利娅·加比奥尼"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "塞薇利娅·加比奥尼"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "塞薇利娅·加比奥尼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "塞薇利婭·加比奧尼"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "塞薇利婭·加比奧尼"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "塞薇利娅·加比奥尼"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "塞薇利婭·加比奧尼"
+    }
+  },
+  "lastrevid": 17484910,
+  "modified": "2025-09-16T18:27:26Z",
+  "ns": 860,
+  "pageid": 87270,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72439",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72439"
+    }
+  },
+  "title": "Item:Q72439",
+  "type": "item"
+}

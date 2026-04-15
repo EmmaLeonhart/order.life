@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jiang Mu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72345$48CD152B-C3A1-4716-A019-3F253784CD10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67338",
+              "numeric-id": 67338
+            }
+          },
+          "hash": "306ab0c2e8d3a1446454c73807d902cf0becab70",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72345$DD7F55C0-5B3B-457C-A41A-97D840E699D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72345$FC640583-9BD6-4922-853B-A929DE442F6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72345$ED4CABD1-8431-45B3-A241-FDF1FEC0F221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77090",
+              "numeric-id": 77090
+            }
+          },
+          "hash": "25042af473a99cc8fada10c24951c3a1e9c71ef3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72345$E57EC817-A544-4400-9AA9-7BA3493F5F00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72345$F2C60C63-2EE3-46CE-B963-302C17C9836E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0627-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "40f7d23641cf78830826d3decb015c2aa55cd6d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72345$68765FAC-B0B5-44D2-BAE5-13D123359919",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45419741"
+          },
+          "hash": "867f8cc5cb8a71538b1d94e1b28471061e1a3181",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72345$7266E6E7-7006-4CCD-B62B-9516DC36233C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075345271870"
+          },
+          "hash": "6478091f1476c012d268615cefc9d9d111b2c338",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72345$FF68398B-373A-4AA5-AC73-8D96BA377BC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jiang Mu Arms.svg"
+          },
+          "hash": "596a5e858e0bdf19a868472dd0866bb772df0579",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 31457"
+    }
+  },
+  "id": "Q72345",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jiang Mu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jiang Mu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "姜謨"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jiang Mu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "姜謨"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "姜谟"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "姜謨"
+    }
+  },
+  "lastrevid": 17484784,
+  "modified": "2025-09-16T18:25:39Z",
+  "ns": 860,
+  "pageid": 87176,
+  "sitelinks": {},
+  "title": "Item:Q72345",
+  "type": "item"
+}

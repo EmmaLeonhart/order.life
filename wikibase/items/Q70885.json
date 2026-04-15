@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wang Bao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q70885$AF93E646-BBA1-4AF2-A1DA-AADD8B9E9272",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75650",
+              "numeric-id": 75650
+            }
+          },
+          "hash": "da8ff7bab4060e56b0da320d08b59f9e948f93c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70885$99C2337F-9CF5-417D-85A3-26D2F06894BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75647",
+              "numeric-id": 75647
+            }
+          },
+          "hash": "206b08a7d20b9ec3d5795718cb10dade9fd1307d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70885$7DDEC1A5-6CE7-477C-A22E-547033F30C2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70885$932F8075-ACDB-435C-9016-61880B6942B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70885$EB415935-7E90-4643-B9D7-558E63575A61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65964",
+              "numeric-id": 65964
+            }
+          },
+          "hash": "ccfa5c1a0daf6b51a02826ca170db9abdcf4d0c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70885$EB4B8697-3588-47C1-A163-7141928F0AD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70885$DA50E8D1-8BF1-40FA-AC7A-4C5E3E11DCE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0513-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f3f8fc896a456569850f666c55bd038fc13bf2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70885$9A717A88-426C-4B4C-965B-D8098740045C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10416850"
+          },
+          "hash": "c730bf36770ed77d45eda3e4124d2e4557e9d8b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70885$BB758499-4334-49D6-AF40-A5AFCB770004",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wang Bao Arms.svg"
+          },
+          "hash": "82e52de9ed10e8248e831ae5d479929f72d756b7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 157867"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage chinois de la période des dynastie du Sud et du Nord"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中国の南北朝時代の官僚・文学者"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver"
+    }
+  },
+  "id": "Q70885",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wang Bao"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Wang Bao"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wang Bao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wang Bao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wang Bao"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wang Bao"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wang Bao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "王褒"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "王裒"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wang Bao"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wang Bao"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Wang Bao"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Wang Bao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王褒"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "王褒"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "王裒"
+    }
+  },
+  "lastrevid": 17482850,
+  "modified": "2025-09-16T17:58:34Z",
+  "ns": 860,
+  "pageid": 85716,
+  "sitelinks": {},
+  "title": "Item:Q70885",
+  "type": "item"
+}

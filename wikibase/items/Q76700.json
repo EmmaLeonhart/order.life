@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cui Cong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q76700$9AF803AB-F9FE-49AD-8D76-F02BD2514259",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71929",
+              "numeric-id": 71929
+            }
+          },
+          "hash": "6bcc4ae7a5fa2053846ebabd5a7caa06adc22b5c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76700$15318436-37EC-402A-BB6D-33CC41502768",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q81290",
+              "numeric-id": 81290
+            }
+          },
+          "hash": "df62f4cc355fac7d46c9575a599b2ff29b8538bf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76700$BAE8CE72-BCA0-416C-8180-2D8791F1BC0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76700$4E99889D-3E19-4980-89A4-29FEF7F5F66A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76700$4B844ADE-2989-47B5-8E67-CA61EF0ACEA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q81287",
+              "numeric-id": 81287
+            }
+          },
+          "hash": "3c153e5c3d2407fe7500693fe9eb55f403891870",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76700$BC9EEC83-993E-4D7B-9422-D4812BF8FF45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76700$A0E1E226-ADC6-49C7-A844-93B3BA7992C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0808-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fabb0b4f6cbabdc3ed2d14538f29322de9e13ac4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76700$2A9A09C6-589B-4B19-8E9C-A29347A9C2EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18909554"
+          },
+          "hash": "7901849fcff4c47242cfcdf96fc7481cc2e96aec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76700$C82F0F01-9486-4440-A148-61D1FEB518D5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cui Cong Arms.svg"
+          },
+          "hash": "ec781b3d7b85b8eda23e40366e45268f376cd87b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 145710"
+    }
+  },
+  "id": "Q76700",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cui Cong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cui Cong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cui Cong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "崔淙"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cui Cong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "崔淙"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "崔淙"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "崔淙"
+    }
+  },
+  "lastrevid": 17490314,
+  "modified": "2025-09-16T19:42:50Z",
+  "ns": 860,
+  "pageid": 91531,
+  "sitelinks": {},
+  "title": "Item:Q76700",
+  "type": "item"
+}

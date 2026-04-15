@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Naonori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73829$59DC6D46-64DC-4499-839E-5BB3173F6B3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-534"
+          },
+          "hash": "92455794250b34dbd1c63fe329baa14cd10b0e18",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73829$C1E68A98-A30F-421B-B1CF-F91D6F73C17A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73829$2D9CFC06-2814-41C1-9C6D-14DECCDD6726",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73829$4ABC8214-2A15-462A-9E7A-0DC948543755",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52939",
+              "numeric-id": 52939
+            }
+          },
+          "hash": "16066ac890b357982298203fab3b9fb5749bba89",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73829$CAB17DE1-C352-41A1-910F-EA07BB5E8400",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73829$BFAF4998-448C-4769-85BD-57094459735A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1869-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1d9cfd7c91d3eeba6049b309f6f40d8e19d8437",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73829$35959D91-CA26-4F43-9598-DBB606AA0423",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q52717744"
+          },
+          "hash": "2012f871889ecfaa2a8d8e30b419e4940fc29a7d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73829$7F87BBC4-B5C1-4827-BB5B-66AA4C159EC0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Naonori Arms.svg"
+          },
+          "hash": "3653e647a5cab16f62e5ac7655d8fdd85e0287e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "30 Aug 1869 - certain 24 Dec 1931"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ondernemer"
+    }
+  },
+  "id": "Q73829",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Naonori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平直徳"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平直德"
+    }
+  },
+  "lastrevid": 17486640,
+  "modified": "2025-09-16T18:51:54Z",
+  "ns": 860,
+  "pageid": 88660,
+  "sitelinks": {},
+  "title": "Item:Q73829",
+  "type": "item"
+}

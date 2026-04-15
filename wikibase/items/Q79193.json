@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Shi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q79193$CB84781F-D0F1-4F51-BDD3-DA09AAEDE1B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79193$1F09B7D3-C09F-4B99-90D1-CF4385DC08EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q79193$8E83B4DB-1AFF-4E26-9ACA-4FE2C5D48DD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74447",
+              "numeric-id": 74447
+            }
+          },
+          "hash": "67fe4d6fdeeedfe480608643bb942817217820e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q79193$3EBF628E-C6AD-4202-A262-72355068C041",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q79193$E906055D-F776-45B0-B776-D720D753E615",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0749-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4cb557c8048b15ce1bd75ff8aa7a5661aaeb7d68",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q79193$0F7E9E0B-5950-43D5-BF56-DFA3EB258306",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0821-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "519f0f129b5c2fe01691b86d3bd327bb62e54aaf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q79193$03298447-0781-4006-8DF3-3324743115A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65803828"
+          },
+          "hash": "8525ed1b4da0deb6b22d5f069538441e24caff9c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q79193$44667FF7-D640-4037-B2BD-4318408DF88E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075345979116"
+          },
+          "hash": "67d755c2c43b419eedf12d48ed4fe63612ff0a64",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q79193$C7A42A73-B0E4-427B-BEBC-E8331E7D1C70",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Shi Arms.svg"
+          },
+          "hash": "0202a7377e89817fe70022c081685de3aaf19e8e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daughter of Liu Rui"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "柳銳女"
+    }
+  },
+  "id": "Q79193",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Shi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Shi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Shi (hija de Liu Rui)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "柳氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Shi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "柳氏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "柳氏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "柳氏"
+    }
+  },
+  "lastrevid": 17493237,
+  "modified": "2025-09-16T20:24:28Z",
+  "ns": 860,
+  "pageid": 94024,
+  "sitelinks": {},
+  "title": "Item:Q79193",
+  "type": "item"
+}

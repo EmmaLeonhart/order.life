@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asukai Masayori"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q63560$B0E04FF5-7E1E-4BE2-8605-10A8CE2896FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58082",
+              "numeric-id": 58082
+            }
+          },
+          "hash": "b800d10f53572fccfab9915decd41301d341b4cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63560$99635887-BB26-4FDD-8E00-9D5AA740ACE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63560$AE5A00C3-65E9-43BE-981E-DD344B4A4377",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63560$06175F26-CC29-4AE4-A981-DD51086DCD96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63560$3D461C20-2D5B-4119-AE06-117D84336A23",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1358-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5167a4187313700859036275443cdcd75f4d9249",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63560$06498E82-2E26-4E18-A4B3-BF8B480B6684",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1428-11-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd3ed3f0a142f1fe5edabcb631e8319d86211d62",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63560$B8778F0C-5FF6-4E8C-8D83-23F7F9B66C21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108781711"
+          },
+          "hash": "5d18b38fc09efd3e2151977de3dc8fc9d5f6a0d6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63560$B1A06C9E-9D08-4D8B-A9B7-CD99C4B416C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asukai Masayori Arms.svg"
+          },
+          "hash": "596a8d96e8e54b326a4ac861bee337dc4d187917",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代から室町時代の公卿、歌人 (1358-1428)。書道宋雅流の祖"
+    }
+  },
+  "id": "Q63560",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Asukai Masayori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "飛鳥井雅縁"
+    }
+  },
+  "lastrevid": 17473654,
+  "modified": "2025-09-16T15:45:05Z",
+  "ns": 860,
+  "pageid": 78391,
+  "sitelinks": {},
+  "title": "Item:Q63560",
+  "type": "item"
+}

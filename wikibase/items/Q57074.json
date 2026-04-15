@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Watarai Takahisa"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q57074$C0786ED0-09C0-4BBC-8B79-6B8BDDB5638A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-42"
+          },
+          "hash": "42c6b9f5e2f6d775f476605e3bbb23ecdee62a9a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q57074$73217405-660F-40CB-86CB-76ECB1838BED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57074$06E6FA89-63D3-4A98-BA88-B75F7BF1861C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q57074$288D9EB5-4F98-4889-8338-CA59ACC75B52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48973",
+              "numeric-id": 48973
+            }
+          },
+          "hash": "9d95bafdad8391f07aceed5e8c5d65431dd28704",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57074$060FAF66-4D19-4A51-814B-996BF31EFAA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57074$4DE7DCF4-B4DA-4276-B3C1-5B210EB842C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1825-12-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5de5727612c1bd9eab952afdd9bfa487238f992c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57074$43E160F2-64B2-4801-A4EE-23D978C4579F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1896-07-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "baf79255979404eaa3a31781c6065ebcfba9fa43",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57074$992E52E5-4244-4794-B5CE-3EF405FDAB9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11561895"
+          },
+          "hash": "ed9f1e0c15d28bbd48c86c8c5b97b36b8eff4484",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57074$EA2AD20B-86CE-4413-8DC0-5646BDAB0137",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Watarai Takahisa Arms.svg"
+          },
+          "hash": "87a75ae07d7b0829abd2993b212831c6a75b4b0a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "painter (1825-1896)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q57074",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Watarai Takahisa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "渡会喬久"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такахиса Ватараи"
+    }
+  },
+  "lastrevid": 17465664,
+  "modified": "2025-09-16T13:43:41Z",
+  "ns": 860,
+  "pageid": 71905,
+  "sitelinks": {},
+  "title": "Item:Q57074",
+  "type": "item"
+}

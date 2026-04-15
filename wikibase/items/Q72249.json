@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Su Shichang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72249$0A69FEFF-DA79-4F2C-9926-450A351F8E36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77018",
+              "numeric-id": 77018
+            }
+          },
+          "hash": "e7e8a254313b62c02735509c102a3c3259f92936",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72249$6C709C1C-CAB9-4749-A7D1-EB9E6291B04D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67275",
+              "numeric-id": 67275
+            }
+          },
+          "hash": "138e019fd1784dd3e5478499337c51516a9e6a23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72249$0BC12F54-73AA-4C23-B29F-C2EE4ABBBA09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72249$36A3E7EB-9593-4393-A743-635292525CFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72249$D44DB15C-3ABE-4847-A451-9245D9539D65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77015",
+              "numeric-id": 77015
+            }
+          },
+          "hash": "f7333a22fbc398799662da7fe35d9a0be3b39669",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72249$4D6B203A-DCCE-4A1C-BF82-0097B5470361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72249$92A3C3D6-8989-4A5D-9FE1-0068ECF65B0A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0628-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a5b267b096f3d73288b03f450d5a672fb2ed095",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72249$80634B00-30D0-4E0D-BFA0-A1D98461E18F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11625169"
+          },
+          "hash": "79cacc6b08dfd5708f733fea37b10e9cfe5c7a55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72249$29CAB809-8067-496F-B005-36AD00ACF008",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Su Shichang Arms.svg"
+          },
+          "hash": "312c5f7ddc4eac8dae53ce3297ca10f9d5c5e990",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "en": {
+      "language": "en",
+      "value": "politician"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Tang-dynastie"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик"
+    }
+  },
+  "id": "Q72249",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Su Shichang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Su Shichang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Su Shichang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蘇世長"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蘇世長"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Su Shichang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蘇世長"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "苏世长"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蘇世長"
+    }
+  },
+  "lastrevid": 17484656,
+  "modified": "2025-09-16T18:23:54Z",
+  "ns": 860,
+  "pageid": 87080,
+  "sitelinks": {},
+  "title": "Item:Q72249",
+  "type": "item"
+}

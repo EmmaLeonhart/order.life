@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Yi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q70834$9D2F6092-B240-4146-A666-075D07905E52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70834$CB720BD1-F4D3-4A62-8292-C2E700A3BEB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70834$8574A78B-D45F-4C06-AD0A-D90CC8513E81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70789",
+              "numeric-id": 70789
+            }
+          },
+          "hash": "42b91a1c87f8dc9ac7d09fb42272ffb7ff011b64",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70834$460B54D9-35DD-4950-AF0F-B133295B0249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70834$B3365A96-3868-43F8-BA50-A09AE006C8C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0436-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e4cb5299daa02e1ca2dabd88ce27effeadc9114",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70834$9662E0E6-AE7F-4CFB-BD86-0EF6D2030AB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0470-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2ad884e6ab9ce118697d03bbd66ae13a6c0b225a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70834$1B7A5D08-9E17-40DB-A7A9-DDF996F37C6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10620695"
+          },
+          "hash": "fecc80f6842615b5d59632c576d8b17c4bfa2568",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70834$1FD761A1-0CBC-4144-B67C-695F0DECBDC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Yi Arms.svg"
+          },
+          "hash": "088c5c111b9b934970780d5c44ebd535b1832ae2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Liu Song prince"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南朝宋の皇族。東海王。文帝の八男。母は陳修容"
+    }
+  },
+  "id": "Q70834",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Liu Yi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Liu Wei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Yi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Liu Wei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "劉禕 (南朝宋)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лю И"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉褘"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉褘"
+    }
+  },
+  "lastrevid": 17482782,
+  "modified": "2025-09-16T17:57:36Z",
+  "ns": 860,
+  "pageid": 85665,
+  "sitelinks": {},
+  "title": "Item:Q70834",
+  "type": "item"
+}

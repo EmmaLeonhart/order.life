@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsuda Masanori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q77992$01FA4910-DA4A-4DBF-8487-27D6A46D1C23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "津田-28"
+          },
+          "hash": "2414b166ff705758cbeaff3de26be7791ca24f97",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q77992$25383C7A-EE84-4AB7-A09E-CFE571F3FCE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77992$C7BA44A5-78B5-4A75-8D11-E8FB257F76B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q77992$8839A5C7-7872-4C98-818A-53F535048113",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73123",
+              "numeric-id": 73123
+            }
+          },
+          "hash": "3b14903c265f9285d02d98d95396a838599883c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77992$D5370B07-61A8-43E8-BA23-E43C7F5C55C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77992$AF66349B-3462-4770-B901-3801F0A73B0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1842-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66644b705d0e34526b56c9883f32418b785b0e2c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77992$5F40E122-404F-4EF1-AF52-1E24E5A8E63D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11556309"
+          },
+          "hash": "b3c66055173c5e06c55d3a0b9bcea08b218537e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77992$4DC97C54-EC60-42EB-A8D3-6AE1EBD49EEE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsuda Masanori Arms.svg"
+          },
+          "hash": "bee4f110d17a1ad23f23da4ab20f06c6b101290a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1818 - Jun 1842"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代後期の武士。加賀藩家老津田政本長男で、津田玄蕃家9代当主"
+    }
+  },
+  "id": "Q77992",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsuda Masanori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "津田正矩"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масанори Цуда"
+    }
+  },
+  "lastrevid": 17491956,
+  "modified": "2025-09-16T20:06:31Z",
+  "ns": 860,
+  "pageid": 92823,
+  "sitelinks": {},
+  "title": "Item:Q77992",
+  "type": "item"
+}

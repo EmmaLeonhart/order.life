@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Baozhen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q65178$6422E3A8-109D-4228-9DA7-7A334FC8563A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65178$93D6552A-6166-4404-81E9-DE6E42B0A2AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65178$0D354400-5A9B-4B82-BACC-C3058C766012",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65149",
+              "numeric-id": 65149
+            }
+          },
+          "hash": "4d143c39b71b467f68e62b17a001689d7cfed448",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65178$BC963662-DE29-4102-B580-A453E40B1870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q65178$4B37BB2C-6078-4B25-A42D-4D1786543629",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0495-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44ac43ebebbf228b792c7833f339e4f288fb57d8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65178$74CD9DCE-15C9-4C29-A727-310E65A8129A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0502-04-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1135a11b6c7dc7cc2004c5cb8758fb9cb93d0e12",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65178$8834E89F-3186-4C49-BC6C-C41B66C07D29",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11622059"
+          },
+          "hash": "59bd57652fc08bcafc3929f608e328f04c25b515",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65178$7535D54F-A367-4A5B-81B8-41417085D752",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Baozhen Arms.svg"
+          },
+          "hash": "9c56a2841f53a5175b53ccc3aad3766a7cb936c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q65178",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Xiao Baozhen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蕭宝貞"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭寶貞"
+    }
+  },
+  "lastrevid": 17475532,
+  "modified": "2025-09-16T16:13:23Z",
+  "ns": 860,
+  "pageid": 80009,
+  "sitelinks": {},
+  "title": "Item:Q65178",
+  "type": "item"
+}

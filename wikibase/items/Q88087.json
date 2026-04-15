@@ -1,0 +1,956 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Λυσίμαχος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Lysimachus"
+      },
+      {
+        "language": "en",
+        "value": "Λυσίμαχος"
+      },
+      {
+        "language": "en",
+        "value": "Lysimachus, king of Thrace"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73722$764AEDFA-9B55-4881-A5B4-B2341866BDEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351147|420103"
+          },
+          "hash": "33f6ccd50e5be5e3c44c193489f84c69bba246d9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73722$AFA9BC37-9E97-4B99-A877-E900E066A57D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00715466"
+          },
+          "hash": "1db5222b20af25d69aa3f9dad9b562f0419b6d16",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73722$E756805F-8EA7-45B1-B99F-63AC1D3A9A8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73611",
+              "numeric-id": 73611
+            }
+          },
+          "hash": "05e10c4fdece57680571540151f0a5f5ecd8ae38",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$7B96951A-796D-4D5D-B562-CF03B9A6015E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135341",
+              "numeric-id": 135341
+            }
+          },
+          "hash": "fd4625907e929961effb4b0f0cfe35de0af18907",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$07575C7F-9D3D-43F2-BDFE-4967DE87E17A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135342",
+              "numeric-id": 135342
+            }
+          },
+          "hash": "dc3c481f0985f15ed145d4e4df6dafd6c98dc189",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$0EDFD8B8-B66C-4E76-83CA-70A0989C4626",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135343",
+              "numeric-id": 135343
+            }
+          },
+          "hash": "78757009d26e1a94d468d0484ed5ea4818646be8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$4E9CB898-6CBB-4E9E-9A19-4C648AC6134A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135344",
+              "numeric-id": 135344
+            }
+          },
+          "hash": "209be02656ad023d845aad5321ca6dcb92a3bb98",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$E0146E70-EA51-4706-B365-2AE0F00D51E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135362",
+              "numeric-id": 135362
+            }
+          },
+          "hash": "0c8adbf4e57195059d9e16d79c536f6c1853c6bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$AF264759-D79E-49DA-A14F-6B06EE909913",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135456",
+              "numeric-id": 135456
+            }
+          },
+          "hash": "c918c9a9fa818172d5edf0630b955f553a5fc165",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$0F89ED91-8377-4C46-A08A-0D879B368011",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135470",
+              "numeric-id": 135470
+            }
+          },
+          "hash": "9bb699e3b46351985f3472f4dff802ce5593543d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$123201A6-229E-42B6-834D-B8F688E21DAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165354",
+              "numeric-id": 165354
+            }
+          },
+          "hash": "ff184d20c7e2ec9b539026f1e6bcda4f291474c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$B9CC6A93-CEB4-4014-8D36-11336799C1DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165355",
+              "numeric-id": 165355
+            }
+          },
+          "hash": "082d2e7c887b5fbd8e80bd57511210c70b179a3d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$22BA5D89-BD49-4122-8B59-0E8FCE69E5F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165661",
+              "numeric-id": 165661
+            }
+          },
+          "hash": "d2e44dc2d25f63814b87939157e0b4aaafe0a6fa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$A611AD20-6D0E-4CA1-8C8F-F0874F1DF30D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165662",
+              "numeric-id": 165662
+            }
+          },
+          "hash": "cf90a49587eb1ee89204efb537e08a3effee404b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$D3B2149F-EFD9-43B4-AC10-F7B4A05AF186",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165663",
+              "numeric-id": 165663
+            }
+          },
+          "hash": "f6861ed45bbad69c80fb300976c125f2d768ee10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73722$86A25037-DC57-40CD-8AD3-61090825B40E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$0FA4383C-D832-404E-84E9-654ED0E25603",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73722$4CB5EBC9-0E1E-4B5C-9D1C-5BB025052D17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73725",
+              "numeric-id": 73725
+            }
+          },
+          "hash": "fe5a8766c088087e0963523df6de35e92becc6f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$E6E54859-3C08-41BA-BB3F-DDBF874DA615",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135256",
+              "numeric-id": 135256
+            }
+          },
+          "hash": "764f27c32ddc4ef48a3d46e7e1c694b4ec5db0f0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$80501703-43E0-42F6-80FB-0ADA782D1A13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135468",
+              "numeric-id": 135468
+            }
+          },
+          "hash": "378ec95c25168728d98d3933526eb1718e5311da",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$DE6524EB-9CAA-4B88-A36A-42BEF3EC750D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135469",
+              "numeric-id": 135469
+            }
+          },
+          "hash": "29a9dd347852f75659d842fbe0008998f96df5a9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73722$ED7AF540-2718-488F-9888-42A2195D83CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165607",
+              "numeric-id": 165607
+            }
+          },
+          "hash": "9d88f6b0335a3a7539fc9878dffb94f468f85183",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73722$3FE25B0C-AB54-4528-BC3F-3EA77339A505",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73824",
+              "numeric-id": 73824
+            }
+          },
+          "hash": "418033ce9adb1e9fadc97232ad6fe379094b229d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73722$DD830737-EAEB-470E-AF7F-4AEF56BFD463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73827",
+              "numeric-id": 73827
+            }
+          },
+          "hash": "bdba5689e1095625a4e63bb778a65946e1076afc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73722$5D7A0DCD-70C2-44B3-8B17-688787087249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73722$55CCAC21-33D0-471C-84CE-48E804EA60CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0361-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7879ba1a997a4dc7243a93b4723bd9b81110f168",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73722$8FA5D703-F08A-48C8-936B-375D1E3CEB9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0281-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0dae71c7a64b1f94a08a46bc8a3b6f4b393ac07f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73722$7C715F12-4927-409F-B6E5-DACF0C9ABC4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q32133"
+          },
+          "hash": "97f2a191dd54d71af90b52f681d661521a562454",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73722$EEF76F62-FB65-40AD-A65D-9F4A68725902",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645853688"
+          },
+          "hash": "c893af0eb55d9bcae372222063945077032f2af9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73722$53585AFB-A070-4A94-A408-A3D39905AD8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:51058"
+          },
+          "hash": "c08385a9fadc7e1536f85054cd90e89a96fcfec1",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73722$30C015B3-ED24-4148-9EF2-DC78107993D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lysimachus Arms.svg"
+          },
+          "hash": "a9fd199d629130001e81f011c411f242c2f94ff9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "makedonský důstojník, jeden z Alexandrových nástupců"
+    },
+    "de": {
+      "language": "de",
+      "value": "Diadoche, Statthalter von Thrakien"
+    },
+    "el": {
+      "language": "el",
+      "value": "διάδοχος του Μεγάλου Αλεξάνδρου, βασιλιάς της Θράκης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macedonian officer, one of Alexander's successor kings"
+    },
+    "es": {
+      "language": "es",
+      "value": "oficial macedonio y diádoco (sucesor) de Alejandro Magno"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "makedonialainen sotapäällikkö ja Traakian ja Makedonian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Thrace"
+    },
+    "he": {
+      "language": "he",
+      "value": "מנהיג מקדוני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "makedón hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Macedonia (r. 288-281 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニアとトラキアの王"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "македонски офицер и крал"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Macedonië (361v Chr-281v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antigo rei da Ásia Menor e um dos generais de Alexandre, o Grande da Macedônia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antigo rei da Ásia Menor e um dos generais de Alexandre, o Grande da Macedônia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "General militar Macedonean și Rege al Traciei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сподвижник Александра Македонского"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "генерал у војсци Алекасандра Македонског"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "en av Alexander den stores officerare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Makedon subay ve Büyük İskender'in ardıllarından biri"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "ma-Shyuniyalik Aleksandrning sarkardasi, safdoshi. 323 yildan Frakiyaning hoki-mi, diadox"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Là một vị tướng Macedonia và là một Diadochi (người kế thừa) của Alexandros Đại đế, người mà đã trở thành vua năm 306 TCN thống trị Thrace, Tiểu Á và Macedonia"
+    }
+  },
+  "id": "Q73722",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ليسيماخوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ليسيماخوس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "لوسیماخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лісімах"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лизимах"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Lizimah"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lisímac de Tràcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lýsimachos"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Лисимах"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lysimachus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lysimachos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lysimachos"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Lysimachos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λυσίμαχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lysimachus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lisimaĥo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lisímaco de Tracia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Lisimako Traziakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لوسیماخوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lysimakhos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lysimaque"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Λυσίμαχος"
+    },
+    "he": {
+      "language": "he",
+      "value": "ליסימכוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Lizimah"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lüszimakhosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լիսիմաքոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lysimachos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lisimaco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リュシマコス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლისიმაქე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "리시마코스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lysimachus"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Lysimaque"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Лизимах"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lysimakhos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lysimachus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lizymach"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lisímaco"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lisímaco"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lysimachus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лисимах"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Lysimachus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lizimah"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Lizimah"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lysimachus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Лизимах"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lysimachos"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "லிசிமச்சூஸ்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lisimahos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лісімах"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Lisimax"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lysimachos"
+    },
+    "war": {
+      "language": "war",
+      "value": "Lysimachus"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "利西马科斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "利西馬科斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "利西馬科斯"
+    }
+  },
+  "lastrevid": 17486508,
+  "modified": "2025-09-16T18:50:07Z",
+  "ns": 860,
+  "pageid": 88553,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73722",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73722"
+    }
+  },
+  "title": "Item:Q73722",
+  "type": "item"
+}

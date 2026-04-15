@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Chang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q60085$ABBA0B92-C13D-4F04-87AD-ACA073761069",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65952",
+              "numeric-id": 65952
+            }
+          },
+          "hash": "6a80be4dc832fe9611ddd509e765c9f4c92a4cfa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60085$8AA20A90-8701-4952-A87E-04CD581DA818",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60085$577E84EC-2301-4CE2-8A50-008AF5C386AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60085$5D7696D5-E0B1-49E0-B2D4-C13E8D93646F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60049",
+              "numeric-id": 60049
+            }
+          },
+          "hash": "53915ccb067afe4287b117e7101f68d7f807b1e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q60085$D2D098B8-6536-42C5-80BB-BBAE6F76E825",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60052",
+              "numeric-id": 60052
+            }
+          },
+          "hash": "f6a9a34e766cbc7325cb7db64322e72a13a77fb4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60085$6DA21AA1-C917-4332-9046-DE4B732C454C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60085$2B1F09D1-A14B-4ACA-8609-C8F376D49A91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0465-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f7c3963a853cf8ef0719e31b6562d0ae3b0ecd4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60085$5C6F6699-54A0-4ACE-B522-B9634AC61938",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10513902"
+          },
+          "hash": "77ca46a9d7bbb99199dd2c77c9420500fd7077fb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60085$C9697710-6C6F-45A0-A4B4-3198121EF08E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Chang Arms.svg"
+          },
+          "hash": "f79252ee87952c49fa70af55b2494efec77410e7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "frère de l'empereur Wudi de la dynastie Liang"
+    }
+  },
+  "id": "Q60085",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Chang"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Xiao Chang"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xiao Chang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Chang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Chang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Xiao Chang"
+    },
+    "it": {
+      "language": "it",
+      "value": "Xiao Chang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蕭暢"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Chang"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Xiao Chang"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Xiao Chang"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Xiao Chang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭暢"
+    }
+  },
+  "lastrevid": 17469142,
+  "modified": "2025-09-16T14:36:21Z",
+  "ns": 860,
+  "pageid": 74916,
+  "sitelinks": {},
+  "title": "Item:Q60085",
+  "type": "item"
+}

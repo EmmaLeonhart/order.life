@@ -1,0 +1,458 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shō Ten"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68864$745FDC4E-1E66-4AFD-B0C6-702C417F9E9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68867",
+              "numeric-id": 68867
+            }
+          },
+          "hash": "b39c3d31a3be874154a3530025db79bc4dba6616",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68864$6E08E7E3-D7AF-48A7-9104-0937653B72D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63590",
+              "numeric-id": 63590
+            }
+          },
+          "hash": "dd26bc5a98dd1d49655419c411baff4ddd71ee71",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q68864$63C0C514-B465-4D05-8056-5EEA1EEF3933",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "尚-8"
+          },
+          "hash": "2a968ce1fa686e6b0096a76518d7a13c404f7426",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68864$B1380175-C4FC-4E1C-8518-C8806626C1F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68864$C4A52197-B376-4DF2-A8C2-015AC898888F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68864$641645A1-99BB-4763-B987-5BEDA9D530F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73606",
+              "numeric-id": 73606
+            }
+          },
+          "hash": "cd9d256ed157669a5d249bb7f4e3ff03f7853226",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q68864$047F3F5C-AB30-4DF0-93DF-4220903A03E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73609",
+              "numeric-id": 73609
+            }
+          },
+          "hash": "f447a29be6b10523d1a09e9022a08896d0673aa4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68864$FDEE466D-46A5-4E41-AA44-008A117FABB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68864$90802FE5-4BB0-4202-A718-FFC532FC7D7B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1864-09-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7110cd7e603c6bcf94e8774450e588c5bda8a244",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68864$BEA1C560-D8AE-48BA-A05B-C493CB88DEEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1920-09-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a790f7887e6651cd28dcf3d1e1f4fc438756f4e0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68864$F13C6C3E-5CA5-402B-968D-546B6CC6941F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q711907"
+          },
+          "hash": "2fff187d8f2e44e24b3855f90a16f17a3b288f8e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68864$5D7E51A0-0FE4-4E67-90A3-00074CBC68C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shō Ten Arms.svg"
+          },
+          "hash": "623881e85bf0fb134f5f64333f27e3a0e92bd237",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1864–1920)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský politik"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese politician (1864-1920)"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese politician"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité politique japonaise"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי יפני"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쇼타이 왕의 장남"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (1864-1920)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский политик"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan japonez"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський політик"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q68864",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shō Ten"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ten Šó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Shō Ten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shō Ten"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shō Ten"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Shō Ten"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Shō Ten"
+    },
+    "it": {
+      "language": "it",
+      "value": "Shō Ten"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "尚典"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쇼텐"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Shō Ten"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Shō Ten"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сё Тэн"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "ASho Ten"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Shō Ten"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "尚典"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Shō Ten"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尚典"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尚典"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尚典"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "尚典"
+    }
+  },
+  "lastrevid": 17480330,
+  "modified": "2025-09-16T17:22:50Z",
+  "ns": 860,
+  "pageid": 83695,
+  "sitelinks": {},
+  "title": "Item:Q68864",
+  "type": "item"
+}

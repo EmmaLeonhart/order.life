@@ -1,0 +1,678 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochos Dikaios Épiphane Philorhomaios Philhellène"
+      },
+      {
+        "language": "en",
+        "value": "Antiochos Théos, I, King of Commagene"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus I Theos of Commagene"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72538$9F888958-EAA4-4A94-AC07-C2A2B29B56E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139821"
+          },
+          "hash": "cb523b3b7c289fca37bd349402ef58d5d2c2be60",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72538$1F025E7C-5DD6-4564-A84F-1789641AE790",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736540"
+          },
+          "hash": "bed46e88ef1aa8c955f9db53393f0857861797ec",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72538$494E0DB2-2771-4851-942F-975F72D578A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72350",
+              "numeric-id": 72350
+            }
+          },
+          "hash": "9be69b3dd34b0cfba3246ea309a87076f31a6cd1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$5551C050-2808-43EB-B7ED-860E33F02BC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72359",
+              "numeric-id": 72359
+            }
+          },
+          "hash": "9edfdcb15174ad7b4fd6dbd7992dc3550cb55771",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$CF2D8EE0-189E-402A-BBAB-99F1A910BEF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77746",
+              "numeric-id": 77746
+            }
+          },
+          "hash": "3c170f1091ebe4466244ec07d2434246a6d8a943",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$FC7A1D24-8288-4C54-A269-B63B72F03623",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136753",
+              "numeric-id": 136753
+            }
+          },
+          "hash": "7fe8f375a0877e6d1981bc43ab5695a2d1ae5cd0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$A26DF6C9-DE26-4C21-90EF-053D46F89F0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136754",
+              "numeric-id": 136754
+            }
+          },
+          "hash": "213a7bfa647f559e417ede8380c1a36bdd7745b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$BD7F428E-B6DA-4590-AF3E-4F9B183B13C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136755",
+              "numeric-id": 136755
+            }
+          },
+          "hash": "35e2f91b583087ecc906a8e22c7b3776f7820b2c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$141BEE3D-F600-4CEC-BF0C-95B432B8CA46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165636",
+              "numeric-id": 165636
+            }
+          },
+          "hash": "da3689e0fd19892f5374e8594d25dfad23721cde",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$8BD51B98-DA80-462E-9D1F-E612B139A8D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165638",
+              "numeric-id": 165638
+            }
+          },
+          "hash": "9b0e02549a977372135030f4861c87cf6d26c4ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$7C38E8A1-C45F-4F0F-BB90-104C7D59C23F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165639",
+              "numeric-id": 165639
+            }
+          },
+          "hash": "465fa789c9e68b29af7bec359b676d111ee3ccbb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72538$49353465-E06A-4EAD-BE66-1E4A21E802C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72538$50E32D19-2DE4-477F-ABA8-5FB4534AE903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72538$E6F1DAB7-D194-408B-ADA3-3DCDAB825919",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_I_Theos_of_Commagene_(1)"
+          },
+          "hash": "d35a5695fdda162574e10e528b4bcce36b078ee3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72538$C22BB2AE-47F3-446D-8375-51DEB7C4DE9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72541",
+              "numeric-id": 72541
+            }
+          },
+          "hash": "38854f29b456972ec69a1dfd5a58967f5c6d95e0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72538$72065004-7E0C-4EB8-91FC-AFA2AF20CC72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72723",
+              "numeric-id": 72723
+            }
+          },
+          "hash": "944c5f3c8c225b73ba8876307702a0c556aab2a4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72538$FF787767-A393-46B8-8A01-4E74F89F4C51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72720",
+              "numeric-id": 72720
+            }
+          },
+          "hash": "8160210d38edcb285208abcd3d9e845cf99a3153",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72538$11DAAA1D-BF92-413E-82C4-F08326B23DE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72538$726166B2-BC54-4EF2-A260-714F442BEA34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0086-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2648bce1fd0b62bad857924168cdee94b7cff0b5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72538$8E8655FD-BD4A-4580-9378-9F0C1B91977D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0038-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ccdd2859df9d63fbb2248292edffdb85578679d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72538$D4F39074-D3E0-45AB-8BE4-0D9C59F6D57D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q462768"
+          },
+          "hash": "e9f1a9efbf752bd7b9c92e12616ada9cfb552770",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72538$38633A07-9140-4B0A-B529-F351B081851E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000162835957"
+          },
+          "hash": "3b1de863578889ff98b9b0fab320b8e71460c4c1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72538$D4CF0803-8930-4E1F-A000-B9B06574158B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus I Theos of Commagene Arms.svg"
+          },
+          "hash": "5f0517c7a9e60e49bbb8f3c7bd54ab357b718993",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des anatolischen Reiches Kommagene"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Commagene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Commagène"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך קומגנה"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Commagene"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Kommagene"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kommagene kralı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Коммагени"
+    }
+  },
+  "id": "Q72538",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الأول ثيوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخس الاول ثيوس كوماجين"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх I Тэас Камагенскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc I de Commagena"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antiochos I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Α' Θεός της Κομμαγηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus I Theos of Commagene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco I Theos de Comagene"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس یکم تئوس کوماژن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos Ier de Commagène"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס הראשון תאוס, מלך קומגנה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անտիոքոս Ա Կոմմագենացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiochus I Theos dari Commagene"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco I di Commagene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス1世"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Antiochos I"
+    },
+    "ku-arab": {
+      "language": "ku-arab",
+      "value": "ئانتۆجهۆس I"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Antiochos I"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Антиох I Теос од Комагена"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus I Theos of Commagene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco I Teos de Comagena"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco I Teos de Comagena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох I Теос Коммагенский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh I Teos od Komagene"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antiochus I Theos of Commagene"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochus I av Kommagene"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Antiohos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох I Теос"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos I Theos của Commagene"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "安條克一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安條克一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克一世"
+    }
+  },
+  "lastrevid": 17485034,
+  "modified": "2025-09-16T18:29:13Z",
+  "ns": 860,
+  "pageid": 87369,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72538",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72538"
+    }
+  },
+  "title": "Item:Q72538",
+  "type": "item"
+}

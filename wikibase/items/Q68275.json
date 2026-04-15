@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Naokata"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68275$F68D4806-7AA6-40F6-A84F-ECF00A85D726",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68275$5463EBFF-D157-44E8-A6E0-492275C8401F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68275$4C1318C5-3303-4510-A176-042F3BB5318E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62613",
+              "numeric-id": 62613
+            }
+          },
+          "hash": "6ef073fad0eb0afc016683eafce508664b8cc1aa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68275$9DC65960-456A-4C1B-8D16-23269F68CB7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68275$CBD96E50-423D-4E27-BF12-964979907B8D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1779-12-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3e637b1eb4b21acb3680b7e99b65776b5e273dd6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68275$0D139C92-BE30-4F5B-9095-73B0A853A87B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1842-08-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "40bba2d03687863b5ec4c165324580bd654b608a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68275$0047E294-4A9F-4E7A-A8AF-65412958B270",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530533"
+          },
+          "hash": "35cb1f98cbf006ec13c303d357ac2bfdd25cbfee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68275$86D40B5E-52D8-47E3-93EE-2883EA590187",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Naokata Arms.svg"
+          },
+          "hash": "9a800b3786550c23040c84a53b212b6f3873fa4c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[松平直方] daimyo of the late Edo period; lord of Izumo-mori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期～後期の大名。 出雲母里藩の第7代藩主。直政系越前松平家母里藩分家7代。松平直泰の九男。従五位下、右近将監、志摩守。"
+    }
+  },
+  "id": "Q68275",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Naokata"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Naokata"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Naokata"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Naokata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平直方 (母里藩主)"
+    }
+  },
+  "lastrevid": 17479634,
+  "modified": "2025-09-16T17:13:21Z",
+  "ns": 860,
+  "pageid": 83106,
+  "sitelinks": {},
+  "title": "Item:Q68275",
+  "type": "item"
+}

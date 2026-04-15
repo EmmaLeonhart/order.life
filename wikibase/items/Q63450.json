@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tozawa Masazane"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q63450$60118E6D-D351-4AAC-A905-F9053E79FDFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "戸澤-6"
+          },
+          "hash": "c81968d9c19402a4fc8fed11ddf87c69bb818ad2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63450$F3204449-3782-4A40-B2AB-52863C67EA0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63450$B3C8FFF2-5EE4-4572-A507-1D39FCD0A173",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q63450$0C882A07-4093-4F35-BD6D-1DD4E9757366",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57851",
+              "numeric-id": 57851
+            }
+          },
+          "hash": "ccd396efeeec7c1bbf11fac6f3869a3e703dbe6e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63450$CC115EF5-1FCF-4DBB-B522-A4D4D8EAD2C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68434",
+              "numeric-id": 68434
+            }
+          },
+          "hash": "18118fa45a50126b06963130ff45edf8bc512897",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63450$6D85559B-0E36-4558-906F-BF30768FBB88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68804",
+              "numeric-id": 68804
+            }
+          },
+          "hash": "3f6c142539685d7e29ed92881781f5a3e5fff7a0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63450$51FFFF5E-0F3E-4873-B5A7-4779A613369E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68807",
+              "numeric-id": 68807
+            }
+          },
+          "hash": "ccfce3357e010d1dcfaa4f786efb4eb7602487c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63450$F07278FC-C608-4CBD-9AC3-49D9C2C1B674",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63450$1E899CB6-2C64-42C8-B072-275E22ADAE3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1833-01-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "56c29f70760c2551bf949a8f44b7ac7f36620fd6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63450$5DACCC67-3F40-4855-8049-E27B6B8AC5DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1896-08-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bd52bbaaf5fb526f1d9af17c93a16273945e76ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63450$8DEECA9F-D39E-425B-A301-0DAF0FB3E983",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514189"
+          },
+          "hash": "15379111a66e4192f1eb55766c9a60e21e673096",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63450$87569734-6A1B-4AF8-A042-97483507EBF4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tozawa Masazane Arms.svg"
+          },
+          "hash": "7eb4d44165ffaa6b85e2d1c307a47ea7e0e20592",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1833-1896)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の藩主 (1833-1896)"
+    }
+  },
+  "id": "Q63450",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Tozawa Masazane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tozawa Masazane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tozawa Masazane"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tozawa Masazane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戸沢正実"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "도자와 마사자네"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tozawa Masazane"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tozawa Masazane"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "戶澤正實"
+    }
+  },
+  "lastrevid": 17473510,
+  "modified": "2025-09-16T15:42:48Z",
+  "ns": 860,
+  "pageid": 78281,
+  "sitelinks": {},
+  "title": "Item:Q63450",
+  "type": "item"
+}

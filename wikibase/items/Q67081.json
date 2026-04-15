@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q67081$1AFB998A-5F8A-4070-9D30-3B1A05ED22BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61380",
+              "numeric-id": 61380
+            }
+          },
+          "hash": "53cbbfafa5c625f0560ba9152e7518aa437df996",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67081$A8EC5B07-5DD4-4B7B-B72A-9B19B5AE63E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72013",
+              "numeric-id": 72013
+            }
+          },
+          "hash": "5ab7c2692c4c5504988250e74061216e91aba982",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q67081$8ECD6A18-762D-454A-BB36-46AE1821AB45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67081$73F93252-E305-4963-9406-DA1552282A9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67081$735E471E-4A11-41AC-86A5-D02B676DFCCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72010",
+              "numeric-id": 72010
+            }
+          },
+          "hash": "5e4a39a5e0370594004878f15c5b404cde2482ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67081$F8D996A1-6A94-4428-9F43-B19EE9376BC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q67081$0A3BFFA3-06D3-4DEC-97D9-41FE2AACECB4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67081$D21CD7B8-133C-4F5C-89C4-BC9D849354A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45419312"
+          },
+          "hash": "ade8ff5589a1cf7b941ff61009b35d3ab2bbda9c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q67081$AF988CCE-F1AB-44B3-81EE-DD81361C9608",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075344133937"
+          },
+          "hash": "508f8f22a4161c8848b71528e3f83915cbad1ecf",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67081$42667F9E-064D-4D4F-943E-C253FD977854",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Wang Arms.svg"
+          },
+          "hash": "d804aced26165d8edba14a31f645b250b9b3b327",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 31217"
+    }
+  },
+  "id": "Q67081",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Wang"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jang Wang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Wang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Wang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楊汪"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊汪"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Wang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊汪"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨汪"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊汪"
+    }
+  },
+  "lastrevid": 17478052,
+  "modified": "2025-09-16T16:51:15Z",
+  "ns": 860,
+  "pageid": 81912,
+  "sitelinks": {},
+  "title": "Item:Q67081",
+  "type": "item"
+}

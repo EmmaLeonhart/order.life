@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Yongxiu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q61878$9930A262-AB48-4D6F-95FA-8F504689D75C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67461",
+              "numeric-id": 67461
+            }
+          },
+          "hash": "19b71b6127fa7623726f3436fd3b6324d25f054a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61878$941AFD4D-86F2-47E3-AAC8-AD0000032FE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67464",
+              "numeric-id": 67464
+            }
+          },
+          "hash": "a055efc0b0e622dbde37349861dc72f046cf0c02",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61878$5F66D57B-D9C1-401C-A0B2-A8702C3F4DCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61878$BA8B1F0F-252A-46DE-835B-ECA427E8C7B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61878$A5A2598D-BB27-494B-AD8E-3E2C04607781",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55574",
+              "numeric-id": 55574
+            }
+          },
+          "hash": "c7c1a3068c52d62c3fbd5eb24b9e39559c308596",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61878$4F4EC681-4A0B-4A4E-98E1-0ECAF27350F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61878$730E5E3B-B395-4E4B-A008-552050FC29AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0847-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4289a3a7ed3b90c36029c48436dc2c737d139df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61878$6A9BAED9-E27A-454E-BCEA-917895CC6EDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45499656"
+          },
+          "hash": "49a1e6679d2144960b00672ee231e0a84eeca0da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61878$2A852AC5-AEA5-4202-9D08-572B546D4C5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Yongxiu Arms.svg"
+          },
+          "hash": "8a5468c240343b0b9c5cdfb4835b07cac4910b90",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188404"
+    }
+  },
+  "id": "Q61878",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yongxiu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Yongxiu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李用休"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Yongxiu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李用休"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李用休"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李用休"
+    }
+  },
+  "lastrevid": 17471554,
+  "modified": "2025-09-16T15:12:33Z",
+  "ns": 860,
+  "pageid": 76709,
+  "sitelinks": {},
+  "title": "Item:Q61878",
+  "type": "item"
+}

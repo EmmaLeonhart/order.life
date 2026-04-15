@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cai Xingzong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q70921$D4C4C160-ACC2-45BA-A3BC-71714E41C761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70924",
+              "numeric-id": 70924
+            }
+          },
+          "hash": "bf2ae6b3ee771d3962a321ccc9ea4ac24ecc1cef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70921$ABBFAB32-3A1C-48FC-868B-C65A16E9B563",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66000",
+              "numeric-id": 66000
+            }
+          },
+          "hash": "138ced1cd921b73cb60c395e0704ebc8c67d77f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70921$D1778AE9-9EC1-4509-B69C-2D7C80A35E3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70921$21399E4E-41F9-46CD-8F98-B3E715384FEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70921$736A374D-153C-45EB-B4B6-BD39EDA338A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75698",
+              "numeric-id": 75698
+            }
+          },
+          "hash": "823ffadca1cab2b004fa5a63ebe2852e0208f96f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70921$D54421D6-657F-4FA0-9AD4-6BA9A14A4F4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70921$541533BE-B8B8-4F10-A204-BE2D20C2D772",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0415-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0897122d5eab1fbf7e88606ceb93194427561c7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70921$5EC2076B-1680-409B-9577-5C43E7C2A1E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21040476"
+          },
+          "hash": "de9d01b06fdbe0da06a31de6e72d12239b35ed51",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70921$6C0AA818-82AC-4535-B13B-0199F2843E21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074732622937"
+          },
+          "hash": "deb1ed5c73132c43db3840a76aa1f7eb6fda8a58",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70921$189122F1-2085-44C0-88FC-C24F953ED196",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cai Xingzong Arms.svg"
+          },
+          "hash": "d207b259c57628a5d97e53d2bfe575d50e515d22",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Liu Song official"
+    }
+  },
+  "id": "Q70921",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cai Xingzong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cai Xingzong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cai Xingzong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蔡興宗"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蔡興宗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "蔡兴宗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蔡興宗"
+    }
+  },
+  "lastrevid": 17482896,
+  "modified": "2025-09-16T17:59:13Z",
+  "ns": 860,
+  "pageid": 85752,
+  "sitelinks": {},
+  "title": "Item:Q70921",
+  "type": "item"
+}

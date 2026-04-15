@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cui Huan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q81085$F52842FE-5857-45DD-978E-31050D9BEE5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q81085$6D3072A0-0023-4343-8ED1-439BA41F9F0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q81085$83BE6909-ED63-4695-A8EA-7F7D6C0D6294",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76467",
+              "numeric-id": 76467
+            }
+          },
+          "hash": "655bc3ce1194dcffedbf0d5385031307c110fe27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q81085$83BA65A7-7972-4AD0-B4B7-77C1E807EC0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q81085$C119C6BB-B730-4A02-B496-BB266214E30D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0707-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0b3e159d20fc4b95a449264a99926f43ae5dbe1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q81085$F04EB7F1-1305-45F5-89A9-2C00003A6BD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0769-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "142efd552c85fb3a040056a8e272deff08e261de",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q81085$6DDE6B1B-F7E9-4FEA-A327-22B41EED2DDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1562415"
+          },
+          "hash": "efe1d92d2c33c251af279478aa3fd88523963867",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q81085$FA4FA596-BF07-4E70-B0BE-37B8153D9FFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075381145821"
+          },
+          "hash": "970b52781ac66f6267e5c5b1f55c5b9e0a7e267c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese official"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "chanceler chinês"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "chanceler chinês"
+    }
+  },
+  "id": "Q81085",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cui Huan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cui Huan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cui Huan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cui Huan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "崔渙"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cui Huan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cui Huan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cui Huan"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Cui Huan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Cui Huan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "崔渙"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "崔涣"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "崔渙"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "崔渙"
+    }
+  },
+  "lastrevid": 17495809,
+  "modified": "2025-09-16T20:59:54Z",
+  "ns": 860,
+  "pageid": 95916,
+  "sitelinks": {},
+  "title": "Item:Q81085",
+  "type": "item"
+}

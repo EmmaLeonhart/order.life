@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iomi Chūichi"
+      },
+      {
+        "language": "en",
+        "value": "Iomi Chuichi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73753$F898FA03-1EF8-4B34-9692-923EC9B0373E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00593561"
+          },
+          "hash": "8e8db1fec662e4f6a247eca53b34fd188a126b38",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73753$DC6D7101-DDAD-4A6B-B471-00B0E5F5CAD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73756",
+              "numeric-id": 73756
+            }
+          },
+          "hash": "b8d333ef80c781b1518f4e8e891045913330fe59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73753$B37EC834-C144-48DB-9331-BA605C06E598",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69020",
+              "numeric-id": 69020
+            }
+          },
+          "hash": "9bf6c3b66de38bc296e12e2d52dc92ddfdb240b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q73753$258A1409-DC4C-41E0-8ED3-2A466B295BC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "伊臣-1"
+          },
+          "hash": "dd4767e783a1b7cd89817c566993857a3039aafb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73753$D6107987-99C1-4317-AE84-BBF6A5A2C2EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73753$FB636C2C-C279-4349-B252-D8A04D6D9120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73753$4D8CF81F-FBAC-413D-9243-02CFDA421392",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73753$E2C901FF-C3C6-43BC-8397-FD29F8A6C755",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1838-05-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "88e7e5f340609236969d052d7307b9a2eddedaed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73753$F074AC84-814B-4115-9FB5-B2AC9B10751A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1907-04-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "067dad33e7468dac6c83bc92881ae718f6086c3f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73753$F45BCFAD-DD6D-4AA4-8CA6-23AF2E03011B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15700479"
+          },
+          "hash": "4543f6813aba5198d11d614fbe2789eda9b3f8e6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73753$A3C28B5B-D870-47FA-AB5A-EA293D376F03",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iomi Chūichi Arms.svg"
+          },
+          "hash": "8bc4c5d8f812eb9acf49e27060e4e37be646ce89",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "رجل أعمال ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "empresariu xaponés (1838–1907)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese businessman"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "fear gnó Seapánach"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の官僚、実業家"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський підприємець"
+    }
+  },
+  "id": "Q73753",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Iomi Chūichi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Iomi Chūichi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊臣忠一"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тюити Иоми"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Iomi Chuichi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Iomi Chūichi"
+    }
+  },
+  "lastrevid": 17486546,
+  "modified": "2025-09-16T18:50:38Z",
+  "ns": 860,
+  "pageid": 88584,
+  "sitelinks": {},
+  "title": "Item:Q73753",
+  "type": "item"
+}

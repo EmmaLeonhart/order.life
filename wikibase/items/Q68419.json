@@ -1,0 +1,318 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Naruse Masamitsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68419$33C3A21D-2D32-4855-97D9-56D11259E10F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68542",
+              "numeric-id": 68542
+            }
+          },
+          "hash": "6a84008477d20340bded9f3e86ee82fad0b819b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68419$9547330B-E80B-4A26-B4D0-CA519E793E08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68545",
+              "numeric-id": 68545
+            }
+          },
+          "hash": "5cbeea2bd118bce6337550418ed64420915e2146",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q68419$702B2F34-DD58-4D39-9239-87EEFCD74817",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "靑山-18"
+          },
+          "hash": "25744c56d81589d6795be95c910a327936e035b4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68419$E2DCEC07-3F44-4FE2-A417-8948B468FDBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68419$9DADC7EB-F5A7-42D2-BDBE-754472241BC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q68419$9A32F3BC-BA6E-43B3-B554-74A827FA2DB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62982",
+              "numeric-id": 62982
+            }
+          },
+          "hash": "49617d58840b3791dd5e6d7f980b46f98660c03a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68419$DF08821B-00F2-4E0C-8CD3-C30A91C5E444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62844",
+              "numeric-id": 62844
+            }
+          },
+          "hash": "c69879f57f5d74a826941a64b9a68ae83fc02ff4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68419$52F7F46E-4D2A-4791-BFB3-12D2AC42D8AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68419$0B446146-667F-4A8A-B7ED-22C2C005A54E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1836-01-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "379bf7af1f48d7418edc9ddf3820b868e6bfe4d5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68419$432F3FE1-70C5-4F39-9D8A-2E296A1414F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1903-02-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ef84c5210d01486c9b4243bc4e047ba50db1300",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68419$470BBFB8-3A67-4126-BC24-976A9BF9059E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11069028"
+          },
+          "hash": "dd9ab2f837d9e9011e1da2e3ba3b09a1eecf1a1f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68419$98CD3E33-458B-43E4-B5FC-BA2FF1180E18",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Naruse Masamitsu Arms.svg"
+          },
+          "hash": "248d88c7e5338a0c21e80e348b9e60c85435e0ff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "29 Jan 1836 - 4 Feb 1903"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代末期の尾張藩附家老。尾張犬山藩9代藩主（最後）。隼人正。男爵、子爵（犬山）成瀬家初代。青山忠良の三男"
+    }
+  },
+  "id": "Q68419",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Naruse Masamitsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Naruse Masamitsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Naruse Masamitsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Naruse Masamitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "成瀬正肥"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масамицу Нарусэ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Naruse Masamitsu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成濑正肥"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "成濑正肥"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "成濑正肥"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "成瀨正肥"
+    }
+  },
+  "lastrevid": 17479816,
+  "modified": "2025-09-16T17:15:50Z",
+  "ns": 860,
+  "pageid": 83250,
+  "sitelinks": {},
+  "title": "Item:Q68419",
+  "type": "item"
+}

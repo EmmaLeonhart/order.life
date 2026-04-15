@@ -1,0 +1,409 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aristomachus"
+      },
+      {
+        "language": "en",
+        "value": "Aristodamides"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74723$2CE5BD81-E75E-4136-927D-D906C195FEDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "87847"
+          },
+          "hash": "b49e7001b7daa4b6c183b5393b81a9a13da44136",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74723$34792A30-A023-4D86-9FE2-FF2A9959F837",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74704",
+              "numeric-id": 74704
+            }
+          },
+          "hash": "ac3872c9ca501f158567cd694c266e57849d0eac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74723$C74DABE0-8637-4470-A118-9B97B4BDD2D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134708",
+              "numeric-id": 134708
+            }
+          },
+          "hash": "34b301d7cebba9a9cd702348d98ad18e03e935a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74723$4D82A0DB-7330-423E-AD9C-ACAB26659A3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134774",
+              "numeric-id": 134774
+            }
+          },
+          "hash": "004fe5e504f1351bc70cddd40b30e58047539d69",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74723$B463C1DD-3DC5-46D5-896A-A7767DBF27ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74723$9A499B27-0C2A-4B70-8E2E-D36B3F52015E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74723$36D90912-1B5B-4D67-A2F3-6B80D8F4E348",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74732",
+              "numeric-id": 74732
+            }
+          },
+          "hash": "95c4efa7bad0c221125bad02fcdd2e7012b9ea1f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74723$9F499CAB-DFE1-4842-AFDE-DA345FDC3ED6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134107",
+              "numeric-id": 134107
+            }
+          },
+          "hash": "4e10902bc50c4d272ab1fe58f7629a61816383e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74723$259809C3-AFA3-40A0-BA37-2252873B8870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90476",
+              "numeric-id": 90476
+            }
+          },
+          "hash": "120af05448e3281bc7f9b0704e49c13de4aa3917",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74723$C8C989C4-F6F2-464F-ACB6-698C7B759BA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74723$900DE709-230D-469C-A967-A8997DD4D3FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q311536"
+          },
+          "hash": "aa058351c0b22b0f958b8ec67c1f7de5d9e83e3e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74723$3DDDE2B7-F227-47CC-A8F5-B194C41B6E0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008021557209"
+          },
+          "hash": "90e7415e68608b294d0778f30e6aaacc0c1c34d9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74723$BA4D1B72-1EAC-4CB5-9FF6-618C5EF86177",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aristomachus Arms.svg"
+          },
+          "hash": "d75b0b38332caea24323f1e9e281226f266cb312",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "un dels heraclides"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Kleodaios, Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "one of the Heracleidae, a great-grandson of Heracles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fils de Cléodée"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Héraklész fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Cleodeo"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤라클레이다이의 한 명으로, 헤라클레스의 증손자"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж из древнегреческой мифологии"
+    }
+  },
+  "id": "Q74723",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Аристомах"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aristòmac"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aristomachos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριστόμαχος ο Ηρακλείδης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aristomachus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aristómaco"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aristomakhos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aristomaque"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀριστόμαχος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Aristomachos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Arisztomakhosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aristomaco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリストマコス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아리스토마코스"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aristomachus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aristomachus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aristômaco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аристомах"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Aristomachos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Аристомах"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Аристомах"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Aristomah"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿里斯托馬庫斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿里斯托馬庫斯 (海克力斯後裔)"
+    }
+  },
+  "lastrevid": 17487713,
+  "modified": "2025-09-16T19:06:38Z",
+  "ns": 860,
+  "pageid": 89554,
+  "sitelinks": {},
+  "title": "Item:Q74723",
+  "type": "item"
+}

@@ -1,0 +1,497 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Salah"
+      },
+      {
+        "language": "en",
+        "value": "Naram-Ilum"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q70451$14C899E8-279B-44CE-82C7-581917CBFC26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "78266"
+          },
+          "hash": "b75bf0c0a5a24d7c113d045df74bc5b40046b1ec",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q70451$6BCA588B-F1C5-4795-A887-59DC87CE50A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70454",
+              "numeric-id": 70454
+            }
+          },
+          "hash": "91f9d716930f4a9c7714b2bf65aa332dbedac3b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70451$F97BBDAF-9134-47D1-8C33-1429334F9A43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70451$656F26B6-6131-4683-BD02-1F9903F43CC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q70451$E412F98C-1064-420B-A9F3-D1D85A5F3443",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70487",
+              "numeric-id": 70487
+            }
+          },
+          "hash": "f12dba3640b2afd4c9bb42f348d38af72b0daae3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70451$346CED76-E190-4B1A-9E8A-85E9045AFE90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70445",
+              "numeric-id": 70445
+            }
+          },
+          "hash": "28290c7f12e45c2a44860fb8d37760a3cea486d1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q70451$C37D2A75-FF70-47EE-9DC1-C99F3102A514",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70484",
+              "numeric-id": 70484
+            }
+          },
+          "hash": "6b55235239c58922ff7004e681cecf4d2e2cf12d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70451$B8880C44-DF27-420C-A6B5-AD69390EED96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70451$8B1A73AA-BFBA-421A-9FCA-974D0573A254",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2281-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ab4bb7d263ca8995b3ea451bbdca699e3f0272f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70451$A73AFCAB-D3DF-4C6D-945D-1DD9C5CD0675",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1635-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d1f10369397d243bc802ab18f02f4123a244a418",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70451$B5BEDA59-D2D5-4A9D-B302-3572444F35DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1827950"
+          },
+          "hash": "d33d5efeb519e30285d35c58f9f661f2a7b80455",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70451$22EBC20A-FA35-4FEA-BB4F-EB31625E19FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001048565173"
+          },
+          "hash": "f31a44f3883f59e899cee1e051e5f4aad07415a9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70451$099C542B-8767-43B3-A436-D97E8423FCD0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Salah Arms.svg"
+          },
+          "hash": "a98dd4409380e0a5ca4abdaaeaf2b67eff4c5083",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "İbranicəİbranicə İncildə Yaradılışa görə İbrahimin əcdadı, Arpakşadın oğlu və ya Cainan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "personatge del Gènesi"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(2068-1635)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person aus dem Alten Testament der Bibel"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancestor of Abraham according to Genesis in Hebrew Bible, son of Arpachshad or Cainan"
+    },
+    "es": {
+      "language": "es",
+      "value": "nieto de Sem; bisnieto de Noé"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, בנו של ארפכשד בן שם, מאבותיו של אברהם"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Figuur in de Hebreeuwse Bijbel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ninuno ni Abraham ayon sa Genesis sa Bibliyang Hebreo, Anak ni Arpachshad o si Cainan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 10:24)"
+    }
+  },
+  "id": "Q70451",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ሳላ"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "شالح"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "شالح"
+    },
+    "az": {
+      "language": "az",
+      "value": "Salah"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "শেলহ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Xèlah"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Salah"
+    },
+    "da": {
+      "language": "da",
+      "value": "Shela"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schelach"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαλά"
+    },
+    "en": {
+      "language": "en",
+      "value": "Naram-Ilum"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ŝelaĥ"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sala"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Shélah"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Salah"
+    },
+    "he": {
+      "language": "he",
+      "value": "שלח"
+    },
+    "id": {
+      "language": "id",
+      "value": "Selah"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sela"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シェラ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "셀라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sale uel Cainan"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Selah"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sjelah"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Selach"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Szelach"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "سلح"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Selá"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Șelah"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сала"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Šelah"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "سلح"
+    },
+    "so": {
+      "language": "so",
+      "value": "Shaalikh"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Салин (син Каинанов)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Shela"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Salah"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Şelah"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Шелах"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سلح"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Sala — Injilda"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "沙拉 (圣经人物)"
+    }
+  },
+  "lastrevid": 17482284,
+  "modified": "2025-09-16T17:50:13Z",
+  "ns": 860,
+  "pageid": 85282,
+  "sitelinks": {},
+  "title": "Item:Q70451",
+  "type": "item"
+}

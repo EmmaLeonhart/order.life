@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Jiang Jiangui"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q80152$A316E91D-E2A2-4578-A85E-6DFDFD20AE9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q80152$208D63D8-3B81-457B-8D63-A88E6C965E2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q80152$EA716B7C-6F7A-4C85-A359-0DB8CA2F178A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75479",
+              "numeric-id": 75479
+            }
+          },
+          "hash": "60cacb8f85d75644091724ff3e2f03e168e99cb6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q80152$F2618EAB-4F0C-476E-A930-BB97366B1793",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q80152$FB8C64D2-1D43-41BE-AA02-B381CC105CDB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q80152$BA3D9F4C-5401-41AE-8A92-4E82D091D896",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4390903"
+          },
+          "hash": "9f6a0db5781b5434f3f3fb00ec731d5453857da0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q80152$92937E25-FF40-4995-9462-3A95DC7942C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Jiang Jiangui Arms.svg"
+          },
+          "hash": "63cd8f74228fe67adafaaeea4b7779de4203d81e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese empress"
+    }
+  },
+  "id": "Q80152",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Jiang Jiangui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Jiang Jiangui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Empress Jiang Jiangui"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江簡珪"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Empress Jiang Jiangui"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดินีเกียง"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Giang Giản Khuê"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "江簡珪"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "江简圭"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "江簡珪"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "江簡珪"
+    }
+  },
+  "lastrevid": 17494515,
+  "modified": "2025-09-16T20:42:08Z",
+  "ns": 860,
+  "pageid": 94983,
+  "sitelinks": {},
+  "title": "Item:Q80152",
+  "type": "item"
+}

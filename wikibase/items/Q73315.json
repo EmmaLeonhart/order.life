@@ -1,0 +1,298 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ōta Sukekatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73315$423EFD78-415B-4C4B-8F32-0E1F056DAC6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "太田-99"
+          },
+          "hash": "64d794707f66a0296c5e7ac28b0875f0ea312f73",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73315$A845EC4E-E23C-41A7-8490-1E51336DD761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73315$8A951240-E19C-460C-99D2-2DBD27A8D3B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73315$68D7D22A-0A81-4D92-8BE3-4E665F5BC6BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68428",
+              "numeric-id": 68428
+            }
+          },
+          "hash": "645c6c50cf30e4da678913ecf6983453bcf9b76b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73315$746EB6F4-9B1A-433B-95B5-A94F3DB5AAF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78130",
+              "numeric-id": 78130
+            }
+          },
+          "hash": "4aa83fa013879e22fa78b5bfefada8e6580b2661",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73315$EA925644-81B0-4317-950B-C5E5B908C931",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73315$E0945BEE-9FC6-41BB-BD8F-DEE02187B0F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1827-06-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb36571fa2e504e139ea1ddaa7fe727c342e2518",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73315$35A7157B-00B4-4191-98B5-C5A50A9F7AB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1862-02-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "78bd5a34b977f7e2e5eb3fdb984ab0f2a2fa97c8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73315$F622F59B-C3B7-427B-96C9-F744700560B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8081726"
+          },
+          "hash": "92bf5f2118b296e436173ac86d8bd4f80e8ec772",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73315$0E557181-1072-4874-AC2A-E016100CC774",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ōta Sukekatsu Arms.svg"
+          },
+          "hash": "5589fec14d0a4deb133017b0b20e316e6c7673d7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1827–1862)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の侍 (1827-1862)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1827-1862)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1827 – 1862)"
+    }
+  },
+  "id": "Q73315",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ōta Sukekatsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ōta Sukekatsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ōta Sukekatsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ōta Sukekatsu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ōta Sukekatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "太田資功"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ōta Sukekatsu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сукэкацу Оота"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ota Sukekatsu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ōta Sukekatsu"
+    }
+  },
+  "lastrevid": 17486042,
+  "modified": "2025-09-16T18:43:31Z",
+  "ns": 860,
+  "pageid": 88146,
+  "sitelinks": {},
+  "title": "Item:Q73315",
+  "type": "item"
+}

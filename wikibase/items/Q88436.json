@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "ben David"
+      },
+      {
+        "language": "en",
+        "value": "unknown ben David"
+      },
+      {
+        "language": "en",
+        "value": "Gaon ben David"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q88436$FADEE33B-AD96-4301-BE03-2DEECC312AAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q88436$0D1EA9EB-87FD-484E-ABC3-A23C27A9AF89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q88436$7B93AA19-7902-4C91-8F51-739A62F5E604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91056",
+              "numeric-id": 91056
+            }
+          },
+          "hash": "02d8f8399433884c9e43d572ce760313589a4455",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q88436$5682EB12-7CE9-49EB-A512-3AC9D17A48B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88360",
+              "numeric-id": 88360
+            }
+          },
+          "hash": "592714e3daf78ee77f811edc63ded05959554ef8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q88436$33F105F5-DB9E-42C5-803D-C671D0FEEDB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91018",
+              "numeric-id": 91018
+            }
+          },
+          "hash": "cbe69d644576817712fea0ff60e70b0fb102e015",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q88436$42E5D44F-1E18-4123-8387-78E28868B279",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "/Gaon ben David/"
+            }
+          },
+          "hash": "c9a264e87aad42e1fc0502e8eaf388e24e9a70b9",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q88436$5262F75F-5337-483A-84CD-EE0DDFF43BA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q88436$07CCA333-4D55-4FE9-97E8-DA5BACD11EB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q88436$E1CFE9D3-78E5-49D8-8E89-3B3A32A55FF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000035051680972"
+          },
+          "hash": "885233758fe2aa4373ed3544d04c1d63a5bff0d3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q88436",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gaon ben David"
+    }
+  },
+  "lastrevid": 17503241,
+  "modified": "2025-09-16T22:45:28Z",
+  "ns": 860,
+  "pageid": 103267,
+  "sitelinks": {},
+  "title": "Item:Q88436",
+  "type": "item"
+}

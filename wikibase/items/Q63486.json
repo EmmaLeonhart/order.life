@@ -1,0 +1,338 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sassa Narimasa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q63486$2A8FC475-A46C-41E2-A56B-529556D50EFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "974030"
+          },
+          "hash": "427d435fe08d4780de9372cfc253ef34335d3c77",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q63486$0FB23219-447C-4F7D-BEE2-98FC17E10CDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "佐々-2"
+          },
+          "hash": "5cc9e407ef445c796db82b26f17bfadf21a430a8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63486$6C7FBC57-CEB2-4A51-9605-2F9781D95ADB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63486$221061D0-C84B-4958-BCA8-66A7A4C07F40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q63486$CC3FA8C1-0B70-444F-9FFC-61B953FEB25E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57944",
+              "numeric-id": 57944
+            }
+          },
+          "hash": "8e5522302799def7468dbb7b8589131ba445f274",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63486$9F781BD0-B80E-42C5-B500-C794F99EAB55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63486$1341E7D6-B314-4281-9CD0-86C722210496",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1536-02-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4175cbd5a5232e1ddfeca55909e20cd0f00e808f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63486$39E0ECB7-4099-48C8-AA23-692E45B45734",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1588-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a62879deefbfceaf384b0d9c8e7059ea7efcccd4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63486$192ABE22-45FE-43A7-93EB-077737FEEEB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1186700"
+          },
+          "hash": "5b310874be1ba689531fd3d535efd37d340c13f5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63486$5192BB1C-E1A7-4827-8394-9610532A938D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sassa Narimasa Arms.svg"
+          },
+          "hash": "86f843e010cde1df835a781bb53c5e85f8344120",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1536–1588)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "1536?-1588, 戦国時代～安土桃山時代の武将、大名"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1536-1588)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский военачальник"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1536 – 1588)"
+    }
+  },
+  "id": "Q63486",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sassa Narimasa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sassa Narimasa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sassa Narimasa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sassa Narimasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sassa Narimasa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ساسسا نوریماسا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sassa Narimasa"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sassa Narimasa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sassa Narimasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐々成政"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "삿사 나리마사"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sassa Narimasa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сасса Наримаса"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sassa Narimasa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sassa Narimasa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佐佐成政"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "佐佐成政"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "佐佐成政"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "佐佐成政"
+    }
+  },
+  "lastrevid": 17473556,
+  "modified": "2025-09-16T15:43:31Z",
+  "ns": 860,
+  "pageid": 78317,
+  "sitelinks": {},
+  "title": "Item:Q63486",
+  "type": "item"
+}

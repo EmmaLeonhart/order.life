@@ -1,0 +1,617 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guangxu Emperor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78523$8C84EE8E-29BD-4446-A359-48BD4E127AAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "839502"
+          },
+          "hash": "337bda823161eaf86ba65553f9bcd01445c8af28",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q78523$100F4DE1-7B5C-4DA2-966A-659FDF070863",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00568716"
+          },
+          "hash": "4a1a53fe47ad57d58f4e331495092e1f2c486e76",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q78523$CB2A306C-B492-4F88-8E47-B422C52F7CFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "愛新覺羅-163"
+          },
+          "hash": "63eabd75d8243cfdc437b9b571d631c44a1200de",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78523$A5EC66F7-D50A-48AB-9D8E-9E0840912FF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78523$04168555-30ED-476E-B4D9-6027E9D50FCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78523$36202F75-1048-47C5-962A-B904BA09FDEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78517",
+              "numeric-id": 78517
+            }
+          },
+          "hash": "70e4ada4288ee37981dc8e0f0a4f7bf1678f0d60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78523$4F48C54A-D5C8-43BC-A26B-E1D734178319",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78523$60E0994D-D857-449B-AE06-64E72F5625BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1871-08-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbb93ec4656c6c09ccf4588e0f4698bceed07322",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78523$F7C40625-F642-41EA-BD03-E96057E08A56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1908-11-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01bd6a3da8c47b9eab05c3f570e228ed5f2759d4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78523$F29522CC-F4E9-4595-A871-EC0C776619CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q299710"
+          },
+          "hash": "14b1a740a84bbd47f1c868701fdd18e510a46906",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78523$94CD1D23-C221-4181-9F0C-49AB10B105B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009796512974"
+          },
+          "hash": "bbd01f834aa769474ce977747d7efc6cb62ab87f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q78523$3B2CA13E-9187-4345-93CB-71368D7EF486",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:61024"
+          },
+          "hash": "896d48459f56e152a7f11221c9f92dbdb0d451d2",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78523$CE9CB49E-FDBE-4BEE-8A64-975B5DD7A582",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guangxu Emperor Arms.svg"
+          },
+          "hash": "771f099d52d5330aba05b9fa37659cf5bc218996",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور صيني (1871-1908)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "čínský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von China"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chinese emperor (1871-1908)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Ĉinio"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de la Dinastía Qing del Imperio chino"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kiinan keisari (1875–1908)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador chinés (1871-1908)"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר סין ה-11 במספר מקיסרי השושלת המאנצ'ורית של צ'ינג"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "清の第11代皇帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "청나라의 제11대 황제"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer Qing-dynastie (1871-1908)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărat chinez (1871-1908)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "император Великой Цин, правивший под девизом \"Гуансюй\""
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор династії Цін"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hoàng đế nhà Thanh"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中国清朝皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "清朝第10位皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "清朝皇帝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "清朝最後一位擁有實權的皇帝"
+    }
+  },
+  "id": "Q78523",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور جوانجشو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Guangxu Emperor"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гуансюй"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཀྭང་ཞུའི།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guangxu"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Guŏng-sê̤ṳ Huòng-dá̤"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kuang-sü"
+    },
+    "de": {
+      "language": "de",
+      "value": "Guangxu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guangxu Emperor"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Guāngxù"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guangxu"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Guangxu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور گوانگشو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Guangxu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guangxu"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Guangxu"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Guangxu"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Kông-sì Fòng-ti"
+    },
+    "he": {
+      "language": "he",
+      "value": "גואנג שו'"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kuang Hszü"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Guangxu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guangxu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "光緒帝"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Kaisar Guangxu"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "광서제"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Imperatorius Guangsu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "清德宗"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Бадаруулт Төр"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "क्वांगशू"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maharaja Guangxu"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kong-sū Hông-tè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Guangxu-keiseren"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guangxu"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Guangxu av Qing"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Guangxu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Guangxu"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "شہنشاہ گوانگشو"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Guangxu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Guangxu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Împăratul Guangxu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Айсиньгьоро Цзайтянь"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Guangxu Emperor"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kuang-sü"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Цар Гуанг-сји из династије Ћинг"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Guangxu-kejsaren"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิกวังซฺวี่"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Guangxu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Guangxu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цзайтянь"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "شہنشاہ گوانگشو"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Quang Tự"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "光绪帝"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "載湉"
+    },
+    "za": {
+      "language": "za",
+      "value": "Gvanghsi Vuengzdaeq"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "光绪帝"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "光绪帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "光绪帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "光緒帝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "光緒帝"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "光緒帝"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "光绪帝"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "光绪帝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "光緒帝"
+    }
+  },
+  "lastrevid": 17492548,
+  "modified": "2025-09-16T20:14:55Z",
+  "ns": 860,
+  "pageid": 93354,
+  "sitelinks": {},
+  "title": "Item:Q78523",
+  "type": "item"
+}

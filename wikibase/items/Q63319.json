@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kitsuregawa Ujiharu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q63319$BAB94644-11F2-4F5D-815B-6057031A09E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57607",
+              "numeric-id": 57607
+            }
+          },
+          "hash": "7b4101586529af92febb82a43a2b58b14d4ef833",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63319$F15F52C7-18BE-4DB5-AC23-11EE19EFB9FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63319$5B3048EA-50DA-406E-AF99-F8CB4A3399A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63319$D1337E01-8DA0-44D5-99C5-F391B7E8594B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63319$23AE2D4B-E047-4CC7-B651-B3A63E460C83",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1670-06-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "80e2c6611bfbf9ae76b8bbeae837d44096ce6749",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63319$E65C9887-34D0-45A9-85FC-F910D45C210D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1721-07-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f8b9a943cc426c8f54d5c8d73812c9c52946a42",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63319$66092B11-6637-4C19-AB87-5A628360BBF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11419257"
+          },
+          "hash": "b857e947b887538ac09eb73cfe457a1159eedd40",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63319$57E5B5C5-B10D-4F55-9A4C-044959F14932",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kitsuregawa Ujiharu Arms.svg"
+          },
+          "hash": "d0512aebb57963c7dcdab354b5988fc030e56cd0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q63319",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kitsuregawa Ujiharu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "喜連川氏春"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Удзихару Кицурэгава"
+    }
+  },
+  "lastrevid": 17473340,
+  "modified": "2025-09-16T15:40:08Z",
+  "ns": 860,
+  "pageid": 78150,
+  "sitelinks": {},
+  "title": "Item:Q63319",
+  "type": "item"
+}

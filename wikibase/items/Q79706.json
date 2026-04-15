@@ -1,0 +1,370 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Annius Anullinus"
+      },
+      {
+        "language": "en",
+        "value": "Gaius Annius  Annullinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62156$95CAA3C1-F35A-413F-A53B-83383CE700BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61792",
+              "numeric-id": 61792
+            }
+          },
+          "hash": "a169789b939e39717cc120b1c89d202b9333e514",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62156$D12B9163-CADC-48CB-881D-53F643655FF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148351",
+              "numeric-id": 148351
+            }
+          },
+          "hash": "718a27c3288ba3a620b50e5bb99477d20916d0b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62156$7E01D86D-D482-4CD0-AF05-B7768BE41AFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62156$38AD9F1B-B9ED-4575-AA8E-2FC81C099104",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62156$C0DC5E8F-4CDC-45B0-96AA-5EFFD2A68C6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62570",
+              "numeric-id": 62570
+            }
+          },
+          "hash": "24d362f3a0ae0143303c70293f87011c67725f45",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q62156$F4FA5698-3390-418F-BA20-525FBC4481FA",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gaius Annius /Annullinus/"
+            }
+          },
+          "hash": "a8ea87cccb1cefe3ca9fd164438c469bd056e821",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q62156$DF35B29B-5FAB-4167-98D8-1411CA850AF7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Consul of the Roman Empire"
+          },
+          "hash": "001975c17b522ca02d7e1e90b26d950ca53595d7",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62156$2E2D4F91-BD76-4C1A-92F3-C0101ADC9ED9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62156$6EBF1B0E-4C4D-41FF-BDB8-F5492570CE17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "491a281d4a97b007a8f7eda5336cc0a21e0da813",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62156$A36CBB84-74E5-481B-8AA0-BD06EA373824",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62156$8CEA25CF-E9A7-462F-9E22-5358A44E394B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1174024"
+          },
+          "hash": "8b9ffddd88ae5677d13447c498216a9402c6d7b1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q62156$4A5BFD59-6638-449F-9C23-071009F3A935",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000030546143814"
+          },
+          "hash": "21c301777cbf422811eb22d2a2580bc9a954aee9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62156$367AB15A-1A4C-43CB-8287-D783EB1B0C5E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Annius Anullinus Arms.svg"
+          },
+          "hash": "042e7e0d815e40cf63386152f6c7037127c94356",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sénateur romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q62156",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Аний Анулин"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Annius Anullinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Annius Anullinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Annio Anulino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Annius Anullinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Annio Anullino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Annius Anullinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Annius Anullinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Ânio Anulino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Ânio Anulino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Анний Ануллин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Анній Ануллін"
+    }
+  },
+  "lastrevid": 17471926,
+  "modified": "2025-09-16T15:18:28Z",
+  "ns": 860,
+  "pageid": 76987,
+  "sitelinks": {},
+  "title": "Item:Q62156",
+  "type": "item"
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei A"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q60706$3F74F8E6-B671-4FB4-AF4E-E33B4C371399",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60706$5B0A4B83-88CF-4ABE-87E7-8A9218BC7CF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60706$FCCA5E55-8C55-474F-8145-C9BA6E1EE699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53934",
+              "numeric-id": 53934
+            }
+          },
+          "hash": "de32f88582d0af6321967f2f59965dc75833dec0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60706$C2D929B9-2E8F-492E-9DF0-09B1E601DA5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60706$95674F78-48CC-451A-A209-09F586475FBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0668-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8f657bfde158e5f36f2bb1b78406aa65b4d2746",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60706$57A8D217-9F33-4CE2-80DA-CFD6F93DC0E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0718-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0469025d0ddc91e3dbb8070961b3377d9ad37261",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60706$B339AE9B-F85B-47BD-B09F-54D066988EA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45419000"
+          },
+          "hash": "25d37bf3be76a973a99b9242cb1142b6cf999376",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60706$3DBD4ADE-3851-4A43-9FB9-8189CA38F37F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075329243838"
+          },
+          "hash": "903a50277009441588d00119c152e45ac162163c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60706$CEF84386-8E64-4B20-8D17-759BEDF2048B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei A Arms.svg"
+          },
+          "hash": "94db1a02ad32b6cac0625ee029870cd569d06bde",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 31048"
+    }
+  },
+  "id": "Q60706",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wei A"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wei A"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei A"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋A"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei A"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韋A"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦A"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋A"
+    }
+  },
+  "lastrevid": 17469990,
+  "modified": "2025-09-16T14:48:41Z",
+  "ns": 860,
+  "pageid": 75537,
+  "sitelinks": {},
+  "title": "Item:Q60706",
+  "type": "item"
+}

@@ -1,0 +1,582 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78174$EB4E6FE7-5CD2-450C-B739-8243D8674C4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "164839"
+          },
+          "hash": "9cf5499a8590a3cdc862d8762794fe8ef881ba5a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q78174$F13C0127-E188-4F9A-83A9-5994620BAA88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00695421"
+          },
+          "hash": "1f30d5e6e79c5ee6938b9c29e31895c1cd580e62",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78174$81508948-1EBB-4853-A603-612F0C7CC6D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78006",
+              "numeric-id": 78006
+            }
+          },
+          "hash": "145ca2390d79ee6bb72fdcd014cb04b715802bf6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78174$D6718D37-B11C-4D25-BDD6-CC052B54C3B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137149",
+              "numeric-id": 137149
+            }
+          },
+          "hash": "fb0e6ff7fc215bf63b97ec43fe1f41d31097d463",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78174$8E8CE95F-5FAC-400B-BFBE-1342070F5E64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137147",
+              "numeric-id": 137147
+            }
+          },
+          "hash": "f6e23f6bffb8475b61fe0046b657aa241259aebd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78174$F8AB951A-143F-4397-A843-BB488477B4B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137148",
+              "numeric-id": 137148
+            }
+          },
+          "hash": "aef29a14615cdad0487bab88f6d4b4d8e139dbab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78174$1C5B5BDD-1E17-48EA-AB65-D7D29A2DB96D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78174$F44B0836-5BD8-49AD-8F6A-01A785E008D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q78174$1D9AFCC2-FEB3-4432-BCC3-B316C2931A82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia_Antonia_(1)"
+          },
+          "hash": "cbdf83f5ca41777f5757e4e973cd4a053487799e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78174$0EEE9394-0913-417A-87A9-99C281D30BA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78171",
+              "numeric-id": 78171
+            }
+          },
+          "hash": "91db3101cc1d0af5951374c59d0b15a9ed549fa2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78174$59702254-E804-4636-ADD1-39FD60291151",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137672",
+              "numeric-id": 137672
+            }
+          },
+          "hash": "f3036820822ddb2d4192ab563a54cbac55275fc1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78174$B9EBCBE4-4C1F-478C-B3A8-CF0C97838ED2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72924",
+              "numeric-id": 72924
+            }
+          },
+          "hash": "99fb05458e8d158888ec3b0aac9a8360c110e763",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78174$DB853933-6133-4D10-A1F7-F63F724776A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72927",
+              "numeric-id": 72927
+            }
+          },
+          "hash": "57d21d719229be38dfa2e354473e0fa898215f2c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78174$CE0C48F9-19BC-4867-8F64-AFBCAC15AA9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78174$BB390067-1D7E-4295-B959-D507DD82B6AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78174$DA6F3103-BD24-4032-AFEE-704E69FA139A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0039-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4116a026b1605ba38a6668a528b3897b24cbcb74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78174$E6471A57-EC92-4A2E-BF5F-07491E2E5DF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6485329"
+          },
+          "hash": "d2f26874d42320fdb68d669e1ad1a5768c24d3d7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78174$DADDE97B-87B2-43C4-AF1C-BA84B53622DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012011702512"
+          },
+          "hash": "77bcdc0c1403cc0c869084e47ab1493d13f91a1d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78174$4454DD48-1C35-433B-BE33-CC364D54AF82",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia Arms.svg"
+          },
+          "hash": "3314be47538ca7a41aaf99fa783e4bafe0fbabd9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "merc'h da Lucius Caesar"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "matka Marca Antonia"
+    },
+    "da": {
+      "language": "da",
+      "value": "mor til general Marcus Antonius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mutter des Marcus Antonius"
+    },
+    "el": {
+      "language": "el",
+      "value": "μητέρα του Μάρκου Αντώνιου"
+    },
+    "en": {
+      "language": "en",
+      "value": "mother of Mark Antony"
+    },
+    "es": {
+      "language": "es",
+      "value": "madre de Marco Antonio"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Antoniuksen äiti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, mère de Marc Antoine"
+    },
+    "it": {
+      "language": "it",
+      "value": "Madre di Marco Antonio"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rzymianka, matka Marka Antoniusza"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "mãe de Marco Antônio"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "mati Marka Antonija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mor till Marcus Antonius"
+    }
+  },
+  "id": "Q78174",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Юлия Антония"
+    },
+    "br": {
+      "language": "br",
+      "value": "Julia Antonia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Júlia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Julia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Julia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iulia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουλία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژولیا (مادر مارک آنتونی)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Julia Antonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Julia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Julia"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליה אנטוניה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giulia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユリア・アントニア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iulia"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ജൂലിയ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Julia Antonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iulia Antonia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Julia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Júlia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Júlia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юлия Антония"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Julija Antonija"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Julija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Julia Antonia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юлія Антонія"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "朱莉娅·安东尼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朱莉婭·安東尼"
+    }
+  },
+  "lastrevid": 17492168,
+  "modified": "2025-09-16T20:09:33Z",
+  "ns": 860,
+  "pageid": 93005,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78174",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78174"
+    }
+  },
+  "title": "Item:Q78174",
+  "type": "item"
+}

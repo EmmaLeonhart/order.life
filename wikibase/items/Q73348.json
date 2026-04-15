@@ -1,0 +1,522 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shun'ichi Suzuki"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73348$8D859939-868D-413D-9661-7767F6AFAF56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "鈴木-5"
+          },
+          "hash": "ec1496bd2cbeaa8a7ae41eb0c7cfb3c0ae56c7f9",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73348$B4647498-1DDB-4580-87B4-59ED812FC5B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73348$FFC8D923-E27E-4ADB-9F91-48DA3D3C811C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73348$50F06624-43A0-470C-A25D-D1A25CC0D6BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73342",
+              "numeric-id": 73342
+            }
+          },
+          "hash": "eed2a36b1dac29804d6e24240fbfcf1faaa28e9b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73348$D9B208D0-0005-40D2-83F4-26FF38AA90D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73348$74243D3E-275F-4EFF-B84C-103FCF5A8DC3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1953-04-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "813bb10edd7b79f80fcafa6c37dfe96bcbcd274d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73348$7005C48B-7C73-44A6-9C6E-AB507704FFED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3482658"
+          },
+          "hash": "231650888f1dc2d4d21f4c678054df978d338fb5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q73348$FE87C6C6-E9A3-4E25-AC81-57A6590B012F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Suzuki Shunichi"
+          },
+          "hash": "d53b5e5c73d0039d2438b653ff9ed8552f94f422",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73348$09D29665-F490-4305-A6B8-891EEEB144C6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shun'ichi Suzuki Arms.svg"
+          },
+          "hash": "e55f97b69ee1f6b154d0f77402d2d91502918cf0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský politik (* 1953)"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk politiker"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese politician"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese politician"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité politique japonaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי יפני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "japanski političar"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "ճապոնացի քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の政治家 (1953-)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 정치인"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk politikar"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский политик"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan japonez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon siyasetçi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський політик"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本眾議員"
+    }
+  },
+  "id": "Q73348",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Shun'ichi Suzuki"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "شونيتشي سوزوكي (سياسي)"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Shun'ichi Suzuki"
+    },
+    "az": {
+      "language": "az",
+      "value": "Shunichi Suzuki"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "শুনিচি সুজুকি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Shun'ichi Suzuki"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Šuniči Suzuki"
+    },
+    "da": {
+      "language": "da",
+      "value": "Shun'ichi Suzuki"
+    },
+    "de": {
+      "language": "de",
+      "value": "Shun'ichi Suzuki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shun'ichi Suzuki"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Shun'ichi Suzuki"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Shun'ichi Suzuki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shun'ichi Suzuki"
+    },
+    "et": {
+      "language": "et",
+      "value": "Shun'ichi Suzuki"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Shun'ichi Suzuki"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Shun'ichi Suzuki"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Shun'ichi Suzuki"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Shun'ichi Suzuki"
+    },
+    "he": {
+      "language": "he",
+      "value": "שונאצ'י סוזוקי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Shun'ichi Suzuki"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Շունիչի Սուզուկի"
+    },
+    "it": {
+      "language": "it",
+      "value": "Shun'ichi Suzuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鈴木俊一"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스즈키 슌이치"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Suzuki Shunichi"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Shun'ichi Suzuki"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Shun'ichi Suzuki"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Shun'ichi Suzuki"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Shunichi Suzuki"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Shun'ichi Suzuki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Shun'ichi Suzuki"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Shun'ichi Suzuki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сюнъити Судзуки"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "鈴木俊一"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Shun'ichi Suzuki"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shun'ichi Suzuki (politician)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Shun'ichi Suzuki"
+    },
+    "th": {
+      "language": "th",
+      "value": "ชุนอิจิ ซูซูกิ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Shun'ichi Suzuki"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Судзукі Сунічі"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Shun'ichi Suzuki"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鈴木俊一"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "铃木俊一"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "铃木俊一"
+    }
+  },
+  "lastrevid": 17486086,
+  "modified": "2025-09-16T18:44:07Z",
+  "ns": 860,
+  "pageid": 88179,
+  "sitelinks": {},
+  "title": "Item:Q73348",
+  "type": "item"
+}

@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Shuxian"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q78553$E95B62BB-06DE-4120-91A8-6F6E3786BA29",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00568710"
+          },
+          "hash": "7fcf999a37e4eaf266407ccddc2a507d32c30a1d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78553$1CD56779-2E6E-4D58-B914-BBC48FC9783F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78553$6CF40D14-028D-4EA9-B6EF-FA91D78D1EAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78553$E7C0FD8D-3D11-4E44-878B-43480E00CC24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73799",
+              "numeric-id": 73799
+            }
+          },
+          "hash": "3aa58e7688fa91460a4e09df9138dc0c335afb02",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78553$4BB385AA-380F-40F9-9485-9A53644DDD03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78553$8E237B4D-2970-4203-945A-7E4A3743B402",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1925-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "006c8973132eb8d05958fa61e9e994df42e7e7c9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78553$9863AA8A-DB3A-40EF-BB6F-8C413E9B5616",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1997-06-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4df21ded76a92c68e39589f7581f40b9844c1d11",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78553$D093707A-0364-4B85-98F0-F9AEB5613785",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q698749"
+          },
+          "hash": "bbe370a5e16201939fde65cd3fb472f47adba249",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78553$14E62DBF-B09B-4FC9-B431-7EED41F44A9B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Shuxian Arms.svg"
+          },
+          "hash": "420baed9f4c6ae59d022179d2cb3b605dfdce963",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wife of Chinese emperor (1925–1997)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cinquième épouse de l'empereur de Chine Puyi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "супруга китайского императора Пу И"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "người vợ thứ 5 cũng như cuối cùng của Tuyên Thống Đế Phổ Nghi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "爱新觉罗·溥仪的妻子"
+    }
+  },
+  "id": "Q78553",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shuxian"
+    },
+    "de": {
+      "language": "de",
+      "value": "Li Shuxian"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λι Σουξιάν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Shuxian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Shuxian"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Li Shuxian"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李淑賢"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이숙현"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Li Shuxian"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shuxian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ли Шусянь"
+    },
+    "th": {
+      "language": "th",
+      "value": "หลี่ สูเสียน"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лі Шусянь"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لی شوشیان"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lý Thục Hiền"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李淑賢"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李淑贤"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李淑賢"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "李淑賢"
+    }
+  },
+  "lastrevid": 17492580,
+  "modified": "2025-09-16T20:15:22Z",
+  "ns": 860,
+  "pageid": 93384,
+  "sitelinks": {},
+  "title": "Item:Q78553",
+  "type": "item"
+}

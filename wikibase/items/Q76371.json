@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Zhengjian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q76371$168EAF36-F6D9-42AE-851E-BB52584D74C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76371$0E1852E5-8CEC-4A52-8EB8-2DB3A9CD699E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76371$E178D656-3A2B-4F78-ACFF-866133FB7EA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71633",
+              "numeric-id": 71633
+            }
+          },
+          "hash": "457d5c9d021563a9cb162c584e2621893d6331ec",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76371$E4F340CF-F5F9-4EDD-B910-1F6E33F8AC6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76371$E69016A0-1985-4B0C-854F-A6696E36EC1E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0831-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77f700864b4d3c267e54e6587159df55b228c3d9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76371$6EFE0B22-F48D-454E-B423-09DE61EEF7BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45601818"
+          },
+          "hash": "0b41b3bc8a8bbf1d96d89f7ee3090c05d5284ed6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q76371$98922727-B0C3-46F0-BFE0-8699891903A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074743381330"
+          },
+          "hash": "e7dc9188d0fb6b8ca063a205bfe7b2a6dc7f1935",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76371$8AB8593A-FC96-4F14-8618-BF0DF76D6EFD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Zhengjian Arms.svg"
+          },
+          "hash": "ba357a383948df1a1e3dffb1475e115521f9b9e9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 174418"
+    }
+  },
+  "id": "Q76371",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Zhengjian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Zhengjian"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李正諫"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Zhengjian"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李正諫"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李正谏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李正諫"
+    }
+  },
+  "lastrevid": 17489888,
+  "modified": "2025-09-16T19:36:37Z",
+  "ns": 860,
+  "pageid": 91202,
+  "sitelinks": {},
+  "title": "Item:Q76371",
+  "type": "item"
+}

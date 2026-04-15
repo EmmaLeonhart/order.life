@@ -1,0 +1,609 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ἀχαιός"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ἀχαιός"
+      },
+      {
+        "language": "en",
+        "value": "Achaeus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73746$D7C987B8-D039-45B9-A461-7FEC093494DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139883"
+          },
+          "hash": "044c5b4c632d73d904742690d7b51cf1a088c237",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73746$59989518-C7F9-40C2-82A3-7F7CCB3DF12D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736572"
+          },
+          "hash": "870491027f9094a7f32f84e86441748dafe43f2a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73746$0A32842E-C1AE-46AE-816E-639AB59D3984",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73629",
+              "numeric-id": 73629
+            }
+          },
+          "hash": "0b8c3d5e5e13e9f299d0811e42f1f2d26867b92e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$1790B8F6-B703-414D-876A-B9336F842B6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78685",
+              "numeric-id": 78685
+            }
+          },
+          "hash": "4fc83764bdf6c9aa65edfe73ccb1b551d724a412",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$4CADD1F1-EFBD-4A77-8175-00D102C439A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73638",
+              "numeric-id": 73638
+            }
+          },
+          "hash": "825c200728c0d159b2f689125a1f91e6e4cf60ed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$760A845A-B823-48FB-9628-11D362335BEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135776",
+              "numeric-id": 135776
+            }
+          },
+          "hash": "2c43a2db4aed97d844900fc968dd661fff67ddd0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$334F32DA-4A8B-4577-A662-10DFAB923879",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73503",
+              "numeric-id": 73503
+            }
+          },
+          "hash": "e1939c7862db0b542073136c08951bf754f021e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$832F0B93-6B4B-427B-A90B-313C7FEAC2E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135775",
+              "numeric-id": 135775
+            }
+          },
+          "hash": "51e4b7b576bc3340289ce0bf17a56c3f66cacbeb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$F7BF3521-E074-48CA-89CE-B66B5F82D064",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165152",
+              "numeric-id": 165152
+            }
+          },
+          "hash": "47d8b9fed9c3aa87acb9211314662ba385a596c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$2BB965A6-76D4-4B1C-98C5-44B0FAB8AE19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165154",
+              "numeric-id": 165154
+            }
+          },
+          "hash": "a89b073bb3ff28150cb8d59a4378b18dc4942902",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73746$14465B63-8B3B-4962-8542-758C5C197BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73746$A88E1FFD-6952-4B9F-91CD-3692CFA98CAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73746$0FFE1137-EBEF-4FFA-8285-5B2459A4A1AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Achaeus_(son_of_Seleucus_I_Nicator)_(1)"
+          },
+          "hash": "d3b17c9368319a41cd26484d1adcfeeb0ff81e23",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73746$06A51AFF-E18A-464E-8926-CE61277FF8A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73749",
+              "numeric-id": 73749
+            }
+          },
+          "hash": "1f44d41fd22de99c3b4eccd7e8c02d8297886691",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73746$4DB9FD69-7376-40B6-B234-36FB14432651",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73854",
+              "numeric-id": 73854
+            }
+          },
+          "hash": "31e8a0080a670a9ef88bf728c9d5bb2e7ac727e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73746$0E38D594-6A79-4736-ACD3-FAA6689A471F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73851",
+              "numeric-id": 73851
+            }
+          },
+          "hash": "999af07880c3405ce9b698485dbeaa60cf769301",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73746$46E5D387-EDAC-4B34-9061-965F1102B850",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73746$6EF48DB7-5F47-445D-8A8C-D508A32FB1B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73746$9CCD48B1-A4BA-4794-86AB-35378A284C1E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73746$6B7B3E3D-74A6-4B0A-ABBA-7A74CC0B07F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1897013"
+          },
+          "hash": "b475dd0282e0db3010870be88c419369aba140b1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73746$A4BC463C-7277-4E53-9B39-3BFFF84E5878",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645859344"
+          },
+          "hash": "18b8b08635000cd1f5d0d44df011584e9550c1d4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73746$ACE052C7-F177-4EB5-A01B-E6D88D866423",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Achaeus Arms.svg"
+          },
+          "hash": "fffbbe8fe355238d5f27dae6b7aaa27a63ca1678",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "be": {
+      "language": "be",
+      "value": "грэка-македонскі арыстакрат 3 стагоддзя да н.э."
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "de": {
+      "language": "de",
+      "value": "griechischer Adliger im Seleukidenreich"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Σελεύκου Α΄ του Νικάτορα"
+    },
+    "en": {
+      "language": "en",
+      "value": "politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe seléucida, hijo de Seleuco I Nicátor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince séleucide, fils putatif de Séleucos Ier"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Seleuco I"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "греко-македонский аристократ 3-го века до н.э."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик"
+    }
+  },
+  "id": "Q73746",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Ахей"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ахей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aqueu"
+    },
+    "da": {
+      "language": "da",
+      "value": "Achaios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Achaios der Ältere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αχαιός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Achaeus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aqueo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Achaïos Ier"
+    },
+    "it": {
+      "language": "it",
+      "value": "Acheo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アケウス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Achaeus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ахей Старший"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ахей"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿凱夫斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿凯夫斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿凱夫斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿凱夫斯"
+    }
+  },
+  "lastrevid": 17486536,
+  "modified": "2025-09-16T18:50:30Z",
+  "ns": 860,
+  "pageid": 88577,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73746",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73746"
+    }
+  },
+  "title": "Item:Q73746",
+  "type": "item"
+}

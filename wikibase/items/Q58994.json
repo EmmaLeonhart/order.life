@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Ruobing"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q58994$1E359B5C-AE21-4016-8726-120025FC88BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64431",
+              "numeric-id": 64431
+            }
+          },
+          "hash": "ec907ccd6d5a60288b1bb2c04948b7e8acfca8b7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58994$CEDBC988-0BD8-4BBF-BCB0-6CDE8CBCDB82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64434",
+              "numeric-id": 64434
+            }
+          },
+          "hash": "9dbc86a2a84ed111110190950f578d36b5ddfec9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q58994$97C44F20-0A76-4EC9-B85B-5B49811DD46E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58994$3A2C8A3A-9A75-4CC1-B952-E7B24B86317D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q58994$E620E2CE-122A-4074-8AD1-3ECEB43E10FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52161",
+              "numeric-id": 52161
+            }
+          },
+          "hash": "5bdf3e07b0185341a382d68221ceaa3de82c9c18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q58994$40A5A139-93DD-4C1B-AF5D-92BAB835D03C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q58994$375230E8-1AF9-43B8-9F7D-9253CCA3A4B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0766-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a11f0cf4540b5801a5fd4f68c58303badf4a9ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q58994$B1D48BCE-6865-4327-9AE8-DBA8EDC941C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45440376"
+          },
+          "hash": "1ba2baa3b0cf259277feb8ac520d6712eb8b7e34",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q58994$DE038213-8777-4419-B3CC-C188AAB1FF67",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Ruobing Arms.svg"
+          },
+          "hash": "f68dfe5024ae8376f1b22995524cb61245c05fdf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187412"
+    }
+  },
+  "id": "Q58994",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Ruobing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Ruobing"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李若冰"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Ruobing"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李若冰"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李若冰"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李若冰"
+    }
+  },
+  "lastrevid": 17467672,
+  "modified": "2025-09-16T14:14:20Z",
+  "ns": 860,
+  "pageid": 73825,
+  "sitelinks": {},
+  "title": "Item:Q58994",
+  "type": "item"
+}

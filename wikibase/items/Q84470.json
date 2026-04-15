@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "al-Fadl bin  Abdullah"
+      },
+      {
+        "language": "en",
+        "value": "al-Fadl son of  Abdullah"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68302$BE1E8ABB-BAE2-4D8A-9203-2A598097BCCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68302$E44475AC-1739-45E5-86E0-D437190D93AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68302$7D10BA6B-F35D-4788-A2CD-E018A18B5016",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86876",
+              "numeric-id": 86876
+            }
+          },
+          "hash": "08fb19477fed49151530ebb9f855fac0dee97f29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68302$77078C1F-ABE2-4E53-AA9D-FAEA1F7A8EEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94757",
+              "numeric-id": 94757
+            }
+          },
+          "hash": "52da57e2604ddd64b205fa5512006c9c0b5e91cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q68302$32FBA303-CB6E-4EE9-A34B-5E8AA5F10C1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95155",
+              "numeric-id": 95155
+            }
+          },
+          "hash": "d116a0ee9e454713d4da07e5107de9f8a747d5e9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q68302$6A2080D6-5BCC-424A-B5D8-D750171C5F19",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "al-Fadl bin /Abdullah/"
+            }
+          },
+          "hash": "68b01ec4b68025aa983f75cddecaad01fba8a4a6",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68302$A9973E4F-97B6-48DC-BB3D-F4A63CA82F2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q68302$81CA3C2F-C390-4673-BAC4-8AA5193EF898",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039109607832"
+          },
+          "hash": "d9a11c35fb2b6fbf3a15794ce74d546dc4cde3b7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68302$2D27AD8D-0536-4EA3-99FE-58D844EDD6F0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "al-Fadl son of  Abdullah Arms.svg"
+          },
+          "hash": "46368d1f783b53d0a88e82b3a13499aee996d916",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q68302",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "al-Fadl son of  Abdullah"
+    }
+  },
+  "lastrevid": 17479668,
+  "modified": "2025-09-16T17:13:49Z",
+  "ns": 860,
+  "pageid": 83133,
+  "sitelinks": {},
+  "title": "Item:Q68302",
+  "type": "item"
+}

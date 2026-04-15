@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuwen Huan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71090$A12BEE42-E7B7-4A97-BCA7-D3500DB366BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75885",
+              "numeric-id": 75885
+            }
+          },
+          "hash": "d104329c4213c72760e2b250be8c481ed0f9db23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71090$FCDF59FA-1810-4D72-9177-96D5AD469949",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75888",
+              "numeric-id": 75888
+            }
+          },
+          "hash": "0592103def2216f5269dea3f9de19bfe698316f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71090$61F6F80C-AC18-4E74-9941-D4F7EDCD9AEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71090$04940356-E6A6-43BE-9FAC-F8F27D24A328",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71090$6B0B2ED0-3EDF-41E7-B152-06E7E5CB8EE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66213",
+              "numeric-id": 66213
+            }
+          },
+          "hash": "ff96056ba5a88a45f373e8c2eaa4afd20cd6bc27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71090$ADB27C29-FB43-4B21-9050-4E37D81E497D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71090$1B98649E-88B4-47C6-A5E1-DA05A3B670B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0790-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "37f20bd8f0e29681e9a673bd14e5629359f02095",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71090$642F80B3-0C95-4920-8EE1-1DE1CE2AEB72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45528737"
+          },
+          "hash": "7197d72b6a0f34fddb34ace540ed3ae6ac7dfb96",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71090$59945CC9-70BC-4FE3-99C5-DD9F28B76292",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuwen Huan Arms.svg"
+          },
+          "hash": "be283f03e6a632c63fd71752e9562face007e15c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 173135"
+    }
+  },
+  "id": "Q71090",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuwen Huan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuwen Huan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yuwen Huan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "宇文寰"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yuwen Huan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宇文寰"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "宇文寰"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "宇文寰"
+    }
+  },
+  "lastrevid": 17483122,
+  "modified": "2025-09-16T18:02:21Z",
+  "ns": 860,
+  "pageid": 85921,
+  "sitelinks": {},
+  "title": "Item:Q71090",
+  "type": "item"
+}

@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cui Lvsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71531$54063B60-F04E-4340-B6E4-48D38B301B36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76272",
+              "numeric-id": 76272
+            }
+          },
+          "hash": "7789c8e4cc5e9cf9a747e3b3753e2bd55391f8e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71531$CA3FEA72-8CB7-4B10-88E5-B3D4DD30C8B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76269",
+              "numeric-id": 76269
+            }
+          },
+          "hash": "33d8173697cd69a3206228906c4f5d54ee82dd83",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71531$A9ABFF6E-37A5-4FA6-86AC-71A4D3811D8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71531$C101BD95-D35D-4246-A3E9-581C5761BA9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71531$0A06C301-DCFD-49C5-A1EC-A1E1EF7DBCA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66675",
+              "numeric-id": 66675
+            }
+          },
+          "hash": "697556e51728fc707da8c2533c0e18023fd3f1a7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71531$18C69691-6AF6-4848-AE9A-8AA5A7651707",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71531$2F29DDD4-E322-4C7A-9D08-E5C6B6014916",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0738-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74d1ba9a71b5f0289022849fc1bd6fe3a4700da2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71531$68A3C900-9011-4FC3-B6FC-6F85EEB745D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45498082"
+          },
+          "hash": "fe24c1fe50103d846d46371f760a96b6cbbf1f37",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71531$84871033-9105-43DD-B08D-FD2FD1164DAD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cui Lvsu Arms.svg"
+          },
+          "hash": "f37e11fdaefc8be3bf5151d75106034adf82de29",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 177912"
+    }
+  },
+  "id": "Q71531",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cui Lvsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cui Lvsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cui Lvsu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "崔履素"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cui Lvsu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "崔履素"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "崔履素"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "崔履素"
+    }
+  },
+  "lastrevid": 17483706,
+  "modified": "2025-09-16T18:10:31Z",
+  "ns": 860,
+  "pageid": 86362,
+  "sitelinks": {},
+  "title": "Item:Q71531",
+  "type": "item"
+}

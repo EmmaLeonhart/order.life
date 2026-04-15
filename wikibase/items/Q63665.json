@@ -1,0 +1,538 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yoshiko Kuga"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q63665$65526896-DE32-4D15-A3B3-63FAC15819D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "久我-6"
+          },
+          "hash": "73074971ae25d7ffabe6cb092534adb276790f45",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63665$3157A646-FD40-4E4F-8617-F7D366EAD763",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63665$78B1F138-70EF-480F-B494-37DC9F726D70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q63665$8F52977F-95A9-4DFB-BF38-91BCAEE25A81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68909",
+              "numeric-id": 68909
+            }
+          },
+          "hash": "9d0d1bb6e1f5e3ded66be08c08fd63910a4905e4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63665$8EFD97E6-6CC4-444E-95E6-F6B02EEF22B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51137",
+              "numeric-id": 51137
+            }
+          },
+          "hash": "e990efea117057bc1794659a8878803c24ea6087",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63665$6F0C98F3-8386-443A-B2B6-02EE4A3DC31C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63665$0237540F-D22B-4E19-B945-1835B87B43F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1931-01-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "00a542e4b779f5367a95486fd31da7bb9ad51775",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63665$8BA6F58F-07A3-4775-B29C-0310D08A3862",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+2024-06-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "921d929b3097b15ffa4421f6365b478ad6c1a357",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63665$43F3FBDD-BBD0-4007-AB52-B58EE26EE766",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2698639"
+          },
+          "hash": "12af82f7f56eac74a03d7072087b47ab06c46dda",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63665$2D18CFD5-1C24-45B6-8359-9CB419EC4F25",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yoshiko Kuga Arms.svg"
+          },
+          "hash": "c6834ea96e062191069498853c0a307021f58260",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ممثلة يابانية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "actriz xaponesa"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "японска актриса"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "অভিনেত্রী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "actriu japonesa"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "actores a aned yn 1931"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk skuespiller"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanische Schauspielerin"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ޖަޕާނަށް އުފަން އެކްޓްރެސެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese actress (1931–2024)"
+    },
+    "es": {
+      "language": "es",
+      "value": "actriz japonesa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aktore japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بازیگر ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "actrice japonaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "ban-aisteoir"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "actriz xaponesa"
+    },
+    "he": {
+      "language": "he",
+      "value": "שחקנית יפנית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(1931–2024) japán színésznő"
+    },
+    "id": {
+      "language": "id",
+      "value": "pemeran perempuan asal Jepang"
+    },
+    "it": {
+      "language": "it",
+      "value": "attrice giapponese (1931-2024)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の女優 (1931-2024)"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "Yaponiya teatr aktyorı (1931–2024)"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ജപ്പാനിലെ ചലചിത്ര അഭിനേത്രി"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "japansk skuespiller"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans actrice"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk skodespelar"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "aktor hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japońska aktorka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "atriz japonesa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "actriță japoneză"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "aktore"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk skådespelare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon sinema oyuncusu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "акторка"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本老牌影星，近期離世。"
+    }
+  },
+  "id": "Q63665",
+  "labels": {
+    "ace": {
+      "language": "ace",
+      "value": "Yoshiko Kuga"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوشيكو كوغا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ياوشيكو كوجا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Yoshiko Kuga"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йошико Куга"
+    },
+    "bjn": {
+      "language": "bjn",
+      "value": "Yoshiko Kuga"
+    },
+    "bug": {
+      "language": "bug",
+      "value": "Yoshiko Kuga"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Yoshiko Kuga"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Yoshiko Kuga"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yoshiko Kuga"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γιοσίκο Κούγκα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yoshiko Kuga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yoshiko Kuga"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Yoshiko Kuga"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یوشیکو کوگا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Yoshiko Kuga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yoshiko Kuga"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Yoshiko Kuga"
+    },
+    "gor": {
+      "language": "gor",
+      "value": "Yoshiko Kuga"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kuga Josiko"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yoshiko Kuga"
+    },
+    "it": {
+      "language": "it",
+      "value": "Yoshiko Kuga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "久我美子"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Yoshiko Kuga"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "Yoshiko Kuga"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쿠가 요시코"
+    },
+    "map-bms": {
+      "language": "map-bms",
+      "value": "Yoshiko Kuga"
+    },
+    "min": {
+      "language": "min",
+      "value": "Yoshiko Kuga"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Yoshiko Kuga"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Yoshiko Kuga"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yoshiko Kuga"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Yoshiko Kuga"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yoshiko Kuga"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Yoshiko Kuga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Yoshiko Kuga"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсико Куга"
+    },
+    "su": {
+      "language": "su",
+      "value": "Yoshiko Kuga"
+    },
+    "tet": {
+      "language": "tet",
+      "value": "Yoshiko Kuga"
+    },
+    "th": {
+      "language": "th",
+      "value": "โยชิโกะ คูกะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Yoshiko Kuga"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yoshiko Kuga"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Йошіко Куґа"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "久我美子"
+    }
+  },
+  "lastrevid": 17473752,
+  "modified": "2025-09-16T15:46:38Z",
+  "ns": 860,
+  "pageid": 78496,
+  "sitelinks": {},
+  "title": "Item:Q63665",
+  "type": "item"
+}

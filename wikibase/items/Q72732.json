@@ -1,0 +1,366 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mithridates"
+      },
+      {
+        "language": "en",
+        "value": "Mithridates I, king of Media Atropatene"
+      },
+      {
+        "language": "en",
+        "value": "Mithridates I of Media Atropatene"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Mithridate I de Médie"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Мітрідат (цар Атропатени)"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72732$6D0B4AEB-4A14-4396-8FDF-11E1609B4DE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736590"
+          },
+          "hash": "bf9ef96dd4ce02d800fab82c685e6c518bb487a1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72732$6B32ADEA-54D8-4960-A7B2-5DDB9C1B224B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72546",
+              "numeric-id": 72546
+            }
+          },
+          "hash": "cd4568e5477a1df8d9644154b9208c1ef1eadd5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72732$EAB6F7F6-231F-4AF0-8F65-67B8EC8EEEBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165619",
+              "numeric-id": 165619
+            }
+          },
+          "hash": "19e97cfa9923f06b97b02d8f674f3198fb291a50",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72732$9BCA702B-F9C5-4818-941F-896F9FB4EB18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72732$6468F17F-09A7-475A-B8B9-9DFFF607F838",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72732$D9FDC938-CDC0-425C-94E1-EB0CD6806C11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72735",
+              "numeric-id": 72735
+            }
+          },
+          "hash": "b5bfa8eb3879fd094587523bb42de12786c37197",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72732$0FD25113-D861-41C7-919E-B1BE44E762FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72732$2F6472B1-A7F6-4794-97BC-1EA4B0CD4328",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72732$4D0C5847-348C-4041-BAED-A9B2715C91F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0066-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9cc6633a7af4727ee4f8eaa717831001273c23d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72732$A731FEE3-5DE5-4FC3-9ED6-11810EBEDD0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6881693"
+          },
+          "hash": "a5beefb519490db1df73b59788512b18057c634d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72732$3AFCFD00-9AD5-4EF1-90D1-08623073A88A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645908602"
+          },
+          "hash": "85a8d16c70279171df6f91db3f7398ee1e4d28d2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72732$FD298729-6D56-4339-8FF3-FC07DF6D5485",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mithridates Arms.svg"
+          },
+          "hash": "89e732d29a75c32411f9818e937e098757564f51",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "βασιλέας της Μηδίας Ατροπατηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Antiochus III (\"the Great\")"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince séleucide, fils d'Antiochos III"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיך סלאוקי, בן אנטיוכוס השלישי"
+    }
+  },
+  "id": "Q72732",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Mitridates"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mitridates (príncep selèucida)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mithridates"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιθριδάτης Α΄ της Μηδίας Ατροπατηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mithridates I of Media Atropatene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mitrídates"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مهرداد یکم آتورپاتکان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mithridate"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Miotradáit"
+    },
+    "he": {
+      "language": "he",
+      "value": "מיתרידאטס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ատրպատականի թագավոր Միհրդատ I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mitridate"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mitrídates I da Média Atropatene"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mitrídates I da Média Atropatene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Митридат"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mitridates"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мітрідат"
+    }
+  },
+  "lastrevid": 17614093,
+  "modified": "2025-09-20T23:06:21Z",
+  "ns": 860,
+  "pageid": 87563,
+  "sitelinks": {},
+  "title": "Item:Q72732",
+  "type": "item"
+}

@@ -1,0 +1,226 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68786$20BB01D9-CE78-495F-835C-63A05E9B253F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63401",
+              "numeric-id": 63401
+            }
+          },
+          "hash": "01056a3cfd6a8793514c5f08924e1f1213812e13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68786$C18A43ED-A446-4D73-B270-7B01F1F31A26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68786$4F35A79B-83E2-482E-A9E1-2AC233AF3741",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68786$86A82F70-56C9-4A6A-A59F-F3497B654665",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73558",
+              "numeric-id": 73558
+            }
+          },
+          "hash": "68996cc08e5ea2de25ef7f934e051232b9cd1de8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68786$8F08B20A-B1FA-462B-AF5B-ACDBAAA370E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68786$6990CF43-F2DB-45FA-83AF-9375B5698567",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1568-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "37b23e1d774bdae1c1a3413af056b0d52682d096",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68786$3474F826-C29A-44C7-8227-601FC9B2F479",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1646-03-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ee13cd5685c74fc555d12dde886b2744091b15e0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68786$892B2A5E-60B0-43EB-A34C-56E4E0BDC804",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11542653"
+          },
+          "hash": "b1f7f63d5ee2eebfa39cc9a8438507daca5a5667",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68786$673FFC1D-C3C1-4C96-827E-64FCBD4D8E05",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yokoyama Nagatomo Arms.svg"
+          },
+          "hash": "1d9af489465722fbc9e74a7e3a2671b2ba7290d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代～江戸時代前期の武将。前田家旗奉行横山長隆の子で、加賀八家横山氏2代当主。従五位下・山城守"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский самурай"
+    }
+  },
+  "id": "Q68786",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yokoyama Nagatomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "横山長知"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёкояма Нагатомо"
+    }
+  },
+  "lastrevid": 17480230,
+  "modified": "2025-09-16T17:21:29Z",
+  "ns": 860,
+  "pageid": 83617,
+  "sitelinks": {},
+  "title": "Item:Q68786",
+  "type": "item"
+}

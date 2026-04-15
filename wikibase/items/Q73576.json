@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Naooki"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73576$7422C1B0-C6EF-408F-9E36-497D1E1EC40A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-515"
+          },
+          "hash": "cc7a23ce803ae49c924c751b116c384940bbc174",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73576$9117AD00-87A9-44C2-8A1B-9C9D0EC3191E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73576$5117222E-D48E-405D-9F82-D8B92277657F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73576$D19472AF-D581-4087-8BB2-30AB1AA588BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68807",
+              "numeric-id": 68807
+            }
+          },
+          "hash": "ccfce3357e010d1dcfaa4f786efb4eb7602487c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73576$DB0056AF-5D0E-4DBB-85D4-D18F878EDFF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78313",
+              "numeric-id": 78313
+            }
+          },
+          "hash": "b1b497e2f2105886a1bd9817244e85b41c03c853",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73576$0A63843A-3AEB-4BAD-A6E7-82F0C88D8A0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73576$216AA54C-5B5F-4695-B2A1-8DC6AC436894",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1832-03-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "599c4072cb5f78a17810ccdccdbf5445820d7006",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73576$2B43CF43-5354-4775-911B-4CE3E74E0587",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1917-03-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89506e80a21d9eb295283a168f083188ce773a6e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73576$32F8AE23-5293-4B79-A867-CBF7DEF60153",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530527"
+          },
+          "hash": "cc37eeb5269be0a6ae2734fc9ef3d9f60560133e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73576$0589E717-4B32-4677-B703-D2798B9FBE7A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Naooki Arms.svg"
+          },
+          "hash": "a01e35e7b6911651f52acc52b007bc9372f39e49",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[松平直巳] daimyo of the late Edo period; 10th (the last) lord of Hirose"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代後期～大正時代の大名・知藩事"
+    }
+  },
+  "id": "Q73576",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Naooki"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Naooki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Naooki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Naooki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平直巳"
+    }
+  },
+  "lastrevid": 17486356,
+  "modified": "2025-09-16T18:47:49Z",
+  "ns": 860,
+  "pageid": 88407,
+  "sitelinks": {},
+  "title": "Item:Q73576",
+  "type": "item"
+}

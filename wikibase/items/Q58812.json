@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Lun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q58812$A8A15E3D-C689-40D6-A0A9-F3C358C8F4E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58812$108B215D-6E0E-4BB6-B6B8-71083C636250",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q58812$D349AE02-0FD9-4D75-90DB-AA10E124CCD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52036",
+              "numeric-id": 52036
+            }
+          },
+          "hash": "3a0d030f678d63085cab6d3eb9b1db07c6753a90",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q58812$5A6F3EAA-D35A-4F56-B7FB-0B9CD83370C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q58812$DD5E37F5-3AFE-4649-A48E-D0643D2AB73B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0764-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0239c660bef7214a86bf07c55b40a006719d05b4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q58812$60775B2E-CEEE-4D37-A71E-247BE7A76022",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45701035"
+          },
+          "hash": "9e7b95dd8579b74218210af90fb5258c73c3ee7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q58812$C15133A5-2227-4225-A2A8-7A27B30617CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Lun Arms.svg"
+          },
+          "hash": "b0e7a424f9ba437ecfb65a4f1bd8b8f4b00e2cd9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187309"
+    }
+  },
+  "id": "Q58812",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Lun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Lun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Lun"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李倫"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Lun"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李倫"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李伦"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李倫"
+    }
+  },
+  "lastrevid": 17467436,
+  "modified": "2025-09-16T14:10:29Z",
+  "ns": 860,
+  "pageid": 73643,
+  "sitelinks": {},
+  "title": "Item:Q58812",
+  "type": "item"
+}

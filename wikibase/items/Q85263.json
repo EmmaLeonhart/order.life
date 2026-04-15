@@ -1,0 +1,456 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Necho I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q85263$7699A6F2-7067-4AB9-A48A-4E91AF978C42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "376527"
+          },
+          "hash": "b1fffb12a24fa26a48ddc9994ca5ea06c7c986af",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q85263$2C2274AE-0269-42B1-BBBE-1012FE0411AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85253",
+              "numeric-id": 85253
+            }
+          },
+          "hash": "1217cd1ce4a547ae857c9a5f2af49e46e07b0ddc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q85263$4D0B002E-13BA-4192-AF51-24B3FE3BD6DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136463",
+              "numeric-id": 136463
+            }
+          },
+          "hash": "0283241b67ee06a66b54165e54846a62caf10a06",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q85263$F82BB2DE-0BB6-463F-8CB8-0489E720DA09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q85263$39653BFE-7A60-4D96-92B4-C9390484EDB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q85263$255C52B1-BE52-4CB7-B546-D6C48E385BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85261",
+              "numeric-id": 85261
+            }
+          },
+          "hash": "310d16b61d22d6e0352eb24da33f624bbc1b18fb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q85263$54AA436E-DB0A-4835-AE69-89406ED58AFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85279",
+              "numeric-id": 85279
+            }
+          },
+          "hash": "3ac9968230937ba8e049be4e771febcc7b60e7a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q85263$ECEFF887-65A8-4EA9-85C4-AB09FB237AB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137180",
+              "numeric-id": 137180
+            }
+          },
+          "hash": "adaa7f82452f30898a2d6027dcf8766fc1de61cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q85263$9820051E-0DE6-401C-A9E4-D2A05C2362F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85277",
+              "numeric-id": 85277
+            }
+          },
+          "hash": "68bcc09744431968ff517ad4600c34bc65c91020",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q85263$027286EA-9130-4EC0-B8C5-77397E246000",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q85263$2BA36137-3027-4421-97A9-CD471D5578A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q85263$F20AE8E1-B330-43C0-84F9-381F267ABB32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0664-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "949e16dce2881aa31e2d02f4f9710514a3875399",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q85263$F82CD471-CDC6-438F-818A-0C1F24BB1640",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q455594"
+          },
+          "hash": "49f8b59e843dd01a86cb0d2595ea08501b3c12de",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q85263",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "نخاو الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "نكاو الاول"
+    },
+    "be": {
+      "language": "be",
+      "value": "Нехо I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Necó I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Neko I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Necho I."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Necho I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Νεχώ Α΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Menkheperre Necho"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Necho I"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Necho I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Nekao la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Necao I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nekao I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نخو یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nekau I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nékao Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "נכו הראשון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Nékó"
+    },
+    "it": {
+      "language": "it",
+      "value": "Necao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ネコ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნეხო I"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Nechas I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Necho I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Necho I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Necao I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Necao I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нехо I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Neho I"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Neko I."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Нехо I"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟาโรห์เนโชที่ 1"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нехо I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Necho I"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "尼高一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼科一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "尼科一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尼科一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尼科一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "尼科一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "尼科一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "尼科一世"
+    }
+  },
+  "lastrevid": 17500121,
+  "modified": "2025-09-16T22:00:23Z",
+  "ns": 860,
+  "pageid": 100094,
+  "sitelinks": {},
+  "title": "Item:Q85263",
+  "type": "item"
+}

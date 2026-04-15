@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takanaka Itsutsuji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73444$C9830303-3EB9-4949-BFFC-AF06C83E2FC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78241",
+              "numeric-id": 78241
+            }
+          },
+          "hash": "b73bd1bf47c69aaddb0cb61388344d6b725c3474",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73444$CE26100D-0DBD-4A52-B254-8518FE55FC42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78244",
+              "numeric-id": 78244
+            }
+          },
+          "hash": "abda626221c08dfdd21ba364016c9749b493ddb7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q73444$872AB310-A6C2-46B9-9059-2F19B01BCF41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "庭田-20"
+          },
+          "hash": "20edcd8f7c21d501d43735b0e8784b87fa7cdc54",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73444$82F72EB4-E247-4690-9C48-4BBD91B3E48C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73444$F35FCD48-3DE9-4B36-8241-B90F256302CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73444$FB641B07-6C6B-49BA-B90C-2EB3731BB044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68622",
+              "numeric-id": 68622
+            }
+          },
+          "hash": "17bffc39faf06cbc5f9a08e88df774182e3d5b10",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73444$A214DBA8-BADC-4D10-A159-C759C4B26A3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73444$55EA9607-411B-417C-9EDF-A1C50C7E54A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1808-01-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5ba2b6449e5e832fcac8767a8b2181bf4130b08",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73444$0DEC5D09-D450-4240-8874-2DD5CC941F53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1886-06-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a477e235171e901831dc65874929393341850008",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73444$735E49BD-9DFC-4F11-AD52-3B37BE556E3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11372688"
+          },
+          "hash": "a17438af393a799679bd84c63a18fb411f340eee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73444$2E5F5547-6BC2-4278-B94E-CB0B232F72F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takanaka Itsutsuji Arms.svg"
+          },
+          "hash": "967d2472c628f9a6ac3d4d9c3c6d0db02c8df580",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "19 Jan 1808 - 5 Jun 1886"
+    }
+  },
+  "id": "Q73444",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Takanaka Itsutsuji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "五辻高仲"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таканака Ицуцудзи"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takanaka Itsutsuji"
+    }
+  },
+  "lastrevid": 17486186,
+  "modified": "2025-09-16T18:45:30Z",
+  "ns": 860,
+  "pageid": 88275,
+  "sitelinks": {},
+  "title": "Item:Q73444",
+  "type": "item"
+}

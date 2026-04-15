@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takahiro Kuki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68322$01BBDC5D-1045-41E7-8E2C-DAD0E9FEA1C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73237",
+              "numeric-id": 73237
+            }
+          },
+          "hash": "e999b39253548c21e76ac14d8bb7e8ae47345f79",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68322$3328E009-C34C-43FF-9289-D1688A839E3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73240",
+              "numeric-id": 73240
+            }
+          },
+          "hash": "9b1fe570c2c1020c9024a24d0282c58a866386cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68322$E7D5817C-9BCF-4551-9C92-E4E6403A4F3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73243",
+              "numeric-id": 73243
+            }
+          },
+          "hash": "09331eb324fcceacef41310405631096e91b8872",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68322$0E828A55-CC94-4497-933A-482A7AB26E05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73246",
+              "numeric-id": 73246
+            }
+          },
+          "hash": "75b27bdb13bc9e51c75da539e641a261da856ae7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q68322$A1992813-FDD3-4029-B0BD-3B5518540C2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "九鬼-4"
+          },
+          "hash": "119e0140d32b399f34b58f5f011eb5f6cdd92db4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68322$EE7E67C2-8ECC-4690-90DB-B88A6C1ABF03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68322$083DAB99-B127-49B1-B4D4-27EECBE86C37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68322$151B5C5C-6C33-45D7-B46C-BDB28FFD0BF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68322$9E065AB3-DA99-4426-88B3-74698BDEB3A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1801-05-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ac808aabd43d15676f7c54460fc0314223a56143",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68322$A208BE4A-9B0E-4DFB-927D-A0ED6DA2FB12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1882-01-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22396b7be376106dfeb7bc47e94bc15514146d1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68322$9617CD88-D0B6-46FE-93DC-63C0CBB769C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11370521"
+          },
+          "hash": "faecd2452139da9f311c39bed4579db84a934fc3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68322$7FCDC1F8-4048-4B34-9716-9D30BCFF56C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takahiro Kuki Arms.svg"
+          },
+          "hash": "ebe441264a83a03338a8a2b84b8de1f186d33300",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Son of Takasato Kuki. 9th head of Ayabe domain (1801-1882)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "九鬼隆郷の次男。丹波国綾部藩の第9代藩主。"
+    }
+  },
+  "id": "Q68322",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takahiro Kuki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takahiro Kuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "九鬼隆都"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takahiro Kuki"
+    }
+  },
+  "lastrevid": 17479694,
+  "modified": "2025-09-16T17:14:11Z",
+  "ns": 860,
+  "pageid": 83153,
+  "sitelinks": {},
+  "title": "Item:Q68322",
+  "type": "item"
+}

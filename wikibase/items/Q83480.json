@@ -1,0 +1,594 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pompeia Plotina Claudia Phoebe Piso"
+      },
+      {
+        "language": "en",
+        "value": "Pompeia Plotina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q66817$40F0290E-7857-4226-924C-CBB972A47F88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446833"
+          },
+          "hash": "7e646b0dfd9f9d4b2aaedb7a1a0234bb1b7309da",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q66817$EB9ADBC1-0E40-452C-968C-F71CD5566DEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65489",
+              "numeric-id": 65489
+            }
+          },
+          "hash": "d84a3a8455da379ded149579512f665da95fd8e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66817$8384EADF-4450-46EA-9136-3673313A3A85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66817$EEA47973-5477-4327-91F6-61C8288FE8DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q66817$41A1E961-D11F-4370-A5C4-A0D788EC0B62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pompeia_Plotina_(1)"
+          },
+          "hash": "7363fc720fdc2cc62fcffaf2847efc1ee9a4ff8c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q66817$91C2BD3A-6F88-4897-8E9F-6830D3B44F77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66784",
+              "numeric-id": 66784
+            }
+          },
+          "hash": "ae27d7c13a8235d92b55ba79d8d442a3bfcff3ac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66817$6338DD96-A4C5-4E66-946B-91910E074937",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68317",
+              "numeric-id": 68317
+            }
+          },
+          "hash": "7cb451f5eb785f2582650b77d21be8f8a242f311",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66817$A8FCA147-F286-4F79-B745-C3719F2A8CF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151520",
+              "numeric-id": 151520
+            }
+          },
+          "hash": "4c4e381b44d6fdd9abd9d78bc2d3d2c325946bcc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66817$82FE9DD1-ACEC-40AF-9F3C-354F9453460B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68335",
+              "numeric-id": 68335
+            }
+          },
+          "hash": "832e2bea7530d8047889d52b6327cc5bf3605fed",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66817$9CCA0489-0295-4B6B-BE84-639C6E4FB9B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q66817$2E469DCA-3C6F-471B-A46D-3BC9B75C480A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0070-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2b030a539cb0c5de3da2c42eb92eae0bbcf34151",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66817$9BC8ECCC-CACC-4E64-9C9A-AA40EDE2AA97",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0121-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a85569f24aaa9593e3d156e82d95fec3b0e6ac78",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66817$51B92DFC-20CA-432A-B166-020574AFD2FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q239448"
+          },
+          "hash": "4ba07f4ac8a8e45d501691dd1048872da6b4d1ab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66817$6A0AAABD-B155-4D26-955F-37390C7CB863",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012773760294"
+          },
+          "hash": "b6b694b828c3ebb4264cf068d0068f9ffa16ec3b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q66817$CBC0F0FF-F6D6-444D-B657-182171C7D7D4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Pompeia Plotina"
+          },
+          "hash": "857cc2a3806e42aa50ddfc97a4ae38dcaa71396a",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q66817$43A1641E-3409-4716-98C6-E2514562DCC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:27270"
+          },
+          "hash": "f5ec042b0e952286fb727353d78182ec08bd4471",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66817$BA792E45-06AA-45D7-B8E3-AF5CA08961AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pompeia Plotina Arms.svg"
+          },
+          "hash": "a3e0001f17186919f45fa5877c266944924f1771",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطورة رومانية"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "dona romana esposa de Trajà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Frau des römischen Kaisers Trajan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Empress as the wife of Emperor Trajan"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine et épouse de l'empereur romain Trajan"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Traiano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ皇后とローマ皇帝トラヤヌスの妻"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마의 황후이자 로마 황제 트라야누스의 아내"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "filosofe uit Oude Rome (65-121)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarzowa rzymska"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Римская императрица и жена римского императора Траяна"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Imperatrice romana e moglie dell'imperatore romano Traiano"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська імператорка-консорт"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马皇后和罗马皇帝图拉真的妻子"
+    }
+  },
+  "id": "Q66817",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بومبيا بلوتينا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Pompeya Plotina"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пампея Плаціна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Помпея Плотина"
+    },
+    "br": {
+      "language": "br",
+      "value": "Plotina"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pompeia Plotina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Plotina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πομπηία Πλωτίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pompeia Plotina"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pompeia Plotina"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pompeia Plotina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pompeya Plotina"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Plotina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پومپیئا پلوتینا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pompeia Plotina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Plotine"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Pompeia Plotina"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pompeia Plotina"
+    },
+    "he": {
+      "language": "he",
+      "value": "פומפאיה פלוטינה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pompeia Plotina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Plotina"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ポンペイア・プロティナ・クラウディア・フォエベ・ピソ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პომპეია პლოტინა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "폼페이아 플로티나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Plotina"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Plotina"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Pompėja Plotina"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Pompeia Plotina"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pompeia Plotina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pompeia Plotina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Plotyna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Plotina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Plotina"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pompeia Plotina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Помпея Плотина"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Plotina"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pompeia Plotina"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Помпеја Плотина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pompeia Plotina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pompeia Plotina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Помпея Плотіна"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普罗蒂娜"
+    }
+  },
+  "lastrevid": 17477700,
+  "modified": "2025-09-16T16:46:05Z",
+  "ns": 860,
+  "pageid": 81648,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q66817",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q66817"
+    }
+  },
+  "title": "Item:Q66817",
+  "type": "item"
+}

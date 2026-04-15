@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ohama Yoshitaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q63033$EF4DCF3C-ED5D-4B6D-BE0C-FB2001A13E6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63033$60247AA7-75A6-423A-A06C-A46ED6180E8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q63033$8AD85D17-4D98-4752-BD00-6A11D0FA408E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57338",
+              "numeric-id": 57338
+            }
+          },
+          "hash": "b51b411561c0ebf00b51b45234f39af210bdd14f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63033$4F152060-27CC-4FAC-9616-EBEB93EE3769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63033$6A1297A5-2D77-4DCA-97AF-02967478C5D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1600-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7dcf99ebcadb43f12380ba84f1126dc0914fb842",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63033$8650EDD7-EB2C-49D9-A4FA-7B69021B1812",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1664-04-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "662d76566f7a45dd01a8ba81821c208f30ea7d2c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63033$95D879B1-389D-49FF-A957-2BE691F0D752",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11462601"
+          },
+          "hash": "02674c016c0472914dcd9e958bdda92ddb70f879",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63033$CE0715F7-0327-4216-943C-ED454F38B6EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ohama Yoshitaka Arms.svg"
+          },
+          "hash": "4462768320ff70a8b26b4eda491d6df5fefc01b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士"
+    }
+  },
+  "id": "Q63033",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ohama Yoshitaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小浜嘉隆"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёситака Охама"
+    }
+  },
+  "lastrevid": 17472976,
+  "modified": "2025-09-16T15:34:23Z",
+  "ns": 860,
+  "pageid": 77864,
+  "sitelinks": {},
+  "title": "Item:Q63033",
+  "type": "item"
+}

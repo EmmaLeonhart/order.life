@@ -1,0 +1,432 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vettius Justus"
+      },
+      {
+        "language": "en",
+        "value": "Vettius Justus, II"
+      },
+      {
+        "language": "en",
+        "value": "Justus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q60944$E08EA4AA-41BB-4FD7-81B3-5179C8284C83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "143782"
+          },
+          "hash": "c81a2fd21f34964d0f5d3488717e347ac04174e4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q60944$29521606-0D7A-4A64-826E-0568AA263AEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73086",
+              "numeric-id": 73086
+            }
+          },
+          "hash": "34aee3df2d056c5625532f01946fafb7bb766b93",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60944$ABEC2D6A-E22C-4F5D-A3A8-F269F08E4B25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123626",
+              "numeric-id": 123626
+            }
+          },
+          "hash": "46d7f80ef6c7caa35c64a1c466db0152478562fd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60944$42510105-869B-43B3-A187-BFE587D3EE9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123628",
+              "numeric-id": 123628
+            }
+          },
+          "hash": "185def7b94b923067c4a5f9505e6d8a7159ba8fd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60944$C2424332-4E36-4EB0-B703-561F05104685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166595",
+              "numeric-id": 166595
+            }
+          },
+          "hash": "813a21b635cfb91582137685406a99dcff994a89",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60944$2C440DAB-1DB0-4ABB-8E82-7C5155DA37E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166596",
+              "numeric-id": 166596
+            }
+          },
+          "hash": "2d070594857e60d7eb0829de61e5d6bed79ae187",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60944$EC298D05-23AD-4E44-862C-796D5B6E661C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60944$626856F8-ABD3-464B-BA4C-D429E35F181D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q60944$43547264-1FFB-40C0-AE99-2D57B342FAD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60974",
+              "numeric-id": 60974
+            }
+          },
+          "hash": "6525a381fafde9ce942c160f0454b427744d3739",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60944$B6438A92-C44E-4F01-B1FC-41641E57D7F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61173",
+              "numeric-id": 61173
+            }
+          },
+          "hash": "f8a5cc01b54c48003df5c8d71f4372a8894cd9d2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60944$AA8AFD32-35D8-4008-ADE1-4D8418439779",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137789",
+              "numeric-id": 137789
+            }
+          },
+          "hash": "0e1403d9dfd87deea45d5563f3f5b8bcb41c0166",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q60944$2AC7DFDE-1EB6-4DBB-BC2F-1DA0ABD3B10A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61202",
+              "numeric-id": 61202
+            }
+          },
+          "hash": "bfd02d59ef1015625b72bb0aa1f28362058a9e81",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q60944$2F1FD6DB-D063-467E-B5E5-4AAB80B6C740",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "II"
+          },
+          "hash": "96897bd0a040333c62d6dd9398171be907740145",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60944$ADE7A1B4-BBC8-4DE9-9F16-2F19B56FB979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60944$CC54A824-5FB9-48BD-8361-6329431B9075",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29603990"
+          },
+          "hash": "6be6eee910cfef158debc59790a7ad2689c62318",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60944$09857D55-07A4-40AC-B5DC-AC40B7D04C14",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005747740478"
+          },
+          "hash": "4c17fb664e6f787f83eb14ae1cb44472c5f2d755",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60944$BBB94283-1CE4-44D0-AEA5-255C42BD809E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Justus Arms.svg"
+          },
+          "hash": "2097a91886088551b86643b331e4815de016dee2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "father of Roman empress Justina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Padre de la emperatriz Justina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "consul romano, pai da imperatriz Justina (?—353 d.C.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "консуляр"
+    }
+  },
+  "id": "Q60944",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Justo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vettius Iustus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Justus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vettio Justo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Justus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vettio Iusto"
+    },
+    "la": {
+      "language": "la",
+      "value": "Vettius Iustus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Justo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Justo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юст"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Веттій Юст"
+    }
+  },
+  "lastrevid": 17470308,
+  "modified": "2025-09-16T14:53:31Z",
+  "ns": 860,
+  "pageid": 75775,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q60944",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q60944"
+    }
+  },
+  "title": "Item:Q60944",
+  "type": "item"
+}

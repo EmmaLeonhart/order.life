@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Calventius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72499$488A9BF7-60E3-48C4-A5CA-5E1C42A1F485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72296",
+              "numeric-id": 72296
+            }
+          },
+          "hash": "ae4bbad5475d630d55879836035039b17db70e10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72499$90927438-3EBD-4104-B8C3-9F5D7D47DB40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72499$8CDC3CD1-3D5F-4E7D-8E69-068055BBF177",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72499$1CA95FD9-3234-48F1-909F-3FF0D1085EDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72499$C4317973-E620-4FAD-9133-4BC0C0DB8076",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72499$A1B2BC83-6C54-4528-ABE5-D578F7FA7273",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q102450912"
+          },
+          "hash": "c22baef40b8c8ae41c54d7ab377db6c8a9a9f26a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72499$FD2F8F28-2B7E-4C49-B96D-B6D12C14ED53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000030545490075"
+          },
+          "hash": "36d2328b3eee1f44e857c7db018fe5a9ae05a34a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72499$4EE1F2EA-6E44-46D7-A15D-1E5D332EEC8C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000042039530608"
+          },
+          "hash": "3d13a73c1e86fb9b3035e430af35208dd84501c1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72499$BC89DC80-A06C-46F9-B9F9-5F6C5E72FB17",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Calventius Arms.svg"
+          },
+          "hash": "a048df7bceba498d4bae69439036ca30f682bf1d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "great-grandfather of Calpurnia, Caesar's wife"
+    },
+    "es": {
+      "language": "es",
+      "value": "suegro de Pisón Cesonino, pretor en el año 90 a. C."
+    }
+  },
+  "id": "Q72499",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Calventius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Calvencio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Calventius"
+    },
+    "la": {
+      "language": "la",
+      "value": "Calventius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Calventius"
+    }
+  },
+  "lastrevid": 17484988,
+  "modified": "2025-09-16T18:28:35Z",
+  "ns": 860,
+  "pageid": 87330,
+  "sitelinks": {},
+  "title": "Item:Q72499",
+  "type": "item"
+}

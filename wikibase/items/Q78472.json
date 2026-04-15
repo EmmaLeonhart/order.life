@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yukiko Yasuda"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q78472$F48B03F1-9A94-4F11-80FE-0384A59B06B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "寺島-1"
+          },
+          "hash": "61939a0a4fb267771c951576f97d2ef6f5fa7f6d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78472$D5069F23-462D-4410-9C19-4DD03E302EB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78472$73033E43-2622-4EF1-B1FF-897D8A4EE3F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78472$908CB9CA-9D72-4E08-9A6E-CBD7F8461410",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73738",
+              "numeric-id": 73738
+            }
+          },
+          "hash": "58d9b5ade5ba0c79be82e75905df0253fa617f46",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78472$51141E1A-151D-4F6B-8108-23F010CD1372",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78472$3D16B2FD-CF5E-49CB-9577-F1375712F4CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1906-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df131847c28976b8bc0b41617b71a587c36e4932",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78472$CC071CCE-A19B-449F-AD3B-B6D2BFAB9B47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1947-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c975509244eb505257251e59951f0c6106b07024",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78472$AB879158-8A1A-45A8-A353-59613251C9AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q95579389"
+          },
+          "hash": "7031ba5cec261bac691e592a85544565facc570d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78472$A8E3AD7B-1BCC-44DC-BB37-1BE20AE681C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yukiko Yasuda Arms.svg"
+          },
+          "hash": "dd60f1e12272c597654ceea4d59c371a3f86baee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1906-1947)"
+    }
+  },
+  "id": "Q78472",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yukiko Yasuda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安田恭子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yukiko Yasuda"
+    }
+  },
+  "lastrevid": 17492490,
+  "modified": "2025-09-16T20:14:06Z",
+  "ns": 860,
+  "pageid": 93303,
+  "sitelinks": {},
+  "title": "Item:Q78472",
+  "type": "item"
+}

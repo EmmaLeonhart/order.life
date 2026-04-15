@@ -1,0 +1,613 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cassandane"
+      },
+      {
+        "language": "en",
+        "value": "Cassandane Mother of Atossa"
+      },
+      {
+        "language": "en",
+        "value": "الأميرة كاسّاندان  بنت فارناسبس"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74308$02E7035B-739A-4C0D-AC70-415D7A3F4B08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "506367"
+          },
+          "hash": "8672766118db398fa86552a9a6358de04d94ce51",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74308$DB7319FB-6FCE-49C5-BA61-176C5B0C3466",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736403"
+          },
+          "hash": "2b5fc85e9d53f118037e918308539a4d3832e232",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74308$74D80734-5213-499B-9CB1-62C21372245C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74246",
+              "numeric-id": 74246
+            }
+          },
+          "hash": "3c5021aa0672acaf7bfc918a3eeba102f8faf234",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74308$EC87C01F-F11B-4104-8E66-1706ED7626C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135519",
+              "numeric-id": 135519
+            }
+          },
+          "hash": "84ec96885e12a6e394402802d3940b20e099131d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74308$1FF335E3-28BC-45AA-ACCF-3F71A5D878F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135520",
+              "numeric-id": 135520
+            }
+          },
+          "hash": "c4decc9ce483e52e2d8673382c9861d9f91068cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74308$3368B891-C8C6-4367-88D7-E05031AF1CF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135377",
+              "numeric-id": 135377
+            }
+          },
+          "hash": "4981c66a5be07d9ec1fd132a1afd136b33f081cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74308$53776F84-46D8-4ECC-B6CE-5512A0FE3CE2",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الأميرة كاسّاندان"
+            }
+          },
+          "hash": "e44dc239f0864f18b57d66e6564ef200c5a310ee",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74308$DB839952-552A-4BD0-A428-17B77C592CDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74308$4A0C4ECE-452F-4259-8372-AE766104F38B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q74308$F9494226-C2C9-4333-8BA2-AD19B4A35D1C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "بنت فارناسبس"
+            }
+          },
+          "hash": "42593805aac1663d679b55d832034892c7e12fd4",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74308$87A03A2B-20FC-4FA8-8D0C-6C0A88089080",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74305",
+              "numeric-id": 74305
+            }
+          },
+          "hash": "0fdbf431491a5989749f82de5c0f02c9dd38808f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74308$A4958A35-BC56-4223-87E5-8C1C6283F642",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135662",
+              "numeric-id": 135662
+            }
+          },
+          "hash": "1d1438b8a006ef3e0105d9785dc766fc513de350",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74308$224F95C8-9F9C-42B7-AC17-9D4B1C007541",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الأميرة كاسّاندان /بنت فارناسبس/"
+            }
+          },
+          "hash": "397e6df43d384ed0733a357a1c335ebb528ed98b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74308$BCF2BC91-5852-420F-AF21-3889CA85C2B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74308$9C2B7DB8-6325-45C4-A369-72C078726104",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74308$16B88902-F372-4615-800D-F92D68E23260",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0537-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f58b4d92094be13949ff91d82be91eb6c2af521",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74308$94DB5E96-DEB2-4BE5-BD73-FA416CC08F4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q442401"
+          },
+          "hash": "45bf4779a8f5061ee39df91e9566b39354dd53db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74308$BFE0F5A0-D5F4-44C5-BC3C-3671C0C44070",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000065777214898"
+          },
+          "hash": "a588d639b4fc8e92b4b952a0c5703600f72416d1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74308$850FB0F3-E495-4925-9C69-52A6CB66DED2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007178201225"
+          },
+          "hash": "9c427b69dced08ab250e8272a47dc483ab46bb8a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74308$559704F4-094C-4F37-9159-CA43776D56CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cassandane Arms.svg"
+          },
+          "hash": "e111961c61aaf3ead6ee49571ebc8649b46cb187",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "персийска царица"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "královna choť Achaimenovské říše"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Pharnaspes, Gattin des Kyros II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort of the Achaemenid Empire"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Ciro II el Grande"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "همسر کوروش بزرگ و مادر کمبوجیه دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme de Cyrus II"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה רעיה של כורש השני, מלך האימפריה האחמנית"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "żona Cyrusa Wielkiego"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rainha aquemênida"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Коссондон"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ahameniş İmparatorluğu konsort kraliçesi"
+    }
+  },
+  "id": "Q74308",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Касандана"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Касандана"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cassandana"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kassandané"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cassandane"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kassandane"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Kassandane"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κασσανδάνη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cassandane"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cassandane"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cassandane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cassandana"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاساندان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cassandane"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cassandane"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cassandana"
+    },
+    "he": {
+      "language": "he",
+      "value": "קסאנדנה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kasandana"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kassandana"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cassandane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カッサンダネ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Cassadane"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kassandane"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cassandane"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kassandane"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cassandana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cassandana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кассандана"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kasandana"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kasandana"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Касандана"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Косондон"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Cassandane"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cassandane"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡桑达内"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "卡桑達妮"
+    }
+  },
+  "lastrevid": 17487192,
+  "modified": "2025-09-16T18:59:33Z",
+  "ns": 860,
+  "pageid": 89139,
+  "sitelinks": {},
+  "title": "Item:Q74308",
+  "type": "item"
+}

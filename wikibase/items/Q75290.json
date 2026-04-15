@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Mou"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q75290$9E180E1B-D84F-49C4-BB65-FFF833E33FF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75290$72B7CC05-22BF-4142-AB92-C5AA31DCC22D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75290$A1A08CA5-D56B-4C33-A196-F1FC739A9D21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70756",
+              "numeric-id": 70756
+            }
+          },
+          "hash": "ea8605597270b1953fe766a0e22739ecb6f3f909",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75290$A5685496-7084-45AA-B0A5-B52DAFD44C28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75290$85DA5604-AF7C-4AF9-B041-9DE4E32B2425",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0640-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9042ea3a517081300f6eedcf2776613757525f1f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75290$C0ABB32E-4058-46AE-A00A-E5DB1DFA4E21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45514262"
+          },
+          "hash": "0141a3c07b80652e38b64affd48913764f0711b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75290$45FA287F-0B03-4A7D-A2BF-6D568FCB5C53",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Mou Arms.svg"
+          },
+          "hash": "29f9a8e04286e596e8e6ed908400858b0d8dab9b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 194120"
+    }
+  },
+  "id": "Q75290",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Mou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Mou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Mou"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭某"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Mou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭某"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧某"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭某"
+    }
+  },
+  "lastrevid": 17488470,
+  "modified": "2025-09-16T19:16:48Z",
+  "ns": 860,
+  "pageid": 90121,
+  "sitelinks": {},
+  "title": "Item:Q75290",
+  "type": "item"
+}

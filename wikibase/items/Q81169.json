@@ -1,0 +1,394 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Xizong of Tang"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q81169$AA479E9E-6738-46B8-8CF5-3A33AB49F858",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1420152"
+          },
+          "hash": "e4402e1c83cd1e86619f49ed63c196348a1390b4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q81169$BDE45BA7-B365-4BF7-9350-5998853EA3EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q81169$44167BDA-84DB-42AA-B753-08CE700DC195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q81169$B2464588-4343-42D4-86F3-CAAF350A36E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76536",
+              "numeric-id": 76536
+            }
+          },
+          "hash": "6ff65b174dc69fa26c0d83472642a4c5025f71b8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q81169$99EB2047-F2CA-4608-A93E-887E237334C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q81154",
+              "numeric-id": 81154
+            }
+          },
+          "hash": "c35d8ed32124016145c572f1dc682175f058d6af",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q81169$79867422-9F7F-44CF-A7FD-293FEC1389AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q81169$B88226B4-5AD8-4524-8CE7-5A315F832DCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0862-06-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "39996412f48e5a8a5aba6a050d15e4399a98b9ef",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q81169$F29B5783-0318-4DA8-A5B3-E72416B4ECA4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0888-04-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b4495672992ab912b921da9022af2531e61d67b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q81169$8357643A-0130-4E92-82E2-454FFD683047",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9889"
+          },
+          "hash": "38067b177da05472bbb451ccd8d310c1b8934a9f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q81169$59D5EDE3-294F-4B98-A74B-0946DC879AD5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074750403044"
+          },
+          "hash": "231d044d10fa06e0aa7131450f8ba32d64342cec",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kaiser von China"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of the Tang Dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de la dinastía Tang de China"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois de la dynastie Tang"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese della dinastia Tang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "唐の皇帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "당나라 제18대 황제"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer van de Chinese Tang-dynastie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "18-й император династии Тан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐朝第19位皇帝、懿宗5子，出逃在外8年。藩镇不再听命于中央"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "唐朝皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "唐朝皇帝，在位時爆發黃巢之亂"
+    }
+  },
+  "id": "Q81169",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emperador Xizong de Tang"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر سیزۆنگی تانگ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xizong von Tang"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Xizong von Tang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Xizong of Tang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xi Zong"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور شیزونگ تانگ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tang Xizong"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tang Xizong"
+    },
+    "it": {
+      "language": "it",
+      "value": "Xi Zong"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "僖宗"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "당 희종"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "唐僖宗"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡥᡳ ᡯᡠᠩ (ᡨᠠᠩ ᡤᡠᡵᡠᠨ)"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Tông Hi-chong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Keiser Xizong av Tang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tang Xizong"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Си-цзун (династия Тан)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Xizong od Tanga"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Xizong of Tang"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tang Xizong"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิถังซีจง"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сі-цзун"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đường Hy Tông"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "唐僖宗"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "李儇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐僖宗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "唐僖宗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "唐僖宗"
+    }
+  },
+  "lastrevid": 17495921,
+  "modified": "2025-09-16T21:01:28Z",
+  "ns": 860,
+  "pageid": 96000,
+  "sitelinks": {},
+  "title": "Item:Q81169",
+  "type": "item"
+}

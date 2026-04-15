@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhang Anzhi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q60319$A00413A0-B1D0-420D-AA1C-CB706357BEF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53429",
+              "numeric-id": 53429
+            }
+          },
+          "hash": "c95e54b4bc655446ecab299441bee34ec40cb818",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60319$89DF3E49-3139-4A57-85D5-0082FA774C2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60319$9EDA6803-7AB3-4C2B-9617-B9FA8EF8CAE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60319$40A41CD0-58CF-4FA8-9405-39700236E3D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66084",
+              "numeric-id": 66084
+            }
+          },
+          "hash": "627b44877098b19b94d873129ededcf10899f2af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60319$25DC52E7-C0CA-435E-863F-545F0CF523EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60319$E732AF82-B76B-4F01-BA66-530B1FE1E6A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0518-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4bd7a383343b7afbbcb8c84527e545714d2d6c0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60319$53D264AA-9F95-4831-9B06-0FBC977FEBA6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26197743"
+          },
+          "hash": "beeccb19f93cf35476b26e80b7c12db103846048",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60319$FF30CE1E-AC18-4C0C-92E5-C422EC51F691",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074732902034"
+          },
+          "hash": "e350a54947d3bf37255348d57dec826c720ef324",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60319$016F7324-AA29-410D-9A32-12E221EDE6E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhang Anzhi Arms.svg"
+          },
+          "hash": "2630d2a9c74610bf2fa8c7b764b437f1cbf37ae0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 176147"
+    }
+  },
+  "id": "Q60319",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zhang Anzhi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhang Anzhi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhang Anzhi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "張安之"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhang Anzhi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trương An Chi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "张安之"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "张安之"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "張安之"
+    }
+  },
+  "lastrevid": 17469470,
+  "modified": "2025-09-16T14:41:06Z",
+  "ns": 860,
+  "pageid": 75150,
+  "sitelinks": {},
+  "title": "Item:Q60319",
+  "type": "item"
+}

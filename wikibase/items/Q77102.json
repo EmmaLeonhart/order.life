@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pei Cheng"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q77102$3CA75C6E-BBBA-4F1F-A909-81C8CB9BF07E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72354",
+              "numeric-id": 72354
+            }
+          },
+          "hash": "bc8d346c9850a04649c9933803834d2048528976",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77102$9991DE45-1C9A-4B93-9AAC-C1C8D9425AC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77054",
+              "numeric-id": 77054
+            }
+          },
+          "hash": "2ebc1145b9dcf909366bf9b81585449a7e5b8b67",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q77102$58B98EFA-3853-46C9-805E-0332B8EE8CD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77102$F24D0ADA-E5EF-41AA-90DA-6478E3CEE8F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77102$1D796426-EB2E-4F16-AD80-9EA70A52A19C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77102$708DE3E0-50E0-4A9A-AAFC-32F1B69C6EFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0522-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c93f6bcf5a27f09bbd843493a77ae6908a1bd18b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77102$3289A245-DC15-4AFA-809B-70C661DAC239",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45420655"
+          },
+          "hash": "6dde82819a5341819bb52236659531dc6dd5773c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77102$DB759994-289B-40A5-A790-67E4AF6182BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075372804874"
+          },
+          "hash": "40298af398c554e5740f93f5557152aa76e95f68",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77102$518E0B73-F131-4958-B29B-1A167FF05363",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pei Cheng Arms.svg"
+          },
+          "hash": "547c6ef128131062a092d2bbd5a922a114497f77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei person CBDB = 171095"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit Noordelijke Weidynastie"
+    }
+  },
+  "id": "Q77102",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pei Cheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pei Cheng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pei Cheng"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "裴澄"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pei Cheng"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pei Cheng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "裴澄"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "裴澄"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "裴澄"
+    }
+  },
+  "lastrevid": 17490826,
+  "modified": "2025-09-16T19:50:10Z",
+  "ns": 860,
+  "pageid": 91933,
+  "sitelinks": {},
+  "title": "Item:Q77102",
+  "type": "item"
+}

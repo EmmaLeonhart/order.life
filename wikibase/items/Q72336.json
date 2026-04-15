@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhang Changzong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q72336$1BBCD179-D0FF-448C-A164-E7565FEC5B28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72336$E4D86F99-8436-44CF-A05B-4FE864E929ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72336$D23A5E27-A29F-41F3-914A-002713C7C4B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67332",
+              "numeric-id": 67332
+            }
+          },
+          "hash": "83dcd7b18a72ebb224dd6d230cfc76c4953b3848",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72336$49F8308C-9640-40BB-9F78-C752791570D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72336$D4A107A4-ED26-4204-843E-BBF85D4F0B6E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72336$115B9CE3-402A-4DDD-B758-71982F41D883",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0705-02-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df51bfe7033ac5750e790884c4bd1c798a76a38c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72336$3E0C9FAE-4924-4108-97C9-EA3AB18A5441",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8070147"
+          },
+          "hash": "82d1ae07ac3c769dfaf4fd1f47a6fa48817506bc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72336$81EC939A-3A05-4C3D-A9EB-DE76C14482B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075344241954"
+          },
+          "hash": "b53f2e4b946c233077184a556a4a0cc9df299829",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72336$E16E7DF6-CA2B-44F1-A91E-7D205F4FF0DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhang Changzong Arms.svg"
+          },
+          "hash": "4df89e33e6cbaa758a7316992a8837dce8a2087e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese politician/general"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "武則天男寵"
+    }
+  },
+  "id": "Q72336",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zhang Changzong"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zhang Changzong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhang Changzong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhang Changzong"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "張昌宗"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "張昌宗"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Zhang Changzong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "张昌宗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "张昌宗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "張昌宗"
+    }
+  },
+  "lastrevid": 17484772,
+  "modified": "2025-09-16T18:25:29Z",
+  "ns": 860,
+  "pageid": 87167,
+  "sitelinks": {},
+  "title": "Item:Q72336",
+  "type": "item"
+}

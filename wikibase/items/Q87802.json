@@ -1,0 +1,560 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aemilia Tertia"
+      },
+      {
+        "language": "en",
+        "value": "Aemilia Tertia /Paulla/"
+      },
+      {
+        "language": "en",
+        "value": "Aemilia Tertia  Paulla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73296$DD5CB04B-7256-4502-AFDC-966FBA59B8BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735496"
+          },
+          "hash": "92a2715ae1e95ec2fecb63145c07b9058a308322",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73296$06AC10AF-910F-4B1A-A11E-46166B5FA03A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73131",
+              "numeric-id": 73131
+            }
+          },
+          "hash": "04ba9da15d0a34dd8b58af09b15c06b426238ac5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73296$7CFBFEC4-6A15-4F5D-A54A-2766E98FFF5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99368",
+              "numeric-id": 99368
+            }
+          },
+          "hash": "c8713079d763c53633fd4257cac53cddf9707c53",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73296$245681B8-E7B6-46DC-AC2E-96457C68B14D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148059",
+              "numeric-id": 148059
+            }
+          },
+          "hash": "0f675e6eab4383d7c70cf7423af3c4309ec85c3a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73296$B02B6CCB-5B1D-4BF8-8692-0E368F9438DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148060",
+              "numeric-id": 148060
+            }
+          },
+          "hash": "4497e57c9229ff2ada38a87afe8f0263351191eb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73296$187CF6BF-D7B4-4C83-842B-3EBD7CB21C3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144057",
+              "numeric-id": 144057
+            }
+          },
+          "hash": "d301aafc66d5f8abd460d1c110476f2bee761ecd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73296$BA9AEEAE-A1F7-49AA-BD4D-7CE9AAA7E216",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73296$13EEEE8A-1B8C-4F9D-974D-8BC70FB4376F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73296$4C46A528-A3CC-427C-84B5-5D37EC9B256C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aemilia_Tertia_(1)"
+          },
+          "hash": "e7e74f4ca29745c053b3b17fc4557542fd6e33bb",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73296$7612AF2B-1159-4A4A-A884-64D096E0B3B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73299",
+              "numeric-id": 73299
+            }
+          },
+          "hash": "5a2cf5192747135146f0f25579f4cc334e7c589d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73296$E6835239-1DA7-4BE7-9D74-F89D57C011AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73266",
+              "numeric-id": 73266
+            }
+          },
+          "hash": "b8521115e47400a4f37b2beae61fbb60a27d0c6a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73296$4343EEFB-11BC-4F9C-89CB-B68670FC16B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99378",
+              "numeric-id": 99378
+            }
+          },
+          "hash": "4da95bbae65029d0d34d7634c25ce8f606ea272c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73296$1B00CD16-56A1-4B0D-81FB-1BDFB1B2CF41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73269",
+              "numeric-id": 73269
+            }
+          },
+          "hash": "d9b3df4f90ce27bd063773e7b30d9f1eea487817",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q73296$451425A5-118D-4DDC-9792-B2695C068D67",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Aemilia Tertia /Paulla/"
+            }
+          },
+          "hash": "6222dbe0bcd98e7655b1abd3ed7c192a2fb824cf",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73296$C12415A7-C937-485C-B9E4-8E6DEE69B0B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73296$A1014648-267E-421B-A175-8F783E869BF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0230-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85e95bbd4c171552f5650da2f1f5ab689601c85f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73296$125ECECA-E0DD-4C2C-AF8F-AB092DBEB0B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73296$37D9901F-7B62-4C5F-9228-9E786FD658D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q380862"
+          },
+          "hash": "705ee192a72a91fa05035c87dae1f73b52ee4fad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73296$F7524997-39F9-4856-875E-FC7C962C836E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001416347026"
+          },
+          "hash": "382a326ad813226c1ab8dd751a9121eade7f68b0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73296$5228DB32-C165-41EF-9281-3A5072C0747A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aemilia Tertia Arms.svg"
+          },
+          "hash": "8311c00a5100a4258c29feecadc61c88211e2c7d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "римска благородничка"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "esposa d'Escipió l'Africà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "žena Scipia Africana"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Lucius Aemilius Paullus"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Scipio Africanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Escipión el Africano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, fille de Lucius Aemilius Paullus"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana, moglie di Scipione l'Africano"
+    }
+  },
+  "id": "Q73296",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Emília"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Емилия Паула"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emília Tèrcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Aemilia Paulla"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Aemilia Tertia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aemilia Tertia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aemilia Paulla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αιμίλια Τέρτια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aemilia Tertia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emilia Tercia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Emilia Tertzia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aemilia Tertia"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמיליה פאולה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aemilia Tertia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Emilia Terzia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アエミリア・テルティア"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aemilia Paula Tertia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Emília Tertia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Emília Tertia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эмилия Павла"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Emilija Tercija"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aemilia Paulla"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aemilia Tertia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Емілія Павла"
+    }
+  },
+  "lastrevid": 17486024,
+  "modified": "2025-09-16T18:43:15Z",
+  "ns": 860,
+  "pageid": 88127,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73296",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73296"
+    }
+  },
+  "title": "Item:Q73296",
+  "type": "item"
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Zusheng"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62030$18775D29-B362-4094-A281-E9EB066E5E83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67688",
+              "numeric-id": 67688
+            }
+          },
+          "hash": "95537b478d846cfbc5b2e3e350df66e8db73f5bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62030$D0A88B06-8555-4B32-88C8-35EAA3FB5999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62030$3B690E6A-C977-4A38-9AD4-44274497AB7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62030$5C6878D7-927A-404C-BB12-DE4FE038590E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62028",
+              "numeric-id": 62028
+            }
+          },
+          "hash": "db1737df2617bd8fc7b2d600007873f1ff168ddc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q62030$6469E9F6-6950-4149-842F-F2A9FD20E640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55862",
+              "numeric-id": 55862
+            }
+          },
+          "hash": "d7b638d155f0b6a52669ff47dfc8161a7c9143c9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62030$633798EB-091E-4D4E-BCB8-533FCDAA0E29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62030$72C7EBC1-B239-46AB-A205-67210B2EC208",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0597-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "79f26a51998abcc36f50d5b870ebb5b75e73ba38",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62030$FB472504-25B6-45CE-B5DC-15C3FD1C2131",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11522524"
+          },
+          "hash": "f819b72564f49f090ad8f910f7b0d638eab3a7a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62030$576B0447-0B17-4B90-A167-F9A75CE41A95",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Zusheng Arms.svg"
+          },
+          "hash": "9d9c0e8741093e4e734d934f4ed1e3c0f4345ab6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q62030",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Zusheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Zusheng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Zusheng"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李祖昇"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李祖昇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Zusheng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李祖昇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李祖升"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李祖昇"
+    }
+  },
+  "lastrevid": 17471758,
+  "modified": "2025-09-16T15:15:47Z",
+  "ns": 860,
+  "pageid": 76861,
+  "sitelinks": {},
+  "title": "Item:Q62030",
+  "type": "item"
+}

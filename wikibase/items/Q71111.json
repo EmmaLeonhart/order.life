@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pei Shuanghu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71111$996AD23F-CF7A-4EE8-83F1-6FD7CA239D1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75912",
+              "numeric-id": 75912
+            }
+          },
+          "hash": "b34ed99d77ebab90a0cb97c98ac76d05be4cb38f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71111$9CEA90CC-7C14-48FC-BE83-1B34F596A708",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75915",
+              "numeric-id": 75915
+            }
+          },
+          "hash": "cdac094adfce8c566b82c1dd444af44353d6a6e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71111$2C098F30-AA85-422E-8BDF-4F67A09CF17A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71111$98DEC46F-2346-4053-96F7-BBD9A5063E93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71111$2D1AB0EB-E779-450E-833E-1E21D73B8933",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66225",
+              "numeric-id": 66225
+            }
+          },
+          "hash": "7e26c5a8d35f3108b12b0a322b24b1de30c3e31c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71111$7B2B3078-1CEC-4028-AA78-37787485ED96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71111$5717D537-4C9B-4895-89CF-21DED74B0B8A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0454-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d6e0a215c57f83a005a3927b77cd81c6b55fd4d9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71111$0A760A55-1338-4CFD-8BA0-A2E710DE7403",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45420518"
+          },
+          "hash": "4033c191399fef7aef674f254d7214e95ce6fa83",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q71111$E45CF9A7-5F9B-40D1-A4C9-03BFF2D75DC3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000057294925865"
+          },
+          "hash": "8619801b317d48d8ea3f324597dc94a1dd0e25bb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71111$93E84D62-BFBA-4384-B9D9-0853B64954CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pei Shuanghu Arms.svg"
+          },
+          "hash": "d040b6129044d1ee57a014538969a59738a5513f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei person CBDB = 170948"
+    }
+  },
+  "id": "Q71111",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pei Shuanghu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pei Shuanghu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pei Shuanghu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "裴雙虎"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pei Shuanghu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "裴雙虎"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "裴双虎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "裴雙虎"
+    }
+  },
+  "lastrevid": 17483150,
+  "modified": "2025-09-16T18:02:45Z",
+  "ns": 860,
+  "pageid": 85942,
+  "sitelinks": {},
+  "title": "Item:Q71111",
+  "type": "item"
+}

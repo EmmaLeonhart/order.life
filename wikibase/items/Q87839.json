@@ -1,0 +1,295 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Octavius Rufus"
+      },
+      {
+        "language": "en",
+        "value": "Chancellor of the Republic of Rome"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73350$C6BB2BBB-9A87-455A-A63C-87C33913238D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73191",
+              "numeric-id": 73191
+            }
+          },
+          "hash": "354374d55a07c56263e3e361478fa070cd2682ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73350$6CCE3A57-04ED-4C8F-9DC2-E32C305F032F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144095",
+              "numeric-id": 144095
+            }
+          },
+          "hash": "bd6f169255136476cc5ce7d28b22bb74d5a3af23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73350$E8964399-AF5A-41B1-9B02-9ADFFC90696F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73350$FA0ECA51-45F1-4262-9E79-76AD07BCA2FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73350$E725AC11-0690-418E-A3D3-F540D61E0BF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73350$5DE0668A-5248-4D21-AA7D-0EEC747DB307",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73350$B98F9E92-15B3-44A8-B546-9A5EAE71B12E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1533143"
+          },
+          "hash": "b01ba002b1fc371a3a754bfb277ca0a33cea1f88",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73350$955FE579-3AF9-4CD4-A711-6BCE4BFF71C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010153913015"
+          },
+          "hash": "1687bb0f6aa024ce41a41b2d43d4c930c8b33ca9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73350$23D55068-9F57-4303-849D-5403EDE98D9D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Octavius Rufus Arms.svg"
+          },
+          "hash": "0bafc599317282422658176a28d23e2d4bf5fab6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "qüestor 230 aC"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "quaestor 230 CC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Quästor wohl 230 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "quaestor 230 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cuestor alrededor del año 230 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "questeur romain en 230 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "quaestor uit Oude Rome (-?)"
+    }
+  },
+  "id": "Q73350",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Октавий Руф"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Octavi Rufus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gnaeus Octavius Rufus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Octavius Rufus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Octavius Rufus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Octavio Rufo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Octavius Rufus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Ottavio Rufo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Octavius Rufus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Octavius Rufus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Octávio Rufo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Otávio Rufo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Октавий Руф"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Октавій Руф"
+    }
+  },
+  "lastrevid": 17486088,
+  "modified": "2025-09-16T18:44:09Z",
+  "ns": 860,
+  "pageid": 88181,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73350",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73350"
+    }
+  },
+  "title": "Item:Q73350",
+  "type": "item"
+}

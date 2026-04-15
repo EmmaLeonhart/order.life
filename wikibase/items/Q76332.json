@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Feng Daoyu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q76332$35EE1BD7-1DC5-4D43-89F1-946DACF8B73C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80857",
+              "numeric-id": 80857
+            }
+          },
+          "hash": "6b83eaea96660f57a70367398c1a900a489fa94e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76332$780C4953-EFFA-4669-9686-8725BA9F2AD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80862",
+              "numeric-id": 80862
+            }
+          },
+          "hash": "519e415dfd8d2f1d87deb8d67f98f9e9da4dbf95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76332$C24FD9D3-46D1-4420-BC51-1D12EA3DD10E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76332$C7997A37-20A3-40AD-B7F8-8354FBA32D3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76332$BD74543D-502B-42C7-B774-1834709F7776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71603",
+              "numeric-id": 71603
+            }
+          },
+          "hash": "b1f5a0847465e36a7690ee9be1cb3caf47a7bfbf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76332$F541FCB9-67D9-41AB-B28B-60AC7BB43BD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76332$7A8EB337-D2EE-42B0-98E4-B59BF9273EAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0720-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c599e759827ed6cf27bdb59032f91840437a3111",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76332$80D6089B-930E-47BA-A0DC-E0EC94DC4FB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45490419"
+          },
+          "hash": "51a7efd308cac906bb6e2e76562e0150ed2017dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76332$27C42A2C-0897-4FF1-A540-F38C5EBF98FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Feng Daoyu Arms.svg"
+          },
+          "hash": "231d8e8afb906b4a56b872271f4e2e8d601e3c3b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172404"
+    }
+  },
+  "id": "Q76332",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Feng Daoyu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feng Daoyu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Feng Daoyu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "封道瑜"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Feng Daoyu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "封道瑜"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "封道瑜"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "封道瑜"
+    }
+  },
+  "lastrevid": 17489838,
+  "modified": "2025-09-16T19:35:53Z",
+  "ns": 860,
+  "pageid": 91163,
+  "sitelinks": {},
+  "title": "Item:Q76332",
+  "type": "item"
+}

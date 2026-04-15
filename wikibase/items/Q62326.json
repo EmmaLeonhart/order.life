@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yamaguchi Shigesada"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q62326$308FF77F-FC3F-4D97-88C4-B4C2769AA95B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62326$3D293506-B925-49D1-BE87-33ECB70D2470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62326$392EA8E3-C7C7-4A8C-9FBA-B5132A392115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56314",
+              "numeric-id": 56314
+            }
+          },
+          "hash": "65e3a2d1d0fdedfaf26662793b014a9fbe6ee785",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62326$1563C207-BAD9-4320-88A5-AD6A7AD56FF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62326$229E28B2-A062-4CD4-B69D-BDDA523202CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1641-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c56c23e321f3105828c14d7674e3deb13c56896",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62326$D008BF8B-02F3-4BDD-ADBC-163264723EAE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1698-05-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbafa973c47bd6dd1bfd8be94ad55005361b1595",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62326$55558E79-F73F-4AA7-B541-347E5AB426A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11467510"
+          },
+          "hash": "fde0eea7df61bd23f7029cc4a10146fa0a1ea54a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62326$6B5B3B7B-36F4-4327-80B6-F09057888558",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yamaguchi Shigesada Arms.svg"
+          },
+          "hash": "27fbcd235d029b15fb8ed84977f13931cb782eb9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q62326",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yamaguchi Shigesada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "山口重貞"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэсада Ямагути"
+    }
+  },
+  "lastrevid": 17472152,
+  "modified": "2025-09-16T15:21:55Z",
+  "ns": 860,
+  "pageid": 77157,
+  "sitelinks": {},
+  "title": "Item:Q62326",
+  "type": "item"
+}

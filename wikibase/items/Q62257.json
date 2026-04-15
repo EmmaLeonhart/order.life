@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Xiaosui"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62257$04BE346E-70CF-4ADA-81F6-5A114C38E242",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67997",
+              "numeric-id": 67997
+            }
+          },
+          "hash": "7b23ac1e67d61aa524e2e1c14d3fdb05293cfd59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62257$8F8CBED2-3B34-42B1-99BA-3E2B672203FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68000",
+              "numeric-id": 68000
+            }
+          },
+          "hash": "02dc086fc03d7763bf03fa951c3ddc290d020e81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62257$64A8ED25-CCE2-4C82-B916-EEE15EF99208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62257$0698EBCB-C72C-4601-B4D6-DDFDCA55D526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62257$BF78C634-F247-4FC5-9582-55507A2F6B98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56173",
+              "numeric-id": 56173
+            }
+          },
+          "hash": "e8b21ee0b400e8d53c04288e71fb917f481cd9cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62257$44D8E8D5-B10E-4D68-84BC-94F2F712AC7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62257$1FE3FAA9-9DB1-4A8A-A4FE-D79250C06E39",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0841-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0cbe12c47e259cdf6d1751a3f7c6e94f123c5303",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62257$F4F36B20-578E-431B-B894-FFAF08A418AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45484658"
+          },
+          "hash": "d594ead804f57b900aa80602d114827df3a7dac6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q62257$712717D8-07E1-41C6-9362-F7A3DADD2275",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075061052885"
+          },
+          "hash": "4cbd75dc880f69ab24743d87a760b9fde0f7c6d4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62257$98C19263-112F-41FD-BD1C-804C8F063DCC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Xiaosui Arms.svg"
+          },
+          "hash": "067479f0217ef4b02ea8d99604c3e4087675585d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188163"
+    }
+  },
+  "id": "Q62257",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Xiaosui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Xiaosui"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李孝隨"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Xiaosui"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李孝隨"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李孝随"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李孝隨"
+    }
+  },
+  "lastrevid": 17472060,
+  "modified": "2025-09-16T15:20:34Z",
+  "ns": 860,
+  "pageid": 77088,
+  "sitelinks": {},
+  "title": "Item:Q62257",
+  "type": "item"
+}

@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Cheng"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71498$14F4C62E-DC47-4CD0-9F60-691703D38A1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76230",
+              "numeric-id": 76230
+            }
+          },
+          "hash": "ef17d5137d26a8cb8fe8fe0ab101368b0b6bdc75",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71498$467482F2-4871-4ED2-BE85-A6D19D4C14B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76233",
+              "numeric-id": 76233
+            }
+          },
+          "hash": "10261375338ca61c723b6fd6f5ada5e82fbe138b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71498$5BF533A2-09A2-4E45-AA18-C2C37CEA2A20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71498$3017F561-BA8A-4D58-80B1-661005954AD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71498$F871702C-9249-431A-BB00-CCC3CE291DA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66642",
+              "numeric-id": 66642
+            }
+          },
+          "hash": "68ae67faed5db2cfc7bbb0b1c27bfd27485107de",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71498$065B1B27-E51B-4513-8E9F-1EEFB0FCECD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71498$25D4D6FD-6110-4500-B4D3-EE8B8F82BF46",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0749-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6c3d75c6a8903a3a468e60de97da035863d3e90d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71498$6D03A6D5-3513-4F08-B51A-AEC8805F3A3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45496529"
+          },
+          "hash": "be48f634eb15c955701ce1548333b2c2203a2fd3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71498$6F481A35-8167-4D76-AE85-6C6B927F0DF8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Cheng Arms.svg"
+          },
+          "hash": "b39b4c698ede5be349bc59d0cdc77c3af0285d62",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172537"
+    }
+  },
+  "id": "Q71498",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Cheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Cheng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Cheng"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊澂"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Cheng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊澂"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨澂"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊澂"
+    }
+  },
+  "lastrevid": 17483664,
+  "modified": "2025-09-16T18:09:56Z",
+  "ns": 860,
+  "pageid": 86329,
+  "sitelinks": {},
+  "title": "Item:Q71498",
+  "type": "item"
+}

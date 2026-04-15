@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Feng Linghua"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65038$19E39F86-64B9-4ECE-ACAA-E6420B675771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70153",
+              "numeric-id": 70153
+            }
+          },
+          "hash": "44541cbf5e25ee78d93bd489f59c50492881e8ac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65038$7A5A37FD-1307-4141-8616-CDBACBC94B94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65038$ED64EB99-845A-4E64-BCE1-7CAAA96E34F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q65038$2FBCCFE4-D881-486D-AF3F-EB743B095DA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70150",
+              "numeric-id": 70150
+            }
+          },
+          "hash": "be8be3879fe9337ca4bf00b3eff833ff31fcd62f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65038$5F4C6D53-15E4-46FC-B1EE-BE27525571B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64907",
+              "numeric-id": 64907
+            }
+          },
+          "hash": "84620939885778dba8ab2350e1d062f659a8296e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65038$CE1EADF6-192B-45EE-A964-DFD93D90C266",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q65038$0DAE0D18-0572-4444-8D5E-3762802C3BED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0487-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "013b94afcf893760d3355b7e5851df2d0dd8f9d0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65038$C7CE6C00-596F-4985-8AEF-06D41649B12F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28410651"
+          },
+          "hash": "9805def2c1ea63dda92f54bb302d2643e89e5e51",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65038$CE820216-983D-4466-B065-89481F202426",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Feng Linghua Arms.svg"
+          },
+          "hash": "24d74913ecd57e3914bcec0acc18b5a0ec753a1f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "personnalité de la dynastie Wei du Nord"
+    }
+  },
+  "id": "Q65038",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Feng Linghua"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Feng Linghua"
+    },
+    "de": {
+      "language": "de",
+      "value": "Feng Linghua"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feng Linghua"
+    },
+    "es": {
+      "language": "es",
+      "value": "Feng Linghua"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Feng Linghua"
+    },
+    "it": {
+      "language": "it",
+      "value": "Feng Linghua"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Feng Linghua"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Feng Linghua"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Feng Linghua"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Feng Linghua"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "冯令华"
+    }
+  },
+  "lastrevid": 17475344,
+  "modified": "2025-09-16T16:10:43Z",
+  "ns": 860,
+  "pageid": 79869,
+  "sitelinks": {},
+  "title": "Item:Q65038",
+  "type": "item"
+}

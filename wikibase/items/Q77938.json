@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Yu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q77938$60130F00-4ABC-4AD3-8329-DCB2477E28FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77938$C5DD160B-818C-4F07-9A61-D3DA8CAF4A77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q77938$0CCCEB8E-342D-4F38-95C5-EFA67108BDE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73027",
+              "numeric-id": 73027
+            }
+          },
+          "hash": "b9ea97c74371081ad499b412affe1ce27f74acce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77938$3D11ABAC-088B-4933-A1E7-6936C71AA2F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77938$A2E7B290-E088-4188-92CE-363557495A11",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0922-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fc9c2b879a02ca3c3b6845089946f2c08943979",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77938$F54AE832-8A83-4651-9BD8-E33C9EDECFE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45486385"
+          },
+          "hash": "274eb36c6ab5aab58dfc8fbf30643f954a6b6c95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77938$F4C3313C-978C-4F9F-A8D2-3139B063085D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075061027942"
+          },
+          "hash": "e61305a7b4d0babad2f8f1c9012d2f3e400a9fbc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77938$1FB918B4-FE12-4BFB-B7E4-11079E5C7E4C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Yu Arms.svg"
+          },
+          "hash": "2bd5d6c36c9712a79ac92920253b63420e4eec9d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 188190"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter"
+    }
+  },
+  "id": "Q77938",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Yu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Yu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李餘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Yu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Li Yu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李餘"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李余"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李餘"
+    }
+  },
+  "lastrevid": 17491884,
+  "modified": "2025-09-16T20:05:30Z",
+  "ns": 860,
+  "pageid": 92769,
+  "sitelinks": {},
+  "title": "Item:Q77938",
+  "type": "item"
+}

@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Du Bing"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q72901$3E9A5C66-6BE4-4FF6-B97C-5C4A082BC4AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72901$9C75166F-816B-4586-B3F6-F7F678E9F08E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72901$E2A862A1-EE63-40A6-B9A0-A0DC644777F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67916",
+              "numeric-id": 67916
+            }
+          },
+          "hash": "73e3add667b61002def6c60a8503f5d8c5a2a7c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72901$EC3033D8-A589-4598-BA2D-A5B3677D2AAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72901$3B13F7F0-42EC-4807-AE3D-4754F6B3DF40",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0687-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaef5179577532c9b4a171edd341f4c0e759ec15",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72901$A3D3A80C-245D-434F-984E-AAB340A11647",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0702-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8009eecba6822d636b6bf41bc9ab3fa315e713f7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72901$D3FCBA55-9C4D-434B-9E83-9366902CAC7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45461238"
+          },
+          "hash": "ec2a6c354cdf8353195d49aea6ad71774aa7d451",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72901$FA27F2C2-2460-4C48-86B3-611405D1672E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Du Bing Arms.svg"
+          },
+          "hash": "cf85df07fb81fe97e0454738f6d2d95d15a2452b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 140118"
+    }
+  },
+  "id": "Q72901",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Du Bing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Du Bing"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "杜并"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Du Bing"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杜并"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杜并"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "杜并"
+    }
+  },
+  "lastrevid": 17485512,
+  "modified": "2025-09-16T18:35:55Z",
+  "ns": 860,
+  "pageid": 87732,
+  "sitelinks": {},
+  "title": "Item:Q72901",
+  "type": "item"
+}

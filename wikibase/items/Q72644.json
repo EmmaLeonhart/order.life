@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Xiyuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72644$7C718409-3CD9-4502-81F9-100D3FCD124A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72620",
+              "numeric-id": 72620
+            }
+          },
+          "hash": "8903e2d776cb8c7b0b3edda4b9d1ec4952a46de6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72644$4EC30BB7-C9AB-4DC7-A716-92C828302DCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72644$D39FDFB7-4A27-49BD-B6A5-D0E4B97C88DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72644$C4E0D980-089C-408A-9948-23B078A530DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77408",
+              "numeric-id": 77408
+            }
+          },
+          "hash": "7bec42957ae87c13a11e05ad921f3ff98827dfac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72644$5FA53DB6-9F7F-434D-8883-3BE8EF89EB11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67673",
+              "numeric-id": 67673
+            }
+          },
+          "hash": "b15e968706b758abac81c48739a7ca1d854888e4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72644$83954B91-F06F-4CEB-B972-584D4F95C16A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72644$A4747431-94AB-4F54-ABDE-C68D27907BAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0576-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c9b98ce86c082452ed41030346b90b2feb78a1d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72644$9D1F7904-1AA0-49B6-9918-E2F5CE39D62C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45588755"
+          },
+          "hash": "fdc1f81e47783fa1b5a5571720172528101f0cad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72644$B0F1F23E-CE44-46D7-B35D-1F2F1503C839",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Xiyuan Arms.svg"
+          },
+          "hash": "69e96636cf1cec79b7a2b0bfa5966fd19db6ee51",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 174199"
+    }
+  },
+  "id": "Q72644",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Xiyuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Xiyuan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李希遠"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Xiyuan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李希遠"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李希远"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李希遠"
+    }
+  },
+  "lastrevid": 17485176,
+  "modified": "2025-09-16T18:31:12Z",
+  "ns": 860,
+  "pageid": 87475,
+  "sitelinks": {},
+  "title": "Item:Q72644",
+  "type": "item"
+}

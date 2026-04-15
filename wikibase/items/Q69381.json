@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Mu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q69381$BF5E0FCC-1621-41A1-9228-BD6D79B8F2DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74167",
+              "numeric-id": 74167
+            }
+          },
+          "hash": "68192339f4e694bd4618c5879ef274bfab25243e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69381$868008F8-5945-4DDC-B848-96087C8724C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74170",
+              "numeric-id": 74170
+            }
+          },
+          "hash": "4a4c931b530f0aefa587da4f4b7523d559eefa8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69381$9751DDE8-82C4-4D03-BE13-9E99F2476AA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74173",
+              "numeric-id": 74173
+            }
+          },
+          "hash": "d0c6518bb84002a365196655f792a6c69d6f7c88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q69381$363BEEE1-D099-497C-8FF9-39C91CC9C81C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69381$0FD526EF-BDF3-4809-AB02-072C8F5A18F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q69381$BB008A08-6D92-4622-BFF7-D329A11E7DD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64228",
+              "numeric-id": 64228
+            }
+          },
+          "hash": "70629f59c49ae1b3752a0e95ba2ba1b4fc795d5f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q69381$F462122E-2BC6-4DCD-8A8D-0569A1FCA174",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q69381$48691F7E-3F6E-4124-B561-00CA183E935C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0809-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "674c9d30be303733b017c375431b133c02cd4289",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q69381$C38039A1-E63A-4162-B3BF-ADF975F0E704",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45436634"
+          },
+          "hash": "722363f3c62165b92d778550d97a75937f2399ed",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q69381$A446CC61-BB87-476A-A18D-B8CC1B1D50E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Mu Arms.svg"
+          },
+          "hash": "04a1366399f09ea4fde0ba9d1e8934e18e0988b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187346"
+    }
+  },
+  "id": "Q69381",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Mu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Mu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Mu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李穆"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Li Mu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李穆"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李穆"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李穆"
+    }
+  },
+  "lastrevid": 17480896,
+  "modified": "2025-09-16T17:30:40Z",
+  "ns": 860,
+  "pageid": 84212,
+  "sitelinks": {},
+  "title": "Item:Q69381",
+  "type": "item"
+}

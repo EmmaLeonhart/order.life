@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Tai"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65013$EDD161D9-D549-4CAE-81A4-E9C05C549D33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70138",
+              "numeric-id": 70138
+            }
+          },
+          "hash": "0a5e51b2b7c243307c5f097659c220bcfa490472",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65013$B7F452DA-FE0E-4810-A6A3-2CFCCB3A6F17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65295",
+              "numeric-id": 65295
+            }
+          },
+          "hash": "6db0ca5c7ebb63596a31212c0a5709616ca77798",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65013$928823A1-80C6-48C9-A571-461636A9D044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70141",
+              "numeric-id": 70141
+            }
+          },
+          "hash": "6164afd404ffd04b80010ac258de3b1a9be78d11",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65013$82B3B6B6-02CA-45F1-987B-B80BF0EFFE63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65013$1913D47F-962F-48AA-ACFB-FBD462E1F368",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65013$C48FE2F9-1BD2-4913-B7F6-9FBFCA2EB536",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59481",
+              "numeric-id": 59481
+            }
+          },
+          "hash": "67db1fadecca87b6ff116815a3c0fd4d6638b4ca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65013$92737369-F68C-48CD-A45B-663F824AD426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q65013$B441A9A5-7A11-46C0-BD93-8D785755FDB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0504-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01cd76d492b561462d1c5f9d26cb01d0142d681f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65013$1A0F8F11-1256-4CE0-B271-34B94CCAE3A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0528-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8c6fe79afe56608284d23da538e02c57db069e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65013$3843A2DD-1950-4F56-801E-EC52AD9D9B48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11387952"
+          },
+          "hash": "6e5eb2553749fe8ba241e4bbc51b145c4e4a0e3a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65013$7062C0FC-7C1F-4284-B30C-4B0A0B0C5101",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Tai Arms.svg"
+          },
+          "hash": "c26d68fdaf79bcd3673ca4989cc183e3d6ea0b3c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "中国古代历史人物"
+    }
+  },
+  "id": "Q65013",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yuan Tai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "元泰"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таи Гэн"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "元泰"
+    }
+  },
+  "lastrevid": 17475310,
+  "modified": "2025-09-16T16:10:14Z",
+  "ns": 860,
+  "pageid": 79844,
+  "sitelinks": {},
+  "title": "Item:Q65013",
+  "type": "item"
+}

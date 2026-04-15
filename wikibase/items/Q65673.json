@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Qian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q65673$A2F06156-CDEF-4E8F-B253-01F6992D8444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65673$AE830798-9AF8-49F7-A4CA-051C2B8124FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65673$00C6DBC8-DC25-41F7-927F-605C29FBBD6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59937",
+              "numeric-id": 59937
+            }
+          },
+          "hash": "8b909e17399f9cb0b5dd133b2c9c54b02634d41f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65673$A07B9CFC-3677-40B4-AC92-63749F4C978F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65673$5D4DF322-F834-4ADA-A8A0-D51AF7835D08",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0804-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d3fbf0937f69c54e71504010584fe5b663b50a51",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65673$2C6A10FA-9E55-44CB-9655-37619DFD108C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45458689"
+          },
+          "hash": "2fbc6172221559e36b743fe0794a8aa256516811",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65673$FFA12822-2E22-4B15-9EF7-53F1BFC572D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Qian Arms.svg"
+          },
+          "hash": "ea5521099b7174c2779e45cfb562a6a6cff25e90",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171865"
+    }
+  },
+  "id": "Q65673",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Qian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Qian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Qian"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇遷"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Qian"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇遷"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦迁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇遷"
+    }
+  },
+  "lastrevid": 17476184,
+  "modified": "2025-09-16T16:23:08Z",
+  "ns": 860,
+  "pageid": 80504,
+  "sitelinks": {},
+  "title": "Item:Q65673",
+  "type": "item"
+}

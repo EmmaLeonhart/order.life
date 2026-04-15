@@ -1,0 +1,426 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Langdarma"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61169$70FC43EA-3EFB-46C9-BC3F-1730C620C389",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "644452"
+          },
+          "hash": "dc4dfc73021c18c7b15b2dad50039899934a16ba",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61169$187A1392-7EAD-46B4-9486-657D70844F95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66837",
+              "numeric-id": 66837
+            }
+          },
+          "hash": "abe711d4d28c58253bd61b949b6aedfd95b89450",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61169$84657648-5338-4C39-AA26-F4A8A8DF20D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66840",
+              "numeric-id": 66840
+            }
+          },
+          "hash": "4c51e488623995ced1d232e285db83d2588073aa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61169$91F9390D-1FFA-4E87-938C-0666BE443D8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61169$0646A269-4282-4BDE-A1C5-DD5927F92996",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61169$79DE0058-A5D8-4BC4-82BA-42955BDFF858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66834",
+              "numeric-id": 66834
+            }
+          },
+          "hash": "e1ff0423279398c2f0bb7d52784a193504ea9d85",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61169$60DBFE66-5140-4ADD-B877-A10E3D7AFFFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54571",
+              "numeric-id": 54571
+            }
+          },
+          "hash": "b6a9aa0222ada00f7dcad9c1665e057466b54b03",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61169$B58434C1-A166-4642-A6E4-F323DAEF08BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61169$FD1E7644-0DF5-4ABB-9BAF-BD26E1E1E36F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0803-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a103785afe6db2b4de3970230afe36fbe9634a2a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61169$DB92D123-2BA2-4038-9929-5B96C107FF21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0842-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8a3951976cbf5ef96254ce486a63734eb413a03",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61169$8CCC096C-583C-43CF-94ED-CD967218BCD5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q558271"
+          },
+          "hash": "22484a9233bd99bc24a8da60a3c731d496a7a88d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61169$1AD07CD2-50FE-4CB9-B7C5-82C740363E64",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Langdarma Arms.svg"
+          },
+          "hash": "5667285edecbbd47d83bf0d40f610668c61e0142",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "letzter tsenpo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θιβετιανός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tibetan emperor (803 - 842) (803-842)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur du Tibet"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tibeti uralkodó"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Tibetaans rijk (803-842)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Tybetu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "吐蕃末代赞普"
+    }
+  },
+  "id": "Q61169",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "খ্রি-উ-দুম-ব্ত্সান"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "རྒྱལ་པོ་གླང་དར་མ།"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Langdarma"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lang Darma"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λανγκντάρμα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Langdarma"
+    },
+    "es": {
+      "language": "es",
+      "value": "Langdarma"
+    },
+    "et": {
+      "language": "et",
+      "value": "Langdarma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Langdarma"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "वुदुम चन्पो"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Langdarma"
+    },
+    "id": {
+      "language": "id",
+      "value": "Langdarma"
+    },
+    "it": {
+      "language": "it",
+      "value": "Langdarma"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ラン・ダルマ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "랑다르마"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Langdarma"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Langdarma"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "वुदुम चन्पो"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Langdarma"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Langdarma"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ü Dumtsen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ü Dumtsen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ландарма"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Langdarma"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Langdarma"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าลางทรมา"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дарма"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "朗达玛"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朗达玛"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "朗达玛"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朗達瑪"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "朗達瑪"
+    }
+  },
+  "lastrevid": 17470608,
+  "modified": "2025-09-16T14:57:55Z",
+  "ns": 860,
+  "pageid": 76000,
+  "sitelinks": {},
+  "title": "Item:Q61169",
+  "type": "item"
+}

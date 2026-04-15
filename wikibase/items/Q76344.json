@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Feng Gong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q76344$39ACC39F-D71A-4C97-A700-DAFF966C2588",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80894",
+              "numeric-id": 80894
+            }
+          },
+          "hash": "c8462a4aed2e0a6da0eda91f135bba03886b4767",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76344$8B8B2E0C-AEC3-43C0-9FF8-841E51035E19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80890",
+              "numeric-id": 80890
+            }
+          },
+          "hash": "acedbc9dd5303595844c8167b61029bb64d323a9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76344$AB2AC328-F1C3-441D-A2CA-F8D5268BA563",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76344$7A5A5A9A-BEA5-48DB-B2EE-4F93F00605FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76344$5730CAEA-F1AE-4A96-BBC9-CA4F59AA4ACE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71606",
+              "numeric-id": 71606
+            }
+          },
+          "hash": "2cb3542f7fcb68624b644269dd9090b5e684301a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76344$23B91BB2-9E44-4735-B179-49C4F7398066",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76344$D91065B1-2F63-4204-B78A-E052D2117EF0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0837-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5bec2613f441d4db76af8e7deded6db864cae272",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76344$1A316AC9-8165-4FC4-8B90-F1347A06A02C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45490163"
+          },
+          "hash": "db2bf0c3a69b18ede8258f7c0510e41acebd09b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76344$54A59217-5D4D-4A1D-8946-2A513BCAF572",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Feng Gong Arms.svg"
+          },
+          "hash": "24d19f0533f6f6b00be244df66cd12b9a570ed16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172399"
+    }
+  },
+  "id": "Q76344",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Feng Gong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feng Gong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Feng Gong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "封貢"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Feng Gong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "封貢"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "封贡"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "封貢"
+    }
+  },
+  "lastrevid": 17489854,
+  "modified": "2025-09-16T19:36:06Z",
+  "ns": 860,
+  "pageid": 91175,
+  "sitelinks": {},
+  "title": "Item:Q76344",
+  "type": "item"
+}

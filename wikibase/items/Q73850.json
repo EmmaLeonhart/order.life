@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsune Zusho"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73850$E959731E-1718-4A7F-8D9E-71CC70C2E652",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69144",
+              "numeric-id": 69144
+            }
+          },
+          "hash": "bc48990c9391a33cf34eeb3c4444845bb3e5539b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q73850$57099BD4-6D32-4E6E-95E1-70DE7B5A0512",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松根-3"
+          },
+          "hash": "d608bb41e4e0540e9f1890ea42e0efbdfea3cfeb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73850$C76964B1-E2BC-4F76-952D-DACC03D9F588",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73850$046D709B-A20C-4D7D-9AC7-F1B0D23D65BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73850$F7B86960-D5C8-4CEF-82AE-430AEB7700BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73850$3038E7DB-3149-4E88-808E-C3885791F916",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1821-01-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4da83abf3971cf7604e033c88bd22a0e976ac5e2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73850$F1D16283-1812-41DE-9568-1F0169AB6733",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1894-03-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4eede2b9aa3414b4a910cdcb778b06c88e65bfce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73850$659470CA-3D7E-4BBC-9BD6-DCB43714860A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11531509"
+          },
+          "hash": "ff333acab221b9e763b496f1780ada55be7bf1f4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73850$C1989F83-254F-43C9-B188-981D04BCC595",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsune Zusho Arms.svg"
+          },
+          "hash": "8d653810baffa575c3afad4794ce893ba6c59a94",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代末期の宇和島藩家老"
+    }
+  },
+  "id": "Q73850",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Matsune Zusho"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松根図書"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дзусё Мацунэ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsune Zusho"
+    }
+  },
+  "lastrevid": 17486668,
+  "modified": "2025-09-16T18:52:25Z",
+  "ns": 860,
+  "pageid": 88681,
+  "sitelinks": {},
+  "title": "Item:Q73850",
+  "type": "item"
+}

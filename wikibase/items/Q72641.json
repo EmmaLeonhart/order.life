@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Changjun"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72641$25D80C66-E10E-4BFA-A937-78FF34FA1442",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77456",
+              "numeric-id": 77456
+            }
+          },
+          "hash": "bd657219e3f6e7faba4673890aa1213dd0f92397",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72641$12ABA347-C0B7-46C0-B4EE-4AE926707BF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77459",
+              "numeric-id": 77459
+            }
+          },
+          "hash": "59e5966505d40032b2952f1eac89c6ad45b925fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72641$56C3F5B0-2420-418A-9A7F-FE49B45FD62B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72641$F127C84F-E5AF-4CB9-B6B5-EB55D005EEAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72641$EE8BE641-B06A-4640-9160-E71A8E09DCD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67673",
+              "numeric-id": 67673
+            }
+          },
+          "hash": "b15e968706b758abac81c48739a7ca1d854888e4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72641$21FFF1DD-25CB-443A-A86E-E6290C181A2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72641$E8F59BAB-7690-407B-A0DC-5BDCC8A5FDD3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0576-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c9b98ce86c082452ed41030346b90b2feb78a1d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72641$D0869BE8-C56C-4DB8-8446-6E114A296B11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45591113"
+          },
+          "hash": "d2a81432d74ba0265befbf3fd003fa4ae84085b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72641$564CA616-8958-4DFB-9C7D-0C6485D9D552",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Changjun Arms.svg"
+          },
+          "hash": "396da714076b1388c1e5100ee51c15e62533d6da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 195460"
+    }
+  },
+  "id": "Q72641",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Changjun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Changjun"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李長鈞"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Changjun"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李長鈞"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李长钧"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李長鈞"
+    }
+  },
+  "lastrevid": 17485172,
+  "modified": "2025-09-16T18:31:09Z",
+  "ns": 860,
+  "pageid": 87472,
+  "sitelinks": {},
+  "title": "Item:Q72641",
+  "type": "item"
+}

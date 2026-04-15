@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Zhenning"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q71908$6B1265A4-7308-4CE4-B0DB-6AFAB8EE3D93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71908$20F6E57D-CFEE-4024-8826-6DDB2A390793",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q71908$39A13420-7C39-4E04-9123-BAE8FB4DF805",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76685",
+              "numeric-id": 76685
+            }
+          },
+          "hash": "f52837b5a5e78c813c427d6eadba1c3ecf849874",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71908$3658A035-CB20-4250-8E79-24A165BA8A9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66930",
+              "numeric-id": 66930
+            }
+          },
+          "hash": "f2236320fe420ac88aaf5e4cf0dc757c2a7a2889",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71908$F2EB254B-76D3-4233-82D6-E030D65C3D21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71908$D80F5FA9-00E3-47A2-8463-138DA76B46BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0864-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fda94d83bf578d30260c3a726a4708dec7d5257",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71908$887AB8C5-DED1-41A3-8A8F-64DE9C61F3A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16603539"
+          },
+          "hash": "5b0b6ea18df089226d48b05a8351bfcc2f7e8624",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q71908$CB8A2B04-65CA-440C-AC3F-C3267A2BBDD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074750786894"
+          },
+          "hash": "9ab52d3a3b2ac18a948db57901008afbca71eee3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71908$A7DB5F30-5E92-4F9E-AF20-A2420662675B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Zhenning Arms.svg"
+          },
+          "hash": "51e7dd5071b037507af9ee9de871fd9c7b850873",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q71908",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Zhenning"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Shi (hija de Li Chun)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "真宁公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "真宁公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李氏"
+    }
+  },
+  "lastrevid": 17484204,
+  "modified": "2025-09-16T18:17:36Z",
+  "ns": 860,
+  "pageid": 86739,
+  "sitelinks": {},
+  "title": "Item:Q71908",
+  "type": "item"
+}

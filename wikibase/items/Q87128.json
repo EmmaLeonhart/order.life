@@ -1,0 +1,640 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Junius /Silanus/"
+      },
+      {
+        "language": "en",
+        "value": "Decimus Junius Silanus"
+      },
+      {
+        "language": "en",
+        "value": "Decimus Junius Silanus Consul of the Roman Republic"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Junius  Silanus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72287$73879EF4-79D1-4095-91F1-34CFE055B61C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "502039"
+          },
+          "hash": "bd33f5c358ce88c48ea9bb06195cbad9e860b22a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72287$4801F1C9-C745-43CF-A481-BC5568A3234A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716800"
+          },
+          "hash": "6aea46e6c9475350e7f021256a4099ecca6a06d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72287$D8B6B4A5-11AD-4952-B331-3C344ABDAAB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71137",
+              "numeric-id": 71137
+            }
+          },
+          "hash": "3099aa86f06fc8d760c848cc000bbe553970767a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$9BE6C19E-C744-4BC4-8181-E69AF73B6433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72305",
+              "numeric-id": 72305
+            }
+          },
+          "hash": "ad900e13744d45fc1f9c2c4958f5a35504c97df5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$ACCD9C1E-9DD6-4FAA-A138-670C940A9DCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72308",
+              "numeric-id": 72308
+            }
+          },
+          "hash": "f2d3385b4d2ed6a885733d0783638f7190e30cbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$0EB1FC59-E066-4E5D-80F3-AEA0BB445537",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78111",
+              "numeric-id": 78111
+            }
+          },
+          "hash": "8774f464c165bd4f71fe916a85da41a7a805d278",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$98248EFF-2A4B-4300-8720-B943D4FE1190",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144075",
+              "numeric-id": 144075
+            }
+          },
+          "hash": "9ba7cd0177b8f5cefae06e94b29832047f13aaac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$F80B54E8-B6CA-4813-B2FD-9846DC49C220",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144074",
+              "numeric-id": 144074
+            }
+          },
+          "hash": "9be1029b45c89008c3657434135deca2f0eb179d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72287$3E23EE0A-43AE-4B0A-9CAC-FF90D91A1529",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$FD39A4B3-1AA8-4D75-95A7-94FFAE32B1DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72287$8B1D4043-3CEB-42DC-AC32-E928CD78EA19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Decimus_Junius_Silanus_(1)"
+          },
+          "hash": "255d19b638dcc932fe2a24dbddac7cd8ace94424",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72287$32583700-2DA1-4DC8-9C4B-2852AC27287B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72290",
+              "numeric-id": 72290
+            }
+          },
+          "hash": "3afc9f299a47d4540dd2e4ed6094e172fb2e8250",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$E4901628-D93D-4FF7-B281-FE5DE97BB64D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72439",
+              "numeric-id": 72439
+            }
+          },
+          "hash": "b6f0d00129505018b54ad7781225eca5b4e7f99c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72287$938A3BC7-E8C5-4EAF-9F6B-F7F00DF8C875",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72484",
+              "numeric-id": 72484
+            }
+          },
+          "hash": "88a2f5383be3792475af2e9fa68cce1516266d11",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72287$D9A77C2F-8C0A-4FEB-A2CF-93ACFA0265C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72487",
+              "numeric-id": 72487
+            }
+          },
+          "hash": "132746caa6b7b19896e52e1f246dddc147c09d6a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q72287$35115C02-13A0-4506-93ED-DBFE2181505F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Marcus Junius /Silanus/"
+            }
+          },
+          "hash": "6b448df403f9c4444c11e1eac044b930c7ee1644",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72287$FBF5C7D3-720D-414E-AD11-A4CB8D835AEB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Consul of the Roman Republic"
+          },
+          "hash": "3d9503c1fedd4a6f42c451120c62ae89ca61c430",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72287$62778560-5174-4091-B161-7FA1C3DB450D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72287$B91F036E-3EC4-40AB-A7C4-606111C0309A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72287$63F35BFF-19C4-4333-A312-B683CCC8B0D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q518928"
+          },
+          "hash": "ebe31d3a4006a1ca4babaf0657065b5e0d3c8f95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72287$50059D58-9E3F-49C0-A530-E533ACE6BCDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000030346265683"
+          },
+          "hash": "a8a718712a65db6c7a4b552760961805b8de8ad1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72287$97AB21B7-C265-43C5-B23A-F47203427924",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828382359"
+          },
+          "hash": "202f76f110b844740122454d773a4856f1d1091d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72287$4B494787-CD1A-444C-A00A-5994D35A5781",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Decimus Junius Silanus Arms.svg"
+          },
+          "hash": "cb78e92b85f52b72f64fb2ea394884eb0e98e684",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "consul in 62 BC, husband of Servilia"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 62 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 62 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "konsul 62 f.k"
+    }
+  },
+  "id": "Q72287",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ديسيموس جونيوس سيلانوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Децим Юний Силан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dècim Juni Silà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Decimus Iunius Silanus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δέκιμος Ιούνιος Σιλανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Decimus Junius Silanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Junio Silano"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Dezimo Junio Silano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Decimus Junius Silanus"
+    },
+    "he": {
+      "language": "he",
+      "value": "דסימוס יוניוס סילנוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Décimo Junio Silano"
+    },
+    "id": {
+      "language": "id",
+      "value": "Decimus Junius Silanus (konsul)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Decimo Giunio Silano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デキムス・ユニウス・シルアヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Decimus Iunius Silanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Decimus Iunius Silanus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Décimo Júnio Silano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Décimo Júnio Silano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Децим Юний Силан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Decim Junije Silan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Decimus Junius Silanus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Decimus Junius Silanus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Децим Юній Сілан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迪基姆斯·尤尼乌斯·西拉努斯"
+    }
+  },
+  "lastrevid": 17484706,
+  "modified": "2025-09-16T18:24:35Z",
+  "ns": 860,
+  "pageid": 87118,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72511",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72511"
+    }
+  },
+  "title": "Item:Q72287",
+  "type": "item"
+}

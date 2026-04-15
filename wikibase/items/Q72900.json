@@ -1,0 +1,650 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleopatra"
+      },
+      {
+        "language": "en",
+        "value": "Cleopatra the Elder, princess of Pontus"
+      },
+      {
+        "language": "en",
+        "value": "Cleopatra of Pontus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72900$A19B7B72-27F2-4713-9332-E4380B8B8DAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737794"
+          },
+          "hash": "7d02abcaaff173fa22c5a672cfddaa27c3f96621",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72900$65668D08-9F4C-4B9D-9CD1-38D7DF1D1FF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72735",
+              "numeric-id": 72735
+            }
+          },
+          "hash": "5b3bade62d5d57b21744f5be528c67547a39b540",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$672D858B-2BFE-434B-B2A8-C2AAC72E284C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78354",
+              "numeric-id": 78354
+            }
+          },
+          "hash": "aab8e34b6d40b49eb988b472e86a247fac29a466",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$B1488447-776B-480C-8FC1-E74AF42307F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137131",
+              "numeric-id": 137131
+            }
+          },
+          "hash": "0fb5d3604ed426f6f0b19ff917eae6d24cfe9d3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$EBEAB8A9-F80C-4516-89CD-4EBF38A8C31D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137130",
+              "numeric-id": 137130
+            }
+          },
+          "hash": "407b14583332674a04a6958e670e40e2ac2101b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$EE003193-5CD2-4FDC-8C93-B23BC580C24A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165546",
+              "numeric-id": 165546
+            }
+          },
+          "hash": "fefd928857ae060e775b499a24680302ec2d3bc4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$8E25BBDC-8907-46E6-A154-E9344CBBAF25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165548",
+              "numeric-id": 165548
+            }
+          },
+          "hash": "f7b95f6da6b9dc75dcdccd9e663539575b857141",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$FB969937-993C-4025-8919-0414B9F2F1AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165549",
+              "numeric-id": 165549
+            }
+          },
+          "hash": "1ae74f07e29cf83093bec8e564a8b2695800aa13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$5EFF381F-44B1-41E4-A094-848FD6B85CEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165550",
+              "numeric-id": 165550
+            }
+          },
+          "hash": "814c2f857c33705ac8db469d8bf44f244a0429d6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$ACC76231-6703-4C99-BDA4-0A361FA8FD1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165551",
+              "numeric-id": 165551
+            }
+          },
+          "hash": "b5570f597afe1c6d76e3df328926a803cabcdccb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$07A32137-D7BF-471A-8D06-ADCD7C88A50E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165553",
+              "numeric-id": 165553
+            }
+          },
+          "hash": "a04aaaa63f854e17f39e90ffc39eb2f4b61db5a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$3E0E9ADB-9D5C-4FF6-9796-4714C370994F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165554",
+              "numeric-id": 165554
+            }
+          },
+          "hash": "4249db2b2ab26c5691c18d1f7d5304460e0b53b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$7E5FF948-C93F-450E-ADD6-73BC0EE8B219",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165555",
+              "numeric-id": 165555
+            }
+          },
+          "hash": "60feba2c973bbafe6ee16d27e4a880b038d51d59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72900$5234CE6E-E3ED-4E36-8B24-B36371174BAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72900$541F004A-B57B-4154-A6F8-E090214D9EEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72900$F3135B52-BCA6-4395-A520-7D83695E588E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra_of_Pontus_(1)"
+          },
+          "hash": "3133e5304437c57bf2cf7309fe26beecf4e064c5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72900$A28A2D6E-88F9-4888-9620-A1A0162C41AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72903",
+              "numeric-id": 72903
+            }
+          },
+          "hash": "1f96cd4c8f2bf6bcc8be957b3781b867cd1c7b3c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72900$DE761032-45F1-4039-B1ED-6975BED0D99F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73053",
+              "numeric-id": 73053
+            }
+          },
+          "hash": "70afe3daa08bfe7d68b9b0ae2eadf1c494f83a45",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72900$84608545-92EA-4EEF-B4D4-EAEB31142834",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73050",
+              "numeric-id": 73050
+            }
+          },
+          "hash": "655f55cf158ac3d1819ca2c547522ffe45724f65",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72900$852BC4EA-3ABC-4D6D-889D-63B3F752638E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72900$D191AC1A-2EA7-4292-A626-8C2D2AF0F6F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72900$052EA296-B9A3-4110-AA0F-A4EFDE223E27",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72900$45F4BF30-8079-44CF-8FBA-8592D4BEBED3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q461784"
+          },
+          "hash": "509dc4d0acf9e8fc782968857e63f7606f5c3c9d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72900$B90EDD00-A46A-4AA5-B890-F6144A80C3C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000424702295"
+          },
+          "hash": "6a067fd858d6e451497eb79af2cbcecde7a1c3af",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72900$F4A8CA40-A1ED-48BC-B6B1-8F8B7F556087",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra of Pontus Arms.svg"
+          },
+          "hash": "f654b1310dd23c3408424c2e628d078764f416d0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter Mithridates’ VI. von Pontos, Gattin Tigranes’ von Armenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort of Armenia of Pontic origin"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "pontusa edzino de Tigrano la Granda kaj filino de Mitridato la 6-a de Ponto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine consort d'Arménie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "córka Mitrydatesa VI"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Понтийская мужепредательница"
+    }
+  },
+  "id": "Q72900",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كليوباترا البنطية"
+    },
+    "az": {
+      "language": "az",
+      "value": "Pontlu Kleopatra"
+    },
+    "be": {
+      "language": "be",
+      "value": "Клеапатра Пантыйская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Клеопатра"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cleòpatra del Pont"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleopatra von Pontos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεοπάτρα του Πόντου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleopatra of Pontus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kleopatra de Ponto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleopatra de Ponto"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلئوپاترا پونتوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléopatre du Pont"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cleopatra Pontus"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאופטרה מפונטוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կլեոպատրա Պոնտացի"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleopatra del Ponto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオパトラ (ポントス)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleopatra of Pontus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kleopatra z Pontu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleópatra"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleópatra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеопатра Понтийская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kleopatra av Pontos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеопатра Понтійська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "本都的克麗奧佩托拉"
+    }
+  },
+  "lastrevid": 17485510,
+  "modified": "2025-09-16T18:35:53Z",
+  "ns": 860,
+  "pageid": 87731,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72900",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72900"
+    }
+  },
+  "title": "Item:Q72900",
+  "type": "item"
+}

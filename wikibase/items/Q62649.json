@@ -1,0 +1,292 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Mitsuyuki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62649$2DED8F80-7DF0-4BE0-BFAC-23CAB6770744",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68301",
+              "numeric-id": 68301
+            }
+          },
+          "hash": "9f7e5b6fb1105326a821a8a38f19645ad096768a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62649$0469B348-8610-4BA6-B371-1A4CE1B6861F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68304",
+              "numeric-id": 68304
+            }
+          },
+          "hash": "37f6e96ad81f0da6612ad2615da8f68b5f818b2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62649$766DE0A4-5C91-4B27-8222-5535D113B6A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68307",
+              "numeric-id": 68307
+            }
+          },
+          "hash": "45053c3e24b854062252210b4912a2efca6268bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q62649$EE98723A-57A6-4609-A1C3-21AD28F23157",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "戸田-36"
+          },
+          "hash": "e09eb6ce4e7ad9db5a08b0196103b4f42b5a2439",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62649$E4B20822-A3DF-4F2A-8785-914BB091730C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62649$BE6BE309-C2E2-4669-B36F-F7BAAFB58505",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62649$30B01664-817F-46D2-B8AD-073925A055D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56786",
+              "numeric-id": 56786
+            }
+          },
+          "hash": "d16a0ffd029884e99ea27f60b1589aa7b82bdb42",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62649$D06ED921-7B61-4B89-A4A9-384ED9F995EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62649$94B7E00F-8630-4C97-918D-D766AFFFC88C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1769-05-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe9c0902f34c8a6a0dd3976011eca81360817d46",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62649$6F99CE57-8EDB-4DF0-A81D-DB8A6AB765D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1840-01-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66338de9d0f74c69d4d3c28a9da24debba6ac860",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62649$88276CE5-C45F-4243-B5D8-2C6F01372FFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10862140"
+          },
+          "hash": "7610403b64dea145051b8a7b57df88d9caee742b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62649$3867A315-A503-43CA-9BD9-BBF18CD43723",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Mitsuyuki Arms.svg"
+          },
+          "hash": "7ed92294a1f2941cc0c3549d933defec9bc3d9c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the late Edo period; lord of Matsumoto (1769-1840)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "信濃松本藩6代藩主。戸田松平家11代。戸田光為の四男"
+    }
+  },
+  "id": "Q62649",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Mitsuyuki"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Mitsuyuki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Mitsuyuki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Mitsuyuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平光行"
+    }
+  },
+  "lastrevid": 17472556,
+  "modified": "2025-09-16T15:28:03Z",
+  "ns": 860,
+  "pageid": 77480,
+  "sitelinks": {},
+  "title": "Item:Q62649",
+  "type": "item"
+}

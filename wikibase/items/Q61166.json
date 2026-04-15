@@ -1,0 +1,377 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ralpacan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61166$F4627917-9BE7-4BD8-BA56-AF1518B8FA52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "644453"
+          },
+          "hash": "c0371a80b6bb8dcb21ed82e41230005ffe463ea0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61166$219DC00A-CCD4-4196-91A6-120D4275A59B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61166$7B2E9BA0-E27E-4FAE-B669-5C8B9916FA98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61166$AD47C0F1-3C6F-4BFA-ACE8-BF315DA7B98E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54571",
+              "numeric-id": 54571
+            }
+          },
+          "hash": "b6a9aa0222ada00f7dcad9c1665e057466b54b03",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61166$B3B3D87B-9757-401F-BA11-AB44E401B9D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61166$EB782748-0CCB-4731-91B0-8ECC397C9A9D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0802-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbd9bc9a542b417b70493356985f1c1c768d3acd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61166$AF3BEC35-CDEC-4886-B38C-8144B8384036",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0838-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c0ffe4b37cabe9d55ecaf1bb1bc55010b673818",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61166$9ADE87EA-BB19-4E22-AA82-3409B51AED37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2353150"
+          },
+          "hash": "bbc41e5a9c1705e6826ecbc0b40a33c45b2799b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61166$F0861F0F-EF2D-411A-A3B8-A62BA62BDDE2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ralpacan Arms.svg"
+          },
+          "hash": "b1da2b564c77f26dd53d81b9e622df3edff2bd36",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bn": {
+      "language": "bn",
+      "value": "তিব্বতের সম্রাট"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θιβετιανός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tibetan emperor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur de l'Empire du Tibet"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tibeti uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "kaisar Tibet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Tibetaans rijk (802-838)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Tybetu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "41º Tsanpo (Imperador) do Tibete"
+    }
+  },
+  "id": "Q61166",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Ралпачан"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ралпачен"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "খ্রি-গ্ত্সুগ-ল্দে-ব্র্ত্সান"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཁྲི་རལ་པ་ཅན།"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ralpačän"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ραλπακάν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ralpacan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ralpacan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "رالپاکان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tri Ralpachen"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "ठ्री रल्पचन"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ralpacsen"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ralpacan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tri tsug de tsen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティツク・デツェン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "렐빠짼"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "可黎可足"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ralpacan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ralpacan"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "ठ्री रल्पचन"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tri Ralpachen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ralpaczen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tritsuk Detsen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tritsuk Detsen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ралпачан"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ralpačän"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ralpacan"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าราลปาเชน"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ralpacan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ралпачан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赤祖德贊"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "赤祖德赞"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "赤祖德贊"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "赤祖德贊"
+    }
+  },
+  "lastrevid": 17470604,
+  "modified": "2025-09-16T14:57:51Z",
+  "ns": 860,
+  "pageid": 75997,
+  "sitelinks": {},
+  "title": "Item:Q61166",
+  "type": "item"
+}

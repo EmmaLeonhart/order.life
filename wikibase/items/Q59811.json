@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Wen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q59811$39779DEC-23F0-4BCA-9E70-6EF2C538E58E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59811$E06A99DC-645C-467B-A978-6B801ED183C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q59811$33CBC546-F9E5-4589-A251-7E6A966CA4CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53013",
+              "numeric-id": 53013
+            }
+          },
+          "hash": "ffb37fca630a5a839e157510ae2c6508e92a1fab",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q59811$8B69C707-C8F4-4D26-A13E-FAE42D1065D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q59811$A9584508-97A9-4F1B-9EB6-54B5BF6E4179",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0760-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7eee55f25d00adc93c516532e803f313f8056900",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q59811$177B04AB-F957-4229-A812-327BAF8CE1B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45461314"
+          },
+          "hash": "60d293d5f61d5f36c25e6b68185fb276948b1b07",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q59811$B309BF03-BAFF-4C65-A84D-A37ADCDA1A4D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Wen Arms.svg"
+          },
+          "hash": "364edd6531231dc0ec5493264a41b83e5dbb06e0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171907"
+    }
+  },
+  "id": "Q59811",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Wen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Wen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Wen"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇溫"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Wen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇溫"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦温"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇溫"
+    }
+  },
+  "lastrevid": 17468780,
+  "modified": "2025-09-16T14:31:03Z",
+  "ns": 860,
+  "pageid": 74642,
+  "sitelinks": {},
+  "title": "Item:Q59811",
+  "type": "item"
+}

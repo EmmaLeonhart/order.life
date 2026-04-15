@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeno Katsutomo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73291$146FD2D0-8FC7-4887-BF85-143E8C3E8DB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78112",
+              "numeric-id": 78112
+            }
+          },
+          "hash": "920479bc6f3299b6876d3d20cacfb044ca2f1b6a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73291$5A920ABA-22ED-4A98-8744-A53A9A14ED66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73291$163444AC-50C7-48D4-9643-A7E9F0523294",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73291$1F73A0D3-8A19-4F31-B673-E5BF7928A4BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68382",
+              "numeric-id": 68382
+            }
+          },
+          "hash": "3b44a6dd804f74a2d5de33b77a509e1fe1e2bd49",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73291$B78E1BB8-257B-475E-968A-F3488E03E074",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73291$920CF591-38C7-4908-9E56-5DFF02284065",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1732-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65df1bf9ecfa5ceaade173891dd1a2806d03127d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73291$0818B8AF-A97C-432F-983B-C42DE34F0599",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118358726"
+          },
+          "hash": "87c9ef374ae65316fe1a36050ac4e4a68692a06b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73291$EE0B9AA0-6CDE-4DAE-B490-F702C7DBB235",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeno Katsutomo Arms.svg"
+          },
+          "hash": "67c3475c671eaa0a2318cdf225a3fe3f7dcd99ed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の武士"
+    }
+  },
+  "id": "Q73291",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Maeno Katsutomo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maeno Katsutomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前野且朝"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Maeno Katsutomo"
+    }
+  },
+  "lastrevid": 17486018,
+  "modified": "2025-09-16T18:43:10Z",
+  "ns": 860,
+  "pageid": 88122,
+  "sitelinks": {},
+  "title": "Item:Q73291",
+  "type": "item"
+}

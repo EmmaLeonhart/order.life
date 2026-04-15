@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Osung"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q66840$2F668136-85D6-4E1D-B385-0E3CE8D38D71",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "644455"
+          },
+          "hash": "1ae8d77ccdf25763e5b5a3cc43e751bb6a04a44e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q66840$62ED1C25-C471-4CFF-ADD4-02C6FE4F07C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71728",
+              "numeric-id": 71728
+            }
+          },
+          "hash": "406e1f07725bf1b246f7fc43695e00cdcb4a539b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66840$9E0F5094-107A-4DE2-86D1-CF037BF1E038",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66840$810463C6-CA33-41FC-AFDC-BC68E4464264",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66840$FDC60F0B-CEF4-4875-8CBD-E950DB8A79E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61169",
+              "numeric-id": 61169
+            }
+          },
+          "hash": "51aa21474343e42bb00a15d1814271859511d1d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66840$203B2075-75B8-4E58-8E0B-4AA7F9146A5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66834",
+              "numeric-id": 66834
+            }
+          },
+          "hash": "df85b6411d422b7ec00ac6b7f648e39841a89e3d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66840$2B7BDDB7-9007-4641-9BD5-3269ECA184BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q66840$B8B5081E-DE44-454F-A967-D35B31A7324B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0842-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f04d3a46d657428a38a9d0641aae2935db9d3ab8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66840$2EA748C7-14F6-4C40-935D-F551F57AB3F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0878-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b7d7b22feac61874ee39d015b3877e2e78803fb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66840$1D4A072E-5B64-4FC3-A4F0-4D673A75FC9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10887423"
+          },
+          "hash": "f03e3937ce9f5bd475a74ed3b3df58345132ad91",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66840$5527BD76-A01E-47F0-8675-EB8A55D9A894",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Osung Arms.svg"
+          },
+          "hash": "2e74a63f2bca7bcf68eba99ebf9d5883fd8a4b37",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "tibetan king, son of the last tsenpo (imperator) of Tibetan Empire, Langdarma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi tibétain, fils du dernier tsenpo (Empereur) de l'Empire du Tibet, Langdarma"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын императора Тибета Ландармы"
+    }
+  },
+  "id": "Q66840",
+  "labels": {
+    "bo": {
+      "language": "bo",
+      "value": "མངའ་བདག་འོད་སྲུང།"
+    },
+    "de": {
+      "language": "de",
+      "value": "Osung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Osung"
+    },
+    "es": {
+      "language": "es",
+      "value": "Osung"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ösung"
+    },
+    "it": {
+      "language": "it",
+      "value": "Osung"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウースン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Osung"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Osung"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Osung"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Osung"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Намдэ Одсрун"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Одсрун"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "俄松"
+    }
+  },
+  "lastrevid": 17477730,
+  "modified": "2025-09-16T16:46:30Z",
+  "ns": 860,
+  "pageid": 81671,
+  "sitelinks": {},
+  "title": "Item:Q66840",
+  "type": "item"
+}

@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kazuma Oda"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q68394$5661D1B1-52F1-4BDC-B5B3-39B74D02FFCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-20"
+          },
+          "hash": "594772f415b974f638b1846fa939cf5053385af2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68394$C338A00B-1A81-4A16-9536-D45A9AA48B6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68394$9D08195B-F180-47BD-974D-83365A950370",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68394$7D637C48-3A88-40BB-AB14-2B21018256CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62820",
+              "numeric-id": 62820
+            }
+          },
+          "hash": "448a5aa0950c9523d20e31dc6b2a066f981e0974",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68394$63278A91-060C-40CC-AA3B-280C9F5469CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68394$89F6E916-A6F9-48A9-89C9-B15E5BFB8676",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1882-11-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77eda9e015d0600cde4e39e774313da3636f5a8c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68394$533653DB-E720-4B05-9766-2E7EFEB8E4F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1956-03-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f6c3977cace55f0e47e08883b38b477ce07f877",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68394$05349D56-60D0-4EE4-BFD3-E658EFC45DFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608247"
+          },
+          "hash": "49e54378ed15cb610efecb4f58dd6a38300f5588",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68394$0013CA09-AC22-4133-80B9-FD577AA5B873",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kazuma Oda Arms.svg"
+          },
+          "hash": "bed5863d9f8f782c07ee85c58043bd5a278c8791",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Maler"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese artist, printmaker (1882-1956)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明治期から昭和期の芸術家、版画家"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans graveur (1882-1956)"
+    }
+  },
+  "id": "Q68394",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kazuma Oda"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kazuma Oda"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kazuma Oda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oda Kazuma"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kazuma Oda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kazuma Oda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kazuma Oda"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Kazuma Oda"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kazuma Oda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田一磨"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kazuma Oda"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Kazuma Oda"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kazuma Oda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kazuma Oda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кадзума Ода"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kazuma Oda"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kazuma Oda"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kazuma Oda"
+    }
+  },
+  "lastrevid": 17479790,
+  "modified": "2025-09-16T17:15:28Z",
+  "ns": 860,
+  "pageid": 83225,
+  "sitelinks": {},
+  "title": "Item:Q68394",
+  "type": "item"
+}

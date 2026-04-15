@@ -1,0 +1,976 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mars"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q74614$43A125BE-5287-4912-9AFF-A01074F35B77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74566",
+              "numeric-id": 74566
+            }
+          },
+          "hash": "e2b690a6dd2158af1964720b24e8dbb2ddf7cd60",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$51D03EC8-1D7E-4FE8-8174-94D9CD99B04E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74572",
+              "numeric-id": 74572
+            }
+          },
+          "hash": "a06230d9b00f8b374ed18da99015a599e400e11c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$C92875DA-A825-4BF6-8872-913BA28512C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133339",
+              "numeric-id": 133339
+            }
+          },
+          "hash": "7126429ed11593f3beb20b88d5dd96d2d23ba3a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$068C4840-EB28-41F0-8AE7-358588E0399A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134760",
+              "numeric-id": 134760
+            }
+          },
+          "hash": "e9f1bb3619f3d1002387961e714b187db2bce1c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$41423F16-EE1A-44E4-8820-A62FCA40CC8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134262",
+              "numeric-id": 134262
+            }
+          },
+          "hash": "ff2c0e637a824b7c04d0e4b9ceb206983ef7d51a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74614$3912108E-A596-455B-BE93-B0E2FD4663EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$AA91F181-6D99-42E5-B5F5-342185F44F9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74614$09722A6F-5085-4182-91F7-90A4A455C623",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74602",
+              "numeric-id": 74602
+            }
+          },
+          "hash": "3149434a08bf27bd14646540ab6cb0e0f207d35e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$011C9AA3-A1C4-4B6E-8B35-88E9F4FD7241",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134261",
+              "numeric-id": 134261
+            }
+          },
+          "hash": "b7fe6d5bf3efc728ebc81c7beed3a7ddfca21383",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$0B989485-98D7-4746-91F3-58E956DA5BD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133263",
+              "numeric-id": 133263
+            }
+          },
+          "hash": "349cd8a0962bf292dff8254519b563745e25203e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74614$C379C31D-437C-447A-8526-49FF516493B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134047",
+              "numeric-id": 134047
+            }
+          },
+          "hash": "6d254aa2e3a04aefffaca8319b4ffffcc5af1785",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74614$B8ACD45A-1A35-4A6D-9535-E8AAB692AFFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132032",
+              "numeric-id": 132032
+            }
+          },
+          "hash": "512219899e505b8a9ce34300c685886daecf1031",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74614$A0AC4C69-DBEA-4340-8B0F-C4AD59906420",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132033",
+              "numeric-id": 132033
+            }
+          },
+          "hash": "f8ed3117b66795d07582acd529314fc1703290c5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74614$B0C671E9-DCD2-4642-8DCC-2B1A16AA065F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74614$36FB5B49-3A8E-41E9-93BA-97B2B5B8337B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112"
+          },
+          "hash": "1eec279e858095ee88c5ce87c081566a87e8c818",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74614$092CBF30-858E-4837-9A8C-61A488B0FA03",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mars Arms.svg"
+          },
+          "hash": "24cf3b3eb9e8d310c73baa312340648916419e9b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Romeinse god van oorlog, bewaker van landbou"
+    },
+    "be": {
+      "language": "be",
+      "value": "бог"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старажытнарымскі бог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "римски бог на войната"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "रोमन कथा में जुद्ध के देवता, खेती के रच्छक"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "déu romà de la guerra"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský bůh války a ochránce zemědělství"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk krigsgud"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kriegsgott"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαϊκος θεος πολέμου, προστάτεις της γεωργίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman god of war, guardian of agriculture"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Roman god of war, guardian of agriculture"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia dio de milito kaj agro"
+    },
+    "es": {
+      "language": "es",
+      "value": "dios romano de la guerra"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Erromatar jainkoa, gerra eta nekazaritzaren jainkoa, babeslea eta erromatarren aita"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalaisen mytologian sodan jumala ja viljelysten suojelija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dieu romain de la guerre"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "dia Rómhánach"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "jee Raueagh y chaggee, arreyder yn eirinys"
+    },
+    "he": {
+      "language": "he",
+      "value": "אל המלחמה הרומי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a háború istene a római mitológiában"
+    },
+    "id": {
+      "language": "id",
+      "value": "Dewa perang Romawi dan penjaga pertanian"
+    },
+    "it": {
+      "language": "it",
+      "value": "dio romano della guerra e dei duelli"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ神話における戦と農耕の神"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마 신화에서 전쟁의 신"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "réimesche Gott"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "dia roman de la guerra"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Kara dievs romiešu mitoloģijā"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "krigsguden i romersk mytologi"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "रोमनको युद्ध देवता र कृषिको संरक्षक"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeinse oorlogsgod"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk krigsgud"
+    },
+    "nqo": {
+      "language": "nqo",
+      "value": "ߙߐ߭ߡߎ߲߬ ߣߌ߫ ߛߍ߬ߣߍ ߟߎ߬ ߡߊ߰ߙߌ"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "dieu"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਰੋਮਨ ਜੰਗ ਦੇਵਤਾ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bóg wojny w mitologii rzymskiej"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "divindade romana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "deus romano da guerra, e guardião da agricultura"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "zeul războiului la romani"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "бог римского пантеона"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "diu dâ guerra ntâ mituluggìa rumana"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski bog vojne, varuh kmetijstva"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски бог рата"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Римски бог рата, чувар пољопривреде"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Rimski bog rata, čuvar poljoprivrede"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "krigsgud inom romersk mytologi"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கடவுள்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma mitolojisinde savaş Tanrı'sı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "бог родючості, рослинності і дикої природи в античній міфології"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马战神，也是农业的守护者"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗马神话中的战神"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朱庇特與茱諾的兒子"
+    }
+  },
+  "id": "Q74614",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Mars"
+    },
+    "an": {
+      "language": "an",
+      "value": "Marte"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "مارس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مارس"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Raporuz"
+    },
+    "az": {
+      "language": "az",
+      "value": "Mars"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Mars"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марс"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Марс"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марс"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "मार्स"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মার্স"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "མ་ཨེར་སི།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Meurzh"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Mars"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mart"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "مارس"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mars"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Марс (халаплăх)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Mars"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mars"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Mars"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mars"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Mars"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Mars"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Mars"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Marso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marte"
+    },
+    "et": {
+      "language": "et",
+      "value": "Mars"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Marte"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mars"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mars"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Mars"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Marte"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Dr Gott Mars"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Mars"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मार्स"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mars"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mars"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարս"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Marte"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mars"
+    },
+    "is": {
+      "language": "is",
+      "value": "Mars"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marte"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マールス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარსი"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Meɣres"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르스"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Mars"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Mars"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Mars"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Meurth"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mars"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Mars"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Marte"
+    },
+    "li": {
+      "language": "li",
+      "value": "Mars"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Marte"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Mart"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Marsas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Marss"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Marsa (andriamanitra)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Марс"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯃꯥꯔ꯭ꯁ (ꯈꯣꯌꯨꯝ)"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "मार्स"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Mars"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Marte (dio)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mars"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "मङ्गल ग्रह"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mars"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Mars"
+    },
+    "nqo": {
+      "language": "nqo",
+      "value": "ߡߊߙߛ"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Mart"
+    },
+    "os": {
+      "language": "os",
+      "value": "Марс"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਮਾਰਸ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mars"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marte"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marte"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Marte"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марс"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Marti"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Mars"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mars"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Mars"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mars"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марс"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Марс"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Mars"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mars"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mars (mungu)"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "செவ்வாய்"
+    },
+    "th": {
+      "language": "th",
+      "value": "มาร์ส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Marte"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mars"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Марс"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Марс"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марс"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mars"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Mars"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Måss"
+    },
+    "war": {
+      "language": "war",
+      "value": "Mars"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "玛尔斯"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "瑪斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "玛尔斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "瑪爾斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "瑪爾斯"
+    }
+  },
+  "lastrevid": 17487570,
+  "modified": "2025-09-16T19:04:43Z",
+  "ns": 860,
+  "pageid": 89445,
+  "sitelinks": {},
+  "title": "Item:Q74614",
+  "type": "item"
+}

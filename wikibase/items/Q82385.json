@@ -1,0 +1,400 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Annianus Verus"
+      },
+      {
+        "language": "en",
+        "value": "Gaius Ummidius Quadratus Annianus Verus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q65192$63B60444-B7D4-4E98-9DE8-E7768B5F3A0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736217"
+          },
+          "hash": "e073e8f1517a0aaab2a07181c87179cccf8d54e6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q65192$D83EFA77-23C7-42EC-BDF7-7B2DD0ADA52E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64355",
+              "numeric-id": 64355
+            }
+          },
+          "hash": "5c29367fe1c818c5bd0a1b8f1c4ece0120f6aca2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65192$5D81D73A-5CD8-4305-AD43-CE84BC121575",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76514",
+              "numeric-id": 76514
+            }
+          },
+          "hash": "2bd038983daefe2300e578d9f9f718dd02c1c4d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65192$7036236B-5919-4B5E-945D-4852C4FD76DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141767",
+              "numeric-id": 141767
+            }
+          },
+          "hash": "d9d88a29112a84f7892b553966a2c1070bcb411b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65192$D5426612-6C6A-4B63-854D-058F8276B168",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141765",
+              "numeric-id": 141765
+            }
+          },
+          "hash": "888b742fd4643481772ac7b4b7bcc991082c9079",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65192$6C50E026-753B-452D-A31C-FA2B7B585E7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65192$128D46D4-A0D4-4D40-997A-0783CF73DBF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q65192$E2EC949D-4406-4CF2-9B73-1A22387D895A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65225",
+              "numeric-id": 65225
+            }
+          },
+          "hash": "d6ceac82b9bf7d0993ed670b5aa888e3fca0dfab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65192$4EE80ED7-FE86-4D7E-8BDA-65E30F18312D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66425",
+              "numeric-id": 66425
+            }
+          },
+          "hash": "c8f3ebfd67d0f15220f2b5bbb87c7cf66c2ce1d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q65192$7CB30BDD-931F-4F75-9355-4EC6B65BA941",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66455",
+              "numeric-id": 66455
+            }
+          },
+          "hash": "4d140304d60710eaaaccee6043451842dd42e574",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65192$AEBCF774-7D04-4E2B-A0EA-47FDB81D9B90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141756",
+              "numeric-id": 141756
+            }
+          },
+          "hash": "63573bb42f717874201930d4d779af8e9f38a027",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65192$8F63A9AA-9422-406D-A064-1D0D829CC8A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q65192$E038368E-7EAE-4A6D-9736-98027DF93289",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65192$2D37BC0A-8F49-457A-AD1E-E80DAB0E3242",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12275936"
+          },
+          "hash": "a4a9f9aa91597aeacac0b335ebe4eac493fa6a04",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q65192$6E89D399-1618-460E-BA37-2F4901CFFE22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828382719"
+          },
+          "hash": "0dd0c45f1fc667e9e254894a1fc779749a83cba7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65192$96F2CCB1-A9F0-449E-A2D9-54E96E89DA01",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Annianus Verus Arms.svg"
+          },
+          "hash": "8d6554282231c5ebe82ebfeff0b0944bd764c66b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Konsul 146"
+    },
+    "en": {
+      "language": "en",
+      "value": "brother-in-law of Marcus Aurelius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 146"
+    }
+  },
+  "id": "Q65192",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Аниан Вер"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gaius Annianus Verus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Annianus Verus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Annianus Verus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Anniano Vero"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Annianus Verus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Anniano Vero"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Annianus Verus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Анниан Вер"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Уммідій Квадрат Анніан Вер"
+    }
+  },
+  "lastrevid": 17475550,
+  "modified": "2025-09-16T16:13:40Z",
+  "ns": 860,
+  "pageid": 80023,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q65192",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q65192"
+    }
+  },
+  "title": "Item:Q65192",
+  "type": "item"
+}

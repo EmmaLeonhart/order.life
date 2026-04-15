@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Yikang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q75341$8506E35C-88E3-4A99-B5CD-17A4214CFA7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75341$31A8FDFC-A70A-417E-A011-7A79C5E66872",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75341$EF746F76-BEDE-4B42-967B-944FD4D583FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75302",
+              "numeric-id": 75302
+            }
+          },
+          "hash": "896e177f4a0497c2f239c436e419b90232130925",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75341$EE4C91C4-FBD9-43ED-96CF-F9A487DF250B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q75341$ABF90A08-2FD6-475A-8049-184185A1A3FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0409-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "72f2785f3884ac8012948108bdaef271aa6d2f12",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75341$9DA9FCBE-083C-402A-8830-C6AB3DA124C1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0451-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e851e939cd07d7aae703659c10030be5862cb0af",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75341$79F03022-91EE-4237-B4DD-E845DD6D6C9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q279707"
+          },
+          "hash": "37bb146167b9f1ea517cbe4d21e9d5b88d923926",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q75341$6F4D7417-F029-487F-9335-6DE8611E2EDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074733058855"
+          },
+          "hash": "44e7ab2bbc88822271372895e279f635868f4dc4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75341$ECA00313-808F-4D1B-B8CE-82CE28D3B08F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Yikang Arms.svg"
+          },
+          "hash": "ddeda517ecfd85768a9a70ffc7feecc253569ff0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese chancellor (409-451)"
+    }
+  },
+  "id": "Q75341",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Yikang"
+    },
+    "da": {
+      "language": "da",
+      "value": "Liu Yikang"
+    },
+    "de": {
+      "language": "de",
+      "value": "Liu Yikang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Yikang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Yikang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Liu Yikang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "劉義康"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "류이캉"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉義康"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Yikang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лю Икан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Liu Yikang"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lưu Nghĩa Khang"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "劉義康"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "刘义康"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘义康"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉義康"
+    }
+  },
+  "lastrevid": 17488538,
+  "modified": "2025-09-16T19:17:44Z",
+  "ns": 860,
+  "pageid": 90172,
+  "sitelinks": {},
+  "title": "Item:Q75341",
+  "type": "item"
+}

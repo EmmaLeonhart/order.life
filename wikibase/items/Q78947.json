@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iolaus"
+      },
+      {
+        "language": "en",
+        "value": "Iolaus, Nobleman of Macedonia"
+      },
+      {
+        "language": "en",
+        "value": "Iolas"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73928$40D70810-0501-4F1F-AB82-B81A91398DBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73830",
+              "numeric-id": 73830
+            }
+          },
+          "hash": "d392baa8341bfca429dd14b03802281564b5473c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73928$E0618BB9-5308-4708-9558-341CDD572C9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73931",
+              "numeric-id": 73931
+            }
+          },
+          "hash": "afa59d7cc23e2cd5037f421bd64479cb115238a4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73928$DB16F789-4D08-4945-86E8-A932D9FA32C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73928$141D4EAE-3798-4DE0-A5EB-C6E3231B9BA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73928$72033261-ED2F-4BE0-A6B9-5B0966960737",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73928$78E8E51A-9941-4CAD-9B86-0A5355ABAE59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113834692"
+          },
+          "hash": "a63362c7331346a1d8d72553ae181df9dcda08a7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73928$C8C8A0FE-9EA1-4FA5-991C-07A0C5D3725B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645859805"
+          },
+          "hash": "273b92fd02a3fd3117a6b42c2f68828ad5b2e0d3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73928$0B13C49F-15BC-42A1-9895-6A75C3A5F5F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iolas Arms.svg"
+          },
+          "hash": "eef4d9e1d691d41ec24b4c9ea53a6ec1849ce2e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Macedonian noble, father of Antipater and Cassander"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble macedonio, padre de Antípatro y Casandro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble macédonien, père d'Antipater et de Cassandre"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile macedone, padre di Antipatro e Cassandro"
+    }
+  },
+  "id": "Q73928",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Iolas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιόλας ο Μακεδόνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Iolas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yolas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Iolas"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ioλλας"
+    },
+    "it": {
+      "language": "it",
+      "value": "Iola"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iolas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Iolas den makedonske"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иолла"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іолла"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Iolas"
+    }
+  },
+  "lastrevid": 17486738,
+  "modified": "2025-09-16T18:53:23Z",
+  "ns": 860,
+  "pageid": 88759,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73928",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73928"
+    }
+  },
+  "title": "Item:Q73928",
+  "type": "item"
+}

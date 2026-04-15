@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Akimoto Chikatomo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q63328$721BD83A-5B5E-42FE-BB27-4C181BF2EE6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63328$9C455E34-0C7D-4B25-9D07-9E4CA7D2DDD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63328$5942CF92-4BFA-4C67-9DE2-5B81B4D8BA23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57617",
+              "numeric-id": 57617
+            }
+          },
+          "hash": "ea1884906580e040ee7c60858ef537f6fff66884",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63328$6755EABD-EBCB-43EA-A88C-FF44F90C7826",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63328$EF0D47BF-5ECF-4B89-8512-FC38790CE727",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1776-05-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09a4b8668a55b7c29fab825e94eddff7975cdb6a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63328$8AA34591-438D-4ABD-B167-CBAE85132C7C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1800-12-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b797e5a76d521ea33e6ee3cd96466a204271a51a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63328$FD3B7605-A350-4331-ADB2-9C387B7B2755",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11594859"
+          },
+          "hash": "b8134194e3604f69b6ffe82205c8d191fee492de",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63328$BD44970A-DF5D-4D8C-BB2C-6374076E5661",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Akimoto Chikatomo Arms.svg"
+          },
+          "hash": "cb58cadc0fbeb6adfaffa8acfb244ae11c602580",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q63328",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Akimoto Chikatomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "秋元知朝"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тикатомо Акимото"
+    }
+  },
+  "lastrevid": 17473352,
+  "modified": "2025-09-16T15:40:19Z",
+  "ns": 860,
+  "pageid": 78159,
+  "sitelinks": {},
+  "title": "Item:Q63328",
+  "type": "item"
+}

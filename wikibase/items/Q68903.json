@@ -1,0 +1,457 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Johann Sebastian Paetsch"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68903$8400AFF7-ED41-4D49-84FF-14F3C257B0C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68906",
+              "numeric-id": 68906
+            }
+          },
+          "hash": "5bc92a973ead2d0ae92991dfc67bfd412aeaf1d6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q68903$2C8A8508-2D01-4F90-944F-5B39148098E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Paetsch-1"
+          },
+          "hash": "a44687e9d0753812819bf69c78713abd00a66d6b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68903$27EBA2E9-539F-46C6-9094-F6E6A4ACBB0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68903$75AE2A6B-9F60-46DF-9C7D-6DAF4004268A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q68903$1A32F8DD-6606-455B-9B7C-65709D3F074E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51993",
+              "numeric-id": 51993
+            }
+          },
+          "hash": "769b89a022e0fa066de05ed56322e3946d28ffa6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68903$4A2F53EB-FE91-415C-A538-B45C0ABDF4FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73657",
+              "numeric-id": 73657
+            }
+          },
+          "hash": "8af8d3a00c54bea17f3f8a7bb5a350fbd4191cc5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q68903$E134F209-4D95-4943-9684-EA9CA7B2F2D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73660",
+              "numeric-id": 73660
+            }
+          },
+          "hash": "3d710eceea958d68c4461d25858faf57a82f5a0a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68903$E470714C-F0CE-4E00-80C1-E1F1F68E831F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68903$D7FEEA79-ED4C-4C7B-9EAD-E9BBC73EAAF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1964-04-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e52622dac8576cbb7f77326211d0080c5c8316e9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68903$082311DC-0715-4E7C-B252-0422DC96E50A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6216250"
+          },
+          "hash": "78b83ef18eb48c94185a085e893ea7766e1cb79f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q68903$11D49797-49E4-43C6-96F2-E04D931F9694",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000046613142096"
+          },
+          "hash": "6bf69faa8d81c540f80a4e81501f8d372d4a1b0d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68903$53FB4F6C-8865-4CB8-BD18-A766A981D40F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Johann Sebastian Paetsch Arms.svg"
+          },
+          "hash": "b2c38c83f7ffdf6bffa77f338c2eb54cc3a5411f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "موسيقي أمريكي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "músicu estauxunidense"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মার্কিন সুরকার"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "músic estatunidenc"
+    },
+    "en": {
+      "language": "en",
+      "value": "American musician"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "usona muzikisto"
+    },
+    "es": {
+      "language": "es",
+      "value": "músico estadounidense"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ameerika Ühendriikide muusik"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "yhdysvaltalainen muusikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "musicien américain"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "ceoltóir Meiriceánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "músico estadounidense"
+    },
+    "he": {
+      "language": "he",
+      "value": "מוזיקאי אמריקאי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "američki glazbenik"
+    },
+    "io": {
+      "language": "io",
+      "value": "Usana muzikisto"
+    },
+    "it": {
+      "language": "it",
+      "value": "violoncellista e musicista statunitense"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アメリカのミュージシャン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미국 음악가"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "musiciste american"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amerikaans muzikant"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "musiko merikano"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "muzician american"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "muzikant amerikan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "американський музикант"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "nhạc sĩ người Mỹ"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "musigan Lamerikänik"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "美國音樂家"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "美国音乐家"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "美國音樂家"
+    }
+  },
+  "id": "Q68903",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "چوهان سيباستيان پايتستش"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "da": {
+      "language": "da",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "es": {
+      "language": "es",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "it": {
+      "language": "it",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハン・セバスチャン・ペイチ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johann Sebastian Paetsch"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Johann Sebastian Paetsch"
+    }
+  },
+  "lastrevid": 17480372,
+  "modified": "2025-09-16T17:23:30Z",
+  "ns": 860,
+  "pageid": 83734,
+  "sitelinks": {},
+  "title": "Item:Q68903",
+  "type": "item"
+}

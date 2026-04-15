@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Dading"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71129$321EAAA2-0396-4DB1-9962-85C1AF2A45B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75945",
+              "numeric-id": 75945
+            }
+          },
+          "hash": "383a23fa77288cc16bdd0ada6e7508a55c313424",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71129$018DC15F-D7EE-47EC-94F9-4EB9DB2EDB08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75948",
+              "numeric-id": 75948
+            }
+          },
+          "hash": "604a1f6d5ef4d1b374a6d1ea38687b3b3ca202f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71129$FECAE757-C908-4760-BFF9-4E179381AC63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71129$F6366968-5FB6-4F5A-ACA6-9E157E9D4689",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71129$D8390270-0517-4B81-8586-B9E254405ED2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66240",
+              "numeric-id": 66240
+            }
+          },
+          "hash": "eb273970a3843eacc967194a165e570b142644f4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71129$1C6F65E9-BEA0-4E25-B87A-52D3D55D2E7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71129$775C442B-9329-48F3-9A5D-8C1E687902BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0566-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7716d8fe4bffd912393fb9dab7efb9f4af5a43a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71129$A8B1DBB9-016C-44FE-BFD9-372697541B32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45638768"
+          },
+          "hash": "95a1f3078d5e7446742ad3f8cc7c0600e3ae356f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71129$E943B68A-FC61-490E-891B-A444F0AF1E29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Dading Arms.svg"
+          },
+          "hash": "82ac95678b00611622730eada1544455b04f79b5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 180461"
+    }
+  },
+  "id": "Q71129",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Dading"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Dading"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Dading"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛大鼎"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Dading"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛大鼎"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛大鼎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛大鼎"
+    }
+  },
+  "lastrevid": 17483172,
+  "modified": "2025-09-16T18:03:04Z",
+  "ns": 860,
+  "pageid": 85960,
+  "sitelinks": {},
+  "title": "Item:Q71129",
+  "type": "item"
+}

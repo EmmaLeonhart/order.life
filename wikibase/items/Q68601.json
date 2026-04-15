@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nobumichi"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q68601$7311878B-98B1-47B5-85FA-D6DBD118718D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-14"
+          },
+          "hash": "5fd29ba4058493bff8d4b0d426f17494aac4e402",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68601$36E7C400-886A-4529-9A73-97A375CA9116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68601$6E7F7F46-3328-4988-9D5C-82350FDD095A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q68601$8AF544BC-E993-4943-810C-7E2ECB504F2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63063",
+              "numeric-id": 63063
+            }
+          },
+          "hash": "09d195cc57a3bd3042bc6d660b3edd71e2ba5b54",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68601$54FF2A87-70F0-4216-98C2-980ADA773783",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63066",
+              "numeric-id": 63066
+            }
+          },
+          "hash": "a4c21c67f4a10502f70ba5040365993800bc241b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68601$36C3E3AA-9CAB-4597-AA9A-F449797E61A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68601$06FF085F-0121-4255-9122-A266533ECEC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1819-12-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a304bc428319774fa8279587ac31337353c28f39",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68601$F077C837-AEF1-45CB-881B-DC20D9EF3164",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1891-02-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "15d9460b4419a57a8e85bd90c76e314ccaeaec58",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68601$8D2C68B4-6FEC-4F49-91A4-E8D0C8A492AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514709"
+          },
+          "hash": "e473f498794b0c6b2878539509264a54e7529791",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68601$98B87074-2AF8-4E21-801A-78A2A42F15FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nobumichi Arms.svg"
+          },
+          "hash": "3c7fd7a97a80e2ee8e00e7d1eb673e2ab7017a60",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "19 Dec 1819 - 3 Feb 1891"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代後期～明治時代後期の大名"
+    }
+  },
+  "id": "Q68601",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oda Nobumichi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田信学"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오다 노부미치"
+    }
+  },
+  "lastrevid": 17479996,
+  "modified": "2025-09-16T17:18:18Z",
+  "ns": 860,
+  "pageid": 83432,
+  "sitelinks": {},
+  "title": "Item:Q68601",
+  "type": "item"
+}

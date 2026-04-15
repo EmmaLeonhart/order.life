@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yoshida Takayori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q57965$AFCEC1C9-B757-4B8A-B411-B12CF9EBE5EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57965$4938BCF7-D079-45D1-95ED-BEC69CB0C8DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q57965$BBE5CE7E-9336-4B9F-868A-794DBD1EC409",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50507",
+              "numeric-id": 50507
+            }
+          },
+          "hash": "ac26e272dd4706a6dccfb645f86be65f88b75adf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57965$1719A3D1-44E6-430A-9644-92CEB95B0911",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57965$22A20FDF-AFD2-4382-8BF5-83F1B159672D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1494-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dccf3266f22ccea7bb24a781d35351029a3d6dbb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57965$58D0919A-765D-412B-A995-B839EEBA11CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1563-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "72c1d2d97ad0024e3816cc880482b1f75fe3694d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57965$013F7425-96E3-4953-BBEA-4C661EABB3F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11413700"
+          },
+          "hash": "59ad258e2c737d20023ed2b5604862821c8d6e0c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57965$866A1BBE-D455-4E47-9DEE-0E45DC99DF1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yoshida Takayori Arms.svg"
+          },
+          "hash": "5c46c3b313e9706952641108f1dbadcf328812d7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本戰國時代的武將"
+    }
+  },
+  "id": "Q57965",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yoshida Takayori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "吉田孝頼"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такаёри Ёсида"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "吉田孝賴"
+    }
+  },
+  "lastrevid": 17466656,
+  "modified": "2025-09-16T13:58:20Z",
+  "ns": 860,
+  "pageid": 72796,
+  "sitelinks": {},
+  "title": "Item:Q57965",
+  "type": "item"
+}

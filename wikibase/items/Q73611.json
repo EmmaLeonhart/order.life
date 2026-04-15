@@ -1,0 +1,654 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arsinoe I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73611$6D332DA8-8D53-48AA-8AB6-B1FFA40134DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351146"
+          },
+          "hash": "c4cdc49dfca19f5f217ebb420191d1a543eaf1bf",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73611$052033F8-57BF-4AC1-8150-F86EB1E83131",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567191"
+          },
+          "hash": "f92eb6c5b941f691fde08817a022de32f825cfe4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73611$C594C446-7C34-4187-944C-997757264E3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73491",
+              "numeric-id": 73491
+            }
+          },
+          "hash": "5a78708cbff97b215466dfef9dfae4c0bd729fb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73611$16DB7513-3EE7-4F66-8AE0-6B7B6CB13C88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135337",
+              "numeric-id": 135337
+            }
+          },
+          "hash": "f7fa98fefe4e97f549d7076a59482667e4ad5715",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73611$518B9BEC-061D-4C57-A5FD-86214D413D04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135338",
+              "numeric-id": 135338
+            }
+          },
+          "hash": "60a4f4b4414b2ebde9edf95864742a9ed0f656d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73611$986DD9AA-41B5-4C23-AAA2-976D3F89844D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165155",
+              "numeric-id": 165155
+            }
+          },
+          "hash": "d7e9979eb96bffcfe38c037b06d445696fc2512f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73611$5C87DB8A-FBCE-44F9-9576-BCB2EF923424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165449",
+              "numeric-id": 165449
+            }
+          },
+          "hash": "12e5b70f063f8df3ec4c0cf7cf79b8994d8d6e2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73611$1C95CF89-08A7-412F-AA83-518A7C691C97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73611$BA4AAD9C-4E52-4B0B-985E-78A12C36FE35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73611$6D77BFE6-61A7-4BB6-9214-312BA385EC0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73614",
+              "numeric-id": 73614
+            }
+          },
+          "hash": "16ef79d456ca203f91964cce0bdfc7ddc062ee6c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73611$E7C9C890-0BF0-4F0C-B47A-2AAA843C0D77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73722",
+              "numeric-id": 73722
+            }
+          },
+          "hash": "6fff804df3870fe90e971fc5c0cfbdc1fc435f78",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73611$AA027AE4-77DA-4F48-A733-CD8C91B31178",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73725",
+              "numeric-id": 73725
+            }
+          },
+          "hash": "06a20fb406729eaf25b1db9a3e5eb290b0c66c9e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q73611$EC69BEC5-5927-46A7-9E06-3038674C9E46",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Queen of Greece, Queen of Egypt"
+          },
+          "hash": "bc953edaae65eac730476343e7f8a56196dd6ee5",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73611$A138E64B-439F-4103-93B5-F0F31614323F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73611$AE7E044F-0D2E-4EC8-A0A9-605C758E4140",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0305-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2202810526ff09d9bbcea6cd2f2b982a1ccf26f5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73611$F1902420-2884-4B2D-B166-5B9933BFE5E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0248-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "485f2d051b0aa377efe13c737ffe686e5c93b00f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73611$47294753-CC65-4D48-9938-7270A7412B49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q231668"
+          },
+          "hash": "9ab08f9b0a5941524316387d460db7f99d6a6626",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73611$ADEE5F6A-DD10-4958-BB35-44DA6B4324B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008630613100"
+          },
+          "hash": "2a70e324ba53f31ef59c8edbb6223add98ba1284",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73611$0C00648C-BF98-4EF1-961A-3A0C5BCCBCC7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsinoe I Arms.svg"
+          },
+          "hash": "2224e56aadb35a9070be71f7b012d199d5a08f0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة مقدونية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ملكه مصريه من البطالمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "egyptská královna choť"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Königs Lysimachos, Gattin und Mitregentin des Ptolemaios II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Egyptian queen consort"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina del antigüo Egipto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine lagide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Lisimaco, moglie di Tolomeo II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス朝エジプトのファラオ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ex-rainha-consorte do Egito Ptolemaico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ex-rainha-Consorte do Egito Ptolemaico"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nữ hoàng cai trị Ai Cập Cổ đại dưới thời nhà Ptolemy"
+    }
+  },
+  "id": "Q73611",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أرسينوي الأولى"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارسينوى الاولانيه"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Arsínoe I"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арсіноя I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Арсиноя I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arsínoe I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Arsinoé I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Arsinoë I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρσινόη Α΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsinoe I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsínoe I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Arsinoe I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرسینوئه یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Arsinoë I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arsinoé Ire"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Arsinoe I"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארסינואי הראשונה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Arszinoé"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արսինոե I"
+    },
+    "id": {
+      "language": "id",
+      "value": "Arsinoe I dari Mesir"
+    },
+    "is": {
+      "language": "is",
+      "value": "Arsinóe 1."
+    },
+    "it": {
+      "language": "it",
+      "value": "Arsinoe I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルシノエ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არსინოე I"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Arsînoê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Arsînoê"
+    },
+    "la": {
+      "language": "la",
+      "value": "Arsinoë I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arsinoe I av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arsinoë I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Arsinoe I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arsínoe I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arsínoe I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арсиноя I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arsinoja I od Egipta"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Arsinoja I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Arsinoe I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Арсиноја I"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Арсиноја I"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Arsinoja I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Arsinoe I"
+    },
+    "th": {
+      "language": "th",
+      "value": "อาร์ซิโน่ที่ 1"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арсіноя I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Arsinoe I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔西诺伊一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿尔西诺伊一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿尔西诺伊一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿爾西諾伊一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿爾西諾伊一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿尔西诺伊一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿爾西諾伊一世"
+    }
+  },
+  "lastrevid": 17486400,
+  "modified": "2025-09-16T18:48:26Z",
+  "ns": 860,
+  "pageid": 88442,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73611",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73611"
+    }
+  },
+  "title": "Item:Q73611",
+  "type": "item"
+}

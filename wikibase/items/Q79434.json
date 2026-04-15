@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan He"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q79434$FB45C5D4-0125-48EF-ABD7-D8D687795E57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74751",
+              "numeric-id": 74751
+            }
+          },
+          "hash": "be6cae82f6a5a305b03fd047ca8d3be2b3cd11c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q79434$DD878F7D-22CB-414A-BF48-53FCEE641F9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79434$8B9D20C3-7F83-441C-BFC6-7DBD63D0ED8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q79434$6A942AAD-30A2-4C9B-87DC-982C0EA9C7DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q79434$3ECFC3FA-1776-4215-8F98-AF6B4492EDC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0403-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "50c227397203f2eb8e124adc8c9f69e679bef2c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q79434$C4F68725-29DA-45A2-B035-48A457D7805D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0479-10-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7537f400cb02263ce51799d5693d2fd3aed35fcd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q79434$0EC32694-5C10-4126-B250-630FB2ECCC5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1092518"
+          },
+          "hash": "ac920c5882161720449a49d2d10ae442fe769aec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q79434$82C6AF9E-CE83-4D97-BFF6-53EEF020E6ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075373406822"
+          },
+          "hash": "c966d24f273d5bd113cf60e85eb60847bdd2fe4f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q79434$BF835E38-1462-4215-8BF2-DE6401E5A222",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan He Arms.svg"
+          },
+          "hash": "6cb2ed0205cf4517e50b741a3dc132a23bbd43b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei general"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南涼から北魏の軍人・政治家。本貫は西平郡楽都県。北魏の隴西王。追贈侍中・太尉。"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nhân vật lịch sử"
+    }
+  },
+  "id": "Q79434",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuan He"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yuan He"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuan He"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yuan He"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yuan He"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yuan He"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源賀"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "源賀"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yuan He"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Yuan He"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nguyên Hạ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源賀"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "源贺"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "源賀"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源賀"
+    }
+  },
+  "lastrevid": 17493557,
+  "modified": "2025-09-16T20:28:56Z",
+  "ns": 860,
+  "pageid": 94265,
+  "sitelinks": {},
+  "title": "Item:Q79434",
+  "type": "item"
+}

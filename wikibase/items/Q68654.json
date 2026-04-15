@@ -1,0 +1,302 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Naokata"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68654$6FDB0F02-A44F-40E2-BF5E-2943FCCB9718",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63277",
+              "numeric-id": 63277
+            }
+          },
+          "hash": "46491c4d33fb08f0e107e6b78acb12a0fda06387",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68654$BA695E32-795A-4C8B-8598-61CA11582030",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63147",
+              "numeric-id": 63147
+            }
+          },
+          "hash": "90663d045701b0b9eeb0619667595d4987e49ee3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q68654$9518B892-10D1-43B6-B8C0-A0788807EA8B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "前田-34"
+          },
+          "hash": "329b7804689b9870c8afa6ec1482e7d2f873ea6f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68654$36512F09-8884-46F2-855C-5CA2F43A86CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68654$BCF01765-2C11-4374-86BB-FD4AFD4A94C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q68654$E7C13072-66DC-4E9B-8BBF-DAAC14D67AFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64033",
+              "numeric-id": 64033
+            }
+          },
+          "hash": "d46ddd573a1a7681aea1cebe7fab4314d4a726bf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68654$19D3E688-4470-4238-AD83-B137B14BAE69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73480",
+              "numeric-id": 73480
+            }
+          },
+          "hash": "c9a134998467dc65703975fe203608fcdbfa2a8a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68654$736F14C1-F77B-4319-8A6B-F5893361D1B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68654$7797039E-0344-42C2-8F50-77EBA1D64EC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1858-10-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "102fa4a9cbb18562c741ede2cb6dce436f54d923",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68654$4B7C9894-302B-4D67-BF24-00510B2612B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1907-04-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a4cd802f8884abae45d6d1ab0c0f8f4e98b83e0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68654$4DEC182C-BE74-4CB4-8C97-25FDB41AA9DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530532"
+          },
+          "hash": "610b44029a7c3a8d56c13f935094c8fe89935c0d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68654$35890C07-142F-4285-A7D5-6FC7C9249514",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Naokata Arms.svg"
+          },
+          "hash": "9a800b3786550c23040c84a53b212b6f3873fa4c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[松平直方] daimyo of the early Meiji period; dominal governor of Maebashi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明治期の大名、華族。前橋藩知事（最後）。"
+    }
+  },
+  "id": "Q68654",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Naokata"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Naokata"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Naokata"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Naokata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平直方"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "松平直方"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "松平直方"
+    }
+  },
+  "lastrevid": 17480066,
+  "modified": "2025-09-16T17:19:15Z",
+  "ns": 860,
+  "pageid": 83485,
+  "sitelinks": {},
+  "title": "Item:Q68654",
+  "type": "item"
+}

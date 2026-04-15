@@ -1,0 +1,270 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Shi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q60811$83C3D757-1ADA-4A5B-845C-07EA4AFA6993",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66657",
+              "numeric-id": 66657
+            }
+          },
+          "hash": "8d8e0837ee1c5fdbad15118732e90f2150ea1dfd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60811$1BF58E1B-7AB9-46E3-A4FE-2B68D0E29AEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60811$4EDD9C54-A906-4894-9491-65F87F500E3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q60811$93713830-EDBD-45EA-A031-D993D35B2A95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66654",
+              "numeric-id": 66654
+            }
+          },
+          "hash": "70b0de29a52362c6e2b65dc8cd8f22d6a591391c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60811$4A39A672-9054-4A2E-90BF-A2A7A62B8F4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54022",
+              "numeric-id": 54022
+            }
+          },
+          "hash": "44e5c3164e91d0459beca2c2e211527e0039ed0a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60811$6B606BD9-968D-4BB1-BA6B-287998849A40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60811$AF99D1B4-869C-49BB-9DA4-057122C1903A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0682-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "efe9ab6582b03ae709e91f7ecd20ee30526677fd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60811$4472B7C3-F860-4803-A9DE-13E9F9AB0020",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0752-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d0d1889feae52f0a6e8623843ad2a01d409c5e8f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60811$0E51521F-461E-43EB-B09D-9001BD173906",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65803048"
+          },
+          "hash": "23d35df57f25974b5c672bf5255ccbe4c80cff69",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60811$1058656D-C90F-4F03-9560-92749A71118D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Shi Arms.svg"
+          },
+          "hash": "a78ebfe013fc4f39ac58ed6a4c4794e2f7f03535",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daughter of Yang Lv Yan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊履言女"
+    }
+  },
+  "id": "Q60811",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Shi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Shi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Shi (hija de Yang Lv Yan)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Shi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊氏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨氏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊氏"
+    }
+  },
+  "lastrevid": 17470130,
+  "modified": "2025-09-16T14:50:44Z",
+  "ns": 860,
+  "pageid": 75642,
+  "sitelinks": {},
+  "title": "Item:Q60811",
+  "type": "item"
+}

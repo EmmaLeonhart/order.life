@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tong Yabghu Qaghan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q75062$1717E6A4-D4E7-4269-902D-368FC8ABE17B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q79810",
+              "numeric-id": 79810
+            }
+          },
+          "hash": "191bb1cd445d50cacff7d79dd570760fc0cc8988",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75062$9BAFDFD9-640E-4A56-9BD9-C331E8D209CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q79813",
+              "numeric-id": 79813
+            }
+          },
+          "hash": "286745fedfcd53a1f08c37f2f3d51de4cb04cb84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75062$A0D4E558-FC0D-4A65-8899-2974F01C052D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75062$0FE52C11-452F-4024-9DD3-0FF2C369EF00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75062$E97DD289-47A5-4DAA-9853-21B649DACC4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70459",
+              "numeric-id": 70459
+            }
+          },
+          "hash": "82a416ed18a4853da6bc4278aa127c45485e4a03",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75062$1B056ED4-70DE-4AFA-8FD1-E20E92116FEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75062$78101365-E1C8-42DB-88D2-38CF109759B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0630-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "29f605b51bb0c4cabeaa50df831f40aa1033b3ed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75062$FB70401D-35C8-4B80-AB62-76D9ABC54148",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q191267"
+          },
+          "hash": "ba3ff7c7890d54a59d2d0327366e9b18de1d2292",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75062$3A036629-0103-41E4-86BF-60E32FF232F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tong Yabghu Qaghan Arms.svg"
+          },
+          "hash": "9788cb4b5925f68d2d3554e99b09f795b5ca6a3a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "gran kan dels turcs occidentals des del 618 fins al 628"
+    },
+    "en": {
+      "language": "en",
+      "value": "Was khagan of the Western Turkic Khaganate from 618 to 628"
+    }
+  },
+  "id": "Q75062",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تونغ يابغو"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tonq Yabqu xaqan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "تونق يابقو خاقان"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тун Джабгу хан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tong Yabghu Qaghan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tong Yabghu Qaghan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tong Yabghu Qaghan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tong Yabghu Qaghan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تون جبغو خان"
+    },
+    "he": {
+      "language": "he",
+      "value": "כגן טונג-יבגהו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tong Yabgu Khagán"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "統葉護可汗"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჯაბღუ"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Тун жабғу"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tong Yabghu Qaghan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ziebel"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ziebel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тун-Джабгу хан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tong Jabgu Kagan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tong jabgu kagan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tong Yabgu Kağan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тун-Ябгу-каган"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Tun yabgʻu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "统叶护"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "统叶护"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "统叶护"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "統葉護"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "統葉護"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "统叶护"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "統葉護"
+    }
+  },
+  "lastrevid": 17488168,
+  "modified": "2025-09-16T19:12:43Z",
+  "ns": 860,
+  "pageid": 89893,
+  "sitelinks": {},
+  "title": "Item:Q75062",
+  "type": "item"
+}

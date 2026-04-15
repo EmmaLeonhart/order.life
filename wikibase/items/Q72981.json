@@ -1,0 +1,638 @@
+{
+  "aliases": {
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Publi Licini Cras"
+      },
+      {
+        "language": "ca",
+        "value": "Publi Licini Cras Dives"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Publius Licinius Crassus"
+      },
+      {
+        "language": "de",
+        "value": "Publius Licinius Crassus Dives"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius /Licinius-Crassus/ consul 171 BC"
+      },
+      {
+        "language": "en",
+        "value": "Publius Licinius Crassus Dives Mucianus"
+      },
+      {
+        "language": "en",
+        "value": "Publius Licinius Crassus"
+      },
+      {
+        "language": "en",
+        "value": "Publius  Licinius-Crassus"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Publius Licinius Crassus"
+      },
+      {
+        "language": "fr",
+        "value": "Publius Licinius Crassus Dives"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Publio Licinio Crasso"
+      },
+      {
+        "language": "it",
+        "value": "Publio Licinio Crasso Dives"
+      }
+    ],
+    "la": [
+      {
+        "language": "la",
+        "value": "Publius Licinius C.f. Crassus"
+      },
+      {
+        "language": "la",
+        "value": "Publius Licinius Crassus Dives"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Публий Лициний Красс"
+      },
+      {
+        "language": "ru",
+        "value": "Публий Лициний Крас Дивс"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Публій Ліциній Красс"
+      },
+      {
+        "language": "uk",
+        "value": "Публій Ліциній Красс Дівіт"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72981$FFB45596-B814-450A-8853-79B549B5369F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736056"
+          },
+          "hash": "672cff8883c1fd0f0140fc4c75be704d828bfd12",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72981$FDB855CC-5269-4383-BC82-0D50E6A44FD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72831",
+              "numeric-id": 72831
+            }
+          },
+          "hash": "60ae315eaf20bda20af7c3fa604c29b198574d42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72981$1FBABFBD-A39D-4134-B8B3-C352E9BA21EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73260",
+              "numeric-id": 73260
+            }
+          },
+          "hash": "e70f81e56f5b92e290c11223d00ec67f41d43bcb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72981$E7AD75BF-FC90-4C5C-B34A-332E0A1DF9B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72981$49986211-B25E-410A-A46D-22FB829F6DC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72981$18DA4E46-FDC6-468C-AE38-76C6AD0CE57D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73407",
+              "numeric-id": 73407
+            }
+          },
+          "hash": "bf93f6b7425df2474b52b38ad2e8e5f678f83d40",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72981$DB918BE0-1C2E-45F4-9456-93ED22A95DCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78755",
+              "numeric-id": 78755
+            }
+          },
+          "hash": "c5bbb70c5bd91780f4a7f09526baee7b2c6026c8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72981$F814C946-D197-43CB-A755-5FF4DB82137A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72972",
+              "numeric-id": 72972
+            }
+          },
+          "hash": "bda955b1cbb39a981cffb9ee244cac544a403034",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72981$CDF8E553-1E1F-4E4B-A8DF-D05AFB3E5B84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72969",
+              "numeric-id": 72969
+            }
+          },
+          "hash": "cd45c5a31128163d72cabb380631e36834d8b043",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q72981$596E9983-9D56-48FA-A54E-93203FEF772A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Publius /Licinius-Crassus/"
+            }
+          },
+          "hash": "401ca011316ac038c18f6ef0dab5a4373e834edb",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q72981$9C4487C6-93B6-47A8-905E-C1A9604B78F2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "consul 171 BC"
+          },
+          "hash": "43b114951d25a7cdda1778fb3f28bb7e4d027918",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72981$37E3B29B-DE3A-4BA2-9827-80BBD0A1AC61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72981$C574FD2D-8495-44CE-944B-ECFDE05A0550",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72981$220DFC81-9744-41C0-9572-C32178CFF6A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "416501a638819f3103b4303b252b7e68a125ff4a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72981$DD6F3D8E-48A2-4DD0-9028-3B2F8645B850",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20100913"
+          },
+          "hash": "9fafda8aa3c2cdd0f28a4b454e3440fd6a8a8bb1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72981$B47BCC7D-CBFD-47CC-BF4E-2EB850B34353",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q746582"
+          },
+          "hash": "89ae9dd7196c459da1327a173b603ea50c375c36",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72981$790703C6-FE35-45BA-90FF-8A0127392516",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000032668355208"
+          },
+          "hash": "6ab07e6a782a261117df3b02c4ece46bbb6986dc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q72981$3F622153-46ED-4145-8D7F-1BAA216DE699",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Licinius Crassus"
+          },
+          "hash": "d5f1a00eb192dac03349854493ea79256a85e3e8",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72981$D578EA94-CBF9-410A-9092-2EFD9FEDBD6B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Licinius Crassus Arms.svg"
+          },
+          "hash": "dec98f8ac9bd680af33e17fcbfc466499e011ea0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 171 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 171 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "ύπατος το 171 π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 171 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "político romano"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antzinako Erromako politikari eta militar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen konsuli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 171 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római konzul"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 171 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 171 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q72981",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Лициний Крас"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Licini Cras"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Licinius Crassus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Λικίνιος Κράσσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Licinius Crassus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Publius Licinius Crassus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Publius Licinius Crassus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Licinio Craso"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Publius Licinius Crassus"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Licinius Crassus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Licinius Crassus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Licinius Crassus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Licinio Crasso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・リキニウス・クラッスス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Licinius C.f. Crassus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Licinius Crassus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Licinius Crassus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Licínio Crasso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Licínio Crasso"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Лициний Красс"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Licinije Kras"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Licinius Crassus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Ліциній Красс"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利烏斯·李錫尼·克拉蘇 (前171年執政官)"
+    }
+  },
+  "lastrevid": 17485614,
+  "modified": "2025-09-16T18:37:22Z",
+  "ns": 860,
+  "pageid": 87812,
+  "sitelinks": {},
+  "title": "Item:Q72981",
+  "type": "item"
+}

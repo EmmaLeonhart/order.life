@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Mi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q64830$5ED8ABED-55B0-451E-9BEB-DD5E61399B4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69927",
+              "numeric-id": 69927
+            }
+          },
+          "hash": "1ed60b6d4f6990c2b1b54aefc05c5313771e038f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64830$2F10C763-6444-4460-925A-75627F86ADC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69930",
+              "numeric-id": 69930
+            }
+          },
+          "hash": "690c84d1b3d86b7887a70897634bc0952ce84c03",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q64830$2ADC2A4D-9BCE-485E-A66F-A6879EB70B2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64830$877AAA13-417E-47B1-B505-58E0BBEE8724",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q64830$5E25FAB6-3068-4AC0-9A7F-B43FCAE858D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59427",
+              "numeric-id": 59427
+            }
+          },
+          "hash": "9458460a54a4ce3fe99f53d28b97db0e0af529e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q64830$4CAA0663-4043-4BA3-9600-FBDD671D7B46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q64830$FE11AD60-39D2-4CFA-9EE7-E8B15B09988F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0772-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "158d6bd9982b08832aec85674c3a4773bd1b97da",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q64830$AEF09DBE-1D06-41B2-88A5-A60BB5F1B28F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45473911"
+          },
+          "hash": "0f2f8a9389823f38f934e9013d9b66f58390bd46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q64830$9F6A5A09-4002-4338-9173-983F17B1271B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Mi Arms.svg"
+          },
+          "hash": "8bd6661c3cda528b20b3e4771eb293a803cac1fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172106"
+    }
+  },
+  "id": "Q64830",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Mi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Mi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇泌"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Mi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇泌"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦泌"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇泌"
+    }
+  },
+  "lastrevid": 17475066,
+  "modified": "2025-09-16T16:06:46Z",
+  "ns": 860,
+  "pageid": 79661,
+  "sitelinks": {},
+  "title": "Item:Q64830",
+  "type": "item"
+}
