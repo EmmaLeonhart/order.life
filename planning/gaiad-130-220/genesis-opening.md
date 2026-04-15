@@ -1,34 +1,25 @@
-# Gaiad 130–220: Topical Content Notes
+# Genesis recast as haplogroup origin — opening of the gap
 
-Free-form vision notes for specific content/episodes inside the
-pre-modern human gap. Vibes-level — concrete chapter assignments come
-later (Emma is explicit that pre-numbering chapters produces garbage).
-Sibling docs in this directory:
-- `structure.md` — registers, seams, super-network architecture.
-- `chronology.md` — flat undifferentiated timeline of events.
+The first several chapters of the pre-modern human gap are **mostly
+haplogroup material**. The Genesis frame is the vehicle: it carries
+the hominin-evolution / out-of-Africa content without either taking
+scripture literally or discarding it.
 
----
-
-## Opening sequence — Genesis recast as haplogroup origin
-
-The first several chapters of the gap are **mostly haplogroup material**.
-The Genesis frame is the vehicle.
-
-### Adam, Cain, Abel, Seth
+## Adam, Cain, Abel, Seth
 
 The story opens with **Adam**.
 
 - **Cain** — treated more like a *draw* than a developed character.
   Emma flags this as unsettled. No patrilineal descendants in this
   version.
-- **Abel** — patrilineally productive *in the myth*: his descendants are
-  framed as the ancestors of the Y-haplogroups.
+- **Abel** — patrilineally productive *in the myth*: his descendants
+  are framed as the ancestors of the Y-haplogroups.
 - **Seth** — carries the third line.
 
 Australopithecus material in this opening zone is also unsettled.
 Needs the genealogy dump before the lineage choices firm up.
 
-### No global flood — Noah is the great migration out of Africa
+## No global flood — Noah is the great migration out of Africa
 
 There is **no Great Flood** in the global sense. What survives of the
 Noah story is recast as the **out-of-Africa migration**:
@@ -43,22 +34,11 @@ Noah story is recast as the **out-of-Africa migration**:
 - **Haplogroup E re-enters Africa by land** significantly later.
 
 The Noah-as-migration framing lets the Genesis narrative do real work
-as a vehicle for haplogroup history, instead of being either taken
-literally or simply discarded.
+as a vehicle for haplogroup history.
 
-### Open: per-haplogroup micro-narratives
+## Open: per-haplogroup micro-narratives
 
 Emma has a stack of per-haplogroup stories. They're partly blocked on
 being able to read through the wiki documentation cleanly — the wiki
 has contradictions and inconsistent coverage. Once the local Wikibase
 dump is integrated tightly enough, these stories can be tightened.
-
----
-
-## Xuanzang — Journey to the West
-
-Covered inside the gap. Likely sits well in the late-mythic / early
-proper-history zone (Tang China, 7th c. CE) — a clean Register C
-chapter that doubles as a Buddhism-from-the-other-side episode and as
-a concrete eastward bridge between the West Eurasian super-network
-material and the looser Asian frame.
