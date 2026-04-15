@@ -15,9 +15,16 @@ desk.
   architecture, tiering of late-mythic cycles.
 - [`chronology.md`](chronology.md) — flat undifferentiated timeline
   of events in the gap.
+- [`must-include.md`](must-include.md) — accountability list of
+  topics the gap definitively owes the reader.
+- [`might-include.md`](might-include.md) — open-candidate list.
 - [`asia-arc.md`](asia-arc.md) — shape of the Asia arc: Aryan entry →
   Hinduism → Buddhism → Mahayana → China → Japan, with China/India
   covered but not at equal intensity; Southeast Asia low-intensity.
+- [`europe-arc.md`](europe-arc.md) — Europe more unified than Asia,
+  gentle tilt toward Britain as terminal node.
+- [`southeast-asia.md`](southeast-asia.md) — uncertain-coverage
+  notes; candidates in might-include.
 - [`japan-emphasis.md`](japan-emphasis.md) — weighting rationale:
   Japanese = sacred language, Gaiad = Kojiki of humanity.
 - [`scope-caveats.md`](scope-caveats.md) — Japan bias is local to
