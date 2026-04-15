@@ -12,6 +12,17 @@ posts one Gaiad chapter per day. Missing chapters = starved stream, so
 chapter-count runway is the load-bearing metric. See `CLAUDE.md` for
 build / calendar / language details.
 
+## Epic shape (rough thirds)
+
+Loose framing for the 364-chapter arc, captured from Emma:
+
+- ~⅓ **evolution** (cosmogony through dawn of humanity, Register A)
+- ~⅓ **ancient-to-medieval human history** (Bronze Age → 1453, the
+  current 130–220 gap)
+- ~⅓ **contemporary** (modern period through the tail)
+
+Emma flagged this as an approximate balance, not a hard division.
+
 ## Chapter status (of 364)
 
 Written (162):
