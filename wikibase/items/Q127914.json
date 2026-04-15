@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wenceslaus of Olomouc"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127914$716CE22E-5ABF-479B-A23A-B2373C1F6A11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "161222"
+          },
+          "hash": "6994067dd6de7f0594f2a60389ad69f6f30abfff",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127914$82F8C588-132F-47EA-A148-A5EA626DA64F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330346"
+          },
+          "hash": "00fe9607867b1c316ba336e098827263bb6b7f71",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127914$F8596E2D-D6BB-4EC5-80BB-DAD5D560E8C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127914$DAF85924-1C45-44A0-8A44-11397400C288",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127914$FC89CE55-7CC5-49F8-A2C9-2EF2B70C4DA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121887",
+              "numeric-id": 121887
+            }
+          },
+          "hash": "17b4822602c24f92cb85fdc8342a83fe9417e72e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127914$DA153102-6213-4874-9710-795FC50A528A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127914$A30AA8BA-0E54-40D5-ACAB-83C96B5483FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1107-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3277ec326e02163d89c5acafcdbe43c29a30abc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127914$A443773C-38F6-468D-BCFD-5E90CE3B1963",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1130-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fa2219742d1be30d72b4fa11d54a5851ec80ace4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127914$9F64D43F-DA42-466E-961E-D335BAC180A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q344969"
+          },
+          "hash": "9b2412bbddc08ee2e828aef43806a33eb576d00f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127914$F29B8BDB-3B9E-49F7-9873-C365E2B88A45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=vaclav;n=premyslide;oc=1"
+          },
+          "hash": "fd4e9da41af6df10a415e59648917085c71b9681",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q127914$3DCC6CFC-5666-44E2-9E2F-76F7F105B16B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.9366"
+          },
+          "hash": "13cf9e5187fb24d1a29425d712363f6078715764",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127914$6D9C86BA-A19C-45EA-BA4A-DACE58A0E107",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wenceslaus of Olomouc Arms.svg"
+          },
+          "hash": "4b94e7ae48fc26991b4ae97621fb17a90fb107e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "český princ"
+    },
+    "de": {
+      "language": "de",
+      "value": "mährischer Herzog von Olmütz (1126–1130)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Czech prince"
+    }
+  },
+  "id": "Q127914",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Václav Jindřich Olomoucký"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wenzel I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Wenceslaus of Olomouc"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Venceslas Heinrich d'Olomouc"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴァーツラフ1世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wenceslaus van Olmütz"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wacław Henryk Przemyślida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вацлав I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Wenceslaus of Olomouc"
+    }
+  },
+  "lastrevid": 17540965,
+  "modified": "2025-09-17T07:58:44Z",
+  "ns": 860,
+  "pageid": 155007,
+  "sitelinks": {},
+  "title": "Item:Q127914",
+  "type": "item"
+}

@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mstislav the Eyeless"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127074$06866DD8-EA34-49FB-B945-BD91958A2442",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "166149"
+          },
+          "hash": "7b0b2c42308ca6e666bc7c8993811fb9ffdc0747",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127074$20A71EF4-C134-4F2A-9495-CCF8054A264D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147438",
+              "numeric-id": 147438
+            }
+          },
+          "hash": "1d8cd7bb7fcb7e5faba3903a03bf1860483faef6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127074$B1306112-AA05-43C0-8CB5-66E7B24B954D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127074$C9F876D6-77E5-4D41-81F5-A5CB93BDF3A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127074$EF3E0D1B-3258-46AF-8317-2F6747E29C5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11474.htm#i114734"
+          },
+          "hash": "51f6946308b9306874621650a6c7afbb2deabede",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127074$0695E863-0689-4141-8850-CC881B5EAB60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121316",
+              "numeric-id": 121316
+            }
+          },
+          "hash": "db56376f3943856fb78df0513ae3d1edb589b402",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127074$3651E037-D0F8-4400-9AC0-2847F819A46D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127074$874C8650-E820-4C09-B383-BEAF1960F16F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127074$CAA9EA00-0B68-4F38-A210-D6FCFEEA6856",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1178-04-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1dc782fde0743aaf983e52a09d4df6623baa6d62",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127074$F3EA9DDC-9121-476B-9D80-CFF2341C7435",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4305602"
+          },
+          "hash": "5363096ab88a827f024c5f17e80f2676e9e2c520",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127074$CA3529F8-013C-4BE7-8860-7851EC95E831",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=mstislav;n=rurikides;oc=2"
+          },
+          "hash": "be4b3e3d14f030a84eefa10f75fb5630a64aa838",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127074$F0D46BB0-96CE-4453-AE9F-63DF653135C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mstislav the Eyeless Arms.svg"
+          },
+          "hash": "eb6f36bf154a06ede9555f8e01a3efc02a140407",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "rostovský kníže"
+    },
+    "en": {
+      "language": "en",
+      "value": "Russian prince"
+    }
+  },
+  "id": "Q127074",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "مستسلاف بلا عيون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Mstislav the Eyeless"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mstislav Rostovský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mstislaw Rostislawitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mstislav the Eyeless"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mstislav the Eyeless"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムスチスラフ・ロスチスラヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mstislav the Eyeless"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мстислав Ростиславич (князь ростовский)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мстислав Ростиславич Безокий"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "姆斯季斯拉夫·羅斯季斯拉維奇"
+    }
+  },
+  "lastrevid": 17540169,
+  "modified": "2025-09-17T07:48:11Z",
+  "ns": 860,
+  "pageid": 153879,
+  "sitelinks": {},
+  "title": "Item:Q127074",
+  "type": "item"
+}

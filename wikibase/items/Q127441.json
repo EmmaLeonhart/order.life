@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William V of Saint Omer"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q127441$401D77E0-625A-48FD-B4D2-72311B28B34C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127441$144B874F-BBE4-4422-818F-343187B2C42E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127441$F12BBBE0-FC18-4B3D-B130-A36FC5B8A490",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121574",
+              "numeric-id": 121574
+            }
+          },
+          "hash": "dda0637a55796dc261f4439afec0fc236d2be1da",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127441$D209EB5E-DCD9-4417-B917-3F227A986085",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127441$0AF331A2-E44B-48B0-B719-21BD8028FC53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1242-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6f3e57000209dd4ded6183ba95114f0296c435dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127441$D0801D26-5A1A-4AE6-A85D-57E208EB561D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20949766"
+          },
+          "hash": "908bc9b61d61d7fdb0703135e1e4a02e35e75fe0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127441$DEB703A6-837C-44D8-9E50-818BEADDC1E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillaume;n=de+saint+omer;oc=8"
+          },
+          "hash": "821fbd0626be0f1a72b9bc4b3d459a1f1317d3b0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127441$FC340EEF-50A5-4C55-BCD4-E1E5A238A2E9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William V of Saint Omer Arms.svg"
+          },
+          "hash": "f44189afd5e225c7b55628758ce058b3bc99a78f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Master of the Horse of Hungary"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble français, fils de Nicolas Ier de Saint-Omer"
+    }
+  },
+  "id": "Q127441",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Γουλιέλμος του Σαιντ-Ομέρ (γιος Νικολάου Α΄)"
+    },
+    "en": {
+      "language": "en",
+      "value": "William V of Saint Omer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume de Saint-Omer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William V of Saint Omer"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Guilherme de Saint Omer"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Guilherme de Saint Omer"
+    }
+  },
+  "lastrevid": 17540507,
+  "modified": "2025-09-17T07:52:45Z",
+  "ns": 860,
+  "pageid": 154372,
+  "sitelinks": {},
+  "title": "Item:Q127441",
+  "type": "item"
+}

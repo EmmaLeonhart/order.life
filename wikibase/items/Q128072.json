@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William of Normandy, de Fecamp"
+      },
+      {
+        "language": "en",
+        "value": "William de Fechamp"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q116411$E5530F2F-8AB5-4E01-83E6-C2229CA6ECD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116411$84A5D507-DF87-4C4A-B643-93C92CED6629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q116411$83CA0870-A8C6-4EA3-B8BA-8B24A264C97F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113932",
+              "numeric-id": 113932
+            }
+          },
+          "hash": "2dabbfec47bd85dbd8f86c5db8bf3bcbacfb51f4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q116411$28954F35-0124-4CF4-AE94-40FC4CF9E93F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114199",
+              "numeric-id": 114199
+            }
+          },
+          "hash": "e17222c48231b810fa5261b7e40ec7b4f50406df",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q116411$8F89DF85-D2E7-48A5-A5A8-B09C14853EAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q116411$5756213B-1F00-4728-BC59-D478C984BA4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75384609"
+          },
+          "hash": "f2a1af50a2edd3ee030d9ac27a7e6b3f6bf80e2d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q116411$78DAB14C-A0CB-428B-B1A2-6D8908915E94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011851507259"
+          },
+          "hash": "198424d1692b676f682f4b1098a70098d68d5266",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q116411$D424BBDC-F9C3-43B7-B55F-39604DE5C8D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William de Féchamp Arms.svg"
+          },
+          "hash": "1ea2678711b36797ed107992127d0408cb9906cf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=104813"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "moine à Fécamp en Normandie"
+    }
+  },
+  "id": "Q116411",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "William de Féchamp"
+    },
+    "en": {
+      "language": "en",
+      "value": "William de Féchamp"
+    },
+    "es": {
+      "language": "es",
+      "value": "William de Féchamp"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume de Fécamp"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William de Féchamp"
+    }
+  },
+  "lastrevid": 17528861,
+  "modified": "2025-09-17T05:13:42Z",
+  "ns": 860,
+  "pageid": 139591,
+  "sitelinks": {},
+  "title": "Item:Q116411",
+  "type": "item"
+}

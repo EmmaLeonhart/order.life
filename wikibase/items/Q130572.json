@@ -1,0 +1,675 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ceres"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q130572$0900D23F-0EB1-4743-A94F-1A56B163FEE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132034",
+              "numeric-id": 132034
+            }
+          },
+          "hash": "cd566c92ce0e727ee5f4f39eec4a8b45d34549d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130572$40251E33-8E15-4AC7-9C28-D76FCF30FA3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133265",
+              "numeric-id": 133265
+            }
+          },
+          "hash": "3d577cf2abb60688469967da6a9b674292192a92",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q130572$90D9A62A-7672-48B3-8FC3-62A2174B0999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130572$BCB87EB3-6F41-44EE-A52A-768ECA8C9859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q130572$F6D7F69E-242F-464D-B763-53279FAB89C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132032",
+              "numeric-id": 132032
+            }
+          },
+          "hash": "2e9b1a66ede57db799792793851a430eb48d7fe9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130572$E7001649-1BDA-4CCC-8297-B9DE22DCB7CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132028",
+              "numeric-id": 132028
+            }
+          },
+          "hash": "a97d62001d8bf2aa910f51c0ba62cf3031fe83c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130572$B2FD3DFC-B551-4A2D-8E4B-2304EE4AECCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74677",
+              "numeric-id": 74677
+            }
+          },
+          "hash": "74416a6107a989b5a65743f81323cf0883080cf5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130572$4D53FDF2-0AED-4CFB-B1A5-8CE111C096CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130572$7F8D61DE-119A-4C9E-8B8D-170B1480AC34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q32102"
+          },
+          "hash": "bcd471fef4633c02cfc4ca6c6e33429c1e72d8af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q130572$8537B242-0762-4C48-8CF9-CD5DB3779452",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ceres"
+          },
+          "hash": "7def89d083ed9bee60692454d3ca4ac06f5aa2a9",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130572$BFA34D9B-EB18-4BE1-AAE3-4944F6433E6A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ceres Arms.svg"
+          },
+          "hash": "fd3274aadc055565d8166f288c1d4f8c09bc194b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "старажытнарымская багіня, другая дачка Сатурна і Рэі"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římská bohyně plodnosti a úrody"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk gudinde for plantevækst"
+    },
+    "de": {
+      "language": "de",
+      "value": "römische Göttin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman goddess of agriculture"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia diino de la agro"
+    },
+    "es": {
+      "language": "es",
+      "value": "diosa romana de la agricultura, las cosechas y la fecundidad"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "déesse romaine de l'agriculture, des moissons et de la fécondité"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "jee Raueagh yn eirinys"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלה במיתולוגיה הרומית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római istennő"
+    },
+    "it": {
+      "language": "it",
+      "value": "divinità della religione romana"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ神話の神"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნაყოფიერების ქალღმერთი რომაული მითოლოგიიდან"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "deja de la Roma antiga"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "romiešu lauksaimiecības dieviete"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "римска божица"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "कृषीविद्येची रोमन देवी"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk gudinne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "godin van de akkerbouw in de Romeinse religie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bogini w mitologii rzymskiej"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "divindade romana"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "zeița agriculturii la romani"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримская богиня, вторая дочь Сатурна и Реи"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "dia dâ fecunnità ntâ mituluggìa rumana"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk gudinna"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "mungu wa kirumi wa kilimo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma mitolojisinde bereket, hasat ve tarım tanrıçası"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська богиня родючості та хліборобства"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "羅馬農業女神"
+    }
+  },
+  "id": "Q130572",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ceres"
+    },
+    "an": {
+      "language": "an",
+      "value": "Ceres"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سيرس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سيريس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Serera"
+    },
+    "be": {
+      "language": "be",
+      "value": "Цэрэра"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Церера"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "কেরেস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Keres"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Cerera"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ceres"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "سێریس"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ceres"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ceres"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ceres"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ceres"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κέρες"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ceres"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Cereso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ceres"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ceres"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Zeres"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ceres"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cérès"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ceres"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ceres"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Ceres"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Keres"
+    },
+    "he": {
+      "language": "he",
+      "value": "קרס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सिरीस"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Cerera"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ceres"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կերես"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Ceres"
+    },
+    "id": {
+      "language": "id",
+      "value": "Seres"
+    },
+    "is": {
+      "language": "is",
+      "value": "Ceres"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cerere"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ケレース"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ცერერა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "케레스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Keres"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Keres"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ceres"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Cerere"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Scerer"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Cerera"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Cerera"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Keresy (andriamanibavy)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Церера"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯀꯣꯟꯚꯦꯛꯇꯣꯔ (ꯂꯥꯢ)"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "सेरेस"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ceres"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ceres"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ceres"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ceres"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ceres"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ceres"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ceres"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Церера"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Cèriri"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Ceres"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Cerera"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ceres"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cerera"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Церера"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ceres"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Ceres"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சேரீசு"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซีรีส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ceres"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ceres"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Керера"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ceres"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Ceress"
+    },
+    "war": {
+      "language": "war",
+      "value": "Ceres"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "刻瑞斯 (罗马神话)"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "瑟雷斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "刻瑞斯"
+    }
+  },
+  "lastrevid": 17543498,
+  "modified": "2025-09-17T08:32:24Z",
+  "ns": 860,
+  "pageid": 158576,
+  "sitelinks": {},
+  "title": "Item:Q130572",
+  "type": "item"
+}

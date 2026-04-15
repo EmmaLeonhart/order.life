@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maelgwn ab Owain Gwynedd"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127886$1FC74776-20B6-4766-92E4-905AB2345B9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "414381"
+          },
+          "hash": "b77bbdda7f100d6d4f8ed8345e8c82804a540ccb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127886$FED8C025-5E5B-4E72-AEB8-EE14DF508B7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Owain-99"
+          },
+          "hash": "f4a333fcea8d99c8bcd0ce6dd992f9bd6ba3ee13",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127886$46A4E86D-D993-4ADC-A1F7-9C5E50A85BFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127886$91D789C9-C0FA-43B1-AD8F-C9D8EE6B6F2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127886$37F66B1A-B5C6-4AB8-B404-5333235EBB06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maelgwn_ab_Owain_Gwynedd_(1)|Maelgwn_Owain_(1)"
+          },
+          "hash": "861322dfabe430bc5175968d3a6662d7efc4ab74",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127886$3D78519E-4451-4807-A1D5-990AAD0B9494",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127876",
+              "numeric-id": 127876
+            }
+          },
+          "hash": "fec751ba0607ede809abc55f3dfc90118af8a2fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127886$4BD32E77-D629-4AE1-BD99-07B74DAB3BE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127886$B6AF2644-002F-4656-8551-C79CC46F62FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127886$9003287A-51E2-4C31-990B-21AB99DF14AA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1173-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "42d92f22c224c11181f0f382a22d8e3af9a01a77",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127886$F16DE6ED-5915-4F6B-AB17-118C4D113BFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2253153"
+          },
+          "hash": "ac4cbb01cef71b39c0c6f8e49f174a5305946b6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127886$6FD73D9A-DFAF-41C5-812E-631BF9E15809",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=maelgwn;n=of gwynedd"
+          },
+          "hash": "6f2d6549069d1ebe76e466e182482086b15dae0c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127886$F3B66147-987B-4E51-B67F-F859454F7DA3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maelgwn ab Owain Gwynedd Arms.svg"
+          },
+          "hash": "7e96a25c32c5b853c4e36088806977ec3802a4d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "teyrn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst von Gwynedd"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Gwynedd"
+    }
+  },
+  "id": "Q127886",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "da": {
+      "language": "da",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maelgwn ab Owain"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "it": {
+      "language": "it",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マーイルグン・アブ・オーワイン・グゥイネッズ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Майлгун II ап Оуайн"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maelgwn ab Owain Gwynedd"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迈尔贡·阿普·欧文·圭内斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "迈尔贡·阿普·欧文·圭内斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "邁爾貢·阿普·歐文·圭內斯"
+    }
+  },
+  "lastrevid": 17540937,
+  "modified": "2025-09-17T07:58:21Z",
+  "ns": 860,
+  "pageid": 154970,
+  "sitelinks": {},
+  "title": "Item:Q127886",
+  "type": "item"
+}

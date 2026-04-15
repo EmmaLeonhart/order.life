@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q131419591"
+      },
+      {
+        "language": "en",
+        "value": "Alexios Komnenos Vatatzes"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q128321$B1E44A9D-80D9-4E0F-81CE-32045F28DB19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128321$D1078C43-673A-4709-8DDD-EA0D68B4288E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128321$98D69495-E706-4EFB-9EDF-03769942A5C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128313",
+              "numeric-id": 128313
+            }
+          },
+          "hash": "d498c09fe78cf7dd251b8aeae12b7cfbe597a5d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128321$EB059E5D-0B20-425E-99EB-F3DF2B878C85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122231",
+              "numeric-id": 122231
+            }
+          },
+          "hash": "01544b16887a9a36d29983a3464118ffc6aba31c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128321$76AA038B-9F6B-4653-8C56-54918AF47DBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128321$3B68AC67-111D-4B48-8D32-07E84C6361CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b77a02bf3d1b65e76819a0e6802e2ee8ff68bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128321$29F99DA7-E294-4489-940E-CE1A7A76223E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131419591"
+          },
+          "hash": "9d501f0d5099f9976bfedb8f716eb33b4c2ba780",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128321$02B2835D-13BC-4D29-9352-20B3F95AA8DD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aleksii Komnin Vatatsi Arms.svg"
+          },
+          "hash": "c157340c68eb85311f8abc538abf6d8662120f2a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски аристократ от XII, внук на император Йоан II Комнин"
+    }
+  },
+  "id": "Q128321",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Алексий Комнин Ватаци"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aleksii Komnin Vatatsi"
+    }
+  },
+  "lastrevid": 17541359,
+  "modified": "2025-09-17T08:04:03Z",
+  "ns": 860,
+  "pageid": 155553,
+  "sitelinks": {},
+  "title": "Item:Q128321",
+  "type": "item"
+}

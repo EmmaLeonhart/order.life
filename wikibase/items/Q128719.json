@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Koenraad van Proseck"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128719$A165CC91-A125-43FB-968F-084AA378D220",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "707803"
+          },
+          "hash": "3358affaa7c20c8846b16439c9c2ed395d94d9ae",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128719$5099B22E-3198-42BD-A475-32E248AE26FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128719$89473686-6283-40CC-B3D3-BDAFB9EC650D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128719$ECF9B509-0D90-4820-9476-BC8A4FEE4F1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128717",
+              "numeric-id": 128717
+            }
+          },
+          "hash": "f006a64987436d49b8b9695840dce0c2397b8100",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128719$817A59FF-BE7B-428C-82BA-1FB7399DB667",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122481",
+              "numeric-id": 122481
+            }
+          },
+          "hash": "a8d98fb43f87368023e21363f11c29dc102bbfdb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128719$FB033E63-A361-499C-BF20-C6CD52A8D882",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128719$3EC9A9FB-5FFF-435D-8509-019CF8E4749E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128719$603B5292-F378-4037-91FA-99B48C47D5F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1133-01-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d49662d8e794547edc9d003d813fadae7be468a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128719$9DE96A16-3040-42F6-A5C2-A2B88CA85687",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1907239"
+          },
+          "hash": "5e5be6a45c42a3874fa8caffc68525370b36310c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128719$43E04FD1-37B8-4E9B-B7ED-858855994DAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=konrad;n=von plotzkau"
+          },
+          "hash": "2dd8fdad1d331b0f1e626f1922ee167b0e8982f1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128719$72368016-C18B-4597-9A58-1286A55A4F32",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Koenraad van Proseck Arms.svg"
+          },
+          "hash": "2b9a79732e9e98598639c6596e1b9495eb6b02c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Plötzkau und Markgraf der Nordmark (1130)"
+    }
+  },
+  "id": "Q128719",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Conrad von Plötzkau, Margrave of the Nordmark"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Конрад фон Пльотцкау"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konrad von Plötzkau"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κορράδος του Νόρντμαρκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Koenraad van Proseck"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conrado de Plötzkau"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Koenraad van Proseck"
+    },
+    "it": {
+      "language": "it",
+      "value": "Corrado di Plötzkau"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koenraad van Proseck"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Konrad z Plötzkau"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Конрад фон Плёцкау"
+    }
+  },
+  "lastrevid": 17541751,
+  "modified": "2025-09-17T08:09:13Z",
+  "ns": 860,
+  "pageid": 156088,
+  "sitelinks": {},
+  "title": "Item:Q128719",
+  "type": "item"
+}

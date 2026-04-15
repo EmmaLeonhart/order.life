@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "N. Branaina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q129277$FEF68CD1-F87A-4D61-866A-408FFD5D8954",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00208129"
+          },
+          "hash": "d970b81b7e693f1d3c6b8b4a7a834bab0a47bd66",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129277$437A10C2-8D2B-4DC8-B93E-43DCA61E6513",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129277$A7B6BFB7-F45C-4001-9279-9FBCB3C2E175",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q129277$751645D7-2941-4E4B-87F7-68CEABC78501",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Unknown_Branas_(1)"
+          },
+          "hash": "83ba938fa2af35a0e738b177d8c05ff735f3c945",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129277$3CF6E8E7-E650-4FF5-8BF9-86FEB11AABD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129275",
+              "numeric-id": 129275
+            }
+          },
+          "hash": "99f1a35b3f26619cc58e4839504a1c00bf35cb52",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129277$1708E64A-5B23-49B6-B213-36E18F6AC80D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122859",
+              "numeric-id": 122859
+            }
+          },
+          "hash": "33af7a95d9dc26c7a39624aaf8f14cd803917103",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129277$93C08FE9-20BD-420C-9857-E0143197917F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129277$8BE9990B-BA7F-46BF-9F72-BF867227BDE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1205-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "08a0256f43dba8b5892f8fb1346b6e504ee8ea58",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129277$230777A6-8EE7-4655-8667-3B1989720917",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1239-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "558e1e3c64ac7fa85435e9ea5d15b5eef41017ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129277$9CCF4C54-6FD4-450A-99EA-CA34397BD620",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q848948"
+          },
+          "hash": "45d972c025a57c2419d315b1c997f1fed3c1f299",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129277$2E2E6EA0-E23D-41E3-8CFC-AA99F1F8C911",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ne;n=branas d andrinople"
+          },
+          "hash": "fe9e0d85d44589c1ce67ad9cb22c92b0839fcaa1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129277$4F74A888-D5C3-4401-ACE6-45DFE34A2E1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "N. Branaina Arms.svg"
+          },
+          "hash": "519d35601cef0a95369827c96c1e454ddf0574fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Byzantine noblewoman, Daughter of Empress Anna of France"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь Анны Французской"
+    }
+  },
+  "id": "Q129277",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "N. Branena"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Branaina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βράναινα"
+    },
+    "en": {
+      "language": "en",
+      "value": "N. Branaina"
+    },
+    "es": {
+      "language": "es",
+      "value": "N. Branaina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Branaina"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Branaina N. bizánci úrnő"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "N. Branaina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вранина"
+    }
+  },
+  "lastrevid": 17542307,
+  "modified": "2025-09-17T08:16:33Z",
+  "ns": 860,
+  "pageid": 156838,
+  "sitelinks": {},
+  "title": "Item:Q129277",
+  "type": "item"
+}

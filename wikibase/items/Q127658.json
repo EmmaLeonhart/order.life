@@ -1,0 +1,264 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hedwig, Gräfin von Brehna"
+      },
+      {
+        "language": "en",
+        "value": "Hedwig, Grafin von Brehna"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127658$A11948EF-BD89-4A1B-80D6-BDECC5404C7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00079710"
+          },
+          "hash": "7880937204ccb33053678c13b94f34689c71cbcb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127658$795DD6D3-499C-4774-B755-1615CD3882ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wettin-157"
+          },
+          "hash": "0afc16d1006e2fd23a559ea1c3d4432b8592d541",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127658$856A2520-C4E5-4F44-95E7-21DDB9A24171",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127658$3334C06A-CE2E-44CA-9919-DFDD16E80CCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127658$706C038F-9733-458A-BDDE-DD6BA8152E84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121698",
+              "numeric-id": 121698
+            }
+          },
+          "hash": "a52c00af0d8cfcdf88374c09eab2dcaddd42b89f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127658$2B90BDAF-5234-488C-8946-38D628C84952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127286",
+              "numeric-id": 127286
+            }
+          },
+          "hash": "10b2a5c685b13bfa82fa4a9d4b4166a3fe0f7ef2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127658$9E6E11D7-B261-4B08-BC88-E28B3015F6F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127658$0E4999C6-38F9-4350-8737-1FD6AAE958C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1264-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc624f54913194b12ba257ae62b573789708c094",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127658$4446FC42-60B3-4462-8CED-BD732F1B7AED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110326746"
+          },
+          "hash": "4884cc068b60e8ada87bbcdf9d6eb70cb94bbd92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127658$F9339134-33EF-4237-B445-3AB511DED505",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hedwig;n=wettin"
+          },
+          "hash": "3774dc1b7f8b249c17ec4e04519e5b3f347a94c5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127658$FFDE53AA-CCEB-48C0-B06B-38DA6F95B85F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hedwig, Gräfin von Brehna Arms.svg"
+          },
+          "hash": "e99f072aba4f3ff612b313e0b7593444e2c30c31",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1264"
+    }
+  },
+  "id": "Q127658",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Hedvika z Brehny"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hedwig, Gräfin von Brehna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hedwig, Gräfin von Brehna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hedwig, Gräfin von Brehna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hedwig van Brehna"
+    }
+  },
+  "lastrevid": 17540713,
+  "modified": "2025-09-17T07:55:26Z",
+  "ns": 860,
+  "pageid": 154664,
+  "sitelinks": {},
+  "title": "Item:Q127658",
+  "type": "item"
+}

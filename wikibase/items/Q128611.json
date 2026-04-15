@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John of Béthune"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128611$E4D180AC-962D-46BD-A21C-0CD82D4C59D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120713"
+          },
+          "hash": "d81b8def39ee61983e2b9f14e38b6410c50a5161",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128611$DC70806B-2B05-46AA-B77D-F7B3072E7456",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128611$DA09995C-8857-4FB7-93CD-23EAC31FD32E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128611$373CC289-2D98-42C3-97CB-FF4D4011ED75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122425",
+              "numeric-id": 122425
+            }
+          },
+          "hash": "862ea6abc9a685aeb4ad9e7cba891af6a0edb9d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128611$CB883E16-89C0-485F-8C98-6AF615AC3B82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145466",
+              "numeric-id": 145466
+            }
+          },
+          "hash": "84d20bc459e408a23eec2f96c10d8294a7ac9af8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128611$C54C2B3B-8D48-449F-A2B6-B2225BF16EED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128611$859D24E3-4BC2-4B80-AD4B-2F52FA847612",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1238-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "48d1b0f88cd7526e491ad2bffe1bdf0df9fe2a74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128611$FF6E17CD-5137-4E79-AC98-907800BE99B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106615063"
+          },
+          "hash": "01865e07b47a6ae2a0a24aba2b89e2c773a47e85",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q128611$7F63BADA-37FD-4943-979C-79B4661DD639",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "John of Béthune"
+          },
+          "hash": "23f79b1053ad66c6093eeb953ea617157914e501",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128611$8CD766D5-53AF-4359-926B-12BD737808BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jean;n=de bethune;oc=4"
+          },
+          "hash": "a459ce973a07cc7f838cf21078f9e880926ab895",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128611$74783271-9D0E-4E34-8858-35429E59FEA5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John of Béthune Arms.svg"
+          },
+          "hash": "5be0d11713ace95a007d24743900f313694b81c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French nobleman"
+    }
+  },
+  "id": "Q128611",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "John of Béthune"
+    },
+    "en": {
+      "language": "en",
+      "value": "John of Béthune"
+    },
+    "es": {
+      "language": "es",
+      "value": "John of Béthune"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John of Béthune"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "John of Béthune"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John of Béthune"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "John of Béthune"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "John of Béthune"
+    }
+  },
+  "lastrevid": 17541645,
+  "modified": "2025-09-17T08:07:48Z",
+  "ns": 860,
+  "pageid": 155943,
+  "sitelinks": {},
+  "title": "Item:Q128611",
+  "type": "item"
+}

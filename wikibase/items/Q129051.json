@@ -1,0 +1,320 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nicolas II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q129051$4F2C7595-073D-4DC3-AF74-4CE4D95FC18B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00023792"
+          },
+          "hash": "e223f3fe0a19f784a41b42b883cf74efcabd4801",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129051$191A7D64-10EC-4144-9D84-0083FD0D6F5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129051$2FCB8652-421C-4A3C-9B54-D663325F62CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129051$75ED21E9-2CB5-49B2-A6A6-44EA63C24A46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129047",
+              "numeric-id": 129047
+            }
+          },
+          "hash": "13f9096f3f49cc359c5ff1abefdae1b86197e939",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129051$5E337BA1-2FE1-47DD-BDB7-90416E97C66F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122691",
+              "numeric-id": 122691
+            }
+          },
+          "hash": "5b575ce71989e5f228f8961d56d535949b467a4d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129051$639BCAC8-B757-43C5-8842-36788C4F35A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129051$625374D2-72D6-4635-A368-3DFE064DCE16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c36d5616da0c0b2cf4662248a5d88a9c7efc1ab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129051$63958C32-0915-4FB2-B876-B719F0FD3F6B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1225-09-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d9d5491ff90089bef27c70f7edb21579e82b50a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129051$8A54502A-2605-41DB-879F-4A9AF2CD007A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1991513"
+          },
+          "hash": "6ce9ea4fc2146dbc05af72e74f48fe871738ebe1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129051$A1AB13EF-6912-4D53-BB63-92B9B9D9DA84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=nicolas;n=von mecklenburg;oc=2"
+          },
+          "hash": "5ba52845b73de91e17a4cdd55f2311eaedb2d1cd",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q129051$0AC11EE2-003C-49AA-A004-988BBF063D53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.5275"
+          },
+          "hash": "c26b7d9c2387a9616038c7779e827ab7554b88af",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129051$325CFEFA-859A-4F1F-AA97-5F99F86DA51E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nicolas II Arms.svg"
+          },
+          "hash": "47c1a51b4ad0601ac51f407b1431df1a6969d92f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "gadebušský pán"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herr von Gadebusch"
+    },
+    "en": {
+      "language": "en",
+      "value": "(-1225) noble of Mecklenburg"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe di Meclemburgo e signore di Gadebusch"
+    }
+  },
+  "id": "Q129051",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Николаус II (Мекленбург)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nicolau II de Mecklemburg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mikuláš II. Meklenburský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nikolaus II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Νικόλαος Β΄  του Μεκλεμβούργου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nicolas II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nicolás II de Mecklemburgo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nicolas II de Mecklembourg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nicola II di Meclemburgo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nicolas II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Николай II Мекленбургский"
+    }
+  },
+  "lastrevid": 17542081,
+  "modified": "2025-09-17T08:13:34Z",
+  "ns": 860,
+  "pageid": 156535,
+  "sitelinks": {},
+  "title": "Item:Q129051",
+  "type": "item"
+}

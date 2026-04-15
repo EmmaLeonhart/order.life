@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tougorkan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128155$B0609BA4-7A14-4EF7-8D7E-338648B9DF5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "148275"
+          },
+          "hash": "217a00b64788b0c0ed098cb8f0b9b850dde600cd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q128155$E5CDF3C2-6B85-4947-ADDE-08593C72C358",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122067",
+              "numeric-id": 122067
+            }
+          },
+          "hash": "78eae79b5a17224a908b03a747db459701c12c19",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128155$5279CCD7-E52B-4321-98DD-4200BF7489A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Khan_of_the_Kumans-1"
+          },
+          "hash": "690c9acaff9f04766b2f3ba77007c60502113d5b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128155$A845127A-B09F-4296-B6DA-0F52B929FF6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128155$891FD107-6D9A-4E32-B17A-0ED873C74521",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q128155$1A122B58-67E4-4CC7-80B0-09CED0BC16BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Unknown_Turgor_(1)"
+          },
+          "hash": "15d145720637fbe1a57bf38611a551ed425bf4af",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128155$9366A83B-83E0-47B4-91F3-117CF9F430D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128155$7654C1D7-5E28-4169-977F-6502B024C292",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1028-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7ce89ec5bba38b212bd2e534848ba68c8522adaf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128155$42D2ECB8-22BB-48B2-BF40-4E2EBDDC5192",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1096-07-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "135a80aee82d8900c39f8ad54c263e8df6d3982b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128155$D13A36D8-73EE-4D55-A37D-319B13D05737",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4464903"
+          },
+          "hash": "d6a87181c95ad5f77b3ee5337533a2c8c7a580a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q128155$FB7AAEA0-70CA-4A25-A3D6-94B62255146D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.571"
+          },
+          "hash": "4c6417537f190ba548028f0c967355bbe123b41e",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128155$412305A5-F10E-4F4F-9BFB-F5267014DE14",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tougorkan Arms.svg"
+          },
+          "hash": "7b15d5bc261ccf3a91e66b9920afadfcad30cefb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1050-"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "половецкий хан"
+    }
+  },
+  "id": "Q128155",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tougorkan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тугаркан"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tougorkan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tougorkan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tougorkan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トゥゴルカン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tougorkan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tugor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тугоркан"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тугоркан"
+    }
+  },
+  "lastrevid": 17541197,
+  "modified": "2025-09-17T08:01:56Z",
+  "ns": 860,
+  "pageid": 155330,
+  "sitelinks": {},
+  "title": "Item:Q128155",
+  "type": "item"
+}

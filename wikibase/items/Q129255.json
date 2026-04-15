@@ -1,0 +1,334 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Archambaud Borel de l'Ile Bouchard"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q129255$D5E230CF-09AE-4E23-954D-BB4DC36160E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00208069"
+          },
+          "hash": "f84eb3c5546b4192071ce6aed0a9285318ee2296",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129255$4C4E505D-B7A6-4AD5-A16E-EA10333A8A4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122843",
+              "numeric-id": 122843
+            }
+          },
+          "hash": "31fa9ec2fe4c63f91af7a3406420169932032665",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q129255$A51307F0-7B06-4451-B6C8-E945F2A6EE67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Borel-3"
+          },
+          "hash": "8ee5a4428b642b062d9999e6977d77ffbbe366ba",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129255$C7D67AA3-DF81-443C-964C-B920991DE214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129255$A46374AE-84D6-4DD8-A398-642B31E0E8C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129255$80EFE1AD-9639-4BA8-AC0C-955C7DB512FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129257",
+              "numeric-id": 129257
+            }
+          },
+          "hash": "9d5a88664b398e60e4381b359168560a76f13574",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129255$8D4FACBB-6E70-49F1-87C1-ACD64D707DC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129255$CE95E4DD-322C-4F18-B719-1B2341418A43",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1019-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "809914f9494cd6855b3baf8038dc3e1c508d9455",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129255$B87E8D39-E748-41FA-A399-7C04135F5E64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1083-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8cb4a9ab742d3293c074532d75c08ce127e0b232",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129255$6AB4ADBD-28D7-4E67-A97F-92DD13E454B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61466744"
+          },
+          "hash": "24fbe78592f3ed0609e1c59d4dafacdba77976dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q129255$D0002326-58AB-444A-8E01-87CD804AB108",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002459898566"
+          },
+          "hash": "8be4d1c4eb0dd283ab33a4e775d5f19f88dc3846",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q129255$FCC38282-51C5-4FF1-8B24-72C9D5D22E15",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Archambaud Borel de Bueil"
+          },
+          "hash": "f837830be0d33fad341e9092221e695b47ccd3f0",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129255$72CBA2FA-4A5B-46CC-8408-43660DE934C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=archambaud;n=de+bueil;"
+          },
+          "hash": "e895e24921f1077574a547b309a556f99f5c2cd0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129255$6E1A48FD-AC89-4073-9892-A1FFAD0588FB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Archambaud Borel de l'Ile Bouchard Arms.svg"
+          },
+          "hash": "5edaa1b67c2be3beb8df826ccbfd372336a0206e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "сеньёр дэ Л’Іль Бушар"
+    },
+    "en": {
+      "language": "en",
+      "value": "1019 - 1083"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сеньор де Л'Иль Бушар"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1019-1083)"
+    }
+  },
+  "id": "Q129255",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Archambaud Borel de l'Ile Bouchard"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аршамбо Барэль дэ Л’Іль Бушар"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archambaud Borel de l'Ile Bouchard"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Archambaud Borel de Bueil"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Archambaud Borel de l'Ile Bouchard"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аршамбо Борель де Л’Иль Бушар"
+    }
+  },
+  "lastrevid": 17542285,
+  "modified": "2025-09-17T08:16:16Z",
+  "ns": 860,
+  "pageid": 156808,
+  "sitelinks": {},
+  "title": "Item:Q129255",
+  "type": "item"
+}

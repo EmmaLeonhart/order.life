@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Polybotes"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q130429$BA2047AF-9BE9-4114-B6BB-6624B51CA098",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "27748"
+          },
+          "hash": "61e95d52ec80e59cee9c0a3c46b33ac78f7b2d82",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q130429$A7E0BC1A-7B4A-45AE-8393-7C3EA9CFC852",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130429$BA82FCE9-2161-485F-BD6C-1462DD6B58D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130429$9A31EA19-E21A-43B8-B5AF-CC5BE4D81EC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74698",
+              "numeric-id": 74698
+            }
+          },
+          "hash": "97626e289114771848f7eaa20dc643af2cec198b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130429$3D5A2C3F-E506-4488-9D28-2E08C9D5BC9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74701",
+              "numeric-id": 74701
+            }
+          },
+          "hash": "d32cd75bc70b5493bf110e83ce108095a08c2115",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130429$69E8483F-CAB2-4948-908D-623301235DFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130429$B5E41590-8BC9-4B75-AF59-B8CB222C8233",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1233841"
+          },
+          "hash": "3f89680c10cc9658512e822c854c9f7a0424661f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130429$8ED4885F-3EA4-4890-AC00-429EB7074009",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Polybotes Arms.svg"
+          },
+          "hash": "5a0bae19677c522fce8b121ca9f89cdcb5306f75",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gigant aus der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "one of the Giants of Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "gigante en la mitología griega, hijo de Urano y de Gea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Géant de la mythologie grecque"
+    },
+    "it": {
+      "language": "it",
+      "value": "gigante della mitologia greca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "гигант из древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi dev"
+    }
+  },
+  "id": "Q130429",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Полибот"
+    },
+    "br": {
+      "language": "br",
+      "value": "Polybotes mab Ouranos"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Polibotes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Polybotes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πολυβώτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Polybotes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Polibotes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Polybotès"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Polibotes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πολυβώτης , Polybōtēs"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Polibot"
+    },
+    "id": {
+      "language": "id",
+      "value": "Polibotes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Polibote"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ポリュボーテース"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "폴리보테스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Polîbotês"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Polîbotês"
+    },
+    "la": {
+      "language": "la",
+      "value": "Polybotes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Polybotes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Polybotes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Полибот"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Polibot"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Polybotes"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Polybotes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Полібот"
+    }
+  },
+  "lastrevid": 17543355,
+  "modified": "2025-09-17T08:30:33Z",
+  "ns": 860,
+  "pageid": 158384,
+  "sitelinks": {},
+  "title": "Item:Q130429",
+  "type": "item"
+}

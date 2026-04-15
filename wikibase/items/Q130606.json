@@ -1,0 +1,440 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Horae"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q130606$51A6F419-BE5D-431C-A43C-F3178218B62E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130606$4B140D93-1178-424E-BA93-6EAE0D01913E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130606$88C2ABFE-9DC2-4461-818A-F1A360278515",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "5d7eea6d2e24cf4e2593a1cefb77ae9c8de10b60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130606$10E15111-EB54-4F63-9CAC-B5AEAF34BEDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90317",
+              "numeric-id": 90317
+            }
+          },
+          "hash": "a25e89f11dad3be8f04cf08a9cb65ef415cb4c39",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130606$397E6051-326C-4363-BD97-63133D0E822D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q201411"
+          },
+          "hash": "3293e55bcda8e31a6b460b7a0442556f0814024b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130606$2F45679F-22F1-4AD2-B5A6-8B7B8A4C5961",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Horae Arms.svg"
+          },
+          "hash": "cad61468c9019954a885135db04367a3de50dda5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Göttinnen in der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "goddesses of the seasons and the natural portions of time in Greek mythology"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "helena diinaro pri tempo kaj sezonoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "diosas griegas del orden de la naturaleza y de las estaciones"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "divinités des saisons et de la division du temps dans la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "3 אלות במיתולוגיה היוונית שתפקידן משתנה בין גרסאות, (התפתחות הצומח בעונות, אלות צדק, וכו')"
+    },
+    "is": {
+      "language": "is",
+      "value": "Gyðjur úr grískri goðafræði"
+    },
+    "it": {
+      "language": "it",
+      "value": "divinità delle stagioni nella mitologia greca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の女神"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "gudinner i gresk mytologi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "богини времён года в древнегреческой мифологии, ведали порядком в природе, то открывающие, то закрывающие облачные ворота в Олимп"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "boginje letnih časov in naravnih delov časa v grški mitologiji"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希腊女神"
+    }
+  },
+  "id": "Q130606",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ربات الفصول"
+    },
+    "az": {
+      "language": "az",
+      "value": "Orlar"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Оры"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ори"
+    },
+    "br": {
+      "language": "br",
+      "value": "Eurioù"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hores"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hóry"
+    },
+    "de": {
+      "language": "de",
+      "value": "Horen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ώρες"
+    },
+    "en": {
+      "language": "en",
+      "value": "Horae"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Horoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "Horas"
+    },
+    "et": {
+      "language": "et",
+      "value": "Hoorid"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هورای"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Horat"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Heures"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Horas"
+    },
+    "he": {
+      "language": "he",
+      "value": "ההורות"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Hore"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "hórák"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հորաներ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Horai"
+    },
+    "io": {
+      "language": "io",
+      "value": "Hori"
+    },
+    "is": {
+      "language": "is",
+      "value": "Stundagyðjur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ore"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ホーラ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Horai"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰორები"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "호라에"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hore"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hore"
+    },
+    "la": {
+      "language": "la",
+      "value": "Horae"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Horen"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Horos"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хори"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯍꯣꯔꯥ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "horaer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Horae"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hory"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Horas"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ore (zeități)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "оры"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Horae"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hore"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Hóry"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "hore"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хоре"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Хоре"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Hore"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Horerna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ори"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Oralar"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Horae"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "荷賴"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "荷赖"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "荷赖"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "荷赖"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "荷賴"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "荷賴"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "荷赖"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "荷賴"
+    }
+  },
+  "lastrevid": 17543528,
+  "modified": "2025-09-17T08:32:48Z",
+  "ns": 860,
+  "pageid": 158622,
+  "sitelinks": {},
+  "title": "Item:Q130606",
+  "type": "item"
+}

@@ -1,0 +1,453 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodora"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127960$AB35C9B9-DFBB-48EB-A773-501B6222350A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00215875"
+          },
+          "hash": "a208a23ff9eb8b238262cf41e2660e0203b44419",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127960$A317B563-0F92-4F13-9E4F-A1A4D847172A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147321",
+              "numeric-id": 147321
+            }
+          },
+          "hash": "70b5ec06f9f143bd1fe1082dce66980fc55022f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127960$7322DB4F-E1EE-4B9C-9689-3574C959B4C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127960$5E850F6D-4807-457B-B69E-9458A22884A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127960$1D857709-F1E8-4E72-AF11-E88B193D53D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora,_daughter_of_Constantine_VII_(1)"
+          },
+          "hash": "08ee161f467b7ce61971982ea1cf262ede6453d3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127960$E00FD607-AABA-4E1B-9929-E06EF9E007C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147320",
+              "numeric-id": 147320
+            }
+          },
+          "hash": "e1a88c21b5e93672e28ced3f30ff4e453199cae5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127960$292320AB-1CC9-40C0-ADB4-93506BA24B5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124143",
+              "numeric-id": 124143
+            }
+          },
+          "hash": "00b484ab9d3baa5e83b599099ca17b1bb01a54c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127960$8BB2B9B1-6D09-45F4-A88F-9AF9F84A5E27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127958",
+              "numeric-id": 127958
+            }
+          },
+          "hash": "cf78799939efc571e2247447f7e157fbdbade330",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127960$EF4467ED-F146-41FA-88A3-09AB1F39EE51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127960$83CF328A-4DC2-4943-9B4E-90C0AA0AEBD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0946-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d34236e7bdf4c0b5aae641faa8be0a749a646b96",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127960$71F35CF3-6000-4595-A25D-9B2183546663",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0901-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "35d0764488b0fe2e0203db8d7b13ac123fb70c37",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127960$DAA33C1A-7106-4AB9-BB76-7675420A25E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3621591"
+          },
+          "hash": "444cd7bb8e365272cdd38998164935bc0925e8cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127960$2B891A86-F162-4BF8-AAAE-D4186C487897",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora Arms.svg"
+          },
+          "hash": "ba8db019a55166e60b3ae0e65d15035cb3f84b67",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla de Constantí VII"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινή αυτοκράτειρα κόρη του Κωνσταντίνου Ζ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine empress, daughter of Constantine VII"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperatriz consorte bizantina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice byzantine, fille de Constantin VII"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסרית ביזנטית, בתו של הקיסר קונסטנטינוס השביעי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Bizantska princeza i carica"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice bizantina consorte di Giovanni I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Byzantijnse Rijk (946-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийская императрица; дочь императора Константина VII"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијска императорка и принцеза"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Theodora (VII. Konstantin'in kızı)"
+    }
+  },
+  "id": "Q127960",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ثيودورا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Феадора"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теодора Порфирогенита"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teodora"
+    },
+    "de": {
+      "language": "de",
+      "value": "Theodora"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεοδώρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodora"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Theodora, daughter of Constantine VII"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Theodora, daughter of Constantine VII"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodora"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodora"
+    },
+    "he": {
+      "language": "he",
+      "value": "תאודורה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teodora, kći Konstantina VII."
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Թէոտորա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodora"
+    },
+    "la": {
+      "language": "la",
+      "value": "Theodora (Constantini VII filia)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodora, daughter of Constantine VII"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodora"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teodora"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teodora"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодора"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Teodora, kćer Konstantina VII"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодора, ћерка Константина VII"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theodora av Bysans"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Theodora"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Феодора"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "狄奥多拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "狄奥多拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "迪奥多拉（Theodora）"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "狄奧多拉"
+    }
+  },
+  "lastrevid": 17541011,
+  "modified": "2025-09-17T07:59:20Z",
+  "ns": 860,
+  "pageid": 155069,
+  "sitelinks": {},
+  "title": "Item:Q127960",
+  "type": "item"
+}

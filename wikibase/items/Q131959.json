@@ -1,0 +1,656 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pegasus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q131959$B7C41FF2-1721-4A90-AE7D-CE0F3DF8FB4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131959$F2F8B146-6E40-401D-B02E-3C953CF9199A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131959$1489EA35-B6B3-4A9F-921C-52CD8FD1987F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75039",
+              "numeric-id": 75039
+            }
+          },
+          "hash": "77f6244fd2d79f3ea14e9fbb501d9f097d005ac9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131959$E01AD86F-86D9-483D-9528-E8EAB10384DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131638",
+              "numeric-id": 131638
+            }
+          },
+          "hash": "90e635938ef00d3d470abc47b91c6eeb745b46fe",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131959$4CE472A3-C052-4257-84D8-0A119FC6CCC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q162797"
+          },
+          "hash": "1767f94ef7d9bf845ef7b73fcd4a2883786844eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131959$9DAAD665-9C2A-4725-A9E2-57B8BBA59E0B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pegasus Arms.svg"
+          },
+          "hash": "e442ecd7e4493006259155184cebbbc1db17c25b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "حصان مجنح في الأساطير الإغريقيَّة"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "мітычная істота"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "গ্রীক পুরাণের পক্ষিরাজ ঘোড়া"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "mitološko biće u grčkoj mitologiji"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "animal de la mitologia grega"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "bájný kůň z řecké mytologie"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ceffyl adeiniog mewn mytholeg Roeg"
+    },
+    "da": {
+      "language": "da",
+      "value": "mytologisk dyr fra den græske mytologi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pferd mit Flügeln"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological creature in Greek mythology"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "ĉevalo kun flugiloj de helenaj mitoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "criatura mitológica en la mitología griega"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "از موجودات افسانهای یونان باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "taruolento"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cheval ailé de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "na mitoloxía grega, un cabalo alado, branco, que naceu do sangue derramado por Medusa"
+    },
+    "he": {
+      "language": "he",
+      "value": "יצור מיתולוגי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szárnyas ló a görög mitológiában"
+    },
+    "it": {
+      "language": "it",
+      "value": "cavallo alato della mitologia greca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話に登場する空を飛ぶ馬"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Di mitolojiyê da hespa bibask"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯒ꯭ꯔꯤꯛ ꯀꯤ ꯋꯥꯔꯤ ꯗ ꯌꯥꯎꯕ ꯃꯁꯥ ꯄꯥꯟꯕ ꯁꯒꯣꯜ ꯑꯄꯥꯏꯕꯤ"
+    },
+    "my": {
+      "language": "my",
+      "value": "ဂရိဒဏ္ဍာရီလာသတ္တဝါ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "skrzydlaty koń w mitologii greckiej"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "animal mitológico que tem a forma de um cavalo com asas"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "cal din mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мифическое существо"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "krilati konj v grški mitologiji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "bevingad häst i grekisk mytologi"
+    },
+    "th": {
+      "language": "th",
+      "value": "ภาษาไทย"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan Mitolojisi'nde Deniz Tanrısı Poseidon ile Medusa'nın oğlu kanatlı at."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "крилатий кінь давньогрецької мітології"
+    }
+  },
+  "id": "Q131959",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بيغاسوس"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "بيڭاسوس"
+    },
+    "as": {
+      "language": "as",
+      "value": "পেগেছাছ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Pegasu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Peqas"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пегас"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пэгас"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пегас"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "পেগাসাস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Pegasos"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Pegaz"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pegàs"
+    },
+    "co": {
+      "language": "co",
+      "value": "Pegasu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pegas"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pegasus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pegasus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pegasos"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Pegasos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πήγασος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pegasus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pegasus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pegasus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pegazo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pegaso"
+    },
+    "et": {
+      "language": "et",
+      "value": "Pegasos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pegaso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پگاسوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pegasos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pégase"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Peigeasas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pegaso"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πήγασος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Pegasos"
+    },
+    "he": {
+      "language": "he",
+      "value": "פגסוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pegaz"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pégaszosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պեգաս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pegasus"
+    },
+    "io": {
+      "language": "io",
+      "value": "Pegazo"
+    },
+    "is": {
+      "language": "is",
+      "value": "Pegasos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pegaso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペーガソス"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Pegasus"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პეგასი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Пырақ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "페가소스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Pêgasos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Pêgasos"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Marghkell"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pegasus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Pegasas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Pegazs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Пегаз"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "പെഗാസസ്"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯄꯦꯒꯥꯁꯁ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Pegasus"
+    },
+    "my": {
+      "language": "my",
+      "value": "ပက်ဂါဆပ်စ်"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pegasus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pegasus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pegasus"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Pégase"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Pegàs"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਪੈਗਾਸਸ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pegaz"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "پیگاسس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pégaso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pégaso"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pegas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пегас"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Пегаас"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pegaz"
+    },
+    "si": {
+      "language": "si",
+      "value": "පෙගසස්"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pegas"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pegaz"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pegazi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Пегаз"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Пегаз"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Pegaz"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pegasos"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பெகாசஸ்"
+    },
+    "th": {
+      "language": "th",
+      "value": "เพกาซัส"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pegasus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пегас"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Pegasus"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pegasus"
+    },
+    "vro": {
+      "language": "vro",
+      "value": "Pegasus"
+    },
+    "war": {
+      "language": "war",
+      "value": "Pegasus"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "珀伽索斯"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "飛馬"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "珀伽索斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "珀伽索斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "珀伽索斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "佩格薩斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "貝卡薩斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "珀伽索斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "佩格薩斯"
+    }
+  },
+  "lastrevid": 17544902,
+  "modified": "2025-09-17T08:51:34Z",
+  "ns": 860,
+  "pageid": 160344,
+  "sitelinks": {},
+  "title": "Item:Q131959",
+  "type": "item"
+}

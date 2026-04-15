@@ -1,0 +1,846 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shem"
+      },
+      {
+        "language": "en",
+        "value": "Puzur-Ashur"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q70442$6296CB04-EAB5-4059-A957-E715FD7124BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32470|372328"
+          },
+          "hash": "7dda36aabfe19f82fc53349d3d5ca8f87d98ee56",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q70442$C01DD561-E550-40F9-9DFA-4CDACE7372DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70445",
+              "numeric-id": 70445
+            }
+          },
+          "hash": "b9675f046d92d4420f3cbe4042e8318e7ad81ea0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70442$B1B1375A-B3A2-42FD-A122-5ECD78E392BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129745",
+              "numeric-id": 129745
+            }
+          },
+          "hash": "16b9077c85b08e34b6cf4358832058d71c983a36",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70442$5A5ADCBB-4C4B-4176-B353-6332C11BBCA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129863",
+              "numeric-id": 129863
+            }
+          },
+          "hash": "0d845fb5c89784a064150081340619b4f6c598b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70442$9F0EA084-6BF1-4FCB-BC09-84DDA0C18A31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129859",
+              "numeric-id": 129859
+            }
+          },
+          "hash": "88bfa5fb123e2a058003d1d8e3ae6ee5ca005019",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70442$74409900-71A8-4F01-B966-9196D92D4637",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129865",
+              "numeric-id": 129865
+            }
+          },
+          "hash": "473d840954020eff6b9264471cd608baaf694bc4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70442$1C8BB01F-4237-42F7-9FFC-AC4123E806CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70442$F0EAF047-97F9-4DFF-8746-80C59ABFDB80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q70442$F94EBD02-BC75-4B89-932B-3E98D10DFD58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70481",
+              "numeric-id": 70481
+            }
+          },
+          "hash": "a3fb6c6ff7305ef8c115a1b2b1b60c97a74f6df2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70442$82CF4658-0FFE-4B04-AD23-C3F9873A1D3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70439",
+              "numeric-id": 70439
+            }
+          },
+          "hash": "842e4c3603ae0e33e5845daf3b183e7927a0f7a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q70442$D91A738F-7C57-4241-80C7-010B124E5F12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70478",
+              "numeric-id": 70478
+            }
+          },
+          "hash": "dbc863f35b60c738b856216b77c76a943135f657",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70442$93E6774D-51AA-40B8-9839-FC84310D7F9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70442$F5694914-F5FA-40E6-BCDF-AB4EB4F59A96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1970-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "63138cbf89ea720acaa4b8545b68e5c86216200f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70442$CD91B576-2B28-4E22-BBA4-ADA274249639",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q200902"
+          },
+          "hash": "75798ef7080048fae8f8ac6380d4269f596bb62a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70442$85883E33-25FD-4F28-AD96-7610016FF26D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001713807287"
+          },
+          "hash": "f9b5524d3fb575abcda9b2506acfebe442b269c7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70442$4DF5BA9F-8238-476F-8AAF-1AD0D9C1A073",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shem Arms.svg"
+          },
+          "hash": "14f5bc95055cb67fd5182520ee2b1cecdab11de1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q70442$1C1CAD74-7459-4B17-81E9-27F2ED7DA408",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/84355a9f-2037-4f5d-b44a-1ce8a506a63b"
+          },
+          "hash": "4e28a70784dbd448f6e0691631fbeb35d75f056d",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن النبي نوح"
+    },
+    "az": {
+      "language": "az",
+      "value": "Bibliya fiquru, Nuhun oğlu, İbrahimin əcdadı"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Библия фигураһы, Нух улы, Ибраһимдың ата-бабаһы"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "біблійная асоба, Ноеў сын"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "библейски патриарх, първороден син на Ной"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইব্রাহিমীয় ধর্মসমূহের বর্ণিত নবি নূহের পুত্র"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(2568-1603)"
+    },
+    "da": {
+      "language": "da",
+      "value": "religiøs figur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical figure, son of Noah, ancestor of the Semites"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "laŭ Genezo, filo de Noa"
+    },
+    "es": {
+      "language": "es",
+      "value": "figura bíblica, hijo de Noé y ancestro de Abraham"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پسر نوح"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Raamatun henkilö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Noé"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Fillo de Noé"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "e bibleschi Figur"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bibliai alak, Noé fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖書の登場人物"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbelse figuur, zoon van Noach"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "jeden z trzech synów Noego, brat Jafeta i Chama"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblico"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj biblic, fiu al lui Noe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж; старший сын Ноя"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "بائبل واري تصوير، نوح جو پٽ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "(v Bibliji) sin Noeta, Abrahamov prednik"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Biblikal na pigura, Anak ni Noe, Ninuno ni Abraham"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'e göre Nuh'un oğlu (Yaratılış 10:1)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "聖經人物，挪亞兒子之一"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "聖經人物，挪亞兒子之一"
+    }
+  },
+  "id": "Q70442",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ሴም"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سام"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܫܝܡ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سام"
+    },
+    "az": {
+      "language": "az",
+      "value": "Şem"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سام نوح اوغلو"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Шем"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сім"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сим"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সাম"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཤེམ།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Shem"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sem"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "سام"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Šém"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Сим"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sem"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sem"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sem"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Sem"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Sam"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σημ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Puzur-Ashur"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Shem"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Shem"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ŝemo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sem"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Sem"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سام پسر نوح"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Seem"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sem"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Sem"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Séam"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sem"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Sem"
+    },
+    "he": {
+      "language": "he",
+      "value": "שם בן נח"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Šem"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sém"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սեմ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sem"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sem"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セム"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სემი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "셈"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sem"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Semas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Šems"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Sema"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Сим"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഷെം"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Sem"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sem"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sem"
+    },
+    "os": {
+      "language": "os",
+      "value": "Сим"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sem"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "سام بن نوح"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sem"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sem"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сим"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "سام"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sem"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Sem (biblická postava)"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "سام بن نوح"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sem"
+    },
+    "so": {
+      "language": "so",
+      "value": "Saam"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sem"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Сем"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Сем"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Sem"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sem"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சேம்"
+    },
+    "th": {
+      "language": "th",
+      "value": "เชม"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Shem"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Sen"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sam"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сим"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سام"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Shem"
+    },
+    "war": {
+      "language": "war",
+      "value": "Sem"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "闪姆"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "שם"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "閃姆"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "闪姆"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "闪姆"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "閃姆"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "閃姆"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "闪姆"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "閃姆"
+    }
+  },
+  "lastrevid": 17482272,
+  "modified": "2025-09-16T17:50:03Z",
+  "ns": 860,
+  "pageid": 85273,
+  "sitelinks": {},
+  "title": "Item:Q70442",
+  "type": "item"
+}

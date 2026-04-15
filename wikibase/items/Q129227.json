@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Geoffroy de Rohan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q129227$B7EAC15D-4255-4E43-B738-043D0BA700D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00046751"
+          },
+          "hash": "8395c7eb17b6e3a01f0616b5e4edc75127fbfa44",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129227$35F19716-810B-481E-A307-D4DA019083BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129227$83490008-32F1-4DA3-A417-300AD9E915BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129227$E8E209DF-5E30-4696-9876-55B6B3CCECA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122824",
+              "numeric-id": 122824
+            }
+          },
+          "hash": "d6a6dd3e4342f296199b1733a58a9fc6a9120180",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129227$4FE18843-A22F-4266-95F6-BB38BB74C876",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142413",
+              "numeric-id": 142413
+            }
+          },
+          "hash": "05367ee1fb17f09a3baddd7b847a62ad3ba35610",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129227$F1B036C1-094B-44FC-BB1D-FBC3684CB9F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129201",
+              "numeric-id": 129201
+            }
+          },
+          "hash": "baa8c574ccdb73b6f6344970130900b63d2b5575",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129227$371BF518-4CCF-4AD2-A70B-F3FA3F96CBE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149849",
+              "numeric-id": 149849
+            }
+          },
+          "hash": "c9c56ac89d1aca5bdcc19418084df651e750bbf9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129227$342F0FCE-5CBA-4F58-8D08-73093CEB8386",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129227$1CB12E24-A824-46EB-AB69-730BC6B56AA6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1190-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f862805990631397c18cf4b6ba6f9128dd82b62",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129227$60493F41-8A7A-44BF-889B-E204AAF07B60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1221-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8aa7dd569a08e04c3e3c17ef0ee85f17911a8120",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129227$BAD9CD40-00F5-4AAF-ACBE-B2F507D49603",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3101179"
+          },
+          "hash": "d83d78bc9fe907cd753a55fa44e7ff96c69655a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129227$FD05AE4F-FF5E-4E79-A412-580510EB9EC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=geoffroi;n=de rohan"
+          },
+          "hash": "ef0fdafbeb5a784dd44acde0b031b109fc3d3525",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129227$F436208A-A72B-4CA8-A0BC-019E2C38C5A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Geoffroy de Rohan Arms.svg"
+          },
+          "hash": "f54e0b749c6eaac9ea81ccd032657f82204e3336",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Breton nobleman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "vicomte de Rohan"
+    }
+  },
+  "id": "Q129227",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جيفروى دى روهان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Geoffroy de Rohan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Geoffroy de Rohan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Geoffroy de Rohan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Geoffroy de Rohan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Geoffroy de Rohan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Geoffroy de Rohan"
+    }
+  },
+  "lastrevid": 17542257,
+  "modified": "2025-09-17T08:15:53Z",
+  "ns": 860,
+  "pageid": 156771,
+  "sitelinks": {},
+  "title": "Item:Q129227",
+  "type": "item"
+}

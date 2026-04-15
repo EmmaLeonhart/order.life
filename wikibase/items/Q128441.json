@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gisela von Ammensleben"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128441$2F694D86-8137-419A-9561-36C9B775B97E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00310963"
+          },
+          "hash": "4789ed5386ae4abe5df8d7d716cb1bdbca530b70",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128441$3E1F3DE4-21A3-4788-BD44-A444063E124B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Von_Ammensleben-1"
+          },
+          "hash": "01ce412e44580394d0fe48f530adbbab40187106",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128441$DF3C355F-C3F9-4794-984B-708BFE3B2FF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128441$1A6DAD66-0322-4848-AE10-3F8B340D9D5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128441$A6E53A60-7082-43C1-9754-368BC144E5E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128965",
+              "numeric-id": 128965
+            }
+          },
+          "hash": "c6988c070da8296a923b37b2820e439a2d01a560",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128441$37772CC0-CDEB-4D1E-9D3F-47625F3EBB90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122327",
+              "numeric-id": 122327
+            }
+          },
+          "hash": "5107fca0e66a0df69eecbdd9ffd3792a3fb7a10e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128441$66FD4A6D-874C-42B8-997B-B30927BFF4B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128437",
+              "numeric-id": 128437
+            }
+          },
+          "hash": "c113499abe4a8cf7fe161e196d55f8649bfa82e9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128441$E6C5C685-04FC-42BE-88F6-8EA8EFAA7FC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128441$E6486421-62A9-4380-B6EF-341E128AC658",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94b17f56dd7e53642af9aedc8c2d6f0cfed5870a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128441$D20FE33F-C967-4C93-AC3F-6A1798C2BB88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118876520"
+          },
+          "hash": "8cfd837b5bf828de58c46890649b7b58720cf941",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128441$619D3B91-CDDF-4A04-99C4-E033F64D05D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gisela von Ammensleben Arms.svg"
+          },
+          "hash": "263f4013c5f18e6092acbcb2410a5487ce96ac43",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1090 -"
+    }
+  },
+  "id": "Q128441",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gisela von Ammensleben"
+    }
+  },
+  "lastrevid": 17541479,
+  "modified": "2025-09-17T08:05:38Z",
+  "ns": 860,
+  "pageid": 155715,
+  "sitelinks": {},
+  "title": "Item:Q128441",
+  "type": "item"
+}

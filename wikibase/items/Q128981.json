@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Giso IV, Count of Gudensberg"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128981$30DCECD0-45F4-4F5A-B94A-87BFEC0B54D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "591368"
+          },
+          "hash": "4b83daad9fb527563fb69da12f7c44b51e9281d8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q128981$C0919F22-435B-4719-854E-E5D31E7AA48B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127256",
+              "numeric-id": 127256
+            }
+          },
+          "hash": "8d47a13cfb4ec8b2a62fb68b4cf4ed3a10513043",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128981$2633CDB5-64A9-43EA-99BA-2D967274A890",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128981$7A3AB9A8-09B5-4BA7-ADED-4CFE95F79A86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q128981$C8E8DA02-B2B4-4F60-BFB5-16BA960F563F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Giso_IV,_Count_of_Gudensberg_(1)"
+          },
+          "hash": "cfbb283740ebf06546a4b1b7a7b37e81d2d6b36e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128981$C5B71ED0-5357-47D9-8C77-569459F9ACCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128979",
+              "numeric-id": 128979
+            }
+          },
+          "hash": "4af98ec3d3ad0cbb8d6954f6701870211596d75c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128981$D1AD4AC4-22EB-43D5-A402-6B15D5B7C2F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122633",
+              "numeric-id": 122633
+            }
+          },
+          "hash": "442a5dea150a25244a2719f47c747cd7c61182f4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128981$D49C86E1-0681-4704-A973-05892B3A9F33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128981$AB0E10B6-C41A-4C9B-85A9-FBB58C0377C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1070-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "24abcd82243d0d34b9614e488988bf619d6e4e2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128981$2F16C4C2-170C-40AD-9353-33D433EC3875",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1122-03-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "543fec3533c5077a6dfaafeb7767b562a8c9d87d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128981$CCA516D7-BF52-4998-82EC-9C98410F4D04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1527627"
+          },
+          "hash": "13fe68e093763c7bc4cf7d93618a834fcbd68368",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128981$E58DADA0-9D39-4D8E-A8AB-7061C6C33F00",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Giso IV, Count of Gudensberg Arms.svg"
+          },
+          "hash": "cef0c69f04eb236b0d49078088ae4fae33f2c571",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata alemán (1070–1122)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata alemany"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf im Oberlahngau; Graf von Gudensberg"
+    },
+    "en": {
+      "language": "en",
+      "value": "German nobleman"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata alemán"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata alemaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate allemand"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata alemán"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aristocraat (1070-1122)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata alemão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Гуденсберга"
+    }
+  },
+  "id": "Q128981",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جيسو الرابع كونت جودنسبرج"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гизо IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Giso IV"
+    },
+    "de": {
+      "language": "de",
+      "value": "Giso IV."
+    },
+    "en": {
+      "language": "en",
+      "value": "Giso IV, Count of Gudensberg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Giso IV"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Giso IV van Gudensberg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гизо IV"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Giso IV"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Giso IV, Count of Gudensberg"
+    }
+  },
+  "lastrevid": 17542011,
+  "modified": "2025-09-17T08:12:38Z",
+  "ns": 860,
+  "pageid": 156441,
+  "sitelinks": {},
+  "title": "Item:Q128981",
+  "type": "item"
+}

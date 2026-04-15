@@ -1,0 +1,408 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gomer"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129867$808611D8-D926-4026-9A2C-AB60E565CE3F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32417"
+          },
+          "hash": "5ace379b47d63c32dea46d81a8f1e36987970d2c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129867$DA78CFFA-F052-43DC-815B-8B3DE175BD45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130310",
+              "numeric-id": 130310
+            }
+          },
+          "hash": "fd6b1f3d37c85d61a2beb2c1cfc83a803c487b47",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129867$04E13DCD-42A4-438F-BCB5-E4048E829736",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130308",
+              "numeric-id": 130308
+            }
+          },
+          "hash": "98b938c823120ea1601c42043a377073376f51be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129867$DA509226-7159-4AE3-8AAA-D49F014256EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130312",
+              "numeric-id": 130312
+            }
+          },
+          "hash": "2901b2aceeff80dcb89c414619e1be3840391634",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129867$70456491-1FD3-4E4B-AEE6-C4DF9B09EF80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129867$5AEFD238-39A9-461E-B50B-6A7E59EFD593",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129867$737FB6D2-885E-4F16-8EA9-F0F18AB1AAFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129720",
+              "numeric-id": 129720
+            }
+          },
+          "hash": "39c12011cb25c205a8dd266ce5a0d2aef2b8272a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129867$6D0D8F4D-2E07-4ACE-8475-3052C9F472A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129867$31BC61E8-6810-479F-A45A-FC796D7DCFE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1148172"
+          },
+          "hash": "3fb14274ba4325245af8c14bea03974f2f0e6091",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129867$6781E19B-7350-4652-8C0D-80A789701F2A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gomer Arms.svg"
+          },
+          "hash": "7bf0cdb21c887d2b797d88223d8089ffa8294dfb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أحد أولاد يافث بن نوح"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bible character, son of Japheth (Genesis 10)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, בנו הבכור של יפת"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico nipote di Noè"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბიბლიური პერსონაჟი, იაფეთის ძე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야벳의 맏아들"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbelse figuur"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, сын Иафета"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 10:2)"
+    }
+  },
+  "id": "Q129867",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ጋሜር"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "غومر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جومر"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Ғүмәр"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гомер"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "গোমর"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "གོ་མེར།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gómer"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gomer"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gomer fab Jaffeth"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gomer"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Gomer"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γαμέρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gomer"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Gomer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gomer"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gomer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gomère"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gómar"
+    },
+    "he": {
+      "language": "he",
+      "value": "גומר בן יפת"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գամեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gomer"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gomer (Bibbia)"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გომერი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고멜"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Gomer"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gomer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gomer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gomer"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "جمر بن یافث"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gômer"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gomer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гомер"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yafet oğlu Gomer"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ґомер"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جمر بن یافث"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "歌篾"
+    }
+  },
+  "lastrevid": 17542837,
+  "modified": "2025-09-17T08:23:39Z",
+  "ns": 860,
+  "pageid": 157628,
+  "sitelinks": {},
+  "title": "Item:Q129867",
+  "type": "item"
+}

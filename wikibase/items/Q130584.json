@@ -1,0 +1,567 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Epimetheus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q130584$812A6963-A736-4568-8579-10C874ADD5E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "403726"
+          },
+          "hash": "8d5704da78c33e3b96c6a0bd7edc6739ffccf19c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q130584$12F1C382-7745-4268-84F2-1653DE9262A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132042",
+              "numeric-id": 132042
+            }
+          },
+          "hash": "fbd0c8e4c6ebce4776054ca75bd7988fd9c5db95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130584$E1F82052-CE8D-4F56-BC85-7406F8E71C2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132043",
+              "numeric-id": 132043
+            }
+          },
+          "hash": "9c8104b1251a9343283821d732b7e367d22a0ea8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q130584$55044838-D154-4029-97AD-0256328A6F7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130584$18889F20-4AA9-47BD-AE29-D46F94CA35F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q130584$54F6A234-257E-4695-A62C-3633DA02640A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132041",
+              "numeric-id": 132041
+            }
+          },
+          "hash": "9a9f6409ff4c6164bd7f5c9b7b350088e2cd753a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130584$D3F0D1C4-E6A7-4701-91C8-586410544EF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90374",
+              "numeric-id": 90374
+            }
+          },
+          "hash": "8c45e7bb31beceafc823e3949b3ca75ca0ed10e0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130584$FF8EB97A-609C-45DE-8A60-B280184962BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90317",
+              "numeric-id": 90317
+            }
+          },
+          "hash": "a25e89f11dad3be8f04cf08a9cb65ef415cb4c39",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130584$5CBD900C-7018-4DDA-832F-263C29B995B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130584$35CF1104-8E99-402E-8440-D1B859F8CFA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q41054"
+          },
+          "hash": "44df69911f54c787b04497be82c092ee68d13fb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130584$E8563A30-4677-46F9-8C91-0CF186C4F692",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Epimetheus Arms.svg"
+          },
+          "hash": "b5765f373b63b112190aaf1a545fd918fbb899c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "един от титаните в древногръцката митология"
+    },
+    "de": {
+      "language": "de",
+      "value": "Figur in der griechischen Mythologie"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιτάνας της ελληνικής μυθολογίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological figure"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Greziar mitologiako izakia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kreikkalaisessa mytologiassa Prometheuksen veli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe da mitoloxía grega"
+    },
+    "he": {
+      "language": "he",
+      "value": "טיטאן במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a görög mitológia egyik alakja, titán"
+    },
+    "it": {
+      "language": "it",
+      "value": "titano della mitologia greca, fratello di Prometeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の神、ティーターン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнегреческой мифологии титан, сын Иапета и Климены"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "pirsunaggiu dâ mituluggìa greca, frati di Prumitèu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "grška mitološka figura, eden izmed Titanov"
+    }
+  },
+  "id": "Q130584",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Epimetheus"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ابيمثيوس"
+    },
+    "as": {
+      "language": "as",
+      "value": "এপিমেথিউছ"
+    },
+    "az": {
+      "language": "az",
+      "value": "Epimetey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Эпіметэй"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Епиметей"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "এপিমেথেউস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Epimetheüs"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Epimetej"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Epimeteu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Epimétheus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Epimetheus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Epimetheus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Επιμηθέας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Epimetheus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Epimeteo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Epimeteo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Epimetheus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Epimeteo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اپیمتئوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Epimetheus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Épiméthée"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eipiméitéas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Epimeteo"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἐπιμηθεύς"
+    },
+    "he": {
+      "language": "he",
+      "value": "אפימתאוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Epimetej"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Epimétheusz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Էպիմեթևս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Epimetheus"
+    },
+    "io": {
+      "language": "io",
+      "value": "Epimeteus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Epimeteo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エピメーテウス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에피메테우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Epîmêteûs"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Epîmêteûs"
+    },
+    "la": {
+      "language": "la",
+      "value": "Epimetheus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Epimetėjas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Epimetejs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Епиметеј (митологија)"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯑꯦꯄꯤꯃꯦꯊꯤꯌꯁ"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "اپیمتئوس"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Epimethevs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Epimetheus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Epimethevs"
+    },
+    "os": {
+      "language": "os",
+      "value": "Эпиметей"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Epimeteusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Epimeteu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Epimeteu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эпиметей"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Epimitèu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Epimetheus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Epimetej"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Epimétheus (mytológia)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Epimetej"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Епиметеј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Epimetheus"
+    },
+    "th": {
+      "language": "th",
+      "value": "เอพิมีเทียส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Epimeteo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Epimetheus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Епіметей"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Epimetey"
+    },
+    "war": {
+      "language": "war",
+      "value": "Epimetheus (mitolohiya)"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "艾比米修斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "厄庇墨透斯"
+    }
+  },
+  "lastrevid": 17543510,
+  "modified": "2025-09-17T08:32:34Z",
+  "ns": 860,
+  "pageid": 158592,
+  "sitelinks": {},
+  "title": "Item:Q130584",
+  "type": "item"
+}

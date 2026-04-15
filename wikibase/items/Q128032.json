@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ryksa Odonówna"
+      },
+      {
+        "language": "en",
+        "value": "Ryksa Odonowna"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q128032$9394AD9E-9748-4938-897F-7E3BF7C7D3E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Piast-39"
+          },
+          "hash": "60b9afd6d65683218f8a6fc3859dcc01c78c52ac",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128032$2EFD9E26-8592-493B-90BD-C9C711AC2453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128032$C2D5CD1B-C0AF-4D95-9288-0CE6C494C651",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128032$1300D87B-D4B5-423D-852F-A2D79A2ADCC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121999",
+              "numeric-id": 121999
+            }
+          },
+          "hash": "b09d59591f0d25a9f2318a8875cae18d6419f06a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128032$D70375D7-86EF-471B-BC54-15FB73597338",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127122",
+              "numeric-id": 127122
+            }
+          },
+          "hash": "6239b23d99f00a9623fbc6d5fada5f45561b27e9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128032$C424325C-3566-4FFF-BA2F-E8179E88FF0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128032$5F0317B6-7128-4D52-8A53-DA7B090971E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1190-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "223e14093f43d0d1c0a5bcba16fc47b76fd2fa2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128032$1E768E4D-CBC9-49B8-A8F5-645055F1E4DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9324407"
+          },
+          "hash": "229c68834d6f13370a26be086f6eef2b5f78731d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128032$9C504919-32E4-4B89-A8C4-2FAAB8340CA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ryksa;n=piast;oc=1"
+          },
+          "hash": "b5b6892f7c83dcee6d9f476dd3dd28abc083bc23",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q128032$CD34FEAA-4E81-4C4D-B14D-B4B0D79C89E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "psb.27495.1"
+          },
+          "hash": "2ffac7e034f99df11830fe0670434ebd82743d15",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128032$12F0E292-8084-4482-902B-ED088F2301A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ryksa Odonówna Arms.svg"
+          },
+          "hash": "e62400ab48e5cbb834e40abedfdbe991cb7af72b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "velkopolská kněžna"
+    },
+    "de": {
+      "language": "de",
+      "value": "polnische Prinzessin"
+    },
+    "en": {
+      "language": "en",
+      "value": "1194 - aft. 18 Nov 1238"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "księżniczka wielkopolska, żyjąca na przełomie XII i XIII wieku"
+    }
+  },
+  "id": "Q128032",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Ryksa Odonowna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ryksa Odonówna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρίκσα Οντόνοβνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ryksa Odonówna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ryksa Odonówna"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ryksa Odonówna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рикса Одоновна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Рикса Одонівна"
+    }
+  },
+  "lastrevid": 17541083,
+  "modified": "2025-09-17T08:00:17Z",
+  "ns": 860,
+  "pageid": 155166,
+  "sitelinks": {},
+  "title": "Item:Q128032",
+  "type": "item"
+}

@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Milo von Ammensleben"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128443$FE9DB99A-22B3-4948-8ACC-5C1CD1266A3F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00125072"
+          },
+          "hash": "26c5b8f7ee5d4da9229de788b9f8060f747a1a08",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128443$85A84A6D-7A26-493F-B510-16A533C37C06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ammensleben-8"
+          },
+          "hash": "0207df562e3770041d8a44ade5812d44f87eb241",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128443$8AF2B0FF-9DB4-4A01-86C8-5759A23DA4F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128443$B4341C75-87E0-4CA7-A413-5AF24145EB04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128443$54AD55B9-C504-4F8A-83B8-7A66556C9CD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122327",
+              "numeric-id": 122327
+            }
+          },
+          "hash": "5107fca0e66a0df69eecbdd9ffd3792a3fb7a10e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128443$D9202639-C454-45E7-B7F3-579243CB4404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128437",
+              "numeric-id": 128437
+            }
+          },
+          "hash": "c113499abe4a8cf7fe161e196d55f8649bfa82e9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128443$55FE093E-43EB-4362-9AD1-2A501121EAEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128443$5D266828-5EF3-4015-959E-6E5110846F76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1095-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b82abb43f524a6c20ac122c805b00fe39bd1300f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128443$0D542FD4-3D27-4CC3-8034-979769D8C9EF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1126-02-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eff6906a14f66bda5e0df721c95cba8fe93cac30",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128443$8021A34F-5A36-46D7-90B4-812790DAE09A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q59391966"
+          },
+          "hash": "b164781187c078e81f8f066fd531b8672eedbe73",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128443$7D0C0F00-4076-4408-BF7E-B02AEBE4E4C6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Milo von Ammensleben Arms.svg"
+          },
+          "hash": "542235b22ca69aa27a64afbc99192908d2a90f87",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "Граф на Аменслебен"
+    },
+    "en": {
+      "language": "en",
+      "value": "1082 - 18 Feb 1126"
+    }
+  },
+  "id": "Q128443",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мило фон Аменслебен"
+    },
+    "en": {
+      "language": "en",
+      "value": "Milo von Ammensleben"
+    }
+  },
+  "lastrevid": 17541481,
+  "modified": "2025-09-17T08:05:39Z",
+  "ns": 860,
+  "pageid": 155717,
+  "sitelinks": {},
+  "title": "Item:Q128443",
+  "type": "item"
+}

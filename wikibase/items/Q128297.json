@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Irene Komnene"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q128297$0DB237A4-7259-479F-952A-6EE1EC57ED6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Komnene-12"
+          },
+          "hash": "d6433dcbaf583edd44371a4ed895973debd83403",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128297$77A140EC-D2DC-42EA-8698-5FF9025E03F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128297$D92DC170-3223-4655-A551-B850D08375FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128297$BEA383AF-DDB7-4389-B742-7F9B5EAEC704",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122223",
+              "numeric-id": 122223
+            }
+          },
+          "hash": "feb84d8625e30da3a7fd4ab98dd6ddc6415efe58",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128297$ADED3F97-73BC-4CCC-BFCF-4A7CB9B68988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128297$C8FF3EA0-2A99-4511-AF3D-1F224CB50D19",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1135-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "13b7e8c07884bc4a4a23e3b6d555c39b00d92c81",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128297$6BB57F42-E169-48CF-A52F-BDA1855F7298",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21030027"
+          },
+          "hash": "c9172a6f9f9777c2ff4e608aa322cefcd20347d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128297$90DF569E-13ED-49ED-9B9F-FBD3C862BFAA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Irene Komnene Arms.svg"
+          },
+          "hash": "6265942a54c9b1a03516695021d8566d47a3ca2d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса, внучка на Йоан II Комнин"
+    },
+    "en": {
+      "language": "en",
+      "value": "(est. 1135 - )"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "внучка византийского императора Иоанна II Комнина"
+    }
+  },
+  "id": "Q128297",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إيرين كومنينا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ирина Комнина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Irene Comnena"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Irena Komnenovna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ειρήνη Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irene Komnene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Irene Komnene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Irène Comnène"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Irene Komnene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ирина Комнина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ирена Комнин"
+    }
+  },
+  "lastrevid": 17541335,
+  "modified": "2025-09-17T08:03:44Z",
+  "ns": 860,
+  "pageid": 155521,
+  "sitelinks": {},
+  "title": "Item:Q128297",
+  "type": "item"
+}

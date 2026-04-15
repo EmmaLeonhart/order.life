@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konrad I."
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128399$A8B1D2DE-4A46-47E2-B61B-24DE2D2148A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "893814"
+          },
+          "hash": "d8bc03ebfaee4dae481548a473b33b0d2b3d09f0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q128399$00C37C64-D49C-4ED0-8E8E-2C96BEB24974",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00111073"
+          },
+          "hash": "c56a79128f64fcb9e873751177418bda4f21e575",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128399$087FC820-CFDF-4A08-A5B3-9E2C098E5461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128399$8A0E7E80-B235-4E9A-90E3-E67E6CD0045E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128399$55FF784B-FFFE-4C89-A389-2798A07955A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122281",
+              "numeric-id": 122281
+            }
+          },
+          "hash": "d93114cff9c5690cedd84adacd3976f741d2a129",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128399$233C4771-BDF6-45FE-9821-D8596118531A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128397",
+              "numeric-id": 128397
+            }
+          },
+          "hash": "c827472cb75e51bab78280cb71ecccfa30f543c5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128399$BDE8B4BC-1DFE-4B8C-89F2-68DE6AC3FB65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128399$682CEC3C-A604-4486-9793-0D17901380B2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128399$4DEFF0AD-E120-41D6-8AAB-D73AB3758F2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1244-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d3cfd8e90c5b01a4fe3108c961cc49d5cd4bc1f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128399$1B6D1C7D-F0E1-47D4-9E5F-738DD87860C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1782079"
+          },
+          "hash": "4212eb0e87dd3563ef4a423596ded41cb76240ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128399$343A10CF-38DC-408F-80B1-0C2C20433436",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=konrad;n=von teck"
+          },
+          "hash": "538bb4942554154fc6cdbb564d16799fa08cd78d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128399$1A26BE80-655E-4B6C-B0A0-5A3DF4B70710",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konrad I. Arms.svg"
+          },
+          "hash": "90dad4bc3bc01f455e4a45f5ea0f69b374a2f94d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herzog von Teck"
+    },
+    "en": {
+      "language": "en",
+      "value": "- 1235/1248"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "hertug av Teck"
+    }
+  },
+  "id": "Q128399",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Конрад I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Konrád I. z Tecku"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konrad I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Konrad I."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Konrad I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Konrad I."
+    }
+  },
+  "lastrevid": 17541437,
+  "modified": "2025-09-17T08:05:04Z",
+  "ns": 860,
+  "pageid": 155658,
+  "sitelinks": {},
+  "title": "Item:Q128399",
+  "type": "item"
+}

@@ -1,0 +1,476 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jethro"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129933$17B5AFF7-B8BE-4B8A-ABAE-9C6771A46C55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "421530|361757"
+          },
+          "hash": "33ea0a07a3ccb2efcfa45e7b1b142ecbe71c870b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129933$3C7AB137-D739-4014-B746-EFD3FE04489A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130352",
+              "numeric-id": 130352
+            }
+          },
+          "hash": "8cb85fc5e4ce4e70505d89627fbb265ba646c7df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129933$984ADCB1-5009-4AA4-91FC-4D8B77586506",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129789",
+              "numeric-id": 129789
+            }
+          },
+          "hash": "b57dc0701b336d2334552b07d3acc73e56f52f24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129933$54BE44DE-ABDE-4A8B-B50B-230497524719",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129933$A86E581E-1492-48FD-9ACD-115B4EA6323E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129933$A0A61535-1F55-441A-A541-B524DFC8837D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129933$A8C5FFD5-3C84-4D29-A117-65B0DA8697CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5517e7fa629916f09c9b2d2aa43301814f6098a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129933$296B63B0-7A2A-48E8-8700-60E99851329A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "514774ee5a5ea61c406db5db7ec62c48fc5359a1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129933$916BB3C5-FBAF-46D1-A807-8DEB368E1611",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q62788"
+          },
+          "hash": "d4be1a33bfa358a30791877a20bf08846e89f4aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129933$C391FB2B-C60E-4B57-B97C-8968EAEA3D4A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jethro Arms.svg"
+          },
+          "hash": "547b81885b2e9aa9d168d4229bf6c587b53596a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Personatge bíblic"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava, midjánský kněz"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Doo ŋun nyɛ pukpara"
+    },
+    "el": {
+      "language": "el",
+      "value": "βιβλικό πρόσωπο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical character"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "bopatro de Moseo"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, כהן מדיין, אבא של ציפורה אשת משה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tokoh yang disebut dalam Alkitab"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della Bibbia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj biblic, tatăl Seforei"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "biblijska oseba"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "svärfar till Mose"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Mısır'dan Çıkış 3:1)"
+    }
+  },
+  "id": "Q129933",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "رعوئيل"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "رعوئيل"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "যিথ্রো"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཡི་ཏྲོ།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Yitro"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jetró"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jitro"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Jethro"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jitro"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιοθόρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jethro"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jitro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jetró"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jetro"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jetro"
+    },
+    "fj": {
+      "language": "fj",
+      "value": "tevoro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jethro"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Iatró"
+    },
+    "he": {
+      "language": "he",
+      "value": "יתרו"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yitro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ietro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エトロ (聖書)"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Yitro"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이드로"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jetro"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јотор"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jetro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jetro"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Jethro"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jetro"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jetro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jetro"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ietro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иофор"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Jethro"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jetro"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jethro"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јотор"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jetro"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Yetro"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இத்திரோ"
+    },
+    "th": {
+      "language": "th",
+      "value": "เยโธร"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yitro"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Їтро"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یترو"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Yitro"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "יתרו"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "叶忒罗"
+    }
+  },
+  "lastrevid": 17542899,
+  "modified": "2025-09-17T08:24:28Z",
+  "ns": 860,
+  "pageid": 157717,
+  "sitelinks": {},
+  "title": "Item:Q129933",
+  "type": "item"
+}

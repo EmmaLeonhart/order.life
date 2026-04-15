@@ -1,0 +1,737 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "sphinx"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q131610$A0CAE3FF-011B-48A7-90BE-88D8CE4791D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131610$7D785BE7-BEAE-4AE3-BBE3-72EC3B7AB5BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131610$B2657DA5-F2A4-42CA-A008-9A9A590D32B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130504",
+              "numeric-id": 130504
+            }
+          },
+          "hash": "a6a54f811eef561743edaf17a3e1721771d2afda",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131610$10D3E7B9-4150-449A-89D5-96C5BA529EF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130542",
+              "numeric-id": 130542
+            }
+          },
+          "hash": "17631ca88d622d7eabf7d3aa8b2e711136831cc3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131610$62FD400A-1A85-4F98-8475-8021BF14B355",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131610$85CFDFEB-B3F8-4177-8C16-815761189106",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q151480"
+          },
+          "hash": "f99985ab6a720ba01c0d72f6e9e7c76b7ad99f18",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131610$C7F0F847-BD7B-49BF-8FBF-2CBFA348B946",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "sphinx Arms.svg"
+          },
+          "hash": "d5d854d0e5712db7804b329758132a453cd5c12e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "mitiese wese met die kop van 'n mens, die liggaam van 'n leeu en die vlerke van 'n valk."
+    },
+    "ar": {
+      "language": "ar",
+      "value": "تمثال لأسد بوجه إنسان"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "эгіпецкая мітычная істота"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "criatura mitològica"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "mytické zvíře"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "creadur ym mytholeg y cynfyd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Ungeheuers Typhon und Echidna in der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological creature with the head of a human and the body of a lion"
+    },
+    "es": {
+      "language": "es",
+      "value": "criatura mitológica"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نشان قدرت و پادشاهی فرعون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ihmispäinen symbolieläin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "créature mythologique"
+    },
+    "he": {
+      "language": "he",
+      "value": "מפלצת מיתולוגית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai teremtmény, oroszlántestű, emberfejű, szárnyas lény"
+    },
+    "id": {
+      "language": "id",
+      "value": "Makhluk mitologis Mesir kuno"
+    },
+    "it": {
+      "language": "it",
+      "value": "creatura mitologica"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "神話の怪物"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "makhluk mitos dimana ia berkepala manusia dan badan sekor singa"
+    },
+    "my": {
+      "language": "my",
+      "value": "အီဂျစ်ဒဏ္ဍာရီလာလူဦးခေါင်းနှင့်ခြင်္သေ့ကိုယ်ရှိသောသတ္တဝါ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "mityczne stworzenie (lew z ludzką głową)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "um monstro alado com corpo de mulher e leão que afligia a cidade de Tebas; isso ocorreu até que Édipo, filho de Laio enfrentou a esfinge e conseguiu decifrar o seu enigma"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "мифическое существо"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "mýtické zviera"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "egipčansko mitološko bitje s človeško glavo in levjim telesom; hči pošasti Tifona in Ehidne v grški mitologiji"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "зооморфно митолошко створење"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mytologisk varelse"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antik yapı, Antik Dünya'nın 7 harikasından biridir"
+    }
+  },
+  "id": "Q131610",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "sfinks"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أبو الهول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سفنكس"
+    },
+    "as": {
+      "language": "as",
+      "value": "স্ফিংক্স"
+    },
+    "az": {
+      "language": "az",
+      "value": "Sfinks"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ابوالهول"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Сфинкс"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Sphinx"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Sphinx"
+    },
+    "be": {
+      "language": "be",
+      "value": "Сфінкс"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сьфінкс"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сфинкс"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "স্ফিংক্স"
+    },
+    "br": {
+      "language": "br",
+      "value": "Sfins"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Sfinga"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "esfinx"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Sphinx"
+    },
+    "co": {
+      "language": "co",
+      "value": "Sfingi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "sfinx"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "Sfinks"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "sffincs"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sfinks"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sphinx"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σφίγγα"
+    },
+    "en": {
+      "language": "en",
+      "value": "sphinx"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sphinx"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sphinx"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sfinkso"
+    },
+    "es": {
+      "language": "es",
+      "value": "esfinge"
+    },
+    "et": {
+      "language": "et",
+      "value": "Sphinx"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Esfinge"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ابوالهول"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "sfinksi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sphinx"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "sfioncs"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Esfinxe"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Sphinx"
+    },
+    "he": {
+      "language": "he",
+      "value": "ספינקס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sfinga"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szphinx"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սֆինքս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sfinks"
+    },
+    "io": {
+      "language": "io",
+      "value": "Sfinxo"
+    },
+    "is": {
+      "language": "is",
+      "value": "Sfinx"
+    },
+    "it": {
+      "language": "it",
+      "value": "sfinge"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スフィンクス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სფინქსი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Сфинкс"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "سفىينكس"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "سفىينكس"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Сфинкс"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Сфинкс"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Sfïnks"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Sfïnks"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಸ್ಫಿಂಕ್ಸ್"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스핑크스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Sfînks"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Sfînks"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Сфинкс"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sphinx"
+    },
+    "lad": {
+      "language": "lad",
+      "value": "Sfenks"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Sphinx"
+    },
+    "li": {
+      "language": "li",
+      "value": "Sfinx"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Sfinksas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "sfinksa"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Sphinx"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Сфинга"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "സ്ഫിങ്സ്"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "сфинкс"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Sfinks"
+    },
+    "my": {
+      "language": "my",
+      "value": "စဖင့်ရုပ်များ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "sfinks"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "sfinx"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "sfinks"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Esfinx"
+    },
+    "os": {
+      "language": "os",
+      "value": "Сфинкс"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਸਫਿੰਕਸ"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Sfinks (mitologia)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "sfinks"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "ابو الہول"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "esfinge"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Esfinge"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sfinx"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сфинкс"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "sphinx"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "sphinx"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sfinga"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "sfinga"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "ابوالہول"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sfinga"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "sfinksi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Сфинга"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Сфинга"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Sfinga"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sfinx"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Sfinksi"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இசுபிங்சு"
+    },
+    "te": {
+      "language": "te",
+      "value": "సింహిక"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Абулҳавл"
+    },
+    "th": {
+      "language": "th",
+      "value": "สฟิงซ์"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sfenks"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сфінкс"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ابوالہول"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Sfinks"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nhân sư"
+    },
+    "war": {
+      "language": "war",
+      "value": "Sphinx"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "斯芬克斯"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "ספינקס"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "斯芬克司"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯芬克斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "斯芬克斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "斯芬克斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "斯芬克斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "斯芬克斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "斯芬克斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "斯芬克斯"
+    }
+  },
+  "lastrevid": 17544500,
+  "modified": "2025-09-17T08:46:15Z",
+  "ns": 860,
+  "pageid": 159973,
+  "sitelinks": {},
+  "title": "Item:Q131610",
+  "type": "item"
+}

@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Forn Sigulfson, Lord of Greystoke"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q127826$01CEDC9F-E9C7-4B7E-A495-1926460DF35D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121823",
+              "numeric-id": 121823
+            }
+          },
+          "hash": "c7ffe60bada8d856474ed99eff5f50b824a770e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127826$CEB4BF2D-A236-4589-A008-6CC883873AEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127826$DD1D1EB3-D999-43A8-A547-3AECC6770143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127826$0A17D6C7-D64E-45B7-8686-82C822179EC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10467.htm#i104666"
+          },
+          "hash": "fd91a06f938de011f0da35a3aad7a3ede0225443",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127826$D6E5C43A-8D8D-4876-AB94-D59698857D4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127826$184042F0-10EF-47DB-A2F0-1B8F5A02D3C1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1129-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec6324c1579f2a8df016799506ca619749cf754f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127826$493CE4A4-5303-4EDE-94F1-9621570358E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75384462"
+          },
+          "hash": "35a58d330a5b854acbb598060cac0bd5c91584f2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127826$4B2C2BB5-BE82-42AF-BBB5-4AA31336C2CF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Forn Sigulfson, Lord of Greystoke Arms.svg"
+          },
+          "hash": "fd7b1aeb377ce1a64f34cd24b8c473ae06e03da2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=104666"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Forn Sigulfson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "феодальный барон Грейсток в Камберленде"
+    }
+  },
+  "id": "Q127826",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Forn Sigulfson, Lord of Greystoke"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Forn Sigulfson, Lord of Greystoke"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Forn Sigulfson, Senhor de Greystoke"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Форн Сигулфсон"
+    }
+  },
+  "lastrevid": 17540879,
+  "modified": "2025-09-17T07:57:35Z",
+  "ns": 860,
+  "pageid": 154889,
+  "sitelinks": {},
+  "title": "Item:Q127826",
+  "type": "item"
+}

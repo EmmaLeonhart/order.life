@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Audacja Małgorzata"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128041$DE0F5BCF-9C51-4474-98D1-55B6F697C427",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00079787"
+          },
+          "hash": "3ffdc9e8ee087f5be1065fdaf0dc721c95bcc5a4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128041$71C175F8-D614-4489-8BA2-DBEC2FBC61FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "NN-1102|Piast-253"
+          },
+          "hash": "2091485f271f2a113268f97300aa228599d89a8c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128041$6D7850D8-BAD7-498B-9A19-19E5BDFC9929",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128041$3FFCEA9F-44A5-4029-A474-B3377687720E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128041$36DC2F90-7DC9-4940-AD07-58CF819090E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122007",
+              "numeric-id": 122007
+            }
+          },
+          "hash": "fe70ef91483ea4446efa46eb370a8eb23349b9fe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128041$E175B87D-AE3D-453C-9413-BA2D5E791D14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128037",
+              "numeric-id": 128037
+            }
+          },
+          "hash": "b621a50faa578865b83dc3753690703ce0c17a32",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128041$24FC469C-234D-4E21-82EC-1AECF85C4BDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128041$E73606EA-BCD0-466D-99B0-13D422FBC84D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1196-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23881a44144ffd952576b352b1e15fd5ffa725cc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128041$EF340C64-59CE-4694-A96C-165A98E27E63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1270-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c606a2489729877ed25a3e6dd285290a04c10d1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128041$5741C273-094B-4675-B36B-09387685BE73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9161850"
+          },
+          "hash": "3eba66a6e170ed2672e36f0c52c16828e25f2290",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128041$1F02DA38-32D0-4DAB-9DDF-7580B1AA3B2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=margareta;n=von schlawe"
+          },
+          "hash": "a8509312ee529413f6933a9ed08577d5b30c0f38",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128041$C041C4A5-F14B-4A48-8EF6-023DB1DE95D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Audacja Małgorzata Arms.svg"
+          },
+          "hash": "42a6d087fbfcee577fdc05c7bb869d42ebb733ea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "polnische Prinzessin und Herzogin von Schwerin"
+    },
+    "en": {
+      "language": "en",
+      "value": "princess of Kuyavia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "prinses van Koejavië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "księżniczka kujawska"
+    }
+  },
+  "id": "Q128041",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Audacja Małgorzata"
+    },
+    "de": {
+      "language": "de",
+      "value": "Audacja Małgorzata"
+    },
+    "en": {
+      "language": "en",
+      "value": "Audacja Małgorzata"
+    },
+    "es": {
+      "language": "es",
+      "value": "Audacja Małgorzata"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Audacja Małgorzata"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Audacja Małgorzata"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Audacja Małgorzata"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Audacja Małgorzata"
+    }
+  },
+  "lastrevid": 17541093,
+  "modified": "2025-09-17T08:00:25Z",
+  "ns": 860,
+  "pageid": 155177,
+  "sitelinks": {},
+  "title": "Item:Q128041",
+  "type": "item"
+}

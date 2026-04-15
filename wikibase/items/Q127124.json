@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yaroslavna of Halych"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127124$3BC5E1DE-31E2-4C11-BE8F-819D0C647277",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "428859"
+          },
+          "hash": "f948505c2fc07d59634fa294fcefda8910f172a0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127124$0E9116B4-8394-46F0-80C3-D4125ABCA6A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127124$9CB3F112-77EA-4845-AFC7-1D6DAD2666B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127124$C6FDB401-86D3-4D4A-B259-DD003AD98E0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Miss_Yaroslavna_(1)"
+          },
+          "hash": "f4648eca8d1b7cca7c0a7f263936dfeb413387b1",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127124$23FFDD1A-C2A7-4245-B78C-9234C6F32222",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121529",
+              "numeric-id": 121529
+            }
+          },
+          "hash": "d6689d1e377e60a4cf8db281c41a834086774b0a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127124$059AB444-5E07-4CB6-9C10-4499FB7D3F52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127116",
+              "numeric-id": 127116
+            }
+          },
+          "hash": "c2f485820d1ff4adf72b60250eb6ffa1c6d6178d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127124$C74CDCA6-630F-4FF5-A770-4705874B7F41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121330",
+              "numeric-id": 121330
+            }
+          },
+          "hash": "3be6ed3d59a33eda97bde6d1b27be5ca6e242af0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127124$0033C26B-E812-4C19-B464-85E3A3608993",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127124$C0E60891-1EB5-487E-BFAA-4B4048F26AED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127124$A0F7A8FF-34BC-457B-9148-E3988E8DA9F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4990810"
+          },
+          "hash": "d1488a60cf42f924063dc7cb44223143130041b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127124$C12F20D1-D884-48EB-8A24-653C03E38C88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ne;n=rurikides;oc=18"
+          },
+          "hash": "b2a4de67b3113e3692e28dde9b00cb8b2578a2e0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127124$58C2CC1E-9987-4865-BA82-D3111A17B73C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yaroslavna of Halych Arms.svg"
+          },
+          "hash": "3dd86322a2eb0af908b0f085fe88b4447948e147",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "ruská kněžna, uherská královna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort of Hungary"
+    }
+  },
+  "id": "Q127124",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yaroslavna of Halych"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jaroslavna Haličská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jaroslawna von Galitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yaroslavna of Halych"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Iaroslavna de Halytch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yaroslavna of Halych"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ярославна Галицкая"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Yaroslavna av Halych"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ярославна Галицька"
+    }
+  },
+  "lastrevid": 17540215,
+  "modified": "2025-09-17T07:48:57Z",
+  "ns": 860,
+  "pageid": 153946,
+  "sitelinks": {},
+  "title": "Item:Q127124",
+  "type": "item"
+}

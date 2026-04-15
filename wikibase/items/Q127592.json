@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Günther IV of Käfernburg"
+      },
+      {
+        "language": "en",
+        "value": "Gunther IV of Kafernburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127592$EC745221-2902-4E77-88AB-23C5EDAC9D66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00119014"
+          },
+          "hash": "8395b4cea6804ee8e3a17e86cfff78323b0daf5f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127592$C3C9543B-9697-40F7-B3B3-996DD1B6AB82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127592$03A4C6C3-42C9-4A8B-9A5C-6530264B1C29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127592$3B2D3C05-C991-4FF4-8E5D-DF03DCBF78C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121664",
+              "numeric-id": 121664
+            }
+          },
+          "hash": "cae06337d97dbb3c9e89a23116f1074b0c781f99",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127592$59F34C69-E860-47D3-BCE7-D67CEA35FC37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127590",
+              "numeric-id": 127590
+            }
+          },
+          "hash": "9d1dbd99f04a580cfe9c918f2750e1cbae6ec832",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127592$2D981E4E-E4F5-4271-8054-0FD2DD667B21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127592$994A1677-2BC3-4FF5-9E38-4025589120E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127592$7733187F-ADC7-48FA-9A2D-8F13EBB3E405",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30650350"
+          },
+          "hash": "98a633ad88adac1b97fa2d2b291da9bf5e57e105",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127592$0C6D52AD-3C06-4E0F-9459-1A0C3B799AE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gunther;n=von kafernburg;oc=4"
+          },
+          "hash": "9004b36ac041e33f964ce30a3c295565687773b5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127592$0BBA4BE6-D6B0-4727-8F67-A913F556E9E6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Günther IV of Käfernburg Arms.svg"
+          },
+          "hash": "613e64f3e11a7a7b4f8b47f6b8681171fbfd0b2a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q127592",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Günther IV of Kevernburg"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гюнтер IV"
+    },
+    "de": {
+      "language": "de",
+      "value": "Günther IV von Kevernburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Günther IV of Käfernburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Günther IV of Käfernburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Günther IV van Kevernburg"
+    }
+  },
+  "lastrevid": 17540647,
+  "modified": "2025-09-17T07:54:34Z",
+  "ns": 860,
+  "pageid": 154575,
+  "sitelinks": {},
+  "title": "Item:Q127592",
+  "type": "item"
+}

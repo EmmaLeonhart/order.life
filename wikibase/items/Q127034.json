@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agafya Rostislavna"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127034$FCAB8790-59B8-45BD-85E0-04180F9BB030",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "629765"
+          },
+          "hash": "211b275c79b850c349b244123a49569dc55d94da",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127034$057CA05D-EE27-44B6-A28C-7798E8683E0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143685",
+              "numeric-id": 143685
+            }
+          },
+          "hash": "461145c97117507d60caf7e8b85aa9a8fbff610c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127034$C2ABE111-9026-4F0A-BD44-BCC340E3F21B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127034$8C892634-608E-40F3-AD6F-5D130B1FD0E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127034$C4692245-657F-46B2-A02C-FA96EB3BFF45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141183",
+              "numeric-id": 141183
+            }
+          },
+          "hash": "ee0a34d8bb44e66df87098161356884e2184a4b7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127034$46E8DCA4-ECD8-4853-B002-AA22AD27503E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121290",
+              "numeric-id": 121290
+            }
+          },
+          "hash": "650358a66b03230d8bdb58804c5ea3c4744d77fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127034$D76C7981-BFB9-4BB7-BFCD-6196355129D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127024",
+              "numeric-id": 127024
+            }
+          },
+          "hash": "9330d6abf823ff94dcbf8cd543f3ce6a4e0b9fee",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127034$0FC1734D-BAEA-4C6A-9F56-BD8F2F6589DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127034$80DC37B4-8AB4-41E1-B12E-C3F89D8E7043",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c36d5616da0c0b2cf4662248a5d88a9c7efc1ab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127034$FED3211D-DC46-41AB-AF2D-CBBDE7E70679",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab3ac58b76f3b2d049576a7bff2bc9545398613a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127034$1140C478-A1FC-47BA-9206-E0430792D395",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17280675"
+          },
+          "hash": "9089d6ca20378869a7e0080732da612e8ad053fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127034$59A27F79-29E4-44E7-993B-CA8250EF414A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=agafia;n=rurikides"
+          },
+          "hash": "7f98d1599e1ddb9879fdb8d48798add06bcdde78",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127034$6497F442-8332-499B-A93B-E730E03A01B3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agafya Rostislavna Arms.svg"
+          },
+          "hash": "8be20c8d145f8389042dffb36d524a16e6617494",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "membre de la noblesse russe médiévale"
+    }
+  },
+  "id": "Q127034",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Agafia Rostislavna"
+    },
+    "be": {
+      "language": "be",
+      "value": "Агаф'я Расціслаўна"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Agafja Kyjevská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agafja Rostislawna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agafya Rostislavna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agafia Rostislavna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agathe Rostislavna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アガフィヤ・ロスチスラヴナ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Agafia Rostislavna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агафья Ростиславна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агафія Ростиславна"
+    }
+  },
+  "lastrevid": 17540129,
+  "modified": "2025-09-17T07:47:39Z",
+  "ns": 860,
+  "pageid": 153825,
+  "sitelinks": {},
+  "title": "Item:Q127034",
+  "type": "item"
+}

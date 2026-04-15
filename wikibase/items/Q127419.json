@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amalric of Lusignan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127419$EAB92C56-3509-401C-BB9C-79FE426D9C49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "634531"
+          },
+          "hash": "7a6999d75029586f021405aed239eb60fa12bff3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127419$91282FF9-BF89-4138-8CA5-97372CC86AD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00064420"
+          },
+          "hash": "1d19debdb6afb2d9471827d3ab146e5973428386",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127419$B03AA833-053E-420A-8729-07FF00FAF1BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127419$346560FB-8229-497E-A69A-F1F769F3DD95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127419$69D34308-7E36-449B-A848-830D98EA7410",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123339",
+              "numeric-id": 123339
+            }
+          },
+          "hash": "e47d58f9e53d11bb6ff1f8c9b050c80378958e76",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127419$571E2B34-B58C-4388-9473-2D81F9A1CE8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121560",
+              "numeric-id": 121560
+            }
+          },
+          "hash": "1b7271b1b643a74b70658a209e787e2ee64b91bc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127419$3D91B060-04D6-4284-B07C-EE5B873CBC9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127419$4248DA09-1926-46E8-A178-0CB5D903B9FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127419$2F432932-B108-4552-BD58-B6DB001D611E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1205-02-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a23c108a7987958b6d4f6a6aec9886f564aa6223",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127419$79915A47-8FE5-4106-8745-703F5EB67777",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q52157987"
+          },
+          "hash": "fe6caa8776c6005d33f4260fd0c29611fa794511",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127419$9D4F3E30-B618-4306-B805-98B37B697A1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=amaury;n=de lusignan;oc=1"
+          },
+          "hash": "4f79dec88cbcf28dcda8e0fb5345cf50e4b2b123",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127419$60FE95B9-76A6-4E0A-88A6-6AF1C910AB0F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amalric of Lusignan Arms.svg"
+          },
+          "hash": "1297aac1de93dfebb539ed65015b5a7c08dbf16f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Πρίγκιπας της Κύπρου (π. 1200-1205)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de Chypre (ca.1200 + 1205)"
+    }
+  },
+  "id": "Q127419",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Амары дэ Лузіньян"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Amalric de Lusignan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αμωρί του Λουζινιάν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amalric of Lusignan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Amaury de Lusignan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amalric of Lusignan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Amalrico de Lusinhão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Amalrico de Lusinhão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Амори де Лузиньян"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Амаурі де Лузін'ян"
+    }
+  },
+  "lastrevid": 17540497,
+  "modified": "2025-09-17T07:52:38Z",
+  "ns": 860,
+  "pageid": 154342,
+  "sitelinks": {},
+  "title": "Item:Q127419",
+  "type": "item"
+}

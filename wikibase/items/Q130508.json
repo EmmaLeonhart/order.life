@@ -1,0 +1,706 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ceto"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q130508$74344C05-8640-4BD9-AD52-66CFD67726E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "27728"
+          },
+          "hash": "9474ef868816681e2c65c69d80456513c9767de3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q130508$75B5ADBA-F9F2-478A-9A2E-FD0438949F0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131646",
+              "numeric-id": 131646
+            }
+          },
+          "hash": "ca0a82430404aa9343068a8888791580c5915f40",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$62574A94-39B9-4CCD-8AE3-A6B6A0DB31FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131638",
+              "numeric-id": 131638
+            }
+          },
+          "hash": "3ff076b1bcb47dd5c2053e0ae92e92eebced3bd7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$A1FB5999-CE29-447E-8494-006FB31D4ADC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131648",
+              "numeric-id": 131648
+            }
+          },
+          "hash": "069d157d8e478eff79514ff038347f6c4af16b13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$40147DC5-F714-4BED-8985-8DFC0903D3F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130542",
+              "numeric-id": 130542
+            }
+          },
+          "hash": "dc1ec6d1c0e8b4c5bef7eab2164ca06e507ffcc3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$2DB03FBB-9624-4BB2-A8D0-5975D91CCAA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131640",
+              "numeric-id": 131640
+            }
+          },
+          "hash": "d7437f5f012f71ca9518d1d3a78672d9f3fff6fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$60361EBC-B4BC-4213-A05D-5FCA70C4FEAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131636",
+              "numeric-id": 131636
+            }
+          },
+          "hash": "e5a9e06ff46287b226e56f2e6c8892ba275254ae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$B90BED4C-31B1-4118-B16B-ABA7377C4AC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131624",
+              "numeric-id": 131624
+            }
+          },
+          "hash": "40be18fd488260b56619c70d7a506f33258feb68",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$1DF47674-5E4F-4757-94F2-8FCFB36D61E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131650",
+              "numeric-id": 131650
+            }
+          },
+          "hash": "2d52dcce0be8aee0cdef543702cfb0d3354b00f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$F8FF0554-0CCA-440F-A39E-0BEDBC84CCB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131652",
+              "numeric-id": 131652
+            }
+          },
+          "hash": "8acab85c050a1a47e8622ea095272ebdf7d74360",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$09EB375B-190F-4354-A25D-EC9CEC7FCF13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131642",
+              "numeric-id": 131642
+            }
+          },
+          "hash": "04001caa539fe0be956f1cdb3c685ef475bf959c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$257A6EE1-3D03-4203-95FC-98A4C0B767EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131644",
+              "numeric-id": 131644
+            }
+          },
+          "hash": "81b552e96f44926112a42adc559a1da323b3100c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q130508$31DAB2B3-AE55-4A28-A1CD-0F2369ABF85D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130508$31CF80EC-757D-4F7D-8784-80610F8369E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q130508$A07DA224-781A-49BF-9623-A28AC5279427",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130506",
+              "numeric-id": 130506
+            }
+          },
+          "hash": "8f4f840d3b5386d63edbb0ed0c6772fb8b54975f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130508$2F0FECB8-3322-44D8-8C53-9BAFC2C1BFF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130400",
+              "numeric-id": 130400
+            }
+          },
+          "hash": "16f78767402f09fc46179ddd28e1f810e92f5184",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130508$90D26F58-A455-4057-98A4-B8E9411996AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74701",
+              "numeric-id": 74701
+            }
+          },
+          "hash": "d32cd75bc70b5493bf110e83ce108095a08c2115",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130508$151509DA-1782-4D6B-89B2-953ACAD07642",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130508$89FA4966-BC7D-45D0-9BA1-F666666E75E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q209489"
+          },
+          "hash": "3dba050bc16ad85ee0b33bbdd102ab9343d433eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130508$1CBF0E9E-644A-44C4-91F7-715F7BB7717B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ceto Arms.svg"
+          },
+          "hash": "555ac5d508ee6401a3007af3e74ac02a17f2ea90",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "آلهة يونانية للبحر"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "mořská bohyně, která zosobňovala všechny hrůzy na moři a v něm"
+    },
+    "de": {
+      "language": "de",
+      "value": "griechische Gottheit"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek sea goddess"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "divinité de la mythologie grecque"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai személy"
+    },
+    "it": {
+      "language": "it",
+      "value": "divinità della mitologia greca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の女神"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ზღვის ღვთაება ბერძნულ მითოლოგიაში"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 여신"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "gudinne i gresk mytologi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personificarea pericolelor și ororilor mării în mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "морская богиня из греческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "grška morska boginja"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde deniz tanrıçası"
+    }
+  },
+  "id": "Q130508",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كيتو"
+    },
+    "as": {
+      "language": "as",
+      "value": "কেটো"
+    },
+    "az": {
+      "language": "az",
+      "value": "Keto"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Ceto"
+    },
+    "be": {
+      "language": "be",
+      "value": "Кето"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Кето"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "কেতো"
+    },
+    "br": {
+      "language": "br",
+      "value": "Keto"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ceto"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kétó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Keto"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κητώ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ceto"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Keto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ceto"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Zeto"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ستو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Keto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Céto"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ceto"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κητώ , Kētō"
+    },
+    "he": {
+      "language": "he",
+      "value": "קטו"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Keta"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kétó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կետո"
+    },
+    "id": {
+      "language": "id",
+      "value": "Keto"
+    },
+    "io": {
+      "language": "io",
+      "value": "Keto (filiino di Pontos)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ceto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ケートー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კეტო"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "케토스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Kêto"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Kêto"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ceto (mythologia)"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Keto"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Keto"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ceto"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Keto"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ceto"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ceto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кето"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Ceto"
+    },
+    "si": {
+      "language": "si",
+      "value": "සීටෝ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Keto"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кето"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Кето"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Keto"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ceto"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Keto"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кето"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Keto"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "刻托"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "刻托"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刻托"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "刻托"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "刻托"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "刻托"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "刻托"
+    }
+  },
+  "lastrevid": 17543436,
+  "modified": "2025-09-17T08:31:37Z",
+  "ns": 860,
+  "pageid": 158490,
+  "sitelinks": {},
+  "title": "Item:Q130508",
+  "type": "item"
+}

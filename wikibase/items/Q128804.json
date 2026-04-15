@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Evrard IV Radoul"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128804$04CE6661-E576-475B-A73B-AE771CAC6713",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00174588"
+          },
+          "hash": "3b74dbdc54dcaacd7eab109fb091ca8f0df9f796",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128804$35A8AEF2-E95E-4793-A08B-798FCDFF6F77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mortagne-17"
+          },
+          "hash": "1594c595554ada8ffd77cd9842761e95b6dc0630",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128804$0A9FDCF9-4575-4B48-B0D0-3A531F3C4A9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128804$85B65E32-0171-4DC8-BA6E-4196CF09EC63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128804$8E96F6B2-E715-4085-843F-3B06E87B52D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122543",
+              "numeric-id": 122543
+            }
+          },
+          "hash": "a658d51fe9d81e976afb7f74e251fe6e4be229f0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128804$A4D7363D-38C6-4A5A-BC6C-399556A9C464",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128804$25F0032A-595D-4C3E-A577-75F6D816FA9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128804$CDFDAF2A-486D-468D-9122-BAEF0B0F91F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1226-01-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "54c07bf6b3732875c0e2e3bfaa79561480171037",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128804$83F66BF0-D4D9-4200-A66C-53A3C048410E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3061665"
+          },
+          "hash": "310d3e3d6e911d78956fb70b6fe703ea12590331",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q128804$DBFF0770-A2BC-4A87-924B-9AD9602796A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009304961897"
+          },
+          "hash": "708c75739e03c100c8a477a689112e1bcf822c17",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128804$D1D4C837-452E-4DAC-B5E0-C7605A25DF7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=evrard;n=de tournai"
+          },
+          "hash": "68ba872c33794bb6e502bc4932d7608e694ea84f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128804$D7E7245A-5AC1-424A-AE7C-FDA2CE7782E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Evrard IV Radoul Arms.svg"
+          },
+          "hash": "9c025bd26cbae2948787cbd3032089e50c3702a7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1190 - uncertain 1226"
+    }
+  },
+  "id": "Q128804",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Evrard IV Radoul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Evrard IV Radoul"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Evrard IV Radoul"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Evrard IV Radoul"
+    }
+  },
+  "lastrevid": 17541835,
+  "modified": "2025-09-17T08:10:19Z",
+  "ns": 860,
+  "pageid": 156202,
+  "sitelinks": {},
+  "title": "Item:Q128804",
+  "type": "item"
+}

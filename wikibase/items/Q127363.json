@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry V of Carinthia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q127363$9946F1BA-BAD6-4749-B51C-346E40891A49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127363$B6CD1359-F69D-4508-871F-5728B3B11F1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127363$776D8711-F346-4BA6-B914-62F0D88DCC2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry_of_Carinthia_(1)"
+          },
+          "hash": "f07ebcda895fc8c23cea9eeb2b1580dbd990d67b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127363$2DA33BFC-5799-49AA-8E8C-68FD1D94FD3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122185",
+              "numeric-id": 122185
+            }
+          },
+          "hash": "1eca99b558a49c79b6fd21cf76aa6df5e90f8481",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127363$1D6EFD34-F8F4-400C-98F7-854C60454969",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p51973.htm#i519728"
+          },
+          "hash": "9d9a0fc2d516c5726b8809acbe2f77d7c7e6d289",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127363$56346908-C3EB-416F-82F1-CB7F2402BEE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122161",
+              "numeric-id": 122161
+            }
+          },
+          "hash": "a3326c1817cb7f826dd443ff7b124a323c9b0982",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127363$D3769A70-64EB-462D-A8A5-04E4D820F7F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127326",
+              "numeric-id": 127326
+            }
+          },
+          "hash": "72b8ce1ecc63f6113704459f874b296fcda2320a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127363$59AC8CC8-3AB2-4AF0-B896-502795185F0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127363$9EA19F47-9FC3-4DFC-9E2A-EF7B42F4B3A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1161-10-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5fa35d0504d0a655702b9a93a54a7aa26b8ac884",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127363$29B01166-AE9D-4DA5-8A6C-6CD1A096EC80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q551463"
+          },
+          "hash": "52fd89cb24581384702f6f740d7af4e7a419e4e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127363$46263F55-B479-4F58-86A7-EFBB2832F6E3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry V of Carinthia Arms.svg"
+          },
+          "hash": "d3a73358c22de3dd759aa93e59f66c74c6bba439",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herzog von Kärnten, Markgraf von Verona"
+    },
+    "en": {
+      "language": "en",
+      "value": "duke of Carinthia"
+    }
+  },
+  "id": "Q127363",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هنرى الخامس من كارينثيا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих V"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Enric VII de Caríntia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich V."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Ε΄ του Σπόνχαϊμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry V of Carinthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enric VII de Caríntia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri V de Carinthie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico VII di Carinzia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハインリヒ5世 (ケルンテン公)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik V van Karinthië"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Henrique V, Duque da Caríntia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Henrique V, Duque da Caríntia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих V"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Henrik V. Koroški"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Henry V of Carinthia"
+    }
+  },
+  "lastrevid": 17540441,
+  "modified": "2025-09-17T07:51:54Z",
+  "ns": 860,
+  "pageid": 154267,
+  "sitelinks": {},
+  "title": "Item:Q127363",
+  "type": "item"
+}

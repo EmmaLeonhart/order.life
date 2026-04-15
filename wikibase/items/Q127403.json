@@ -1,0 +1,344 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip of Ibelin"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127403$FFF00EB5-C775-4543-B8D7-8C97068F6D43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00534670"
+          },
+          "hash": "d273db2bfd2a56ad19f00463a172414a8194b918",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127403$33A6B43D-C15B-4427-AB4C-E34B181578C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127403$9FFB604C-B1E9-4C7C-97B8-CFAA33F7876C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127403$17F5957A-F442-4A92-A789-FF0DA3A6AAD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip_of_Ibelin_(1)"
+          },
+          "hash": "f13fcf7755ecc1f2071ac57d8a95ee4643e86ca1",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127403$FBA65B99-42EB-4F61-B663-1E881BED4692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129141",
+              "numeric-id": 129141
+            }
+          },
+          "hash": "63d503125fc1ceee6b2d4a21c6c5cae1da31de0a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127403$C3C3EF35-5D49-4E46-926B-A4F2CAC760C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122768",
+              "numeric-id": 122768
+            }
+          },
+          "hash": "d25d73d63dd86a78de7d8353363ed131dc90e5d6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127403$1E41DF62-D2B4-447F-9FBC-DBCF0FB27F3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127403$BF0CB6B2-EE45-427D-B960-AFC7DD37A568",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9dff9634722d33196cf9c3fcacc41128beca84b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127403$9982E847-281C-418A-860C-B14572036586",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1227-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3530a070bf78aee91008c36b1521d611815365d9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127403$B4090C65-896E-41F8-9F79-28A4712DD5F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2087397"
+          },
+          "hash": "a3b6f78478fb9beabcd0d05ebb82c3d4e567d8da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127403$017FD1FF-02DC-4E83-8F82-01FB7AAFC1CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=philippe;n=ibelin;oc=2"
+          },
+          "hash": "df05193d09e4323c84b4586c67e4b3d109f6a36c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127403$5792E1F6-E672-40A8-A260-F34DA94A8ED9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip of Ibelin Arms.svg"
+          },
+          "hash": "c73d26e05dcac438d9ddf46a3c8b17c5c69561a7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "šlechtic Jeruzaléského království"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bailli und Regent von Zypern"
+    },
+    "el": {
+      "language": "el",
+      "value": "ευγενής του Βασιλείου της Κύπρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "nobleman of the Kingdom of Cyprus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble chypriote"
+    },
+    "he": {
+      "language": "he",
+      "value": "אציל פראנקי של ממלכת קפריסין"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Ciprusi Királyság befolyásos bárója"
+    }
+  },
+  "id": "Q127403",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Філіп Ібелін"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Philip de Ibelin"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Filip z Ibelinu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp von Ibelin"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος του Ιμπελέν (1180-1227)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip of Ibelin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Felipe de Ibelín"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe d'Ibelin"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפ מאיבלין"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ibelin Fülöp"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィリップ・ド・イベリン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Felipe de Ibelín"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп Ибелин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіп д'Ібелін"
+    }
+  },
+  "lastrevid": 17540481,
+  "modified": "2025-09-17T07:52:25Z",
+  "ns": 860,
+  "pageid": 154321,
+  "sitelinks": {},
+  "title": "Item:Q127403",
+  "type": "item"
+}

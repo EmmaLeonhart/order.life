@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Irmgard von Braunshorn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q129039$BDCE3367-AC8F-4A1F-BC8C-CC87DBA12F60",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00209002"
+          },
+          "hash": "f514b7ff8a65b271950c49507f54aa8489efef64",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129039$C28A2CCE-C26D-4F59-8B20-5D44572D6E48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129041",
+              "numeric-id": 129041
+            }
+          },
+          "hash": "1c118adc5a4890325dbbc6dccce750ffc25a22e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129039$5B552632-F2D9-44D4-89B2-B8E0EF7CA2E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129039$751DC00A-6E74-41AD-8F84-F34CE202A010",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129039$9E2107B0-BE88-4850-9D16-9F0F91247E34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122681",
+              "numeric-id": 122681
+            }
+          },
+          "hash": "9d1bd792523daa832542d126145f276f94e82c83",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129039$1E1647A3-A55C-4F53-AC0B-6689D187E2B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129039$B4D2137C-547B-4546-8836-9651C6C7C565",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1215-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "168d8585d7fdafc010f175fdcd468f1e045d74cd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129039$A4C28985-7518-46F7-A5FF-4B80CEE78084",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1277-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "298d9674edcd88b391c5c213313e54cdd90553af",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129039$F4455F99-F6BE-4716-A422-8294D9E11D9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15820411"
+          },
+          "hash": "6fc5a2791b478e1134ddffc760e078cca20a0cdd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129039$FE5E8464-6BBB-4F57-986B-E4CE1B0E8150",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Irmgard von Braunshorn Arms.svg"
+          },
+          "hash": "9692c151f0f9be1dc794c2ae81e0aee2acb38f6c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "deutsche Adelige des Mittelalters"
+    }
+  },
+  "id": "Q129039",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Irmgard von Braunshorn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Irmgard von Braunshorn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irmgard von Braunshorn"
+    },
+    "it": {
+      "language": "it",
+      "value": "Irmgard von Braunshorn"
+    }
+  },
+  "lastrevid": 17542069,
+  "modified": "2025-09-17T08:13:24Z",
+  "ns": 860,
+  "pageid": 156519,
+  "sitelinks": {},
+  "title": "Item:Q129039",
+  "type": "item"
+}

@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dobrynya Mstislavich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127954$02468FE3-41BA-4C06-8128-DD58F843FC66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1668"
+          },
+          "hash": "46fbc5587cd64589a98c0ee764a57af876351d8a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127954$4B3D203B-9B9C-43E7-9B7F-027C3BB321F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143767",
+              "numeric-id": 143767
+            }
+          },
+          "hash": "9e2fa9f79f6a3b6698cd134c998c4f3e27fb4b12",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127954$1593117C-B7CE-430A-A3DF-7E87DD3EA640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127954$17376420-A2EB-4D6B-85F7-D12E307C0295",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127954$810F8432-09C4-4F77-B932-953F82D08F6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dobrynya_(1)"
+          },
+          "hash": "68f91586cafe36be5648fa14450dd1346453b505",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127954$E10F6374-EB62-4115-8266-5C1450340DD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127952",
+              "numeric-id": 127952
+            }
+          },
+          "hash": "3e2afd512530be6722521f825933f0cd7010d450",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127954$4ACC589B-455B-4DCF-978C-F91D65A558E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127954$5FB72DBF-409E-4EAB-9476-4728B88D0C4E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0946-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d34236e7bdf4c0b5aae641faa8be0a749a646b96",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127954$E31F8C48-6812-4FE2-B1F8-ED0DE0F6A7B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1007-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fdf3931ea64b05025b54019716fb777f8770cbd6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127954$F9642FDD-A481-4C6C-BA05-AFF3BC24E9F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2721104"
+          },
+          "hash": "caa6b04e4a63f74f2a1997fc830b6898a417d850",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127954$8F3FD2F8-F759-44DC-AB97-8E269FC17F2E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dobrynya Mstislavich Arms.svg"
+          },
+          "hash": "2fa859309ec875547ce78f8b25c589f667b00b57",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Oncle i tutor de Vladímir I de Kíev"
+    },
+    "de": {
+      "language": "de",
+      "value": "Statthalter von Nowgorod"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vladimir the Great's maternal uncle and tutor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "oncle et tuteur de Vladimir le Grand"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "воевода князей Святослава Игоревича и Владимира Святославича"
+    }
+  },
+  "id": "Q127954",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Дабрыня"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Дабрыня"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dobrínia de Nóvgorod"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Dobryňa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dobrynja"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ντομπρίνια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dobrynya Mstislavich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dobrynia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Dobrynja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dobrynia de Novgorod"
+    },
+    "it": {
+      "language": "it",
+      "value": "Dobrynja di Novgorod"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ドブルィニャ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Dobrynia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dobrynya"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dobrynia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Добрыня"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Добриня"
+    }
+  },
+  "lastrevid": 17541005,
+  "modified": "2025-09-17T07:59:15Z",
+  "ns": 860,
+  "pageid": 155061,
+  "sitelinks": {},
+  "title": "Item:Q127954",
+  "type": "item"
+}

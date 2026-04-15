@@ -1,0 +1,303 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Floris the Black"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128425$781243A4-EEE0-4DBB-8ACF-FD27C3AC0483",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00104707"
+          },
+          "hash": "800147ff6c55f7683dccfb057e181f51949f2022",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128425$4A9F1294-275C-450B-8E58-64016A1F08B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Van_Holland-78"
+          },
+          "hash": "ed328bc8fd5073f7a2ecc270abf841418c9e05d3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128425$DA7C2B9F-E3A6-46FF-841F-D140E69BAB0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128425$DADA1AAB-A7F4-4362-AA1A-043004261B61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128425$DE80E18D-3695-4B00-BAFE-DF3D24281F11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126467",
+              "numeric-id": 126467
+            }
+          },
+          "hash": "8da181d1d458929d0ba6ded29487e786830735ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128425$5FE78D0D-D297-4F36-AEE0-9A5E90C60AF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122301",
+              "numeric-id": 122301
+            }
+          },
+          "hash": "35d2f14038fa91d643cb63805e9b988479f426a9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128425$96C11ADB-C5D2-4F19-A6A9-7BABB81F2C7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128425$F32B98F7-54DB-43D7-82C6-1FCCADB30B10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b94cbbb41a40c755e4a573bf340664e48047400",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128425$BA185116-B79B-4F50-9D3A-67910E710053",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1133-10-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "36df95c023a3089ed7e2ca4ae09092004a509b35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128425$4C9BD2BC-91A8-4529-99AA-65C5BFF0299C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q692868"
+          },
+          "hash": "08bf054c49ecc2c43f8296b1f68a5dc779f2952e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128425$4BA49ED7-012C-4A50-BDA8-2398A6B87430",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Floris the Black Arms.svg"
+          },
+          "hash": "91e8f8612d59783065282afeac45a463f3f0ab1d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "holländisch-friesischer Graf und Rebell"
+    },
+    "en": {
+      "language": "en",
+      "value": "1115 - 26 Oct 1132"
+    }
+  },
+  "id": "Q128425",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فلوريس الاسود"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Frorentin Černý"
+    },
+    "de": {
+      "language": "de",
+      "value": "Florenz der Schwarze"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φλόρις ο Μέλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Floris the Black"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Florent le Noir"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fiorenzo il Nero"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フロリス・デ・ズウォルテ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Floris de Zwarte"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флорис Чёрный"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Floris Črni"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Флоріс Чорний"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "黑色弗洛里斯"
+    }
+  },
+  "lastrevid": 17541463,
+  "modified": "2025-09-17T08:05:25Z",
+  "ns": 860,
+  "pageid": 155693,
+  "sitelinks": {},
+  "title": "Item:Q128425",
+  "type": "item"
+}

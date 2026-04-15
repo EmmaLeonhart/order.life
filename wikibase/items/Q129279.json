@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Géraud II of Mâcon"
+      },
+      {
+        "language": "en",
+        "value": "Geraud II of Macon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q129279$58D651F2-7902-4EAF-A8AE-989D6DAE8726",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027390"
+          },
+          "hash": "8e166cbf29d08fdfa752f72ffa3876089dc99efe",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q129279$924F77A2-AC96-4A97-8F85-4E5006BF04FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mâcon-155"
+          },
+          "hash": "5f07265f558e858f1b6a524cae10d6159f8979c5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129279$4B9D89AB-8E0A-4A4D-9197-99CE16E22D52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129279$DE499B1E-DE56-496A-8E0A-E619BC451A06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q129279$C8055A1A-660B-4BDE-8620-7B711C896EC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Géraud_of_Mâcon_(1)"
+          },
+          "hash": "92aacb1babd6e91e3be1ff6b21f3bd67b1b02979",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129279$4F70D9D8-20EF-40ED-A6F4-4D42A38C05EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126441",
+              "numeric-id": 126441
+            }
+          },
+          "hash": "ff1a6b7f50f2d5f2a39734d43ab490586bc28992",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129279$B240E28B-2344-4A6D-86C5-86D5480D3C52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122865",
+              "numeric-id": 122865
+            }
+          },
+          "hash": "4efefcecf7afd5beccadbf7dd2952d7910c98d20",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129279$2DD84B22-3F05-4991-8F63-3E84A3105DD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129279$2848D911-A1DE-4A1C-8402-0EA715B1749F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1224-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93e750053dad50a02645bad1e729295ecfe2f8fd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129279$FC1600DF-9F9F-4A0D-9FCD-E4791E310EA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3124450"
+          },
+          "hash": "4006703c254d41f08ca19004d2ea454a972d098a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129279$0D4342AD-6334-449C-B70C-CF1949D68D72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gerard;n=de bourgogne;oc=2"
+          },
+          "hash": "87fe87e53179c178e2392cac6375045ef8221961",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129279$D89D44D2-C943-445C-B128-485ED21B7498",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Géraud II of Mâcon Arms.svg"
+          },
+          "hash": "57b4e7504627d89c850c60bcbfbdb0a8cf980ae6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "-1224"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "graaf van Mâcon en Vienne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Макона"
+    }
+  },
+  "id": "Q129279",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Geralt II. z Mâconu"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γερόλδος Β΄ του Μακόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Géraud II of Mâcon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Géraud II of Mâcon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Géraud II de Mâcon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gerardo II di Mâcon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gerald II van Mâcon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Жеро II де Макон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Geraud II of Macon"
+    }
+  },
+  "lastrevid": 17542309,
+  "modified": "2025-09-17T08:16:35Z",
+  "ns": 860,
+  "pageid": 156841,
+  "sitelinks": {},
+  "title": "Item:Q129279",
+  "type": "item"
+}

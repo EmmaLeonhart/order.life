@@ -1,0 +1,214 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelheid Edle von Witilinchoven"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q128343$C9E018C8-9FCD-4E58-BACC-3CC60901D2E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128343$B5732B3F-C9C0-49B7-9972-0FA8A65B9691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128343$4DA3C049-661B-48D9-8380-2AA5ECFDFF29",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67331.htm#i673304"
+          },
+          "hash": "c7c4f47ec4b8616f3d6d9ebb2dcddcccd7a8e672",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128343$DF1D0DD6-D403-4E7D-BF73-337540E7F679",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128337",
+              "numeric-id": 128337
+            }
+          },
+          "hash": "8ff63364026b61a6146a4485ae3d9062ab52a97d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128343$D98213C4-4BAD-45A5-8E1F-F91848A56283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122251",
+              "numeric-id": 122251
+            }
+          },
+          "hash": "f4351944ee6c514c11447e249cfb80f7e9b2de08",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128343$00AD73DF-6E05-4CEE-9975-ED765B419975",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128343$51691EBE-30D5-4035-96FB-0C4F5E53E6A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1062-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bdc3d98ee4e08c74c16ecff06da168966a7a81fa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128343$055C7201-B7FB-4C7A-AA1A-13D3B95469CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76300840"
+          },
+          "hash": "d3cecb5097c40e7e1a276d0bec92998186622c20",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128343$671FB88F-E8F5-4FC0-A7CA-B0DDC48663C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelheid Edle von Witilinchoven Arms.svg"
+          },
+          "hash": "91829ebac455ea7b6e786d28a75032fff1063f02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=673304"
+    }
+  },
+  "id": "Q128343",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Adelheid Edle von Witilinchoven"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adelheid Edle von Witilinchoven"
+    }
+  },
+  "lastrevid": 17541381,
+  "modified": "2025-09-17T08:04:20Z",
+  "ns": 860,
+  "pageid": 155583,
+  "sitelinks": {},
+  "title": "Item:Q128343",
+  "type": "item"
+}

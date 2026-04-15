@@ -1,0 +1,580 @@
+{
+  "aliases": {
+    "bg": [
+      {
+        "language": "bg",
+        "value": "Олдрих"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Oldřich, Duke of Bohemia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127906$9FC16BBE-E6C5-4082-B86E-42C2BE79BD1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "45484"
+          },
+          "hash": "5d125997d10b3088cf069b2c990887d751fdbf8f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127906$B6B3EEA1-8E2F-494C-8706-7963FC1C1E36",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020265"
+          },
+          "hash": "5ae4d691f35d1d96fa6f5ae5879e5ad8f72cc4d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127906$DD570D86-2CF2-470F-AC63-14CAD59061F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121865",
+              "numeric-id": 121865
+            }
+          },
+          "hash": "dcbc2accbd19ef608a4255cc030f834ce495662f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q127906$4A7A75D4-083B-4A73-A7B1-0ADC3214EA32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "G17F-3M5"
+          },
+          "hash": "074f4361209fe148a62b42c0ece9703e8f0f5b28",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127906$72E0CF06-0322-4ACE-8C36-BC338BBFF932",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Přemyslovci-14"
+          },
+          "hash": "13dd65396701acf4a64c0551053a389959116331",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127906$3A2019BE-8C10-4261-A5D1-B9FEFACC814E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127906$A5FC3110-159B-4C87-91C1-0CC3A47E9483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127906$9572C61F-C92C-4D9C-A081-B62EA064DB71",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Oldrich,_Duke_of_Bohemia_(1)"
+          },
+          "hash": "97717076e3637715a20149f22f2f82fb96ec2ee8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127906$32F91006-BFF0-4BA3-9A37-8D86E4F25FD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127908",
+              "numeric-id": 127908
+            }
+          },
+          "hash": "e05c47288e6bfc0449ba7a9670914a370db65d74",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127906$950D52EC-40C1-4E25-8D6A-9EA9B564C548",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141034",
+              "numeric-id": 141034
+            }
+          },
+          "hash": "a779219904b20e9aed5e2a978043d2f710a67afc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127906$11F076CE-547C-484E-9763-B1BBBED8257A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15004.htm#i150031"
+          },
+          "hash": "27fb23fa16f5de97cae9249b9181cbe448529758",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127906$3E8BDED4-4682-4732-8C2D-34EAEEDA64C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138212",
+              "numeric-id": 138212
+            }
+          },
+          "hash": "b7c295b43da11943105f189442cf897558ca7e05",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127906$9E46D30C-EDDC-4E41-AD45-C8CB47B4E1A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139301",
+              "numeric-id": 139301
+            }
+          },
+          "hash": "acaf1f06effc1c2307d56d82ceb478ae7d21ec84",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127906$7ECF9198-EA50-4B7D-8C38-3407AB5AD482",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127906$4DA82D63-EDFA-4825-9627-F35F7E7AE396",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0970-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55c98d078a206a315cf3d4a9ceee745c4f8336b0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127906$EC0A3217-97DD-4260-9D35-DE3E3DD5EC35",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1034-11-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb64cefba22a0d19326c6845ca6cd97775380e90",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127906$BC8FD440-A72D-47A6-B5E0-243B2609496F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q454577"
+          },
+          "hash": "a6a28c2fcaa9719d4943491265079fef5d221edb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127906$B6D5DE5C-3E7D-4206-8A02-EF06174D52E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=oldrich;n=premyslide"
+          },
+          "hash": "3de5212cf0290a7d91faeed509927aee15bd876f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q127906$4000620E-DF05-456D-86EC-4D2EB1C43FA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.62"
+          },
+          "hash": "6bef66821ba4d5afaaf236cf59d16a7dd45c5a10",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127906$C56B37A2-A3C2-44F8-AB04-8E94671A24FB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oldřich, Duke of Bohemia Arms.svg"
+          },
+          "hash": "11897d7bea6a1fa1c03f293811bdc7f6511b4220",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "český kníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Böhmen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke of Bohemia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "cseh fejedelem"
+    },
+    "it": {
+      "language": "it",
+      "value": "duca di Boemia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "hertog van Bohemen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "książę czeski"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "duce al Boemiei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь Чехии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande hertig av Böhmen"
+    }
+  },
+  "id": "Q127906",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Ольдржых"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Олдржих"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Oldřich Český"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oldřich"
+    },
+    "el": {
+      "language": "el",
+      "value": "Όλντριχ της Βοημίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oldřich, Duke of Bohemia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Oldřich, Duke of Bohemia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Oldřich, Duke of Bohemia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Oldřich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oldřich, Duke of Bohemia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ulrich de Bohême"
+    },
+    "he": {
+      "language": "he",
+      "value": "אולדז'יץ', דוכס בוהמיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ulrik cseh fejedelem"
+    },
+    "id": {
+      "language": "id",
+      "value": "Oldrich dari Bohemia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ulrico di Boemia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オルドジフ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "올드르지흐"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Oldrich av Böhmen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oldřich van Bohemen"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Odalric (duc de Boèmia)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Oldrzych"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Oldrich da Boémia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Oldrique da Boêmia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ulrich al Boemiei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ольдржих"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Oldřich od Češke"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Oldřich I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Oldřih Češki"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Олдрих, војвода Чешке"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Oldřich av Böhmen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олдржих"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧爾德日赫"
+    }
+  },
+  "lastrevid": 17540957,
+  "modified": "2025-09-17T07:58:37Z",
+  "ns": 860,
+  "pageid": 154997,
+  "sitelinks": {},
+  "title": "Item:Q127906",
+  "type": "item"
+}

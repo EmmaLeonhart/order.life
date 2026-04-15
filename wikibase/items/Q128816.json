@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arnold II. von Arnstein"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128816$EF278315-3A89-44D1-AF7D-447C2CE7CF86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "134439"
+          },
+          "hash": "2c417ed3d8693e5f14cbfc8697fb4f23f2c27c66",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q128816$0B1881B0-3634-479E-9943-3C5397ECB35B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122553",
+              "numeric-id": 122553
+            }
+          },
+          "hash": "5ff1f6c7c1c2f23bf6c34318c77f2426310a247d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128816$E9CC0C39-4B11-4A59-975F-0675EB2D7667",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnstein-8"
+          },
+          "hash": "18c7020b24008f6385c9617e3fb3c8291f0ee25d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128816$5D8E1877-717C-4B0B-822F-E41D1A9A1CBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128816$75D97EFF-9CCA-4785-9C1D-338C3993E476",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128816$0A9839B7-67EE-4372-A05E-EF99C95A0905",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67220.htm#i672200"
+          },
+          "hash": "2bb69da9ba340eab26f11a788303a090c02d8028",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128816$E60B71E3-2E22-48B0-91F9-E9D2A3344121",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128816$8C104002-B002-4255-95F3-265CF8D71F3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1015-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dae63500bf1fc2a43bccf73f5862da223a3482ce",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128816$E4F892F1-FF1F-48A2-A52E-5786A0F5E577",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1053-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f671fc97c90bbfdbc29941dd2930384002937a9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128816$46E4B527-9752-4AD4-8373-3BEB1786A9E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76299448"
+          },
+          "hash": "0ab9bbedbe45d8e348eeb8dda4674cab69448b42",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128816$12D1056A-89E4-4963-8B87-98BAF64FDCD1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=arnold;n=von arnstein"
+          },
+          "hash": "6fd27f69fbff335f66524e06d543392b3e253ee1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128816$A393B4C1-BB86-48F8-96B9-33B1A8212F5F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnold II. von Arnstein Arms.svg"
+          },
+          "hash": "d4f1d1d6b2003657bf99594827987c00bb63ed96",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=672200"
+    }
+  },
+  "id": "Q128816",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Arnold II. z Arnsteinu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arnold II. von Arnstein"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arnold II van Arnstein"
+    }
+  },
+  "lastrevid": 17541847,
+  "modified": "2025-09-17T08:10:28Z",
+  "ns": 860,
+  "pageid": 156219,
+  "sitelinks": {},
+  "title": "Item:Q128816",
+  "type": "item"
+}

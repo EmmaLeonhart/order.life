@@ -1,0 +1,1263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Homer"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q131378$673F6E88-E37B-424A-A64D-14B6F4608E3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131378$6C0193BF-F196-4AD6-9868-F3EBD14F1794",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131378$DD74EB9F-F8AD-4265-85DD-8B31171C2C3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130290",
+              "numeric-id": 130290
+            }
+          },
+          "hash": "0dfd7ecd8d27cf7f11dd34ecfd8a7377b99057d1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q131378$38DE2E07-37F0-4AEB-B89F-9CE3E41917D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "104368337"
+          },
+          "hash": "8751f51e78a99495a6ceb1c11acefa0576fe6750",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131378$F666B4B8-8190-4FB4-9EC9-918568922A0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q131378$38AC41D2-0D36-46CD-BD50-6801CDAF7877",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d87210d668e225f8a8e60f9aa6f750a8b23e4d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q131378$CBB53733-D811-42D8-AE79-10F932F8B23F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "54d8edf00341b5a98604eb67a3f80472a40c8571",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131378$4CAA6923-93B1-404B-917D-81DA2B06103E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6691"
+          },
+          "hash": "132d8879d69b68cbfcb1f1fe66d76c79fd745e7d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q131378$5021E110-FCE8-48F5-9117-382E486FFB38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:51177"
+          },
+          "hash": "1ae362d88611e3e166ab29ead474bdc8011140da",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131378$6D2E72E9-EF4C-4A1B-B78E-0E164F0D9040",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Homer Arms.svg"
+          },
+          "hash": "eea4cce5acc4fb338666df03c6fc8b9b3caa0573",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q131378$A0D05BAA-D6DC-43EA-BF33-5EC5C11C5602",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/870D2671-A9ED-49BA-9410-4E09D3A1E7BA"
+          },
+          "hash": "381ca4d2498fbe604c00977fdb47fd5ea219103d",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعرٌ ملحمي إغريقي أسطوري"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta griegu antiguu"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "ältester namentlich bekannter griechischer Dichter"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старажытнагрэцкі эпічны паэт"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "древногръцки поет"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "প্রাচীন গ্রিক মহাকবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "suposat autor grec de la Ilíada i l'Odissea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "starořecký epický básnik"
+    },
+    "de": {
+      "language": "de",
+      "value": "mutmaßlicher Autor der Ilias und Odyssee"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "el": {
+      "language": "el",
+      "value": "συγγραφέας των ποιητικών κειμένων της Ιλιάδας και της Οδύσσειας"
+    },
+    "en": {
+      "language": "en",
+      "value": "reputed author of the Iliad and the Odyssey"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "eble legenda helena poeto, al kiu estas atribuitaj Iliado kaj Odiseado"
+    },
+    "es": {
+      "language": "es",
+      "value": "aedo griego"
+    },
+    "et": {
+      "language": "et",
+      "value": "Vanakreeka luuletaja, keda traditsiooniliselt peetakse eeposte Iliase ja Odüsseia autoriks"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin Kreikan runoilija, jota on perinteisesti pidetty Iliaan ja Odysseian kirjoittajana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète épique de la Grèce antique, auteur de l’Illiade et de l’Odyssée"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta da antiga Grecia considerado o pai da cultura grega"
+    },
+    "he": {
+      "language": "he",
+      "value": "גדול משוררי יוון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "प्राचीन यूनान के बहुत महत्वपूर्ण कवि, महाकाव्य - इलियाद और ओदीसि के रचनाकार।"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög költő"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Taga-ugma a Griego a mannaniw ti epiko"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta epico greco antico, tradizionalmente considerato autore dell'Iliade e dell'Odissea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紀元前8世紀末のアオイドス（吟遊詩人）"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "amedyaz agrigi"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고대 그리스의 유랑시인"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "قدیٖم یوٗنأنی شأیِر"
+    },
+    "la": {
+      "language": "la",
+      "value": "auctor Iliadis et Odysseae"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "algriicheschen Dichter"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "poêta grêgo, tradiçionalménte riconosciûo cómme outô de l'Iliade e de l'Odissea"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "gresk forfatter"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "प्राचीन ग्रिक कवि, लियाद र ओडेसीका रचीता"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit het oude Griekenland"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Author"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta di Gresia Antiguo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "epik grecki, autor „Iliady” i „Odysei”"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta épico da Grécia Antiga"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poet epic al Greciei antice, autor al Iliadei și al Odiseei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнегреческий поэт-сказитель"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "grécky epický básnik"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "domnevni avtor Iliade in Odiseje"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "autor i njohur i Iliadës dhe Odisesë"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "старогрчки песник"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antik grekisk poet, vanligtvis ansedd som författare för Illiaden och Odysséen"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பண்டையக் கிரேக்க இதிகாசக் கவிஞர்"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li musi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İlyada ve Odisseia'nın yazarı olan Antik Yunan şairi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньогрецький поет"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nhà thơ Hy Lạp"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古希腊诗人"
+    }
+  },
+  "id": "Q131378",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Homeros"
+    },
+    "am": {
+      "language": "am",
+      "value": "ሆሜር"
+    },
+    "an": {
+      "language": "an",
+      "value": "Homero"
+    },
+    "ann": {
+      "language": "ann",
+      "value": "Ọmà"
+    },
+    "anp": {
+      "language": "anp",
+      "value": "होमर"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "هوميروس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هوميروس"
+    },
+    "as": {
+      "language": "as",
+      "value": "হোমাৰ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Homero"
+    },
+    "av": {
+      "language": "av",
+      "value": "Гьомер"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Omeros"
+    },
+    "awa": {
+      "language": "awa",
+      "value": "होमर"
+    },
+    "az": {
+      "language": "az",
+      "value": "Homer"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "میلر لندینق، آلاسکا"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Гомер"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Homer"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Homer"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гамер"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Гамэр"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Омир"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "होमर"
+    },
+    "bi": {
+      "language": "bi",
+      "value": "Homer"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হোমার"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཧོ་མུར།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Homeros"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Homer"
+    },
+    "btm": {
+      "language": "btm",
+      "value": "Homer"
+    },
+    "bxr": {
+      "language": "bxr",
+      "value": "Гомер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Homer"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Гомер"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ھۆمیرۆس"
+    },
+    "co": {
+      "language": "co",
+      "value": "Omeru"
+    },
+    "crh": {
+      "language": "crh",
+      "value": "Gomer"
+    },
+    "crh-latn": {
+      "language": "crh-latn",
+      "value": "Gomer"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Homér"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Гомер"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Homeros"
+    },
+    "da": {
+      "language": "da",
+      "value": "Homer"
+    },
+    "de": {
+      "language": "de",
+      "value": "Homer"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Homeros"
+    },
+    "dty": {
+      "language": "dty",
+      "value": "होमर"
+    },
+    "el": {
+      "language": "el",
+      "value": "Όμηρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Homer"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Homer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Homer"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Homero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Homero"
+    },
+    "et": {
+      "language": "et",
+      "value": "Homeros"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Homero"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Omeru"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هومر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Homeros"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Homer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Homère"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Homer (Dachter)"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Omêr"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Homêros"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hóiméar"
+    },
+    "gan": {
+      "language": "gan",
+      "value": "荷馬"
+    },
+    "gcr": {
+      "language": "gcr",
+      "value": "Omèr"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Homer"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Homero"
+    },
+    "gn": {
+      "language": "gn",
+      "value": "Homéro"
+    },
+    "gpe": {
+      "language": "gpe",
+      "value": "Homer"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ὅμηρος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Homer"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Homer"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Homer"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Homeros"
+    },
+    "haw": {
+      "language": "haw",
+      "value": "Homer"
+    },
+    "he": {
+      "language": "he",
+      "value": "הומרוס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "होमर"
+    },
+    "hif": {
+      "language": "hif",
+      "value": "Homer"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Homer"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Homer"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Homérosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հոմերոս"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Հոմերոս"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Homero"
+    },
+    "id": {
+      "language": "id",
+      "value": "Homeros"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Homer"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Homero"
+    },
+    "io": {
+      "language": "io",
+      "value": "Homeros"
+    },
+    "is": {
+      "language": "is",
+      "value": "Hómer"
+    },
+    "it": {
+      "language": "it",
+      "value": "Omero"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ホメーロス"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Uoma"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Homeros"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰომეროსი"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "Homer"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Homer"
+    },
+    "kbd": {
+      "language": "kbd",
+      "value": "Гомер"
+    },
+    "kbp": {
+      "language": "kbp",
+      "value": "Homère"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Һомер"
+    },
+    "km": {
+      "language": "km",
+      "value": "ហូម័រ"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಹೋಮರ್"
+    },
+    "knc": {
+      "language": "knc",
+      "value": "Homer"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "호메로스"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "ہومر"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Homêros"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Homêros"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Homer"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Гомер"
+    },
+    "la": {
+      "language": "la",
+      "value": "Homerus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Homer"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Homero"
+    },
+    "li": {
+      "language": "li",
+      "value": "Homeros"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Omero"
+    },
+    "lld": {
+      "language": "lld",
+      "value": "Omer"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Umer"
+    },
+    "lo": {
+      "language": "lo",
+      "value": "ໂຮແມ"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Homeras"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Homērs"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "荷馬"
+    },
+    "mai": {
+      "language": "mai",
+      "value": "होमर"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Homer"
+    },
+    "mhr": {
+      "language": "mhr",
+      "value": "Гомер"
+    },
+    "min": {
+      "language": "min",
+      "value": "Homerus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хомер"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഹോമർ"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хомер"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "होमर"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Homer"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Omeru"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Houmero"
+    },
+    "my": {
+      "language": "my",
+      "value": "ဟိုးမား"
+    },
+    "myv": {
+      "language": "myv",
+      "value": "Гомер"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "هومر"
+    },
+    "na": {
+      "language": "na",
+      "value": "Homer"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Homeros"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Homer"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Homer"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "होमर"
+    },
+    "new": {
+      "language": "new",
+      "value": "होमर"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Homeros"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Homer"
+    },
+    "nov": {
+      "language": "nov",
+      "value": "Hómeros"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Houmère"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Omèr"
+    },
+    "or": {
+      "language": "or",
+      "value": "ହୋମର"
+    },
+    "os": {
+      "language": "os",
+      "value": "Гомер"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਹੋਮਰ"
+    },
+    "pag": {
+      "language": "pag",
+      "value": "Homer"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Homer"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Homero"
+    },
+    "pap-aw": {
+      "language": "pap-aw",
+      "value": "Homero"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Homère"
+    },
+    "pfl": {
+      "language": "pfl",
+      "value": "Homer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Homer"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Omer"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "ہومر"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "هومر"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Homero"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Homero"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "Omiros"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Homer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гомер"
+    },
+    "rue": {
+      "language": "rue",
+      "value": "Гомер"
+    },
+    "rup": {
+      "language": "rup",
+      "value": "Homeru"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Хомер"
+    },
+    "sat": {
+      "language": "sat",
+      "value": "ᱦᱚᱢᱤᱨ"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Omero"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Omeru"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Homer"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "هومر"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Huomers"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Homer"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Homér"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Homer"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Homeri"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хомер"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Hómēros"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Homeros"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Homer"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Hůmer"
+    },
+    "szy": {
+      "language": "szy",
+      "value": "He-ma"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஓமர்"
+    },
+    "te": {
+      "language": "te",
+      "value": "హోమర్"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ҳомер"
+    },
+    "th": {
+      "language": "th",
+      "value": "โฮเมอร์"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Gomer"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Homer"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Omelo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Homeros"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Һомер"
+    },
+    "tum": {
+      "language": "tum",
+      "value": "Homer"
+    },
+    "tyv": {
+      "language": "tyv",
+      "value": "Гомер"
+    },
+    "udm": {
+      "language": "udm",
+      "value": "Гомер"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гомер"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہومر"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Homer"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Omero"
+    },
+    "vep": {
+      "language": "vep",
+      "value": "Gomer"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hómēros"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Homeros"
+    },
+    "vro": {
+      "language": "vro",
+      "value": "Homeros"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Homere"
+    },
+    "war": {
+      "language": "war",
+      "value": "Homeros"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "荷馬"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ჰომეროსი"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "האמעראס"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Homer"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "荷馬"
+    },
+    "za": {
+      "language": "za",
+      "value": "Hozmaj"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "荷馬"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "荷马"
+    }
+  },
+  "lastrevid": 17544274,
+  "modified": "2025-09-17T08:43:13Z",
+  "ns": 860,
+  "pageid": 159661,
+  "sitelinks": {},
+  "title": "Item:Q131378",
+  "type": "item"
+}

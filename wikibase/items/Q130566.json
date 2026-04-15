@@ -1,0 +1,815 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hades"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q130566$6434E29F-2520-4449-A6E5-A3C742A5CDC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "26939"
+          },
+          "hash": "0653bac2005cb512f57009b244b741ef37679328",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q130566$2EA5A3B8-FDE5-401E-900A-20A1D612C3B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131773",
+              "numeric-id": 131773
+            }
+          },
+          "hash": "b59e6d18c5cc062df919713549f9eb6769399f49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130566$B053E79F-1D46-44D7-A41A-6AC7EA77F569",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132027",
+              "numeric-id": 132027
+            }
+          },
+          "hash": "5de7c9e507ba7f9d81d028627ae5c5f821a70c41",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q130566$5801AF23-DCBD-4DC2-BE0B-E05434E1C7D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130566$A67FC388-26F8-4683-8D7E-DA170FEDC233",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q130566$C0FA1FE3-96BB-4043-8C5D-8244B0677B44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131681",
+              "numeric-id": 131681
+            }
+          },
+          "hash": "db3c4a12aefb0ae63d3c7bf3bb1a6338e980230d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130566$47336D0B-E4AB-4412-9CF6-9E62C2E7B136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74680",
+              "numeric-id": 74680
+            }
+          },
+          "hash": "497b8eb09c53af24f81f72b99e115e6517e734dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130566$7B551E10-2CC4-4B25-AFB5-DCEAF94AF8C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74677",
+              "numeric-id": 74677
+            }
+          },
+          "hash": "74416a6107a989b5a65743f81323cf0883080cf5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130566$A52EA408-1954-449E-A96F-5459233E6130",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130566$71846F7A-B023-450C-B1F7-6A43704E6D90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q41410"
+          },
+          "hash": "db3a937d9aa68722bf5d4c5fdfc069f0db0ac133",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130566$DC2EFC27-B10F-4309-B47E-88DA1E57146F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hades Arms.svg"
+          },
+          "hash": "a34e39c39b15a519abe7e1a5b96c528c4525556f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شخصية في الأساطير اليونانية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "боства старажытнагрэцкай міталёгіі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Déu grec de l'inframón"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Řecký bůh podsvětí"
+    },
+    "da": {
+      "language": "da",
+      "value": "den græske underverdensgud"
+    },
+    "de": {
+      "language": "de",
+      "value": "griechische Gottheit"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεός του Κάτω Κόσμου, των νεκρών και του πλούτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "god of the underworld in Greek mythology"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "helena dio de la postmorto"
+    },
+    "es": {
+      "language": "es",
+      "value": "dios griego de los infiernos y de los muertos"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kreikkalainen vainajalan jumala"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dieu de l'au-delà dans la religion grecque antique et la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "deus grego do inframundo e dos finados"
+    },
+    "he": {
+      "language": "he",
+      "value": "אל המתים במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "isten a görög mitológiában"
+    },
+    "id": {
+      "language": "id",
+      "value": "Dewa dunia bawah dan kekayaan"
+    },
+    "it": {
+      "language": "it",
+      "value": "dio greco dell'oltretomba"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の冥府の神"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 명계의 신"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "mîtolojiyêda keyê dinyaya binerdî"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Gott vun der Ënnerwelt"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "冥王哈帝斯，性沉默孤獨，不與陽間之神人交往。惟愛其妻波瑟芬娜一人。然而波瑟芬娜不常在冥府也。每年泰半在陽間與其母地母相聚。故冥王常憂愁不樂也。"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "подземје во старогрчката митологија"
+    },
+    "my": {
+      "language": "my",
+      "value": "ဂရိဒဏ္ဍာရီလာ နတ်ဘုရား"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "antikk gresk gud"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "god van de onderwereld in de Griekse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bóg w mitologii greckiej"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "په یوناني افسانو کې د اخرت خدای"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "deus da mitologia grega"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "zeul Infernului în mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнегреческой мифологии бог подземного царства мёртвых и название самого царства мёртвых"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "diu ìnfiru dâ mituluggìa greca"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "grécky boh podsvetia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "место у грчкој митологији"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Grekisk gud över dödsriket och underjorden"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிரேக்க கடவுள் (எமன்)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antik Yunan mitolojisinde yeraltı tanrısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "бог підземного світу давногрецької міфології"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "希臘神話中嘅天神"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "希腊神话中的冥王"
+    }
+  },
+  "id": "Q130566",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Hades"
+    },
+    "an": {
+      "language": "an",
+      "value": "Hades"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "هاديس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هيدز"
+    },
+    "as": {
+      "language": "as",
+      "value": "হেডিচ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Hades"
+    },
+    "az": {
+      "language": "az",
+      "value": "Aid"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Hades"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Hades"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аід"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Аід"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хадес"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হেডিস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Haides"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Had"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hades"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ھادێس"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hádés"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Аид"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Hades"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hades"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hades"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Hades"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άδης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hades"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hadeso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hades"
+    },
+    "et": {
+      "language": "et",
+      "value": "Hades"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Hades"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هادس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haades"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hadès"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Hades (god)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Háidéas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Hades"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "ᾍδης"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Hades"
+    },
+    "he": {
+      "language": "he",
+      "value": "האדס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "हेडीस"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Had"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hadész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հադես"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Հադէս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hades"
+    },
+    "io": {
+      "language": "io",
+      "value": "Ades"
+    },
+    "is": {
+      "language": "is",
+      "value": "Hades"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ade"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハーデース"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Hades"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰადესი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Аид"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하데스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hadês"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hadês"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hades"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Hades"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Hadas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Aīds"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "哈帝斯"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ад"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഹേഡിസ്"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯍꯦꯗꯤꯁ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "हेडीस"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Hades"
+    },
+    "my": {
+      "language": "my",
+      "value": "ဟေးဒီးစ်"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "هادس"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Hades"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hades"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Hades"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hades"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Hades"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Ades"
+    },
+    "os": {
+      "language": "os",
+      "value": "Аид"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਹੇਡੀਜ਼"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hades"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "هادس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hades"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hades"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аид"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Adi"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Hades"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Had"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Hádes"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Had"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hadi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хад"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hades"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Hade"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஹேடிஸ்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ҳодис"
+    },
+    "th": {
+      "language": "th",
+      "value": "เฮดีส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Hades"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hades"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Aid"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аїд"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Aid"
+    },
+    "vep": {
+      "language": "vep",
+      "value": "Aid"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hades"
+    },
+    "vro": {
+      "language": "vro",
+      "value": "Hades"
+    },
+    "war": {
+      "language": "war",
+      "value": "Hades"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "哈得斯"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "哈帝斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "哈得斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "黑帝斯"
+    }
+  },
+  "lastrevid": 17543492,
+  "modified": "2025-09-17T08:32:20Z",
+  "ns": 860,
+  "pageid": 158568,
+  "sitelinks": {},
+  "title": "Item:Q130566",
+  "type": "item"
+}

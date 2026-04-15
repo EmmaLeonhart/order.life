@@ -1,0 +1,680 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hagar"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129303$F15FDBD8-BE2F-4FC1-914D-275D5B6F598D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "79277|386678|662431"
+          },
+          "hash": "87187bea88e263ec6e01401ed83ccf336ba57a84",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129303$D32BBB3A-5BAF-47C7-8DFC-D34DAB6C3EC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129307",
+              "numeric-id": 129307
+            }
+          },
+          "hash": "5d7a3d3910314055c507d555718f8a48043e5de1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129303$77BB44F0-63F0-4EC4-81EF-439A3A99741C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129303$322249AD-128B-4831-AC4C-1C58B8FA3961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129303$5DF5731A-F0DE-45CE-9F3B-4F13073654C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85228",
+              "numeric-id": 85228
+            }
+          },
+          "hash": "469ce7fcfa7c2b5592e2853c0c3c0e36978692fd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129303$065EC2E8-39CE-4BC1-AB92-DE6A845A8695",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129357",
+              "numeric-id": 129357
+            }
+          },
+          "hash": "2ad2d579af344266c92273dc17d034ef100b7b65",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129303$A2171D40-F69B-4A32-87F0-0C6D1C57C59B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129303$D5F247AB-D431-485F-9FE9-C61DDFDA1370",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cce415f77d83443e7181554dfcb2f9066460cdc8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129303$E586976D-5AB0-4AF1-B533-BCF293B84A47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "633aa9dd840d5c0442f7852be44af9730a60cb82",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129303$DE9A2F47-63F2-4C20-850D-9E28AF6B1FB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q214617"
+          },
+          "hash": "f69bc44bf5ee60eff8d82a4808914e46ea5b1a59",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q129303$2A9D9DEF-EBC2-4418-831D-867CC7978638",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000453290578"
+          },
+          "hash": "66a33ad667406e091a9fa0726a669446ffc0394f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129303$1D5D774A-9783-446E-BC0B-14558706A345",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hagar Arms.svg"
+          },
+          "hash": "b9eb474de5567260853d2fd1c1689bc756ff4bb6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "زوجة النبي ابراهيم ووالدة النبي إسماعيل"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "постаць Старога Запавету"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আদি পুস্তকের একটি বাইবেলীয় ব্যক্তিত্ব"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "personatge del Gènesi"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "ИбраьхӀим пайхамаран зуда"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "da": {
+      "language": "da",
+      "value": "bibelsk person"
+    },
+    "de": {
+      "language": "de",
+      "value": "im Alten Testament die ägyptische Magd Saras, Nebenfrau Abrahams und Mutter Ismaels"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "im Alten Testament die ägyptische Magd Saras, Nebenfrau Abrahams und Mutter Ismaels"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "im Alten Testament die ägyptische Magd Saras, Nebenfrau Abrahams und Mutter Ismaels"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical character, Egyptian handmaid of Sarah, wife of Abraham"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "biblical character, Egyptian handmaid of Sarah, wife of Abraham"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la Biblia, esclava de Sara, esposa de Abraham"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شخصیت دینی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "servante de Sarah, la femme d'Abraham dans l'Ancien Testament"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ábrahám feleségének, Sárának a szolgája"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖書の登場人物"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഇത് വിക്കിപീഡിയ ആണ് അല്ലാതെ മതം കുത്തി വെക്കാനുള്ള സ്ഥലം അല്ല, ഇതിൽ എഴുതിയിരിക്കുന്നത് സാമാന്യം ബോധമുള്ളവന് മനസിലാവും"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Egyptische dienstmaagd van Abrahams vrouw Sara, bijvrouw van Abraham en moeder van Ismaël"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna, egipska służąca Sary, żony Abrahama"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, служанка Сарры, мать Измаила, сына Авраама"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "حضرت ابراهيم جي زال"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "biblijska oseba; egipčanska služabnica Abrahamove žene Sare"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "எபிரேய விவிலியத்தில் உள்ள ஒரு பெண்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "dinî figür"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "біблійний персонаж, наложниця Авраама"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "פערזענליכקייט אין תנ״ך"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希伯来圣经人物"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希伯來聖經人物"
+    }
+  },
+  "id": "Q129303",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هاجر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هاجر"
+    },
+    "az": {
+      "language": "az",
+      "value": "Hacər"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Һәжәр (Исмәғилдең әсәһе)"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Hagar"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Агар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Агар"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হাগার"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Agar"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "ХӀаджар"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hagar"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hagar"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hagar"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Hagar"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Hagar"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Hacer"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άγαρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hagar"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Hagar"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hagar"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agar"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Agar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هاجر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haagar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agar"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hágár"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Agar (personaxe bíblica)"
+    },
+    "he": {
+      "language": "he",
+      "value": "הגר"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Hagara"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hágár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հագար"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hagar"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agar"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハガル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하갈"
+    },
+    "la": {
+      "language": "la",
+      "value": "Agar (persona Biblica)"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Hagaras"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Hagara"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Агара"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഹാജറ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Siti Hajar isteri Nabi Ibrahim"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hagar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hagar"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Hagar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hagar"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "ہاجرہ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Agar"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hagar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агарь"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "ھاجرہ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hagar"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hagar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hagar"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Hagar"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஆகார்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ҳоҷар"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Hagar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hacer"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "ھەزرىتى ھاجەر"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агара"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہاجرہ"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Agar"
+    },
+    "war": {
+      "language": "war",
+      "value": "Hagar"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Ajara"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "הגר"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "夏甲"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "夏甲"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "夏甲"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "夏甲"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "夏甲"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "夏甲"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "夏甲"
+    }
+  },
+  "lastrevid": 17542325,
+  "modified": "2025-09-17T08:16:48Z",
+  "ns": 860,
+  "pageid": 156873,
+  "sitelinks": {},
+  "title": "Item:Q129303",
+  "type": "item"
+}

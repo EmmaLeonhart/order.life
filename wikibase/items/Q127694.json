@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sophie, Gräfin von Andechs"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127694$DFC8AD20-0416-4D95-924E-5421C7FFBB90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00033287"
+          },
+          "hash": "5bcd713e984b1824d66476dedb1a18afa9f42ac5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127694$97FE7AD1-1F03-4FF5-8A0F-EDAA066F3B54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Andechs-11"
+          },
+          "hash": "8a859311480867a35affbe05f7e2596a0332b127",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127694$EE5975D8-A089-46F5-8ACE-469C31C54257",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127694$F1B6D60D-CB29-4AB6-8DA3-256C32572540",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127694$4A34640D-0035-4427-A231-D6999ED59CEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127220",
+              "numeric-id": 127220
+            }
+          },
+          "hash": "d6c734ac73ca04ac6452c98c0050f4e2cf949da0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127694$E8D66009-C1D7-45F7-82AB-B87A3F86EB3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127618",
+              "numeric-id": 127618
+            }
+          },
+          "hash": "bb44f8890c7b1806fba6f670cc9159186ca00804",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127694$BA9FF338-6B83-4839-B088-26AB7F372B98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121726",
+              "numeric-id": 121726
+            }
+          },
+          "hash": "f5e48446b8cb3ec4921981eb3eb5ef4d0c0e10a6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127694$13385A73-1AEA-4F0C-B4BC-750D0B5CDA29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127694$6B51071C-4EF9-40AE-9EEE-F3C9DB20FE53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1218-01-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "39bcb547895c351a687f01520655ddcf7569a706",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127694$784DB66A-36F6-4517-A749-A6FCAC7BFE5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110613408"
+          },
+          "hash": "ca422741e32390a606bf8c4861944066c3a3991b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127694$C4A0A13C-74B4-4E97-A3E1-9ED56C8E0DC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=sophie;n=von andechs"
+          },
+          "hash": "4a684fe3b336186ce974ddf6fffec129b07ac5c9",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127694$91D97BC6-8958-489E-AD02-F7021D7485E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sophie, Gräfin von Andechs Arms.svg"
+          },
+          "hash": "98438abe6eebb7087e3799dfc85394493a1405c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 2 Jan 1218"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "contesă de Henneberg prin căsătorie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня фон Хеннеберг"
+    }
+  },
+  "id": "Q127694",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sophie, Gräfin von Andechs"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sophie, Gräfin von Andechs"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sophie d'Andechs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sophia van Andechs"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sofia de Andechs"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "София фон Андекс"
+    }
+  },
+  "lastrevid": 17540749,
+  "modified": "2025-09-17T07:55:54Z",
+  "ns": 860,
+  "pageid": 154712,
+  "sitelinks": {},
+  "title": "Item:Q127694",
+  "type": "item"
+}

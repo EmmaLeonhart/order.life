@@ -1,0 +1,838 @@
+{
+  "aliases": {
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Leto"
+      },
+      {
+        "language": "ca",
+        "value": "Latona"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Leto"
+      },
+      {
+        "language": "de",
+        "value": "Latona"
+      }
+    ],
+    "el": [
+      {
+        "language": "el",
+        "value": "Λητώ"
+      },
+      {
+        "language": "el",
+        "value": "Λατώ"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Latona"
+      },
+      {
+        "language": "en",
+        "value": "Leto"
+      }
+    ],
+    "eo": [
+      {
+        "language": "eo",
+        "value": "Leto"
+      },
+      {
+        "language": "eo",
+        "value": "Latona"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Léto"
+      },
+      {
+        "language": "fr",
+        "value": "Latone"
+      }
+    ],
+    "gl": [
+      {
+        "language": "gl",
+        "value": "Leto"
+      },
+      {
+        "language": "gl",
+        "value": "Latona"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "לטו"
+      },
+      {
+        "language": "he",
+        "value": "לטונה"
+      }
+    ],
+    "hr": [
+      {
+        "language": "hr",
+        "value": "Leta"
+      },
+      {
+        "language": "hr",
+        "value": "Latona"
+      }
+    ],
+    "hy": [
+      {
+        "language": "hy",
+        "value": "Լետո"
+      },
+      {
+        "language": "hy",
+        "value": "Լատոնա"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "レートー"
+      },
+      {
+        "language": "ja",
+        "value": "ラトナ"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "Leto"
+      },
+      {
+        "language": "nl",
+        "value": "Latona"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Лето"
+      },
+      {
+        "language": "ru",
+        "value": "Латона"
+      }
+    ],
+    "sh": [
+      {
+        "language": "sh",
+        "value": "Leta"
+      },
+      {
+        "language": "sh",
+        "value": "Latona"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "Leto"
+      },
+      {
+        "language": "sv",
+        "value": "Latona"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Лето"
+      },
+      {
+        "language": "uk",
+        "value": "Латона"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q131510$165C60D0-FF17-44B1-BEAB-C1E6B59675BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "26831|288719"
+          },
+          "hash": "a1ab78ac8af784bcac108979834c9f187d20428b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q131510$97E2AD7C-A952-4A5D-9936-AF695E1DFF50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132765",
+              "numeric-id": 132765
+            }
+          },
+          "hash": "f0f494e5085a39fcbdc7bfb76f0de64a83a62a9e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131510$8AF953BA-8D40-4780-9B46-E42B72B63931",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75282",
+              "numeric-id": 75282
+            }
+          },
+          "hash": "297f082b3bd0cf97b3af04433b37dc03250dfbb7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131510$1BDCA840-50DE-4DB0-9940-D82FEB6A5185",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131713",
+              "numeric-id": 131713
+            }
+          },
+          "hash": "c6366facebcf2a6fc5e3e692a1da765ca692974d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q131510$E4D72D1F-BC26-43B4-971D-D6A9307DABE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131510$D4757CFB-5894-4AEF-A414-ADDA812B4EA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q131510$B5661781-FF61-4F91-BCFE-FB0671F5BC79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132032",
+              "numeric-id": 132032
+            }
+          },
+          "hash": "2e9b1a66ede57db799792793851a430eb48d7fe9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131510$1B0CD7F9-27E7-4CCB-84A4-74F69FCC2C92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "b9f6425dd4f87f09031ab208bb978f9c28846359",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131510$548F7F2B-FDC0-4FDC-B86F-F96BE07E70DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130452",
+              "numeric-id": 130452
+            }
+          },
+          "hash": "a05a1a7127fa841b060ef763ca7a364782f36a37",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131510$A9598A49-B55D-42A2-8242-16983FCDD75F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130456",
+              "numeric-id": 130456
+            }
+          },
+          "hash": "b599b145ca02f058f11a766ef16fbceb5519c87f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131510$83249BB0-3560-467B-B22E-D7DF8F4EAC0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131510$4E0B2C4D-9E64-4006-9F5E-80FE5E0E56F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12958119"
+          },
+          "hash": "c29a8dc64f085a5707e9ea5cc31a0b61618132ba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131510$E22A5D0E-DFB2-4EF9-92AD-828915746106",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q103107"
+          },
+          "hash": "b5252bd4b1a8f517a37035c6abc3576963578cc1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131510$84F88606-59D6-4C6B-A6FC-170472BE1DC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Leto Arms.svg"
+          },
+          "hash": "39ce4ddab9cbc43e956e0bb7e2945dce6619d93a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "زوجة زيوس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "deessa de la mitologia grega"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Řecká bohyně a matka Apollóna a Artemis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mutter von Artemis und Apollon in der griechischen Mythologie"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελληνική μυθολογία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek mythological figure and mother of Apollo and Artemis"
+    },
+    "es": {
+      "language": "es",
+      "value": "diosa de la maternidad, la paciencia y la resistencia frente a la adversidad en la mitología griega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, maîtresse de Zeus et mère d'Artémis et Apollon"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Diosa da mitoloxía grega nai de Apolo e Artemis"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלה במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կեոսի և Ֆեբոսի դուստրը, Զևսի կինը, Ապոլլոնի և Դիանաի մայրը"
+    },
+    "it": {
+      "language": "it",
+      "value": "titanide della mitologia greca, madre di Artemide e Apollo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の女神"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "di mîtolojîya yewnanî de tîtanek"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, dochter van Koios"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać z mitologii greckiej, tytanida"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj din mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнегреческой мифологии — титанида дочь титана Кея и Фебы, жена Зевса"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Homeros'a mal edilen İlyada'da adı geçen efsanevi kişi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古希腊神祇"
+    }
+  },
+  "id": "Q131510",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Leto"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ليتو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "لاتونا"
+    },
+    "as": {
+      "language": "as",
+      "value": "লেট'"
+    },
+    "az": {
+      "language": "az",
+      "value": "Leto"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лета"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Лето (міталёгія)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лето"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "লিটো"
+    },
+    "br": {
+      "language": "br",
+      "value": "Leto"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Leta"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Leto"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "لیتۆ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Létó"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Лето (халаплӑх)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Leto"
+    },
+    "de": {
+      "language": "de",
+      "value": "Leto"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λητώ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leto"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Leto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leto"
+    },
+    "et": {
+      "language": "et",
+      "value": "Leto"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Leto"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لتو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Leto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Léto"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lató"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Leto"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Λητώ"
+    },
+    "he": {
+      "language": "he",
+      "value": "לטו"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Leta"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Létó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լետո"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Լեթօ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Leto"
+    },
+    "io": {
+      "language": "io",
+      "value": "Leto (mitologio)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Latona"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "レートー"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "레토"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Lêto"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Lêto"
+    },
+    "la": {
+      "language": "la",
+      "value": "Latona"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Leto"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Leto"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Lēto"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ലെറ്റോ"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯂꯦꯇꯣ"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "لتو"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Leto"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Leto"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Leto"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Leto"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Leto"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Latona"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Leto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лето"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Leto"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Leta"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Léto"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Leto"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Лето"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Лето"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Leto"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Leto"
+    },
+    "th": {
+      "language": "th",
+      "value": "ลีโต"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Leto"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лето"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Leto"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Leto"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "勒托"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "勒托"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "勒托"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "勒托"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "勒托"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "勒托"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "勒托"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "勒托"
+    }
+  },
+  "lastrevid": 17544400,
+  "modified": "2025-09-17T08:44:53Z",
+  "ns": 860,
+  "pageid": 159838,
+  "sitelinks": {},
+  "title": "Item:Q131510",
+  "type": "item"
+}

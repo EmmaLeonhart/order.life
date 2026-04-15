@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marie de Garlande"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128731$28BA1CF0-CA72-4D2D-A2DB-9211788299EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139788"
+          },
+          "hash": "6542251b7624fefc12d7cea0bc148f2d12fa8cea",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q128731$459EA722-C247-4EE8-B73A-8D99CEFEB8DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128733",
+              "numeric-id": 128733
+            }
+          },
+          "hash": "424c4d0c4ce9fac28c38c89e58afda3e021e4b8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128731$126776EE-905B-490D-80B6-71382D466305",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128731$897A5F48-DD6D-46D1-8D63-E7118DE1A704",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q128731$EAC6F3E4-AD64-4696-8390-476F66274DFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marie_De_Garlande_(1)"
+          },
+          "hash": "84da28da1692a843f2a70bc02007385a5ccb6f43",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128731$5F83DEA0-A9FC-4698-8EBE-F6C7809BB138",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122496",
+              "numeric-id": 122496
+            }
+          },
+          "hash": "54de8862b2c8fedaa2b18bd8c533ec4510820190",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128731$127D7010-F16B-4226-926C-36FEA25AE280",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128731$A174CEF1-7528-45AE-B5FE-7BFDAF732B0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110377908"
+          },
+          "hash": "3682211f60ed55ea80d68820738a712b1ff7a85b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128731$45F9FE2D-0081-4AEC-932B-16D522939C57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marie;n=de garlande"
+          },
+          "hash": "1ec22fdef3ef6fdee244b07338d1665af3fa33a5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128731$B5F96E25-4687-4044-882F-9025997DDC56",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marie de Garlande Arms.svg"
+          },
+          "hash": "977487af9975238a91e3ed4f7515219518555e1d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- Aft 1259"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дама де Ливри"
+    }
+  },
+  "id": "Q128731",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Marie de Garlande"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marie de Garlande"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария де Гарланд"
+    }
+  },
+  "lastrevid": 17541763,
+  "modified": "2025-09-17T08:09:22Z",
+  "ns": 860,
+  "pageid": 156104,
+  "sitelinks": {},
+  "title": "Item:Q128731",
+  "type": "item"
+}

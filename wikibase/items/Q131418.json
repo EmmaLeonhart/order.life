@@ -1,0 +1,494 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jared"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q131418$162EC02F-CDEE-44A5-9995-93EA1570935A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32382"
+          },
+          "hash": "2ea4781c67a29dc537f22653d49f921ea5365d50",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q131418$499CBA93-42A3-46C3-BA33-01C4773DA85C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130382",
+              "numeric-id": 130382
+            }
+          },
+          "hash": "5d1eea11fff71a1805ec997bbcad730acb74fb6c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131418$5CD251B1-0021-43D3-BB19-79F691DE43FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130380",
+              "numeric-id": 130380
+            }
+          },
+          "hash": "d7e0984e1c2c7a1aab1012739103b55f955852e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q131418$40E85AF5-E0BB-41F6-B833-A80AB43B38E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131418$9BCA10D5-942F-4E70-AC24-B41B57D07FB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131418$3A386549-DC89-414E-9776-3A6183BE7E20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132727",
+              "numeric-id": 132727
+            }
+          },
+          "hash": "2bae9af21277d6c5e326d991a3cdf77b4a2b7585",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131418$57CF0FD3-21C3-4B4A-A12B-76E550CAA858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q131418$67C6A0E2-E67C-4893-8120-EA67021E46A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3544-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfb74791b6dcec70f54d3eb6d306ef46e1f4eeed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q131418$3B748B61-757D-47F1-B0DA-7A8D72E49A78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2582-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85bb7b52e2aa3b33cc49410b062b745aa1857274",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131418$1C2A4F90-1C1F-4FF3-8820-EC3CED756AB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q927410"
+          },
+          "hash": "7955368e6b65ee0af15ae0ab2532960089186a34",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q131418$6FD2B1B2-D89E-42B8-BF95-BC6C0C9F5F15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001048812668"
+          },
+          "hash": "b62ca321befd8d1de325cca8de03a7e5a2916b49",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131418$D34843E6-6C35-4DD7-AE4E-3C0CCAE49E1D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jared Arms.svg"
+          },
+          "hash": "f19a0f9a09b579e1f0ec075bf52ecafb4dc0f2b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن مهلائيل وحفيد قينان بن أنوش، عاش 962 سنة ولد وعاش في بلاد وادي الرافدين"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(3544-2582)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical figure"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hijo de Malael, abuelo de Matusalem y descendiente de Adán y Eva"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Biblijski lik"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "библиска личност"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 5:15)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کتاب پیدائش 20–5:18 میں مذکور آدم و حوا کی چھٹی نسل، حنوک کا والد"
+    }
+  },
+  "id": "Q131418",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يارد بن مهلائيل"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يارد بن مهلاييل"
+    },
+    "bew": {
+      "language": "bew",
+      "value": "Yarad"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "যেরদ"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཡཱ་རིད།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jèred"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jered"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Jared"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jered"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jered"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιάρεδ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jared"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jared"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jared"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یارد"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jared"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yared"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Iaireid"
+    },
+    "he": {
+      "language": "he",
+      "value": "ירד"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jered"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yared"
+    },
+    "it": {
+      "language": "it",
+      "value": "Iared"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヤレド"
+    },
+    "km": {
+      "language": "km",
+      "value": "យ៉ារេឌ (រូបភាពព្រះគម្ពីរ)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야렛"
+    },
+    "la": {
+      "language": "la",
+      "value": "Jareth"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јаред"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jared"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jared"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jered"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "یارد"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jarede"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iared"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иаред"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јаред"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jered"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Jared"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "Jalete"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yeret"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Яред"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یارد"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Yared"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "ירד"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "雅列"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "雅列"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "雅列"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "雅列"
+    }
+  },
+  "lastrevid": 17544312,
+  "modified": "2025-09-17T08:43:43Z",
+  "ns": 860,
+  "pageid": 159714,
+  "sitelinks": {},
+  "title": "Item:Q131418",
+  "type": "item"
+}

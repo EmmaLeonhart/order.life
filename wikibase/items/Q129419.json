@@ -1,0 +1,673 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ibrahim"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129419$CD43E0D8-AD3E-4D29-8A10-82DD5E21DE34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "372322|661769"
+          },
+          "hash": "c9ad0b5ca77c07ed7ca83b6b58059e110454b362",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129419$FAFD6D98-8CB1-4EB5-BBE8-6601A860AE35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129355",
+              "numeric-id": 129355
+            }
+          },
+          "hash": "30bd2de2287fc9a6df9f6ece5c0d225016aedc66",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129419$DD8CAF85-64F3-462F-AC8C-0ED0E0FFBC2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129421",
+              "numeric-id": 129421
+            }
+          },
+          "hash": "5ba83095bf2811977fa5173debaf361fccb1995b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129419$957E89AA-5E7E-4AE8-A2DD-E742A47CAFD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129419$178437C1-234C-4A62-B51B-A96775C2DBE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129419$756616A0-197F-4BD7-9EE2-7A473ECD3E65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86389",
+              "numeric-id": 86389
+            }
+          },
+          "hash": "d81b575a3a0204db2691afb3f30590250c16abb3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129419$3B0E81CE-293F-42B0-9035-8BDE53486B32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129457",
+              "numeric-id": 129457
+            }
+          },
+          "hash": "df6d3ddba2ebc5a3f5c00c47b12bc2d105d65aec",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129419$AD308538-33AB-4949-ACC8-CB8BAAE66833",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129293",
+              "numeric-id": 129293
+            }
+          },
+          "hash": "174c9748571bf61861de2edd0982647173169674",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129419$9895AE4A-88EB-4F2F-AEC7-78144CC286E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129419$1CE0EC86-4A7A-4EC8-A51E-A15BE9B6E2BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1813-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "920e7ced4e1a86f45b16d9b06ffc2851407b7903",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129419$A689CBA3-DB04-42B2-B035-2DE6C7C66980",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1768161"
+          },
+          "hash": "ef3e1218ecba3f3961823ae5b9b004a1689e7909",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129419$345F22ED-5EDE-40DD-9A71-091F9183FC29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ibrahim Arms.svg"
+          },
+          "hash": "7d30f0b24e808d7cf5d8172e0c20d42f11f3daa4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "النَّبيُّ إِبراهيم وِفقًا للمُعتَقد الإسلامي"
+    },
+    "as": {
+      "language": "as",
+      "value": "ইছলামিক পইগম্বৰ"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "пророк"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইসলামের একজন নবী"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Ibrahim a.s."
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Abraham com a profeta islàmic"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "исламан пайхамар а, элча а"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پێناسی ئیبراهیم لە ئیسلامدا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "prorok"
+    },
+    "da": {
+      "language": "da",
+      "value": "profet"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prophet des Islam"
+    },
+    "en": {
+      "language": "en",
+      "value": "forefather of the Abrahamic religions from the Islamic perspective"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "profeto"
+    },
+    "es": {
+      "language": "es",
+      "value": "profeta"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "tärkeä profeetta islaminuskossa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nom du prophète Abraham dans l'islam"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "इबराहीम अलैहिस्सलाम: इस्लाम धर्म के भी महान पैगम्बर(नबी) थे।"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "prorok"
+    },
+    "id": {
+      "language": "id",
+      "value": "nenek moyang agama-agama Ibrahimiah dari perspektif Islam"
+    },
+    "it": {
+      "language": "it",
+      "value": "nome del profeta Abramo nell'Islam"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "پیغمبر"
+    },
+    "la": {
+      "language": "la",
+      "value": "propheta Islamicus"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "പ്രവാചകൻ ഇബ്രാഹീം"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "profet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "profeet"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "prorok"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "исламский пророк и посланник"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "ابراهيم بابت اسلامي نظريو"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "prorok"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "islamski prerok; začetnik abrahamskih religij z islamske perspektive"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "profet"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இஸ்லாமிய இறைத்தூதர்களில் ஒருவர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İslami bakış açısına göre İbrahimî dinlerin atası"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اسلام میں نبی"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "islom nuqtayi nazaridan Ibrohimiy dinlarning asoschisi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "先知和使者。 所有選定的安拉先知的聖父和人類領袖穆罕默德的最偉大的祖先"
+    }
+  },
+  "id": "Q129419",
+  "labels": {
+    "ace": {
+      "language": "ace",
+      "value": "Ibrahim"
+    },
+    "af": {
+      "language": "af",
+      "value": "Abraham in Islam"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إبراهيم في الإسلام"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ابراهيم فى الاسلام"
+    },
+    "as": {
+      "language": "as",
+      "value": "ইব্ৰাহিম"
+    },
+    "av": {
+      "language": "av",
+      "value": "Ибрагьим авараг"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Ибраһим пәйғәмбәр"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ибрахим"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইব্রাহিম"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Ibrahim u islamu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ibrahim"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "ИбрахӀим"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیبراھیم لە ئیسلامدا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ibrahim"
+    },
+    "da": {
+      "language": "da",
+      "value": "Abraham i Islam"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ibrāhīm"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "އިބްރާހީމްގެފާނު"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ibrahim"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Abrahamo en Islamo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Abraham in Islam"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ibrahim"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ابراهیم"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Annabiijo Ibrahim"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Abraham islaminuskossa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ibrahim"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Annabi Ibrahim"
+    },
+    "he": {
+      "language": "he",
+      "value": "אברהם באסלאם"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "इब्राहीम"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ibrahim"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ibrahim"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ibrahim"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イブラーヒーム"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Ibrahim"
+    },
+    "kge": {
+      "language": "kge",
+      "value": "Barohim"
+    },
+    "knc": {
+      "language": "knc",
+      "value": "Abraham in Islam"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "اِبراہیٖم (اِسلامس منٛز)"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Ибрагим"
+    },
+    "la": {
+      "language": "la",
+      "value": "Abraham"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Abrahāms islāmā"
+    },
+    "mad": {
+      "language": "mad",
+      "value": "Ibrahim"
+    },
+    "min": {
+      "language": "min",
+      "value": "Ibrahim"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ибрахим"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഇബ്രാഹിം"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Nabi Ibrahim a.s."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ibrahim"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ibrahim"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ibrahim"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "ابراہیم (اسلام)"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "ابراهيم"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ибрахим"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "ابراهيم"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ibrahim"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ibrahim"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ibrahimi"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ibrahim"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இப்றாகீம்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Иброҳим"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิบรอฮีม"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İslam'da İbrahim"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "ئىبراھىم ئەلەيھىسسالام"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ібрагім"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ابراہیم علیہ السلام"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Ibrohim"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊斯蘭教中的亞伯拉罕"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "易卜拉欣"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "易卜拉欣"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "易卜拉欣"
+    }
+  },
+  "lastrevid": 17542435,
+  "modified": "2025-09-17T08:18:14Z",
+  "ns": 860,
+  "pageid": 157028,
+  "sitelinks": {},
+  "title": "Item:Q129419",
+  "type": "item"
+}

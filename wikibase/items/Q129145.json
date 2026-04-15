@@ -1,0 +1,325 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elias VII of Périgord"
+      },
+      {
+        "language": "en",
+        "value": "Elias VII of Perigord"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129145$BA875527-145D-40EE-8294-CA533048AD34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "480587"
+          },
+          "hash": "ea5f512967733894d708c1b744b93b395dd3c14c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q129145$80E3AFF7-8790-417A-BD0B-E986E7B2217C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00580176"
+          },
+          "hash": "c826bcaf8a97f50f7c7583b0e77a1228d4264d04",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129145$EA8C198E-3CD3-4355-8F38-8B0DE7CF0035",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129145$D6B706E5-F5AF-4AC1-80F9-8495A0F7D4FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q129145$96C21C06-2891-42C1-9290-A18A57EE2060",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Helie_de_Périgord_(7)"
+          },
+          "hash": "f4c4434a2f1d89bd3aa01aeaee1d5c3b10cb4bfc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129145$97C3E6E7-07D3-47FE-B6DA-5789CCD84E6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122774",
+              "numeric-id": 122774
+            }
+          },
+          "hash": "537e8cbde44dfea038dcce9abf013a3b70fd0db0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129145$A6800A09-62F8-48B5-A0E7-26018D6F8470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127740",
+              "numeric-id": 127740
+            }
+          },
+          "hash": "229d6f56bfee798b2081c1f4eec38a4fc3234ec9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129145$294DAD0A-7C3A-4A32-98C1-E9B129577CEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129145$C5917572-465B-46FB-B863-929296320018",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129145$26BE7EB0-D6BF-42FA-BFAB-5F81C0DCB1B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "79728cd6d9d344b0d19cd79279e68cf3ef1850d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129145$ED38BE9C-5BB1-4EC2-B0D3-388349092B4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1329158"
+          },
+          "hash": "eb07199d5859ac51464235bc9a13123454c65572",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129145$84FA0745-3CF1-48E8-BC37-69191AA8D23A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=helie;n=de perigord;oc=66"
+          },
+          "hash": "0af67197fc35269d53b67d6519ef2cc57cbd8880",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129145$38EA9237-EF3C-42A4-AE27-0F98E47ECA4E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elias VII of Périgord Arms.svg"
+          },
+          "hash": "8828c8229273b393f732ae7475c29499c16623dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Périgord"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Перигора"
+    }
+  },
+  "id": "Q129145",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Elias VII."
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Eliáš VII. z Périgordu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Elias VII."
+    },
+    "en": {
+      "language": "en",
+      "value": "Elias VII of Périgord"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elias VII of Périgord"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hélie VII de Périgord"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elias VII."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эли VII"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Elias VII of Périgord"
+    }
+  },
+  "lastrevid": 17542175,
+  "modified": "2025-09-17T08:14:48Z",
+  "ns": 860,
+  "pageid": 156661,
+  "sitelinks": {},
+  "title": "Item:Q129145",
+  "type": "item"
+}

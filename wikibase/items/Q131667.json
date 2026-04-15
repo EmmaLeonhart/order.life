@@ -1,0 +1,634 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hebe"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q131667$A4148D5B-2868-4E97-92AF-D6A6D61E46E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132834",
+              "numeric-id": 132834
+            }
+          },
+          "hash": "bc04b148f6833ff47a8b38a90601097313df391d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131667$29DFE5A5-3974-44CE-A8ED-E1B0F46CDDED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132835",
+              "numeric-id": 132835
+            }
+          },
+          "hash": "eed721a2610a8781ff22b40e3165260a4f77624d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q131667$653BAB04-9942-45FF-935A-A64DDE1D60AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131667$B1296969-2532-49F3-98E4-249AD1419F65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q131667$0796F241-DFAB-42EE-A11C-54D7B38E1603",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131715",
+              "numeric-id": 131715
+            }
+          },
+          "hash": "a91a3420c6c117c1304bffa5cfad9e1f5eb7b97d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131667$E3BC0F8B-7957-4238-8958-D9F8E1BB6BD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "5d7eea6d2e24cf4e2593a1cefb77ae9c8de10b60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131667$6AE8D668-E79D-4CC0-8BC1-6AB23FB18A92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130560",
+              "numeric-id": 130560
+            }
+          },
+          "hash": "dd434c4b5341b922e9e855648b0aa7d8af7650fd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131667$1B1920E8-B7CF-47EB-9464-DA4565977324",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131667$AFFDE5AA-7E1D-4E55-9AC9-3AB652177A9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q119463"
+          },
+          "hash": "df19fbb98bbb957cf83255086430b60681a8c88b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131667$1FD5C14E-4B58-4081-AF13-51D6A044E512",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wushan Arms.svg"
+          },
+          "hash": "f89fc9c2a54f4b1f56fbe05c08bda693d1fbecfe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "an": {
+      "language": "an",
+      "value": "pachina de desambigación"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "صفحة توضيح لويكيميديا"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "صفحة توضيح ديال ويكيميديا"
+    },
+    "as": {
+      "language": "as",
+      "value": "ৱিকিমিডিয়া দ্ব্যৰ্থতা দূৰীকৰণ পৃষ্ঠা"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "páxina de dixebra de Wikimedia"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Уикимедия пояснителна страница"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "উইকিমিডিয়ার দ্ব্যর্থতা নিরসন পাতা"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "višeznačna odrednica na Wikimediji"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "pàgina de desambiguació de Wikimedia"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پەڕەی ڕوونکردنەوەی ویکیمیدیا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "rozcestník na projektech Wikimedia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Wikimedia-flertydigside"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "el": {
+      "language": "el",
+      "value": "σελίδα αποσαφήνισης εγχειρημάτων Wikimedia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wikimedia disambiguation page"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Wikimedia disambiguation page"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Wikimedia disambiguation page"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "apartigilo"
+    },
+    "es": {
+      "language": "es",
+      "value": "página de desambiguación de Wikimedia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Wikimedia täpsustuslehekülg"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Wikimediako argipen orri"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "صفحه ابهامزدایی ویکیمدیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "täsmennyssivu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "page d'homonymie de Wikimédia"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Wikimedia-betsjuttingsside"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "páxina de homónimos"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Wikimedia-Begriffsklärigssite"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "સ્પષ્ટતા પાનું"
+    },
+    "he": {
+      "language": "he",
+      "value": "דף פירושונים"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "बहुविकल्पी पृष्ठ"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "razdvojbena stranica na Wikimediji"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyértelműsítő lap"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վիքիմեդիայի նախագծի բազմիմաստության փարատման էջ"
+    },
+    "id": {
+      "language": "id",
+      "value": "halaman disambiguasi Wikimedia"
+    },
+    "is": {
+      "language": "is",
+      "value": "aðgreiningarsíða á Wikipediu"
+    },
+    "it": {
+      "language": "it",
+      "value": "pagina di disambiguazione di un progetto Wikimedia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィキメディアの曖昧さ回避ページ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მრავალმნიშვნელოვანი"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ದ್ವಂದ್ವ ನಿವಾರಣೆ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위키백과 동음이의어 문서"
+    },
+    "la": {
+      "language": "la",
+      "value": "pagina discretiva Vicimediorum"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Wikimedia-Homonymiesäit"
+    },
+    "li": {
+      "language": "li",
+      "value": "Wikimedia-verdudelikingspazjena"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Wikimedia projekta nozīmju atdalīšanas lapa"
+    },
+    "min": {
+      "language": "min",
+      "value": "laman disambiguasi"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "појаснителна страница"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "വിക്കിപീഡിയ വിവക്ഷ താൾ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "निःसंदिग्धीकरण पाने"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Laman nyahkekaburan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wikipedia-pekerside"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Sied för en mehrdüdig Begreep op Wikipedia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "doorverwijspagina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Wikimedia-fleirtydingsside"
+    },
+    "or": {
+      "language": "or",
+      "value": "ବହୁବିକଳ୍ପ ପୃଷ୍ଠା"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਗੁੰਝਲਖੋਲ੍ਹ ਸਫ਼ਾ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "strona ujednoznaczniająca"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "página de desambiguação de um projeto da Wikimedia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "página de desambiguação de um projeto da Wikimedia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "pagină de dezambiguizare Wikimedia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "страница значений"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Wikimedia disambiguation page"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rozlišovacia stránka"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "razločitvena stran Wikimedie"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "faqe kthjelluese e Wikimedias"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "вишезначна одредница на Викимедији"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "grensida"
+    },
+    "te": {
+      "language": "te",
+      "value": "వికీమీడియా అయోమయ నివృత్తి పేజీ"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "саҳифаи маъноҳои Викимедиа"
+    },
+    "tg-cyrl": {
+      "language": "tg-cyrl",
+      "value": "саҳифаи маъноҳои Викимедиа"
+    },
+    "tg-latn": {
+      "language": "tg-latn",
+      "value": "sahifai ma'nohoi Vikimedia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Vikimedya anlam ayrımı sayfası"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Мәгънәләр бите Викимедиа проектында"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Мәгънәләр бите Викимедиа проектында"
+    },
+    "tt-latn": {
+      "language": "tt-latn",
+      "value": "Mäğnälär bite Wikimedia proyektında"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "сторінка значень у проєкті Вікімедіа"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "trang định hướng Wikimedia"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "ojúewé ìṣojútùú Wikimedia"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "維基媒體搞清楚頁"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Wikimedia-deurverwiespagina"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "維基媒體消歧義頁"
+    }
+  },
+  "id": "Q131667",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Wushan"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Wushan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Wu-šan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wushan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wushan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wushan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wushan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wushan"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "우산현"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wushan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wushan"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Wushan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Wushan"
+    }
+  },
+  "lastrevid": 17544558,
+  "modified": "2025-09-17T08:47:01Z",
+  "ns": 860,
+  "pageid": 160049,
+  "sitelinks": {},
+  "title": "Item:Q131667",
+  "type": "item"
+}

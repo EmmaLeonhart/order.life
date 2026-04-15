@@ -1,0 +1,396 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vasilko Romanovich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128087$97E346EE-0C1E-41ED-9AA7-A111A9FAEFEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "30240"
+          },
+          "hash": "8fc3d940f6bf49fbe6569ffca519b7d4b904f3d4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128087$12FFE5AE-F165-4247-A69F-7D3E0506A9F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128087$16724662-6734-45F7-B46A-5826F458BB42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128087$AADF9D45-5D6B-4923-839F-1978D01BB67B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128123",
+              "numeric-id": 128123
+            }
+          },
+          "hash": "2cf5f41e66576b8ff231542cf9eb3173bbd94e1f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128087$1EB5F7C0-441C-417A-83BC-D7AC2D399D92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147450",
+              "numeric-id": 147450
+            }
+          },
+          "hash": "762246e075d13e4f61b12bf9143db41df7b28c8a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128087$03842B6E-4D72-443B-81D0-5CFF2547989F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122031",
+              "numeric-id": 122031
+            }
+          },
+          "hash": "3cfb7e3093302f118a456f3cf094af0df9068454",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128087$DAFDF937-32E5-42B8-B171-696189A5558F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128083",
+              "numeric-id": 128083
+            }
+          },
+          "hash": "c89c238faa0549aad0ea87d9274f443aed1b58a2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128087$F157CF37-C3DB-4EDD-A541-73FA7753C98B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128087$E5109907-6E91-4942-A527-93B020F6E5F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1203-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7972beb4119854986aeef2a6ee821567162d3fb1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128087$FB17BA15-68A3-4668-B6AF-0F4D7E697994",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1269-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9eba670b2c62436efea06c1dd9454afa6705f94d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128087$305EBFCA-5779-4DEB-AFB8-17142BCE87B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2446202"
+          },
+          "hash": "5964126a3eba6880f2b80a1b8052d3d5084dba74",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128087$6A5AD290-5568-4B1E-89B8-203BA0E40C17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=vassilko;n=rurikides;oc=11"
+          },
+          "hash": "05cc357bf17323309c00a20b3c25a7886c1a7541",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q128087$1B0F98C4-4153-475E-9D12-27B65DA5C9A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.935"
+          },
+          "hash": "f9777244b684d3528bb62d5f76034086d3f80c1d",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128087$A2F09CA1-DB94-4510-A630-464481AA85A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vasilko Romanovich Arms.svg"
+          },
+          "hash": "d7480e41f1079d6aeadb5c6ecb854bd5abce4c72",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "князь галіцка-валынскі"
+    },
+    "en": {
+      "language": "en",
+      "value": "rus prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe de Galitzia-Volinia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince russe du XIIIe siècle"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "галицько-волинський князь Василько Волинський"
+    }
+  },
+  "id": "Q128087",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فاسيلكو رومانوفيتش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Васілька Раманавіч"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Васілька Раманавіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vasilko Romanovič"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wassilko Romanowitsch"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασίλκο Ρομανόβιτς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vasilko Romanovich"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Vasilko Romanovich"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Vasilko Romanovich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vasilko Románovich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vassilko Romanovitch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴァスィーリコ・ロマーノヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vasilko Romanovich"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wasylko Romanowicz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Василько Романович"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Василко Романович"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vasilko Romanovitj"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Василько Романович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瓦西爾科羅曼諾維奇"
+    }
+  },
+  "lastrevid": 17541139,
+  "modified": "2025-09-17T08:01:09Z",
+  "ns": 860,
+  "pageid": 155239,
+  "sitelinks": {},
+  "title": "Item:Q128087",
+  "type": "item"
+}
