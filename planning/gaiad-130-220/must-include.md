@@ -31,17 +31,16 @@ tilts don't imply the whole epic leans this way.
 
 ## Biblical / Near Eastern narrative
 
-- **Abraham → Isaac → Jacob.** The patriarchal sequence.
-  Covenant-making, the Binding of Isaac, Jacob wrestling, the
-  twelve sons. Feeds into Joseph and the Egypt sojourn. Partly
-  genealogical spine; partly narrative texture.
-- **Joseph in Egypt.** The bridge between the patriarchs and the
-  Exodus. Dream interpretation, famine, brothers-reunion.
-- **The Pharaohs.** Egypt as a civilizational presence — not just
-  backdrop to the Exodus. Old / Middle / New Kingdom as real
-  anchors, Akhenaten's monotheism experiment, Ramesside era,
-  connections to the Bronze Age Collapse material in
-  `moses-bac-pivot.md`.
+- **Abraham → Isaac → Jacob.** `abraham-jacob.md`. The patriarchal
+  sequence. Covenant-making, the Binding of Isaac, Jacob wrestling,
+  the twelve sons. Feeds into Joseph and the Egypt sojourn.
+- **Joseph in Egypt.** `joseph-egypt.md`. The bridge between the
+  patriarchs and the Exodus. Dream interpretation, famine, brothers-
+  reunion.
+- **The Pharaohs.** `pharaohs.md`. Egypt as a civilizational
+  presence — not just backdrop to the Exodus. Old / Middle / New
+  Kingdom, Akhenaten's monotheism experiment, Ramesside era, BAC
+  connection.
 - **Moses and the Exodus.** Already partly in `moses-bac-pivot.md`
   (alphabet synthesis at BAC) and will extend into `torah.md`
   (narrative Exodus / Sinai).
@@ -51,20 +50,21 @@ tilts don't imply the whole epic leans this way.
 
 ## Indo-European / Founding-pair material
 
-- **Manu.** The Indo-Iranian founding figure, cross-traditional
-  parallel to Yemo in `manu-yemo.md`. The Manu flood narrative, the
-  Laws of Manu, Manu as ancestor of humanity in Hindu tradition.
-  Currently under-weighted in `manu-yemo.md`, which leans PIE / R1a /
-  R1b — the specifically *Indian* Manu story needs its own handling.
+- **Manu (Indian).** `manu-indian.md`. Indian-interior Manu: flood-
+  ancestor (Matsya narrative) and lawgiver (Manusmriti). Parallels
+  Noah and Moses respectively without collapsing into either.
+  Separate from the PIE Manu in `manu-yemo.md`.
 - **Yima / Yemo.** Covered in `manu-yemo.md`.
 - **Aryan entry into South Asia.** Anchors the Asia arc
   (`asia-arc.md`).
 
 ## Hindu / Buddhist epic material
 
-- **Ramayana.** The great epic. Rama, Sita, Hanuman, Lanka.
-- **Mahabharata.** The other great epic. Kurukshetra, Krishna,
-  the Bhagavad Gita embedded moment.
+- **Ramayana.** `ramayana.md`. Rama, Sita, Hanuman, Lanka; Ravana
+  as complex antagonist; Ayodhya hook for `heo-hwang-ok.md`.
+- **Mahabharata.** `mahabharata.md`. Kurukshetra, the Pandava-
+  Kaurava war, Karna as tragic figure, Draupadi, the Bhagavad Gita
+  embedded moment.
 - **The Buddha.** `buddha.md`.
 - **Mahayana's emergence and move east.** `asia-arc.md`.
 
