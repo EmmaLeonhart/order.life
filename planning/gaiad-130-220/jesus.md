@@ -34,3 +34,8 @@ syncretism (see `elagabalus.md` for the adjacent solar-cult thread),
 and the Pornocracy under Marozia. The Christian arc's **X-Files peak**
 is the papal-corruption material (House of Theophylact ~900–960,
 Marozia as kingmaker and pope-maker) — not the founding.
+
+Load-bearing detail: the House of Theophylact **literally carries the
+Jesus-via-Rome bloodline**. See `marozia.md`. The Jesus descent line
+and the medieval papacy converge on the same body — this is what makes
+the Pornocracy a Gaiad chapter and not just a scandal.

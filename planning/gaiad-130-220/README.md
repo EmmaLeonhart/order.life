@@ -3,9 +3,9 @@
 Planning directory for the 91-chapter gap between Ch 129 ("The Dawn of
 Humanity") and Ch 221 ("The Year of Three Falls", 1453 CE).
 
-**Convention:** one topic, one file. New content vision goes in its own
-markdown file rather than piling into a shared notes doc. Chapters are
-never pre-numbered — these files capture motifs, episodes, and
+**Convention:** one topic, one file. New content vision goes in its
+own markdown file rather than piling into a shared notes doc. Chapters
+are never pre-numbered — these files capture motifs, episodes, and
 structural choices; specific chapter numbers emerge at the writing
 desk.
 
@@ -16,30 +16,88 @@ desk.
 - [`chronology.md`](chronology.md) — flat undifferentiated timeline
   of events in the gap.
 
-## Topical / episode notes
+## Opening & structural pivots
 
-### Opening & pivots
 - [`genesis-opening.md`](genesis-opening.md) — Adam / Cain / Abel /
-  Seth and Noah-as-out-of-Africa; the haplogroup-heavy opening.
+  Seth and Noah-as-out-of-Africa. The haplogroup-heavy opening.
 - [`moses-bac-pivot.md`](moses-bac-pivot.md) — Moses synthesizing the
   alphabet at the Bronze Age Collapse (Register B → C seam).
 
-### Gateway ancestors (genealogical spine)
+## Deep-prehistory civilizations (illegible-from-outside)
+
+- [`indus-valley.md`](indus-valley.md) — largest pre-IE South Asian
+  civilization; script undeciphered.
+- [`cucuteni-trypillia.md`](cucuteni-trypillia.md) — "old Europe"
+  before the Yamnaya arrival.
+
+## Haplogroup / migration founders
+
+- [`manu-yemo.md`](manu-yemo.md) — PIE founding pair; R1a and R1b;
+  Yamnaya / Indo-European expansion.
+
+## Late-mythic-cycle bridges
+
+### Strongest
+- [`aztec.md`](aztec.md) — **Tier 1.** Florentine Codex catches the
+  cycle at the moment of conquest.
+
+### Benchmark
+- [`scandinavia.md`](scandinavia.md) — **Tier 2.** Post-conversion
+  Icelandic Eddas.
+- [`jimmu.md`](jimmu.md) — **Tier 2 / Japan.** Kojiki + Nihon Shoki,
+  state-funded capture. Also the per-person founder file.
+
+### Strong
+- [`rome.md`](rome.md) — **Tier 3.** Livy + Virgil, Augustan
+  commissioning.
+- [`china.md`](china.md) — **Tier 3.** Shiji, Confucian-filtered.
+
+### Valuable but thinner
+- [`greece.md`](greece.md) — **Tier 4.** Homer/Hesiod without a single
+  bridging work.
+
+### Additional strong cases
+- [`mongolia.md`](mongolia.md) — *Secret History of the Mongols*, Blue
+  Wolf to Genghis.
+- [`arabia.md`](arabia.md) — Adnan / Qahtan → Muhammad lineage.
+- [`ethiopia.md`](ethiopia.md) — Solomonic dynasty via *Kebra Nagast*.
+
+### Counterfactual
+- [`lithuania-counterfactual.md`](lithuania-counterfactual.md) — the
+  epic Lithuania never got to write.
+
+### Reclassified / deferred
+- [`maori.md`](maori.md) — structurally tier-1 but belongs in the
+  modern-period block (253–328), not this gap.
+
+### Weaker-tier, briefly
+- [`other-mythic-cycles.md`](other-mythic-cycles.md) — Tibet, Korea,
+  Vietnam, Ireland/Celtic, Wales, Persia, Armenia, Georgia. Split into
+  their own files when they firm up.
+
+## Gateway ancestors (genealogical spine)
+
 - [`charlemagne.md`](charlemagne.md) — European bridge.
 - [`bustanai.md`](bustanai.md) — Jewish / Persian / Islamic triple
   bridge via the Exilarch × Sasanian princess marriage.
+- [`heo-hwang-ok.md`](heo-hwang-ok.md) — the one named Asian-to-Asian
+  bridge, Ayodhya → Korea → Japan ~48 CE.
 
-### Religious founders
+## Religious founders
+
 - [`jesus.md`](jesus.md) — tragic founding, ultimately pro-Jesus.
-- [`muhammad.md`](muhammad.md) — Manichaean heir, forced into founding,
-  structurally placed with descent from Rome.
+- [`muhammad.md`](muhammad.md) — Manichaean heir, Muhammad-via-Rome.
 - [`buddha.md`](buddha.md) — the hardest case, most actively critical
   portrayal.
-- [`jimmu.md`](jimmu.md) — messy coalition-builder, not divine founder.
+- [`jimmu.md`](jimmu.md) — messy coalition-builder (also cross-listed
+  under mythic-cycle bridges above).
 
-### Connective / X-Files episodes
+## Connective / X-Files episodes
+
 - [`elagabalus.md`](elagabalus.md) — Emesa black stone → Iamblichus →
   Sol Invictus → Kaaba connection.
+- [`marozia.md`](marozia.md) — Pornocracy papacy, Christian arc's
+  X-Files peak.
 - [`xuanzang.md`](xuanzang.md) — Journey to the West as Asian-side
   bridge chapter.
 
