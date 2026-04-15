@@ -1,0 +1,609 @@
+{
+  "aliases": {
+    "fr": [
+      {
+        "language": "fr",
+        "value": "SIUSA ID (famille)"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P8356$FED4F868-0F17-49BB-A78E-BF60A3D712D7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P8356$160AD37B-007B-4E0C-8930-010E2612BFF7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "http://siusa.archivi.beniculturali.it/cgi-bin/pagina.pl?TipoPag=prodfamiglia&Chiave=$1"
+          },
+          "hash": "b15853edbdb23a1a0efb3d49f4073cbba937512d",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P8356$2C13430C-1DBA-4800-94FE-61A93129469E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 6715, 'id': 'P6715'}"
+          },
+          "hash": "17570978b21a3234c083ea2e152e68939dd20d45",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$48B4477A-A406-4E5D-9884-09A8C62E6E88",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 8357, 'id': 'P8357'}"
+          },
+          "hash": "17fc79e01ab367739ba12a52fddfef05f594a0db",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$471C7946-FF27-483E-ACEF-831DD9D3982C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 8038, 'id': 'P8038'}"
+          },
+          "hash": "a9d8276dcab7b72bb3c2c71cb7038bad7d6242b6",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$6D8F6404-FEAB-454F-9D3B-1BF56E9C26B1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 8342, 'id': 'P8342'}"
+          },
+          "hash": "d0ec5c6c7b5d0582c6ae34ed662a09703d2ad38c",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P8356$644F85AE-A3FA-47E9-859C-42A118D88DA0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38",
+              "numeric-id": 38
+            }
+          },
+          "hash": "b48529e9f7e0898ab1ddaefe8547cdb863e0167c",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P8356$1E72B039-6F15-49E7-931A-3E985C552C2F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^[1-9][0-9]{0,5}$"
+          },
+          "hash": "e4837a9b4cb2fd12e323c8d147fb9fe9cf437425",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P8356$6DE2F90D-651A-4519-A68F-C041E58E5C6E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q339067",
+              "numeric-id": 339067
+            }
+          },
+          "hash": "33727034c851a1f686e3aa735dda4ef44789738d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$2021C8DD-06D1-4B0E-B3F0-DD16E5831CFF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3607663",
+              "numeric-id": 3607663
+            }
+          },
+          "hash": "20b5f9af465337c598ca88d621268cd7c870dfd3",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$6D6E30D7-0B48-46C8-8FFD-D8621C7C6E97",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3607968",
+              "numeric-id": 3607968
+            }
+          },
+          "hash": "e3bba43c56a5d572a5833aad68e6469803c2fdc7",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$B496292A-6DC8-4C2D-83BB-53E8728E1E7D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1756103",
+              "numeric-id": 1756103
+            }
+          },
+          "hash": "f7fc8d560a4b6664abb0185be7bfba57d565d240",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P8356$D7BA8D20-8634-44F0-9176-67F0AE970CC1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://siusa.archivi.beniculturali.it/cgi-bin/siusa/pagina.pl?RicVM=indice&RicTipoScheda=pp&RicSez=prodfamiglie"
+          },
+          "hash": "ba84fe9d12eeb0976e8872d4e0b504ac8415a0b7",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P8356$61174B42-EEBA-446B-96B7-544DA8DB35E9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$B0A9E7C6-207A-4948-B246-352B4DF4C8EA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$95DAF176-B2CB-49EF-9A88-2A13CC10F5AC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$84EA36FF-C605-4C48-8B71-711E4462C12C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$C32F0F69-F1EB-45B9-BFEB-DBBC561FDAF4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$2FD5DFA6-0355-4312-A70E-7556FD3C191A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$2EE443F2-82D5-48DE-A6AE-6C046A953522",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$21F3AB19-46D3-4BE3-8EE6-AC293A2F7B0E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108139345",
+              "numeric-id": 108139345
+            }
+          },
+          "hash": "56d1f34de32eb4b954161acd9019fb46fc4db68e",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P8356$7BB026D4-B268-41B7-9D18-C81DE484983C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1347047",
+              "numeric-id": 1347047
+            }
+          },
+          "hash": "389d476a2452c4900ccf7a56d6ee8742eff4c804",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$DB2A2697-7BA0-430D-A3B6-3F77F2C1678A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63142852",
+              "numeric-id": 63142852
+            }
+          },
+          "hash": "b08617cf712d1b5d714d42d4073514e5909fe608",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P8356$E4DECC0D-AD73-47C9-92A2-1A9BBDD04370",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P8356$790C67A8-C24D-4A29-B7CA-53AFE125B569",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21264328",
+              "numeric-id": 21264328
+            }
+          },
+          "hash": "dfeb720dc016da43d0bf1056bb5d9430366e0371",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8356$B5040B09-438C-4E00-A921-EBB069F817B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P8356$91F85549-68CA-4EF7-B3F3-4B5DCDF56387",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/SIUSA_archive_producer_IDs#SIUSA_archive_producer_family_ID"
+          },
+          "hash": "0fb93371f8ec30ce6ab41cd274728e34cdaa07d2",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P8356$F2B87A27-28AD-419F-8497-CB42461C68AE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+895', 'unit': '1'}"
+          },
+          "hash": "3d77dd94c11671ca46aa4ff8817c81b08d04c249",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P8356$530A596B-90FE-47D0-B432-78CE7BEA8D04",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6876022",
+              "numeric-id": 6876022
+            }
+          },
+          "hash": "9217ff07662c6e515e5c0c2319769532b59c4e25",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P8356$F9F65F13-5592-4841-AFE7-D78376F7B834",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/siusa\\.archivi\\.beniculturali\\.it\\/cgi\\-bin\\/pagina\\.pl\\?TipoPag=prodfamiglia&Chiave=([1-9][0-9]{0,5})"
+          },
+          "hash": "54ff4efe69f7d20d85fc2e9f9a339d90cf9df40d",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P8356$50B46CCF-9669-4BC5-BFA9-4F4BED255B28",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63142852",
+              "numeric-id": 63142852
+            }
+          },
+          "hash": "fb77bea9afdd727cb5a3135f28919adb4393c125",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "identifier for an archive producer family in the Unified Information System for the Archival Superintendencies"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une famille des producteurs d'archives dans le Système d'information unifié pour les superintendances d'archives (SIUSA)"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo per le famiglie che hanno prodotto un fondo archivistico nel Sistema Informativo Unificato per le Soprintendenze Archivistiche"
+    }
+  },
+  "id": "P8356",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "identificador SIUSA de família"
+    },
+    "en": {
+      "language": "en",
+      "value": "SIUSA archive producer family ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant SIUSA d'une famille"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo SIUSA di una famiglia produttrice di un archivio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "SIUSA-identificatiecode voor familie"
+    }
+  },
+  "lastrevid": 17395238,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192058,
+  "title": "Property:P8356",
+  "type": "property"
+}

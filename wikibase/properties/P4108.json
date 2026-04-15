@@ -1,0 +1,517 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "جيدباس"
+      },
+      {
+        "language": "ar",
+        "value": "عالم أنساب في جيدباس"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Gedbas genealogy person ID"
+      },
+      {
+        "language": "en",
+        "value": "GEDBAS person ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P4108$A737C082-788E-4927-B9DD-6DE6BC344707",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P4108$A19E89DF-5C73-4CC0-8ED3-4F08223AD446",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://gedbas.genealogy.net/person/show/$1"
+          },
+          "hash": "2c76ffb48e54e32b37778fde7c163296bdfec86d",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P4108$F162AFBC-6754-4495-9A55-37A0AB6BB45F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "[1-9]\\d*"
+          },
+          "hash": "b11a207353fbbc014d3317bccfda3b8dba3ab975",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P4108$55845771-8A2A-4DDA-A4DD-37C8EF77FA3B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Gedbas"
+            }
+          },
+          "hash": "f577bb85148b25f531ed3afb73517e773495e385",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P4108$C451B685-D117-459F-A901-6A84BD27FDBD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31677",
+              "numeric-id": 31677
+            }
+          },
+          "hash": "cd0fb7d84262d90d177f1671b103d1212f15271e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$95541E1A-A0E5-4934-8AF8-78C8DE62BE13",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98688605",
+              "numeric-id": 98688605
+            }
+          },
+          "hash": "d14da583bb1eaeb86303206cf460ead4f04bc687",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P4108$A0F7FB61-242F-4377-BC07-C21FBA9396D8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$A163C873-E393-4DBE-85E4-184CFB9C28AF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$4A78EA65-6480-414C-94B6-6666DFA7E003",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$CEBBD9F8-526C-444B-868B-CC2872B11950",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P4108$BC03E27B-0635-4C48-8D80-6E5CBA068E00",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P4108$81512205-24F1-41B2-988E-6BACDE588F48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$AF0144B0-1CF6-4FCD-979F-ECACDCD3CEC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P4108$9EE29209-F65B-4476-98FB-0193DB58C71A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Gedbas_genealogy_person_ID"
+          },
+          "hash": "764c57c55171d2ce057643bca18141e3be758d6e",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P4108$F7045985-291A-4BF8-8E91-1B35E5D53777",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+21739420', 'unit': '1'}"
+          },
+          "hash": "f3ee1de0d57dcd86def34b77c8f34cd96d3b7027",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$E83393DF-D0E0-48DE-9FA8-78D2DB487EDB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+25044676', 'unit': '1'}"
+          },
+          "hash": "3ec22af66289c86487f143c5202cb75fd0ed1515",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$4D244717-39B2-4D44-B517-2ACB22F7E2B7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+31784321', 'unit': '1'}"
+          },
+          "hash": "f9270676540f0e4dd138359a0181f682abc3f403",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P4108$869FE63C-9C1D-435A-A752-B3DCAE87B4F0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19817878",
+              "numeric-id": 19817878
+            }
+          },
+          "hash": "be1bf5adc29a21ef0a2f246268333c11edd4530b",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4108$24DB9CAC-AA3D-4CE3-8472-BD013FCCAE4D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q87268730",
+              "numeric-id": 87268730
+            }
+          },
+          "hash": "e8f6ad3b07d9505a5c90e7a166cbdf6e63816967",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P856": [
+      {
+        "id": "P4108$C86A4F42-89FC-41EE-BA79-1F03AC067738",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://gedbas.genealogy.net"
+          },
+          "hash": "bee2f686891bf30f97826d96b074c6bae497e1df",
+          "property": "P856",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P4108$58B2BCF9-0E6C-498B-BBCF-5BBA926F2D90",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/gedbas\\.genealogy\\.net\\/person\\/show\\/([1-9]\\d*)"
+          },
+          "hash": "94e201befc69076b8b72a7cb73f25c500412e8c1",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P4108$50603C6B-C945-49CF-BD40-F4A1C21849A6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42307894",
+              "numeric-id": 42307894
+            }
+          },
+          "hash": "83c5f62fe4bdf8f631e844117c0d6ea12dc42928",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "Identifikator for en person i den genealogiske database af Verein für Computergenealogie e.V. På gedbas.genealogy.net"
+    },
+    "de": {
+      "language": "de",
+      "value": "Datenbank-ID des Vereins für Computergenealogie e.V."
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a person in the genealogical database of the Verein für Computergenealogie e.V. on gedbas.genealogy.net"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسۀ شجره‌شناسی Gedbas آلمان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne dans la base de données généalogique de Verein für Computergenealogie e.V. sur gedbas.genealogy.net"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Identificatie voor een persoon in de genealogische database van de Verein für Computergenealogie e.V. Op gedbas.genealogy.net"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare för person i tyska släktforskningsdatabasen Gedbas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для особи в генеалогічній базі даних Verein für Computergenealogie e.V. на gedbas.genealogy.net"
+    }
+  },
+  "id": "P4108",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف عالم أنساب في جيدباس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Gedbas de persona"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gedbas genealogi person-id"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "GEDBAS dalinli"
+    },
+    "de": {
+      "language": "de",
+      "value": "GEDBAS-Personen-ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "GEDBAS genealogy person ID"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسۀ شجره‌شناسی Gedbas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Gedbas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "родословен број во Gedbas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gedbas genealogie-identificatiecode voor persoon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны на Gedbas"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gedbas person-id"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи gedbas.genealogy.net"
+    }
+  },
+  "lastrevid": 17395126,
+  "modified": "2025-09-10T05:12:29Z",
+  "ns": 862,
+  "pageid": 192038,
+  "title": "Property:P4108",
+  "type": "property"
+}

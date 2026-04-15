@@ -1,0 +1,558 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "المعجم الجغرافي"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар GOV"
+      },
+      {
+        "language": "be-tarask",
+        "value": "код Historical Gazetteer"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "GOV ID"
+      },
+      {
+        "language": "de",
+        "value": "Geschichtliche Orts-Verzeichnis"
+      },
+      {
+        "language": "de",
+        "value": "Geschichtliche Ortsverzeichnis"
+      },
+      {
+        "language": "de",
+        "value": "Geschichtliches Orts-Verzeichnis"
+      },
+      {
+        "language": "de",
+        "value": "GOV-ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "GOV ID"
+      },
+      {
+        "language": "en",
+        "value": "GOV-ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "identifiant genealogy.net"
+      },
+      {
+        "language": "fr",
+        "value": "identifiant compgen.de"
+      },
+      {
+        "language": "fr",
+        "value": "identifiant GOV"
+      }
+    ],
+    "hsb": [
+      {
+        "language": "hsb",
+        "value": "GOV ID"
+      }
+    ],
+    "ig": [
+      {
+        "language": "ig",
+        "value": "GOV ID"
+      },
+      {
+        "language": "ig",
+        "value": "GOV-ID"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "genealogy.net-identificatiecode"
+      },
+      {
+        "language": "nl",
+        "value": "compgen.de-identificatiecode"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "GOV ID"
+      },
+      {
+        "language": "pt",
+        "value": "GOV-ID"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "ID GOV"
+      },
+      {
+        "language": "sl",
+        "value": "identifikator GOV"
+      },
+      {
+        "language": "sl",
+        "value": "označevalec GOV"
+      },
+      {
+        "language": "sl",
+        "value": "koda GOV"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "GOV ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P2503$EBE9F1AA-924D-4B13-B4BA-140BF34A9B06",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38814612",
+              "numeric-id": 38814612
+            }
+          },
+          "hash": "cb87b76c238ae3542894101ccbd9d68d2edbd81a",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P2503$87CD0E08-9126-4235-887D-4579EC6CE654",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://gov.genealogy.net/item/show/$1"
+          },
+          "hash": "a95da73b57d3303c45da380594b5e8ee11e61748",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$32083259-B39C-4F5C-A74E-5A2B43A06256",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://wiki-de.genealogy.net/GOV:$1"
+          },
+          "hash": "f4fe00828187349cf5f0366c6e91c68e65928745",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P2503$3B3372D8-6BD1-450B-9FFF-0840C2005DB6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "[\\dA-Z_]{12}|adm_\\d+|archive_\\d+|object_\\d+|source_\\d+"
+          },
+          "hash": "0f91726980dcfa66535d979327227e8a358f35e7",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P2503$C9D18120-194B-4AAD-9792-13C3FAE3CCF8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q504279",
+              "numeric-id": 504279
+            }
+          },
+          "hash": "1f26d186afb4b65bae7986a19df043e2713ef40a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$1A09BA2B-DEC2-408D-80A1-F5C7B18217F4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q152523",
+              "numeric-id": 152523
+            }
+          },
+          "hash": "f52cbcd6f229415f6fd54592944cb5c3c6df0377",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$41959EFF-344E-4CEC-825D-5AFDA7BDD23E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1707",
+              "numeric-id": 1707
+            }
+          },
+          "hash": "c78e2a8088a94ea4dbad7f6a3d56296bd3201b99",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P2503$568FCD54-443F-44EA-9762-93A07076946D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$C83D21F1-D79F-497E-982B-673FB7E6CAB1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$8CA3CE13-D554-4A7F-9AE1-5C90B1B27A1E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$53A5A846-658E-4581-BC46-D6E87DCB0EC2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$C5C5570D-FB9C-4A33-A95E-D08ECFE6BEFC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P2503$3F839B94-BF76-433C-813A-62B3E7967120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$8386289A-97EC-4C50-97BF-108DC6CE1154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P2503$EF5C10C1-FAF4-4416-91C1-8BB1C20D6B17",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/44#P2503"
+          },
+          "hash": "0ab2d656e879603d9f05f3d91ab2730b55438266",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P2503$EC397EBA-323A-412D-8BCD-B933CE2DD80E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/wiki-de\\.genealogy\\.net\\/GOV:([\\dA-Z_]{12}|adm_\\d+|archive_\\d+|object_\\d+|source_\\d+)"
+          },
+          "hash": "52f39ca44be3ceae2b83d74774b46fea522c03d6",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2503$D1C59F8F-8874-4C7A-AB96-A4AC2210F171",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/gov\\.genealogy\\.net\\/item\\/show\\/([\\dA-Z_]{12}|adm_\\d+|archive_\\d+|object_\\d+|source_\\d+)"
+          },
+          "hash": "965a9fca9e2ed58f1fc6a32ebf387be5b4e2b0e1",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Geschichtliches Ortsverzeichnis"
+    },
+    "en": {
+      "language": "en",
+      "value": "Historical Gazetteer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant dans la publication Geschichtliches Ortsverzeichnis"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "historiski zapisk městnow"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Akwụkwọ akụkọ ihe mere eme"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Historical Gazetteer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Список населенных пунктов"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "identifikator Geschichtliches Ortsverzeichnis (Zgodovinski krajevni imenik)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Historical Gazetteer web sitesi genealogy.net'te bir tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "історичний каталог"
+    }
+  },
+  "id": "P2503",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف المعجم الجغرافي"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Historical Gazetteer"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Historical Gazetteer (GOV)"
+    },
+    "de": {
+      "language": "de",
+      "value": "GOV-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Historical Gazetteer (GOV) ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Geschichtliches Ortsverzeichnis"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "GOV-čisło"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "GOV-azonosító"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Akwụkwọ akụkọ akụkọ ihe mere eme (GOV) ID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "назнака во Родословниот поимник"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "GOV-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator GOV"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Historical Gazetteer (GOV) ID"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код Historical Gazetteer"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oznaka GOV"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "GOV ID"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Historiisk Gazetteer"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Historical Gazetteer (GOV) kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Historical Gazetteer (GOV)"
+    }
+  },
+  "lastrevid": 17396442,
+  "modified": "2025-09-10T05:13:21Z",
+  "ns": 862,
+  "pageid": 192043,
+  "title": "Property:P2503",
+  "type": "property"
+}

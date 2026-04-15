@@ -1,0 +1,682 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "السجل الطبوغرافي للمباني التاريخية"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар TORA"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "ID TORA"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "İsveç'teki Tarihi Binalar için Topografik Kayıt kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "İsveç'teki Tarihi Binalar için Topografik Kayıt tanımlayıcı"
+      },
+      {
+        "language": "tr",
+        "value": "TORA kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "TORA tanımlayıcı"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P4820$7ECC7B72-83E0-410D-BCB0-109F0927C55E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://toramaptest.riksarkivet.se/view/$1"
+          },
+          "hash": "7f9e2f19737c42ac5ea2f1913e7a9e44c28cec2a",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$931E524C-A407-433A-A734-E53915B3B525",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://tora.entryscape.net/snorql/?describe=https%3A%2F%2Fdata.riksarkivet.se%2Ftora%2F$1"
+          },
+          "hash": "323f7acff279911819eb7282d216053750c7e896",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P4820$1E352313-88BC-4E9C-949A-9FFCD265592F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 7434, 'id': 'P7434'}"
+          },
+          "hash": "d7beec73620bfd56c9abdc90139e7b4237382f75",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$7578CD0E-E458-4E4B-A39E-0B063E2264F2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 5324, 'id': 'P5324'}"
+          },
+          "hash": "2c99912ad14b02870d62f83f121d3e9a43655b95",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$BB8F791F-D892-4A9D-899E-B24235AE1240",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 5536, 'id': 'P5536'}"
+          },
+          "hash": "5e3433ddf65626318204046ee85692e59a6bd892",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P4820$462B7F89-16B6-4FA8-8AAA-1A943A5DE44B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P4820$100E67EF-3CDB-4CA8-A1E8-CC14D3A3B4DC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "(earlymoderndistrict\\/)?(modernmunicipality\\/)?(modernparish\\/)?(division\\/)?[0-9]\\d*"
+          },
+          "hash": "972211e01e7c48fe0ed50fe06cbe9720bdb78e2f",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P4820$1AA1B51B-253A-4B89-B165-42EBF7614E6E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25286",
+              "numeric-id": 25286
+            }
+          },
+          "hash": "6caebbcb09fef39cb40772909b62da632790aab5",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$35B637B9-140A-4A7C-8D19-F1E694CF45AD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q433032",
+              "numeric-id": 433032
+            }
+          },
+          "hash": "6232a0d5af86c4c1cb8b74450e76f1febde1ca97",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$56D9E8B6-26C6-40BD-8A42-A87609EF4894",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1891413",
+              "numeric-id": 1891413
+            }
+          },
+          "hash": "e7ce87ac6c8a586c8d1ba96c22083ff18cd6dfe9",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$A42EDBBD-7DEA-49DD-A72F-E33BE6F18E6B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q869583",
+              "numeric-id": 869583
+            }
+          },
+          "hash": "3b4eca9f72299797fe96df24a0eb33f7f8c21532",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$C579ABB7-27A1-4741-99F5-A3B94D13D2A0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10688470",
+              "numeric-id": 10688470
+            }
+          },
+          "hash": "fb70aad9185163e489fe688ee32d006964393a5c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$439D3C70-55FB-4493-B663-DF48911EEE72",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62469",
+              "numeric-id": 62469
+            }
+          },
+          "hash": "065ed6d3cc69793658d8df83c61e773303764727",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$37F1C336-8C78-4446-BECB-0267E3F49D64",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10671819",
+              "numeric-id": 10671819
+            }
+          },
+          "hash": "bcc20d653887e941c38ff7fe0b1d08bcdbae7cfb",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P4820$723EB576-260E-4A2C-B5C0-B91540D151B2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$3891B0E2-501C-4615-94F1-291193FBC7C9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$45326E60-FFA4-4582-B9C2-3E8737306113",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$D2B232D2-319A-4AB7-A8E1-7F56F83E8AB7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$44AE94CC-4216-485D-A1C8-2E904D93CF56",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$170F633A-8F9A-495E-9E0D-982DEA30FBD2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P4820$B791EA04-BC2A-4C72-9596-AF4EAAC8A8EA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1724971",
+              "numeric-id": 1724971
+            }
+          },
+          "hash": "eda34a50f2edde4a20b1dda98ac120aa02e2868b",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P4820$0A30C586-6B91-4643-9DA7-8FFCF15E2F85",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56247992",
+              "numeric-id": 56247992
+            }
+          },
+          "hash": "e7bcdcad08b62370b7cb2acbb60f9318f9d56c39",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P4820$683FB034-0058-4592-A910-2102C00C6E11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$D96CE720-E810-4EA6-BA48-FAFF48AB93A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P4820$5D5CCD5A-EEBF-439D-A642-4BE2ECE380CE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/ToraID"
+          },
+          "hash": "60172bb2010fdbf71f2eb4f9296070560e3c3ee5",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3303": [
+      {
+        "id": "P4820$80B17CAF-6BF6-4542-BA9D-0DE883122F4E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://toramaptest.riksarkivet.se/view/$1"
+          },
+          "hash": "09871b17d522671048bfef304cdffb35e2dd89db",
+          "property": "P3303",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P4820$848994B2-DF5E-46FF-B286-14148B8E9BB4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/tora\\.entryscape\\.net\\/snorql\\/\\?describe=https%3A%2F%2Fdata\\.riksarkivet\\.se%2Ftora%2F((earlymoderndistrict\\/)?(modernmunicipality\\/)?(modernparish\\/)?(division\\/)?[0-9]\\d*)"
+          },
+          "hash": "f0899821451604f83b2930e29d3a1804deb79feb",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P4820$80C7881F-91C6-48D1-A027-17FFDD2E1664",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68272620",
+              "numeric-id": 68272620
+            }
+          },
+          "hash": "8e07ac495c84181fd3ea3af6a6cf6697d46f3618",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "P4820$75FD45EB-33B6-4BE4-A55D-DEE382D2A768",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://riksarkivet.se/tora-english"
+          },
+          "hash": "0c3b8848e71ab7cdc82ebd587872c2583e6f9e44",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4820$31631814-6B6A-4BAD-A760-C7ABA856F989",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://phabricator.wikimedia.org/T233275"
+          },
+          "hash": "fd0c475f31f94fbcf525ca323be2f5396ca366d1",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар будынку, збудаваньня ці населенага пункту ў Тапаграфічным рэестры гістарычных збудаваньняў Швэцыі (ТРГЗ)"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "din wuhiri yili,tinsi,din be Topographical Register for Historic Buildings in Sweden (TORA)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für ein Objekt in Topographical Register for Historic Buildings in Sweden (TORA)"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a building, structure or settlement, in the Topographical Register for Historic Buildings in Sweden (TORA)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator budynku, budowli lub osiedla w Rejestrze Topograficznym Budynków Historycznych w Szwecji (TORA)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare för byggnader etc i Topografiska registret för Historiska byggnader/platser i Sverige (TORA)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç'teki Tarihi Binalar için Topografik Kayıtta (TORA) bir bina, yapı veya yerleşim için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для будівлі, споруди або поселення в Топографічному реєстрі історичних будівель у Швеції (TORA)"
+    }
+  },
+  "id": "P4820",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف السجل الطبوغرافي للمباني التاريخية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар ТРГЗ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador TORA"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr TORA"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "TORA ID"
+    },
+    "de": {
+      "language": "de",
+      "value": "TORA ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "TORA ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant TORA"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador TORA"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "TORA ID"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "TORA ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "TORA-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator TORA"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код TORA"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "TORA-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç'teki Tarihi Binalar için Topografik Kayıt numarası"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор TORA"
+    }
+  },
+  "lastrevid": 17395156,
+  "modified": "2025-09-10T05:12:29Z",
+  "ns": 862,
+  "pageid": 192067,
+  "title": "Property:P4820",
+  "type": "property"
+}

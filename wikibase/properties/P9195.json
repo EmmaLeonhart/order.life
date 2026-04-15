@@ -1,0 +1,566 @@
+{
+  "aliases": {
+    "fr": [
+      {
+        "language": "fr",
+        "value": "LombardiaBeniCulturali ID (famille)"
+      }
+    ]
+  },
+  "claims": {
+    "P126": [
+      {
+        "id": "P9195$F0449BA8-6C20-47D4-902B-ECB1AE24E83F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58428507",
+              "numeric-id": 58428507
+            }
+          },
+          "hash": "1389fa47d57e4b20af8633944e3df086bc68011e",
+          "property": "P126",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P9195$0992B48C-B78B-44AC-AA21-4C4FD2A3E915",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.lombardiabeniculturali.it/archivi/soggetti-produttori/famiglia/$1/"
+          },
+          "hash": "a6e5ec98e474e05ed2f7fbf20d4dabc25dc08bec",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P9195$A6CF3117-C1DE-4F63-8585-1CA51EA2F756",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 8356, 'id': 'P8356'}"
+          },
+          "hash": "281b404a75bd3f04ef1aba856eb5816c25da44cd",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P9195$62324F8C-1B41-4EBC-92D9-E3601C9427E3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38",
+              "numeric-id": 38
+            }
+          },
+          "hash": "b48529e9f7e0898ab1ddaefe8547cdb863e0167c",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P9195$D5FC7B58-6CC2-414C-B654-FF86E183E061",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^MIDD00[\\dA-F]{4}$"
+          },
+          "hash": "821b4ff3ee52b289ecab7a3b57b75842d57e3364",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P9195$04EDCCDD-AA12-468B-8002-C8A659321EB5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3700648",
+              "numeric-id": 3700648
+            }
+          },
+          "hash": "883920aa27f61659d4f730e58f52f9fac743078a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$48345857-3C95-4BA8-8F92-57AE2C5AE84E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89410059",
+              "numeric-id": 89410059
+            }
+          },
+          "hash": "cd3f132ad3cc53e56219ad3aa281c90c49dbe83c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$EBF4BC34-75E5-4A82-92BD-520F5C0EA242",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3894673",
+              "numeric-id": 3894673
+            }
+          },
+          "hash": "546ebfb42353ebac56b13c7a3134dc8ba041df50",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$632B97C2-502F-4B9F-9758-D08B2EC422BC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3955802",
+              "numeric-id": 3955802
+            }
+          },
+          "hash": "00ff6c25ba367bda26f8fa963a31f33b4334a9dd",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P9195$ECF8CE9B-EAB7-4E2F-A842-C86A1D815621",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.lombardiabeniculturali.it/archivi/soggetti-produttori/famiglia/"
+          },
+          "hash": "592c067a0d9c40281d6600bb3089e4af69bf5e4d",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P9195$EB079D83-0BD7-4382-BC79-CE8C2ECEB765",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$D818C497-51BA-4A96-8ACD-6D7AD4ECBDA8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$E6078785-7F6F-46DF-AD3C-70FBBA8A8E09",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$1FC4472D-6FC9-4D71-8EF7-82CC89B50783",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$5E611140-9EC5-49DF-8AF8-11CBF3C58DDC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$BE3E7FE1-3045-40B9-982B-E826EA7EA388",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$3E3BCBBA-ED4C-4171-826E-2CB558DAC48B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108139345",
+              "numeric-id": 108139345
+            }
+          },
+          "hash": "56d1f34de32eb4b954161acd9019fb46fc4db68e",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P9195$7F3BB7C5-1912-480F-89FC-1F931C47846E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58428507",
+              "numeric-id": 58428507
+            }
+          },
+          "hash": "6837efe3c41ed093365901c86511e01b59655c73",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P9195$AB2BF9B7-548B-4EBB-82C6-E22C9573D393",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P9195$539241BF-8A2A-439C-BACE-667F5CA5F1DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21264328",
+              "numeric-id": 21264328
+            }
+          },
+          "hash": "dfeb720dc016da43d0bf1056bb5d9430366e0371",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$294737A6-9CB4-4CD8-A139-322CD670F146",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18618628",
+              "numeric-id": 18618628
+            }
+          },
+          "hash": "95d480f71b53220c40b007d5fa09ec4548bb478a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9195$0073EDE4-9AC8-46B8-9FB9-C1FC9E243FD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P9195$85661A2C-3B01-4B97-B120-499DD7016E6C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/LombardiaBeniCulturali_archive_producer_IDs"
+          },
+          "hash": "041c12dc18dc6e78a8a62fcb58bd60478bc78c58",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P9195$485DCADE-7262-4D16-86D3-918E2AD8C6CE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+106', 'unit': '1'}"
+          },
+          "hash": "3ba9e947f8d187c14d0bc0c503d56960f6968325",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P9195$EBBAEB57-2ADA-470B-8E1D-BFD308AB3A72",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6876022",
+              "numeric-id": 6876022
+            }
+          },
+          "hash": "9217ff07662c6e515e5c0c2319769532b59c4e25",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8379": [
+      {
+        "id": "P9195$9E31C0CC-20C0-43FB-8C0D-55ED571FCEE3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1810, 'id': 'P1810'}"
+          },
+          "hash": "13112d55859bbb6e4e67fd0047d1a116ef992501",
+          "property": "P8379",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P9195$1354730D-4411-4B27-8CBE-31DC17D790A1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^http:\\/\\/(?:www\\.)?lombardiabeniculturali\\.it\\/archivi\\/soggetti\\-produttori\\/famiglia\\/(MIDD00[\\dA-F]{4})\\/"
+          },
+          "hash": "16cea40e71bd6626e27cac68611ed1bd065e487f",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P9195$FF591F90-CE90-4068-979A-2B83D24FB91D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58428507",
+              "numeric-id": 58428507
+            }
+          },
+          "hash": "79d1ea3e1b440ee61bd84f22b140cc9f95eec444",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "identifier for an archive producer family in the database LombardiaBeniCulturali"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d’une famille producteur d’archives dans la base de données LombardiaBeniCulturali"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo per le famiglie che hanno prodotto un fondo archivistico nel database LombardiaBeniCulturali"
+    }
+  },
+  "id": "P9195",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "identificador LombardiaBeniCulturali de família productora d'arxius"
+    },
+    "en": {
+      "language": "en",
+      "value": "LombardiaBeniCulturali archive producer family ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant producteur d'archives LombardiaBeniCulturali d’une famille"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo LombardiaBeniCulturali di una famiglia produttrice di un archivio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "LombardiaBeniCulturali-identificatiecode voor organisatie"
+    }
+  },
+  "lastrevid": 17395248,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192046,
+  "title": "Property:P9195",
+  "type": "property"
+}

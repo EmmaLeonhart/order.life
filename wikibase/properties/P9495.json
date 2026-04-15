@@ -1,0 +1,751 @@
+{
+  "aliases": {
+    "az": [
+      {
+        "language": "az",
+        "value": "SHM ID"
+      }
+    ],
+    "da": [
+      {
+        "language": "da",
+        "value": "Statens historiske museers samlinger ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "samlingar.shm.se entité ID"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "スウェーデン国立歴史博物館ID"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "pengenal pasti Muzium Sejarah Negara Sweden"
+      },
+      {
+        "language": "ms",
+        "value": "pengecam Muzium Sejarah Negara Sweden"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "Statens historiska museer ID"
+      },
+      {
+        "language": "sv",
+        "value": "Statens historiska museers samlingar-id"
+      },
+      {
+        "language": "sv",
+        "value": "SHM ID"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "ідентифікатор Національних історичних музеїв Швеції"
+      },
+      {
+        "language": "uk",
+        "value": "ідентифікатор National Historical Museums of Sweden"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P9495$6C5827AD-741D-4614-B5BC-C869C03EB615",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://samlingar.shm.se/$1"
+          },
+          "hash": "c1cf3d0e1f17828b3a42ab5f989e649e270127be",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P9495$A1230429-AD63-4BA8-A296-0369D20B69F2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2538, 'id': 'P2538'}"
+          },
+          "hash": "17f882bca83c198891f2f1d90eb1ea8aa885fad0",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$EB64E1B8-92F5-45B7-92DC-B86CE22E6FC2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1260, 'id': 'P1260'}"
+          },
+          "hash": "c70ca6209545ef6e75aad10c6077b386487b013e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P9495$F81BE820-0D75-4551-901B-69FF063A34FD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P9495$B9B56479-D047-4DA6-8D45-704BDCAA7A0A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "[a-z]+\\/[0-9a-zA-Z]{8}-[0-9a-zA-Z]{4}-[0-9a-zA-Z]{4}-[0-9a-zA-Z]{4}-[0-9a-zA-Z]{12}"
+          },
+          "hash": "0d123075f9255f2d2807741503634e034c50e693",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P9495$A6E278F7-3921-40D2-907B-363D697F033D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52938",
+              "numeric-id": 52938
+            }
+          },
+          "hash": "09cd4c866bd7f6aad6fe25c67f9ed93128523f51",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$7C8EB6B8-3E5E-4DDA-9ECD-2214A54A3445",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q255206",
+              "numeric-id": 255206
+            }
+          },
+          "hash": "6928e38f7e0be4a1d1a23981f653235d63d9fd4a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$45887896-2722-4032-A1CA-DF5D8908D223",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111830971",
+              "numeric-id": 111830971
+            }
+          },
+          "hash": "75efc6e86dc22ea57e70243293d6471d8bf36c75",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$117D4B22-17E8-4D59-8E05-D34A493321E1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2036383",
+              "numeric-id": 2036383
+            }
+          },
+          "hash": "82b28230e65e166991a8674102e7605d7767d262",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$6C255131-2938-4B66-8A35-99A3B5105C00",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q212492",
+              "numeric-id": 212492
+            }
+          },
+          "hash": "7673d64c39b6e2f0d950d068c79f69137efc3465",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$328B4295-66F5-443A-8F66-45DAABC99BD6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3500690",
+              "numeric-id": 3500690
+            }
+          },
+          "hash": "6fe2df7218095e24b0aff0fdf304e04a43f3e667",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P9495$C83D7A2B-F6E2-453F-B8AB-B30C2940C63C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://samlingar.shm.se"
+          },
+          "hash": "8d728dd6af70b2556cf64cf7c6c9a457f6591ff7",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P9495$F600AE0B-33D4-46BB-A54F-EA49B2334338",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "6916"
+          },
+          "hash": "2204d2b88b8d288286984e1387ded9a2992e0059",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P9495$9071E5B7-A184-4198-81B5-33A4F22B6CED",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$DA44A485-E2ED-4D02-B098-FF4128C4C9D8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$F6EA77D0-A46E-4E72-8979-493C7A6EB5D1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$8B691583-FD19-474E-966C-846755348851",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$9313E609-0067-434C-BEC7-A48E14BFF702",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P9495$3EC8DC6E-BC02-439B-A21B-46EA827E3294",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2324548",
+              "numeric-id": 2324548
+            }
+          },
+          "hash": "846c06552ee2768958c7caba6ec7de703e068917",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P9495$71054FD3-D932-4525-A86B-362A22379636",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P9495$2D851306-DB8A-457D-8BD0-DDB18CE2BA37",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P9495$4730C6CC-20B5-4524-847B-9F8748E94765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$8175FA3C-993B-4DED-9179-F9CD919EBA7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21745557",
+              "numeric-id": 21745557
+            }
+          },
+          "hash": "edfbf8f4c27f8e4ca439f5750195c2aafac04670",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$4C500601-C1B4-4EA8-AC4B-76625DACBADC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18618628",
+              "numeric-id": 18618628
+            }
+          },
+          "hash": "95d480f71b53220c40b007d5fa09ec4548bb478a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9495$A0E94524-189F-4286-BB20-C7DA5E0532AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P9495$00B46123-B9F7-482F-BC07-48E22BDEFD02",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/National_Historical_Museums_of_Sweden_agent_ID"
+          },
+          "hash": "58019fbe9d2a662d4ddcdb0bb2b5281b506317b1",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P9495$555150CC-3671-498C-AD6F-D8933DB3C770",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/samlingar\\.shm\\.se\\/([a-z]+\\/[0-9a-zA-Z]{8}-[0-9a-zA-Z]{4}-[0-9a-zA-Z]{4}-[0-9a-zA-Z]{4}-[0-9a-zA-Z]{12})"
+          },
+          "hash": "71e3c2bbc767e40875427eea9084f0a3dd40c293",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P9495$E1AADC7E-8145-43FD-A765-80A9C12B671A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106592165",
+              "numeric-id": 106592165
+            }
+          },
+          "hash": "f8af3c6f92f547614f6ab70dbec30477a3977ade",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف للضبط الاستنادي خاص بِعميل (فنَّان أو مُبتكر أو مالك حقوق تأليف…إلخ. يصح أن يكون شخصًا طبيعيًّا أو معنويًّا كمؤسسةٍ أو جهةٍ ما) في مجموعة المتاحف الوطنية التاريخية في السويد"
+    },
+    "az": {
+      "language": "az",
+      "value": "İsveç Milli Tarix Muzeylərinin kolleksiyalarına daxil olmaq üçün səlahiyyət identifikasiyası"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "нарматыўны ідэнтыфікатар агента (артыста, уласьніка, творцы — як асобы, так і ўстановы) ў зборах Нацыянальнага гістарычнага музэю Швэцыі"
+    },
+    "en": {
+      "language": "en",
+      "value": "authority identification for an entry in the collections of the National Historical Museums of Sweden"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identification d'autorité pour une entité dans les collections des musées historiques nationaux de Suède"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スウェーデン国立歴史博物館の所蔵品の項目の典拠識別子"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "pengenalpastian kewibawaan untuk suatu masukan dalam koleksi Muzium Sejarah Negara Sweden"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "свойство Викиданных для нормативного контроля"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "идентификација ауторитета за упис у збирке Националних историјских музеја Шведске"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "идентификација ауторитета за упис у збирке Националних историјских музеја Шведске"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "unik identifierare för en post i Statens historiska museers samlingar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Tarih Müzeleri koleksiyonlarında bir temsilci (sanatçı, mal sahibi, yapımcı vb. hem kişi hem de kurum olabilir) için yetki tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор запису в колекціях Національні історичні музеї Швеції"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "瑞典國家歷史博物館典藏品的權威識別碼"
+    }
+  },
+  "id": "P9495",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف المتاحف الوطنية التاريخية في السويد"
+    },
+    "az": {
+      "language": "az",
+      "value": "İsveç Milli Tarix Muzeyi ID"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар агента Нацыянальнага гістарычнага музэю Швэцыі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Museus Històrics Nacionals de Suècia d'agent"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sveriges Historiske Museer ID"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "dalin zaŋ ti National Historical Museums of Sweden"
+    },
+    "de": {
+      "language": "de",
+      "value": "National-Historical-Museums-of-Sweden-ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "National Historical Museums of Sweden ID"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه موزه تاریخ طبیعی سوئد"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant samlingar.shm.se d'une entité"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador de axente  dos Museos Históricos de Suecia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "svéd Állami Történeti Múzeumok azonosítója"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Museo storico nazionale di Svezia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スウェーデン国立歴史博物館識別子"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "National-Historical-Museums-of-Sweden-ID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "во Државните историски музеи на Шведска"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "ID Muzium Sejarah Negara Sweden"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Statens historiska museer ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nationale Historische Musea van Zweden-identificatiecode voor agent"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код в Государственных исторических музеях Швеции"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "identifikator Naravoslovnih muzejev Švedske"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "National Historical Museums of Sweden ID"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "National Historical Museums of Sweden ID"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "ID i Statens historiska museers samlingar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Tarih Müzeleri temsilci kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "код Національних історичних музеїв Швеції"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瑞典国家历史博物馆编号"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "瑞典國家歷史博物館編號"
+    }
+  },
+  "lastrevid": 17395252,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192051,
+  "title": "Property:P9495",
+  "type": "property"
+}

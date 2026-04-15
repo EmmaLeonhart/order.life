@@ -1,0 +1,527 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "الأرشيف الوطني السويدي"
+      },
+      {
+        "language": "ar",
+        "value": "مكان في الأرشيف الوطني السويدي"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "NAD ID (lieu)"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "NAD kimliği (konum)"
+      },
+      {
+        "language": "tr",
+        "value": "NAD yer kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "NAD konum kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "NAD yer tanımlayıcı"
+      },
+      {
+        "language": "tr",
+        "value": "NAD konum tanımlayıcı"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P7434$FB036FDC-D17B-4018-A7BE-3678FCCD5CDE",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/?type=3&postid=ArkisRef%20$1"
+          },
+          "hash": "fa27a2254a7dcea57842c75dd83995e65349d090",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P7434$7210AD5B-4DD3-49DC-B17D-F04389B7339C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 5324, 'id': 'P5324'}"
+          },
+          "hash": "2c99912ad14b02870d62f83f121d3e9a43655b95",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$E4B618AE-0A97-4BD8-AD40-F1963B4DE23A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4820, 'id': 'P4820'}"
+          },
+          "hash": "aed4a7d4d6112fb6c6898479439ea7367e94256d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$60A34046-DFBB-4531-9ACD-53D20F27FE1D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 9713, 'id': 'P9713'}"
+          },
+          "hash": "721ca6cef5dfc5ea798208d81607728d9e4049f8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P7434$B00E6028-1656-48D6-A9C1-C47C8F9AE954",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P7434$B8C545F2-9CA9-40F4-9BCC-5F4462750BD4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10688470",
+              "numeric-id": 10688470
+            }
+          },
+          "hash": "fb70aad9185163e489fe688ee32d006964393a5c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$86D8DAAB-E800-4EA7-9F06-5B22EE9A3870",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62469",
+              "numeric-id": 62469
+            }
+          },
+          "hash": "065ed6d3cc69793658d8df83c61e773303764727",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$B9A45EAD-324B-4C6E-86D7-6A2488190E5A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10671819",
+              "numeric-id": 10671819
+            }
+          },
+          "hash": "bcc20d653887e941c38ff7fe0b1d08bcdbae7cfb",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P7434$E91EF568-FFBE-41DE-B619-47F5E6F5827E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/topografier"
+          },
+          "hash": "4772711b942f985ea810ce08535894910871c1f3",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P7434$F1187E8B-7A12-41DD-A0F1-DE084DDD8BCB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$64593063-89C3-481C-A78C-DBC73C9C67E2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$1ACC1981-776B-474B-89F9-89F3D9D3D7E6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$6A098F31-D130-4690-9324-3669FAF02AAB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$065672B2-4BEA-45AE-B8A4-6BC9E969723C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P7434$FDFC3133-7AFD-4DB9-869D-B672F6F810F7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1724971",
+              "numeric-id": 1724971
+            }
+          },
+          "hash": "eda34a50f2edde4a20b1dda98ac120aa02e2868b",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P7434$362D0D77-C0A1-4FF3-AF10-F607C0A3C4D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$7720F729-34E4-476B-916C-EBEAE93E1BB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$93A88F4A-F370-4AB2-BCB5-6420E2FABFC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7434$8D1BA719-FB85-436E-B970-F014DAB6DB72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74568206",
+              "numeric-id": 74568206
+            }
+          },
+          "hash": "2af1ed34e678559bde9e4fe54667e0441df29c73",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P7434$E6FAE7A9-BDFB-4E15-85C1-C61611E50197",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/NAD_topographic_databas"
+          },
+          "hash": "e9a8e09cf5b9c4f10f3171fa8c284454a731127c",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P7434$9DFD531A-D9B3-4848-9897-86BF39BAE7DA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/topografier?Ort=$1"
+          },
+          "hash": "f49079ce838896434ca3ec493cdcc1fdc566a12b",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P7434$8A03AA49-A0DF-4BC9-ACD9-91EAF14C5D43",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/sok\\.riksarkivet\\.se\\/\\?type=3&postid=ArkisRef\\s(SE\\/([0-9]+))"
+          },
+          "hash": "3723d4f8ffd379ed630decd0e19eec9d26e60af5",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P7434$039E53D4-FBAA-448C-B18E-A5641B6C54D0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10594823",
+              "numeric-id": 10594823
+            }
+          },
+          "hash": "de059bcb6f170f438efd028237287b25a6101bfe",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the topographic database at the Swedish National Archive"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'un lieu dans la base de données topographique des Archives nationales de Suède"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sverige Nationella Arkivdatabas topografiska databas"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Arşivi'ndeki topografik veritabanındaki bir yer için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для місця в топографічній базі даних Шведського національного архіву (sv:Nationella Arkivdatabas, NAD)"
+    }
+  },
+  "id": "P7434",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف مكان في الأرشيف الوطني السويدي"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador NAD de lloc"
+    },
+    "en": {
+      "language": "en",
+      "value": "NAD place ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant NAD d'un lieu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "NAD-identificatiecode voor plaats"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код места NAD"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "NAD plats-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Arşivi yer kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор місця NAD"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID NAD de liogo"
+    }
+  },
+  "lastrevid": 17395220,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192050,
+  "title": "Property:P7434",
+  "type": "property"
+}

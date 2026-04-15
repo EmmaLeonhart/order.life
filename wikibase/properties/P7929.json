@@ -1,0 +1,848 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Roglo-ID"
+      },
+      {
+        "language": "de",
+        "value": "Roglo ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "q"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "Roglo人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "ログロ人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "ログロ人物識別子"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "ID osebe Roglo"
+      },
+      {
+        "language": "sl",
+        "value": "identifikator osebe Roglo"
+      },
+      {
+        "language": "sl",
+        "value": "označevalec osebe Roglo"
+      },
+      {
+        "language": "sl",
+        "value": "koda osebe Roglo"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "ідентифікатор людини в Roglo"
+      },
+      {
+        "language": "uk",
+        "value": "Roglo особа"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "Roglo人物识别码"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "Roglo人物標識符"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P7929$650CBEA9-01D8-4C9E-84A3-5B5528957947",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://wikidata-externalid-url.toolforge.org/?p=7929&url_prefix=https://roglo.eu/roglo?&id=$1"
+          },
+          "hash": "e405740aad6233e2f3910f00dbdf358965bb1ff8",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P7929$022DADC3-6E7A-4B5F-B61F-C08974F2839D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2889, 'id': 'P2889'}"
+          },
+          "hash": "f2a0a26647c5459fc77010148be26c5d858ad59e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$3AD71F15-13BF-4D5F-9F14-8D9AD9693BE4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1819, 'id': 'P1819'}"
+          },
+          "hash": "0cfe0d6b31d01612ad84cbb2a069f4945327cf45",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$119F3CF1-B4FA-4EFE-8BEC-0B48690DCB21",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2949, 'id': 'P2949'}"
+          },
+          "hash": "75537a994e6bfd265f2ad0600e7c465b5bc36707",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$C460938B-3EF7-4345-9A66-49F6C4C67AFF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4638, 'id': 'P4638'}"
+          },
+          "hash": "630d1a1d5cd752f617f7190be094492027edd859",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P7929$E392B36A-E794-435E-8526-C43D054DA5E9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^p=[^;]+;n=[^;]+(;oc=[1-9]\\d*)?$"
+          },
+          "hash": "e25c0531198ed0d811111813a46d0ddc681aebff",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P7929$71B4CE3F-2C62-4445-A7BF-F7BE2259DC20",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Roglo"
+            }
+          },
+          "hash": "9a8807dc1d903de489c0097e0c855bf61561114c",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P7929$30219F2A-86C0-413F-844F-D1CE6B55EADF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7732",
+              "numeric-id": 7732
+            }
+          },
+          "hash": "9d68c474dddc2bf13f334a72b77885868c3b073e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$B16DF72C-D76A-4500-B1D0-57F28678DD3C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9960",
+              "numeric-id": 9960
+            }
+          },
+          "hash": "100d4c7a8a80120d507ace1f2c71e115448f0656",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$6A08BA65-ADF0-4DAC-AC33-439A6E8878B9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44301",
+              "numeric-id": 44301
+            }
+          },
+          "hash": "77c5948ab8ff07f322d6ac39c0cb1b0e05d91e7e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$DF8A57B1-C5BF-4900-B0B3-9FC2A8072A90",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31677",
+              "numeric-id": 31677
+            }
+          },
+          "hash": "cd0fb7d84262d90d177f1671b103d1212f15271e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$B87FEBF8-0C13-4584-AE57-4203C81BE709",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47664",
+              "numeric-id": 47664
+            }
+          },
+          "hash": "1f33faa12e76a5cb8be8968f227eeace66152e93",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P7929$023A04CB-2DBE-46A7-AF0D-731CB8D569CB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://roglo.eu/roglo"
+          },
+          "hash": "527329aa70ae0909f743d8d70d01dc5778891e91",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P7929$55C083C0-1CCE-47C9-99DD-690EF5394D96",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$D4D79B62-93DA-4749-B419-A1377FC7B665",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$2775174C-73EF-4E8C-AE50-3DB15A4DDE31",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$DA46A190-D326-414E-8D56-03C7EC7597DD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$F6B3BEA0-15EF-43F7-A643-13356AE68003",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$19C91F63-7EE0-499F-A0AA-1C4C23351B95",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$9E3A5EF4-ED87-4A47-9B68-55E3CEB33FD6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$BA250501-9A9B-4AE7-B881-88D1E0836450",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$E089D9C1-8ABE-4AA4-8271-956E6FC990AB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510851",
+              "numeric-id": 21510851
+            }
+          },
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P7929$E050BD8F-605B-4093-B60E-4F181C2C524A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P7929$48A30C1B-954C-48CD-A6D8-E8D353849BA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$1F62C591-B8B8-4BB6-AE68-447211BC2478",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18608871",
+              "numeric-id": 18608871
+            }
+          },
+          "hash": "d8457d9d1fba60630ec5ac970e1d065b28459ee3",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$EF0F6C0D-2792-475C-8DF6-580D1C0895BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P7929$0F550FC7-E31C-4459-95BF-9D8F0519FEA1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Roglo_person_ID"
+          },
+          "hash": "847e4e1db69b8454a81981ca17652ea2f476d32e",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P7929$48A3ABAD-5EC1-49A5-BA36-A09EB8886D8E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+7948574', 'unit': '1'}"
+          },
+          "hash": "f642ca3dacb62f90d9d6ed473f91986dd719334e",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$6559F1C1-C1F4-42B6-8CF7-68A7594E842A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+8798782', 'unit': '1'}"
+          },
+          "hash": "cbe330516a8e950e058a2364abf5ceb42d4d7f9e",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$C6890E56-872F-469E-A999-35BDA0284298",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+9250523', 'unit': '1'}"
+          },
+          "hash": "2339537feb210b5cb757499e0a2b9c9fda9de9e4",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7929$94912059-8560-422E-892C-71BD90281A5C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+10268098', 'unit': '1'}"
+          },
+          "hash": "d7f45b68210da302af264e8ee3855673365a868b",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P7929$8179A4D5-146D-4FB3-BA39-A0E263D7E0BC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19817878",
+              "numeric-id": 19817878
+            }
+          },
+          "hash": "be1bf5adc29a21ef0a2f246268333c11edd4530b",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P7929$5522AF1A-5D15-4BE5-8705-DEA8DC20A0F9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/roglo\\.eu\\/roglo\\?(p=[^;]+;n=[^;]+)"
+          },
+          "hash": "2ce3b84baa76e00d856cc8b8c3b8c2d30b0ecfca",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P7929$D2683A22-0306-4CF9-B24A-D6CC285CC9B0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83365652",
+              "numeric-id": 83365652
+            }
+          },
+          "hash": "853e06d6808f39892308320abeaea50f1f130521",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы ў генэалягічнай базе зьвестак Roglo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für eine Person in der genealogischen Datenbank auf roglo.eu"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a person on the Roglo genealogical database"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de persona en la base de datos genealógica Roglo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه اشخاص در ب.د روگلو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne dans la base généalogique Roglo"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di una persona nel database genealogico Roglo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Roglo系図データベース上の人物の識別子"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator osoby w bazie danych genealogicznych roglo.eu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roglo soyağacı veritabanındaki bir kişi için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи в базі Roglo — генеалогія"
+    }
+  },
+  "id": "P7929",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف شخص في قاعدة بيانات \"روغلو\" (Roglo)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы Roglo"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Roglo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Roglo-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roglo person ID"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "identigilo de homo ĉe Roglo"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador Roglo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه تبارشناختی روگلو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Roglo"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Roglo"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה אדם ב־Roglo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Roglo-személyazonosító"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Roglo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Roglo人物識別子"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Roglo ID"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "ID orang Roglo"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Rogio person-ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Roglo-identificatiecode voor persoon"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "identificador dins la basa de Roglo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator osoby w Roglo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "identificator Roglo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны в Roglo"
+    },
+    "rue": {
+      "language": "rue",
+      "value": "Roglo особа"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oznaka osebe Roglo"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "person-ID på Roglo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roglo kişi kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи Roglo"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID Roglo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "Roglo人物标识符"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "Roglo人物識別碼"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "Roglo人物識別碼"
+    }
+  },
+  "lastrevid": 17395224,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192056,
+  "title": "Property:P7929",
+  "type": "property"
+}

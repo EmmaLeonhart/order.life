@@ -1,0 +1,534 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "قاعدة بيانات مؤسسة ميركل للأنساب"
+      },
+      {
+        "language": "ar",
+        "value": "مؤسسة ميركل"
+      },
+      {
+        "language": "ar",
+        "value": "شخص في قاعدة بيانات مؤسسة ميركل للأنساب"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар Merkelstiftung"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P4620$9A758C32-A8E0-42D1-AD79-B43EC5DD0521",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "http://merkelstiftung.de/Familie/Familiendaten/getperson.php?personID=$1&tree=PWMerkel"
+          },
+          "hash": "80ef980fcafff8aa34c113934aa66fefab1270af",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$819BB10A-C0F4-4A06-A6BB-1E8105F51FC1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://merkel-zeller.de/getperson.php?personID=$1&tree=Merkel-Zeller"
+          },
+          "hash": "43d74dc27f23f93423ff3417457d05017bb8d5e9",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P4620$0F44632E-7DAE-4301-87BF-1AAA4DF3D6A5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q183",
+              "numeric-id": 183
+            }
+          },
+          "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P4620$1740AA74-BF0A-4D52-BAD2-FA502D5F3B37",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1036943",
+              "numeric-id": 1036943
+            }
+          },
+          "hash": "e5b571a6d869b1c64272e706f4c01bda34cc7ec6",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$A382E1F2-F275-4383-A05A-7129F916E47C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5984965",
+              "numeric-id": 5984965
+            }
+          },
+          "hash": "ce7cd7aad90132f70fe89b89f0b24a75f2a3cff2",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$D5EF921D-FC3D-4F0E-AFC8-2308B141395E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19278833",
+              "numeric-id": 19278833
+            }
+          },
+          "hash": "9d410c06366f4803fef6a110116969ccf0346ffe",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$16BD7DDD-71F3-42A0-9DA1-DE08C232FBE9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1736189",
+              "numeric-id": 1736189
+            }
+          },
+          "hash": "71a8ca1c4335b2f65a7d57a3b0561d8e2da93860",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P4620$AF10CE65-312C-480D-B05F-E47100F9324A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "905"
+          },
+          "hash": "ff26d6fe293f3a73b60266e9c5b6eba259e82d15",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P4620$586F94B5-F217-4635-A9E2-E7D7A084C7C7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$D360BD50-4418-4EE1-82EC-0A7C2627B8C7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$46DCCA21-B199-4AE0-BAD0-F0B42D488E4A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$23B4D004-A3CA-4AD0-97EE-802A0B3355B9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$B905487B-50E6-4F8B-B5D9-24CA61A42CAF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$73564CD0-853D-4C9D-BB27-ECF601A7E590",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P4620$D384934A-FEC5-46A2-BDA4-BF47DF276F51",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P4620$105F946B-45C4-49BA-AEFA-6348A32E5A78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$A9EEFC1B-191D-4C14-A868-C2F61947B7F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P4620$A88FA045-B580-45C2-B64A-193F35DF6053",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Merkelstiftung_person_ID"
+          },
+          "hash": "26c264fa31cd521ab6969d5137041588969a2a00",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P4620$A80AE940-D7E5-4AC0-B951-4ACDDA941666",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+21549', 'unit': '1'}"
+          },
+          "hash": "329a40a9b3ed352f5b3f75a9b25478635fc225d9",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$EC87567F-55B5-44D8-93CB-51E95133DC15",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+26928', 'unit': '1'}"
+          },
+          "hash": "d6566ef261a25738b50f3209803f05840069c7ac",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P4620$8574C86C-5D22-480D-BFEC-86BE5CAC3DAC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19817878",
+              "numeric-id": 19817878
+            }
+          },
+          "hash": "be1bf5adc29a21ef0a2f246268333c11edd4530b",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4620$886BFED6-8CD7-48D6-9FFF-FD39F1B477EC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q87268730",
+              "numeric-id": 87268730
+            }
+          },
+          "hash": "e8f6ad3b07d9505a5c90e7a166cbdf6e63816967",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P4620$0A94F9EF-32B9-4768-8605-663CA24012C5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45028042",
+              "numeric-id": 45028042
+            }
+          },
+          "hash": "c3b6671cfd692c3b53d051c667032b75f084086d",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар генэалягічнага запісу пра асобу ў базе зьвестак Merkelstiftung"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eintrag in der Familiendatenbank Merkel-Zeller"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for the genealogical record of a person in the database of the Merkelstiftung"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne dans la base de données généalogique Merkelstiftung"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ihe nchọpụta maka ndekọ usoro ọmụmụ nke mmadụ na nchekwa data nke Merkelstiftung"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для генеалогічного запису особи в базі даних Merkelstiftung"
+    }
+  },
+  "id": "P4620",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف شخص في قاعدة بيانات مؤسسة ميركل للأنساب"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы Merkelstiftung"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Merkelstiftung de persona"
+    },
+    "de": {
+      "language": "de",
+      "value": "Merkel-Zeller-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Merkelstiftung person ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Merkelstiftung"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Merkelstiftung de persoa"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Merkelstiftung onye  Akara"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Merkelstiftung-identificatiecode voor persoon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator  osoby w Merkelstiftung"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код персоны в Merkelstiftung"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Меркелштифтунг особа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Merkelstiftung person-ID"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи Merkelstiftung"
+    }
+  },
+  "lastrevid": 17395146,
+  "modified": "2025-09-10T05:12:29Z",
+  "ns": 862,
+  "pageid": 192047,
+  "title": "Property:P4620",
+  "type": "property"
+}

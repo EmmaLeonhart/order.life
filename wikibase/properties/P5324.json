@@ -1,0 +1,619 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "الأرشيف الوطني السويدي"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Swedish National Archive ID"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "NAD"
+      },
+      {
+        "language": "sv",
+        "value": "NAD referenskod"
+      },
+      {
+        "language": "sv",
+        "value": "Nationell Arkiv Databas"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P5324$B98DA189-4A2C-41C1-9F75-27F342A8219A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/?postid=ArkisRef%20$1"
+          },
+          "hash": "2d982f411e207e26f9a45c37cc91667963dbbff5",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P5324$0E92A5A7-81B6-4F63-9442-0EEBAAC9BA95",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 3217, 'id': 'P3217'}"
+          },
+          "hash": "5ef92bfa7247e76080a9c780705be70251a8deed",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$88FAFC81-5AD7-4B4D-9828-EA62DC125BD2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 7434, 'id': 'P7434'}"
+          },
+          "hash": "d7beec73620bfd56c9abdc90139e7b4237382f75",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$166AADD3-301D-4A68-9FD0-1517518BD461",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 9713, 'id': 'P9713'}"
+          },
+          "hash": "721ca6cef5dfc5ea798208d81607728d9e4049f8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P5324$98809949-36C7-44EC-AE85-32137FE80BE9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P5324$1235816D-BF3D-478C-8905-DD0D027C0350",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8118",
+              "numeric-id": 8118
+            }
+          },
+          "hash": "dde264506567ee57dcb6b4437cece51dc1672011",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$175CA60E-6777-42CC-AB51-B38CF1153E21",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10688470",
+              "numeric-id": 10688470
+            }
+          },
+          "hash": "fb70aad9185163e489fe688ee32d006964393a5c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$09EA3ADC-ADE2-45B1-99A7-D5D4B40318FB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q152850",
+              "numeric-id": 152850
+            }
+          },
+          "hash": "1833e7a9a5d7a9473caedaa645dc5bd41e851b3e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P5324$2EC0D240-0DF4-4890-A768-33DF2E97F6D2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/om-soktjansten?infosida=fri-tillgang"
+          },
+          "hash": "8adbc0dd729022e2fc40cb2922d49429128eacb2",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P5324$B8C01DA3-0719-4EF3-84C2-87E37ED85722",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$7AAAACB6-2EFA-4679-9838-774F157D763A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$CDD3F6A4-0439-442A-BD62-174569AA6F89",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$A1698780-57D1-4D05-98AC-9A811D78BFA8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P5324$E5AAC05C-A945-48E2-9ED4-77AD1FF23CEF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1724971",
+              "numeric-id": 1724971
+            }
+          },
+          "hash": "eda34a50f2edde4a20b1dda98ac120aa02e2868b",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$C261CC76-29BB-4F9F-A7B6-68DE551D0C48",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10594823",
+              "numeric-id": 10594823
+            }
+          },
+          "hash": "fa06d79c864d928957f7cc77e7554909ab1f7601",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P5324$8421912D-A8EE-4AC9-8C26-1077C4BF01D5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P5324$FCA81148-8A49-441F-929E-2012FB7F4818",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "sv",
+              "text": "NAD arkiv nummer hos Riksarkivet. Ett arkiv finns då och då på 2 olika WD objekt"
+            }
+          },
+          "hash": "bb1743479a25c4a5bcc879f9d69dceb9c6ab83ec",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P5324$96B24E02-031A-4905-A4D3-BBBA06290942",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98286862",
+              "numeric-id": 98286862
+            }
+          },
+          "hash": "1dd29ab487aba0e73125855ffa65d2ca642aecfc",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P5324$A65461E4-6945-4AAB-80F6-6C71E91B7317",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$AF2E011A-258A-4252-A394-798AF2829A90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5324$3E6CD687-E5A3-4476-A1AE-EBCEB2B62559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74568206",
+              "numeric-id": 74568206
+            }
+          },
+          "hash": "2af1ed34e678559bde9e4fe54667e0441df29c73",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P5324$E8B11BEB-B1B2-4714-8C1D-CF93D95C7A65",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/National_Archive_of_Sweden"
+          },
+          "hash": "d31407bf48fa337b9aa58dfbdfa4496f18c77cb3",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3303": [
+      {
+        "id": "P5324$B2B2F30B-85C7-4181-81E3-9A1D3D546575",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/nad?BegransaPaTitelEllerNamn=false&AvanceradSok=False&typAvLista=Standard&Sokord=$1"
+          },
+          "hash": "c3e5a04749f895fab081e32ad86776702df1322e",
+          "property": "P3303",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P5324$AFF05C47-D1DC-4F0E-90F2-C83CB4F75351",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/sok\\.riksarkivet\\.se\\/\\?postid=ArkisRef%20(SE\\/[a-zA-Z0-9]*(\\/[0-9]*)*)"
+          },
+          "hash": "689dbf07462980762875b5c66aa230dddb28ea95",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P5324$8CF6436E-E4FE-4127-97D5-49D481D15DD7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10594823",
+              "numeric-id": 10594823
+            }
+          },
+          "hash": "de059bcb6f170f438efd028237287b25a6101bfe",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9100": [
+      {
+        "id": "P5324$079BF146-3972-482E-A476-EE2E89B70DED",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "wdp5324"
+          },
+          "hash": "7cc1a7c83d40c83522d8596c0627bdb7225909ca",
+          "property": "P9100",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар архіву для асобы/арганізацыі/падзеі й інш., які зьберагаецца ў Нацыянальным архіве Швэцыі"
+    },
+    "en": {
+      "language": "en",
+      "value": "reference code for an archive for a person/organisation/event etc. stored at the National Archive of Sweden"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "tunniste Ruotsin kansallisarkistossa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant dans les archives nationales suédoises"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "referenčna oznaka za arhiv osebe/organizacije/dogodka itd., ki je shranjen v Državnem arhivu Švedske"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "referenskod för information om arkiv i Sverige hos Riksarkivet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Arşivinde saklanan bir kişi, kuruluş veya etkinlik arşivi için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор архіву для особи/організації/події тощо, що зберігається в Національному архіві Швеції"
+    }
+  },
+  "id": "P5324",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف الأرشيف الوطني السويدي"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Швэдзкага нацыянальнага архіву"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Arxiu Nacional Suec"
+    },
+    "da": {
+      "language": "da",
+      "value": "Riksarkivet ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "Swedish National Archive reference code"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "identigilo en Nacia Arkivo de Svedio"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador del Archivo Nacional Sueco"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Riksarkivet-tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Riksarkivet"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "на Шведскиот национален архив"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nationell Arkiv Databas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zweeds Nationaal Archief-identificatiecode"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Nationell Arkiv Databas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код Государственного архива Швеции"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "identifikator Riksarkivet"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nationell Arkivdatabas Referenskod"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Arşiv kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Національного архіву Швеції"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID Archìvio Nasionałe Svedezo"
+    }
+  },
+  "lastrevid": 17395174,
+  "modified": "2025-09-10T05:12:30Z",
+  "ns": 862,
+  "pageid": 192063,
+  "title": "Property:P5324",
+  "type": "property"
+}

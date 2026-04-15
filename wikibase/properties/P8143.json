@@ -1,0 +1,749 @@
+{
+  "aliases": {
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар продка SAR"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "SAR ID"
+      },
+      {
+        "language": "en",
+        "value": "SAR person ID"
+      },
+      {
+        "language": "en",
+        "value": "Sons of the American Revolution ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "SAR ID"
+      },
+      {
+        "language": "fr",
+        "value": "Sons of the American Revolution ID"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "SAR-ID"
+      },
+      {
+        "language": "sv",
+        "value": "SAR person-ID"
+      },
+      {
+        "language": "sv",
+        "value": "Sons of the American Revolution-ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P8143$4382DFC6-7DB4-4FC4-BA59-5D43DE3081C9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P8143$125736A8-891D-447E-B898-FF06D2998C78",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sarpatriots.sar.org/patriot/display/$1"
+          },
+          "hash": "0fb36c8fd79aad4f0cd6478ab83519d9d6a6c990",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P8143$09DC580A-78D6-48BF-A89F-8A27AFA6A356",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 7969, 'id': 'P7969'}"
+          },
+          "hash": "6ae13d7f0dc294620711f122297813629d50de3b",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$A3993C6F-F280-4089-A171-AACCC1B1176D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2600, 'id': 'P2600'}"
+          },
+          "hash": "39da32a732b8dfa6fbcebf9ac27a7b384f69287d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$04DC91F3-6B9D-456A-AFC5-3CB05348FD4B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2949, 'id': 'P2949'}"
+          },
+          "hash": "75537a994e6bfd265f2ad0600e7c465b5bc36707",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$ED0196C8-8080-4FDF-A7CF-C081763F4A55",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1819, 'id': 'P1819'}"
+          },
+          "hash": "0cfe0d6b31d01612ad84cbb2a069f4945327cf45",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$3D8BB333-1F30-401C-AB10-12F00BA50CE6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4638, 'id': 'P4638'}"
+          },
+          "hash": "630d1a1d5cd752f617f7190be094492027edd859",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$C3549A70-A45B-424F-9390-EFB574774E86",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 535, 'id': 'P535'}"
+          },
+          "hash": "4e82e2201443f91ac929bf5f00124e7c443818a8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$AF39782B-9EA4-4CFE-AA01-D6AD642D3A96",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2025, 'id': 'P2025'}"
+          },
+          "hash": "b490e73943ff6e54130ef46313c6e1c6d501c2b5",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P8143$F15A958D-D8AF-4BAA-9911-2937F4B443CC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30",
+              "numeric-id": 30
+            }
+          },
+          "hash": "be4c6eafa2984964f04be85667263f5642ba1a72",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P8143$A440A5B6-3BE2-4478-9053-287FAA519A50",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "\\d+"
+          },
+          "hash": "0f097f7a27ffc7b6db8518ca527f3cf417f6a473",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P8143$D350580B-E927-47BC-A5F8-6011AFFB93D9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61698690",
+              "numeric-id": 61698690
+            }
+          },
+          "hash": "37e8aa6561a36aa4e2c3d0435014b6ffe56433fb",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$634A210E-F471-4962-A1FE-46F3DA8B283B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6249637",
+              "numeric-id": 6249637
+            }
+          },
+          "hash": "9b7cb5e018c9deb484957f18d46a154509e0f329",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$DABA3159-E594-42D0-8E18-0382A9D5DBCC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89371648",
+              "numeric-id": 89371648
+            }
+          },
+          "hash": "f443d3ea918a40fbd54a266e27acbd662609a9d3",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$9B24327D-6D1F-475E-BB42-E27E096C76D3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88104020",
+              "numeric-id": 88104020
+            }
+          },
+          "hash": "d4d84b690c4ebda81b2ce5e3d20e673fb22e41c1",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$874C633A-82FD-4B95-8AD4-095FAEDB0984",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101116056",
+              "numeric-id": 101116056
+            }
+          },
+          "hash": "995571e31760f044849922643f93a233a554dfe8",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P8143$75AF320C-2BBA-4C92-BD87-11BED6229D6A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sarpatriots.sar.org/patriot/search/"
+          },
+          "hash": "a8dbebc2d53a613ddf718c84e519b6b3f2d4ee9f",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P8143$73E823CD-B8F1-4843-85BB-8FC937C0C860",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$53131645-F2BC-43A9-8417-574A945604E8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$D3F25893-1785-4E84-B096-A6470BFF14DF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$F433C008-3A0D-458A-A19B-DF42F5A18991",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$8B3EFCC3-E5B3-496C-A8F4-5B6B06720966",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$8E57397A-7B69-4D1E-A3EB-B65384192A8B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P8143$53E79A3D-D707-4E86-884F-18337B6B8F63",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3072229",
+              "numeric-id": 3072229
+            }
+          },
+          "hash": "9f5b038650ecb3225edaa3289211685f61347c46",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P8143$0FE174E6-20B1-4F30-BCE6-8B68B25AA315",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873974",
+              "numeric-id": 21873974
+            }
+          },
+          "hash": "1b97f07ea808523c58f82502c2df4a8afbb9a31c",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P8143$9A185676-3CE8-40D8-9B2C-A7ABA5CE9407",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Use to link to entry in the Sons of the American Revolution ancestor database. ID is a numerical string e.g. 999999"
+            }
+          },
+          "hash": "7c31b5e10bd9cb7702780d16c35c237a0cdc4467",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P8143$6A69163D-7071-4992-B98E-98F3835BBAE1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P8143$30A8A149-4CDD-4A0E-8521-1C9011DE74F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$BEB9C3DD-D9B7-4B10-99F9-2D368E2290D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$1640733D-589B-473F-AC7B-1E332415B53A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P8143$955019C6-62D7-489E-8C5C-18253126E811",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/SAR_ancestor_ID"
+          },
+          "hash": "83107f9810bb5d259352d22ce7d9b3727fa2491f",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P8143$79D73E67-1DAD-4F17-8CF8-1047373CE0BD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+165261', 'unit': '1'}"
+          },
+          "hash": "4566ab341913f458951438770742d85fcdef81e9",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P8143$2B0CC708-212F-4ECA-A3E8-4387FAAEB333",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19817878",
+              "numeric-id": 19817878
+            }
+          },
+          "hash": "be1bf5adc29a21ef0a2f246268333c11edd4530b",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P8143$48863017-58E1-48D3-8AC4-E994B14C9E0A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88300058",
+              "numeric-id": 88300058
+            }
+          },
+          "hash": "9717e6f1082c880bb85d5ce1704d6bc0ebb6ec11",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P8143$C3CF9904-316D-4B5C-827E-5942CE5924A6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/sarpatriots\\.sar\\.org\\/patriot\\/display\\/(\\d+)"
+          },
+          "hash": "7df4422452d4785a915b083e146167508f58ad64",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P8143$FE424BB7-7B08-4211-803C-A2A53E8A228A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95590548",
+              "numeric-id": 95590548
+            }
+          },
+          "hash": "499edb178597f7b4d3b333e7c03b7377b0291d95",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы ў генэалягічнай базе зьвестак Сыноў Амэрыканскай рэвалюцыі"
+    },
+    "en": {
+      "language": "en",
+      "value": "ID of someone in the ancestor database of Sons of the American Revolution (not including the P- prefix)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne dans la base de données Sons of the American Revolution (ne pas inclure le préfixe P)"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "NJ nke onye nọ na nchekwa data nna nna nke Sons of the American Revolution (agụnyeghị P- prefix)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "ID för någon i förfaderdatabasen Sons of the American Revolution (utan P-prefixet)"
+    }
+  },
+  "id": "P8143",
+  "labels": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар продка САР"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador SAR d'avantpassat"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Dalinli zaŋ ti SAR yaanima"
+    },
+    "en": {
+      "language": "en",
+      "value": "SAR ancestor ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant SAR d'une personne"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "SAR nna nna Akara"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "SAR-identificatiecode voor voorouder"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "SAR förfader-ID"
+    }
+  },
+  "lastrevid": 17395234,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192057,
+  "title": "Property:P8143",
+  "type": "property"
+}

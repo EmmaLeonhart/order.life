@@ -1,0 +1,1031 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "شخص في فاميليسيرش"
+      },
+      {
+        "language": "ar",
+        "value": "فاميليسيرش"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар FamilySearch"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "FamilySearch ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Family Search person ID"
+      },
+      {
+        "language": "en",
+        "value": "FamilySearch ID"
+      },
+      {
+        "language": "en",
+        "value": "FamilySearch Family Tree ID"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "FamilySearch ID"
+      },
+      {
+        "language": "es",
+        "value": "Family Sesrch ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "FamilySearch ID"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "ID FamilySearch"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "ファミリーサーチ人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "ファミリーサーチID"
+      },
+      {
+        "language": "ja",
+        "value": "ファミリーサーチ識別子"
+      },
+      {
+        "language": "ja",
+        "value": "FamilySearch人物識別子"
+      },
+      {
+        "language": "ja",
+        "value": "FamilySearch人物ID"
+      },
+      {
+        "language": "ja",
+        "value": "FamilySearch識別子"
+      },
+      {
+        "language": "ja",
+        "value": "FamilySearch ID"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "FamilySearch"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "FamilySearch ID"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "FamilySearch ID"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "FamilySearch ID"
+      }
+    ]
+  },
+  "claims": {
+    "P10726": [
+      {
+        "id": "P2889$C57FC41E-C8F5-4332-AB63-1B8B51EA5BEE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123514573",
+              "numeric-id": 123514573
+            }
+          },
+          "hash": "d8fa08853408168833429f10a5c2acaece3b01e8",
+          "property": "P10726",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P2889$C3D15182-43C9-481C-A5DA-2B8107A0C902",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.familysearch.org/tree/person/details/$1"
+          },
+          "hash": "aa6ef14af811ab0fb816e21d16a2f930ab5d853f",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$AA43F446-8D5F-4762-9DCD-279268C15B00",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://ancestors.familysearch.org/en/$1"
+          },
+          "hash": "3ebebee1a208a4b00014b858d71a9943dc58d9ae",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P2889$F321CDD7-BF05-4B52-A8B2-C170D2980DDF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1185, 'id': 'P1185'}"
+          },
+          "hash": "8a3acd21210f5d2f298a3e39c41aa5fd16f7e9a8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$9E3B1343-2614-4146-8F9B-8EE513F74D7A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2600, 'id': 'P2600'}"
+          },
+          "hash": "39da32a732b8dfa6fbcebf9ac27a7b384f69287d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$B28490B7-9C74-48A7-8ACE-EBA17E836C49",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4193, 'id': 'P4193'}"
+          },
+          "hash": "c8d06ef5c05270ae2fed4ff28ebafcc623ba71d9",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$946F2D6A-33FF-482E-B921-5E37B6152048",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 2949, 'id': 'P2949'}"
+          },
+          "hash": "75537a994e6bfd265f2ad0600e7c465b5bc36707",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$FB0A73DE-CD17-4CCA-85F1-074CD24CE151",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 535, 'id': 'P535'}"
+          },
+          "hash": "4e82e2201443f91ac929bf5f00124e7c443818a8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$4140AE3B-5AE0-4470-90F6-E4FCD28CF136",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 1819, 'id': 'P1819'}"
+          },
+          "hash": "0cfe0d6b31d01612ad84cbb2a069f4945327cf45",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$FB96E677-1426-4334-9186-AEB615533BBC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4574, 'id': 'P4574'}"
+          },
+          "hash": "a441cc823360ff9c2c605a9d55af3338dd9c1647",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$2FB8DF26-3EB5-4498-AEEC-F9E4984B6D35",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4116, 'id': 'P4116'}"
+          },
+          "hash": "bcff629ffa82e3787075f33100cfb10677a9fd04",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$B999FAA0-21FA-4B11-A56F-9859BDC0863D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4638, 'id': 'P4638'}"
+          },
+          "hash": "630d1a1d5cd752f617f7190be094492027edd859",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P2889$C30CBF8A-18B9-4C47-BB84-6C1F690601D4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "[A-Z0-9]{4}-[A-Z0-9]{3}"
+          },
+          "hash": "01061c044645ee31640fd37d98e4bb0643c9e04c",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P2889$6E57E6A1-07B0-495E-947C-E9A2390B4AE8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "FamilySearch"
+            }
+          },
+          "hash": "47c4a12ae7c1d65acb06e4f007b31bd14d2157ab",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P2889$466882FC-DE17-4E62-BF82-090E680A007A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q764557",
+              "numeric-id": 764557
+            }
+          },
+          "hash": "da32c623cf3740f6126640f57d84e39adf17b46f",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$BB125386-010F-4644-9BE9-694880E0FB20",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20667111",
+              "numeric-id": 20667111
+            }
+          },
+          "hash": "7d43b5a9862d44f5a36323107315b1780e21955c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$8CB55840-94CF-40DC-9BB6-EFA794B65332",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31677",
+              "numeric-id": 31677
+            }
+          },
+          "hash": "cd0fb7d84262d90d177f1671b103d1212f15271e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P2889$E12B22DA-F993-408D-869F-B2C47E6A8BA3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://familysearch.org/"
+          },
+          "hash": "8ed3ef9f2367782a980575ab5b0d3359da3dbb69",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P2889$686841F9-D6CC-4D04-9F75-5088810EEA53",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$0D4C2963-D399-46D6-93A9-4E4D1AAC0315",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$B5090332-E60D-4A74-87D0-7FFBE7648580",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$8FA38568-DC3C-40AD-BE2A-A57C6222EA92",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$F258C7B1-4A2B-4124-A5C4-3A2534C7F80F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$C6F27D71-B322-4A7D-9563-7C4487A9EC0B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$3C7714C6-3811-4015-A35A-F623E1D6B902",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P2889$0B5FB512-8493-4021-88CD-5368FBEFF6B6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P2889$B0E6E50F-F3A0-4271-B2BB-7004AEE977F0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P2889$62522E8C-DD02-4DCA-ADD8-3A065A06852E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$16A7127B-A255-4870-9CF3-7EFE778137CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$54EEB502-B7B6-40A7-86EB-6085A08E9F34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$45E2CE3F-05ED-41E3-949C-E0751C5030BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24075706",
+              "numeric-id": 24075706
+            }
+          },
+          "hash": "bf13fde231320dda5f8d779d855050600db98b59",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$87BCE6C1-BC02-4918-8D25-0527C59B23A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65096064",
+              "numeric-id": 65096064
+            }
+          },
+          "hash": "4c93f44c96194da14c6d6d06ff05e81c1ba4e9dc",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P2889$C19007A0-3C54-49F6-925F-90316B5AA42A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/FamilySearch_ID"
+          },
+          "hash": "e0ec7e9149575f63db53b7ef1ed0dc4ae601e31e",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3303": [
+      {
+        "id": "P2889$6F78C4BE-B82B-4859-B330-B293B9CBADEC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.relativefinder.org/#/relatives/all/$1"
+          },
+          "hash": "4045ac5c9ceb7eeb997dea1538b46a51f0d1618d",
+          "property": "P3303",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P2889$ECD98ECB-3802-4CE4-9EA1-C904373957A7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+1210000000', 'unit': '1'}"
+          },
+          "hash": "895c17c855dbaff93fa3a9055f83ac7a3b07d688",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$DE065555-9CDC-4DCC-9429-7311D43C80EB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+1410000000', 'unit': '1'}"
+          },
+          "hash": "f7b7ec4ea97529deff1f7e7525266902a9dd48e6",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$249051F7-D39B-4EFC-93C1-F4891E7B849D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+1640000000', 'unit': '1'}"
+          },
+          "hash": "05860046e61cacba13729fa3b0375c26da4ecf15",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P2889$77DCA4E7-FB3B-4C14-8555-E94F84D87EC0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19817878",
+              "numeric-id": 19817878
+            }
+          },
+          "hash": "be1bf5adc29a21ef0a2f246268333c11edd4530b",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$20F46FF3-AB02-445C-B565-CF84693246E4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q87268730",
+              "numeric-id": 87268730
+            }
+          },
+          "hash": "e8f6ad3b07d9505a5c90e7a166cbdf6e63816967",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P2889$9E4791D4-6368-47B9-9B85-AB60A253FEA0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?familysearch\\.org\\/tree\\/person\\/details\\/(\\w{4}-\\w{3})"
+          },
+          "hash": "bc424736de90116e8c5109e70cd4ae0fee56a890",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P2889$73734F55-9E21-496F-A01B-552D235C953E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/ancestors\\.familysearch\\.org\\/..\\/(\\w{4}-\\w{3})"
+          },
+          "hash": "0298c4ca692a19ffb4269c6594d99f73b24b9165",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P2889$2C35D544-0A41-4412-9B49-E28B9AF4A3C6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94509406",
+              "numeric-id": 94509406
+            }
+          },
+          "hash": "de704c3f2fc0931b1ac9345e34f9b6c2ebe05413",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы на бачыне FamilySearch.org"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador per a una personal al portal familysearch.org"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "ID osoby na webu familysearch.org"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für Personen auf familysearch.org"
+    },
+    "en": {
+      "language": "en",
+      "value": "ID of a person on FamilySearch"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de una persona en familysearch.org"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسۀ تبارنامۀ فامیلی‌سرچ به نشانی familysearch.org"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'une personne sur familysearch.org"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Anyakönyvi azonosító a familysearch.org szerveren"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "njirimara nke mmadụ na FamilySearch"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di una persona su familysearch.org"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "familysearch.org上の人物の識別子"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator osoby na FamilySearch.org"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador da pessoa no FamilySearch"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador para uma pessoa no projeto FamilySearch"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare för en person hos familysearch.org"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Familysearch.org'daki bir kişinin kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор особи на сайті familysearch.org"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "mã định danh của nhân vật trên FamilySearch"
+    }
+  },
+  "id": "P2889",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف شخص في فاميليسيرش"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы FamilySearch"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ফ্যামিলিসার্চ ব্যক্তি আইডি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador FamilySearch de persona"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "FamilySearch ID osoby"
+    },
+    "de": {
+      "language": "de",
+      "value": "FamilySearch-ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "FamilySearch person ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador FamilySearch"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسۀ تبارنامۀ فامیلی‌سرچ"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "henkilön FamilySearch -tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant FamilySearch"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador FamilySearch"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "FamilySearch-azonosító"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "akara onye na-achọ ezinụlọ"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo FamilySearch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ファミリーサーチ人物識別子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "패밀리서치 인물 ID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "назнака на FamilySearch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "FamilySearch-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator FamilySearch"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador FamilySearch"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador FamilySearch"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код FamilySearch"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "FamilySearch person-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "FamilySearch kişi kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор FamilySearch"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "định danh nhân vật FamilySearch"
+    }
+  },
+  "lastrevid": 17396444,
+  "modified": "2025-09-10T05:13:21Z",
+  "ns": 862,
+  "pageid": 192035,
+  "title": "Property:P2889",
+  "type": "property"
+}

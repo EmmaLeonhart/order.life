@@ -1,0 +1,1126 @@
+{
+  "aliases": {
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "Швэдзкі біяграфічны слоўнік"
+      },
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар SBL"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "SBL"
+      }
+    ],
+    "da": [
+      {
+        "language": "da",
+        "value": "SBL-id"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "SBL ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "SBL ID"
+      },
+      {
+        "language": "en",
+        "value": "Svenskt biografiskt lexikon"
+      },
+      {
+        "language": "en",
+        "value": "SBLID"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "identificador SBL"
+      },
+      {
+        "language": "es",
+        "value": "SBL id"
+      },
+      {
+        "language": "es",
+        "value": "Svenskt biografiskt lexicon"
+      }
+    ],
+    "fa": [
+      {
+        "language": "fa",
+        "value": "شناسۀ فرهنگ زندگی‌نامۀ سوئدی"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Svenskt biografiskt lexicon"
+      },
+      {
+        "language": "fr",
+        "value": "Dictionnaire biographique suédois"
+      }
+    ],
+    "gl": [
+      {
+        "language": "gl",
+        "value": "SBL id"
+      },
+      {
+        "language": "gl",
+        "value": "Svenskt biografiskt lexikon"
+      }
+    ],
+    "ig": [
+      {
+        "language": "ig",
+        "value": "SBL ID"
+      },
+      {
+        "language": "ig",
+        "value": "Svenskt biografiskt lexikonO"
+      },
+      {
+        "language": "ig",
+        "value": "SBLID"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "identificativo SBL"
+      }
+    ],
+    "nb": [
+      {
+        "language": "nb",
+        "value": "SBL-ID"
+      },
+      {
+        "language": "nb",
+        "value": "Svensk biografisk leksikon"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "SBL-identificatiecode"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "ШБЛ"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "Svenskt Biografiskt lexikon"
+      },
+      {
+        "language": "sv",
+        "value": "SBLID"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "İsveç Ulusal Biyografi Sözlüğü tanımlayıcı"
+      },
+      {
+        "language": "tr",
+        "value": "SBL kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "Svenskt biografiskt lexikon"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "SBL-ідентифікатор"
+      },
+      {
+        "language": "uk",
+        "value": "ідентифікатор SBL"
+      },
+      {
+        "language": "uk",
+        "value": "код SBL"
+      },
+      {
+        "language": "uk",
+        "value": "ідентифікатор у Шведському біографічному словнику"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P3217$42EA56AA-F611-419C-B13A-E007C3796E1C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P3217$92380D01-23EF-446F-B1B7-63D75F220635",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q379406",
+              "numeric-id": 379406
+            }
+          },
+          "hash": "ca452ce76c886868d11149b339209bf1c163eb6a",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P3217$4A988F09-E39B-4398-87B9-9167E927B38C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=$1"
+          },
+          "hash": "a1c7cd8d099bddf0b72c3c50a630845d3c615e45",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P3217$203A7A2E-3324-403C-8111-E675845A809D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4963, 'id': 'P4963'}"
+          },
+          "hash": "0bca6499c354fb9706ea0e9a3f9e795d2e8eb4f7",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$1C73EDE9-9BB5-49D5-9F13-DF1B58BC73BC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 5324, 'id': 'P5324'}"
+          },
+          "hash": "2c99912ad14b02870d62f83f121d3e9a43655b95",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$B8AB9972-7D76-4558-8AE2-DB68EDD94441",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 6821, 'id': 'P6821'}"
+          },
+          "hash": "d13ddc63c666dd75e153ff1bf7f302b52787aca5",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$4B1E67A5-C6E8-4207-A938-A5CE3CFD742E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 7931, 'id': 'P7931'}"
+          },
+          "hash": "7b707ffcaa81ce7833bd61cbd64d3c901cfe3d70",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$8067DFDE-17AC-45DA-85FB-43DD86D00BCF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 4820, 'id': 'P4820'}"
+          },
+          "hash": "aed4a7d4d6112fb6c6898479439ea7367e94256d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$7E1750B8-1676-40C4-AFF5-979EB5F1D4DC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 9713, 'id': 'P9713'}"
+          },
+          "hash": "721ca6cef5dfc5ea798208d81607728d9e4049f8",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P3217$BFC17445-F9A5-42F4-A834-B3CAB92091B8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P3217$69461523-5DD3-4F71-8802-785FE6561E4B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "\\d+"
+          },
+          "hash": "0f097f7a27ffc7b6db8518ca527f3cf417f6a473",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P3217$FA01B7D9-D64F-4285-BBC9-4178CB84DAD3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "SBL"
+            }
+          },
+          "hash": "e45c1c143b7bba282f10a2776063c4bcde181cc6",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P3217$46E97BAB-AD36-4225-8201-CB562343082F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20215",
+              "numeric-id": 20215
+            }
+          },
+          "hash": "5f6e4ce890cea52211f3f05d8e06b268e0bf99bd",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$445F671F-899B-4E4E-9634-42D44C24E530",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52930",
+              "numeric-id": 52930
+            }
+          },
+          "hash": "f506c020005ecca8c40d8df5c7cd16c60009a0cf",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$F39A15EC-5D5C-4E26-AC9E-1B3280A41902",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52947",
+              "numeric-id": 52947
+            }
+          },
+          "hash": "13e98407c4efc3d76664cef0ecd0c0a2b721bd28",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P3217$EA089CD7-D977-4334-9873-D46848C2E023",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/Sbl/Start.aspx"
+          },
+          "hash": "6a964bf60b2a430296f3f07bc735e8df595c9b44",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$8A8186F0-2664-44F6-934C-AFB9BF7565E2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/sbl/Hjalp.aspx"
+          },
+          "hash": "9ca4d34b13293c3974e6cfb7afd47d42bb1f5790",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1921": [
+      {
+        "id": "P3217$E7741ABA-CD4B-4FEF-8AC7-CFD20C2CF1FA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=$1"
+          },
+          "hash": "a624deb85441dd105f5c3d85c6c86280ee8d6854",
+          "property": "P1921",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P3217$7A091A72-0723-4BB8-AACE-4B931D98D9E4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "528"
+          },
+          "hash": "90c18b17a329d79f50e21bd43c9429c87b2da980",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P3217$0E0F1C62-C482-491A-88CE-73CDFF9B7704",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$2C7008DE-63F7-4D28-966F-CA57685D7ECC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$25769523-FFFB-46DC-9C30-BD6967024FD8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$B71A383C-FC80-44C8-BAD7-A6626BE1BDCD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$791E9B21-EF6A-4893-A305-0B91E2D95AFA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510851",
+              "numeric-id": 21510851
+            }
+          },
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$3569796A-3F6E-42CF-8E61-84666DE3B4D1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$A467730E-8053-4EB3-9293-204076C0F502",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108139345",
+              "numeric-id": 108139345
+            }
+          },
+          "hash": "56d1f34de32eb4b954161acd9019fb46fc4db68e",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$FA7D012C-31AA-4101-B866-57C48D0EFDA9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P3217$E130B7B2-A2CA-4071-9080-CD0F5E0C54AA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1724971",
+              "numeric-id": 1724971
+            }
+          },
+          "hash": "eda34a50f2edde4a20b1dda98ac120aa02e2868b",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P3217$419AB744-C673-4AC9-8F04-AA0207C6A7BE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21874050",
+              "numeric-id": 21874050
+            }
+          },
+          "hash": "fe71c957a1d9a61f8df395a524805b70bdfc450b",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P3217$CD458312-A9AE-4C6E-98A6-04A0EC657EC0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "sv",
+              "text": "Ange id för SBL artikeln om personen eller om släkten"
+            }
+          },
+          "hash": "af04bda9750a9e44925ea1056a62e83f9c92be33",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$D1E75EFB-A7BC-4C3B-9835-37BBB0775C23",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "The id of the article about a person or a family in SBL"
+            }
+          },
+          "hash": "f4a1e6e7feaad11750c52b72b95342332355d496",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P3217$7FC1FE4E-8452-42CD-95E7-A3828E7137F0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P3217$7DB00FC3-C0DA-4F41-BF26-9A135F07B0D4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57924637",
+              "numeric-id": 57924637
+            }
+          },
+          "hash": "cd56bee8ba5ae9bbc59240c8bce6181db9645ad1",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P3217$606CB2A6-F6C3-41F7-AF4F-B80868A1945B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97584729",
+              "numeric-id": 97584729
+            }
+          },
+          "hash": "76d95ffc32f6260fc90c375d80f847eb29c6e05a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$E415AE1A-8203-4187-9797-EE80F8E12782",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24075706",
+              "numeric-id": 24075706
+            }
+          },
+          "hash": "bf13fde231320dda5f8d779d855050600db98b59",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3217$8DC017F2-36DE-42DF-A482-B663C6C1DBC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P3217$C1E45A6B-D94A-4E25-925A-53AD716B4EA3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/SBL"
+          },
+          "hash": "750a56be4fe1cfd07d8544942ae96062eca26379",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P407": [
+      {
+        "id": "P3217$935C3717-DB32-47BF-BE84-F02B973CA18F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9027",
+              "numeric-id": 9027
+            }
+          },
+          "hash": "e41efcf0acaa18ea8fca63b87e2e0c24618f5664",
+          "property": "P407",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P3217$7F5B6AF7-F4F0-47ED-A8D5-0E17946A0CBA",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/sbl/Search.aspx"
+          },
+          "hash": "f494318657093bd26fdd1d15c2729620a58a288f",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P3217$FC6C7131-A14A-4758-8300-6D69391B9553",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+7402', 'unit': '1'}"
+          },
+          "hash": "7a1f92e8672531a6a73c5793c80affe46a0bb962",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7250": [
+      {
+        "id": "P3217$5C27865D-424C-4A8D-8E2D-1656C6BFE3E1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sok.riksarkivet.se/Sbl/Mobil/Artikel/$1"
+          },
+          "hash": "7a9340af261c8071d0911f331b619d4ce782c38d",
+          "property": "P7250",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7470": [
+      {
+        "id": "P3217$348ECBD4-540C-40FE-9B88-D74200972771",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "urn:sbl:$1"
+          },
+          "hash": "79ba41146a2d79eb501ebef08c45999ca64ae034",
+          "property": "P7470",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P3217$D88794F1-3841-4D09-A62C-EF389ED2F96C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/sok\\.riksarkivet\\.se\\/sbl\\/Presentation\\.aspx\\?id=(\\d+)"
+          },
+          "hash": "d97b6154a9357cdef9f99aefdd6d3b86f413fb29",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P3217$A8CB9F53-6F2D-4334-8BD4-2B67AE105915",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q379406",
+              "numeric-id": 379406
+            }
+          },
+          "hash": "7d3eb1f9bf5175ff19040816c040863b279e84b1",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9100": [
+      {
+        "id": "P3217$AB843E56-6ADB-497A-835E-08AD9285599D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "wdp3217"
+          },
+          "hash": "3eade669d5fa6ef6db605ab136b3a7892174b002",
+          "property": "P9100",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар у Швэдзкім біяграфічным слоўніку"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eintrag im Svenskt Biografiskt Lexikon"
+    },
+    "en": {
+      "language": "en",
+      "value": "entry in the Dictionary of Swedish National Biography"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "entrée dans le Dictionnaire biographique suédois"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "código que identifica unha entrada no Dicionario biográfico sueco"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ntinye na Akwụkwọ ọkọwa okwu nke Swedish Akụkọ ndụ obodo"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di una persona nel Svenskt Biografiskt Lexikon"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "identifikator for en oppføring i Svenskt biografiskt lexikon (SBL)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "code in het Zweeds biografie naslagwerk (Svenskt biografiskt lexikon)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare Svenskt Biografiskt Lexikon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Biyografi Sözlüğü'ndeki bir kayıt için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор у Svenskt Biografiskt Lexikon (SBL)"
+    }
+  },
+  "id": "P3217",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قاموس السير الذاتية الوطنية السويدية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Швэдзкага біяграфічнага слоўніку"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সুয়েডীয় জাতীয় জীবনী অভিধান আইডি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Diccionari Biogràfic Suec"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Svenskt Biografiskt Lexikon ID"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr Bywgraffiadur Sweden"
+    },
+    "da": {
+      "language": "da",
+      "value": "Svenskt Biografiskt Lexikon"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Dictionary of Swedish National Biography ID"
+    },
+    "de": {
+      "language": "de",
+      "value": "Svenskt Biografiskt Lexikon ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dictionary of Swedish National Biography ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador Diccionario Biográfico Sueco"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرهنگ زندگی‌نامه ملی سوئد"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ruotsin kansallisbiografian tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Dictionnaire biographique suédois"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador do Dicionario Biográfico Sueco"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Dictionary of Swedish National Biography ID"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Svenskt Biografiskt Lexikon"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Kamus Biografi Kebangsaan Sweden"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Svensk biografisk leksikon-ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Svenskt biografiskt lexikon-identificatiecode"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Identificador do Dicionário Biográfico Sueco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код Шведского биографического словаря"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Шведски биографски лексикон"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Svenskt Biografiskt Lexikon-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Ulusal Biyografi Sözlüğü kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Шведський біографічний лексикон"
+    }
+  },
+  "lastrevid": 16930616,
+  "modified": "2025-09-08T22:16:51Z",
+  "ns": 862,
+  "pageid": 192033,
+  "title": "Property:P3217",
+  "type": "property"
+}

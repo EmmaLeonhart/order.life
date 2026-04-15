@@ -1,0 +1,565 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "أرشيف الصور السويدي"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар Швэдзкага архіву партрэтаў"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "SPA"
+      }
+    ],
+    "fi": [
+      {
+        "language": "fi",
+        "value": "SPA"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "SPA"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Swedish Portrait Archive"
+      },
+      {
+        "language": "it",
+        "value": "identificativo Portrait Archive Svezia"
+      },
+      {
+        "language": "it",
+        "value": "Portrait Archive Svezia"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "SPA"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Swedish Portrait Archive kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "Svenskt Porträttarkiv kimliği"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "ідентифікатор Porträttarkiv"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P4819$C6C674A3-52D9-4631-947C-F1F4F31F5801",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://portrattarkiv.se/details/$1"
+          },
+          "hash": "b67eaa36add8214fbf8aa55521c971df8eac62a1",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P4819$E3576835-2044-49E0-AA6E-4720439A9A40",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 9352, 'id': 'P9352'}"
+          },
+          "hash": "afeb5da6ac01790b2697b8a674e6544308ffb9fa",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P4819$5CF99F6F-19E5-4542-BA56-DB75CA0AF653",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34",
+              "numeric-id": 34
+            }
+          },
+          "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P4819$CA2DFD2A-1376-47CE-B9CA-3991A5C445C5",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "[0-9A-Za-z_]+"
+          },
+          "hash": "a4d5b8452079e49f73672046eb5adb23a2a49539",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P4819$834D3927-DFAB-4228-B7E7-5F5E674645DD",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "SPA"
+            }
+          },
+          "hash": "204f3d88ab2a4932f41a648afdd3abd3ff2f085b",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P4819$C6EE684A-9BC1-47A1-8B6B-CB1674AF927A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1090835",
+              "numeric-id": 1090835
+            }
+          },
+          "hash": "f7a0fac9bd5ab09646f923a57d8a291f6636bc4e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4819$0D49F401-EB42-44BB-930E-601B80D59096",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23810",
+              "numeric-id": 23810
+            }
+          },
+          "hash": "69ced38e823c0373da35e97b7c0670d6b1d6376d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P4819$C919B2BB-F1E2-46B9-8933-42C158F5EEED",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://porträttarkiv.se/about"
+          },
+          "hash": "b0f868e8a1717c4f86026dd3f4762ccbe9c9fa17",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P4819$0B3387F7-DCCC-42CF-8CCA-B60AD12B29E6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "4837"
+          },
+          "hash": "a87ce401fc8004a6a4d822f5ba79347b7a31f039",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P4819$F2526AFE-62A0-4FA1-A4A5-BDE4280A9F3E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4819$37E06108-489D-439D-943F-B1FB52003737",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4819$6E821AF3-0303-4755-84E7-C88488D2ED3E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4819$C7F91EA1-0A5F-4D8A-B1DE-9C26A2028B07",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P4819$89C0CC89-AF53-420C-B659-FB7303A28932",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47948424",
+              "numeric-id": 47948424
+            }
+          },
+          "hash": "b6d91375be933479dab8e08ec87466b657c64634",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P4819$61FEEA7F-07F0-49B2-A3F8-9E4B722ED8B2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611288",
+              "numeric-id": 23611288
+            }
+          },
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P4819$024B051A-E861-4265-AC51-1FC2A0376D62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4819$2AA77308-41A4-4FC9-9DE1-8BF8515BB166",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19595382",
+              "numeric-id": 19595382
+            }
+          },
+          "hash": "98246fd755b911933faa8ad1f754df6a4955aa38",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P4819$98518FCC-FCCE-4423-BB9F-C5BECA342814",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Svenskt_Porträttakiv"
+          },
+          "hash": "99da759f94ef83cb9683fe882b77e902b9ca4617",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3303": [
+      {
+        "id": "P4819$560F1209-ADF7-4712-91D6-56749C9F7ABF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://portrattarkiv.se/endpoints/portraits.php?id=$1"
+          },
+          "hash": "f6cce244a1c3b878e774a630dc1568d6462ecd92",
+          "property": "P3303",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P407": [
+      {
+        "id": "P4819$CE888F80-9869-4514-8B22-38CD938E3CE9",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9027",
+              "numeric-id": 9027
+            }
+          },
+          "hash": "e41efcf0acaa18ea8fca63b87e2e0c24618f5664",
+          "property": "P407",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P4819$2CAC7FF7-1191-4963-B52E-A83BA4E46F64",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/portrattarkiv\\.se\\/details\\/([0-9A-Za-z_]+)"
+          },
+          "hash": "6a0bf28547d016ce6ba0831fa09b4ecad62f983a",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P4819$99E72EBB-9F33-42D2-95B1-7E51AE0C9853",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47948424",
+              "numeric-id": 47948424
+            }
+          },
+          "hash": "774dd498261991893e158e2a4b955ea4c0c95c0a",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар асобы ў Швэдзкім партрэтным архіве"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a person in the Swedish Portrait Archive"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Identifierare för ett arkiv med över 800 000 scannade äldre bilder"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Portre Arşivi'ndeki bir kişi için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для особи у шведському архіві портретів (Porträttarkiv)"
+    }
+  },
+  "id": "P4819",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مكتبة الصور السويدية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Швэдзкага партрэтнага архіву"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Svenskt Porträttarkiv"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schwedisches Porträtarchiv"
+    },
+    "en": {
+      "language": "en",
+      "value": "Swedish Portrait Archive ID"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ruotsin muotokuva-arkiston tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Svenskt Porträttarkiv"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Svenskt Porträttarkiv"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Swedish Portrait Archive"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Шведски портретен архив"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Svenskt porträttarkiv"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Svenskt Porträttarkiv-identificatiecode"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Svenskt porträttarkiv"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç Portre Arşivi kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Svenskt Porträttakiv"
+    }
+  },
+  "lastrevid": 17395154,
+  "modified": "2025-09-10T05:12:29Z",
+  "ns": 862,
+  "pageid": 192064,
+  "title": "Property:P4819",
+  "type": "property"
+}

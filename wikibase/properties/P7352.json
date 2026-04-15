@@ -1,0 +1,580 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "جينوكي"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "ID GENUKI"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P7352$F84D3D6E-A2CF-487F-BDC8-3BA30F534FD9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.genuki.org.uk/big/$1"
+          },
+          "hash": "084277e90e9a3b0a22332c20de0ae77e3dd6cfdf",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P7352$6D8822C4-6A14-4CD4-BF20-CDB15666D305",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 7659, 'id': 'P7659'}"
+          },
+          "hash": "d2656a9a1d5b742693288fb652c342f9201750c0",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P7352$14B9E08A-8B1F-4760-8F20-C5730817FE31",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145",
+              "numeric-id": 145
+            }
+          },
+          "hash": "a44880420787fb348836dc51d3babc5227c4ef7e",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P7352$EEDC3E91-6BA6-4C72-AA4A-A699432F9BFF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^(wal|sct|eng|iom|irl|chi)?(\\/?[A-Z]{3}){0,3}(\\/\\w{0,256}){0,4}$"
+          },
+          "hash": "45e1dcf50255645f6cd88a9952f53f7975f5aa79",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "P7352$CA94BCFC-968E-4F23-81A7-1B5671FA0D79",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "GENUKI"
+            }
+          },
+          "hash": "6ff1a129431b65f85d859f80112a073f24b63be4",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P7352$B551E996-137D-4714-A7EC-8C023D44CF16",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22",
+              "numeric-id": 22
+            }
+          },
+          "hash": "78b8dac1c6c773e42976bb07be2e3ddf9523c52d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$7869FFCF-26BE-468C-898A-631A2F4FE7CB",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31830",
+              "numeric-id": 31830
+            }
+          },
+          "hash": "ac3d20bbabf5b5601b9ca1094735a9f9225c1a1b",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$E2617F8E-ED80-4C82-91AD-E82902ACE033",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5568223",
+              "numeric-id": 5568223
+            }
+          },
+          "hash": "a1b05aa70c435a3c2813e9fe351eb68827057569",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$1F51B01A-B4F3-41E5-B5F7-35678620D842",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17802721",
+              "numeric-id": 17802721
+            }
+          },
+          "hash": "5653e06c78eb631b5ba3a919b6543a4bfd793fd1",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$0A4E2DD2-C644-44A2-92C4-3ABD080EFFCD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "e5bd4ce702a2d3216acffd7ecf1da25afc28ec7d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P7352$85F5AB4C-6470-45D1-9FBC-47026A43A08D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.genuki.org.uk/"
+          },
+          "hash": "675437f333c5382ac2f1cdfa0b70f239a96ebc32",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P7352$2C883217-904C-4CBD-BA69-188B6ABCAA74",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$A2674018-1D4B-4179-A71C-90B09D444632",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$0188EF8E-126F-43AC-8891-059A90B1A164",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$2A11D85B-162E-47EE-8853-25C2B85794EC",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$09A347D5-EB95-4B26-A591-8A53773FE266",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$69BDF6FA-4BAF-4DB5-84D7-802AE1FF805E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P7352$8952C915-5141-4CFC-AFC6-AAB853CE7FF0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873974",
+              "numeric-id": 21873974
+            }
+          },
+          "hash": "1b97f07ea808523c58f82502c2df4a8afbb9a31c",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P7352$058015C8-FE19-40B5-88F1-A7EAD15C6D67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829914",
+              "numeric-id": 19829914
+            }
+          },
+          "hash": "6adb438a068e138bf88634a242b78f18a0a1201e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$1A2D2936-1617-432F-A1B4-4D5B73546771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7352$FF0F159D-4F36-497E-95B3-3719931315CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P7352$49F63D6F-8B4F-437C-AC82-10A3FE2A79BE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/GENUKI_ID"
+          },
+          "hash": "358a3cbd231572ac75c7e0b84b8b0eaa214d30aa",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P7352$C404E6B6-BEBF-4F85-B566-E772B0EDB0CD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?genuki\\.org\\.uk\\/big\\/((wal|sct|eng|iom|irl|chi)?(\\/?[A-Z]{3}){0,3}(\\/\\w{0,256}){0,4})"
+          },
+          "hash": "8a0ff114cfb7dda93b1a1822cb54b98ad35e81d4",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P7352$33DA306C-7F15-451B-ABA0-ED32B896F22F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5513177",
+              "numeric-id": 5513177
+            }
+          },
+          "hash": "9dc2877c1ac2e5cb0d66f20be18f57a70cd112b0",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар брытанскага ці ірляндзкага месца на бачыне GENUKI.org.uk"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a UK or Irish place on the GENUKI.org.uk website"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "identifier for a UK or Irish place on the GENUKI.org.uk website"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Identifiant d'un lieu britannique ou irlandais sur le site Web de GENUKI.org.uk"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "GENUKI.org.uk ウェブサイト上の英国またはアイルランドの場所の識別子"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator miejsca w Wielkiej Brytanii lub Irlandii na stronie internetowej GENUKI.org.uk"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "GENUKI.org.uk web sitesindeki Birleşik Krallık veya İrlanda yerinin tanımlayıcısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для місця у Великій Британії або Ірландії на веб-сайті GENUKI.org.uk"
+    }
+  },
+  "id": "P7352",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف جينوكي"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар GENUKI"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador GENUKI"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "GENUKI"
+    },
+    "de": {
+      "language": "de",
+      "value": "GENUKI ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "GENUKI ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "GENUKI ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant GENUKI"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador GENUKI"
+    },
+    "id": {
+      "language": "id",
+      "value": "penanda GENUKI"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "GENUKI ID"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "GENUKI ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "GENUKI-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator GENUKI"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "GENUKI kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор GENUKI"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID GENUKI"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "GENUKI编号"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "GENUKI编号"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "GENUKI編號"
+    }
+  },
+  "lastrevid": 17395218,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192039,
+  "title": "Property:P7352",
+  "type": "property"
+}
