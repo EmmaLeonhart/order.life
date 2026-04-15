@@ -24,6 +24,72 @@ chapters that sit under the broader `muhammad.md` / Islam arc.
   *is* on the ground. The syncretism is where the life of the religion
   lives; the purist reading is a thin top layer.
 
+## Consolidated "Islam in Asia" chapter — firm
+
+This is now **firm** rather than an option. One consolidated chapter
+(or short sequence) covering the spread of Islam into India, China,
+and Southeast Asia, with the syncretic framing as the through-line.
+
+The chapter must include:
+
+### Wali Sanga (Java)
+
+The Nine Saints of Java — Sufi missionaries who brought Islam to
+Java by absorbing rather than replacing the Hindu-Buddhist substrate.
+Gamelan used in dakwah, wayang Islamicized, pre-Islamic court ritual
+preserved inside the new religious frame. Promoted out of the
+might-include bucket — this is the showcase case for the syncretic
+framing and belongs in the Islam-in-Asia chapter. See
+`southeast-asia.md` for the longer notes.
+
+### Confucian-Islamic syncretism in China (Han Kitab)
+
+The Hui scholarly tradition — especially 16th–18th century figures
+like Wang Daiyu, Ma Zhu, and Liu Zhi — reframing Islamic doctrine in
+Confucian and Neo-Confucian vocabulary. The *Han Kitab* ("Chinese
+Books") corpus explicitly mapped Islamic concepts onto Confucian
+ones: tawhid through the language of *li* / *tianming*, Muslim ethics
+presented as aligned with Confucian virtue ethics. This is
+Confucianism-and-Islam-as-compatible rather than Islam-replacing-
+Confucianism. Cleanest case in East Asia for the syncretic framing
+working in both directions.
+
+### Xiao'erjing and Hui literacy
+
+Xiao'erjing (小儿经, "children's script") — an Arabic-based script
+used by Hui, Dongxiang, Salar, and other Chinese Muslim communities
+to write Chinese. Because Arabic script is phonetic and hanzi are
+logographic, Xiao'erjing gave Hui children a *phonetic on-ramp* into
+literacy that Han peasant children didn't have access to. The
+reported consequence: Hui Muslim communities had materially higher
+hanzi literacy rates than comparable Han peasant populations in the
+same regions, because children who started with Xiao'erjing could
+then transfer that literacy into hanzi more readily than children
+starting with hanzi cold.
+
+The Gaiad should name this. It's a concrete, specific, textural
+example of how a religious minority's educational practice produced
+a downstream literacy advantage — the sort of detail that pays its
+weight.
+
+### India (open)
+
+The Islam-in-Asia chapter needs India content, but the specific hook
+is not yet chosen. Candidates:
+
+- Indo-Islamic synthesis under the Delhi Sultanate — Amir Khusrau as
+  a specific figure, the Hindustani language as a syncretic product.
+- Bhakti-Sufi overlap — shared saints, shared poetic vocabulary,
+  Kabir and Guru Nanak as boundary figures (Nanak belongs in the
+  post-1453 Sikhism material per `scope-caveats.md`, but Kabir is
+  gap-era).
+- Sufi shrines as sites of Hindu-Muslim shared devotion — Ajmer
+  Sharif, etc.
+- Nizamuddin Auliya and the Chishti order specifically.
+
+The chapter needs *something* for India; exact choice lands at the
+writing desk. Flagged here so the India slot isn't forgotten.
+
 ## Big coverage of Sufism
 
 - Sufism develops through the gap era (8th–13th centuries and onward)

@@ -18,9 +18,10 @@ All four of these are in the might-include bucket. See
 `southeast-asia.md` for the longer write-ups. Default is defer to
 modern SE Asia coverage.
 
-- **Wali Sanga (Nine Saints of Java).** Strongest SE Asia case —
-  fits the syncretic-Islam frame cleanly. Likely folded into a
-  consolidated "Islam in Asia" chapter rather than standalone.
+- ~~**Wali Sanga (Nine Saints of Java).**~~ **Promoted to
+  must-include** — now a required component of the consolidated
+  "Islam in Asia" chapter. See `islam-syncretic.md` and
+  `must-include.md`.
 - **Angkor / Jayavarman VII / the Bayon faces.** Mahayana imperial
   project at its peak and its collapse. Visually iconic; narratively
   thin without a bridge text.
