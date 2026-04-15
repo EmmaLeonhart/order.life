@@ -77,6 +77,9 @@ desk.
 
 ## Gateway ancestors (genealogical spine)
 
+- [`gateway-ancestor-ubiquity.md`](gateway-ancestor-ubiquity.md) —
+  cross-cutting meta: why ubiquity (not secrecy) is the Gaiad's
+  genealogical premise.
 - [`charlemagne.md`](charlemagne.md) — European bridge.
 - [`bustanai.md`](bustanai.md) — Jewish / Persian / Islamic triple
   bridge via the Exilarch × Sasanian princess marriage.
