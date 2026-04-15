@@ -80,7 +80,10 @@
       "Bash(gh api:*)",
       "Bash(gh workflow:*)",
       "Bash(git show *)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(awk '{print $1}')",
+      "Skill(schedule)",
+      "Skill(schedule:*)"
     ]
   }
 }
