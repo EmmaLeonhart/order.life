@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Jing"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q74275$6D04AE8D-4DB8-4E4F-B709-27BA73789D5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q79076",
+              "numeric-id": 79076
+            }
+          },
+          "hash": "d2cae9d0980eadee1f7c4141caa073cdf1c82c1c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74275$A43868F8-608B-4414-BEE7-05E57A110449",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q79079",
+              "numeric-id": 79079
+            }
+          },
+          "hash": "1f102c1f0f3f26a4befa2739d8a8b1a9777a173d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74275$A45254E4-1101-40B8-BC7F-5FCBAE292E59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74275$324E031B-FD1F-4D55-80D1-6DD5B3D214F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74275$3AF0301B-3ED7-4998-AE5C-BEC600FC4F9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69573",
+              "numeric-id": 69573
+            }
+          },
+          "hash": "c618cd284b0916bd57a70e2a23d99c6d34598971",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74275$AB60B67A-2A74-40F0-A694-03252E250B42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74275$31C91384-2D34-48B3-A20F-5F8E7288A6AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0883-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2bb72210c35e65a4e76af6c1697181366af94230",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74275$D5418ACB-9D34-40F5-82C8-A851F5DCB98C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45448020"
+          },
+          "hash": "65979543937df4db0169b4783bc001afbb3fcffd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74275$31AE6F27-38D3-4E54-A2B7-87479F1F26D6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Jing Arms.svg"
+          },
+          "hash": "68bc49978eebd298ee666170dd05c0a6332e50cc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187550"
+    }
+  },
+  "id": "Q74275",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Jing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Jing"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Jing"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李璟"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Jing"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李璟"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李璟"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李璟"
+    }
+  },
+  "lastrevid": 17487148,
+  "modified": "2025-09-16T18:58:58Z",
+  "ns": 860,
+  "pageid": 89106,
+  "sitelinks": {},
+  "title": "Item:Q74275",
+  "type": "item"
+}

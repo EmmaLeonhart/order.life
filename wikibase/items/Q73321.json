@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Doi Toshitomo"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73321$2D82EBD9-1E51-471B-BB80-5D964232773F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "土井-24"
+          },
+          "hash": "effb64f56e33a7593191514cbae3d089221004c7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73321$861BCB2C-898F-4EA4-A16B-8E54D8C72C19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73321$0065FBC9-ED59-4078-AD47-EA9FF8D13422",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73321$2962BA6F-1635-4D41-9E78-08F21BFB7AE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68439",
+              "numeric-id": 68439
+            }
+          },
+          "hash": "cabb959aef8c8b0d90335051d119442fed2cad67",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73321$1F31E716-9A5D-4A31-BF46-7E4D7735DB0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73321$F49B5952-63CC-49AE-A120-53A0D86ACF3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1851-07-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bdd9a2557a668ad81b3b8498ef78b47d944037d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73321$84755C52-D478-4ECA-B260-4C1685E9CEC4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1929-01-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6c70b722231d52d9768fd5e150390eebfdec0a4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73321$0B338A59-F13B-457C-906C-8D17C931C0FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10524107"
+          },
+          "hash": "43a8a24ee0016366138f3738f7b3259cdb456705",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73321$5D8BD310-C563-4A83-93B6-2FA98C94643E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Doi Toshitomo Arms.svg"
+          },
+          "hash": "b33c660f751fd4ff3ac2a8f8cec8bc0a8af166a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "26 Jul 1851 - certain 2 Jan 1929"
+    }
+  },
+  "id": "Q73321",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Doi Toshitomo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Doi Toshitomo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Doi Toshitomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Doi Toshitomo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Doi Toshitomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土井利与"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тоситомо Дои"
+    }
+  },
+  "lastrevid": 17486050,
+  "modified": "2025-09-16T18:43:38Z",
+  "ns": 860,
+  "pageid": 88152,
+  "sitelinks": {},
+  "title": "Item:Q73321",
+  "type": "item"
+}

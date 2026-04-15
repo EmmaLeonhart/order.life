@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Wu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q59394$307F30F9-CB0A-40D6-B27F-361447ACB987",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64773",
+              "numeric-id": 64773
+            }
+          },
+          "hash": "b15b689f78c8239e8d235cb4e31bbc0aeeb50ed4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59394$6C87C1EB-FB88-4D23-99C0-84BA42891A06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64776",
+              "numeric-id": 64776
+            }
+          },
+          "hash": "3530394038024d587f358f90d8589ddbf8ae0069",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59394$B04C3A91-2D6F-4ED9-9961-EC4ED98293A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64779",
+              "numeric-id": 64779
+            }
+          },
+          "hash": "b9ed95bacf25ef48f5e2adeb3e36a05066e4623d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q59394$CD6C2B5F-A513-41CA-9510-1FE508508556",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59394$B5743927-0436-4128-8600-1C8122232A59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q59394$13C9BAEA-B274-499B-ACB0-031089C39715",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52575",
+              "numeric-id": 52575
+            }
+          },
+          "hash": "b1c5f5aff8f4cb281b128bbff3be107a7f23becb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q59394$812D13A5-A56B-4899-AAEB-143DF9B34C00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q59394$829E5968-0293-43B6-AE81-4A988988EE83",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0735-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2977336025923f1995451807d429ef64de5cb940",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q59394$C4902A68-D69A-40AF-833C-F48127AECF5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45471142"
+          },
+          "hash": "66f1dbca7286ee926b9e5bb8dd59568e4502276d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q59394$71CBFF20-219B-484B-8DD6-3EF62C423547",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Wu Arms.svg"
+          },
+          "hash": "5a817e140eacdbbef7d2b0ae53dcfbd2416cae68",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172062"
+    }
+  },
+  "id": "Q59394",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Wu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Wu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇務"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Wu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇務"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦务"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇務"
+    }
+  },
+  "lastrevid": 17468206,
+  "modified": "2025-09-16T14:22:18Z",
+  "ns": 860,
+  "pageid": 74225,
+  "sitelinks": {},
+  "title": "Item:Q59394",
+  "type": "item"
+}

@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yu Dewei"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65367$6FBD8EED-85B5-474B-A664-4B1061632361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70420",
+              "numeric-id": 70420
+            }
+          },
+          "hash": "3546503d1a29132457d6cd1e915ab2c4dd42ba2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65367$3C62D00C-5C7C-4E0A-9FA1-7B7D554E5A95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70417",
+              "numeric-id": 70417
+            }
+          },
+          "hash": "0521729edd21f591fd1964482cf10f1eba3c6258",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65367$35918FBF-2D8E-4A93-97FD-E5A99092D736",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65367$D790DBB3-9FBE-4B30-8A58-5367CF1B6B37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65367$37FAFDDA-B123-411F-896B-EC20B1B43AC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59685",
+              "numeric-id": 59685
+            }
+          },
+          "hash": "b8c1c00173ecdfded75d3253fee4d0b0139ea209",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65367$9D2150E8-B886-4A9B-ADB5-DE96DCB4E2B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65367$85B643AB-1C53-447E-96B6-51D4F0CCA9F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0664-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "642876d777a75f20c44c76983f511c818649bb9d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65367$144AC0CB-B4CA-4CED-8A50-81001D4611D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45481316"
+          },
+          "hash": "9be3fe4a5ebca08393abaee28171b64617f59c8b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65367$6A2DA696-2C1F-4519-A42C-AD70E30EF46A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yu Dewei Arms.svg"
+          },
+          "hash": "096d4df8563095b171d0ca7bb2edd5965de75b23",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 177577"
+    }
+  },
+  "id": "Q65367",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yu Dewei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yu Dewei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "于徳威"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "于德威"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yu Dewei"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "于德威"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "于德威"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "于德威"
+    }
+  },
+  "lastrevid": 17475780,
+  "modified": "2025-09-16T16:17:02Z",
+  "ns": 860,
+  "pageid": 80198,
+  "sitelinks": {},
+  "title": "Item:Q65367",
+  "type": "item"
+}

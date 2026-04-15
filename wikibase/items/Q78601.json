@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dongcheon"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q78601$C8ECAF88-BA5F-4497-9C08-8ECFAD9AB654",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78601$27848FC1-CA61-4848-984C-F0697BE2F828",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78601$FA8780AC-09B9-40F3-B93D-BA7445980EA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73865",
+              "numeric-id": 73865
+            }
+          },
+          "hash": "3280e51447da956b92cfc5a873901633ecde362a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78601$68C1CDDA-271C-49D0-8D55-9A0560D9590D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78601$1C0DBF2A-8BE9-4C58-BA73-7E0E01FFEC36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0209-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c981cea48b8ca374477ad62fe84ea9ac360798e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78601$5B83E400-D905-4E91-B81D-181B828AEA2D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0248-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fa253e230b8cbbfad74abf9b30a86d44f47a3566",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78601$EEAB4F46-486F-4197-BA25-75D28FB14F62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q498590"
+          },
+          "hash": "51adb3c170d6b1ccb20f233e58924fe24e84ea1e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78601$4E33B062-A13B-4F20-9C12-536EDD3956D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000028246704477"
+          },
+          "hash": "1bcbe68d6eee736dc04efab2d43767a62af40db2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78601$3D674FF4-77AA-417E-A26D-D02039C43A9F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dongcheon Arms.svg"
+          },
+          "hash": "4205899acffbe280435431c50e3590fa30aeac05",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Goguryeo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Goguryeo dynasty king of Korea from 227 to 248"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kogurjo királya"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "高句麗の王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고구려의 11대 왕"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Правитель Когурьо"
+    }
+  },
+  "id": "Q78601",
+  "labels": {
+    "ckb": {
+      "language": "ckb",
+      "value": "دۆنگچیۆنی گۆگۆریۆ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dongcheon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dongcheon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dongcheon of Goguryeo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه دانگچئون"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dongcheon de Goguryeo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tongcshon"
+    },
+    "id": {
+      "language": "id",
+      "value": "Dongcheon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東川王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "동천왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "東川王"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Tong-chhoan-ông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Dongcheon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dongcheon"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Dongcheon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dongcheon"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Dongcheon"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าทงช็อนแห่งโคกูรยอ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тончхон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đông Xuyên Vương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "东川王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "东川王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "東川王"
+    }
+  },
+  "lastrevid": 17492640,
+  "modified": "2025-09-16T20:16:14Z",
+  "ns": 860,
+  "pageid": 93432,
+  "sitelinks": {},
+  "title": "Item:Q78601",
+  "type": "item"
+}

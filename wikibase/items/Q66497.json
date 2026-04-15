@@ -1,0 +1,948 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "[3] Aisha  bint Abi Bakr"
+      },
+      {
+        "language": "en",
+        "value": "[3] Aisha  daughter of Abi Bakr"
+      },
+      {
+        "language": "en",
+        "value": "Aisha"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q66497$1FD53DE5-3683-4A3E-8C32-A633CFF51CDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "228917"
+          },
+          "hash": "1a85e5d7832d24113e3a07a92daf5d01f826f283",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q66497$E6A14AD2-8344-45C6-B5A9-E943461400BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66500",
+              "numeric-id": 66500
+            }
+          },
+          "hash": "42dc9b51939a181ac0d7ae48c1362ca6280d4c1a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q66497$AEDF70AD-166C-4B2B-B096-84ABD91CC51D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bint_Abi_Bakr-1"
+          },
+          "hash": "a031552e64f89aa01af80ba5c580086ec2600352",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66497$8B385AAE-1EB1-4B9B-813F-F8296DAE406A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66497$1A0E4FA2-A043-457B-8A22-C404DB1255A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q66497$7B7D9A94-CD51-44B0-A256-56FD221AA647",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65705",
+              "numeric-id": 65705
+            }
+          },
+          "hash": "89bc04fd457802dbb045e7b633d35264a61bc3bc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66497$585946BF-6D0F-4082-86C2-33A339F2F9B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66889",
+              "numeric-id": 66889
+            }
+          },
+          "hash": "71ce4fe2df9ac9266ac49b93f12e8e51725f3a57",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66497$3BB15DDD-4D2F-4559-8B10-8D41E8FF4EE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66245",
+              "numeric-id": 66245
+            }
+          },
+          "hash": "431c6434216ce2ccf2f9488456dbeed285ebff86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66497$8F176CF5-8F09-49D2-99A2-ADF0A531E14D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67307",
+              "numeric-id": 67307
+            }
+          },
+          "hash": "92522b69a5136e8cc60343d0b036d1a56b7cfacd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q66497$1A3A348B-5E6E-49DC-A5EB-AE5217D72573",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "[3] Aisha /bint Abi Bakr/"
+            }
+          },
+          "hash": "944f3fa361fe980d5bc530fade186a10d03ca1d4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66497$9ABC63DC-0C3C-46E2-A999-540D9C8B59ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q66497$68A11EB2-2B1E-40B8-BA38-03E48E427374",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0605-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b92832343193cf1d7c0401f98736d1aa9a8f6157",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66497$F532ABA0-AEFB-4BF3-8149-CAA09A12317A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0678-07-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55c0af6a3beb19b34958036d3d6b5fdff08be306",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66497$F19A2FAB-4C52-A299-1B0E-61FA7A492728",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4730963"
+          },
+          "hash": "17f3de65b7e0a317ba1ddda9d358fff838bbccd1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66497$B462FB27-BF86-4025-9B5E-6B120C3A387B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aisha Arms.svg"
+          },
+          "hash": "77f77e3be88cb6986b74c5f739577c0846d1bc2b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الزوجة الثالثة لمُحمَّد وابنة أبي بكر الصدِّيق أوَّل الخُلفاء الراشدين (19ق.هـ – 58 هـ / 604–678م)"
+    },
+    "as": {
+      "language": "as",
+      "value": "পইগম্বৰ মুহাম্মদৰ তৃতীয় পত্নী"
+    },
+    "az": {
+      "language": "az",
+      "value": "Məhəmmədin xanımı, Əbu Bəkrin qızı"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Мәхәммәд пәйғәмбәрҙең өсөнсө ҡатыны"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মুহাম্মাদ ইবনে আব্দুল্লাহ-এর তৃতীয় স্ত্রী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "esposa de Muhàmmad i sahabiyya (companya de Muhàmmad)"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Мухьаммадан зуда, Абу Бакр ас-Сиддикъан йоӀ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "nejoblíbenější manželka Mohammeda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lieblingsfrau von Mohammed und Tochter des späteren Kalifen Abu Bakr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Muhammad's third wife (c. 613/614 – 678)"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "wife of Mohammad"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "favorata edzino de Mohamedo"
+    },
+    "es": {
+      "language": "es",
+      "value": "tercera esposa de Mahoma"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سومین همسر محمد و دختر ابوبکر (۹ ق.ه–۵۸ ه.ق)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Muhammedin vaimo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "troisième épouse de Mahomet"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "terceira esposa do Mahoma"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "D Lieblingsfrau vom Mohammed und Dochder vom spöötere Abu Bakr"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "y trass ben heshee lesh Mahommad"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "matan annabi Muhammad ta uku"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मुहम्मद की पत्नी और ख़लीफ़ा अबु बक्र रजी की बेटी"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "jedna od Muhamedovih žena"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mohamed próféta legkedvesebb felesége"
+    },
+    "id": {
+      "language": "id",
+      "value": "istri ketiga Nabi Muhammad"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Nwunye Muhammad"
+    },
+    "it": {
+      "language": "it",
+      "value": "sposa del profeta Maometto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムハンマド・イブン＝アブドゥッラーフの3番目の妻"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Jina Muhemmed pêxember"
+    },
+    "la": {
+      "language": "la",
+      "value": "uxor Mahometi"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "viena no Muhameda sievām"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "sahabat dan isteri Muhammad"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "en av konene til Muhammed"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "echtgenote van Mohammed"
+    },
+    "nqo": {
+      "language": "nqo",
+      "value": "ߞߋߟߓߊ߫ ߡߊ߬ߡߊ߬ߘߌ߫ ߡߏ߬ߛߏ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "żona proroka Mahometa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "terceira esposa do Maomé"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "третья жена Мухаммеда"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "محمد جي زال"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "najljubša Mohamedova žena in hči poznejšega kalifa Abuja Bakra (ok. 613/614–678)"
+    },
+    "so": {
+      "language": "so",
+      "value": "mid ka mid ah xaasaskii nabi maxamed ahna gabadhii abuu bakar sadiiq"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "முகம்மது நபியின் துணைவியருள் ஒருவர்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "савумин ҳамсари Муҳаммад"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Muhammed'in üçüncü eşi"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "زوجہِ محمد، دخترِ ابوبکر"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Muhammadning uchinchi xotini"
+    }
+  },
+  "id": "Q66497",
+  "labels": {
+    "ace": {
+      "language": "ace",
+      "value": "'Aisyah binti Abu Bakar"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "عائشة بنت أبي بكر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "عائشه بنت ابى بكر"
+    },
+    "as": {
+      "language": "as",
+      "value": "আইছা বিন্ত আবু বকৰ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Aisha bint Abi Bakr"
+    },
+    "av": {
+      "language": "av",
+      "value": "ГӀаиша бинт Абу Бакр"
+    },
+    "az": {
+      "language": "az",
+      "value": "Aişə binti Əbu Bəkir"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "عایشه"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Ғәйшә бинт Әбү Бәкр"
+    },
+    "bew": {
+      "language": "bew",
+      "value": "Aisah"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Аиша"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আয়িশা"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Aiša bint Ebu-Bekr"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Àïxa bint Abi-Bakr"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Ӏаишат бинт Абу Бакр"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "عائیشە"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Áiša"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Aisha"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aisha"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aischa bint Abi Bakr"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Aischa bint Abi Bakr"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αϊσά"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aisha"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Aisha"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Aisha"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aiŝa bint Abi Bakr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aisha bint Abi Bakr"
+    },
+    "et": {
+      "language": "et",
+      "value": "‘Ā'ishah"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Aisha"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "عایشه"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Nana Aisha bnt Abubakar"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aiša"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aïcha"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aisha (bean Mhahamad)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aisha"
+    },
+    "gor": {
+      "language": "gor",
+      "value": "Aisyah"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Aischa bint Abi Bakr"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Aisha"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Aisha"
+    },
+    "he": {
+      "language": "he",
+      "value": "עאישה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "आयशा"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ajša"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ajsa bint Abu Bakr"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աիշա բինթ Աբու Բաքր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aisyah"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Aisha"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aisha"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アーイシャ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Aisyah"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აიშა ბინთ აბუ ბაქრი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Айша"
+    },
+    "km": {
+      "language": "km",
+      "value": "អៃសា"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಆಯಿಶ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아이샤"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "حضرت عائشہ"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Aîşe"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Айша"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aisa Abubecri filia"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Aischa"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "ʿĀʾisha"
+    },
+    "lo": {
+      "language": "lo",
+      "value": "ອາອິຊະ"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Aiša bint Abu Bakr"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Aiša"
+    },
+    "mad": {
+      "language": "mad",
+      "value": "Aisyah"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Aisha bint Abu Bakr"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ајша"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ആഇശ ബിൻത് അബൂബക് ർ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "आयशा"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Aisyah Abu Bakar"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Aishah"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aisha"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aïsja"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Aisja"
+    },
+    "nqo": {
+      "language": "nqo",
+      "value": "ߊߌߛ߭ߊ߬"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "A’isza"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "عائشہ"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "عايشه بنت ابي بکر"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aicha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aicha"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Aischa bint Abi Bakr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аиша бинт Абу Бакр"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "عائشه"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aiša"
+    },
+    "si": {
+      "language": "si",
+      "value": "අඉශා"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Áiša bint Abí Bakr"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "عائشہ بنت ابی بکر"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ajša"
+    },
+    "so": {
+      "language": "so",
+      "value": "Caa'isha binti Abiibakar"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ajshja"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Aiša"
+    },
+    "su": {
+      "language": "su",
+      "value": "Aisyah"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aisha"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Aisha"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஆயிஷா"
+    },
+    "te": {
+      "language": "te",
+      "value": "అయేషా బింత్ అబూ బకర్"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Оиша бинти Абубакр"
+    },
+    "th": {
+      "language": "th",
+      "value": "อาอิชะฮ์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Aisha"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aişe"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Гайшә"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "ئائىشە بىنت ئەبى بەكر"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аїша"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "عائشہ بنت ابوبکر"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Oysha"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Aisha"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "阿伊莎"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "阿伊莎"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Aisha"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿伊莎"
+    }
+  },
+  "lastrevid": 17477274,
+  "modified": "2025-09-16T16:39:24Z",
+  "ns": 860,
+  "pageid": 81328,
+  "sitelinks": {},
+  "title": "Item:Q66497",
+  "type": "item"
+}

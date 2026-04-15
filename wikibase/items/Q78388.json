@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "前田清人"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q78388$68BA396D-2E1E-40B6-BBCE-022F3B20A058",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78388$F99E1A3A-D61F-4410-8BB6-FB1804CC061F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78388$76CDB723-1FDE-43D5-84C4-FC53464F32F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73651",
+              "numeric-id": 73651
+            }
+          },
+          "hash": "bb717734d80b16dcf1f13fdf4bba02ca93e6acfd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78388$5AEB8C8D-3542-48BF-93CB-3FC0EFC11269",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78388$15623F75-BA05-4F09-8433-E3D47E0A911D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1864-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1914df2161dec05b69d0e90145b8865708180c74",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78388$DAF8280A-52B5-4FC8-8627-7FCB75051708",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1902-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "852d24bed426ceb7eff75ed8211825fbe5888bc6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78388$C729EFBC-F91D-41EE-AD3B-B60623B78BB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110064671"
+          },
+          "hash": "2fcf5ccfe2ff7e7c0835e3735d1c5b510b0bf412",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q78388$83D4C3DF-C60F-4387-B795-43EB83604925",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Kiyoto"
+          },
+          "hash": "ee5e7aabd96867c934d6ca53b1fc08909b8c77ba",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78388$AEC852C5-6098-4026-9CD6-F7E4D4AEAB2A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Kiyoto Arms.svg"
+          },
+          "hash": "237101815b90779cd6883bc6f57bc655e1488189",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "前田案山子の次男"
+    }
+  },
+  "id": "Q78388",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeda Kiyoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田清人"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Maeda Kiyoto"
+    }
+  },
+  "lastrevid": 17492420,
+  "modified": "2025-09-16T20:13:06Z",
+  "ns": 860,
+  "pageid": 93219,
+  "sitelinks": {},
+  "title": "Item:Q78388",
+  "type": "item"
+}

@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Hu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q65095$AA92EC25-EBCE-4ADF-8255-4F201BB6374A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65095$A3D35174-499E-46A5-9C39-F82968051AFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q65095$B5A5EC2A-5927-4703-A39D-A1EB9FC5D502",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59553",
+              "numeric-id": 59553
+            }
+          },
+          "hash": "6e693d66724d7c78dc5637992d9df56f46c631c8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65095$FB0DDE9C-1ECD-4E8E-8236-1CE1514620C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70222",
+              "numeric-id": 70222
+            }
+          },
+          "hash": "f7bfbd5aaa52787f6c590a97bd2fe14e6c52b875",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65095$20FF6F33-5304-4A30-BB42-5064B6129BB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65095$EACF4B79-50AD-4DB1-B526-57D7EC5D6CE3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0501-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b19cfb6a5691ddad6221f3e8e4d0ec2e8c01e8f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65095$C4EFC330-6F4D-482E-A6CC-EE2A32293B1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5374536"
+          },
+          "hash": "c333b6491b1577794f81a0379454278ebf0a7ab2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65095$2950A036-0AC4-437B-AA19-B84A081A8F80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Hu Arms.svg"
+          },
+          "hash": "2a1f00c2b103d43c097eb756da018166288312d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese empress"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "魏孝明帝元诩的皇后"
+    }
+  },
+  "id": "Q65095",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Hu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Hu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "胡皇后 (北魏孝明帝)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Empress Hu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Empress Hu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hồ Hoàng hậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "胡皇后"
+    }
+  },
+  "lastrevid": 17475420,
+  "modified": "2025-09-16T16:11:47Z",
+  "ns": 860,
+  "pageid": 79926,
+  "sitelinks": {},
+  "title": "Item:Q65095",
+  "type": "item"
+}

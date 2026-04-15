@@ -1,0 +1,327 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gungsrong Gungtsen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q58770$F8709064-3FFF-403E-BAC4-ADAD141FD7CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "548193"
+          },
+          "hash": "6da545130bcaf26a1cc4ef3eff6070e61ecaeb8e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q58770$7A9C6876-88A4-4885-9705-3EF03E7E377A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61157",
+              "numeric-id": 61157
+            }
+          },
+          "hash": "7c2d279a84201bd499efc8c3c5f4d70183f9324c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q58770$C72FCCE3-85F6-43C1-873E-91933DBA881D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58770$10C28C77-BFA2-437F-8CE6-CD30953A187B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q58770$976FF1A1-9559-41F2-BF10-A2C1B720623A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58767",
+              "numeric-id": 58767
+            }
+          },
+          "hash": "855c7c7ae9f7e52d819a58746d44b72a1a2cbd84",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q58770$29C3F7BF-7564-4F99-92DA-92D8482CBAB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51996",
+              "numeric-id": 51996
+            }
+          },
+          "hash": "3b969570f37cc904ef52a232224e2429dd8993fc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q58770$6A8ADB96-773A-4C73-A6DC-CA2071CCED9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q58770$57E42812-54E5-4691-9304-19F40A1E2018",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0601-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cfaa7e548413f90d6a01cd0bdf6633f40d6933a8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q58770$3A578297-C2CC-4B84-9269-55A26F9EE14E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0649-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0091c05de457d44600bc19a8e890c89e59ac0f36",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q58770$FD9A499C-6D1B-486B-81ED-E2784B0CE2CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q673423"
+          },
+          "hash": "b3229647ffe14c6b06ee401ab67d239f8a218ef9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q58770$1C75521B-87F1-47B1-90C3-A980E18277E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gungsrong Gungtsen Arms.svg"
+          },
+          "hash": "1dc246ef1d1530cafec8228b64287374e402650b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Θιβετιανός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tibetan emperor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q58770",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "গুং-স্রোং-গুং-ব্ত্সন"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "གུང་རི་གུང་བཙན།"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gungsong Gungcän"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gungsrong Gungtsen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gungsrong Gungtsen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gungsrong Gungtsen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gungri Gungtsen"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gungsrong Gungtsen"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gungsong Gungtsen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グンソン・グンツェン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "궁송궁짼"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gungsrong Gungtsen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gungri Gungtsen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gungsong Gungtsen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gungsong Gungtsen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гунсонг Гунцэн"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "共松共赞"
+    }
+  },
+  "lastrevid": 17467384,
+  "modified": "2025-09-16T14:09:42Z",
+  "ns": 860,
+  "pageid": 73601,
+  "sitelinks": {},
+  "title": "Item:Q58770",
+  "type": "item"
+}

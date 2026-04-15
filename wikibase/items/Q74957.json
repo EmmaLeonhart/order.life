@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zheng Shuzu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q74957$AD6385F2-DDEF-452A-B48E-9C42532D0154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q79729",
+              "numeric-id": 79729
+            }
+          },
+          "hash": "2260e8d38890ab13ad649f547246a6d023133cbd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74957$E03A9C94-973B-4AF0-A988-982BA8B1DD27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74957$712958B5-4523-4644-804B-E98E364A4C75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74957$D465B8F0-CF01-47BE-AF38-D6BD16CCF9FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70468",
+              "numeric-id": 70468
+            }
+          },
+          "hash": "022fb1a758f7a780bf629043f71e2cf128a90cd4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74957$B6538274-5380-4849-9E2F-364C4A98C99A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70471",
+              "numeric-id": 70471
+            }
+          },
+          "hash": "aaa4e1c552b0dc19c9932e17c1dd5063ec421dd2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74957$55020754-588A-404A-A8B4-5D44C508DAEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74957$74F3FD0C-172D-450A-A610-621C8FF9C7AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0485-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d370f25ef7cb170804ae635524e1ff67e4aa5d10",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74957$55B1FD04-3D26-442D-A98D-417628885CC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26197393"
+          },
+          "hash": "ce19717ea19cbf3b35b8106fcefb13e95f66c3b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74957$80D615A0-75C0-49CB-BF5B-B28096252317",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zheng Shuzu Arms.svg"
+          },
+          "hash": "e52981fabf0d93c2d935a8f2e82506e12e1b9f64",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 152492"
+    }
+  },
+  "id": "Q74957",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zheng Shuzu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zheng Shuzu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zheng Shuzu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鄭述祖"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "鄭述祖"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zheng Shuzu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "郑述祖"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "郑述祖"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "鄭述祖"
+    }
+  },
+  "lastrevid": 17488023,
+  "modified": "2025-09-16T19:10:49Z",
+  "ns": 860,
+  "pageid": 89788,
+  "sitelinks": {},
+  "title": "Item:Q74957",
+  "type": "item"
+}

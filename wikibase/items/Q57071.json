@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nagayasu"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q57071$D4BB5DD5-24CB-4843-A0EF-60D4F537B9E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-43"
+          },
+          "hash": "9f2fdc23047d7d141fd7ed5a6b5444d74ed1e81a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q57071$0414AFDF-6A56-4122-9A6C-E7F206B2C66F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57071$CE53D6F8-F4B1-41DD-81BD-DC38515D577B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q57071$A67FA5A8-42B2-4F69-A428-7C1C956971AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48973",
+              "numeric-id": 48973
+            }
+          },
+          "hash": "9d95bafdad8391f07aceed5e8c5d65431dd28704",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57071$918DF1D3-6CAD-4304-8C6A-E5C9C58F961C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57071$C172A954-5C9A-4454-852F-B6E3F289245B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1801-02-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a33f87dd4f144ebe587ea7e0349e0fb4861a797b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57071$F1E20451-D31F-4493-A099-51FEA22665F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1879-03-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2336108c3cdb015a594c308b00b1eb5ec006a00d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57071$721FCE8B-329C-4C84-87C3-E5F6498377A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608447"
+          },
+          "hash": "beea4cfd5e8e0ba7b8562e30f8d7c095a1e38c1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57071$00776AD2-455B-4E57-93C4-FB9A60F4F104",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nagayasu Arms.svg"
+          },
+          "hash": "d0d4d409983b6779195f4af505b431fc73ce77c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[織田長恭] daimyo of the late-Edo period; 10th lord of Shibamura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大和国芝村藩第10代藩主"
+    }
+  },
+  "id": "Q57071",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oda Nagayasu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Nagayasu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Nagayasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田長恭"
+    }
+  },
+  "lastrevid": 17465660,
+  "modified": "2025-09-16T13:43:38Z",
+  "ns": 860,
+  "pageid": 71902,
+  "sitelinks": {},
+  "title": "Item:Q57071",
+  "type": "item"
+}

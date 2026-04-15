@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu son of"
+      },
+      {
+        "language": "en",
+        "value": "Liu Bin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q64515$C03583C5-93CC-4B22-A5DD-3BAAC96866AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64515$0475948A-D24B-4605-80AC-D4C09C29B902",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q64515$0825CE24-BFEB-4FA6-95C2-41DCB71AEB1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59039",
+              "numeric-id": 59039
+            }
+          },
+          "hash": "8ad9137a6ea01d7378a75ad98c8a4d599e8144bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q64515$CCF0ECB8-14A1-4C33-91E5-D3EF7C505809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69735",
+              "numeric-id": 69735
+            }
+          },
+          "hash": "bab102aa3058d7ef2b9661b7cd3f18bba07a3dc0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q64515$C72C9C59-3AE7-410E-8849-763EFEDFD101",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q64515$741EDCA3-A430-48AE-8B1A-3415B486578D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q64515$99D85F87-DC68-4B4E-BF0C-26938E8431A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45420298"
+          },
+          "hash": "e21e511435417818a08d520039077bf89690e8d4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q64515$A8FB8021-E564-4A41-8613-83D6F54B482C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000048526050859"
+          },
+          "hash": "4281caceaa25bf6e600c7ddedefd2778725069bc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q64515$FA24490F-D097-41E0-8C75-EEAAB99E91EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Bin Arms.svg"
+          },
+          "hash": "2988522f6cad9e420cca6ba35b40c7f854a48c00",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Zhou person CBDB = 31768"
+    }
+  },
+  "id": "Q64515",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Bin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Bin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Bin"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "柳斌"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Bin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "柳斌"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "柳斌"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "柳斌"
+    }
+  },
+  "lastrevid": 17474652,
+  "modified": "2025-09-16T16:00:32Z",
+  "ns": 860,
+  "pageid": 79346,
+  "sitelinks": {},
+  "title": "Item:Q64515",
+  "type": "item"
+}

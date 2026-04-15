@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mitsugi Akitsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68071$6365A8D0-E5B1-4A47-928C-00F6E29554E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68071$135D0127-88BE-44FF-AE88-E4470B3EF6E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68071$0CADE7C2-C94D-4ABB-A195-88654BF6A991",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68068",
+              "numeric-id": 68068
+            }
+          },
+          "hash": "27af2f36606d7d92851348217e5e65e118a5d9c2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68071$0025CF5E-9E23-4B05-B1DA-1D21223DFB4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68071$5FAC9411-7964-4916-8C4C-B397ADD629FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1545-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc1c57fca909411b15253e63b4b9ec020fb7b2a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68071$DA39B667-38A9-4CB0-9301-97E0A2D1D72B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1583-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01184dd3fdf6dadcde0385f735f493c80b07c744",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68071$FEE04658-BEC3-4AC7-B825-3026684936D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11355719"
+          },
+          "hash": "0815e988f481937d6700530d0779e09ae70c67bd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68071$926226D2-4EC6-4A08-BDD3-798F8EEE71D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mitsugi Akitsuna Arms.svg"
+          },
+          "hash": "c90c66a81a95e29e8f13ecfe749ee2a9e2611cc4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Befehlshaber"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai of the Sengoku period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将 (1545-1583)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1545 – 1583)"
+    }
+  },
+  "id": "Q68071",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Mitsugi Akitsuna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mitsugi Akitsuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mitsugi Akitsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "三木顕綱"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акицуна Мицуки"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mitsugi Akitsuna"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mitsugi Akitsuna"
+    }
+  },
+  "lastrevid": 17479372,
+  "modified": "2025-09-16T17:09:45Z",
+  "ns": 860,
+  "pageid": 82902,
+  "sitelinks": {},
+  "title": "Item:Q68071",
+  "type": "item"
+}

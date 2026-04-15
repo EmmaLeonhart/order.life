@@ -1,0 +1,429 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Orontes"
+      },
+      {
+        "language": "en",
+        "value": "Orontes II, king of Armenia"
+      },
+      {
+        "language": "en",
+        "value": "Orontes II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78911$EE187957-D9C7-4A67-B12C-1FAF5C709FE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139830"
+          },
+          "hash": "e2cdb7295e7d1b86f7f9eaf107448b21056a1b1e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q78911$B1F5D2BB-1825-4761-B1D1-FB28291370A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736422"
+          },
+          "hash": "aa2dea1e969a4d7801a27602cadc2457bf23ac1a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78911$92A1F6C4-504C-493B-9659-6A060D238B89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73752",
+              "numeric-id": 73752
+            }
+          },
+          "hash": "596054f1d9ece1c7b563d29f821829c7d7eefd99",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78911$090E3867-3676-473C-B761-7FFEDC5F2B97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78911$8569147E-BAE8-45C4-8109-69BA0506AA85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q78911$7F577C48-6224-485E-BC7E-FD99B8F8281C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Orontes_II_(1)"
+          },
+          "hash": "0de8895b3c364548a917ac043857a5d8e84d980d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78911$4E08EB58-8AA7-4C98-9681-757345E4EDB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78953",
+              "numeric-id": 78953
+            }
+          },
+          "hash": "daadce49cd6bdda95f4e857dba617989936f97e7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78911$AD8023B9-7054-49A0-B072-F7260A87BBE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78956",
+              "numeric-id": 78956
+            }
+          },
+          "hash": "a08b22c0025badefc0b074b9f352fc831f48a8e3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78911$4EB1AF72-8EC2-4144-83E3-D4D25C05F41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78911$A2C0608D-48FA-4A31-80CA-2E598AA90A54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78911$E56D9F6D-F43A-4955-9705-F9A77486F8A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0331-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f0374ca9064335fcf315a7cc71998e4e7cb7c86",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78911$11FC5069-66D2-491A-B672-B0049661CE98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1382490"
+          },
+          "hash": "18ddeeb0255b5b7a2534af9e7305756d31325b5d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78911$AB1FAF02-3F92-45BB-84A2-65372E350B26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645847714"
+          },
+          "hash": "6e04d0aacdf153375de09e741479a76709510be4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78911$50A49966-F429-4ADE-95F4-82AAD14F58BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Orontes II Arms.svg"
+          },
+          "hash": "67df7de1eaa1c815006f1f788e3452aaff3fbdb8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "Княз на Армения"
+    },
+    "de": {
+      "language": "de",
+      "value": "Satrap von Armenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Armenian king"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey armenio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نجیبزاده پارسی و پادشاه ارمنستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    }
+  },
+  "id": "Q78911",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "العاصى التانى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی یرواند"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Оронт II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Orontes II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Orontes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ορόντης Β΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Orontes II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Orontes II"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یرواند دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Orontès II"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Oront II."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Երվանդ Բ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Oronte II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オロンテス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იერვანდ II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Orontes II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Orontes II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Orontes II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ерванд II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Oront II."
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Orontes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Єрванд II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧龍特二世"
+    }
+  },
+  "lastrevid": 17492894,
+  "modified": "2025-09-16T20:19:49Z",
+  "ns": 860,
+  "pageid": 93742,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78911",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78911"
+    }
+  },
+  "title": "Item:Q78911",
+  "type": "item"
+}

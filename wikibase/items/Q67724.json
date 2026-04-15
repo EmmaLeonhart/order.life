@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Xiao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q67724$8C0F09F0-E3B7-41BF-B2A3-E7BE8E6CFDCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72725",
+              "numeric-id": 72725
+            }
+          },
+          "hash": "7645def9cd9ec403435bdbee176303ad85dbed40",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67724$0465B426-6777-49A0-8290-333556EB6F51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72728",
+              "numeric-id": 72728
+            }
+          },
+          "hash": "b159352594243a46244867b26a28917faf00d38d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q67724$1924676A-A79A-4C1B-923A-EB0B1B4C285E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67724$8F7D3F9E-C02B-43AB-9A51-8617F2970C7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67724$9A7D7FC2-36F7-45B5-B286-146ED9F13F2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62051",
+              "numeric-id": 62051
+            }
+          },
+          "hash": "0e5db9c04662e20ce1678e78518a70bf49f3d013",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67724$972504D0-2A1C-4A5C-A0B5-540B57B5D760",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67724$412F9F6F-5779-46CB-A5A5-191F8F03577E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0560-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e2c5bee8feb1925723a7e5a8c29fcb1e1e8729cb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67724$6741F727-8A76-4EC7-9FBC-0E1BEAFE620D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26158228"
+          },
+          "hash": "edb5420323751140e8cf07e31a9128ba46ed2d44",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67724$61910FB9-8D8B-4813-A488-A3E95C4C8A9E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Xiao Arms.svg"
+          },
+          "hash": "00997d5f74633618091f717071a8333118187707",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 173636"
+    }
+  },
+  "id": "Q67724",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Xiao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Xiao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Xiao"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李曉"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Xiao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李晓"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李晓"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李曉"
+    }
+  },
+  "lastrevid": 17478912,
+  "modified": "2025-09-16T17:03:26Z",
+  "ns": 860,
+  "pageid": 82555,
+  "sitelinks": {},
+  "title": "Item:Q67724",
+  "type": "item"
+}

@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei Ying"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q60697$6992337E-73A9-4D7E-94EF-AD020576D1D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66576",
+              "numeric-id": 66576
+            }
+          },
+          "hash": "5d5863f82d00c3ab1499305bb5da346236108aff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60697$2FA3194E-1602-4C8C-AD04-AE401F51E91B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66579",
+              "numeric-id": 66579
+            }
+          },
+          "hash": "df736d3506a1cfe251c2f52af49582b4125010cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60697$275F3AEC-688A-45DC-BC72-3EB24385641A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66582",
+              "numeric-id": 66582
+            }
+          },
+          "hash": "6973cb0a301dc877d7541f998838ca9f9c0b5336",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60697$30A88BB1-2818-4C26-B5F9-160B9DBAE852",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60697$72E3E22F-52F7-4053-974E-D78E1346D17A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60697$75ED325C-1F17-410E-89E2-1D466371BA66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53922",
+              "numeric-id": 53922
+            }
+          },
+          "hash": "c3cc28dd1575a84942980a2034a5f74429c3b172",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60697$ECA9EE34-DA6D-41EE-B377-F4B0D65FCF38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60697$45FC1815-8299-4D5B-B2F2-E42F440D110F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0747-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2153ec0d13758ff76772e61e729676b8c76289a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60697$B794FF8B-6869-45DD-B7FB-23995157429B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45668497"
+          },
+          "hash": "f6ef49ede6ce98dfb3af75a26e80b0f07efee933",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60697$F76140DA-85A9-4619-9FFB-A6CE822BC0D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei Ying Arms.svg"
+          },
+          "hash": "8f3e92bc27d0bbbcaabe084b92259ecb0b6a1785",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 181045"
+    }
+  },
+  "id": "Q60697",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wei Ying"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wei Ying"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei Ying"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋嬰"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei Ying"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韦婴"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦婴"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋嬰"
+    }
+  },
+  "lastrevid": 17469978,
+  "modified": "2025-09-16T14:48:31Z",
+  "ns": 860,
+  "pageid": 75528,
+  "sitelinks": {},
+  "title": "Item:Q60697",
+  "type": "item"
+}

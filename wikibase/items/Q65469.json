@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei Renzuo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65469$A7542AD0-4ED0-46C7-9F72-57C6F2910CFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70525",
+              "numeric-id": 70525
+            }
+          },
+          "hash": "4da2a5cd8501f3783421e2c06e0585604ffa3f19",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65469$D6F5E831-DBA1-4EE0-A596-BFCD96CE0802",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70528",
+              "numeric-id": 70528
+            }
+          },
+          "hash": "2f6bec75a6fdbdcdc4e52f8b23de8e3887aa7976",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65469$82C8B488-29F8-4BC8-9833-D5B26FE6A682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65469$827F4697-AD4A-45CC-86CE-A1FC88C72A4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65469$908F9431-5816-42BF-BA2E-D34CFD081F5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59775",
+              "numeric-id": 59775
+            }
+          },
+          "hash": "485ed26a03c547720c3246a29200be8d8734f7bf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65469$BAB9A10C-20E5-4FBE-BAF9-852CF2EBE804",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65469$D77AC216-CF1A-473C-8A86-32382F6BCC1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0667-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22c231a6e4115a9560aa90f0cfdbebc0231965ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65469$92C0B27B-4485-4248-AA26-1350073A4C8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45660180"
+          },
+          "hash": "910df45342c8d1fdc9aed33a31f86873f2bf6894",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q65469$66DE67CF-8A5D-4191-81A7-2DAF06C1895F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074759574093"
+          },
+          "hash": "22601670c4e024987ee0ceacb4dd3cc19c8f6964",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65469$A3DAA7C2-9F2F-46DD-B8D3-96E7DAA467BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei Renzuo Arms.svg"
+          },
+          "hash": "16fb63fd53607abdb1216a24e1619cbe28f0dc13",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180864"
+    }
+  },
+  "id": "Q65469",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wei Renzuo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wei Renzuo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei Renzuo"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋仁祚"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei Renzuo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韋仁祚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦仁祚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋仁祚"
+    }
+  },
+  "lastrevid": 17475916,
+  "modified": "2025-09-16T16:18:59Z",
+  "ns": 860,
+  "pageid": 80300,
+  "sitelinks": {},
+  "title": "Item:Q65469",
+  "type": "item"
+}

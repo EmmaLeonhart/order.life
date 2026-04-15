@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pei Wanhu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71108$C370C64E-32AB-4AD1-A723-00FD9D649A9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75906",
+              "numeric-id": 75906
+            }
+          },
+          "hash": "826b6b8e2cc7db07f538733d12bce15a16897e69",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71108$1F313AD5-F789-4A8E-B8DE-503BB44EDF59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75909",
+              "numeric-id": 75909
+            }
+          },
+          "hash": "6f3d85c67fa546de118f8c4acb75006b6788157a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71108$DE7D70C6-F665-4676-971A-AD862928D2B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71108$B20A0E14-8D8B-4F7E-B686-A481FBC9B9BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71108$5601F3BF-7A58-42EC-847D-B8440560CB61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66225",
+              "numeric-id": 66225
+            }
+          },
+          "hash": "7e26c5a8d35f3108b12b0a322b24b1de30c3e31c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71108$04DC6ED5-1F4A-470E-9D04-B4CE6C860D33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71108$8500FF41-89C8-4094-8699-03DEB9FCE963",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0343-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0615bd405a3a818e4844197dd2d7e5472a39e285",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71108$DF6F4C72-3656-4665-88E5-A6B9D82FE56B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45420462"
+          },
+          "hash": "2cdd3f39992c46356e9ae667da68cc8562fb3f73",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q71108$A9C57B28-88FA-4AA3-87BE-5A69737D6EDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075375495822"
+          },
+          "hash": "9ff39d506037b867e4eb4707586c493cd90f0294",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71108$7D151CCE-BB91-403B-A799-DA8AD83C6091",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pei Wanhu Arms.svg"
+          },
+          "hash": "5db958ab3edae44d163c948dd9cb3c4cf04dd0ec",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Liu Song dynasty person CBDB = 170906"
+    }
+  },
+  "id": "Q71108",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pei Wanhu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pei Wanhu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pei Wanhu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "裴萬虎"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pei Wanhu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "裴萬虎"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "裴万虎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "裴萬虎"
+    }
+  },
+  "lastrevid": 17483146,
+  "modified": "2025-09-16T18:02:41Z",
+  "ns": 860,
+  "pageid": 85939,
+  "sitelinks": {},
+  "title": "Item:Q71108",
+  "type": "item"
+}

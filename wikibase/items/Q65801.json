@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Fu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q65801$6281FE9E-8458-4B5B-B4F9-F8EBA2474131",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65801$2F1DBFB1-FE2D-4CCB-B056-8C1AB07C30FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65801$648A5D98-4922-4B68-A9B8-C48EF927DDF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60049",
+              "numeric-id": 60049
+            }
+          },
+          "hash": "53915ccb067afe4287b117e7101f68d7f807b1e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65801$DFAE02AC-DB04-46FF-B3CB-7DFD669C88E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65801$00F976B6-CFDF-4A59-9CE2-D470FB653688",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0529-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a8d5fea96c1146af09434e6c98a5d392e22ac84",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65801$D700FC68-219F-4F4F-B8C5-E296CE6E3FD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45506741"
+          },
+          "hash": "cbbffb9ac11282d7a46c8f1739efd5da0ec97981",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65801$4E2F1483-4966-4215-9263-99FEB27BE6D9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Fu Arms.svg"
+          },
+          "hash": "332a64e3f1da77f47cac5330b302ec11b37424f7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 193970"
+    }
+  },
+  "id": "Q65801",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Fu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Fu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Fu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭敷"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Fu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭敷"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧敷"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭敷"
+    }
+  },
+  "lastrevid": 17476352,
+  "modified": "2025-09-16T16:25:48Z",
+  "ns": 860,
+  "pageid": 80632,
+  "sitelinks": {},
+  "title": "Item:Q65801",
+  "type": "item"
+}

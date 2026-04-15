@@ -1,0 +1,651 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "蕭元簡"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q65952$35ADC000-BE97-4642-99B3-165919F4AF95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "141116"
+          },
+          "hash": "39fc0bd1b37512e5226998dad15bca05b53bfe9a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q65952$26959696-E2B9-48CD-9F7B-2920A6487A5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70783",
+              "numeric-id": 70783
+            }
+          },
+          "hash": "bba8821235b2100fecf0f493ac74400e37f9b005",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65952$4AC3F801-E7A0-4D35-87FD-35509BCE64E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65952$7F8057FB-DFD6-4E18-9753-E39A6F9BF4E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65952$5CD7F1C1-8AD0-4401-9FEF-630AAE092850",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60085",
+              "numeric-id": 60085
+            }
+          },
+          "hash": "e973626abf77a3a32125f9290ca9421f194c9b6d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65952$A3CE6C4C-61C6-445C-950A-C17B6B95CC99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65952$A25E859E-732D-4AC1-8DA3-2972F930A748",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0519-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3fec47ce7f1972a8b97fe5eab2e44e4e45e160b1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65952$B3566AE7-2C49-482D-AA72-0F89EC7F5ED4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q103860"
+          },
+          "hash": "21710622e9948053a4c22d1b824f2e678025d32a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65952$EAF3B7BC-2EC6-4DC7-B4B2-D03B8B071FAB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julius Nepos Arms.svg"
+          },
+          "hash": "477d5180bdab4fb5f830b1202c4a973904b29825",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q65952$CCAA684F-1132-412D-B217-007605AEE1D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/317CC3DB-A396-4ABE-B130-D881A9C0E3E0"
+          },
+          "hash": "3d3ef666e646f73ac3397812f99d8121ca53ecda",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي من روما القديمة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "západořímský císař (474–475)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Vestromersk kejser (474-475/480)"
+    },
+    "de": {
+      "language": "de",
+      "value": "letzter (von Ostrom anerkannter) weströmischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "αυτοκράτορας της Δυτικής Ρωμαϊκής Αυτοκρατορίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor (430-480)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano de Occidente (474-475)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Länsi-Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain d'Occident de 474 à 475"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Emperador romano entre 474 e 476"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "nyugatrómai császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "salah satu Kaisar Romawi Barat terakhir, yang berkuasa dari 474 hingga 475"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano d'Occidente (r. 474-475), dal 475 al 480 con autorità solo sulla Dalmazia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "5世紀のローマ皇帝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "West-Romeins keizer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz zachodniorzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Último imperador romano do Ocidente"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "zadnji (ki ga je priznal vzhodni Rim) zahodnorimski cesar (430–480); vladal je v letih 474 in 475"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "474-475 yılları arasında tahta çıkmış olan Batı Roma İmparatoru"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ (430-480)"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "西罗马帝国末代皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "中国古代历史人物"
+    }
+  },
+  "id": "Q65952",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Chulio Nepot"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوليوس نيبوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوليوس نيبوس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ژولیوس نپوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Юлій Непат"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юлий Непот"
+    },
+    "br": {
+      "language": "br",
+      "value": "Julius Nepos"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Juli Nepot"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Julius Nepos"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Julius Nepos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Julius Nepos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Julius Nepos"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Julius Nepos"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Julius Nepos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιούλιος Νέπως"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julius Nepos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Julius Nepos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Julius Nepos"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Julio Nepo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julio Nepote"
+    },
+    "et": {
+      "language": "et",
+      "value": "Julius Nepos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Julio Nepote"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژولیوس نپوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Julius Nepos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Julius Nepos"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Julius Nepos"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Julius Nepos"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xulio Nepote"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Julius Nepos"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליוס נפוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Julije Nepot"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Iulius Nepos római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հուլիոս Նեպոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Julius Nepos"
+    },
+    "is": {
+      "language": "is",
+      "value": "Julius Nepos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giulio Nepote"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユリウス・ネポス"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Julius Nepos"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იულიუს ნეპოტი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "율리우스 네포스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Julius Nepos"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iulius Nepos"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Julijus Neposas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Jūlijs Neps"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јулиј Непот"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Julius Nepos"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Iulius Nepos"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Giulio Nepote"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Julius Nepos"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Julius Nepos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Julius Nepos"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Julius Nepos"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Jules Niés"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Julius Nepos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Juliusz Nepos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Júlio Nepos"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Júlio Nepos"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iulius Nepos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юлий Непот"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Julius Nepos"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Julije Nepot"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Julij Nepot"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јулије Непот"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јулије Непот"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Julije Nepot"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julius Nepos"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Julius Nepos"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิยูลิอุส แนโปส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Julius Nepos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Julius Nepos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юлій Непот"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یولیوس نیپوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Julius Nepos"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "尼波斯"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "იულიუს ნეპოტი"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Julius Nepos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼波斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "尼波斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尼波斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尼波斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "尼波斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "尼波斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "尼波斯"
+    }
+  },
+  "lastrevid": 17476552,
+  "modified": "2025-09-16T16:28:45Z",
+  "ns": 860,
+  "pageid": 80783,
+  "sitelinks": {},
+  "title": "Item:Q65952",
+  "type": "item"
+}

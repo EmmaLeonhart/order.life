@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shalom ."
+      },
+      {
+        "language": "en",
+        "value": "Shalom II ben Hizkiya, Exilarch Interregnum"
+      },
+      {
+        "language": "en",
+        "value": "شالوم بن حزقيا"
+      },
+      {
+        "language": "en",
+        "value": "שלום בן חיזקיה"
+      },
+      {
+        "language": "en",
+        "value": "Shalom II ben Hizkiya"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86623$2BB94243-481A-420A-BF29-36FFA04A112D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86613",
+              "numeric-id": 86613
+            }
+          },
+          "hash": "d93c0aa6022e9fe1af8b7b147edc1384841c88c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86623$1B6861FD-A32D-4FA8-9AC9-F58B77BB6321",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91216",
+              "numeric-id": 91216
+            }
+          },
+          "hash": "74c628ccb5dfac86972b97a88601fec4cf19bdfc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86623$F3893BED-03DD-4148-8BB0-ABA4B7ECA9A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86623$49E0940F-6EB0-49CA-AE50-16352671F344",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86623$7EF8EA08-7584-4BD2-B127-1BB4496AAF7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86629",
+              "numeric-id": 86629
+            }
+          },
+          "hash": "fdf86ff38c146f37907c5d75f1e9a681fa3a8381",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86623$7DB2D08D-EB3C-4664-88A0-514D06B1290A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Shalom II /ben Hizkiya/"
+            }
+          },
+          "hash": "d37c1c5d9cfe14fbf489afb68ddd74d6e885ce9e",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q86623$DA2471F7-302D-4A62-B523-D798BE528FBD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Exilarch Interregnum"
+          },
+          "hash": "f8385379e86984f14868a5e34544881ef03053bf",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86623$15F243BB-232E-43E5-9621-09E5EE1B8E2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86623$130241AF-5823-438B-BDF2-AB2F6B870395",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q86623$47A76D86-D148-4380-961E-EBA1DF527D30",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86623$0E1FE226-B6FC-42B3-9FC3-0C33C2E90ECA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000802583215"
+          },
+          "hash": "f326a296ba8312f2e5356f100f68010baf383259",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86623",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shalom II  ben Hizkiya"
+    }
+  },
+  "lastrevid": 17501433,
+  "modified": "2025-09-16T22:19:40Z",
+  "ns": 860,
+  "pageid": 101454,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q86623",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q86623"
+    }
+  },
+  "title": "Item:Q86623",
+  "type": "item"
+}

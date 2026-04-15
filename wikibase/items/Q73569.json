@@ -1,0 +1,512 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Scipio"
+      },
+      {
+        "language": "en",
+        "value": "Consul (259 BC) - Lucius Cornelius Scipio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73569$E69020B3-8604-4BC3-B883-3B670F82B70A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735574"
+          },
+          "hash": "8c3d7bbc459b3b2c786bff69411cb30ad638a0d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73569$B9F98A53-3A5D-4B6F-BEFF-3894F6056B3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73443",
+              "numeric-id": 73443
+            }
+          },
+          "hash": "0161c88fba447b8f1ed4992900b8e1d1a008b1de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73569$95C8DCAF-5195-48D9-85CF-703443F546D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73446",
+              "numeric-id": 73446
+            }
+          },
+          "hash": "b72d73887725729f4babccec77934dcb47d67961",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73569$A8CEA799-378C-4B90-97A1-864AB1D77C68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151688",
+              "numeric-id": 151688
+            }
+          },
+          "hash": "3970b98667e701b48a5c7ee7f750c11850aeb847",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73569$E135D159-6B7A-43CF-B063-280EF39BA203",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73569$47ED6384-DAD3-49CA-BAAE-35A65DA53285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73569$CB211718-50F8-46B2-91A2-B2A45240A379",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Cornelius_Scipio_(consul_259_BC)_(1)"
+          },
+          "hash": "a56901eeb1c5c8d8d481e81c53dfb6bb44aad07b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73569$AF9AB982-2682-4ED3-A6F2-5A944AAB5A99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73572",
+              "numeric-id": 73572
+            }
+          },
+          "hash": "2db9fdae8990f09d0b763d73808c51e4ba1a0c55",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73569$790A0179-6713-4147-A503-54CDBC0981FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73692",
+              "numeric-id": 73692
+            }
+          },
+          "hash": "74c9a58c5ef9ee31e4c0bbb253ea15eb978704ac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73569$14C369C9-2662-4C2C-A5F2-2AC508691A4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73689",
+              "numeric-id": 73689
+            }
+          },
+          "hash": "0f00ed3f99d3ccd3bbd3c0d0de3f2d847e1427da",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q73569$C6082FB7-EC5A-4474-A94E-97D5BA429C5B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Consul of the Roman Republic"
+          },
+          "hash": "3d9503c1fedd4a6f42c451120c62ae89ca61c430",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73569$91D2042A-4E9F-46BB-8F3A-C151E2719F90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73569$56183FAE-4380-4A2F-A3F0-90481C59A864",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0306-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf147794cb560fc5fb2a5ccf6eb81afba8698b1a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73569$E07571D7-0320-47E6-8513-A4B092946777",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaeac8190272ae9883fce47a39902e2732445142",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73569$E8AE0442-92BC-43E1-8937-72496BC7564D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q708483"
+          },
+          "hash": "d1983e4c04531ecca9e0ce51e7247130a25eceb8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73569$B14D1634-ABDE-4E69-A7DD-3576EDAB895A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000030450162221"
+          },
+          "hash": "59ab94e9a99580045f1960a5fef6aa7403dcab62",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73569$B8DC0217-18F4-49D1-A3EF-E4C7F6095CE8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Scipio Arms.svg"
+          },
+          "hash": "98b4810aae194b1e728c690c73916b0fd7014ddd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Romeinse generaal en staatsman"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk statsmand og general"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 259 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Roman general and statesman"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 259 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 259 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kr. e. 259"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 259 a.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 259 v.Chr."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 259 года до н. э."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політичний, державний та військовий діяч Римської республіки"
+    }
+  },
+  "id": "Q73569",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Luciu Corneliu Escipión"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Сципион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Escipió"
+    },
+    "co": {
+      "language": "co",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κορνήλιος Σκιπίων (ύπατος το 259 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Escipión"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוקיוס קורנליוס סקיפיו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lucius Cornelius Scipio (konsul 259 SM)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Scipione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・コルネリウス・スキピオ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Cipião"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cornélio Cipião"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Сципион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Kornelije Scipion"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Сципіон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lucius Cornelius Scipio"
+    }
+  },
+  "lastrevid": 17486346,
+  "modified": "2025-09-16T18:47:42Z",
+  "ns": 860,
+  "pageid": 88400,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73569",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73569"
+    }
+  },
+  "title": "Item:Q73569",
+  "type": "item"
+}

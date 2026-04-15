@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kimotsuki Kanehisa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q57995$803CC4D2-F6D7-47C4-B850-AD3FC95FBC98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50642",
+              "numeric-id": 50642
+            }
+          },
+          "hash": "7e26c3ff9c4b16a62951a65a822df5b3b1af0557",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q57995$B13F5990-D609-443E-B6C5-B173CD851F03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57995$E3084DAC-9746-4AB1-B3BF-78F513C138A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57995$A4A8E6B5-4522-4D5B-8EDD-259789BC60EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57995$FB265D6E-7A49-4F03-8953-988655A32EC1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1473-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc56141fb7df16ca457d2089c9a340629f2e8b24",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57995$50B14E22-81EB-4E87-8FC5-51BEE56677B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1523-03-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bcf3ececc37b8f044542967fa0a21206760841a4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57995$B2049FF9-9F22-4E93-B1D6-0D40ED1D9498",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11611468"
+          },
+          "hash": "7f65a167c0f80ff2f113bda66df5241199e072f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57995$77E64F83-6744-433D-B228-4B233442204A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kimotsuki Kanehisa Arms.svg"
+          },
+          "hash": "a55814e64786cfdc81af9b39642773e81958900c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q57995",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kimotsuki Kanehisa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "肝付兼久"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Канэхиса Кимоцуки"
+    }
+  },
+  "lastrevid": 17466694,
+  "modified": "2025-09-16T13:58:52Z",
+  "ns": 860,
+  "pageid": 72826,
+  "sitelinks": {},
+  "title": "Item:Q57995",
+  "type": "item"
+}

@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shair bin  Habashiva"
+      },
+      {
+        "language": "en",
+        "value": "Shair son of  Habashiva"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q64957$CEC66015-19B2-443D-AB07-D1FDC3866E01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65793",
+              "numeric-id": 65793
+            }
+          },
+          "hash": "02e25ed975fdf05c9bdf6e3910b953aa065ab931",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q64957$8854FAA6-A3FA-400C-B368-570550C27928",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q64957$FE3899BB-6806-4479-9851-67F6677FD6FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q64957$6752EBD5-FD3D-4997-8F86-4970F7087FCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64942",
+              "numeric-id": 64942
+            }
+          },
+          "hash": "41704e9a55d0aeb3ee044a4b428801465035a5f9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q64957$4B9D2234-953D-4FA1-BAEA-7359A2D9BBFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64939",
+              "numeric-id": 64939
+            }
+          },
+          "hash": "3b1126696ed0191a0981e9a2ec2814ef900d057f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q64957$F41AF25D-0879-428F-B5B8-158053D2FE2D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Shair bin /Habashiva/"
+            }
+          },
+          "hash": "128321c862759d9ec9c14c10106b9b96e1a50e9b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q64957$7BA4882E-C800-434D-89A5-183013FF1902",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q64957$11AC567C-7C50-43D2-B70B-742886EB2BE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039132687788"
+          },
+          "hash": "62ef8ffb82c20b7e9c03952e0a0c570e5b8c27e2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q64957$DAC5F396-8ADC-4355-92E8-C128D954E01D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shair son of  Habashiva Arms.svg"
+          },
+          "hash": "9e3b6f7ea169b07f88849806a05dcb5feedf5e60",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q64957",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shair son of  Habashiva"
+    }
+  },
+  "lastrevid": 17475236,
+  "modified": "2025-09-16T16:09:11Z",
+  "ns": 860,
+  "pageid": 79788,
+  "sitelinks": {},
+  "title": "Item:Q64957",
+  "type": "item"
+}

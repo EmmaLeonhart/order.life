@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honjō Muneyoshi"
+      },
+      {
+        "language": "en",
+        "value": "Honjo Muneyoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73507$6BB65AB7-E096-4F33-AB3E-9D76F63C5697",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68717",
+              "numeric-id": 68717
+            }
+          },
+          "hash": "60fd2c535277bad64928a42ba14718d2e938718f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q73507$EBF72C89-012E-44B5-A9E5-0E3588B92895",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-496"
+          },
+          "hash": "e58d0493cd05790ea21467d50eab9f9fb1deab88",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73507$544F1A48-9795-49B6-B205-037A412A28BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73507$A6C9A766-EB6F-4EBD-AEA0-CC1E3A41B344",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73507$DBC90C3E-B5B0-4102-B89A-2EED49EACD7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73507$E5C6EF0D-885D-482B-887A-BCCFF1B9FA29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1867-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "efd67db9a19eab0f8ead2f68a5038dd3a9a6d178",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73507$7D7283FE-5F97-45D3-AEB6-5DE4E3951A1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48765508"
+          },
+          "hash": "6790f2e885179300a57b42c4fbf06aac5d30daca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73507$15B316FE-D324-4283-AD73-D7C03FF282EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honjō Muneyoshi Arms.svg"
+          },
+          "hash": "a59b5a834bff4f1a51dbb464c031f132f01f921d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "14 Mar 1867 - certain 9 Apr 1915"
+    }
+  },
+  "id": "Q73507",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honjō Muneyoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Honjō Muneyoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本荘宗義"
+    }
+  },
+  "lastrevid": 17486266,
+  "modified": "2025-09-16T18:46:36Z",
+  "ns": 860,
+  "pageid": 88338,
+  "sitelinks": {},
+  "title": "Item:Q73507",
+  "type": "item"
+}

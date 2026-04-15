@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Kui"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q67520$C0D887FC-45C7-4D4D-9462-D5D2A6F78EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67520$F062B2CB-B0E8-487A-A6AF-AEFFA796A191",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67520$2FED7AFE-8BAD-4C92-9662-CA4DE377462F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61938",
+              "numeric-id": 61938
+            }
+          },
+          "hash": "98e0929a839f42b2374334a612d999201a19aa74",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67520$B13E7B19-A015-4873-B3A6-C5B33169C6BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q67520$9D300ABE-496F-4189-8BE2-55B0D20F5A05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0848-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "07fac0aa704f98d8fb2dc87710037d418313564b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67520$89F04779-9271-4E40-9668-D38A62B8119A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0870-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c894c59fca228617a20b07281c7d505a60afeed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67520$AA5FAAB0-1152-45EA-8CBF-82ED9C5F895F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45459985"
+          },
+          "hash": "be59a81da6b7d5c91273aac8f6cb4bc95362bd83",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q67520$7DB7EAE9-4FBF-4C08-A49D-2CF8FEFE4DC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074752762985"
+          },
+          "hash": "81cc945435781397398ec328594e64f8d3141078",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67520$B095DA66-EE0F-48C1-9E77-191D7297703C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Kui Arms.svg"
+          },
+          "hash": "113349d426ba6b52814e7523326d249fd0c8aa60",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 145419"
+    }
+  },
+  "id": "Q67520",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Kui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Kui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Kui"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉夔"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Kui"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉夔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘夔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉夔"
+    }
+  },
+  "lastrevid": 17478640,
+  "modified": "2025-09-16T16:59:35Z",
+  "ns": 860,
+  "pageid": 82351,
+  "sitelinks": {},
+  "title": "Item:Q67520",
+  "type": "item"
+}

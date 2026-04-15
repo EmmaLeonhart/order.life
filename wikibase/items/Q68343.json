@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Terunori"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68343$ABE3CFF7-3517-49AA-AADC-C9D8B9A8E043",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62739",
+              "numeric-id": 62739
+            }
+          },
+          "hash": "09f85ea4c825b6435a66339772c6e65686ce1582",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68343$2DF2A559-F937-4AC5-A606-BC0EA931F36B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68343$75AA3D95-7C4A-4ED6-A406-942B175ADAC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68343$2044F0FF-535C-4B31-B59E-FFCC5A86D1D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68343$955F47D0-AFD6-4BBB-B84B-C00272C9E03D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1682-07-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94f928129699f62280721b7638073ce310182f00",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68343$D296338D-544E-43FC-8BF0-D095F3D7D081",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1756-03-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8e7e652962e28b46ca0583a5c5234c9146374e96",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68343$4C92A53F-62A4-4454-AE9B-68C7E0C4170C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530603"
+          },
+          "hash": "ce30fdcf2ea81621fc57ba9a4ab8e20e337d8a6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68343$EE32A3D1-A7CC-49A1-964A-AA338CE2205E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Terunori Arms.svg"
+          },
+          "hash": "c57275bec15bf6701f61573fc18469d39b21c173",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q68343",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Terunori"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Terunori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Terunori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平輝規"
+    }
+  },
+  "lastrevid": 17479722,
+  "modified": "2025-09-16T17:14:33Z",
+  "ns": 860,
+  "pageid": 83174,
+  "sitelinks": {},
+  "title": "Item:Q68343",
+  "type": "item"
+}

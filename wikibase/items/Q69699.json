@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Zhongkui"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q69699$D91F08D5-F053-4FAF-BE67-59105C98CFCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74390",
+              "numeric-id": 74390
+            }
+          },
+          "hash": "b8ee42c8c095bda1d3ac0760798e9c4ed7ee2fa4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69699$5B65C3BD-5F4D-4E91-9CB9-6165AC2377C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74387",
+              "numeric-id": 74387
+            }
+          },
+          "hash": "cc237c9e44112dc9caf30d4b3ddd557994d82573",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q69699$3D09AE74-E969-4798-ABEB-D08457C8DD2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69699$BDAA765A-D8D8-4314-A994-CE284AFA4AE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q69699$79B5BBFD-8C3D-4754-A12B-C8E80174491B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64467",
+              "numeric-id": 64467
+            }
+          },
+          "hash": "4655deea0b7d8a53c99264fcbda65de4abb91ae5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q69699$30D6944C-BA70-46BD-A713-7FAA032F94B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q69699$98B42504-D4F2-47B8-8CED-30C953A4DA29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0488-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a50688de9c559749b0b2b96c1315f04013d8892",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q69699$F6BB4161-E67D-4E7F-91FF-A94A93C3A72D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45491123"
+          },
+          "hash": "a5fbdf8b918f4724f71a43e3f2b2e082c41b6f87",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q69699$A976D016-256E-4FC7-950D-E08CA10182EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Zhongkui Arms.svg"
+          },
+          "hash": "76db94e3c6c98ce1ed52a99c0ea2b87da54604ea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 172415"
+    }
+  },
+  "id": "Q69699",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Zhongkui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Zhongkui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Zhongkui"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊鍾馗"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Zhongkui"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊鍾馗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨钟馗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊鍾馗"
+    }
+  },
+  "lastrevid": 17481320,
+  "modified": "2025-09-16T17:36:43Z",
+  "ns": 860,
+  "pageid": 84530,
+  "sitelinks": {},
+  "title": "Item:Q69699",
+  "type": "item"
+}

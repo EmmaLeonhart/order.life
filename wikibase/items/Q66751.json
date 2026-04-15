@@ -1,0 +1,533 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Aelius Hadrianus Afer Hadrian"
+      },
+      {
+        "language": "en",
+        "value": "Publius Aelius Hadrianus Afer"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q66751$12B42E14-428E-4083-85D8-AA7D26B1870D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "361689"
+          },
+          "hash": "ce121b04552431a03f1bccf59f77b0f015ecde10",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q66751$4F5BB29E-7C91-4B75-86AD-2E1CA378117C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446835"
+          },
+          "hash": "3e9b3005689a8b04fe9be7279fac5d177237273a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q66751$3B73E6E4-6C6D-45F2-B60E-B8EBE1FE4DC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65489",
+              "numeric-id": 65489
+            }
+          },
+          "hash": "d84a3a8455da379ded149579512f665da95fd8e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66751$041D9CD6-6127-4D9E-9C82-9B83906E9EC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144380",
+              "numeric-id": 144380
+            }
+          },
+          "hash": "04db1c6d61dc11e6cb3df98bb09e325377a4884a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66751$6AA8B472-EF09-47B2-A9AD-31ADCA62BBEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66751$A751FC50-544B-47FB-9E37-61368BFDC2DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q66751$32D876CF-37DB-449E-A8C1-D87977239A6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66718",
+              "numeric-id": 66718
+            }
+          },
+          "hash": "01f54546701231a259100fda899ced89a4361aab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66751$94C0A18C-3FBA-4B16-87A3-9AD5859DA1B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68190",
+              "numeric-id": 68190
+            }
+          },
+          "hash": "e9d130f1b92f4c01efe5b8231a2143064440594f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66751$6DB27DC5-872D-41DA-B9F1-036AFBC0ED04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68157",
+              "numeric-id": 68157
+            }
+          },
+          "hash": "0c0ee1bab3d400fec7ad0053943d1850285f1f14",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66751$806182B2-D2CD-484C-9DA1-889B2F02469D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70095",
+              "numeric-id": 70095
+            }
+          },
+          "hash": "5d4dcc88aa01ae0fe920aec0ba2f7ee95a33de1e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q66751$13B49340-7734-4F83-A94E-585DB713572F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman Senator"
+          },
+          "hash": "a3f2ce2097bcbb8a9db342177a97f24f9881f817",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66751$54E20467-FEA7-4623-8CD9-1E2CB1CE5A50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q66751$3637117A-C27E-4D5E-97F4-66930DB37A4F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66751$57FF114E-3AD8-44B9-A606-95D6F86D82D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0086-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ca33bb920cfe6a93d3ca53fb3dcfc47c1fcea7d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66751$0CEA6FDD-6203-4074-B03C-DF5D4B5CA8FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2280800"
+          },
+          "hash": "cca982ac48ab3ef42433328f2d32eb6b8b2ac289",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66751$7AA9B6D4-38C2-4EC4-846A-451DBCA0D8B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006101317642"
+          },
+          "hash": "cc3158c34618b0fce710aebc66101835023dd8fd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q66751$0BB15E9F-B170-4126-93B4-5BF241D67186",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Aelius Hadrianus Afer"
+          },
+          "hash": "00dd5d64b5528130071e6efc713f969f065922e5",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66751$6026AD5F-42DD-42A3-A6F3-C9B60B3C23CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Aelius Hadrianus Afer Arms.svg"
+          },
+          "hash": "380500b2e6bf17962b89a0f38e87a304f42abd88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "tad yr ymerawdwr Hadrian"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator, Vater des römischen Kaisers Hadrian"
+    },
+    "en": {
+      "language": "en",
+      "value": "father of emperor Hadrian"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sénateur romain, père d'Hadrien"
+    },
+    "it": {
+      "language": "it",
+      "value": "senatore romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "senator roman și soldat"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "отец императора Адриана"
+    }
+  },
+  "id": "Q66751",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Публій Элій Адрыян Афер"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Елий Адриан Афер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Αίλιος Αδριανός Άφερ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Elio Adriano Afro"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס איליוס הדריאנוס אפר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "id": {
+      "language": "id",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Elio Adriano Afro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アエリウス・ハドリアヌス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "푸블리우스 아일리우스 하드리아누스 아페르"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Élio Adriano Afer"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Élio Adriano Afer"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Publius Aelius Hadrianus Afer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Элий Адриан Афр"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利乌斯·艾利乌斯·哈德利安努斯·阿费尔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普布利乌斯·艾利乌斯·哈德利安努斯·阿费尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普布利烏斯·艾利烏斯·哈德利安努斯·阿費爾"
+    }
+  },
+  "lastrevid": 17477612,
+  "modified": "2025-09-16T16:44:38Z",
+  "ns": 860,
+  "pageid": 81582,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q66751",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q66751"
+    }
+  },
+  "title": "Item:Q66751",
+  "type": "item"
+}

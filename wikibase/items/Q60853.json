@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Shi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q60853$7E25446E-A094-4675-B24D-39426611DCBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60853$5A21BD13-B597-4473-A1C7-EFED2E7926D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60853$298C018A-4F0A-4E94-872E-B9F482BC6203",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54098",
+              "numeric-id": 54098
+            }
+          },
+          "hash": "4d80bea85227fe5fd50b0a009c6c83b2abacd8ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60853$D99FD790-A844-4B28-A9CA-B44FCB78B209",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60853$394487B1-0CBD-4F1A-A71C-ADBD2873032F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0821-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "feacf410c657b14f168cf6c80b68ceab32b50314",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60853$BE6C524D-065E-48B8-8242-5006CAC4864F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0838-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f728f19e045e24bd9ecd2fd9aa9d7292c49c273",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60853$84E217B4-9157-42B8-B77E-BA6C32B30E7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65803764"
+          },
+          "hash": "89b20e1c7afa861bb0495a11356b341ce220f893",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60853$A40C5C69-BA6B-41A3-8465-5210E3736AA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075060683083"
+          },
+          "hash": "2e54eb306d1a51129d05021d70bca4999442cfc6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60853$EDB28D41-A843-4E6B-908E-3C04018E254B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Shi Arms.svg"
+          },
+          "hash": "ac626566154006896c6d1bf5b6bc50b518748caa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daughter of Li Li Ze"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李立則女"
+    }
+  },
+  "id": "Q60853",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Shi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Shi (hija de Li Li Ze)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李氏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李氏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李氏"
+    }
+  },
+  "lastrevid": 17470186,
+  "modified": "2025-09-16T14:51:34Z",
+  "ns": 860,
+  "pageid": 75684,
+  "sitelinks": {},
+  "title": "Item:Q60853",
+  "type": "item"
+}

@@ -1,0 +1,203 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q35403$B2249C31-1FF9-4150-8B6A-22BBB9E4532D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35403$D377F88F-B83D-45F2-B978-95579AD2D3F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q35403$3D82C462-8E63-4909-87FF-79E9E3263056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33350",
+              "numeric-id": 33350
+            }
+          },
+          "hash": "ad92dd3ee859ed5c60edb04d611bad33f77d4713",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q35403$C1FBAFBB-5A2F-435F-AB68-7CA403E2A0E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93494",
+              "numeric-id": 93494
+            }
+          },
+          "hash": "3a37be24f4e1df7be8c8efbb66b1a6a3410aa641",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q35403$F06DACCC-8775-471A-B8EF-E8CE32A0887C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "María /de Cervantes/"
+            }
+          },
+          "hash": "c2e69d7d881d9c1ae00975e6a4f3986d90725d5a",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q35403$28D86089-42A5-464E-9ECE-32F6266F0D84",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "monja en la Concepción de México"
+          },
+          "hash": "c50a4b0a8f30986956b3e40b067a3f746e1f4f3e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35403$FD55EA74-9BCE-412D-BC3B-9F9D7FE926C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q35403$1AF1F4C0-C319-4ECE-BB4C-3F0BF501263F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000085326984934"
+          },
+          "hash": "eedf75a038778678cc1b4e86c03e59fc46adda38",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q35403$6E13C96A-C303-4E18-9764-F26779302BD7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria  de Cervantes Arms.svg"
+          },
+          "hash": "67d5b21b100b0ffb233f60a84ed2ace30ce1c45f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "monja en la Concepción de México"
+    }
+  },
+  "id": "Q35403",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maria  de Cervantes"
+    },
+    "es": {
+      "language": "es",
+      "value": "María  de Cervantes"
+    }
+  },
+  "lastrevid": 17436992,
+  "modified": "2025-09-16T06:46:25Z",
+  "ns": 860,
+  "pageid": 54257,
+  "sitelinks": {},
+  "title": "Item:Q35403",
+  "type": "item"
+}

@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Sima Maoying"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q80080$4F94056F-2E02-42B9-9129-876AC00AFA83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q80080$8E907CFB-9C58-47B3-950F-68CE34C0AC42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q80080$FACF3C81-F735-4BD0-A472-3A864145C3E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75338",
+              "numeric-id": 75338
+            }
+          },
+          "hash": "9623db5fde6207fd1a4f0c2f35ed198b4f1fc4f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q80080$5AC850D9-008A-4CFD-B554-6051605CE8B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q80080$D86E825C-2391-4466-89D9-4A2ADBD691CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0393-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ee88e89cea77abc64ca3bb81ff313b1c7c71eb1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q80080$4CA41DE5-4B30-4870-9D0C-8A719966F16A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0439-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "947f7538b151dd9e64a51ed2964a5865b078290b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q80080$8BA533B7-9BD2-4F9E-8A75-83BB2FB3C233",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q855782"
+          },
+          "hash": "337a21d8312522e6754b3f6f6faa499e540efe01",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q80080$75B218B9-305A-4306-86FC-C2E16D2EC7CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Sima Maoying Arms.svg"
+          },
+          "hash": "5b84e4f168c51702e5c520f8f153cad856a3fbc3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Liu Song empress"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "супруга китайского императора Лю Ифу"
+    }
+  },
+  "id": "Q80080",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sima Maoying"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Sima Maoying"
+    },
+    "es": {
+      "language": "es",
+      "value": "Empress Sima Maoying"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sima Maoying"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sima Maoying"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "司馬茂英"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Empress Sima Maoying"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сыма Маоин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Carica Sima Maoying"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tư Mã Mậu Anh"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "司馬茂英"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "司马茂英"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "司馬茂英"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "司馬茂英"
+    }
+  },
+  "lastrevid": 17494419,
+  "modified": "2025-09-16T20:40:47Z",
+  "ns": 860,
+  "pageid": 94911,
+  "sitelinks": {},
+  "title": "Item:Q80080",
+  "type": "item"
+}

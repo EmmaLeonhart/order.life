@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Ben"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q66387$07820CFD-A3EB-4677-A770-86D044CAB7BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71252",
+              "numeric-id": 71252
+            }
+          },
+          "hash": "10c601704c803723676dc0d5428b8cefd3d9267f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66387$4F96D64B-5B60-46C3-B161-5CB19C2A2F01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71255",
+              "numeric-id": 71255
+            }
+          },
+          "hash": "145339c1d68fdeb4b7c46fa48cc524877176844b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66387$EF9C908A-2BEE-4D83-9657-D4FC21A26A9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66387$F0E38ECC-BDFB-4E75-932D-249CCAD4A9C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66387$2E35F10C-D51D-42F2-B9A2-BBFEC5FCAE2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60559",
+              "numeric-id": 60559
+            }
+          },
+          "hash": "1ef5ccde0b6ce9572edb7f8d878da6c37ed70977",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66387$E11A6DF5-4B93-465D-AD02-33FED4FEA704",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66387$9021F483-CFE5-4AB0-ADD8-0DFACA2338C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0832-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c5092c4fc366642630e542f388906ec2226f1b4f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66387$004FDC26-0068-4F63-AB9F-98AFBA8A1404",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45629709"
+          },
+          "hash": "9e34cf9f56c35478f4c735775a7a9703c0976387",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66387$BF3FEEDC-11BB-4AA2-A8E4-F588817D703F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074749642901"
+          },
+          "hash": "7754871670a060a8f903e823b54f50e6abf69f54",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66387$B4FFAF92-9468-4F13-A377-FA674BE30758",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Ben Arms.svg"
+          },
+          "hash": "b6d6c69165352b86eb401d46e5ce90d2ffc53227",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180308"
+    }
+  },
+  "id": "Q66387",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Ben"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Ben"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Ben"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛賁"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Ben"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛賁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛贲"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛賁"
+    }
+  },
+  "lastrevid": 17477132,
+  "modified": "2025-09-16T16:37:19Z",
+  "ns": 860,
+  "pageid": 81218,
+  "sitelinks": {},
+  "title": "Item:Q66387",
+  "type": "item"
+}

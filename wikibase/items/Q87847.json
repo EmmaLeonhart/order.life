@@ -1,0 +1,922 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ἀντίoχoς"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus"
+      },
+      {
+        "language": "en",
+        "value": "Ἀντίoχoς"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus III the Great"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus III Megas, king of the Seleucid Empire"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73362$CC02A99E-E7CC-4C7D-A4E1-FC8779D5C631",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "115881"
+          },
+          "hash": "c7134e854527c2631ff860f16450d66813554c03",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73362$1C60EAF7-BFDC-4194-A0BA-6228D1FEFB4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736281"
+          },
+          "hash": "532b0a1b885bb3c8af4aea936cd14339252c097f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73362$7119B4C9-CCEC-4FA4-AA62-2349B4C0F9F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73203",
+              "numeric-id": 73203
+            }
+          },
+          "hash": "3144044d021e806e03db643b2ffed0fa97fa11c2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$27917759-66B1-47ED-9D00-64DAF74D1B7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73365",
+              "numeric-id": 73365
+            }
+          },
+          "hash": "7897b6467132cf3db9359bc64d2169f06f757c9e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$4B03EA82-15E5-4354-9601-0FF78B37532C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73368",
+              "numeric-id": 73368
+            }
+          },
+          "hash": "e3e9c603d61f7d2fa70e8cbed5293186f7eef9e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$50E1B62A-A6AC-449B-A454-BE58DA84D428",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73380",
+              "numeric-id": 73380
+            }
+          },
+          "hash": "743a32714ba8c70e3df8fa7efe569605077ad476",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$887AAC14-3942-426D-9B38-0DE31831D3FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78585",
+              "numeric-id": 78585
+            }
+          },
+          "hash": "c02496df091f3ad39e4f404eacc4f0d38b491b68",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$82280509-9FAF-4621-9B67-07F54DD3EC14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135925",
+              "numeric-id": 135925
+            }
+          },
+          "hash": "d307862d7d8aa98018a60f99d5e1b68e4402ac12",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$3977EBBD-4C1C-4E20-B0BB-C70CB7743B0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135914",
+              "numeric-id": 135914
+            }
+          },
+          "hash": "dafb3ef133d07ea257a5f03379d3393ca3399209",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$76C98161-8618-413E-9797-852AC30C13B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135913",
+              "numeric-id": 135913
+            }
+          },
+          "hash": "e4f46f7c2b0a6cfd0b768a65f40eac79a13fc911",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$D9023AB8-5869-48BF-97E7-F99069206F68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165213",
+              "numeric-id": 165213
+            }
+          },
+          "hash": "dad347e1a1508dfc3165b4107ef826f5eee85133",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$95FA444C-856A-4136-B27B-B547CD4BB6C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165082",
+              "numeric-id": 165082
+            }
+          },
+          "hash": "8cab88e7d2a16bc30981ecfa328c20a3dbc503bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73362$D49EFA8D-DC77-4FBE-B3F7-F54C759F6973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$A9546529-8FFF-484E-A499-69E9D22825D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73362$010990A5-25D5-42FC-8911-FF92490B6AC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_III_the_Great_(1)"
+          },
+          "hash": "b4a232f44dbbc77290393ef0bcfbe80e04af3bd7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73362$65E736F3-6FB1-48DF-9F31-67B5BED86C92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73359",
+              "numeric-id": 73359
+            }
+          },
+          "hash": "d08358b55b819f2c7d132f9d0a94bc505bb0c6f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$C5EA8454-CD2A-4144-9331-9162A753A957",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135924",
+              "numeric-id": 135924
+            }
+          },
+          "hash": "65ec0c0f47b5333237faa1fa424604901bed8607",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73362$D72AA7E9-28DC-4E8A-AC12-64483485F060",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165214",
+              "numeric-id": 165214
+            }
+          },
+          "hash": "bca9e78cc85bbca49043ebcb4b6bb4c5ae0ba594",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73362$AC33515E-A84D-4249-B524-FE1603995E7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73506",
+              "numeric-id": 73506
+            }
+          },
+          "hash": "a5ea0efbe07a820bcdee1ed416653a9331df40b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73362$9E1CEFC9-71A0-4785-B5B8-40CB405BC71E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73503",
+              "numeric-id": 73503
+            }
+          },
+          "hash": "4ba1c7612ea976746052e6fe229f7515464f4855",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73362$82B5747D-EE67-4167-B56B-76CE143C97C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73362$856A6A30-AA30-4D9E-90F6-8CAB615C5BFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0242-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6cb13d0b6f4de57781fe662488ed1cabb5702fd8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73362$6FD14109-49A4-4B45-A106-242F4310102E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0187-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d7d762dc035f9cdad008f21678a2cd57babc896",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73362$CC5D7534-A5F0-489F-8E5E-4B2CF1C5966D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3365"
+          },
+          "hash": "9e6498326b1dddbfc58e7fdda5b8e3222436b6c1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73362$F66758C6-EFEB-4E38-9B7D-A9559DF8FE84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007376492703"
+          },
+          "hash": "7eb580d7ee832a87cdd7e8ea8e5db6ae52aae117",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73362$2D96E039-A780-47EC-AC2A-BE97E5EA2574",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52177"
+          },
+          "hash": "65ebe1d9febd4f50b066fc90c8c7551b1eb75ea2",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73362$5C1040B3-ECDA-4EE5-A5FE-2CEE72A0F6CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus III the Great Arms.svg"
+          },
+          "hash": "9f395db48bd86ec0d7815de034f357e6d83dd75f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "seleukovský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreiches"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας των Σελευκιδών"
+    },
+    "en": {
+      "language": "en",
+      "value": "sixth Seleucid emperor (223–187 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey seléucida de Siria"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ششمین و بزرگترین امپراتوری سلوکی (۲۲۳–۱۸۷ پ.م)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Persian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך האימפריה הסלאוקית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սելևկյան արքա"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 222-187 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝の君主"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Irak (241v Chr-187v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "один из выдающихся правителей Империи Селевкидов (241 — 187 до н. э.)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "владар Селеукидског царства"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правитель держави Селевкідів"
+    }
+  },
+  "id": "Q73362",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الثالث"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس التالت"
+    },
+    "az": {
+      "language": "az",
+      "value": "III Antioks"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اۆچونجو آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх III Вялікі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc III"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antiochos III. Megás"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Аслӑ Антиох III"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Antiochus III Mawr"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 3. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos III."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Antiochos III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Γ' ο Μέγας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus III the Great"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Antiochus III the Great"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Antiochus III the Great"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antioĥo la 3-a la Granda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco III el Grande"
+    },
+    "et": {
+      "language": "et",
+      "value": "Antiochos III Suur"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko III.a Handia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس سوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos III Suuri"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos III"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Αντίοχος Γ' ο Μέγας"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס השלישי"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "एंटिओकस तृतीय महान"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Antioh III. Veliki"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Antiokhosz szeleukida uralkodó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անտիոքոս III Մեծ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos III yang Agung"
+    },
+    "is": {
+      "language": "is",
+      "value": "Antíokkos mikli"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანტიოქ III დიდი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Ұлы Антиох ІІІ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 3세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Antîoxos III Megas"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus III Magnus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Antiochas III Didysis"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Antiokosy III Megasy"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Антиох III Велики"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "മഹാനായ അന്ത്യോക്കസ് III"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Аугаа Антиох"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Antiochos 3-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos III den store"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus III de Grote"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antiokos III den store"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Antíoc III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch III Wielki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco III Magno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco III Magno"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Antiohie cel Mare"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох III Великий"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh III Veliki"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Antiochos III."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antioh III. Veliki"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох III Велики"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos III"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "மூன்றாம் அந்தியோகஸ்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Антиохи III Кабир"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าแอนทิโอคัสมหาราช"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Antiochus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох III Великий"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آنتیوخوس سوم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos III Đại đế"
+    },
+    "war": {
+      "language": "war",
+      "value": "Antiochus III nga Harangdon"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "安条克三世"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ანტიოქე III დიდი"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安条克三世"
+    }
+  },
+  "lastrevid": 17614090,
+  "modified": "2025-09-20T23:04:28Z",
+  "ns": 860,
+  "pageid": 88193,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73362",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73362"
+    }
+  },
+  "title": "Item:Q73362",
+  "type": "item"
+}

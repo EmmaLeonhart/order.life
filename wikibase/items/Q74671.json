@@ -1,0 +1,403 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Procas"
+      },
+      {
+        "language": "en",
+        "value": "Procas Silvius  King of Alba Longa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74671$026FF6E1-50BA-4E87-9047-24916DA80414",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "89095"
+          },
+          "hash": "23599479fec88f921609bfa53fcb7bb8d575987f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74671$4A3DB427-2EED-4839-A7A0-F24D776CBE33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74647",
+              "numeric-id": 74647
+            }
+          },
+          "hash": "3976cf4da9937e71206a00fe3296258b52091df5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74671$154DC458-AD19-41DB-A4BF-CCA3F99562E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134848",
+              "numeric-id": 134848
+            }
+          },
+          "hash": "654ac65c0310fe7ec067c3f5a17361221821917a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74671$CF19BBD6-1B48-4BBF-9A77-FE6B923D3307",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74671$A12ABBAD-51B8-49C3-9BA0-4FA5C52DB968",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74671$1C973F6C-78AD-4CAA-990E-54626B1323CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74674",
+              "numeric-id": 74674
+            }
+          },
+          "hash": "8e4559617838b9389f2363f9c5ed2c84ef13ac9c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74671$A496AA19-F0AB-4F63-857C-073A48149AC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74695",
+              "numeric-id": 74695
+            }
+          },
+          "hash": "da60dcdedb8797b73ce8f4e631731075f644b045",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74671$936B70A1-27B3-4859-8DD9-7DAC24AE6E3E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Procas Silvius /King of Alba Longa/"
+            }
+          },
+          "hash": "7a742813237feaed778422391e4d516e1b6ae613",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74671$EFA42CA1-9480-4803-BA41-E4ECB73BCE90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74671$99A43600-9964-4EE4-9CA4-A1D513AEA9AA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0794-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12c130b9a996f1fa3148cba9d5d0b53de248fece",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74671$D1A04B22-95FE-43C0-8680-9ABFD0F2017B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q887384"
+          },
+          "hash": "eeaaac5c355dcac53d9761cf91536b4e9b40ac71",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74671$21BF6BD4-18EF-4E38-9582-21FF44CD2DE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008177465203"
+          },
+          "hash": "7da5da2f2d4c2d6843d06cbf436045a121ebdbb8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74671$03D4FFC3-0697-42D9-93D3-396E8E9DA1B3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Procas Arms.svg"
+          },
+          "hash": "3047e126874cebebac33190a91b1c6f288eca2b5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König in der römischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythical character"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "treizième roi légendaire d'Albe la Longue"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "leggendario re di Alba Longa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "легендарный царь Альбы"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj v rimski mitologiji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "karaktär i den romerska mytologin"
+    }
+  },
+  "id": "Q74671",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Прока"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Proca"
+    },
+    "de": {
+      "language": "de",
+      "value": "Proca"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πρόκας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Procas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Procas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Procas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Proca"
+    },
+    "he": {
+      "language": "he",
+      "value": "פרוקאס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Procas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Proca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プロカ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Proca Silvius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Proca Silvius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Prokas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Procas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Прока Сильвий"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Procas"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Prok"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Procas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Прока Сільвій"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Proka Silvius"
+    }
+  },
+  "lastrevid": 17487644,
+  "modified": "2025-09-16T19:05:42Z",
+  "ns": 860,
+  "pageid": 89502,
+  "sitelinks": {},
+  "title": "Item:Q74671",
+  "type": "item"
+}

@@ -1,0 +1,368 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsumura Jūsha I"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q68568$160AD7A4-4984-4BAB-9E40-C299FDC46E8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63009",
+              "numeric-id": 63009
+            }
+          },
+          "hash": "c1fe59526324dabb6fde093c42879bdef9897b84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68568$FAD9A82C-BDA5-4575-AE9F-7770C78952CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73417",
+              "numeric-id": 73417
+            }
+          },
+          "hash": "5a851396dee560d1edcb6da43a9a9826aaacf613",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q68568$EB4C5DCE-16A9-48F2-A01E-8625E9562E4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "津村-4"
+          },
+          "hash": "5609c9f8be7081d0f2e5f874de6748bdc1712fbb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68568$2B47BC13-7FC1-45C2-BC87-554802C3EA84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68568$D008F0AF-65DC-4799-BE59-30950FACB345",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68568$5D8EC8B1-F008-4274-B7C9-DF34B1E2D0BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68568$3E4B0EFA-0BA7-484D-8FA4-D112FA346B90",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1871-08-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14893f1a40ec518a01fd6ba8b05ab072ea1cb754",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68568$BC888306-5441-4AC2-8882-60EEEF60B0B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1941-04-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2669f1c713809b4bfff08d575ebf79ac1dd298f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68568$2AE009E4-8B66-4059-8B31-FFE409EF7750",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11556201"
+          },
+          "hash": "9c5721db76f6f4c4c4535925f1980f76bcaa8445",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68568$A7F33137-3C98-4CC6-912B-F876530C1547",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsumura Jūsha I Arms.svg"
+          },
+          "hash": "59af0ea85b0dab9be688df1fb801ab2332ed594a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1871–1941)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese politician (1871-1941)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Seapánach (1871-1941)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי יפני"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の政治家 (1871-1941)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Japan (1871-1941)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician japonez"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan japonez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon siyasetçi (1871 – 1941)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський політик"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q68568",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsumura Jūsha I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tsumura Jūsha I"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tsumura Jūsha I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tsumura Jūsha I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "津村重舎"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Tsumura Jūsha I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дзюся Цумура"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "ATsumura Jusha I"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Tsumura Jūsha I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "津村重舍"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "津村重舍"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "津村重捨"
+    }
+  },
+  "lastrevid": 17479954,
+  "modified": "2025-09-16T17:17:43Z",
+  "ns": 860,
+  "pageid": 83399,
+  "sitelinks": {},
+  "title": "Item:Q68568",
+  "type": "item"
+}

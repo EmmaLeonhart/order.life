@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Wen Sou"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q77273$5ABE18E1-B44E-446E-B8A5-94107AC2E0EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77273$ACA47285-E428-4857-836E-03AF63C10C10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q77273$F0E78B2C-8B8C-455A-BFDE-D14BBC621D89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72468",
+              "numeric-id": 72468
+            }
+          },
+          "hash": "40123c7aacd89c8c3542a73b665d891f544560ff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77273$6154A3DA-1F22-498A-8268-C97BA5CE57BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q77273$A75B8B94-0DAB-48B1-91CF-F990A2CDF725",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0909-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93633e4ffb132839cba5c0fae72742a9dd5159a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77273$91F061E1-C989-45A6-8400-34715556FBB3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0971-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc37eb617bc04608ed7cb280d299729de8622c8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77273$9435CDB4-CDCE-4645-9A55-415556CE76FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10897770"
+          },
+          "hash": "d39c2358fe8cbb7f970858fbe25ee8d29596b814",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77273$1494913C-A81C-4A8A-A25E-3A301C4170B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074752994843"
+          },
+          "hash": "1398b9ed3f07f68f1831dfb909ec90cf95917015",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77273$090745E3-C277-45BA-BED5-126363D7633C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Wen Sou Arms.svg"
+          },
+          "hash": "2e252e4a5a4fe85c85bc0c93e740cb5d9db3665a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 3602"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q77273",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Wen Sou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Wen Sou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Wen Sou"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "劉温叟"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉溫叟"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Wensou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "刘温叟"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘温叟"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉溫叟"
+    }
+  },
+  "lastrevid": 17491032,
+  "modified": "2025-09-16T19:53:16Z",
+  "ns": 860,
+  "pageid": 92104,
+  "sitelinks": {},
+  "title": "Item:Q77273",
+  "type": "item"
+}

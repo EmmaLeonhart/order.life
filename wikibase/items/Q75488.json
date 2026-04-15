@@ -1,0 +1,220 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q75488$AB424227-F806-4B5B-9709-8397A63BE7F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75488$5A789F47-2CDB-4BEC-8933-39EB3B23DCF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75488$A2558109-2761-4294-8CC1-40DCF19AB83D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70864",
+              "numeric-id": 70864
+            }
+          },
+          "hash": "149df7a63ea62d322e82d9b536f2f4ff932c00cb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75488$4DCBBE39-62B7-4654-93C4-B925F9D9FCF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q75488$1E7ABB72-1822-4538-AE11-CBA95ED5D04E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0470-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d4bb2603b8b2cc2454ed35610cfe99e2e629fa65",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75488$0AA2F8D6-5937-488C-AECC-AD968A652324",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0479-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "72049b6ae93337242b0d9ca5f36b455ae3c6f422",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75488$52871EAA-6301-4C4F-B45F-C62999424FD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q93901"
+          },
+          "hash": "1722c0142de2f330595519c97b1de5b7a4a0189d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75488$4CA0EC56-84CA-4B01-9716-9D63F55FD058",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Xie Arms.svg"
+          },
+          "hash": "f409d58541d33542f19ae6ac7c0e6e9197bf9793",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q75488",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Liu Xie"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "劉燮"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Liú Xiè"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉燮"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "刘燮"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘燮"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉燮"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "劉燮"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "刘燮"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "劉燮"
+    }
+  },
+  "lastrevid": 17488734,
+  "modified": "2025-09-16T19:20:24Z",
+  "ns": 860,
+  "pageid": 90319,
+  "sitelinks": {},
+  "title": "Item:Q75488",
+  "type": "item"
+}

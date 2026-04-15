@@ -1,0 +1,169 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68648$44F4AB7E-C850-4D64-B991-B4F46EAD53B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68648$9C58771A-1987-4FC6-AE8C-4AC9915760C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q68648$CAA450D7-EC0C-4F4A-874A-269E446D615A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73477",
+              "numeric-id": 73477
+            }
+          },
+          "hash": "8e4c11da24a59b42d8efd433ca4d82f4b2e1f7a7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68648$00804313-88F8-4D31-9478-DA96A130DB56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63138",
+              "numeric-id": 63138
+            }
+          },
+          "hash": "7d352a96b8a08fb205c429e225a5bbaea8b6bc93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68648$26F84955-DFCD-4089-ACB6-B42FC865B00E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68648$D2FCA1BA-BAB0-48B6-9844-6DDFEC8E9E78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1878-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "166cd433898870548361fb0a4b63eae43f330053",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68648$F9BF4B44-509E-4834-980C-432AD3B25E00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111034349"
+          },
+          "hash": "3e9e4616cc08ef03f637420dd9ac71bb66ac97d5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "石川総佐の正室"
+    }
+  },
+  "id": "Q68648",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "西尾伊代"
+    }
+  },
+  "lastrevid": 17480058,
+  "modified": "2025-09-16T17:19:08Z",
+  "ns": 860,
+  "pageid": 83479,
+  "sitelinks": {},
+  "title": "Item:Q68648",
+  "type": "item"
+}

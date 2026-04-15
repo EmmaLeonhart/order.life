@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shimazu Tadaakira"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q62988$35C664FC-9E63-4A6A-9CEB-CF1CE5D7D4CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "島津-190"
+          },
+          "hash": "c86f3d14035537052203646cf4a60e50475439b6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62988$F9AEC46C-293D-4824-ADB8-F4BEF551B8E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62988$E3C3DA95-C37F-4F8E-8975-26C44618D3FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62988$75596B95-24C0-4FFB-87EF-AD65E443BB02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57287",
+              "numeric-id": 57287
+            }
+          },
+          "hash": "87707876fa98f8ff9f401df99c385b5204d13970",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62988$59502324-4C7A-466E-875A-9873E338E7B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62988$6FE5137E-EF54-481A-9D22-8DCD382EE231",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1849-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "938c95c3f1bde93791ad8cc73babc0dbed1c7c4e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62988$E160B15A-CD4D-4393-B633-4AF22193825B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1909-06-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e2b33b4c0f17b3da9ef5cf48fb0464aa34a8bdc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62988$218A065E-A135-41EF-8084-8F15B06D9118",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11162411"
+          },
+          "hash": "13da386fbf6ae680a9716e969579919837559c54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62988$B8E1F762-8E73-42C1-AFF8-F2E4A2881BD3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shimazu Tadaakira Arms.svg"
+          },
+          "hash": "14416104037087ca661163a300bfd7270dab2e73",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代後期～明治時代後期の伯爵・政治家。伯爵島津忠寛（旧日向佐土原藩11代藩主）長男で、佐土原島津氏12代当主。従二位勲二等瑞宝章"
+    }
+  },
+  "id": "Q62988",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shimazu Tadaakira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Shimazu Tadaakira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shimazu Tadaakira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shimazu Tadaakira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "島津忠亮"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тадаакира Симадзу"
+    }
+  },
+  "lastrevid": 17472922,
+  "modified": "2025-09-16T15:33:34Z",
+  "ns": 860,
+  "pageid": 77819,
+  "sitelinks": {},
+  "title": "Item:Q62988",
+  "type": "item"
+}

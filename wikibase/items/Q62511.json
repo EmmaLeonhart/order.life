@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Masatomo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q62511$CAF34E1A-980A-41AB-B51E-49A4BE58C0A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62511$D0A7D0EE-7A2F-4C56-B541-30BF1EF1DCD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62511$ACE830D9-D0EA-4035-BFAC-83FD573B0824",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56577",
+              "numeric-id": 56577
+            }
+          },
+          "hash": "f179ae647bb7f4ba0d0fa8dc2abcfb02d24e186d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62511$D7B8B386-EAB8-4B66-8E28-4F278955B8CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62511$4CF28DB8-445C-45E7-B5C0-615AB35316B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1746-10-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7bd05136000b7a05f2eee1d39b49de9257a21ad1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62511$EF99101E-8988-4D9C-9A66-157715113038",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1777-07-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9c736899a85182b63a97577d32fee66abcd3ec5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62511$7321090A-95AD-467C-BD5D-4FE94AF72B3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11520066"
+          },
+          "hash": "38fc549d28d0399a8ce9a7852722b2e42416de95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62511$7245E2DE-4E20-4538-BE87-DE56BE0EBECB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Masatomo Arms.svg"
+          },
+          "hash": "f3bdb25b0ee5c745090cc9ee2a0b6dde72b5bb10",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[本多正供] Daimyo in the middle Edo period; lord of Tanaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の大名。駿河田中藩主"
+    }
+  },
+  "id": "Q62511",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Masatomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多正供"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масатомо Хонда"
+    }
+  },
+  "lastrevid": 17472396,
+  "modified": "2025-09-16T15:25:30Z",
+  "ns": 860,
+  "pageid": 77342,
+  "sitelinks": {},
+  "title": "Item:Q62511",
+  "type": "item"
+}

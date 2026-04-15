@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Akimoto Hisatomo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q63331$1F1EB228-CFF3-40C1-8000-9FFE9C8020A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63331$E04FB913-C926-473C-A564-27F7D79F63E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63331$FD4A6763-C086-4372-9AE0-A9E6E3B5BEFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57617",
+              "numeric-id": 57617
+            }
+          },
+          "hash": "ea1884906580e040ee7c60858ef537f6fff66884",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63331$12152975-7F42-47D8-BABB-4B4B69F0CDCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63331$07045B98-4A89-4A12-83CE-B7DECA24E619",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1792-04-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3e95ad474ff782a17c350c81f9c0a3f87a718a9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63331$B03BE8DF-F603-4761-A7EC-2316DD1AE374",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1847-11-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7975e976c027505f53efb4bff119c225c3c0bf76",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63331$44BD9221-DE82-4CF5-BD40-C19D04AB032F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8515297"
+          },
+          "hash": "77ba1fde1edafca39d36f3aa4acb7a52a246e46a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63331$923A74F8-C13E-4229-B56E-C7974068D430",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Akimoto Hisatomo Arms.svg"
+          },
+          "hash": "20154f9d5c6985019003036180c0e793838e99bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q63331",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Akimoto Hisatomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "秋元久朝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아키모토 히사토모"
+    }
+  },
+  "lastrevid": 17473356,
+  "modified": "2025-09-16T15:40:23Z",
+  "ns": 860,
+  "pageid": 78162,
+  "sitelinks": {},
+  "title": "Item:Q63331",
+  "type": "item"
+}

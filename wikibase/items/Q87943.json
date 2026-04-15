@@ -1,0 +1,766 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Σέλευκος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Seleucus"
+      },
+      {
+        "language": "en",
+        "value": "Σέλευκος"
+      },
+      {
+        "language": "en",
+        "value": "Seleucus II Callinicus"
+      },
+      {
+        "language": "en",
+        "value": "Seleucus II, ruler of the Seleucid Empire"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73506$57E000A0-1F8D-4948-BD41-C13C174AD3DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "376461"
+          },
+          "hash": "7016de80c43008250afefd9cb0f296750fb6ef37",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73506$72325033-C148-4223-A789-3A119C36AC65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736277"
+          },
+          "hash": "813aaa47958ec0c571ac6bad8694ba81dc09624a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73506$95021F1F-0A90-4B86-85C0-DC64E64BCE14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73362",
+              "numeric-id": 73362
+            }
+          },
+          "hash": "6107672ce7f3dec58dcec8975c21daa7c2aa3223",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$D0C58136-4361-4380-A588-648173D016F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135751",
+              "numeric-id": 135751
+            }
+          },
+          "hash": "49b3f1a2b7781fc7aa4811b47c46a3fe58e456f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$E81F25E8-9ED4-48A5-8BC3-7DB686864917",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135753",
+              "numeric-id": 135753
+            }
+          },
+          "hash": "e2ee2376e10a3394785184402060b4cf2f0139ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$2D405A31-1CBD-41E0-A906-80E699CF9F07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165165",
+              "numeric-id": 165165
+            }
+          },
+          "hash": "9ac84c8f6ff99428e54b0b95ace79cea5e600738",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$3A346162-574A-4347-902B-7B76FF2C046C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165166",
+              "numeric-id": 165166
+            }
+          },
+          "hash": "1b6c240640460f4b0e2272ceb6ea9f5f025f7240",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$17468347-789D-4A79-9015-E3F3FFE84785",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165167",
+              "numeric-id": 165167
+            }
+          },
+          "hash": "acd922ea5b870fda87d44712613ad70a23688e03",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$B9EB8E4C-5086-4694-ACAE-785049841A53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165168",
+              "numeric-id": 165168
+            }
+          },
+          "hash": "6eda01d75f9a5dbd2fe8bf599ab9976fc6d801ba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$E4EE4265-E270-40E4-806C-B7EE3A559111",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165169",
+              "numeric-id": 165169
+            }
+          },
+          "hash": "d9e350d2a447c82e82c34843585d2aadc1013c46",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73506$9265DA12-1BF4-4806-9006-9948B963C003",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73506$DB93FE2C-2022-41C9-BB4C-C99890A9ED65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73506$886029A2-B722-4881-81CC-3DD4BA4C18A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Seleucus_II_Callinicus_(1)"
+          },
+          "hash": "94788d206dcaf3ea08f0c41c50f110df663bdef0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73506$E6CDB792-CE1A-4187-BC6C-DE829666BE85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73503",
+              "numeric-id": 73503
+            }
+          },
+          "hash": "0553fe1d41e9af65a2efee2091a11d17e239dc48",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73506$C3D79FC2-E685-489F-BF2A-0E98A782BBA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73632",
+              "numeric-id": 73632
+            }
+          },
+          "hash": "d0a0660354103034f03e96c7f079f3043a278a07",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73506$6ACB724C-DAD3-45FD-BCD1-F4CC98EB9BDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73629",
+              "numeric-id": 73629
+            }
+          },
+          "hash": "c22b15cbe3edc5b7bbb5a16eb51dadcc56894536",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73506$EBB5C683-5985-49AF-8AFD-2DFF57A8873A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73506$679A20A3-15AF-4FCF-A811-F1B5737C9D26",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0265-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b7ab448265894b80cf1e3fbbc2ce06927473eb99",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73506$AA2CCD69-BF4B-4549-8E97-0D94C602ACDB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0225-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec9bb815edf91059ed8ffd380cb6934c490381ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73506$0D27BD68-5270-4150-8B66-81E59230B476",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3373"
+          },
+          "hash": "c32ddc685915b599318977f87954bf6e65e9609d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73506$B6E58EAA-C527-496E-974C-A82A2A3BBDB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006007855001"
+          },
+          "hash": "f65c078960a6f5e31751dc8dabea338dc5a07b5e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73506$A3CDDCBB-2967-4AC1-BB79-F5EEF02B0291",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52176"
+          },
+          "hash": "b279006d428b1b472abf12e5727d44e09ee30c62",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73506$F010CAA6-E827-480B-AFA8-806399523CDD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seleucus II Callinicus Arms.svg"
+          },
+          "hash": "c88c27fa81b3708adff5b4fd9b5211eca1d978a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "sobirà de l'Imperi Selèucida"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "seleukovský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscher des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ruler of the Seleucid Empire from 246 BC to 225 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey seléucida (265-225 a.C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 246-226 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝の王"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "владетел на Селевкидското царство"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "സെലൂസിഡ് സാമ്രാജ്യത്തിന്റെ ഭരണാധികാരി"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Seleucidische rijk (265v Chr-225v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Государства Селевкидов в 246 — 225 до н. э."
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞琉古帝國的統治者"
+    }
+  },
+  "id": "Q73506",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سلوقس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سلوقس التانى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی سلوکوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Селеўк II Калінік"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Селевк II Калиник"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Seleuc II Cal·linic"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Seleukos II. Kallinikos"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Селевк II Каллиник"
+    },
+    "da": {
+      "language": "da",
+      "value": "Seleukos 2. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Seleukos II."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Seleukos II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέλευκος Β' Καλλίνικος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seleucus II Callinicus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Seleucus II Callinicus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Seleucus II Callinicus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Seleuco II Calinico"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Seleuko II.a Kaliniko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سلوکوس دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Seleukos II Kallinikos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Séleucos II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σέλευκος Β' Καλλίνικος"
+    },
+    "he": {
+      "language": "he",
+      "value": "סלאוקוס השני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Szeleukosz szeleukida uralkodó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սելևկոս Բ Կալինիկոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Seleukos II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Seleuco II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "셀레우코스 2세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Seleukos II Kalînîkos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Seleukos II Kalînîkos"
+    },
+    "la": {
+      "language": "la",
+      "value": "Seleucus II Callinicus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Seleukas II Kalinikas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Seleiks II Kalliniks"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Seleokosy II Kalinikosy"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Селевк II Калиник"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "സെലൂക്കസ് രണ്ടാമൻ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Selevkos II Kallinikos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seleucus II Callinicus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Seleuc II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Seleukos II Kallinikos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Seleuco II Calínico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Seleuco II Calínico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Селевк II Каллиник"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Seleuk II Kalinik"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Selevk II. Kalinik"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Селеук II Калиник"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Seleukos II"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Seleucus II Callinicus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Selevkos Kallinikus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Селевк II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Seleukos II Kallinikos"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "塞琉古二世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞琉古二世"
+    }
+  },
+  "lastrevid": 17486264,
+  "modified": "2025-09-16T18:46:34Z",
+  "ns": 860,
+  "pageid": 88337,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73506",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73506"
+    }
+  },
+  "title": "Item:Q73506",
+  "type": "item"
+}

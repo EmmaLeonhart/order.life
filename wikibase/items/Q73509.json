@@ -1,0 +1,412 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Samos"
+      },
+      {
+        "language": "en",
+        "value": "Σαμωσ"
+      },
+      {
+        "language": "en",
+        "value": "Շամուշ"
+      },
+      {
+        "language": "en",
+        "value": "Sames of Commagene"
+      },
+      {
+        "language": "en",
+        "value": "Samos I, satrap of Commagene"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73509$464C738A-1120-4732-9D0E-A5F4018AE612",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139827"
+          },
+          "hash": "a90d1710f0f333a17c890ba41063e33801299b5c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73509$87ED9F2B-8BF9-4D9B-837F-2F6DA544AA46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736419"
+          },
+          "hash": "9720aa03f9b9ffae539c346ea044eef794f1e753",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73509$017E7530-6841-4A11-93DE-21861CC452A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73371",
+              "numeric-id": 73371
+            }
+          },
+          "hash": "fa8e3070d00fcaf2e6c5bb98e53fa009ed21ee71",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73509$FFDEF65B-CD31-46AF-BC4A-F92EE385A1B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73509$8F2F532E-0F70-4CAA-ADC9-B5743200B467",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73509$EF778ADB-203E-461E-B7B5-172A4EB07317",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sames_of_Commagene_(1)"
+          },
+          "hash": "cb7adff1c6d693fd7398afa30ed0fdc1d25eedb7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73509$1FAB629A-0975-426F-973C-2DBBB8F226A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73641",
+              "numeric-id": 73641
+            }
+          },
+          "hash": "d093a066c2840b0abf42d81366bff01b2728c3f0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73509$F37B00A4-E927-4F2A-A075-500AD664DCAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73509$FB9374E6-3DED-413D-B9DE-F1FDE5AA5226",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73509$59E30AE2-F89F-4C27-8F57-0C87117FE00E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73509$14C8D403-3DDA-4B83-8950-4FB38DE64F79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q261592"
+          },
+          "hash": "7d390fa7b2752f29fc5389861e9ec9067e4af1f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73509$2F65EC21-12F4-4D66-86BD-0789BF1D0850",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006131014605"
+          },
+          "hash": "b2d4a237eb60bed9422ce2becdba705f282ea486",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73509$B06FC251-C18A-48FC-9C3B-63091C87874D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sames of Commagene Arms.svg"
+          },
+          "hash": "2363b9daa4a1b91247108564f0b3dff5d6a1aed8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Satrap of Commagene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "satrape de Commagène"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Koninkrijk Commagene"
+    }
+  },
+  "id": "Q73509",
+  "labels": {
+    "avk": {
+      "language": "avk",
+      "value": "Arsames I"
+    },
+    "be": {
+      "language": "be",
+      "value": "Самес"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сам"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sames d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sames"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σάμης Α΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sames of Commagene"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sames of Commagene"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sames of Commagene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sames of Commagene"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سام یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Samès d'Arménie"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Շամուշ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Samos dari Commagene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コンマゲネのサメス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სამესი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sames of Commagene"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sames Orontida"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sames Orontida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Самес"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sam od Sofene"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Sames"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Самес"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "薩姆斯一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薩姆斯一世"
+    }
+  },
+  "lastrevid": 17486268,
+  "modified": "2025-09-16T18:46:38Z",
+  "ns": 860,
+  "pageid": 88340,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73509",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73509"
+    }
+  },
+  "title": "Item:Q73509",
+  "type": "item"
+}

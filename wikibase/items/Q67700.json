@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Mao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q67700$BB755D70-FA7F-46CF-9725-10A6E6331152",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72689",
+              "numeric-id": 72689
+            }
+          },
+          "hash": "0572140451c4ae779ba0cb9565172e41e3eab99b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67700$665F8929-97B9-4995-A870-ECED69FE2072",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72686",
+              "numeric-id": 72686
+            }
+          },
+          "hash": "c220fb17209c26d541c327aeb237b2ea689c0ab2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67700$17EAA781-EAA1-4FF3-9F78-5B5F5CAC7FD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72692",
+              "numeric-id": 72692
+            }
+          },
+          "hash": "2bfbd892abc7dadcaa54a61a4d3848b1b8911bc8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q67700$91CBBC12-C5CA-407B-BD6B-BB51D9CD60FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67700$6E4BDE0D-2B96-437F-9457-A6D7DB485031",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67700$3F5749B3-F1AB-4FEF-808C-080DB5E7C0E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64114",
+              "numeric-id": 64114
+            }
+          },
+          "hash": "94348f0c6bee3093837066f27f76cc404b0003a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67700$CAC81264-E8B1-4F2F-9269-0D8F205BB499",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q67700$E1A880B3-9C28-46F7-A6E1-68C4B8483519",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0432-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b3593aa121c5179e75776001ea7249389cbca713",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67700$B61B2336-7222-4034-B692-C7456288F642",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0502-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "554c0997eaea59d0d2aefaf1bb866819d41f8f5d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67700$5D67158C-8EFF-4164-B0FA-7E1C32962720",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30924021"
+          },
+          "hash": "a93b55f9c5e1bfa46b63c373ba24f3b1e214324c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67700$9088F608-A2F6-4CB8-9DFC-08D1351BE910",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Mao Arms.svg"
+          },
+          "hash": "190d4e312bad875a3d8fc2747c3007a540423a8c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei Dynasty (432 -502)"
+    }
+  },
+  "id": "Q67700",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Li Mao"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lý Mậu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lý Mậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李茂 (北魏)"
+    }
+  },
+  "lastrevid": 17478880,
+  "modified": "2025-09-16T17:02:59Z",
+  "ns": 860,
+  "pageid": 82531,
+  "sitelinks": {},
+  "title": "Item:Q67700",
+  "type": "item"
+}

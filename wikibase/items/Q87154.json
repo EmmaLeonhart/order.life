@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Mummius /Achaicus/"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72326$8A5E4704-97BC-4660-8C74-EC4F00A9344A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71323",
+              "numeric-id": 71323
+            }
+          },
+          "hash": "e1ada260b28f5f0a7d337acc357ed89d7d1db7ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72326$68E431A5-527F-43D3-99E6-EAC8B1A700A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72326$730B26F0-8107-41F0-AA56-69252E563852",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72326$39C14EBF-FB2A-4B0F-B423-9FBB9382327A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72323",
+              "numeric-id": 72323
+            }
+          },
+          "hash": "7f55b6adb7d69d1742c978e49b51c28dcaa53e98",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72326$53E61FDF-8BA8-4BDC-A3B5-0F9F2B2F81B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72526",
+              "numeric-id": 72526
+            }
+          },
+          "hash": "4d24ebe2e39f035c0f8d99100a7a34929913b2ca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q72326$01540879-EFBC-45A2-922F-E2EBE3BCF73B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Lucius Mummius /Achaicus/"
+            }
+          },
+          "hash": "6bba5b9a22ce9eb3aa5e9e46b93125a363f303b5",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72326$5BE179B7-FC93-48CC-877B-0EAA0A92FD4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72326$F08C89A7-7254-4776-8A40-5403E3DFCF9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000197710191821"
+          },
+          "hash": "df44c7e1625351ff324dfb736e4086e60bccc34b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72326$5FAEB70F-A9A4-4A10-9C08-D08D0FA9B0FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Mummius  Achaicus Arms.svg"
+          },
+          "hash": "ee8e1652a782faf7ae94a1f7c2c99ac99762f682",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q72326",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lucius Mummius  Achaicus"
+    }
+  },
+  "lastrevid": 17484758,
+  "modified": "2025-09-16T18:25:17Z",
+  "ns": 860,
+  "pageid": 87157,
+  "sitelinks": {},
+  "title": "Item:Q72326",
+  "type": "item"
+}

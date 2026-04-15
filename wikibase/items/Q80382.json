@@ -1,0 +1,227 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Vettius Gratus ."
+      },
+      {
+        "language": "en",
+        "value": "Gaius Vettius, III"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62833$3FFB2602-5EB7-4068-A270-087BA976D30D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62351",
+              "numeric-id": 62351
+            }
+          },
+          "hash": "916aa1671536e456889b27ad2f98c10d2bd23dc5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62833$F157CFBC-19B1-41E7-8D34-F1D4FA908C38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62833$DDE69CBE-CAAE-4A05-8378-0E8AED2ADC25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q62833$CF6F1BA3-78D7-409F-A4C5-4A274657B1EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62800",
+              "numeric-id": 62800
+            }
+          },
+          "hash": "d7dacb91bd210191d89e8619d6b51d0796645cee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62833$A8083222-CCC0-41A3-AFFA-6732B0A7B730",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63388",
+              "numeric-id": 63388
+            }
+          },
+          "hash": "c21437731ab1a43b8887062075d5e62a9dd22819",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q62833$D640CA3C-CD22-484C-8752-4877144BFD1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63421",
+              "numeric-id": 63421
+            }
+          },
+          "hash": "9f94b211ad8a0648b7d9c4bb0a51976fdc9085a6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q62833$F0596ACC-8664-417C-A177-938C19C7722D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "III"
+          },
+          "hash": "595b53b24158a868a204256f245f8fdd9ccdbfb5",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62833$219F90FB-A7FE-49B7-A43E-159B2CB3EDF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q62833$11C9E46A-7DF1-47D7-91E1-8D1B898B7E03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828392167"
+          },
+          "hash": "c8925f3ce42e79d6ada8cf3a04327b441245139d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62833$5D546ECE-AC73-40DA-830F-68A92DE3AAB7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Vettius, III Arms.svg"
+          },
+          "hash": "13f317982516008ec10fd7a3d7f5ab504788cd58",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q62833",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gaius Vettius, III"
+    }
+  },
+  "lastrevid": 17472792,
+  "modified": "2025-09-16T15:31:34Z",
+  "ns": 860,
+  "pageid": 77664,
+  "sitelinks": {},
+  "title": "Item:Q62833",
+  "type": "item"
+}

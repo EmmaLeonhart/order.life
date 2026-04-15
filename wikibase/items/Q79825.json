@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heshana Khan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q79825$EFEBDDF1-B9D6-46FE-ACA0-A508B4CD4E4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79825$A1E21953-F787-40EE-9526-6596C9C27621",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q79825$7196A302-7DC4-4D41-99EF-E82D835B13BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75074",
+              "numeric-id": 75074
+            }
+          },
+          "hash": "d79af1981ef0af168849cb59c7395bb593682211",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q79825$BA8F93D1-0717-4493-B367-27E5B50BD9F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q79825$D0FBBB59-AE6E-4997-A1E5-FE340BABB48E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0603-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4efdb8d2a244d2c54241de6d99abdf743fce15b3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q79825$4E0B4F9A-FA7E-4BB8-9A14-8BB31982200A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0618-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9dc02f3594a2ed42bfe8113cb000fa60e7f781e8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q79825$334E783D-785C-47DA-9E41-F4498B437030",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q191610"
+          },
+          "hash": "5d45463ad066e6c485dfe260f647f3987227d653",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q79825$2D119520-83C7-4BA7-8167-F5D8036D7EB3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heshana Khan Arms.svg"
+          },
+          "hash": "9fd096ed0fc9a341a7a31dda21f5aa94a2afbe41",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Gotruk ruler"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Batı Göktürk Devleti'nin ilk hükümdarı"
+    }
+  },
+  "id": "Q79825",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Heshana Khan"
+    },
+    "az": {
+      "language": "az",
+      "value": "Taman xaqan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "تامان خاقان"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Таман"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heshana Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heshana Khan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Heshana Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "曷薩那可汗"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Даман"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Heshana Khan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таман-хан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Heshana Khan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hešana kagan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Heshana Khan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Arslan Taman Kağan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Хешана-каган"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "泥撅處羅可汗"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "泥厥处罗可汗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "泥厥处罗可汗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "泥厥處羅可汗"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "泥厥處羅可汗"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "泥厥处罗可汗"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "泥厥處羅可汗"
+    }
+  },
+  "lastrevid": 17494079,
+  "modified": "2025-09-16T20:36:02Z",
+  "ns": 860,
+  "pageid": 94656,
+  "sitelinks": {},
+  "title": "Item:Q79825",
+  "type": "item"
+}

@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tardu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65406$AF421DF4-09A1-466E-A3C4-CFEFAADC655E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70459",
+              "numeric-id": 70459
+            }
+          },
+          "hash": "c1df0c8bfe041f16d08fbacace43efa1ba828cca",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65406$0C6CB6AB-6616-49BC-B668-936A64A5C509",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70462",
+              "numeric-id": 70462
+            }
+          },
+          "hash": "90a7b997a58c411f24491c09107df1b6664d728b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65406$5C46F234-D8B6-4A80-9CB3-C4294CDBBF1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65406$FA54ACCB-5170-4ABC-B130-F38D53406AB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65406$0C93FB32-9816-4331-AB4E-422AE49D10B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59727",
+              "numeric-id": 59727
+            }
+          },
+          "hash": "b1d74b502501ad184cc3a41064e88303a23125af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65406$A46B330F-AB42-40D8-9775-347594CC055D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q65406$17B0BF93-E2C5-438D-8FE4-9FEAFFC5884B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65406$41924DAD-17E3-41A7-B33F-F117AFCDFEE7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0603-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44e254061833b0aa595ee9f421dc9c15094a5f4b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65406$056A317C-FDA0-4CB7-8F16-C70F162FBF1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q154891"
+          },
+          "hash": "24f3831d00f4ac1b085d45a643ed1b0e87646296",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65406$D6AD3952-5A04-4B03-8826-79BC3343CB28",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tardu Arms.svg"
+          },
+          "hash": "a9fd7f6d949de151e9b8db4310eb2886f8e3e43e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "segon yabghu dels turcs occidentals (575-603)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscher der Göktürken"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gokturk Kagan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan des turcs, frère de bumin Khagan, lui même fondateur du Khaganat turc"
+    }
+  },
+  "id": "Q65406",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tardu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tardu xaqan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "تاردو خاقان"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тарду"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tardu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tardu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tardu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tardu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tardu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "達頭可汗"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Тардуш қаған"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tardu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tardu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tardu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кара-Чурин-Тюрк"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tardu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tardu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tarduş Kağan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кара-Чурин-Тюрк"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Qorachoʻrin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "达头可汗"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "达头可汗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "达头可汗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "達頭可汗"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "達頭可汗"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "达头可汗"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "達頭可汗"
+    }
+  },
+  "lastrevid": 17475832,
+  "modified": "2025-09-16T16:17:47Z",
+  "ns": 860,
+  "pageid": 80237,
+  "sitelinks": {},
+  "title": "Item:Q65406",
+  "type": "item"
+}

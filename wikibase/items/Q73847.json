@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kusaka Yoshio"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73847$789C015C-F413-4258-B88C-19B380F8ABF2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "石田-32"
+          },
+          "hash": "b8e5ba045102425480a1b663667abe30abad4a7c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73847$8CA2A657-C095-4ED5-AB04-F00EC2444190",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73847$F9586421-6B0D-4A72-8B4C-7028C4CB1BF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73847$B67F974B-D574-491F-A1A8-5E2FEF44FEB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69135",
+              "numeric-id": 69135
+            }
+          },
+          "hash": "2983c145f4197541a72d527abef4200f1510a96e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73847$3404F0DD-D5B3-4496-8872-25EBACC61407",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73847$B0708279-58AF-43CA-8371-72186E91FD11",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1852-01-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "80ab1cdc360aca959cec60128e9840011d529b03",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73847$B17669B1-80C2-471D-A3DF-AF124C399E86",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1923-03-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3dcd904637e971e17d61a163ae04c3ac9fa2e33e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73847$4068FCA9-0C52-4D5E-8DCD-0DA87E7588E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11504736"
+          },
+          "hash": "cfa22891f608a4c154b73baa5e20c421f81df559",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73847$D6EF2F37-632F-4827-B650-332A78274F48",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kusaka Yoshio Arms.svg"
+          },
+          "hash": "20894899b9ef8d9581c3dd6de2254a541193eb3f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "16 Jan 1852 - 18 Mar 1923"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の政治家、実業家"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q73847",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kusaka Yoshio"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kusaka Yoshio"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Kusaka Yoshio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日下義雄"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Kusaka Yoshio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсио Кусака"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kusaka Yoshio"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kusaka Yoshio"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Kusaka Yoshio"
+    }
+  },
+  "lastrevid": 17486664,
+  "modified": "2025-09-16T18:52:21Z",
+  "ns": 860,
+  "pageid": 88678,
+  "sitelinks": {},
+  "title": "Item:Q73847",
+  "type": "item"
+}

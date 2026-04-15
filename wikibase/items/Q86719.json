@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shlomo  bar David"
+      },
+      {
+        "language": "en",
+        "value": "Shlomo  son of David"
+      },
+      {
+        "language": "en",
+        "value": "Shlomo ."
+      },
+      {
+        "language": "en",
+        "value": "Shlomo bar David"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86719$273B3C87-BFEC-436F-B18E-F985D64A9304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86709",
+              "numeric-id": 86709
+            }
+          },
+          "hash": "bc1d0a4529998a68b9e0f747b1fb684fe57d3f28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86719$E6F63192-07B9-45F7-B4B9-2F135D6C9D8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93782",
+              "numeric-id": 93782
+            }
+          },
+          "hash": "b1f1add850ed1bb0861cf6fbf5f95ce661ea2b20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86719$79FD2258-2C9B-4068-B83A-8649909AA8EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86719$70DED671-8006-478A-BA5E-9FF662AE10B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86719$8D30AC9C-44BC-4B75-8F61-1F955625B8EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86732",
+              "numeric-id": 86732
+            }
+          },
+          "hash": "eb663a5144e5f8c8ae9066e9c07fd2f9a91185db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86719$B5A8182E-FBF3-4A95-9632-9FB3D9969C16",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Shlomo /bar David/"
+            }
+          },
+          "hash": "bd09ad82797b4ca65d0168ed602963543c50e257",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86719$A8FEDD1E-5C6A-45DC-8717-7326D6D802B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86719$BC136448-F8CA-4753-A92C-D1FA6A481D9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86719$B1BD5177-7CBB-4100-B2AA-8E70F77F53D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4744743051520039683"
+          },
+          "hash": "2caffc0454280b8b42c082a2cebb08735949c10d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86719",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shlomo  son of David"
+    }
+  },
+  "lastrevid": 17501529,
+  "modified": "2025-09-16T22:21:04Z",
+  "ns": 860,
+  "pageid": 101550,
+  "sitelinks": {},
+  "title": "Item:Q86719",
+  "type": "item"
+}

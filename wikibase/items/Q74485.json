@@ -1,0 +1,618 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Achaemenes"
+      },
+      {
+        "language": "en",
+        "value": "Achaemenes, king of Anshan"
+      },
+      {
+        "language": "en",
+        "value": "الملك أخمينيس"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74485$5A523537-4044-4760-B8CE-24717D8BE248",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "95791"
+          },
+          "hash": "6018a14ff828a2a3c6715555eff72fdf0b09b9a7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74485$708BD6BE-0B17-48EB-A6C8-E04CE52B42FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736336"
+          },
+          "hash": "6c26e807e966519d6159196dff7b3ed84e121454",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74485$F6E13986-A209-4D38-92CE-EBC5E5061604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74443",
+              "numeric-id": 74443
+            }
+          },
+          "hash": "5cb59eb8378bd2e3a9843626ef91cb5098edb0da",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74485$C41B8815-F0D0-417D-A867-436E5CCD6530",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك أخمينيس"
+            }
+          },
+          "hash": "e68252ec4b6d1a2064438f6b060754974df932bd",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74485$899AC4F5-0981-4C6F-AFC5-635C4CA63ADB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74485$B51DE4F7-68D5-4145-A6CD-F67070E0D251",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74485$3B19CA82-B0C6-4B5B-8E5F-6821C4AB395E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51720",
+              "numeric-id": 51720
+            }
+          },
+          "hash": "a39b492aef37475c5ffcf4952c32417ea82ce1ad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74485$643EE205-04D4-435D-806A-EFF164B6ECAE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك أخمينيس //"
+            }
+          },
+          "hash": "8fba5966d2d452a6ff1429d9421393ab89e0f5a0",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74485$9D5B0EC7-A024-4348-86FA-44E2642AF796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74485$23E3C09B-787B-4CD0-A0B0-A1347A2E9FB3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d240ab2ead5742a62e159c6c19ff3d25f3c4d8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74485$AA0197E3-3D3F-472E-876B-53DB26C800D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9c74762bb866c474bf707ec705ed33911a0b7a5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74485$6A8BA100-8F63-49F9-AA9C-A44E70F1DB56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q312032"
+          },
+          "hash": "9989b2dc033b262deb3dddf4c16e3433bb074546",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74485$D086B1F6-29D8-434F-B6B7-4395B46A8052",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006131105658"
+          },
+          "hash": "f73d1a1e9dda45710962c131ec29d2a0622912e3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74485$184D85A0-3FF9-4EE9-9B68-7F57F21E5EDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007177791864"
+          },
+          "hash": "b10909ac464e5edcaa6b0991cfa64121e0b16e38",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74485$B5A7E312-53EA-4E62-ABCA-21AC3D3AA03B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Achaemenes Arms.svg"
+          },
+          "hash": "7ae338ff6b27c0703aa839435d4aadc151955aee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مؤسس الأسرة الهخامنشية"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "mític fundador de la dinastia Aquemènida"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "o bosib yn rheolwr Parsumash"
+    },
+    "de": {
+      "language": "de",
+      "value": "Begründer der persischen Achämeniden-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "possibly mythical apical ancestor of the Achaemenid dynasty, living in the 7th century BC and possibly a ruler of Parsumash, a vassal state of the Median Empire"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "la eble mita praavo de la Aĥemidoj, kiu vivis (se li fakte ekzistis) ĉirkaj la 7-a jarcento a.K."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نیای دودمان هخامنشی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ancêtre éponyme et peut-être mythique de la dynastie des Achéménides"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "i. e. 7. századi perzsa uralkodó"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać mityczna"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ahameniş hanedanının muhtemelen efsanevi tepe atası, MÖ 7. yüzyılda yaşayan ve muhtemelen Medyan İmparatorluğu'nun vasal bir devleti olan Parsumaş'ın hükümdarı"
+    }
+  },
+  "id": "Q74485",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هخامنش"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اخمينيس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "هخامنش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ахемен"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ахемэн"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ахемен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aquèmenes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Achaimenés"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Achaemenes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Achaimenes"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Achaimenes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αχαιμένης της Περσίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Achaemenes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Achaemenes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Achaemenes"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aĥemeno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aquemenes"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Akemenes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هخامنش"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Achéménès"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aquemenes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀχαιμένης"
+    },
+    "he": {
+      "language": "he",
+      "value": "האחמניש"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ahemen"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hakhámanis"
+    },
+    "id": {
+      "language": "id",
+      "value": "Akhaimenes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Achemene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アケメネス"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಅಖಮನಿಸ್"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아케메네스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Achaemenes"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Achemenas"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Akemenesy"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ахемен"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Achaemenes"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "هخامنش"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Akamenes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Achaemenes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Achemenes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aquémenes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aquêmenes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ахемен"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ahemen"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ahemen"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ахемен"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ахемен"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Ahemen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Achaimenes"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ҳахоманиш"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ahameniş"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Axämen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ахемен"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Ahamon"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Achaemenes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿契美尼斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿契美尼斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿契美尼斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿契美尼斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿契美尼斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿契美尼斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿契美尼斯"
+    }
+  },
+  "lastrevid": 17487422,
+  "modified": "2025-09-16T19:02:42Z",
+  "ns": 860,
+  "pageid": 89316,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74485",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74485"
+    }
+  },
+  "title": "Item:Q74485",
+  "type": "item"
+}

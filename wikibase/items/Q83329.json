@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amir bin  Hamza"
+      },
+      {
+        "language": "en",
+        "value": "Amir son of  Hamza"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q66590$3A8AC774-8547-4B5E-B741-A83112DA2D6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66590$CFC32581-DF2D-432F-B250-A8E28EB096DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66590$07E4B279-C4CB-4B95-90C8-FBD3E5D7833C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65732",
+              "numeric-id": 65732
+            }
+          },
+          "hash": "500b13ee7cec83c5d4f82dcdc7a5c58ad83e7fa5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66590$015C3045-3C56-4D3A-AB52-3F96F2F993F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94413",
+              "numeric-id": 94413
+            }
+          },
+          "hash": "60730283b16cdc5254baa68382a99e0a7543d1c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66590$BC23F582-9F86-4947-8093-759DFD84EE3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94749",
+              "numeric-id": 94749
+            }
+          },
+          "hash": "566aaef6011a06d9509f2ee19e6acebb0ec8725e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q66590$DF70FEBE-9446-4ACD-8A4D-0996B6AFDD0F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Amir bin /Hamza/"
+            }
+          },
+          "hash": "45bc72fca365293fcd4e230de5e0bfc12245ec3e",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66590$A429F946-3A87-4C28-B822-598B7555056E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66590$29271971-ACC9-433F-9CEA-661A03DE2A90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039108435039"
+          },
+          "hash": "74c0a7f614c2a89a6d6a2bf7f740bace5a1ead4e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66590$C6B6398D-8417-40A5-9975-D82937402F72",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amir son of  Hamza Arms.svg"
+          },
+          "hash": "1b7589981a8810262eed6035fa25d3099be2dbb0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q66590",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Amir son of  Hamza"
+    }
+  },
+  "lastrevid": 17477398,
+  "modified": "2025-09-16T16:41:14Z",
+  "ns": 860,
+  "pageid": 81421,
+  "sitelinks": {},
+  "title": "Item:Q66590",
+  "type": "item"
+}

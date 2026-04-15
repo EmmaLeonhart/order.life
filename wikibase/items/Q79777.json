@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yu Jun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q79777$0BDB85BA-76CB-40ED-80CA-8BF639A70506",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q79777$D50507D7-AC5C-427F-889C-3BBF75A5C7B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q79777$D222B49B-668A-4E53-91EC-915E2DD89C6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75020",
+              "numeric-id": 75020
+            }
+          },
+          "hash": "5b9a1f66bb7269fc4a26b3e4687667f1a69c2c9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q79777$8BD541C8-7396-47B4-9FD4-4327FAD38F31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q79777$B25F036B-1E1C-4F66-9C22-3915148A6F41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0671-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad8c6ec18e6e1b9e7137c24ecdeb0ba2739d9436",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q79777$892E6FB7-B63E-493E-BA85-90C654146DD8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0730-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3697bdc167ec6998202950e4486728c880616e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q79777$25B5BD71-BC05-412D-8D21-DFDA2F6BC38A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45493357"
+          },
+          "hash": "3e8a109718711386741d0e45b277b5e0f09e5024",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q79777$333989D7-83A7-4121-84CB-48ECF5644DC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075404656896"
+          },
+          "hash": "80f0d686c1e8947d506b4d37acbb65d686ffd2bc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q79777$6CE0C7AC-E5E1-4FC0-BC0C-108338827A7B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yu Jun Arms.svg"
+          },
+          "hash": "17c223295bc6247dfbf24e8503f8029242fa91de",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 146079"
+    }
+  },
+  "id": "Q79777",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yu Jun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yu Jun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yu Jun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "于峻"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "于峻"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yu Jun"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "于峻"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "于峻"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "于峻"
+    }
+  },
+  "lastrevid": 17494015,
+  "modified": "2025-09-16T20:35:11Z",
+  "ns": 860,
+  "pageid": 94608,
+  "sitelinks": {},
+  "title": "Item:Q79777",
+  "type": "item"
+}

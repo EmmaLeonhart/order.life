@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus /Crusiello/"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72407$2CA470E2-0C83-40F0-9C20-BFF4609517DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72206",
+              "numeric-id": 72206
+            }
+          },
+          "hash": "82215b0a1f35976db01c1989d9c6e60e2dfb112a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72407$80952030-80B1-4AD1-B53B-EF1B7C58EB9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72407$C56626A7-1E7B-40CE-A854-4D19F51D66E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72407$A970FCBC-7810-44FC-B267-92D783A05292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72410",
+              "numeric-id": 72410
+            }
+          },
+          "hash": "e79243db5bfba06a1c14903ace339aae93a578cf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72407$FD1A9C9F-CCF1-49C2-9FF2-F7BE41F8F9DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72576",
+              "numeric-id": 72576
+            }
+          },
+          "hash": "814e5182a3942f07e0c6b45e7fede4c15db5941a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q72407$B3520F6E-1F37-4512-89B7-84FBD76E31BD",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Lucius Cornelius Lentulus /Crusiello/"
+            }
+          },
+          "hash": "955367cb5c48dd5a82673ed32e1a99e08eb9fcd8",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72407$228BD146-1AEE-4FFF-95A1-1A7FA7D5AFCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72407$328C5569-6A09-4EBA-8848-3FCD7AAD27C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000030500854927"
+          },
+          "hash": "58a05eea0c2f152d07ddee83eee5a2437770d4ad",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72407$BD8837FC-532D-45D8-B563-60A2A2B9E77B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus  Crusiello Arms.svg"
+          },
+          "hash": "261469f92fda61a2e0f04044af796d68c96353c9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q72407",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus  Crusiello"
+    }
+  },
+  "lastrevid": 17484866,
+  "modified": "2025-09-16T18:26:50Z",
+  "ns": 860,
+  "pageid": 87238,
+  "sitelinks": {},
+  "title": "Item:Q72407",
+  "type": "item"
+}

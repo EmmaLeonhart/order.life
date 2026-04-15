@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Masatomo"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q63012$AD96F783-B147-4440-B47D-AEB449B69F44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-19"
+          },
+          "hash": "18ba43d902aa671518c1713329c6753bfae4fc65",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63012$73746884-4DE3-4665-8C01-63E2C3BD76CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63012$28D932B7-6AE2-4DB7-B63E-5B315FEFB638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63012$D71A9C85-D104-442B-87B8-8EC8B39C6716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57311",
+              "numeric-id": 57311
+            }
+          },
+          "hash": "db26a5a08a33fb61a0ff1dc8425730abf3c267e0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63012$32BEBC22-9DFF-4C84-8AC4-F6C97855AE84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63012$C96F7F7A-BF1B-4CC1-879E-FE09CB352472",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1823-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6de5d040a45d931ab82e3448318c87f0a0ce6b35",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63012$2944B407-B6A9-488B-9507-17F633359E83",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1862-11-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fbdb4ff0c02b967c1c9850986930999fe30953a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63012$4AFBB88C-0FAC-40AB-B499-965DF0F14CD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530479"
+          },
+          "hash": "5ab27fb479afc57a0357cb3cddb256a743cb6442",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63012$04B9FB60-7AB0-4D88-A437-5D4570907D0E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Masatomo Arms.svg"
+          },
+          "hash": "55a40b7b2da2bf4fcc0dc950d7e3a0df72be3d43",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[松平正和] daimyo of Ōtaki"
+    }
+  },
+  "id": "Q63012",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Masatomo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Masatomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Masatomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平正和"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масатомо Мацудаира"
+    }
+  },
+  "lastrevid": 17472950,
+  "modified": "2025-09-16T15:34:00Z",
+  "ns": 860,
+  "pageid": 77843,
+  "sitelinks": {},
+  "title": "Item:Q63012",
+  "type": "item"
+}

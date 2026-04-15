@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Pengju"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71255$22B42DEB-0BEB-45A7-9D78-E84182F2658B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75999",
+              "numeric-id": 75999
+            }
+          },
+          "hash": "29627535afc2fca1d5245ad17b46a90fc229682b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71255$5F0EAF83-FC38-4C38-92E3-76A35737F52E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76002",
+              "numeric-id": 76002
+            }
+          },
+          "hash": "eaaf8c2aae77f620949f1a292e621b00ec381219",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71255$DE999EF8-346A-4190-9DE8-14C9CFAEC946",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71255$92247D9C-7494-4159-9287-0DE55FD69D0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71255$A725CE2E-2F76-40A0-AC52-DB2E4A6BF3B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66387",
+              "numeric-id": 66387
+            }
+          },
+          "hash": "6eb7c5b7fb1d5017ea9c133e19a646848698ee43",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71255$F5D748D3-9DB7-4B96-A33D-DF441A128FD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71255$F89764AD-F0B4-4717-8DD9-A6D95D71C505",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0869-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae55d571e9b119cb7d9664554cefd25fa4db967b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71255$E3DF09FA-3DDD-4D4F-9F06-B829558F92ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45629903"
+          },
+          "hash": "8892840ec6bf3787b0bea2b6d29fa92f0927933e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q71255$B07661F6-C2CD-4EBB-AAA7-3B8D281A93BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074749586955"
+          },
+          "hash": "a3dce43fab31f6c930302fb204c824a43aeb916c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71255$B2037231-0BC5-4BCF-ABAA-E89BDD5EC02E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Pengju Arms.svg"
+          },
+          "hash": "d58356f27364b31bc11188292c03895055dc108f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180311"
+    }
+  },
+  "id": "Q71255",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Pengju"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Pengju"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Pengju"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛鵬舉"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Pengju"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛鵬舉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛鹏举"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛鵬舉"
+    }
+  },
+  "lastrevid": 17483340,
+  "modified": "2025-09-16T18:05:23Z",
+  "ns": 860,
+  "pageid": 86086,
+  "sitelinks": {},
+  "title": "Item:Q71255",
+  "type": "item"
+}

@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maecia Faustina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q75994$91D30BFA-422F-4EA7-9D77-876FE14D67BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736236"
+          },
+          "hash": "a661bf65cc54cfea29a639af25eaa36348466890",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q75994$D1F81443-BD50-43A1-AA1C-E627E82F3E1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75853",
+              "numeric-id": 75853
+            }
+          },
+          "hash": "eee6ed59948ed14d52ad64ce8d7488d72c9fe008",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75994$188A8F4A-D04D-455D-8863-A923C63B6EF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75994$D3110369-5FBD-4221-8019-6A84F43EE6EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q75994$DB495002-4E40-4AFD-A516-E6A1C957EE37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75997",
+              "numeric-id": 75997
+            }
+          },
+          "hash": "5a0427a60d742927991dcfd758e12d9217549313",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75994$2E8C9EFE-40EC-4429-80B7-6BCAB73BD8A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76189",
+              "numeric-id": 76189
+            }
+          },
+          "hash": "8dc7afd390fbac860faad473c03065c6e108813a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q75994$28CE7033-1245-4B49-8869-599E17666D6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76186",
+              "numeric-id": 76186
+            }
+          },
+          "hash": "5b2146bb4e8acb8e6ce48faa92bd661350d9a7ca",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75994$6FAB2ABB-2615-4F1E-8AAC-F92BE1FE5808",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q75994$959D7351-719A-46DB-A2EE-41F8BFF4EF60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0201-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32b6e79c84cd05b7b38ef20482652e1a86e6d567",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75994$E6F0FBB0-1D63-4832-8DFD-CDBDCC82AD5D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2cf3baf1964f1713bcc86859c083b1dfdb258ec3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75994$F57A41E8-2B41-4D71-95D1-57EE5E0F95D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q443278"
+          },
+          "hash": "f6dab6a79b0934a66496241ca0ababf5dcacf1f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q75994$25142ADA-8D24-4C0D-847C-2650213663E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645859936"
+          },
+          "hash": "277ea4f5a0c0b5e7df76139396a8d374797b089a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75994$7E17C5C7-2A2E-4BB6-BBAE-AA430EA6E976",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antonia Gordiana Arms.svg"
+          },
+          "hash": "7b979b705f1baaedeed57ca65155b4934dcf6db2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75994$69A53D1A-D284-4DDA-9C7F-D87C0BCA20E8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maecia Faustina Arms.svg"
+          },
+          "hash": "10ef2d9adb79b7ae7b913b9b1d57a82e075fd330",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "مؤرخه من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des römischen Kaisers Gordian I. und die Mutter des Kaisers Gordian III."
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of emperor Gordian I and mother of Gordian III"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija del emperador Gordiano I y madre del emperador Gordiano III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble romaine, mère de l'empereur Gordien III"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile romana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "historica uit Oude Rome (201-)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filha do imperador Gordiano I nascida em 201"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "дочка імператора Гордіана I"
+    }
+  },
+  "id": "Q75994",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "انطونيا جورديانا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антония Гордиана"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antònia Gordiana"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antonia Gordiana"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antonia Gordiana"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαικία Φαυστίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antonia Gordiana"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mecia Faustina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antonia Gordiana"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antonia Gordiana"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antonia Gordiana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antonia Gordiana"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antónia Gordiana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antônia Gordiana"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Antonia Gordiana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антония Гордиана"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antonia Gordiana"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антонія Гордіана"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安东尼亚·戈尔迪亚娜"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安东尼亚·戈尔迪亚娜"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安東尼亞·戈爾迪亞娜"
+    }
+  },
+  "lastrevid": 17614561,
+  "modified": "2025-10-22T07:31:54Z",
+  "ns": 860,
+  "pageid": 90825,
+  "sitelinks": {},
+  "title": "Item:Q75994",
+  "type": "item"
+}

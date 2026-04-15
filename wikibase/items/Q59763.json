@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei Tong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q59763$F37E05E0-2CC4-43A7-B7B5-C7B41270AAC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65448",
+              "numeric-id": 65448
+            }
+          },
+          "hash": "eb4ef0a64649a6e29b674c3a58a6a08812214077",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59763$E3E71E0C-3CC5-422C-B219-735D6E12C606",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65451",
+              "numeric-id": 65451
+            }
+          },
+          "hash": "dca8205c16c29f73badbe155ae031f85c6ca9f5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q59763$340A59AF-F5CF-4C94-BCF6-F53EA7A89F61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59763$7C5A013A-B49E-468B-8BA8-CD26168DF454",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q59763$D75F640E-74D5-4CA6-8AD0-177B43071EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52965",
+              "numeric-id": 52965
+            }
+          },
+          "hash": "75222b9a800666821e2ba6e70ab8b56dc1f61852",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q59763$BBEFA95D-2E3D-4EA2-8534-C1F5744BC6A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q59763$CC03AE76-955E-426D-8A11-6B654F7AEF84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0623-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "213ea34df0e5db99ef3f633872df713c2d0e4335",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q59763$2D2AEDA4-DEDC-4F11-A7BA-54DC74F8FBE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45661079"
+          },
+          "hash": "03d91db7c4ac2b18668f222d8338576e60a8b40f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q59763$283FF45B-B034-48E5-B6CB-34696B8571A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074759749986"
+          },
+          "hash": "e8826387256fe96535711c981e69ebc54bc887c0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q59763$12625460-9618-4CE0-BA6E-3625DB38FF1D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei Tong Arms.svg"
+          },
+          "hash": "ff74d2668ecd10f2d0a60e0aba0a8dfa949d45f7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180879"
+    }
+  },
+  "id": "Q59763",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wei Tong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wei Tong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei Tong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋彤"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei Tong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韦彤"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦彤"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋彤"
+    }
+  },
+  "lastrevid": 17468716,
+  "modified": "2025-09-16T14:30:07Z",
+  "ns": 860,
+  "pageid": 74594,
+  "sitelinks": {},
+  "title": "Item:Q59763",
+  "type": "item"
+}

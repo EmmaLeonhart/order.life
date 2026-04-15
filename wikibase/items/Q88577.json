@@ -1,0 +1,726 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cyaxares"
+      },
+      {
+        "language": "en",
+        "value": "Cyaxares, king of Media"
+      },
+      {
+        "language": "en",
+        "value": "Cyxares"
+      },
+      {
+        "language": "en",
+        "value": "الملك سياخاريس  بن الملك فراورتيس"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74455$11EEC223-527E-4983-AB89-BC0936E546CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "95784"
+          },
+          "hash": "1ad5c7605a845276664bf6f2cb9e6dcff255144c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74455$F4DE772D-4EE0-4131-BB83-E6B46D34AEE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738293"
+          },
+          "hash": "f5c746f1df606eb8212e6c919486586f3487138f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74455$408A54FE-EFE2-43E8-AD77-68EEDD0B7E68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74410",
+              "numeric-id": 74410
+            }
+          },
+          "hash": "3196d8730d17d999ba16cb2ad4c4dae40bf7fcf1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74455$1868A4A1-CE67-4765-BDE6-6AF8CE0A2C8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135657",
+              "numeric-id": 135657
+            }
+          },
+          "hash": "181d32e46b4187f7e5c5af6e2d4f4eaa042248dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74455$30C2B7D6-27FB-4BFE-B04A-AFED86003BC9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك سياخاريس"
+            }
+          },
+          "hash": "b24e16b76ee85da659d76943b56f08844fab525a",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74455$04AB32F9-334E-41E2-9C36-E2DEE86D8689",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74455$48D9CDF9-673F-45B1-985B-3B8B31CE3A88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q74455$4DA25202-60BE-43EF-B81F-0E0271F0EDD5",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "بن الملك فراورتيس"
+            }
+          },
+          "hash": "eb017a23dafb59578c8da5c2609b679f6ebfc8bd",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74455$C4A32458-47C0-4A01-91E0-80B1C3B07803",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74452",
+              "numeric-id": 74452
+            }
+          },
+          "hash": "668cdf03ffe227defe52ae05763333f30d9c831e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74455$EEEA239B-8DC7-4C5A-B296-434B49FBA3B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99470",
+              "numeric-id": 99470
+            }
+          },
+          "hash": "18c3b61307ab2ca314e0f16115f6c2caa4069ff6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74455$8765DD70-92DD-4E63-BE52-6805FDC27EB4",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك سياخاريس /بن الملك فراورتيس/"
+            }
+          },
+          "hash": "6251921b513a6de327d81c56ec91cc3ef396a495",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74455$5116ABEC-43AB-41C9-9A9D-05A51905B612",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74455$00FBD39A-54B0-44BA-A6FC-A89EAFDA40CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74455$F46FD000-9E5D-4715-910C-8C0637730DE7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0584-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c71eb43b32445cbdfc88aac6846f7201893c552",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74455$38F37FB1-5D7A-4925-B87E-98A4884AE948",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q297855"
+          },
+          "hash": "5270943877cd39c3c3ac33e176ee8ffea558f4ca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74455$8EB1A953-8E26-447D-8B99-61D27A9B595F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000437385329"
+          },
+          "hash": "dd9c12b5a9a82d7e881f480e14d8241fe883e957",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74455$7E237C06-627A-4B37-B9CC-87C6CB88D71B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187613948"
+          },
+          "hash": "b9f9ad53293742f441b94daddd7064803c0984fd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74455$2BE016A8-06DF-4680-8336-3846FB5096F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007178114860"
+          },
+          "hash": "b7b07d6af9cb3254037e23d11deeaf1c7a41ab28",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74455$4FEB1F8A-5BFD-48B5-8242-0DF06D76CC3D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cyaxares Arms.svg"
+          },
+          "hash": "436d06b7e250f8ca249741acd3f569bc58ade0bd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "medischer Regent"
+    },
+    "en": {
+      "language": "en",
+      "value": "The third and greatest king of the Medes (625–585 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tercer rey de Media"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سومین و بزرگترین پادشاه ماد (۶۲۵–۵۸۵ پ.م)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Mèdes de 625 à 585 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך מדי השלישי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Méd Birodalom uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "re dei medi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "メディアの王でフラオルテスの子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "메디아의 3대 국왕"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge av Media"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning van de Meden"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Medów"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei da Média"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rei da Média"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Мидии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antik çağdaki Med lideri"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Мідії"
+    }
+  },
+  "id": "Q74455",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سياخريس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سياخريس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kiaksar"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "هووخشتره"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Киаксар"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সিয়াক্সেরিস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kiyaksares"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ciàxares de Mèdia"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ھەڤەخشترە"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kyaxarés"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kyaxares"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kyaxares II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κυαξάρης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cyaxares"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kjaksaro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ciáxares"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ziaxares"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هووخشتره"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cyaxare"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ciaxares"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κυαξάρης"
+    },
+    "he": {
+      "language": "he",
+      "value": "הווחשתרא"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kijaksar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Uvakhsatra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կիաքսար"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ciassare"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キュアクサレス2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "퀴악사레스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hevexştre"
+    },
+    "ku-arab": {
+      "language": "ku-arab",
+      "value": "حەڤەخشترە"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hevexştre"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cyaxares"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kiaksaras"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Kiaksaresy"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Кијаксар"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "هووخشتره"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kyaxares"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cyaxares II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kyaksares"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "کیاخریس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ciáxares"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ciáxares"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cyaxares"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Киаксар"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kjaksar"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kyaxares"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kjaksar"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кијаксар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kyaxares"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ҳувахшатра"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Dakilang Cyaxares"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Siyaksares"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Увахшатра"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Kiaksar"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cyaxares"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "კიაქსარი"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "基亞克薩雷斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "基亚克萨雷斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "基亚克萨雷斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "基亞克薩雷斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "基亞克薩雷斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "基亚克萨雷斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "基亞克薩雷斯"
+    }
+  },
+  "lastrevid": 17487386,
+  "modified": "2025-09-16T19:02:14Z",
+  "ns": 860,
+  "pageid": 89286,
+  "sitelinks": {},
+  "title": "Item:Q74455",
+  "type": "item"
+}

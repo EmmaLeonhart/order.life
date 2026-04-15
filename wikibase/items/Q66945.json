@@ -1,0 +1,147 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Ping'en"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q66945$B29C8836-9861-4256-BF45-F32023EEC26A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66945$1A32377F-5B62-405A-993E-B228A2C2700B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66945$A0A2B5FB-66EB-47AB-9D2A-23BC342E6CA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61293",
+              "numeric-id": 61293
+            }
+          },
+          "hash": "967380c630cf85af8b243139704bd3e7ee55bb63",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66945$12B2F04B-FDBF-4041-A284-8CA4D5D975D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66945$4AE8E2ED-7CF7-46BA-9D40-97BBFB064916",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11060973"
+          },
+          "hash": "e9b5e34ed55c3617ec8be54b75ad4c815e6fe8ee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66945$40E4FC1D-39E3-49DC-AC31-93B26E1E93C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Ping'en Arms.svg"
+          },
+          "hash": "a3bf6810f0bcf691d26a2629e9bc8bd4e8d21f04",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q66945",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Ping'en"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平恩公主"
+    }
+  },
+  "lastrevid": 17477870,
+  "modified": "2025-09-16T16:48:40Z",
+  "ns": 860,
+  "pageid": 81776,
+  "sitelinks": {},
+  "title": "Item:Q66945",
+  "type": "item"
+}

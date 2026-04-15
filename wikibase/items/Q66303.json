@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Zong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q66303$C2214040-BB5C-4990-A43B-385D4D0946C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71198",
+              "numeric-id": 71198
+            }
+          },
+          "hash": "ae85ae010adaf5dbc5742069ca4809286fe446c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66303$7403ACB1-DABC-4E33-AF10-77508AB3C424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66303$58808E4A-23E4-4E45-BCCB-AB9DDB4EDEC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66303$474072B6-FCE1-4007-A694-51435798B0F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60514",
+              "numeric-id": 60514
+            }
+          },
+          "hash": "ef6f0d2a86af1ee37acbcaae2a32548133154c42",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66303$7CA2BAFE-0599-49A1-AFD2-91D87FD37830",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66303$9ACA52AD-0583-45D2-BDE1-A9AE02FA2FBC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0867-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "107edca205507ae7063f260bb98af58da1fab881",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66303$F91123EA-7315-4465-8588-E6F8351C4F4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45633348"
+          },
+          "hash": "3d0bbb286b670cc74d049d43a0cba6866c606458",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66303$FB751382-891B-4BBA-9671-AC412102B209",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074697959087"
+          },
+          "hash": "cd55ceb8e0964140807db33cc1936360617b9928",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66303$A25C1682-8587-4EA9-894D-9AD279C05961",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Zong Arms.svg"
+          },
+          "hash": "4327f405b3671ce5cba48f3d1cc611e3c2c2f290",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180368"
+    }
+  },
+  "id": "Q66303",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Zong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Zong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Zong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛潀"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Zong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛潀"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛潀"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛潀"
+    }
+  },
+  "lastrevid": 17477020,
+  "modified": "2025-09-16T16:35:42Z",
+  "ns": 860,
+  "pageid": 81134,
+  "sitelinks": {},
+  "title": "Item:Q66303",
+  "type": "item"
+}

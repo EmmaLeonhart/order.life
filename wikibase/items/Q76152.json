@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wei Fajun"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q76152$EA6A69BE-1D0B-4B8F-BB08-86F774A83FFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80598",
+              "numeric-id": 80598
+            }
+          },
+          "hash": "d1fc838d057aa1fd7bc2fb6c9b924be381be774e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76152$C5B323CA-86C9-45A7-A535-AC173F76AE87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q80601",
+              "numeric-id": 80601
+            }
+          },
+          "hash": "0d772c94440521eee92591a8ee0b842a2ec34abe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76152$727182F0-F923-4834-B95A-F2F41C41DF79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76152$323CEF94-B3EC-4DC7-A909-E0F63D0A2A4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76152$88DC3CDB-C0C8-4FDC-9C9A-BD70834118A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71363",
+              "numeric-id": 71363
+            }
+          },
+          "hash": "c2ff6422c8f55ef6270c78d53a86649a9b011d3c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76152$00894259-10C4-4D72-8413-F458DDD1865F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76152$2BC04D25-30B8-4569-88C8-4F5786CE9B65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0549-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "222570e60cfd8a680edb7a01357ce4d41ac5f241",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76152$B61B2E3B-F3D1-42E6-881D-7CFDA4D959C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45602698"
+          },
+          "hash": "ef0027e010c0152ddbf796739eaeaaa0775caafe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76152$B9489AD9-8933-4E90-AD71-C3F3CD695B0E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wei Fajun Arms.svg"
+          },
+          "hash": "7ded4631ab5ac38966af7b5917904a7993430efa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 179832"
+    }
+  },
+  "id": "Q76152",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wei Fajun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wei Fajun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wei Fajun"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "韋法儁"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wei Fajun"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韋法儁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "韦法俊"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "韋法儁"
+    }
+  },
+  "lastrevid": 17489604,
+  "modified": "2025-09-16T19:32:35Z",
+  "ns": 860,
+  "pageid": 90983,
+  "sitelinks": {},
+  "title": "Item:Q76152",
+  "type": "item"
+}

@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Mian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q67239$2BFEF918-299F-443D-9068-F2883DDEEC4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67239$4A7D30D2-BCFD-49C2-8254-580555F7BAC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67239$3B2ADE24-6A34-4BC4-AD22-F43C595F2A3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61593",
+              "numeric-id": 61593
+            }
+          },
+          "hash": "26a1d80cba32f5daa0b4ddafd13c5c24a62e6715",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67239$4C3E4DF0-67CC-453F-B824-BFB5C31B413D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q67239$2C9519CD-F13E-4F1B-A74C-CAD06B186548",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a554c7ff86988519b6b4b59e89ab9bb4e914800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67239$A3164CF2-0198-4B21-8A70-9D191F1C75AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0842-03-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5c6ae792cf5ba6eb029114a3d06ad2a3826d72c8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67239$E5B53B1F-5DB7-4883-BEE6-A1C607C316CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8044221"
+          },
+          "hash": "444f4870d04b4c7d8adc23bb5bed1f0ff940d453",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q67239$AF7B3BC5-226A-4ACA-835F-4E7BAB294624",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074733273857"
+          },
+          "hash": "dce18362bc554ce5ab97ac2dfe4c26d0e555401e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67239$DF04717B-CE82-47EA-BFC3-A18C891A8AF4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Mian Arms.svg"
+          },
+          "hash": "d4bc5457d21b5bbd2462ac21c1f955edc28d2e8c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese Chancellor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver uit Tang-dynastie (-842)"
+    }
+  },
+  "id": "Q67239",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Mian"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xiao Mian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Mian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Mian"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Xiao Mian"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭俛"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Mian"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Xiao Mian"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Phủ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭俛"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧俛"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭俛"
+    }
+  },
+  "lastrevid": 17478264,
+  "modified": "2025-09-16T16:54:15Z",
+  "ns": 860,
+  "pageid": 82070,
+  "sitelinks": {},
+  "title": "Item:Q67239",
+  "type": "item"
+}

@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Yuanfang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q61767$DE524547-DF67-42F0-A07C-5CE597BABFCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67377",
+              "numeric-id": 67377
+            }
+          },
+          "hash": "4c88698e338ecb3430295a7db08bacb24f4a1648",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61767$8124A684-DE72-4930-A3BD-DF62C095D959",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67380",
+              "numeric-id": 67380
+            }
+          },
+          "hash": "4016b32cfa5cac82dea1d13140f55439cd720e37",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61767$4E6CECFD-77D6-4447-8DFA-B15350D5C3C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61767$C8D399A9-A6C6-49DD-9D02-0875F4A9C332",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61767$FD501511-8F88-4E08-BDBB-93C77EF21325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55259",
+              "numeric-id": 55259
+            }
+          },
+          "hash": "a7a5886365e3c06033e453345609e9548fc9cbfb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61767$F77334EE-818B-45BC-9224-0833AE1D7954",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61767$86D081CD-5A55-4484-9515-3EFC1BDFBBC0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0856-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb4f8077bbd8b6abf63d7546a206e7b0c37b539e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61767$F8B29E34-A4FF-4794-8E3B-A371DBEB3B82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45535865"
+          },
+          "hash": "f8509147c6a86472582ad98a2e4d8a4b51e39b58",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61767$92EBE01E-B3B6-4B42-B6D6-7572D88FCD34",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Yuanfang Arms.svg"
+          },
+          "hash": "75f50cd37c6428b862f3026050b646f8cfe0e1ca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 189005"
+    }
+  },
+  "id": "Q61767",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yuanfang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Yuanfang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李元方"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Yuanfang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李元方"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李元方"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李元方"
+    }
+  },
+  "lastrevid": 17471406,
+  "modified": "2025-09-16T15:10:12Z",
+  "ns": 860,
+  "pageid": 76598,
+  "sitelinks": {},
+  "title": "Item:Q61767",
+  "type": "item"
+}

@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Shiming"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62296$03B469D8-7DD7-41A8-9346-7D479EABFB65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68041",
+              "numeric-id": 68041
+            }
+          },
+          "hash": "154a8622722ffdec3177739961707dd175193071",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62296$F80ABF38-2319-4DCC-90BD-8C1487D1F256",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68038",
+              "numeric-id": 68038
+            }
+          },
+          "hash": "155d527073292cc99733a7dcfd08d3e2c3369d8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62296$9CCA5EE4-7E40-46B6-98C5-B140986EE67F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62296$53532D25-9A9D-4C70-9730-BEEC27758497",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62296$FA9D6074-1203-4D56-979C-08BCC41D8184",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56242",
+              "numeric-id": 56242
+            }
+          },
+          "hash": "bc9d928c5136509dc3d466e92b9effb202b78c55",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62296$C8373777-A1DF-4EAA-B25A-3A1FC04F15A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62296$F21FD6F9-7791-4D3F-AE44-8DC320BF03D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0523-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c47b5059d829297c9da4da61b28177004cb3c2df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62296$5C6FED88-EDE3-468B-A8EA-6F3C5BE6AE7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45420206"
+          },
+          "hash": "ddc0f393311a9c8e19359599cd8905e4d232bc05",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q62296$513814D7-F299-4E74-B6B9-0D242D62A9EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074746334420"
+          },
+          "hash": "0a65d9f2f49bcddd4d7dda754dfcf3baef8f1c40",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62296$BDDFF0DD-29AA-43BC-BBE4-A78AD5F3E015",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Shiming Arms.svg"
+          },
+          "hash": "8041692f5c545ff8ded11c3391f823a16a6353dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei person CBDB=31717"
+    }
+  },
+  "id": "Q62296",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Shiming"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Shiming"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Shiming"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "劉世明"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉世明"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Shiming"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉世明"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘世明"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉世明"
+    }
+  },
+  "lastrevid": 17472112,
+  "modified": "2025-09-16T15:21:20Z",
+  "ns": 860,
+  "pageid": 77127,
+  "sitelinks": {},
+  "title": "Item:Q62296",
+  "type": "item"
+}

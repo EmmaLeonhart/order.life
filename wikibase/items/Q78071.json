@@ -1,0 +1,676 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Licinia Eudoxia Augusta"
+      },
+      {
+        "language": "en",
+        "value": "Roman Empress Aelia"
+      },
+      {
+        "language": "en",
+        "value": "Licinia Eudoxia"
+      },
+      {
+        "language": "en",
+        "value": "Roman Empress /Aelia/"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q60518$E5221E54-C310-42BF-885C-E939F258A1DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "143778"
+          },
+          "hash": "b6c9b83ee7c217134ba0a76671b939f479716c46",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q60518$5586C3C5-E1F5-4E5D-B2A0-EFF3A719A3EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248942"
+          },
+          "hash": "db134811af6f23f8aa72b6619f406be360ccf3b6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q60518$E18E42D2-19D0-4EA0-9E7B-C2E8150D7B58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60386",
+              "numeric-id": 60386
+            }
+          },
+          "hash": "00ef4e2c80cc460ce84fd33b52282ca16cef5eee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60518$6182299B-9147-4D9A-8015-2B6BFA1A1B9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111929",
+              "numeric-id": 111929
+            }
+          },
+          "hash": "474422364b30164475174f5be3587385f2ea1224",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60518$FEA83D29-28D0-4F46-8F5A-A8EBECFB2FBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111165",
+              "numeric-id": 111165
+            }
+          },
+          "hash": "5c6f1330314bf0d68d9d282e282465d27893fbe7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60518$D9307BDD-5FEC-4362-8942-535B11010C00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166693",
+              "numeric-id": 166693
+            }
+          },
+          "hash": "f0d0d684cb5532fabfc2a6d1e64ae6bd22db3176",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q60518$1AA7ADD5-85AB-4DB9-8CF3-9AA75653A1E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodosian-4"
+          },
+          "hash": "49024074c83d240dfa5ce347df16a332de1ed7d6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60518$B348D981-3473-4AB2-AB7D-079D8C618C88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60518$069077EC-9EDB-4B1A-B226-C0A20B059351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q60518$5E4F3342-CD5F-4F0B-A24C-732DAB574D59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Licinia_Eudoxia_(5)"
+          },
+          "hash": "2b93c94e776ea4f2b8526bac7373bed03ee5f216",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q60518$88F7AAC7-4D3D-4FE0-97D9-D96B01F08017",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60548",
+              "numeric-id": 60548
+            }
+          },
+          "hash": "feeb196b103d794f482c4823adad7130ee27e24a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60518$E6FE7CE1-95CA-4A96-BFD1-889655B11CB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99627",
+              "numeric-id": 99627
+            }
+          },
+          "hash": "92ede6fcc57b9f17eb1b44d4f4bc139a34131130",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60518$3D0AD40A-43A5-4F28-A245-793E35E65C82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60680",
+              "numeric-id": 60680
+            }
+          },
+          "hash": "2a281c91ac1538a97cdfdcfa8480582e167195d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q60518$E05213FA-D425-4B03-8E6B-F3B3291A192B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60713",
+              "numeric-id": 60713
+            }
+          },
+          "hash": "0fa1e018773f1575fe11cc084340d22caf74626e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q60518$FAEA5F2F-8B6D-4236-8DC6-46054E3B3F1D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "\"the Elder\" Roman Empress"
+          },
+          "hash": "663e73df85a43d0eadd653933f75ae941de8888a",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60518$954CD10D-08E2-421C-B942-012A608A13A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q60518$43735276-CADB-4407-A185-0173DD635156",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0422-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "604f0497a07271f993b30467bf1ab60bd4878a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60518$A38CE388-69B9-4367-9EF9-DDFE1D668D6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0493-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "771f864565bfe9cd43a8d0bee888fa8bd10e0afd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60518$DF8C1BF0-8C58-419A-858D-AACE4F168AB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q232329"
+          },
+          "hash": "6c5c8613876e141569859e885ada9b68280f806f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60518$9203D2E7-3511-4C28-A8B9-368694A9B20C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000914324156"
+          },
+          "hash": "50d2126c999ea8635dc07e4cad7b9805e4b76468",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60518$366F184D-CDCC-4876-AA08-45FCFB9C0C86",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Licinia Eudoxia Arms.svg"
+          },
+          "hash": "e7d12aee2698ca62353c0f8d83c1c0e08aebb002",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسيه من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter Kaiser Theodosius’ II. und Ehefrau Valentinians III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαία Αυτοκράτειρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Empress (422-493)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "roma imperiestrino (422-493)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperatriz romana"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mendebaldeko erromatar inperioko enperatriza (422-493)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסרית האימפריה רומית המערבית במאה ה-5"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana d'Occidente, figlia di Teodosio II ed Elia Eudocia, consorte di Valentiniano III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Oude Rome (422-493)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma İmparatoriçesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "августа Західної Римської Імперії"
+    }
+  },
+  "id": "Q60518",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ليكينيا يودوكسيا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Licinia Eudoxia"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ліцынія Еўдаксія"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лициния Евдоксия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eudòxia"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Licinia Eudoxia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Licinia Eudoxia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Licinia Eudoxia"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Licinia Eudoxia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λικινία Ευδοξία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Licinia Eudoxia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Licinia Eudoxia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Licinia Eudoxia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Licinia Eŭdoksia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Licinia Eudoxia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Lizinia Eudoxia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لیسینیا اودوکسیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Licinia Eudoxia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Licinia Eudoxia"
+    },
+    "he": {
+      "language": "he",
+      "value": "ליקיניה אודוקסיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Licinia Eudoxia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Licinia Eudossia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リキニア・エウドクシア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Licinia Eudoxia"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Лицинија Евдоксија"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Licinia Eudoxia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Licinia Eudoxia"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Licinia Eudoxia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Licynia Eudoksja"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Licínia Eudóxia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Licínia Eudóxia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лициния Евдоксия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Licinija Eudoksija"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Лицинија Евдоксија"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Лицинија Евдоксија"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Licinija Evdoksija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Licinia Eudoxia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Licinia Eudoxia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ліцінія Євдоксія"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لیسینیہ یوڈوکسیا"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李锡尼娅·欧多克西亚"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "李锡尼娅·欧多克西亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李锡尼娅·欧多克西亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李錫尼婭·歐多克西亞"
+    }
+  },
+  "lastrevid": 17469742,
+  "modified": "2025-09-16T14:45:02Z",
+  "ns": 860,
+  "pageid": 75349,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q60518",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q60518"
+    }
+  },
+  "title": "Item:Q60518",
+  "type": "item"
+}

@@ -1,0 +1,147 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeno Yorifusa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q78331$1DA236F1-A28B-42A1-8F0F-2BB543FA0D6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78331$6AECCE20-E34F-4C77-ADCE-105BD15C00DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78331$4820F760-AA2B-4F32-B175-43FCCD60074D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73594",
+              "numeric-id": 73594
+            }
+          },
+          "hash": "b90fe58c24f93d3f11385520cc8ad5218d47e438",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78331$DE708541-8667-43A3-88E4-136683406B86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78331$4B8E68A5-3A8A-4388-869D-AA9A6E69B904",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q115586265"
+          },
+          "hash": "dc3df7126f6f12b62d8efc8492943fcd1997461f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78331$0C143A09-34C8-4542-89D9-4A1F17893C86",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeno Yorifusa Arms.svg"
+          },
+          "hash": "b6ed4c01fd99fc5d77742dfbf12f6c5e4e4a14c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q78331",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeno Yorifusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前野自房"
+    }
+  },
+  "lastrevid": 17492346,
+  "modified": "2025-09-16T20:12:04Z",
+  "ns": 860,
+  "pageid": 93162,
+  "sitelinks": {},
+  "title": "Item:Q78331",
+  "type": "item"
+}

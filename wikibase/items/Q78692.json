@@ -1,0 +1,931 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavius Arcadius"
+      },
+      {
+        "language": "en",
+        "value": "Arcadius Eastern Roman Emperor"
+      },
+      {
+        "language": "en",
+        "value": "Αρκάδιος"
+      },
+      {
+        "language": "en",
+        "value": "Arcadius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61140$CF9DCC9F-DB0E-4E70-8DEA-AB2DD563C98D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "143780"
+          },
+          "hash": "05ed34102e70dcfc5a6c8ce09e959deb1abe8ffb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q61140$B544CEA4-30DC-4E7E-8AA6-17A8C6B2E079",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248951"
+          },
+          "hash": "fbbbfed667f4fa6ea4a6c0e643ccd754d11547a9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61140$3F448C34-E0DF-4E43-ADD7-767DC486AFBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60680",
+              "numeric-id": 60680
+            }
+          },
+          "hash": "84cf7993e110acbc2f9b96f533c695ffd5f90b86",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61140$2CE013EB-40D4-42DD-9641-F1AE09D5F72A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118480",
+              "numeric-id": 118480
+            }
+          },
+          "hash": "25851d9a9846143986aea284d6d04d5f5f38b113",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61140$DFF89E37-79BD-4FB6-9784-92612F41C6E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113281",
+              "numeric-id": 113281
+            }
+          },
+          "hash": "21fc01c7f16a68d91d381b045584e35dddc2d108",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61140$BE498641-658F-43B6-BC33-AD4BF4BF1B3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118482",
+              "numeric-id": 118482
+            }
+          },
+          "hash": "296419508bcfa7e20655743de4440b93d904d7a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61140$AAA92C92-DF8E-4BFF-94A5-D469C68265A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114995",
+              "numeric-id": 114995
+            }
+          },
+          "hash": "f5763724b524f75aace07290aeb07ec3d493fb20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q61140$FE61D38E-2A53-4910-A8F3-4BB4DEBD0D4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arcadius-1"
+          },
+          "hash": "c1c1cdb8f922aaef8207c408d5e3a2fec839b062",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61140$F2B65F1E-5B02-4914-87A5-C026E4EA6292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61140$96C03AE7-E97A-40D9-86F1-925121B53B5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q61140$1F8B6F3E-D623-4883-9A04-45B33A617FC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arcadius_(1)"
+          },
+          "hash": "08e070f77cee55ec697bfd30458d3e70a4baeb45",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61140$C73BD363-68B5-4563-A6BD-DA184C59E32D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61268",
+              "numeric-id": 61268
+            }
+          },
+          "hash": "bdf3c55ef0004ffc73dc8c64f114074b68d4ff7e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61140$72B2FA22-DA09-42A3-966C-9B67C1B44489",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67474",
+              "numeric-id": 67474
+            }
+          },
+          "hash": "5e2de4bafef03369a7cf47d43f0339f213224feb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q61140$3A2F5845-BB0E-43C8-8DB5-1C346FD1E144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70038",
+              "numeric-id": 70038
+            }
+          },
+          "hash": "a14340158f70104d8067b653d3f1c83ca0fb48e8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q61140$00800D8E-8F61-4DE4-A0E6-1AD0F2B05DFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "37123805"
+          },
+          "hash": "6f23a8179acf23d5d48e2b7fe48032a783604472",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q61140$8A6D3129-0193-4739-B52C-B1FD7C33FE2D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Eastern Roman Emperor"
+          },
+          "hash": "3d6cd5c7864fe69ae7f2891a5b4988579423dd1e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61140$51E423D1-5F15-4A69-AE17-AE6FFA22CD0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61140$F3EB5815-91BE-4332-8270-F06693CE31CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0377-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8700e88b8f1005c618628b1429aa0dadcaa2cc39",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61140$5FA56959-4A7B-428C-B2BC-FD2C6304F5C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0408-05-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "206d05b71fe8f57e15d1977f2edd1a1adbef3b30",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61140$C82D224F-10C0-49F4-B414-B2272845786C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q159369"
+          },
+          "hash": "b30f2022cac5eda2fd413c04c1049c9fe056509a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q61140$71D81DB7-3C00-4CEF-8A91-A92B5398F7D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002119938632"
+          },
+          "hash": "6f51d6ea6555f5fabaa2307a375a4709bca3c410",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q61140$67493578-7782-450E-8C55-FA0165C8ED5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:50454"
+          },
+          "hash": "bf28507e0981c5b630c0526a0d46378bdeacb919",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61140$DB2A27AA-6324-42E0-BFF7-4B68A30201A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arcadius Arms.svg"
+          },
+          "hash": "f2db65f7547bfffea173e14165fc594f778814b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q61140$D773BFD5-8A0A-4FDC-9674-B114C1EDEF4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/5C125878-8576-459C-A7F4-6E45A66A04A6"
+          },
+          "hash": "ac326878dbdd1403d0a4ad395d7ce2346afa7bd6",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "император на Източната Римска империя"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(c. 377 – 408) emperador bizantí (383 -408)"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "малхбален Руман империн хьалхара император"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "východořímský císař"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ymerawdwr Rhufeinig o 395-408 (377-408)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oströmischer Kaiser von 395-408"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Emperor from 395–408 (377-408)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano de oriente (395-408)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Itä-Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain d'Orient de 395 à 408"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador do Imperio Romano de Oriente, fillo de Teodosio I o Grande"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "keletrómai császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi Timur yang berkuasa sejak tahun 395 hingga 408 M"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano d'Oriente (r. 395-408)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東ローマ帝国テオドシウス王朝の初代皇帝。テオドシウス1世の長男。"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "383~408년의 로마 황제"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators no 395. līdz 408. gadam"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "३८३ ते ४०८ चे रोमन सम्राट"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Byzantijnse Rijk (377-408)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz wschodniorzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperador romano do Oriente de 395 até sua morte"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărat roman (395–408)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "император Восточной Римской империи"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијски цар"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "імператор Східної Римської імперії"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ 395-408 (377-408)"
+    }
+  },
+  "id": "Q61140",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Arcadius"
+    },
+    "an": {
+      "language": "an",
+      "value": "Arcadio"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "آركاديوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اركاديوس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "آرکادیوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Флавій Аркадзій"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Аркадий"
+    },
+    "br": {
+      "language": "br",
+      "value": "Arcadius"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Arkadije"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arcadi"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Флавий Аркадий"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Arcadius"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Arcadius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Arcadius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arcadius"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Arcadius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρκάδιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arcadius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Flavio Arkadio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arcadio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Arcadius"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Arkadio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرکادیوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Arcadius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arcadius"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Arkadius"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Arcadio"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Arcadius"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארקדיוס, קיסר האימפריה הביזנטית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Arkadije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flavius Arcadius bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արկադիոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Arcadius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arcadio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルカディウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არკადიუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아르카디우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Arkadiyo"
+    },
+    "ku-arab": {
+      "language": "ku-arab",
+      "value": "ئارکادیۆ"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Arkadiyo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Arcadius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Arkadijus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Arkādijs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Аркадиј"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "आर्केडियस"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Arcadius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arcadius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arcadius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Arcadius"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Flavius Arcadius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Arkadiusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arcádio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arcádio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Arcadius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флавий Аркадий"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Arcadius"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arkadije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Arkadius"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Arkadij"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Arcadius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Аркадије"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Аркадије"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Arkadije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Arcadius"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Arcadius"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอาร์กาดิอุส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Arcadius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Arcadius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аркадій"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آرکادیوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Arcadius"
+    },
+    "war": {
+      "language": "war",
+      "value": "Arcadius"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "阿卡狄乌斯"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Arcadius"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "阿卡狄奧斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿卡狄奧斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿卡狄奥斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿卡狄奥斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿卡狄奧斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿卡狄奧斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿卡狄奥斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿卡狄奧斯"
+    }
+  },
+  "lastrevid": 17470570,
+  "modified": "2025-09-16T14:57:21Z",
+  "ns": 860,
+  "pageid": 75971,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q61140",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q61140"
+    }
+  },
+  "title": "Item:Q61140",
+  "type": "item"
+}

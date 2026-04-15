@@ -1,0 +1,338 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hiroshi Yasuda"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q63863$CC1B2BD2-8F82-4710-941E-ABA2AB053C7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "安田-11"
+          },
+          "hash": "b782c24613b7e8464210a136ac167427512db1da",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63863$A54DB4E5-AF4A-42F3-8FD5-1AC451CA56F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63863$DF95561A-31F8-4E4C-A4B6-E4A621FE4EF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63863$5F9B8AEC-E666-45E5-81F7-D49A575F798F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58352",
+              "numeric-id": 58352
+            }
+          },
+          "hash": "5c97136fb529d3a38ef666bbd73cc85a41d4a2d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q63863$02A4EEDF-3AA2-4FBC-A684-4E5AAA6E63D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63860",
+              "numeric-id": 63860
+            }
+          },
+          "hash": "bb949d7922a76feb6bd34131a09796e303e8f0dd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63863$6C2FF031-C6C4-4DA6-BA20-ECC68F0A0E5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63863$EA8BC05D-77A2-4E20-A562-322D2C2A6450",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1933-03-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49f8a1b904239b800f92d2556e0fce83872c8e32",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63863$83440E55-D1D9-44D0-A831-14F19FBC0EB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+2023-07-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f768d993a105a13af87a1a7d1270c3c1331ad13",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63863$BDD399E7-4099-4A7B-9DF9-E7A045833EE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11451045"
+          },
+          "hash": "c130a41b9502de1655a3627d4518ed86765198e7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63863$1ED75DC7-AE99-41A1-806A-B4BFE71ECD5F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hiroshi Yasuda Arms.svg"
+          },
+          "hash": "291c984d0c55d4fcf18059bbcf8bd46127a2f741",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "رجال أعمال ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "empresariu xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি ব্যবসায়ী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "empresari japonès"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese businessperson"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese businessperson"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese businessperson"
+    },
+    "es": {
+      "language": "es",
+      "value": "empresario japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani ärimees"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme d'affaires japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "duine gnó Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "empresario xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "איש עסקים יפני"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の実業家 (1933-2023)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans ondernemer"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "om de afaceri japonez"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "biznesmen japonez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon iş insanı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський підприємець"
+    }
+  },
+  "id": "Q63863",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hiroshi Yasuda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hiroshi Yasuda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hiroshi Yasuda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hiroshi Yasuda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安田弘"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hiroshi Yasuda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хироси Ясуда"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hiroshi Yasuda"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hiroshi Yasuda"
+    }
+  },
+  "lastrevid": 17473888,
+  "modified": "2025-09-16T15:48:49Z",
+  "ns": 860,
+  "pageid": 78694,
+  "sitelinks": {},
+  "title": "Item:Q63863",
+  "type": "item"
+}

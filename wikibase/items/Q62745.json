@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogasawara Nagayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q62745$6A715733-C38C-468D-9AF9-84070C9A8CA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62745$0D6CC504-6C48-4003-8648-C58B741BA441",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62745$ECF368F8-0612-44D3-B49C-1EB60277663C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56954",
+              "numeric-id": 56954
+            }
+          },
+          "hash": "7b04f6ecf27fec920bad00a5d3bb24e5eefca58b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62745$F0D489C6-71E5-49DD-BCFB-E2AADD2FB614",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62745$40AD4A94-701F-4F69-8A3A-1B85C4D3CDFF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1821-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aca6b7456208b6ab6f1b4dc1433c044e59802a84",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62745$C020B99C-FEAD-433B-B055-036451A6F7A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1840-11-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2bbc53d812fdc76c6ac027947864f75fb4993570",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62745$4EE70438-1CD1-4BBC-A62F-DBA359F510E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11463414"
+          },
+          "hash": "ce87c2781ce330f3d62d2f572e9e8fdd3908c37e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62745$3E70584B-A0F0-47D5-A50E-B257A7FE3793",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogasawara Nagayoshi Arms.svg"
+          },
+          "hash": "901ee141fe817d2d9e6f54d0684363b72a9f65d2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q62745",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ogasawara Nagayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原長和"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагаёси Огасавара"
+    }
+  },
+  "lastrevid": 17472680,
+  "modified": "2025-09-16T15:29:55Z",
+  "ns": 860,
+  "pageid": 77576,
+  "sitelinks": {},
+  "title": "Item:Q62745",
+  "type": "item"
+}

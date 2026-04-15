@@ -1,0 +1,366 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Namri Songtsen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q58761$981B4FD4-491E-4997-8932-0C7E7CBCCF69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "548187"
+          },
+          "hash": "0b04d54861583d32b16269025b71147db7950cfa",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q58761$4E5DF8D9-BBC7-4BA8-A1B9-4C5AD9A609B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51996",
+              "numeric-id": 51996
+            }
+          },
+          "hash": "3d9954e13aaab3f96413ec8d2dd81c40b97b6e5f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58761$40052139-6DDE-4885-ABEF-952655F19B0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64189",
+              "numeric-id": 64189
+            }
+          },
+          "hash": "4454487c55fe4380b16cb1e40a0e0d1038d25a3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q58761$27D44C82-46C5-464E-B151-21E8EB6B3F43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58761$37C87E97-0D45-4AB8-A410-10B193B0C79F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q58761$FCBC2FED-C3B4-4A99-9C6A-1AA14542E183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58764",
+              "numeric-id": 58764
+            }
+          },
+          "hash": "911c1bfe98d6c498aef3d0681c83dbfecb2cfd83",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q58761$E2086240-C098-4442-B51F-F1B318A652E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64186",
+              "numeric-id": 64186
+            }
+          },
+          "hash": "34863f30f2f029e9d05beccdb41f330da72966bf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q58761$111A36B1-22E5-4A9E-BBF0-12C6A33E6AF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q58761$0624ABD3-B885-44EB-AC3E-26C8EC7D0AA2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0570-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "418fe9fa3692cce91f73d8c2060f8e37d5ce6c0e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q58761$8D8ED2AB-BAB3-422C-BEE1-E91A2DF2E00F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0629-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77e87de9a9b58a4761684077e7bd3a64f5483d4a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q58761$1B4B79C6-FB0A-4359-A87A-4F433034F136",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2258522"
+          },
+          "hash": "c71d4b674362b9366fa560950b006ae5cb9b30ab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q58761$B92FC50D-B490-4E13-8041-8DBDEAA3F491",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Namri Songtsen Arms.svg"
+          },
+          "hash": "910104c7f34821fcf2e9da86090d275fee4d3922",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tibetan king"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "тибетский правитель"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vua Tây Tạng"
+    }
+  },
+  "id": "Q58761",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Namri Songtsen"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "গ্নাম-রি-স্রোং-ব্ত্সন"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "གནམ་རི་སྲོང་བཙན།"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "نامری سانگتسن"
+    },
+    "de": {
+      "language": "de",
+      "value": "Namri Songtsen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Namri Songtsen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Namri Songtsen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Namri Songtsen"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gnam ri srong brtsan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Namri Songtsen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Namri Songtsen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ナムリ・ソンツェン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "남리뢴짼"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Namri Songtsen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Namri Songtsen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Namri Songtsen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Namri Songtsen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Намри Сонгцэн"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Namri Songtsen"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Namri Songtsen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "囊日論贊"
+    }
+  },
+  "lastrevid": 17467372,
+  "modified": "2025-09-16T14:09:20Z",
+  "ns": 860,
+  "pageid": 73592,
+  "sitelinks": {},
+  "title": "Item:Q58761",
+  "type": "item"
+}

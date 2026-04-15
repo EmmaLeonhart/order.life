@@ -1,0 +1,415 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sindae"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q69183$562C695F-52A5-4C1F-91B6-6BF655248D67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73868",
+              "numeric-id": 73868
+            }
+          },
+          "hash": "5b0a954e77c32dca8d8995ce363f20a7a15e979d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69183$EC8FF405-CC5F-4E62-9F0E-2F43B14C5792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73871",
+              "numeric-id": 73871
+            }
+          },
+          "hash": "4051729c041cb438b4f153473e898d184730c752",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69183$A5391E72-3994-4FE4-AF8C-64B6D701CBEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73862",
+              "numeric-id": 73862
+            }
+          },
+          "hash": "32e6d901703e6c8fa69a87199a3d8023d2a57726",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69183$12AA28FF-7595-4FD0-8CE5-847EE1BAC4CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73865",
+              "numeric-id": 73865
+            }
+          },
+          "hash": "0a94a3d712616ef7ab1c647031d1d9b174ffb4ee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q69183$CCAC8668-5711-47E5-B78F-88F736EC45D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69183$57E6FE18-BAC1-4F60-A7F5-E58C6FFEAB62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q69183$39146C70-BA30-4678-946B-EC62F7733C65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64070",
+              "numeric-id": 64070
+            }
+          },
+          "hash": "be8cc06364228359d8b1be5a467600583c76a29f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q69183$57DC9270-83B5-4495-8DFA-BFA67546F66F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q69183$57B4C05B-9ED1-4832-864C-D39FCC841046",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0089-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f976a125f297c0d91536d4ecc257232fe0342736",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q69183$B9F96D7D-3182-42E1-9000-68181E80A677",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0179-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1d48e47b51902d280407907d875f3698e480bcb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q69183$9CAC6F93-56F3-4890-9972-07DE919BEE58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q498530"
+          },
+          "hash": "f2d4bd2751a1606004cccd9292cdb0c4a0988619",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q69183$117E629A-FE13-452B-8F55-D6B1448CD172",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000028246439795"
+          },
+          "hash": "4572f8ddbefb1dc14c12ec97950f5994c4701fdb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q69183$9937D1B2-05CD-4B22-B330-2DB1C2FD0F82",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sindae Arms.svg"
+          },
+          "hash": "978dc5fc2731a9607edeac5bd0c3d50e86ca59dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Goguryeo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ruler of Goguryeo kingdom of Korea (89-179)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kogurjo királya"
+    },
+    "id": {
+      "language": "id",
+      "value": "merupakan raja kedelapan Goguryeo, Tiga Kerajaan Korea di bagian paling utara"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "高句麗の王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고구려의 8대 왕"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Koguryŏ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Правитель Когурьо"
+    }
+  },
+  "id": "Q69183",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sindae"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kral Sindae"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "سیندایی گۆگۆریۆ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sindae"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sindae"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sindae"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه سیندائه"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sinde"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sindae"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "新大王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "신대왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "新大王"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Sin-tāi-ông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sindae"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sindae"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sindae"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sindae"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Sindae"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าชินแดแห่งโคกูรยอ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sindae"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сінтхе"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tân Đại Vương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "新大王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "新大王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "新大王"
+    }
+  },
+  "lastrevid": 17480660,
+  "modified": "2025-09-16T17:27:26Z",
+  "ns": 860,
+  "pageid": 84014,
+  "sitelinks": {},
+  "title": "Item:Q69183",
+  "type": "item"
+}

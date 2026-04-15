@@ -1,0 +1,562 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Parysatis"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74070$C29F79F5-C8B3-40F7-BBE5-2D013DB9C270",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139864"
+          },
+          "hash": "c91e52e36fac476b0b3ebbaa392dbebca564b3ed",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74070$54158874-AB21-44F3-8904-3A743D3C6A7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737916"
+          },
+          "hash": "fa188e112d35a9cd79ecafaed74ce0c0c171dabd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74070$74C83FDA-9CDD-471B-A387-C81489BD448F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74013",
+              "numeric-id": 74013
+            }
+          },
+          "hash": "e05b30a0c1b93ba899e66716704c6d684f64ad72",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74070$1329EA8D-CAEF-4C84-BCC3-5DF348E1A66E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135645",
+              "numeric-id": 135645
+            }
+          },
+          "hash": "7e62b2c0e7deacb93c632a8e8957af4da227ce10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74070$CCA0B5E0-3699-4C78-AF38-E16CF228E67C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135644",
+              "numeric-id": 135644
+            }
+          },
+          "hash": "3348dc6edaba79240f4888f85851ec9e4172cd8c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74070$35BF9C84-0496-4D1C-921E-3F7857E719E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135537",
+              "numeric-id": 135537
+            }
+          },
+          "hash": "50aee0a0b83dcc04eb2ab62bba51d1ead1262ab2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74070$4F64B271-070D-4870-91B7-ABBA0F360DEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74070$DCA06B38-5C11-490E-BBED-670E26342404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74070$AADAA2CA-5591-4A5D-8778-982D0E166945",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74067",
+              "numeric-id": 74067
+            }
+          },
+          "hash": "4fa3ff3776844d44928cfd33d156b4c693ddb9bc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74070$4C185CFF-7078-4B1E-BDD6-E8DFB612FD64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74129",
+              "numeric-id": 74129
+            }
+          },
+          "hash": "f1f11d6f82bb1c62a99fc999937ca956bcd12a03",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74070$F6CBC3BB-26B4-4257-9D5A-402DF028099B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74132",
+              "numeric-id": 74132
+            }
+          },
+          "hash": "f74fdb5a146c24fb9c937da202cc40a4b400b55b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74070$404B0DD6-5423-461F-AAF6-8807D8497C04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74070$04376900-0055-486C-B2C2-0307373D164A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0440-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66ad1d3f20019a25ddaf29129a4bc281ed5b356e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74070$178F28F4-C4A5-4B83-8D41-CD05C2908317",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0385-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "044d45d460bdb4221c9deb69c2aa1826cb949414",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74070$5208D6A7-98B4-4339-B5D6-FD89DA1F0EC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q237851"
+          },
+          "hash": "77f1138cc2707a82d689c8b617a844b848aa0d46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74070$18E3AA56-FF22-4CCC-8784-EA028352783F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645847749"
+          },
+          "hash": "cbcae0544b5da08b35b1b371ee07b6d8ce6bf326",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74070$BED4B746-3615-4B01-9E6D-0C98E97ADFD2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Parysatis Arms.svg"
+          },
+          "hash": "3519222206697dd271abe76778cc8bda83112b76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gattin des persischen Großkönigs Dareios II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Persian Queen"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهزاده ی هخامنشی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "persialainen prinsessa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine de Perse"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה של הממלכה האחמנית, אשתו של המלך דריווש השני מלך פרס"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "eze nwanyị Persia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rainha aquemênida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персидская царица"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "persisk drottning"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "فارسی ملکہ"
+    }
+  },
+  "id": "Q74070",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Парысаціда"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Parisatis de Pèrsia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Parysatis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Parysatis"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Parysatis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Παρυσάτιδα της Περσίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Parysatis"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Parysatis"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Parysatis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Parisátide"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پروشات"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Parysatis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Parysatis"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Parysatis"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Parisatis"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Παρύσατις"
+    },
+    "he": {
+      "language": "he",
+      "value": "פריסאטיס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Parisatida"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պարիսատիս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Parysatis"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Parysatis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Parisatide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パリュサティス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파리사티스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Parysatis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Parysatis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Parysatis"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Parisátide"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Parisátide"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Парисатида"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Parisatida"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Parisatis"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Parysatis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Парісатида I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پروشات"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Parysatis"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "帕瑞萨娣丝"
+    }
+  },
+  "lastrevid": 17486880,
+  "modified": "2025-09-16T18:55:19Z",
+  "ns": 860,
+  "pageid": 88901,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74070",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74070"
+    }
+  },
+  "title": "Item:Q74070",
+  "type": "item"
+}

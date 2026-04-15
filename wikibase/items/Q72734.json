@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Shicao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72734$5E1C68C8-8C8C-4519-BB11-BDD8EBC8F2D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77564",
+              "numeric-id": 77564
+            }
+          },
+          "hash": "334847351f1ce9bec43224f9e8e50b4cbe1dc2fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72734$33A1922C-1D65-47DE-98CE-20CD52F2D1E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77567",
+              "numeric-id": 77567
+            }
+          },
+          "hash": "0f20fb14bef63ea43ba204e008e8f620133c7870",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72734$62FFE4BA-BBD8-43A6-9E3D-C5236DDD0B26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72734$D8F59CBC-134D-412B-84E3-B2235DBB30D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72734$A9516BC9-3648-4319-A01D-D982EE6549A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67727",
+              "numeric-id": 67727
+            }
+          },
+          "hash": "a074f5787181e30aee531667ab07af2d6c57dc6f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72734$DCAE3FE1-0D59-4D53-A7DF-A88F45817933",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72734$76FE840E-59AF-48CB-87C4-A6E1BDDA0F02",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0580-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32c1311eacdbfdee03aff192260b5e23ddb3fb21",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72734$2A7FFB91-4F87-4E1F-8584-2E7A943ECF11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26158277"
+          },
+          "hash": "2d520aa94bcca0cea30d1f74878a3699ae2ada13",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72734$EBE195F4-799C-409D-94B5-CEC94B49BE42",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Shicao Arms.svg"
+          },
+          "hash": "654decbb224425c0558f72d9f56818f7c0400401",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 173629"
+    }
+  },
+  "id": "Q72734",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shicao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Shicao"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李士操"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shicao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李士操"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李士操"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李士操"
+    }
+  },
+  "lastrevid": 17485292,
+  "modified": "2025-09-16T18:32:50Z",
+  "ns": 860,
+  "pageid": 87565,
+  "sitelinks": {},
+  "title": "Item:Q72734",
+  "type": "item"
+}

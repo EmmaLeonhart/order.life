@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Cheng"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65731$8ACEDAE1-C001-494E-8A98-4642E728C7AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70639",
+              "numeric-id": 70639
+            }
+          },
+          "hash": "f6973bc008ce4f5ae87ca3fdef382ec1c1901c77",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65731$6DCF26B4-186A-440D-BD3C-31605C3711C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70642",
+              "numeric-id": 70642
+            }
+          },
+          "hash": "0534d829ab6798309284fe811643d76c26a82299",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65731$A2529567-C4CB-4E2C-BAD4-10276E9F81E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70645",
+              "numeric-id": 70645
+            }
+          },
+          "hash": "fd21b8a42f91312704cba50c0737f54ea6a41cc7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65731$DF907910-F635-4D19-A974-BCE5C84D79AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65731$C9E0DD0D-2EA4-4F5B-ACD8-288467D47BEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65731$9227248D-BFDC-4724-BB9C-CD9EA7A913C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60004",
+              "numeric-id": 60004
+            }
+          },
+          "hash": "95054a167ed4fe824d874cadddc88dcad4ff4738",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65731$720A98E4-D8DD-4721-9D1A-8B68A417140B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65731$FA928514-365A-4382-AA9C-93C5CB2EB49A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0797-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a982ebbace12922862a29b361996161025937b34",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65731$4457C4AF-99A5-45F0-A472-6DF3358D0063",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45467378"
+          },
+          "hash": "3203b894bed24dee2f1c03894850aaa0a84b1dfd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65731$F1DF0DA4-7A99-4B51-B94D-7E225E605254",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Cheng Arms.svg"
+          },
+          "hash": "f290ec20455275872bb5461d54d0137bd7522fd8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172003"
+    }
+  },
+  "id": "Q65731",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Cheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Cheng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Cheng"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇稱"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Cheng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇稱"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦称"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇稱"
+    }
+  },
+  "lastrevid": 17476262,
+  "modified": "2025-09-16T16:24:17Z",
+  "ns": 860,
+  "pageid": 80562,
+  "sitelinks": {},
+  "title": "Item:Q65731",
+  "type": "item"
+}

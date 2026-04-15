@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glaphyra"
+      },
+      {
+        "language": "en",
+        "value": "Glaphyra Comana"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q78363$F6D1FEC0-A180-4106-9CBA-D4DC80229496",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78195",
+              "numeric-id": 78195
+            }
+          },
+          "hash": "7b79e62aa59dc363545b1ca13c0d746f71570449",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78363$0AE18852-2A4E-4C35-B4A7-E916E780FA41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165687",
+              "numeric-id": 165687
+            }
+          },
+          "hash": "8d39e5f2651c1b807d9d701ffd135502d5d01abd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78363$D2FE5E10-9AA6-4285-97AD-D69E93A04CD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78363$834C16F1-EE3F-4EE8-8185-188C8F73DC9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78363$D9E2D2CE-67DC-4939-9D71-FAE257DD3999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78360",
+              "numeric-id": 78360
+            }
+          },
+          "hash": "ae7a75cd32f740017729c3d6da3c8fd95e77cee9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78363$83601E3C-E548-49EA-9209-193B8FECD36C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137144",
+              "numeric-id": 137144
+            }
+          },
+          "hash": "a66f10971e160aa8d8794efdd07b913c88775bb8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78363$57666383-A0DA-475C-80F0-A61A16D29D44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78363$AEA5C412-54E2-4D8A-AC9C-9B126C1157D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78363$637753E2-5C98-497A-A43C-C12AE085AA67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q542658"
+          },
+          "hash": "53d13f1af0458eac286a977a0e1c6da44e2e6167",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78363$10D37383-224F-4D93-9D26-76F4E9FC71B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187622945"
+          },
+          "hash": "fcd78a350af14053f9d728eee8a5c804fd463ef3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78363$02C455EC-64AA-44DA-988C-5A43E3299B73",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Glaphyra Arms.svg"
+          },
+          "hash": "27370fe29676a29bf2979c48a967052854bfe295",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Hetera"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hetäre, Geliebte des Marcus Antonius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Εταίρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "mistress of Mark Antony"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "mistress of Mark Antony"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hetera"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme d'Archélaos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori görög hetéra"
+    },
+    "it": {
+      "language": "it",
+      "value": "etera"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "grecka hetera, metresa Marka Antoniusza"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "hetär"
+    }
+  },
+  "id": "Q78363",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Glafira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Glaphyra"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γλαφύρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Glaphyra"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Glaphyra"
+    },
+    "es": {
+      "language": "es",
+      "value": "Glafira"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Glaphyra"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Glaphyra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գլափյուրա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Glafira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グラピュラ (ヘタイラ)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Glaphyra"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Glafyra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Glaphyra"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Glafira"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Glafira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Glafira"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Глафира"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Glaphyra"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Глафіра"
+    }
+  },
+  "lastrevid": 17492386,
+  "modified": "2025-09-16T20:12:38Z",
+  "ns": 860,
+  "pageid": 93194,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78363",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78363"
+    }
+  },
+  "title": "Item:Q78363",
+  "type": "item"
+}

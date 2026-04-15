@@ -1,0 +1,699 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavius Julius Constantius, Consul of Rome"
+      },
+      {
+        "language": "en",
+        "value": "Flavius Julius Constantius"
+      },
+      {
+        "language": "en",
+        "value": "Julius Constantius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61301$BA6453E7-0DE5-4E06-8D9F-7217C4865D2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "144084"
+          },
+          "hash": "3cd79cd965ad677860edc12d11be097a74e3b0f1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q61301$1A6807AC-A445-4DED-BE69-4179FC12308E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446947"
+          },
+          "hash": "91ffd2df854757a5d7b2c0fc5dcf1f53315e0cc7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61301$133726CA-F24F-4DC5-A3CD-3771C2EDEA90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60974",
+              "numeric-id": 60974
+            }
+          },
+          "hash": "a33727853da09f605e0d6e82b74ed1884b87ff1b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$9D372186-BDE4-4CFC-AE90-3619C6E01A9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136824",
+              "numeric-id": 136824
+            }
+          },
+          "hash": "0b6fceaf5f3d89ab04c2b276c7191f6d1e7c760b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$27CD57D3-DBC4-4689-ABFA-CC11884832CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136825",
+              "numeric-id": 136825
+            }
+          },
+          "hash": "3f732f00c9b9f8d15c81c6e48bad0beb578ea6f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$E772FB3F-BEE1-4846-8585-A87D2161ECDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136827",
+              "numeric-id": 136827
+            }
+          },
+          "hash": "127488e58df1c53393c0a5355433998817451d71",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q61301$CA7F3D07-28D9-46E3-BC53-D2D0A7119404",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Constantius-16"
+          },
+          "hash": "951e16884224e47c6ef1a63c67d1e6ce4e02cebc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q61301$99BDBC05-5A43-4819-B46B-7A5D4FCD2176",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Flavius Julius Constantius, Consul of Rome"
+            }
+          },
+          "hash": "ac82305a7b0ad5dc4f8ff2da01ce43d83e9adc68",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$93C206B7-4F52-4914-9977-A0FA9D8FAFFF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Julius Constantius"
+            }
+          },
+          "hash": "4c0aa97fa71d24b3537ac86a59d8c11e8bbdd816",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61301$43AFCAB4-08A1-491D-846B-09E027529C4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$B8DE4943-B2AF-4F45-BDA1-6816A95ECAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q61301$DA5B8BBB-A04A-4150-9D2A-8731260F14A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Julius_Constantius_(11)"
+          },
+          "hash": "b2b8e51b86943a1954c30a1061241215018a52a3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61301$64A21B48-4A75-430A-A18D-29D9C223E8B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61235",
+              "numeric-id": 61235
+            }
+          },
+          "hash": "fc32aa63c0016c151c03cff157bcd0bc4aeb623b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$72D4860A-4AF9-4AE9-9B33-A50E3B8F6F8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136823",
+              "numeric-id": 136823
+            }
+          },
+          "hash": "cdc409cf005b5cf6f383dc04d5943e1d8d9f297c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61301$6343EB8E-7788-4DDF-B209-EB46D3B7CD75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61565",
+              "numeric-id": 61565
+            }
+          },
+          "hash": "81021638d06805c674c2e89ce7714fd52ffc0abd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q61301$0FEE0195-C1C1-4636-8708-AD3895115E3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61532",
+              "numeric-id": 61532
+            }
+          },
+          "hash": "132b0b1ef268ca472609c37a57e93b3e662e7537",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q61301$71F627D0-1638-4B05-8DBA-1BA2A6D57CFB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Flavius Julius Constantius, Consul of Rome //"
+            }
+          },
+          "hash": "68760e324bcaf63daebdf8fc5d0a696e92c2a9b3",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61301$89A338C9-285A-4D96-9B09-37FD384AA00A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Julius Constantius //"
+            }
+          },
+          "hash": "a5112c8ca88b6f9c25978ac953490af326c69c73",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61301$06B2FA14-12F5-47F0-A6FC-2BC00EC2459C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61301$3B2CA357-B316-4067-A553-9E7B1C5ADAC8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0289-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "50fb93bec6731f68ec862f007a4a7adbeda3ddac",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61301$DDFDE7F9-4524-4416-8279-0C3907F355F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0337-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a127373e81dc512a8178856c3fed134c37899681",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61301$FEEE40DF-A903-4F6F-86CC-6A1F7E2F23B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q450702"
+          },
+          "hash": "3083afa8ab40a5f35d78a04a7576fea913931044",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q61301$D0B16C82-DDFD-4580-A4DC-684382DC5AE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002122939880"
+          },
+          "hash": "3597a5309319e35130f619427f1ef2944aaa852e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61301$6A88373C-6CCB-487F-B4FB-FE4CC577AA7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julius Constantius Arms.svg"
+          },
+          "hash": "48632250ff4b28a49a69a94936a749b1593d658c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "mab yr ymerawdwr Rhufeinig Constantius Chlorus (bu farw 337)"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Halbbruder Konstantins I."
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Roman Emperor Constantius Chlorus (died 337)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "he": {
+      "language": "he",
+      "value": "ממשפחת המלוכה הרומאית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-337)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "bror till Konstantin den store"
+    }
+  },
+  "id": "Q61301",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يوليوس قنسطنطيوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Юлій Канстанцый"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юлий Констанций"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Juli Constantí"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Julius Constantius"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Julius Constantius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Julius Constantius"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Julius Constantius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιούλιος Κωνστάντιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julius Constantius"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Julius Constantius"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Julius Constantius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julio Constancio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Flavius Julius Constantius"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژولیوس کنستانتینوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Flavius Julius Constantius"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Julius Constantius"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליאנוס קונסטנטיוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flavius Iulius Constantius"
+    },
+    "id": {
+      "language": "id",
+      "value": "Flavius Iulius Constantius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giulio Costanzo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユリウス・コンスタンティウス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "율리우스 콘스탄티우스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Flavius Iulius Constantius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Julius Constantius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Julius Constantius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Júlio Constâncio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Júlio Constâncio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флавий Юлий Констанций"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Julije Konstancije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Julius Konstantini"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јулије Константин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julius Constantius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юлій Констанцій"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尤利乌斯·君士坦提乌斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尤利乌斯·君士坦提乌斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尤利烏斯·君士坦提烏斯"
+    }
+  },
+  "lastrevid": 17470784,
+  "modified": "2025-09-16T15:00:29Z",
+  "ns": 860,
+  "pageid": 76132,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99314",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99314"
+    }
+  },
+  "title": "Item:Q61301",
+  "type": "item"
+}

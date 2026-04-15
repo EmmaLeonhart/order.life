@@ -1,0 +1,214 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q88618$F96AFD17-45EA-4126-BF2D-EFA3C3346EE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q88618$D7112B3F-64AC-4889-B7A9-C1BB4240B6C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q88618$56FE4FCE-D4C0-4FC5-8C86-9D7B97814FE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88538",
+              "numeric-id": 88538
+            }
+          },
+          "hash": "2c5a9bb33be8c6916c2d805ec9ba6182a9719917",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q88618$05E389E8-D120-4AF2-BF50-4E71A9B4AEE8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Abū ʿAmr Yosef /Ibn Qamni’el/"
+            }
+          },
+          "hash": "16a7b3d9a6eeb9a06b2bd00f938565d263089799",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q88618$409EB036-BA36-4582-A273-4B71373BCEC8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "haRoffe & Emissary to Afonso Henriques"
+          },
+          "hash": "52b0d707b101f2f94f751e400ba690e4f75d0281",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q88618$993AC73E-CCD3-4938-94AF-D1FA52B5EB9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q88618$59BD9FF7-A814-4657-B781-2CA43736AD3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q88618$0EB3AD50-EF06-4DB5-8E5E-5C0600C10507",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q88618$66B4442D-64EA-4D61-89E0-B410E418A41A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019253817001"
+          },
+          "hash": "9406ad74b5a81d9a8865f705798faa4c15d4b0d4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "haRoffe & Emissary to Afonso Henriques"
+    }
+  },
+  "id": "Q88618",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Abu Amr Yosef  Ibn Qamniel"
+    },
+    "es": {
+      "language": "es",
+      "value": "Abū ʿAmr Yosef  Ibn Qamni’el"
+    }
+  },
+  "lastrevid": 17503423,
+  "modified": "2025-09-16T22:47:58Z",
+  "ns": 860,
+  "pageid": 103449,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q88618",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q88618"
+    }
+  },
+  "title": "Item:Q88618",
+  "type": "item"
+}

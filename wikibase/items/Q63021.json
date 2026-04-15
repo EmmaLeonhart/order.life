@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iwaki Takamasa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q63021$F68B1742-576C-46AE-8BA8-FB88E38F308E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63021$966BD1EB-A2AD-46E6-8B43-0A74AB74B531",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63021$43156E28-5828-4F0A-952B-09743F14E6EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57314",
+              "numeric-id": 57314
+            }
+          },
+          "hash": "c3a91c1a1a969ffe784a4fcbea86702369208d41",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63021$A789AD49-3F00-4C42-AC01-DBAE78F90208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63021$99F4B51E-A501-420A-A435-8D79854006A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1842-08-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "600abab52ce932abdd4742d841f5438880ac6f81",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63021$3E658145-BD95-4D87-9D41-B6B33BE3658B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1861-09-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "652a454bcd2435dee1f18ea15f0f34d7827673a1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63021$C3136544-4C21-4209-BAF8-E5D2DE69E78E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514816"
+          },
+          "hash": "b878f0d4072f25e3a0c7252580845c328b050b3f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63021$733A97F1-0B7A-4125-AC55-AF416A906C81",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iwaki Takamasa Arms.svg"
+          },
+          "hash": "283c7a39baea062f2434bbe6f49f3c62daada546",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q63021",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Iwaki Takamasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岩城隆政"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이와키 다카마사"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такамаса Иваки"
+    }
+  },
+  "lastrevid": 17472962,
+  "modified": "2025-09-16T15:34:11Z",
+  "ns": 860,
+  "pageid": 77852,
+  "sitelinks": {},
+  "title": "Item:Q63021",
+  "type": "item"
+}

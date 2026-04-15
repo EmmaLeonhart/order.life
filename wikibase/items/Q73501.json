@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshitomo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73501$B24822C4-731C-4F15-977C-1CC146891E18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560131"
+          },
+          "hash": "28c47493dda5e94ffd57303705dabbbe6d42c247",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73501$5BD665CB-8512-47E9-9AEC-25EA444DE32B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73501$C2FE1081-20EC-43EC-AA64-DFF5B9058821",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73501$CE90D4BB-2035-4511-86D1-B88B068533AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68705",
+              "numeric-id": 68705
+            }
+          },
+          "hash": "087de4d0f1dc1182c954d9ab179ea53815c871dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73501$911DC262-0C49-4DE8-9304-A9B49C1A29CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73501$80A00D78-2900-4361-910D-848ED4D974BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1834-03-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "956cfa9aef53746b7416f533e7c8b2a84b45fc86",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73501$D417DFB5-F6AC-43FE-8381-EF1DD32EE802",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1854-01-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e7061c98d5246f345b12644567336b21ef28f54",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73501$912DCA0B-E081-487C-85C8-0F4088B06C10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11397418"
+          },
+          "hash": "1aa07de4cbf8d497e16d9455f22629099f339c65",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73501$CCA9C5FE-481F-4CEF-9B07-3C804BC0D705",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshitomo Arms.svg"
+          },
+          "hash": "74084f53ae51b3989d2d1952a50da6a543d1f2db",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代後期の大名。越中富山藩10代藩主前田利保六男で、富山藩11代藩主。従四位下出雲守"
+    }
+  },
+  "id": "Q73501",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshitomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利友"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тоситомо Маэда"
+    }
+  },
+  "lastrevid": 17486258,
+  "modified": "2025-09-16T18:46:29Z",
+  "ns": 860,
+  "pageid": 88332,
+  "sitelinks": {},
+  "title": "Item:Q73501",
+  "type": "item"
+}

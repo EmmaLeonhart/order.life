@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Yasutoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73231$3B42F345-3E12-4D37-B12A-D2783E870768",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-565"
+          },
+          "hash": "650004b190c6a4dac52ebd27e4e14764870a8580",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73231$1247B2A3-7E91-4A9F-8AB5-02FE43945D22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73231$28BAD0F1-F3C8-4703-B7FB-30BA0C65E4B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73231$B0C1BE87-6FDA-4661-9208-87EC089916F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68307",
+              "numeric-id": 68307
+            }
+          },
+          "hash": "d16987aa16a032b2bc587f42cd41b5bad4ab2b9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73231$ACF36E05-78B4-47D8-9A88-B2D14802FB4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73231$3D2D4FC2-99F8-4771-BAB0-B3624192FB36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1854-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df5ef5ad067d7ae15270d4ea3da49f360139360b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73231$1C45382A-7AA3-4AC8-ACC0-152A28FBDE33",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1923-09-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "312aec0c1ecd1593bae53d83d08e02ba62fafb6b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73231$097203F1-887B-449C-BB12-808E894C238D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10791122"
+          },
+          "hash": "cfbb03d80d4d491039dfce4849c4172a078ff991",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73231$473C7BEB-4440-415B-B6F7-7BA04FD53704",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yasutoshi Arms.svg"
+          },
+          "hash": "be122a174f65d27331911ecafcb40072569a16f4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the late Edo period, Kazoku of the Meiji period (1854-1923)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代幕末期の大名、華族"
+    }
+  },
+  "id": "Q73231",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Yasutoshi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Yasutoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Yasutoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Yasutoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平康載"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ясутоси Мацудаира"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "板倉勝觀"
+    }
+  },
+  "lastrevid": 17485942,
+  "modified": "2025-09-16T18:42:07Z",
+  "ns": 860,
+  "pageid": 88062,
+  "sitelinks": {},
+  "title": "Item:Q73231",
+  "type": "item"
+}

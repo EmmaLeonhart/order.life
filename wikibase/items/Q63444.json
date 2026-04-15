@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogasawara Sadazane"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q63444$469B6DB6-578D-4C96-910A-E5FA548D9678",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "小笠原-17"
+          },
+          "hash": "2ea058b242c05a55b5d5e8d608c0f79e2ca657cf",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63444$967391D3-11E4-4AA1-97BE-9501EFBC01D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63444$2CA33C17-D9B3-4A63-8332-8DFE685448E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63444$00E2075D-DC36-4139-8B00-B8350CFE99BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57848",
+              "numeric-id": 57848
+            }
+          },
+          "hash": "65a7488cfb12544623806a13cb30d8c3699307c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63444$76FCE9C3-9BB3-4071-B7DC-BE5163A4585F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63444$A9494D25-864B-411D-9CDD-A6A72EBF862A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1850-12-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ef2de6170b3f3604c4032316b63079ccb1dd3390",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63444$AD09EDCC-C24F-4919-93DA-BA1F1D9FFC38",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1905-06-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "34809376de17e279f847711992133fc9e911250c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63444$44FCFEDD-9828-4161-A1D9-2154167C0201",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10856559"
+          },
+          "hash": "1a067fe89752e1724378f2e4172d0ab14a67033f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63444$FC1159F7-3CE3-43E7-BA4B-27A3466A47BB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogasawara Sadazane Arms.svg"
+          },
+          "hash": "4f5553991d0db8bd6b8b27e2c51cdd0762c6ee42",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1850-1905)"
+    }
+  },
+  "id": "Q63444",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ogasawara Sadazane"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ogasawara Sadazane"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ogasawara Sadazane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ogasawara Sadazane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原貞孚"
+    }
+  },
+  "lastrevid": 17473502,
+  "modified": "2025-09-16T15:42:41Z",
+  "ns": 860,
+  "pageid": 78275,
+  "sitelinks": {},
+  "title": "Item:Q63444",
+  "type": "item"
+}

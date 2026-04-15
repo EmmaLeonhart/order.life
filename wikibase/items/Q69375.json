@@ -1,0 +1,290 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Hui"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q69375$A45028B7-EE6A-4DB1-A27F-5D0DE4E1CE62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74146",
+              "numeric-id": 74146
+            }
+          },
+          "hash": "e4c7eea011e0c8f881832aaf92a19d6c3589b775",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69375$2130B79A-F529-44EF-99C3-927C3563BB3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74149",
+              "numeric-id": 74149
+            }
+          },
+          "hash": "94eb190c3992be2ac9a2e99bc06c46fc9b7e69f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69375$AA12FC7B-363C-4993-9CE9-DAE197515F9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74152",
+              "numeric-id": 74152
+            }
+          },
+          "hash": "fa0135cb5e2d45e165d90e55f72741ca2af27b7b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69375$A45597C1-19BB-47D3-B22C-9130CBB7A7B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74155",
+              "numeric-id": 74155
+            }
+          },
+          "hash": "68bc8b86976b7ed84271c809f530690d6484a798",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q69375$AC4D831B-1607-4128-883F-6151BA2BABF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q69375$B31A56A9-8166-46AC-BA61-174A81F06B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q69375$40360AA3-1DB8-410C-818A-FE8B5315FF11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64216",
+              "numeric-id": 64216
+            }
+          },
+          "hash": "f05676c8f06b19ecd07466b30793c54476286646",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q69375$C40B3BC7-CA62-4FA8-A921-34D175F394E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q69375$ED23FD05-620C-41DA-B5C0-FD4EB459189F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0801-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ea3a45c44c8674dfa2d6f18bebb970fcff6fd45",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q69375$23D16412-B3CF-40F1-892D-9CCC09CF0AF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6538842"
+          },
+          "hash": "47dc10d4abfbcaa631c1786ce8392db289225aef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q69375$708A403C-DE68-4E3A-9718-46B3F087A482",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Hui Arms.svg"
+          },
+          "hash": "3c01414a98cb55df37db6f04dd23a01071fe1dc9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "official of the Tang Dynasty"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "embedsmann i det kinesiske Tang-dynastiet"
+    }
+  },
+  "id": "Q69375",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Hui"
+    },
+    "de": {
+      "language": "de",
+      "value": "Li Hui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Hui"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李回"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Li Hui"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Hui"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Li Hui"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李回"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李回"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李回"
+    }
+  },
+  "lastrevid": 17480888,
+  "modified": "2025-09-16T17:30:33Z",
+  "ns": 860,
+  "pageid": 84206,
+  "sitelinks": {},
+  "title": "Item:Q69375",
+  "type": "item"
+}

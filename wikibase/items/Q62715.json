@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nabeshima Shigemasa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q62715$1B301100-A829-49F5-9FC6-860E400678E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62715$34B2EA43-024E-4473-A7B4-29A821947A48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62715$7EA169DC-BD3A-44EC-8654-449BC69A59AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56903",
+              "numeric-id": 56903
+            }
+          },
+          "hash": "858added8f3ffd11782535a1a4976fd4cd4c630e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62715$4A925C88-DF07-489A-9786-EAF00A5AA168",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62715$398D338C-8605-44D1-97EC-1E4BE85274CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1665-06-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "25aa39b590586d310fcbe869535c9bde958a8633",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62715$D5FCD281-8BF4-4CB7-B89D-EEB5502D7750",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1728-11-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4857f18e7c65d0611a2d980460cd58be34b6df57",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62715$265844F0-4CCA-4922-A1DB-B069C79C3668",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11650700"
+          },
+          "hash": "b85aacd79dc51a45dca3e58f3b3004715fea48ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62715$5F0216D4-F794-43B3-8022-25637C5111CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nabeshima Shigemasa Arms.svg"
+          },
+          "hash": "1a3868b587e1c9762a2ebd47a060e707404ffb5d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q62715",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nabeshima Shigemasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鍋島茂正"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Набэсима Сигэмаса"
+    }
+  },
+  "lastrevid": 17472640,
+  "modified": "2025-09-16T15:29:16Z",
+  "ns": 860,
+  "pageid": 77546,
+  "sitelinks": {},
+  "title": "Item:Q62715",
+  "type": "item"
+}

@@ -1,0 +1,501 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peleg"
+      },
+      {
+        "language": "en",
+        "value": "Iddin-Sin"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q70457$A9007515-8D78-4073-92D2-DB3125EBCD94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "78271"
+          },
+          "hash": "71813913ba7016f7b04e584dcc27295b86e27606",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q70457$C5D95B47-7EF6-4086-BD8F-384BE2D167BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70460",
+              "numeric-id": 70460
+            }
+          },
+          "hash": "cd27a7258d7f4ef8a354a3dd3e42e79e829ebe74",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70457$E72F5940-4FB7-4F39-88E5-2E08DBF3EF81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70457$590A1924-DCA0-4310-9B6F-3B8D2807C316",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q70457$6A387034-D5FB-4CC8-96E0-3BFEC5E797B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70493",
+              "numeric-id": 70493
+            }
+          },
+          "hash": "ef0c0178ea1bf0ab255afc517467781596460cd3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70457$6333BC24-6220-4431-BFEC-CD5EC2B84D72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70454",
+              "numeric-id": 70454
+            }
+          },
+          "hash": "8504364ac9b72d03ed875994731808e870bbb796",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q70457$285D55DE-4739-4588-8E35-298D71339C9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70490",
+              "numeric-id": 70490
+            }
+          },
+          "hash": "c51a0a2e071ca39b4e92c5038b0e0c70c51e75db",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70457$5DDFB6A0-9B09-4B3F-A3F5-228D6720F46F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70457$09F7F7BD-C544-48B2-80B2-0639B05BD331",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2004-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "43b29fb62aacee446d020cb55dce798ff5c286f3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70457$185E56DB-EA60-4ECA-B5DB-22C0C393B0A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1765-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23f3732d0f27285c0fb97877490db092f47cd4e5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70457$5CA276AA-DA83-438C-B69B-12194884382E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1648259"
+          },
+          "hash": "783ee99894ffff18c315afe25f7624b1038caf60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70457$0FCB4002-CE84-43C6-98DB-4C1CBBBDFC4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000190073564"
+          },
+          "hash": "f08f8d6ba76d726797f1aa0205487f57a60a9896",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70457$81A12CC0-2734-4C22-9403-DE339583E656",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peleg Arms.svg"
+          },
+          "hash": "6eea758d2c9a89203e8f334d273b01eabab2ea33",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أحد أبناء النبي هود عليه السلام أو أحد أبناء عابر بن شالخ و جد العرب القحطانية"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(2004-1765)"
+    },
+    "de": {
+      "language": "de",
+      "value": "biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical character"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hijo de Eber y descendiente de Noé"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, בנו של עבר"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖書の登場人物"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Person fra første mosebok"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Person frå første mosebok"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "pai de reu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 10:25)"
+    }
+  },
+  "id": "Q70457",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ፋሌቅ"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فالخ"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཕེ་ལེག"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pèleg"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Peleg"
+    },
+    "da": {
+      "language": "da",
+      "value": "Peleg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Peleg"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φάλεκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Iddin-Sin"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Peleg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Peleg"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فالج"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Péleg"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Peilig"
+    },
+    "he": {
+      "language": "he",
+      "value": "פלג"
+    },
+    "id": {
+      "language": "id",
+      "value": "Peleg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Peleg"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペレグ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "벨렉"
+    },
+    "la": {
+      "language": "la",
+      "value": "Phalec"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Peleg"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Peleg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peleg"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Peleg"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "فلج بن عبر"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pelegue"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Peleg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фалек"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "فلج بن عبر"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фелек"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Peleg"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Faleg"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pelek"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пелег"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "فلج بن عبر"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Falek"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "法勒"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "法勒"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "法勒"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "法勒"
+    }
+  },
+  "lastrevid": 17482292,
+  "modified": "2025-09-16T17:50:20Z",
+  "ns": 860,
+  "pageid": 85288,
+  "sitelinks": {},
+  "title": "Item:Q70457",
+  "type": "item"
+}

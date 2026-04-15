@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Mao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q66243$60C77D5E-C94F-4DA4-BCD7-50B79802085A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71132",
+              "numeric-id": 71132
+            }
+          },
+          "hash": "5f10599ee18cbac6e294642d703a73d45b3b8984",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66243$9B95B1B3-0930-4429-A7E0-E25A81EAC538",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71135",
+              "numeric-id": 71135
+            }
+          },
+          "hash": "2f7dbf0ee9ef18fe785ecb5c10617f5a4cbab629",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66243$E9EEDD60-08BA-4EB1-BCCF-CE8976323AF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66243$829AD28C-4CAE-48D3-9649-C0C8E2021FA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66243$E6F4E53C-A22D-44DD-8089-A857DAF0B043",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60472",
+              "numeric-id": 60472
+            }
+          },
+          "hash": "5690dbbdcd73866b0afa848916154d79b39572b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66243$4D822FDF-8FD0-46B0-B426-BCC4C4F22A67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66243$CABAD1CD-B966-4D50-AD4C-8316F9C39D76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0608-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2a822f46e0053490b6334500216e664f2bf29e8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66243$9B29E5D4-753E-4765-86BF-CC03032B8F81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45639019"
+          },
+          "hash": "d3027fe79692307e48cd02742458c6636084cb82",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66243$8FC3D01F-4511-4BEC-9F00-58F01903E50E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Mao Arms.svg"
+          },
+          "hash": "a569cc68b5a8c7015198a7154a1c95f0eb0a3016",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 180465"
+    }
+  },
+  "id": "Q66243",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Mao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Mao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Mao"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛袤"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Mao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛袤"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛袤"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛袤"
+    }
+  },
+  "lastrevid": 17476940,
+  "modified": "2025-09-16T16:34:32Z",
+  "ns": 860,
+  "pageid": 81074,
+  "sitelinks": {},
+  "title": "Item:Q66243",
+  "type": "item"
+}

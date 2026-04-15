@@ -1,0 +1,587 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mariamne (Hasmonean)"
+      },
+      {
+        "language": "en",
+        "value": "I Mariamne"
+      },
+      {
+        "language": "en",
+        "value": "מרים החשמונאית"
+      },
+      {
+        "language": "en",
+        "value": "Mariamne"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78186$4A085E6B-6A90-4B1A-8DC6-07ED58A43904",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "168993|339291"
+          },
+          "hash": "70ca4ab66bab237a2860795b739d5f981262c95a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q78186$62143C2B-3793-4969-874E-47518797A496",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736482"
+          },
+          "hash": "b4b207d0d2b77368fb20f01e0bfed9f65d6f13db",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78186$042EF714-C772-46DF-BC56-05A2B6E0FFA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78024",
+              "numeric-id": 78024
+            }
+          },
+          "hash": "da30644b5d668f7106f103ff965d6bea62eefa25",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78186$1B90185F-AFBD-47B5-B774-38BDE8148283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141680",
+              "numeric-id": 141680
+            }
+          },
+          "hash": "dd94519f7f1a294fd9567b17903a0bce24663935",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78186$FB908E60-22B8-442A-9438-0859B6D3896E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141679",
+              "numeric-id": 141679
+            }
+          },
+          "hash": "f6a257362f3b4b17766a9bd1e5ecd1669c613351",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78186$BE588DB9-75B4-472A-A95F-CBB094EDC776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141676",
+              "numeric-id": 141676
+            }
+          },
+          "hash": "ba8eb137c16504b22ca4cd47cc467a1a4f2a7ce4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78186$5AE8A928-E8BC-4BAD-9068-1CCB589FFB09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78186$6DB6B56E-9453-43CD-B061-D3D1A9F5B12A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q78186$50E6D152-BEFF-4C61-95CE-84DC7602B28E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mariamne_(second_wife_of_Herod)_(1)"
+          },
+          "hash": "585e6a782dadbf541e95dc3d5594f62edd5199a5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78186$8A9818E4-6483-46A5-B0A6-3256FFD33B1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78189",
+              "numeric-id": 78189
+            }
+          },
+          "hash": "c491ddc0ed5665b08e2c3b32fb84fe4e67a67ca8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78186$C792B952-AC73-4761-A228-8722A5E69D7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78342",
+              "numeric-id": 78342
+            }
+          },
+          "hash": "04e68d40f87a7b410babff1fd7574de863dd4b25",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78186$50163E68-7AA2-4949-9D4A-469F75EDEAFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78345",
+              "numeric-id": 78345
+            }
+          },
+          "hash": "e5ecaae621b21e9dd6bb9610faa377525b43e5af",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78186$0C4B496B-A7EF-46E5-874C-0313D1AB9AF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78186$10022925-3F07-4AAE-831F-05DFB489CD4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0029-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c952fcf5492195a11025dec77a068ec28ec34f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78186$43D74C69-5C04-4EFE-A670-A167FBB4A19D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q266601"
+          },
+          "hash": "dac4748881f71286f1fd3daaec11a3b2c055c2a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78186$B9625F37-DE85-43DC-896A-4820AB0A12C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002428793929"
+          },
+          "hash": "0d7d5353bc76adf802414aaee0b762e7f17de5ed",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78186$9B804379-6F46-4058-B920-DB66D2EFBA59",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mariamne Arms.svg"
+          },
+          "hash": "e2222c29c5f0531656c8e94670200f618ec42586",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أميرة حشمونية والزوجة الثانية لهيرودس الكبير"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prinzessin der Hasmonäer-Dynastie, zweite Frau Herodes des Großen"
+    },
+    "el": {
+      "language": "el",
+      "value": "2η σύζυγος του Ηρώδη Α΄ του Μεγάλου"
+    },
+    "en": {
+      "language": "en",
+      "value": "second wife of Herod the Great"
+    },
+    "es": {
+      "language": "es",
+      "value": "segunda esposa de Herodes el Grande"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Herodes Suuren toinen vaimo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse hasmonéenne, épouse d'Hérode le Grand"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו של המלך הורדוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "seconda moglie di Erode il Grande"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Segunda esposa de Herodes, descendente da dinastia asmoneia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "принцеса династії Гасмонеїв"
+    }
+  },
+  "id": "Q78186",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مريمان الأولى"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مريمان الاولى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марыямна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мариамна"
+    },
+    "br": {
+      "language": "br",
+      "value": "Mariamne Iañ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mariamne I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mariamné"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mariamne"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Mariamne"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαριάμνη Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mariamne"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Mariamne I"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Mariamne I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mariamna I"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mariamme I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mariamne l'Hasmonéenne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Mariamne"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרים החשמונאית"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարիամնե"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mariamne I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mariamne"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マリアムネ1世"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mariamme I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mariamne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mariamne"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mariamme I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mariana (Herodes)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mariana (esposa de Herodes)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Mariamna I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мариамна"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marijamna"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Маријам"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mariamne I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маріамна"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مریمنے"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "מרים החשמונאית"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米利暗一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "米利暗一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米利暗一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "米利暗一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "米利暗一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "米利暗一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "米利暗一世"
+    }
+  },
+  "lastrevid": 17492176,
+  "modified": "2025-09-16T20:09:40Z",
+  "ns": 860,
+  "pageid": 93017,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78186",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78186"
+    }
+  },
+  "title": "Item:Q78186",
+  "type": "item"
+}

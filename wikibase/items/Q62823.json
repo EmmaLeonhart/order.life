@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nobuzane"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q62823$24211501-93CA-49C3-B5D1-906AD4908DA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-30"
+          },
+          "hash": "1543fe3974042c015f62c9ac647dfefb4d1269ff",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62823$774865F4-9974-4E3D-A1B9-76A316509D4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62823$8D49DFF0-FD31-4338-98FA-D84194D49495",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62823$24CEB11A-9EE9-4083-9AF7-FC202D54E155",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57095",
+              "numeric-id": 57095
+            }
+          },
+          "hash": "5790ac69cc60c1e4b40770bd49503e69ae88af9b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62823$F875C7BD-8F3E-4CB6-80EC-FB07BD5A1E62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62823$95B3693D-1D3A-4C1B-B3F6-3ADC769C513E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1842-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b16ed0495c367c8e7c98fb588f8c360da5cbd3ff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62823$6E86E8DC-9C87-4799-B4E3-64DAD31DACDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608323"
+          },
+          "hash": "1c9273b69e41fcb961fb386f13e51602a184fba5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62823$0DA22A1F-DB37-468F-9015-0092DAABE119",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nobuzane Arms.svg"
+          },
+          "hash": "7f113d90c05448a38f630a98d2b9876687d2f9f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "photographer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "fotograaf"
+    }
+  },
+  "id": "Q62823",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oda Nobuzane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田信真"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобудзанэ Ода"
+    }
+  },
+  "lastrevid": 17472784,
+  "modified": "2025-09-16T15:31:26Z",
+  "ns": 860,
+  "pageid": 77654,
+  "sitelinks": {},
+  "title": "Item:Q62823",
+  "type": "item"
+}

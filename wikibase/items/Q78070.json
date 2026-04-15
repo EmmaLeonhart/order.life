@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yoshiko Kuki"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q78070$7897852E-71AC-471B-9FA9-D4E14141FE96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "九鬼-1"
+          },
+          "hash": "0d2e44dc154b9da99165fded90e56292a7adc6bf",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78070$27EF1A72-83A6-4353-814C-E1EA0976D8F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78070$9B066BAC-22B3-4F07-A45A-DC868C538C4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78070$A0D41F68-23CA-41A3-B739-CA08D7E8C3B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73243",
+              "numeric-id": 73243
+            }
+          },
+          "hash": "8e27cff328b9fa513a353cef82ef883520bbea39",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78070$D7F9F897-F05F-42B4-9830-B5DFA9648B74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78070$0DCB060A-559D-497C-89D5-E524FB5CE285",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1869-04-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a89bfef184752fc3688eafdfc09eaadf90ab3c9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78070$9EBF6D2F-C430-4288-A7F6-DBCD4FCA5EA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111303567"
+          },
+          "hash": "3370f652d807a238d9de694a5b847d634ac1bec4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78070$436457CE-E075-4359-863B-D90AA97C90A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yoshiko Kuki Arms.svg"
+          },
+          "hash": "529ef84df60ea8a089710082ddedcf1f100deac6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Spouse of Kōjirō Matsukata, Second daughter of Takayoshi Kuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松方幸次郎の妻。九鬼隆義の次女。"
+    }
+  },
+  "id": "Q78070",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jošiko Kukiová"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yoshiko Kuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "九鬼好子"
+    }
+  },
+  "lastrevid": 17492056,
+  "modified": "2025-09-16T20:07:59Z",
+  "ns": 860,
+  "pageid": 92901,
+  "sitelinks": {},
+  "title": "Item:Q78070",
+  "type": "item"
+}

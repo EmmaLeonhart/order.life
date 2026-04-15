@@ -1,0 +1,427 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Attica"
+      },
+      {
+        "language": "en",
+        "value": "Pomponia Caecilia Attica"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72425$19B312E5-7849-40DE-8485-B2222ED4D530",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735498"
+          },
+          "hash": "28546af2bd1211adb7a04af4714a72d528b383cb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72425$C35C97E4-EF7D-44D5-8BC9-DB76429EB771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72239",
+              "numeric-id": 72239
+            }
+          },
+          "hash": "0c0343d60a221ab55d569a961ab39edd43dec332",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72425$76E54BE6-12F2-413D-AA59-A72E5DBF4CF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139606",
+              "numeric-id": 139606
+            }
+          },
+          "hash": "4f76c5a38f93db600af6e01a26b52759cfc2f5ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72425$2CAF5938-EE95-4409-92FC-0D5075C7C282",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72425$3DB15260-6BB0-4DAF-8C04-76528BC9B542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72425$7784C427-0B4B-4111-98A5-B84FEF3A8FC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72335",
+              "numeric-id": 72335
+            }
+          },
+          "hash": "ccf65105d1b7370cb11f99eee174414c5c2762ed",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72425$29F33BBE-7B80-424C-97FA-6041093B7335",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72600",
+              "numeric-id": 72600
+            }
+          },
+          "hash": "d9b2d00c324bd79ec773f713753a1877724a5f30",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72425$CCD0DFB5-1315-45B2-BC33-0A85B9BD1841",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72603",
+              "numeric-id": 72603
+            }
+          },
+          "hash": "540a17829c96e992a2c6b04e6f965c4bc08be1a5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72425$C2A49B54-0E32-4616-9342-23358AEAC6BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72425$E1AA4DEF-C773-4545-8DD5-603F5B9C3D2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0055-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3041b77473bd885b7f17a44fbddef1bc2ab28905",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72425$8DE1B76A-0F07-445A-B996-3DEB2A873BDC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0028-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fab23cce5b31ac7c3354ebef1422b77e78c3d4ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72425$7C3FA0C9-212D-4F06-9CB5-047BD83A358C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q152626"
+          },
+          "hash": "a5721464e2498698cd1f7335700f0c412f2a1629",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72425$DA7E5205-EB37-4DE1-914A-C026117FD5F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645870469"
+          },
+          "hash": "58dc0231cde0cc1668f2ec45a06c994a938c8357",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72425$CAEFAED8-9C87-4C63-A0C4-A475E2389718",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Attica Arms.svg"
+          },
+          "hash": "96902bd9f6d1339f9541c2232df1fd797f751b96",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk kvinde"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des römischen Ritters Titus Pomponius Atticus"
+    },
+    "en": {
+      "language": "en",
+      "value": "first wife of Marcus Agrippa"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Pomponio Ático y primera esposa de Agripa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble romaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "אצילה רומאית"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana"
+    }
+  },
+  "id": "Q72425",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cecilia Ática"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Помпония Цецилия Атика"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pompònia Àtica"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pomponia Caecilia Attica"
+    },
+    "de": {
+      "language": "de",
+      "value": "Caecilia Attica"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αττική (σύζυγος του Αγρίππα)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Attica"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cecilia Ática"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caecilia Pomponia Attica"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Attica"
+    },
+    "he": {
+      "language": "he",
+      "value": "קייקיליה אטיקה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pomponia Cecilia Attica"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ポンポニア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Caecilia Attica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Caecilia Attica"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cecília Ática"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cecília Ática"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Помпония Цецилия Аттика"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pomponija Cecilija Atika"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Attica"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цецилія Помпонія Аттіка"
+    }
+  },
+  "lastrevid": 17484890,
+  "modified": "2025-09-16T18:27:10Z",
+  "ns": 860,
+  "pageid": 87256,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72425",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72425"
+    }
+  },
+  "title": "Item:Q72425",
+  "type": "item"
+}

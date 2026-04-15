@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Heng"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q74685$FC8451BE-7B68-4BD0-8863-B21773179CBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74685$ACCE8825-BF05-4C12-AEC1-10915781F46D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74685$D7F264E2-50E6-43CA-8B99-55B1ADE38D89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74682",
+              "numeric-id": 74682
+            }
+          },
+          "hash": "14bd74f446ad6eecaaf3bec9148d9f686f8d4fb5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74685$53C0A292-CC80-49E3-A787-A5A3207B0202",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70084",
+              "numeric-id": 70084
+            }
+          },
+          "hash": "cca971f23115139b6684bc5b796abed3b0256e82",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74685$2643E9E8-632A-4687-B0C4-5CE8BD237862",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74685$2D888788-E083-4B92-9619-CA2CEECCEE59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74685$1F581532-94AE-4CA3-A2DB-8628E2EC7D38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11387770"
+          },
+          "hash": "0bc671aa897bcaa93da6d063dc17affe01192331",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74685$81B4AE62-3608-4C04-8705-79559B4FCD39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075333803050"
+          },
+          "hash": "7582ef8c390faac8f5a4330380f4879e1f985b97",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74685$418490F6-A0AF-46CF-818D-ACA17E6AFF43",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Heng Arms.svg"
+          },
+          "hash": "f36056ed0bf772386b473606da7989bd243df100",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Sui dynasty person CBDB = 32888"
+    }
+  },
+  "id": "Q74685",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuan Heng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuan Heng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yuan Heng"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "元亨"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "元亨"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yuan Heng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "元亨"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "元亨"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "元亨"
+    }
+  },
+  "lastrevid": 17487662,
+  "modified": "2025-09-16T19:05:56Z",
+  "ns": 860,
+  "pageid": 89516,
+  "sitelinks": {},
+  "title": "Item:Q74685",
+  "type": "item"
+}

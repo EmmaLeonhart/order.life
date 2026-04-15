@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Balgi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q73868$242D28FD-4904-45F2-B223-25B49407D1D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73868$B03B0BF8-2BE3-4296-9CDF-135884EEFF53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73868$C9A16040-DBCF-41C3-9A45-83D67713D062",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69183",
+              "numeric-id": 69183
+            }
+          },
+          "hash": "5b9ec3d77ba2f66e7fa0560b7ef930aa3d408e35",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73868$BA1B5127-30D2-4DDD-9AB1-943E40D5D26B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73868$28641D5A-5E88-4177-83A8-27925D2D2C55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73868$0E2E1A65-7CDC-45FF-8815-ED5ACB4CA01D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0197-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "faa687c4979154bcf1147c0781cc82b56a54f3ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73868$C6BFF7D5-3A04-431A-8168-1FF235EC39F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16184210"
+          },
+          "hash": "cdb231cfeb6275d2949a05a7b12a33d10c563d65",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73868$073635BA-A2C2-45B7-9E65-A19850898E5C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Balgi Arms.svg"
+          },
+          "hash": "e7ab40e34e48e27517ddddaf397579aee71bd2c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q73868",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Balgi"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고발기"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ко Бальги"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "高拔奇"
+    }
+  },
+  "lastrevid": 17486692,
+  "modified": "2025-09-16T18:52:45Z",
+  "ns": 860,
+  "pageid": 88699,
+  "sitelinks": {},
+  "title": "Item:Q73868",
+  "type": "item"
+}

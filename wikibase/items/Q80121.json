@@ -1,0 +1,577 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elephant  Pharaoh of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q62573$8E2C66CD-22B5-4BB1-8A3C-2A5E6B1D5406",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62567",
+              "numeric-id": 62567
+            }
+          },
+          "hash": "b7fdb0cdf302400d7ff49c20dbd6d197a0395a77",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q62573$E41FDABA-1277-45A0-AFEB-17B47B9E61AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62573$E77EECE2-9AFE-42F0-8A51-2CCF3B83CFD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62573$9C8039E4-1FAB-4478-AAAB-FA9BD4673D95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62576",
+              "numeric-id": 62576
+            }
+          },
+          "hash": "b6a6d9f921787d6d574f91bd9e965b8252ff2d9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q62573$C9D351F9-48A7-4F92-AF46-C2CD41B1866A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Elephant /Pharaoh of Egypt/"
+            }
+          },
+          "hash": "48e341722b9337ed8e9cc54f6cbe33eebe10e70a",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62573$05205421-9413-455C-A300-E296CA2CED71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62573$9C3EA6E8-ADB9-4FFA-A6E2-0AA0FE403B2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888626"
+          },
+          "hash": "e717fe8df9ee167690e0aa79981320b784318ce4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62573$81E6746F-AED6-4855-865C-1EA7067F9C74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pe-Hor Arms.svg"
+          },
+          "hash": "7883f2aadc83e77e33a39036b014208d1cb8e771",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Pharao der altägyptischen 0. Dynastie"
+    },
+    "dga": {
+      "language": "dga",
+      "value": "yuori dɛndɛŋ naŋ nyɛ bammo yi Egypt wɛderebɛ (zɔɔre naŋ bebe)"
+    },
+    "en": {
+      "language": "en",
+      "value": "provisional name of the first known predynastic Egypt ruler (existence disputed)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "oletettu esidynastisen kauden faarao"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain égyptien prédynastique"
+    },
+    "he": {
+      "language": "he",
+      "value": "שליט במצרים העתיקה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "nome provvisorio del primo regnante egizio conosciuto del periodo predinastico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Egypte (-?)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "первый известный фараон додинастического Египта, условно включаемый в так называемую 00-ю династию"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古埃及傳說統治者"
+    }
+  },
+  "id": "Q62573",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pe-Hor"
+    },
+    "an": {
+      "language": "an",
+      "value": "Pe-Hor"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بى هور"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Pe-Hor"
+    },
+    "av": {
+      "language": "av",
+      "value": "Пен-Абу"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Pe-Hor"
+    },
+    "br": {
+      "language": "br",
+      "value": "Pe-Hor"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pe-Hor"
+    },
+    "co": {
+      "language": "co",
+      "value": "Pe-Hor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pe-Hor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pe-Hor"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pe-Hor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pen-abu"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Pe-Hor"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Pe-Hor"
+    },
+    "dga": {
+      "language": "dga",
+      "value": "Pe-Hor"
+    },
+    "egl": {
+      "language": "egl",
+      "value": "Pe-Hor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πε Ώρος"
+    },
+    "eml": {
+      "language": "eml",
+      "value": "Pe-Hor"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pe-Hor"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pe-Hor"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pe-Hor"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pe-Hor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pe-Hor"
+    },
+    "et": {
+      "language": "et",
+      "value": "Pe-Hor"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pe-Hor"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Elefant (farawna)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pe-Hor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pe-Hor"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Pe-Hor"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Pe-Hor"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pe-Hor"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Pe-Hor"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pe-Hor"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Pe-Hor"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיל"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pe-Hor"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hórpenabu"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Pe-Hor"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pe-Hor"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Pe-Hor"
+    },
+    "io": {
+      "language": "io",
+      "value": "Pe-Hor"
+    },
+    "is": {
+      "language": "is",
+      "value": "Pe-Hor"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pe-Hor"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペホル"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Pe-Hor"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Pe-Hor"
+    },
+    "li": {
+      "language": "li",
+      "value": "Pe-Hor"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Pe-Hor"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Pe-Hor"
+    },
+    "min": {
+      "language": "min",
+      "value": "Pe-Hor"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Слон (фараон)"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Pe-Hor"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Pe-Hor"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pe-Hor"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Pe-Hor"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Pe-Hor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pen-abu"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pe-Hor"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Pe-Hor"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Pe Hor"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Pe-Hor"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pe-Hor"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Pe-Hor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pe-Hor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pe-Hor"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Pe-Hor"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Elefant"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пе-Хор"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Pe-Hor"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Pe-Hor"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Pe-Hor"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pe-Hor"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pe-Hor"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pe-Hor"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Pe-Hor"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pe-Hor"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Pe-Hor"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟาโรห์อเลเฟ็น"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пе-Гор"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Pe-Hor"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pe-Hor"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Pe-Hor"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Pe-Hor"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Pe-Hor"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Pe-Hor"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "大象 (法老)"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Pe-Hor"
+    }
+  },
+  "lastrevid": 17472472,
+  "modified": "2025-09-16T15:26:49Z",
+  "ns": 860,
+  "pageid": 77404,
+  "sitelinks": {},
+  "title": "Item:Q62573",
+  "type": "item"
+}

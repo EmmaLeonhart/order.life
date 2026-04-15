@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cai Yue"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q70924$8FBBB4CE-4DDC-465A-A6A8-7708E913ECE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70924$BABEEA66-51E1-42C4-BDDF-C3339DD0B7EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70924$743BB1BF-4661-4AC4-B546-D22DCA2DDB68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70921",
+              "numeric-id": 70921
+            }
+          },
+          "hash": "1843636c9cbb3f0c378efafd850e785f764180da",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70924$C23CAADC-CB3F-4E95-8894-EC8F7F612F15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70924$17D8C18D-D463-462D-BEAC-FA0242E72D1A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0457-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6143a2a2ceda4a26a37148af02743a56730d7e26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70924$753841D0-B4E1-44C7-A6B3-8E6A7555DF63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70924$90504B44-971F-45F4-AA89-C54AFA55CBD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11621829"
+          },
+          "hash": "55643178c5653885802948401fab3b7d073251f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70924$8AD6A4ED-AB74-4A43-AAF6-5DB06D183ED3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074732722842"
+          },
+          "hash": "47fd30a9f104ea0006af88feb30763ac9a29d067",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70924$B9DD71D4-BBE0-4459-AE8E-8984874417FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cai Yue Arms.svg"
+          },
+          "hash": "c34410a117852c42a90f2e87fe156063f3f77932",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Southern Qi person CBDB = 12011"
+    }
+  },
+  "id": "Q70924",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cai Yue"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cai Yue"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cai Yue"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蔡約"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蔡約"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cai Yue"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Яку Саи"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蔡約"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "蔡约"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蔡約"
+    }
+  },
+  "lastrevid": 17482900,
+  "modified": "2025-09-16T17:59:16Z",
+  "ns": 860,
+  "pageid": 85755,
+  "sitelinks": {},
+  "title": "Item:Q70924",
+  "type": "item"
+}

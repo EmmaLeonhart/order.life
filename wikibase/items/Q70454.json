@@ -1,0 +1,551 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eber"
+      },
+      {
+        "language": "en",
+        "value": "Ilum-bani"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q70454$3E1F21A9-51EC-476E-80AF-EA7A896F2387",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70457",
+              "numeric-id": 70457
+            }
+          },
+          "hash": "59b3bffef8a2812e2cc2f2cfaa3219a5825e70b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70454$3FC754BD-469D-4D10-B77A-6A2EF388613E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129712",
+              "numeric-id": 129712
+            }
+          },
+          "hash": "d9cbe336162614e04ca938226a1e4a3f8f381fe8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70454$50CB92A3-3F4E-43D9-A279-75F6C83DC915",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70454$A6B87497-BAF8-455C-B417-CF19C83D5044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q70454$F6874E92-038C-4485-94A8-D8A5886E0443",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70490",
+              "numeric-id": 70490
+            }
+          },
+          "hash": "7733b5e9d92196aaa7f3128ec67a00bb9ee6874a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70454$8A0FC95D-D6E3-494C-BA13-1D676D18A800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70451",
+              "numeric-id": 70451
+            }
+          },
+          "hash": "756c5b2cd564801f66942dfd8f148702e6686d27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q70454$61C56F0B-4D50-455E-B94F-D8C3C73367DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70487",
+              "numeric-id": 70487
+            }
+          },
+          "hash": "9445f66261144f336ff1cedbdc0ed24aa8fdaf69",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70454$6DDA52E3-DDB2-4589-A355-C620B2721046",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70454$391384A3-952F-49C0-A6B7-BF998729944B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2038-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a21e69c32e9bc1a48db13981337e15f6d9d6871",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70454$50C06DB4-BD3F-490C-A45B-E9865DF80777",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1574-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "25a4c5a80200896750b42de122af6fd2e66ad6b1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70454$22AD7AE6-678B-48C2-A641-6525DAB9A2CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q502282"
+          },
+          "hash": "91bcb11930fa59bfa0dd382fceaadee455051dc6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70454$5F895FB0-BD9F-4817-BA1A-DE34DE42A91B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006375806579"
+          },
+          "hash": "c7aa4193dd9e8e95dd19e195187bc705b676cab3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70454$3ECA4936-8D65-4F1C-966A-35BBA3FF6938",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eber Arms.svg"
+          },
+          "hash": "c66b755fcd9ff8956295ddeaedef2b300dfba995",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أبو العرب"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(2038-1574)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Großenkel von Noah Sohns Shem"
+    },
+    "en": {
+      "language": "en",
+      "value": "great-grandson of Noah's son Shem"
+    },
+    "es": {
+      "language": "es",
+      "value": "tataranieto de Noé"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, בנו של שלח בן ארפכשד"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della Bibbia"
+    },
+    "la": {
+      "language": "la",
+      "value": "proavus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbelse figuur"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblico"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 10:21)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "挪亞子孙，閃的后代"
+    }
+  },
+  "id": "Q70454",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ዔቦር"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "عابر بن شالخ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "عابر"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Евер"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "এবর"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཨེ་པེར།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Éber"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Heber"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Eber"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eber"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eber"
+    },
+    "el": {
+      "language": "el",
+      "value": "Έβερ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ilum-bani"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Eber"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eber"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Eber"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eber"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Éibear"
+    },
+    "he": {
+      "language": "he",
+      "value": "עבר"
+    },
+    "id": {
+      "language": "id",
+      "value": "Eber"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eber"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エベル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에벨"
+    },
+    "la": {
+      "language": "la",
+      "value": "Heber"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ebera"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Евер"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Eber"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eber"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eber"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eber"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "عبر"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Éber"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Eber"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Евер"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Eber"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eber"
+    },
+    "so": {
+      "language": "so",
+      "value": "Caabir"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ебер"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ебер"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Eber"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ever"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Eberi"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Eber"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ever"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Евер"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "عبر"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Yever, Bibliya personaji"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "עבר"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希伯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "希伯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希伯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "希伯"
+    }
+  },
+  "lastrevid": 17482288,
+  "modified": "2025-09-16T17:50:17Z",
+  "ns": 860,
+  "pageid": 85285,
+  "sitelinks": {},
+  "title": "Item:Q70454",
+  "type": "item"
+}

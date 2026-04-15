@@ -1,0 +1,599 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nicaea of Macedon"
+      },
+      {
+        "language": "en",
+        "value": "Nikaia /I/"
+      },
+      {
+        "language": "en",
+        "value": "Nikaia  I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73725$2177B5EC-8CBD-4CFD-9597-3E32191C5AB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "667004"
+          },
+          "hash": "c165b69d825d166944dc600ee50035613a245a24",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73725$FC1CCFC9-851E-4286-A2E4-D7CCAE6E56B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736329"
+          },
+          "hash": "63c4cecc92515e133e981266ab312ae3f2f5b9b4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73725$5AC678FC-C40C-41BC-94E0-312AABC453C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73611",
+              "numeric-id": 73611
+            }
+          },
+          "hash": "05e10c4fdece57680571540151f0a5f5ecd8ae38",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73725$28DD8383-3930-4F4F-B86A-C355351FE6B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135344",
+              "numeric-id": 135344
+            }
+          },
+          "hash": "209be02656ad023d845aad5321ca6dcb92a3bb98",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73725$8E0485A0-620F-42F8-8D4D-F83E83B226EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135362",
+              "numeric-id": 135362
+            }
+          },
+          "hash": "0c8adbf4e57195059d9e16d79c536f6c1853c6bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73725$7124C7B0-B722-4F86-A72C-BFBDB3FE2B54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165354",
+              "numeric-id": 165354
+            }
+          },
+          "hash": "ff184d20c7e2ec9b539026f1e6bcda4f291474c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73725$CE2D90E1-B183-4735-8B45-4B4B9954DCFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165355",
+              "numeric-id": 165355
+            }
+          },
+          "hash": "082d2e7c887b5fbd8e80bd57511210c70b179a3d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73725$6FB433E9-632F-41B0-986D-7C2073F6FFD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73725$E7F2050D-DEC5-48F0-A2E7-29D3B926A94E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73725$D8B0CDB2-7959-4787-9780-5CEED8D01880",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73722",
+              "numeric-id": 73722
+            }
+          },
+          "hash": "d438b6a8b0e5f2101e0e9ebcf7e1c994cb7ef73b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73725$B05CF148-B172-4DED-89EF-9DE9B20BD7FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165352",
+              "numeric-id": 165352
+            }
+          },
+          "hash": "8e65f7dcaef5222a6ddb0e0373742017fadaee06",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73725$87BA1F59-412F-4BAA-B3E7-7A628F32756B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73830",
+              "numeric-id": 73830
+            }
+          },
+          "hash": "d05c4e291b09458740b54175d1bf1f9ab676ea93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q73725$3CF84805-BF2D-44FD-978A-088C3413EF9D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Nikaia /I/"
+            }
+          },
+          "hash": "eda454354d2e75d0cc86ab8095c3d20bf28e0efe",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73725$5903E6C9-54FB-4EC4-ADB7-1979609E0CCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73725$54F61567-5B42-4B94-98D4-043BF286F3F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73725$6173E09B-5A2C-4CFF-82D2-1440CC958F24",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0302-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b78f330281bd7aeb7ccb40ced320f9a7d1341f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73725$1CCCB5D3-166A-4999-9F9E-3BDBF3F1CF31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q441885"
+          },
+          "hash": "7655be271d032cb7c89c9f985a3506d0f37e697c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73725$FC7B2073-5D4B-4A9E-B45B-EC7A2E7555A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645853693"
+          },
+          "hash": "1fd775b0a5369a491d58afa3bf42206852dc9e3e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73725$DA8E22B3-B305-4793-8894-BE6A1DB26C89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nicaea of Macedon Arms.svg"
+          },
+          "hash": "f253fee5f4cdfe4f167d0f48fd202464052fdd02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "македонская каралева"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "filla d'Antípatre"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "makedonská královna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Antipater, Verlobte des Perdikkas und Ehefrau des Lysimachos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασίλισσα της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "queen of Macedonia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "makedona nobelino"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa macedonia, reina consorte de Tracia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse macédonienne, reine consort de Thrace"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa antico macedone"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь наместника Македонии Антипатра"
+    }
+  },
+  "id": "Q73725",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nicea de Macedonia"
+    },
+    "be": {
+      "language": "be",
+      "value": "Нікея Македонская"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Нікея Македонская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Никея Македонска"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nicea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nikaia Makedonská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nikaia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νίκαια της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nicaea of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Niceo de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nicea de Macedonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nikaia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Nicaea na Macadóine"
+    },
+    "he": {
+      "language": "he",
+      "value": "ניקיאה ממקדון"
+    },
+    "id": {
+      "language": "id",
+      "value": "Nikaia dari Makedon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nicea di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニアのニケア"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nikaia av Makedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nicaea of Macedon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Niceia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Niceia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Никея Македонская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nikeja od Makedonije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Nikeja Makedonska"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Никеја од Македоније"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nikaia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Makedonyalı Nikaia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нікея Македонська"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nicaea của Macedon"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬其頓的妮卡亞"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "马其顿的妮卡亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "马其顿的妮卡亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬其頓的妮卡亞"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "馬其頓的妮卡亞"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "马其顿的妮卡亚"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "馬其頓的妮卡亞"
+    }
+  },
+  "lastrevid": 17486510,
+  "modified": "2025-09-16T18:50:09Z",
+  "ns": 860,
+  "pageid": 88556,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73725",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73725"
+    }
+  },
+  "title": "Item:Q73725",
+  "type": "item"
+}

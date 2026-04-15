@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mori Nagakuni"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q58614$0CF639A2-B997-4696-9B3C-3D5037573756",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q58614$904595B0-B005-48B7-A68D-AABC13986181",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q58614$9BF4EC28-F4AF-41EA-BBE1-1D05DE879BD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51852",
+              "numeric-id": 51852
+            }
+          },
+          "hash": "d07bb141417f38876194f7ebcd35453fbb9dd153",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q58614$4AA057E5-5417-4959-83CE-15928215CB28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q58614$F52E39AC-2884-4B41-BAB3-016EC22C4C26",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1810-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "674a6e53a3078d90f1ef1d8f3cce006ca508cdee",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q58614$C1E81FF9-04E8-45EB-9886-BE8C3DC27BE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1857-12-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df303420c4884b697bd8ab14db1c7bd3bd3b0dea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q58614$C2BCE2EE-09C7-4585-ACC1-320610B52193",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11540412"
+          },
+          "hash": "33213f07e79b179e2f5a8dcaa9bd5ec1b3482171",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q58614$C486CD13-964B-433D-86B2-2B0937A52147",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mori Nagakuni Arms.svg"
+          },
+          "hash": "d0955ebfc15b7646c021e25c7246ef5514c946eb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q58614",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mori Nagakuni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "森長国"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагакуни Мори"
+    }
+  },
+  "lastrevid": 17467198,
+  "modified": "2025-09-16T14:06:44Z",
+  "ns": 860,
+  "pageid": 73445,
+  "sitelinks": {},
+  "title": "Item:Q58614",
+  "type": "item"
+}

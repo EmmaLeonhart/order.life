@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tsugaru Tsugutomi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68651$864B66B1-F9F4-4174-BF8C-DAB44EF3AD08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68651$18E2E1AD-4083-48B6-9C83-80D9D942A1B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68651$0E42D9A7-9244-4509-AAD6-479052ED8BFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63141",
+              "numeric-id": 63141
+            }
+          },
+          "hash": "8b20bb4836e65825ec935c9b60ef58ee0d1aa131",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68651$DAFC0293-EEC8-4979-93C3-C8CD39208BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68651$9F03AB37-F56A-47A9-AEA5-257873648BB9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1838-03-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "369aa8b72a0053d9b57f03f8082572a4281cf73f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68651$1D9433B2-A77C-44E4-85CE-4ABE465B9ADD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1855-09-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0b5b6fa4cfb013dfb5603271f1d1dc5b95b25210",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68651$B24C5041-C8B8-4371-BBDA-39921D0B07F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11556414"
+          },
+          "hash": "5a774c1ca62d56d5fbb9d31a63d6604ef6cf6ecc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68651$C1250B07-9E2C-4B97-827A-80AFD3EEEDBC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsugaru Tsugutomi Arms.svg"
+          },
+          "hash": "310509ec04e5c6fdb50f259efdb1548bea685540",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q68651",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tsugaru Tsugutomi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "津軽承祜"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Цугутоми Цугару"
+    }
+  },
+  "lastrevid": 17480062,
+  "modified": "2025-09-16T17:19:12Z",
+  "ns": 860,
+  "pageid": 83482,
+  "sitelinks": {},
+  "title": "Item:Q68651",
+  "type": "item"
+}

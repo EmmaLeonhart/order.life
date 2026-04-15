@@ -1,0 +1,408 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Julius Caesar"
+      },
+      {
+        "language": "en",
+        "value": "Gaius Julius Caesar, II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73188$4BE6BC39-8617-41AA-8F6A-01E599438C4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735685"
+          },
+          "hash": "96677accf056159439e67fa31f64cb249b923668",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73188$60E4356C-EF9E-4339-9BD6-5489C504DE06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73029",
+              "numeric-id": 73029
+            }
+          },
+          "hash": "0f938b20d0a5e3448fcab5da40da94d953f09c48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73188$57D01C81-0CD3-468C-B622-BAB7F311B77C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138479",
+              "numeric-id": 138479
+            }
+          },
+          "hash": "d118e5275ea081afad1b961e350a5d6342d57051",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73188$D8F9AABB-A385-4AFA-A197-0665B4571341",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138480",
+              "numeric-id": 138480
+            }
+          },
+          "hash": "746b6602f7514b2a2cc2ec68ae4e6b7105c15d3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73188$63E218E1-E7AD-4625-B98A-E82E2D72AEFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73188$57EECF08-0069-42CE-AE42-4D6EAF5B1833",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73188$867A95B3-63AE-4125-8E7A-7D6DAC174E30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73185",
+              "numeric-id": 73185
+            }
+          },
+          "hash": "271e413f1b77a3657a3dba843099cafeef767fec",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73188$ED9D2141-02AE-42C1-B9DF-DE7EA5BD7A98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73347",
+              "numeric-id": 73347
+            }
+          },
+          "hash": "21bec02da366e9a2fa172cc07524326e45ae7e39",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73188$6168E93C-49FC-48F8-8E45-CD5680AAC3AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139693",
+              "numeric-id": 139693
+            }
+          },
+          "hash": "7049c40ef6ac2cb3bea9272482894f4d6cdc4bb2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73188$81002891-2ADF-4ED6-B48A-758D4105BF88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73188$CE1E73DC-3B31-48D2-A678-2A6785C8173C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73188$47A3EA61-FCE9-49A4-8ACF-EA34C0F8FFFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q651208"
+          },
+          "hash": "d69390f03aa735a1fc5168c15c1c3228bc713b15",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73188$0B9E67B1-4381-43BF-B2F6-B7E37561DA8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005759156012"
+          },
+          "hash": "e3c9e6274e9d60400ae3a1d2eb884d2ab6f3de06",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73188$B18490A5-9D0E-4480-A879-DE0A7E618964",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Julius Caesar Arms.svg"
+          },
+          "hash": "1d7c2018aa8ec0c28c0970a4aff7f7647a80a7c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "taid Julius Caesar"
+    },
+    "en": {
+      "language": "en",
+      "value": "paternal grandfather of Julius Caesar"
+    },
+    "es": {
+      "language": "es",
+      "value": "abuelo paterno de Julio César"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, grand-père paternel de Jules César"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q73188",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Caius Julius Caesar"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Юлий Цезар II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Juli Cèsar"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gaius Julius Caesar"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Iulius Caesar"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Ιούλιος Καίσαρας ΙΙ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Julius Caesar"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Julio César"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گایوس ژولیوس سزار دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Julius Caesar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Caius Iulius Caesar"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Giulio Cesare II"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Iulius Caesar"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gaius Julius Cæsar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Julius Caesar II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Júlio César"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Júlio César"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Юлий Цезарь"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Julije Cezar II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Юлій Цезар II"
+    }
+  },
+  "lastrevid": 17485884,
+  "modified": "2025-09-16T18:41:19Z",
+  "ns": 860,
+  "pageid": 88019,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73188",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73188"
+    }
+  },
+  "title": "Item:Q73188",
+  "type": "item"
+}

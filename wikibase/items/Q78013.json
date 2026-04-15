@@ -1,0 +1,193 @@
+{
+  "aliases": {},
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q78013$6DC93701-1B6B-4AF5-A00F-320937FDDB0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "秋田-4"
+          },
+          "hash": "3e8e27bff10960c775776d756a0ca28244aa4c6f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78013$56179FEB-ED2A-4D47-BD60-7065EF493947",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78013$F99EC70D-E42B-4627-9F83-E876CD8D95A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78013$75761CF9-50C3-4C44-AE21-2273DFFF6EBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73147",
+              "numeric-id": 73147
+            }
+          },
+          "hash": "f2f239eae935bce93338d567b08f682bed67c83d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78013$54CDD8B4-1F98-4D72-A727-17B1F8897133",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78013$A5E56BC6-B017-4387-AD46-2BD699599B60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1812-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb9e0463801ddba0d0c107a44d54b2a91c56eca7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78013$CDE307A0-DBA3-4EC2-9BB9-F24237867B4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1865-05-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2383156bc4dd97ed09c7498270dee9ae591b4f2a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78013$A6722811-31B9-4C01-8AD1-370F42DB77F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514674"
+          },
+          "hash": "bcb4e67969124d9bd1e8252248f0e144ac0ce337",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1812 - 28 May 1865"
+    }
+  },
+  "id": "Q78013",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "秋田肥季"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아키타 도모스에"
+    }
+  },
+  "lastrevid": 17491984,
+  "modified": "2025-09-16T20:06:56Z",
+  "ns": 860,
+  "pageid": 92844,
+  "sitelinks": {},
+  "title": "Item:Q78013",
+  "type": "item"
+}

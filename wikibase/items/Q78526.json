@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zaitao"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78526$FA6875D3-E16D-4AA3-B7FF-EB1F58D1AD92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "843408"
+          },
+          "hash": "053a575e4ccf2befe8824d519b56b70d06f3f6aa",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78526$55DF307E-2087-43AA-A9E7-7961B72A7BC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78526$34B50C4B-BAB5-45D0-A9C5-07DEFA59A794",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78526$87F6FDF4-A9E8-4DC0-8194-117BBCDF7D0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78517",
+              "numeric-id": 78517
+            }
+          },
+          "hash": "70e4ada4288ee37981dc8e0f0a4f7bf1678f0d60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78526$247C14DB-C1AB-4E70-9594-58979BC85CDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78520",
+              "numeric-id": 78520
+            }
+          },
+          "hash": "12a2604af6b332ceff7ac85b1535f08a860a7dd7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78526$6AE677C7-C998-4A57-8BAE-4FB739B4DB0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78526$CEAF7347-CA68-459E-A2C1-2A941063E0D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1887-06-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be7e9b7275ffd8471a3b3c9600f7b3db21d96546",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78526$3677334A-569E-4D89-8AE3-D30D2AB1272C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1970-09-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c68293e87c3eac2b1f51e60885f294698218c50",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78526$B7A3C2D9-AC4B-4797-8A48-CF97FB5B9819",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8064893"
+          },
+          "hash": "263e312506e27d34bd89e61a12ab007ceff009bf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78526$A5D6BE8F-ED16-4EFA-8F96-F23275582B62",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zaitao Arms.svg"
+          },
+          "hash": "2bdea727c9f0782c627d4793385980616ece2b20",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "دبلوماسى من جمهوريه الصين"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "China siyaasa nira ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Qing Dynasty prince (1887-1970)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de la dynastie Qing"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees diplomaat (1887-1970)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "tông thất nhà Thanh"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "郡王衔贝勒，醇亲王奕𫍽第七子"
+    }
+  },
+  "id": "Q78526",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "زيتاو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Zaitao"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Caj-tchao"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Zaitao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zaitao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zaitao"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zaitao"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Zaitao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "載涛"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "愛新覺羅載濤"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Zaitao"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zaitao"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Zaitao"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Айсиньгьоро Цзайтао"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Zaitao"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tái Đào"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "載濤"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "载涛"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "载涛"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "載濤"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "載濤"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "載濤"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "载涛"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "载涛"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "載濤"
+    }
+  },
+  "lastrevid": 17492552,
+  "modified": "2025-09-16T20:14:58Z",
+  "ns": 860,
+  "pageid": 93357,
+  "sitelinks": {},
+  "title": "Item:Q78526",
+  "type": "item"
+}

@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kikkawa Tsunetaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68257$303DDD72-A8BB-46CA-AC33-A7C965C665DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68257$D659F611-B2E7-4641-A428-5CA2935F4C18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68257$39D5D29E-6E2B-4C60-B244-0BD22095AB52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68254",
+              "numeric-id": 68254
+            }
+          },
+          "hash": "76d5dbe9f75f945b67599653832c1f9deab5885f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68257$2699AF2A-2C7E-4E7D-A73B-CC7CE583B5B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68257$93F366DA-18DE-4E06-8D5F-3EFFF21E42EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1234-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "012dbab59f212dad3cc869f67f792b343ad14730",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68257$AC35EBEA-E778-4616-9A10-518349D6C49D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1319-12-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad4e278ac5b15d652e48d28e7efb5772789338d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68257$136E6575-FA05-45F8-8B9D-1AC7A1DEA909",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11413074"
+          },
+          "hash": "8967c164e9ee3788c3689728fab48d90cc1653c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68257$FBE59140-7AA6-4949-8C29-8E481262D4A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kikkawa Tsunetaka Arms.svg"
+          },
+          "hash": "901c55b937a0697d39a25dcd4d4afd3f5cfec1f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q68257",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kikkawa Tsunetaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "吉川経高"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Цунэтака Киккава"
+    }
+  },
+  "lastrevid": 17479612,
+  "modified": "2025-09-16T17:13:03Z",
+  "ns": 860,
+  "pageid": 83088,
+  "sitelinks": {},
+  "title": "Item:Q68257",
+  "type": "item"
+}

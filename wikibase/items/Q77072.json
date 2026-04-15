@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Feng Ang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q77072$B7DEBA28-19AC-4C5C-9F3A-661CCC8CD483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72306",
+              "numeric-id": 72306
+            }
+          },
+          "hash": "5f074126801608bd2d4500299e31c66276969c6a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q77072$F40F5BBA-C7B5-42BD-9008-E89938DF7EE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77072$A8BD17A9-6EC6-4CF0-99D3-7474BDB6432F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77072$C87DF196-A5AB-4ACD-B5E2-496B11B52D33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q77072$8778DEEC-94A6-48FB-92B3-2BFEDE5D2FD6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77072$9C73F858-1449-42CE-9759-221DFC879536",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0646-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4ddc16127e7dd684867a9d8720f2d1a6e98a69c1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77072$DA827330-E646-478D-B7FC-BAA0A85B07E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10566566"
+          },
+          "hash": "e015e037f14d15596cbc43c74c8631858f91b5ba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77072$3ACD25A9-EA48-472E-989C-EFC2E4C340E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075327093893"
+          },
+          "hash": "3c1a5ac7891bc3d19349fb2469a4891d3c5ca35a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77072$5B5D7E4B-19AC-459D-8CB5-ECC0D7FD8E66",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Feng Ang Arms.svg"
+          },
+          "hash": "c8b3fbe506293e629712f6de24924b0c15663f33",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 30587"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "nhân vật thời Tùy mạt Đường sơ"
+    }
+  },
+  "id": "Q77072",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Feng Ang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feng Ang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Feng Ang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "馮盎"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "馮盎"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Feng Ang"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phùng Áng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馮盎"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "冯盎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馮盎"
+    }
+  },
+  "lastrevid": 17490788,
+  "modified": "2025-09-16T19:49:37Z",
+  "ns": 860,
+  "pageid": 91903,
+  "sitelinks": {},
+  "title": "Item:Q77072",
+  "type": "item"
+}

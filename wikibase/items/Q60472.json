@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Shanzhou"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q60472$3F375E6B-52DF-4508-A696-D09F030520F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66240",
+              "numeric-id": 66240
+            }
+          },
+          "hash": "700756fa6c03c7f196c92f76dc774894004a4707",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60472$F46E7FE0-CF8B-49AE-A514-67124FD7D938",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66243",
+              "numeric-id": 66243
+            }
+          },
+          "hash": "200feb5f33ac40b1efa9ef220d4ee9a350798685",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60472$D31FA414-C037-4F10-8337-AFF29325F5EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66246",
+              "numeric-id": 66246
+            }
+          },
+          "hash": "50e1c452feed1fabbe75ba133b52ea46ce57c8df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60472$9B55C3CD-8989-471B-AA60-2D783F92B792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60472$EB46A000-491F-440C-9325-49D7DAD1EE75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60472$BD01F760-9C25-4F71-9130-D88E5B56552E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53673",
+              "numeric-id": 53673
+            }
+          },
+          "hash": "c9a11c626a86179a4e485958c8f148cbbdd10026",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60472$CC15DF7C-7AE9-412A-8F6B-690899304D2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60472$11B5D2DF-5644-4814-B933-F47B419A01AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0571-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03a759f04b1150d2e9eaf72f9a8deb294873a424",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60472$E1525232-BB8F-4AB9-B019-576AB51F69A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45638646"
+          },
+          "hash": "b609fccb709863889ea0f229428603ed3ffd3cab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60472$21C71B20-8578-4D0A-B14A-913CA68B40A3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Shanzhou Arms.svg"
+          },
+          "hash": "1ceb2e7dccc2529b53ec1e53279a9c10aed22850",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 180459"
+    }
+  },
+  "id": "Q60472",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Shanzhou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Shanzhou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Shanzhou"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛善周"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Shanzhou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛善周"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛善周"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛善周"
+    }
+  },
+  "lastrevid": 17469680,
+  "modified": "2025-09-16T14:44:07Z",
+  "ns": 860,
+  "pageid": 75303,
+  "sitelinks": {},
+  "title": "Item:Q60472",
+  "type": "item"
+}

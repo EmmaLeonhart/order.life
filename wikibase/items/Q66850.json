@@ -1,0 +1,364 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Calvisius Ruso Julius Frontinus"
+      },
+      {
+        "language": "en",
+        "value": "Publius  Calvisius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q66850$36E6D703-6D78-40EA-BEBD-7C522C0A21FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800938"
+          },
+          "hash": "3c6e4ab512528879823652d6e8a0b3c56b29cf83",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q66850$EB3B5A64-BD90-46D9-B9C1-E908E9834DB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65519",
+              "numeric-id": 65519
+            }
+          },
+          "hash": "fcdde021fd21d7dfb777b13075a8cc12dfca19d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66850$B23EC42B-A3EF-46E9-A53B-79D501686332",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66850$43A9938B-D898-4816-AE5D-F555A0C16F56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q66850$0FDE05D2-9B48-4D6C-8930-95BD555369AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66883",
+              "numeric-id": 66883
+            }
+          },
+          "hash": "75b26175dd1372db4c5723767a2935c0b4afbaf1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66850$CCFD3963-7689-4450-8D1D-15B399B57872",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148309",
+              "numeric-id": 148309
+            }
+          },
+          "hash": "905cb2cf9126bfbc248ad5acc09cfc912c86e5b3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66850$8AC29E65-6A21-4A4E-BFD3-9E1CBE7AEA4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148306",
+              "numeric-id": 148306
+            }
+          },
+          "hash": "f603aa6185c0ef1bc965e004bff9efca4e5d868e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66850$6BCFDA92-7FAB-458C-A6B1-25A7723AE6BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148307",
+              "numeric-id": 148307
+            }
+          },
+          "hash": "cd5809787aec958e5264021bd333cb3cd9033ece",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q66850$1ACEACA4-7965-4A56-B5DD-0A9C3CA1929B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Publius /Calvisius/"
+            }
+          },
+          "hash": "f854aa31625f1068f29f9dbb25b963cf028a6460",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66850$9D884B3E-C1B0-4E8D-BCDA-356CE2ACBCC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q66850$8C6767A1-3934-43A6-B8D7-5D51460E798B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66850$B650F0DF-43E3-4638-AD79-EFD0C476864C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12291694"
+          },
+          "hash": "96ae0044bcfd62eaa019fb97e1b7bb9bd52906a9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66850$4E1CFC96-C6E8-4247-8BD3-FFAE19FC30EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828371940"
+          },
+          "hash": "8ec68943d288691462a7b82ef612a6f1e098bf4b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66850$DD8DCD36-C7FF-4429-9693-B8B3D129F4A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Calvisius Ruso Julius Frontinus Arms.svg"
+          },
+          "hash": "afa3f9ac55a77fa646d304493574f417849edd37",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman consul 84 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 84"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q66850",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Калвизий Рузон Юлий Фронтин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Calvisi Rusó Juli Frontí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Calvisius Ruso Iulius Frontinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Calvisius Ruso Julius Frontinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Calvisio Rusón Julio Frontino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Calvisius Ruso Julius Frontinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Calvisio Rusone Giulio Frontino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Calvisius Ruso Iulius Frontinus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Кальвизий Рузон Юлий Фронтин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Кальвізій Рузон Юлій Фронтін"
+    }
+  },
+  "lastrevid": 17477744,
+  "modified": "2025-09-16T16:46:42Z",
+  "ns": 860,
+  "pageid": 81681,
+  "sitelinks": {},
+  "title": "Item:Q66850",
+  "type": "item"
+}

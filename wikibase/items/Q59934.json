@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Guangji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q59934$24B236C7-BD31-4935-BA6F-8F0E44901BD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65661",
+              "numeric-id": 65661
+            }
+          },
+          "hash": "8b0f31edb574f64f663981752ce085830743bdc7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59934$CD33A7C2-7BF4-4E56-BA89-ADEA1F519507",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65664",
+              "numeric-id": 65664
+            }
+          },
+          "hash": "237a14c0865d38c64df5593c3b983124801581dc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q59934$3D921A88-F161-420D-9ECD-72E73FAD7376",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q59934$7916DE40-040A-4BF0-A31D-79199B0F0C39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q59934$758E7110-63AE-4A7C-817F-28AEBF46AE05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53142",
+              "numeric-id": 53142
+            }
+          },
+          "hash": "9d3d747b23b20ee0eaf53b4df203c951b2e03b50",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q59934$D97555D5-37F2-43B7-A0EE-B7DF7CD15C30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q59934$7CA94D90-F85A-459F-A4AB-2E41540635F4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0760-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7eee55f25d00adc93c516532e803f313f8056900",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q59934$67FEF883-5E9E-4033-AC2A-1404221A893F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45457802"
+          },
+          "hash": "8709ad468b07c2b6bf27360c09375729f74bfaf9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q59934$7204404C-35B8-4C33-B528-1A2A16BEC2FD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Guangji Arms.svg"
+          },
+          "hash": "3a69a9b4e3c169ade3c91a02fbbe0da7c3143dd7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171851"
+    }
+  },
+  "id": "Q59934",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Guangji"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Guangji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Guangji"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇廣濟"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Guangji"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇廣濟"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦广济"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇廣濟"
+    }
+  },
+  "lastrevid": 17468940,
+  "modified": "2025-09-16T14:33:23Z",
+  "ns": 860,
+  "pageid": 74765,
+  "sitelinks": {},
+  "title": "Item:Q59934",
+  "type": "item"
+}

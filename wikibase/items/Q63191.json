@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sanada Yukihiro"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q63191$728A6A4A-838C-44CC-84D1-32B6E5462504",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63191$2D0C621F-05CA-434F-A9E4-782A9560337C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63191$41DE754C-502E-4222-B851-E26FDBEC899B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57492",
+              "numeric-id": 57492
+            }
+          },
+          "hash": "0792ae739f494ce858c270e9ceede6ba994ac5e7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63191$E0C4DA29-FD3B-4A48-B1F3-C69A47BDDEF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63191$342F5DC3-CC1B-4537-A0C4-0490F45D60C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1740-02-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d06e57c865a774351e3f1396c231789e8d2b1299",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63191$EF67DF65-2B45-4EC5-8076-A0B24F782068",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1815-09-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71ea34651935eca09b58273129841fddb8044061",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63191$072CA298-CB17-4989-BACA-F88AAFEF35C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11583386"
+          },
+          "hash": "dcbdf367270ad775bcd877163f9276f4bc7d4382",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63191$410F0C0D-B944-4C61-A8F0-8F111511CF08",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sanada Yukihiro Arms.svg"
+          },
+          "hash": "d35672f255931932f668159b53271641269d8f94",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の大名"
+    }
+  },
+  "id": "Q63191",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sanada Yukihiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "真田幸弘"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юкихиро Санада"
+    }
+  },
+  "lastrevid": 17473174,
+  "modified": "2025-09-16T15:37:30Z",
+  "ns": 860,
+  "pageid": 78022,
+  "sitelinks": {},
+  "title": "Item:Q63191",
+  "type": "item"
+}

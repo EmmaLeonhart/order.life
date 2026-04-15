@@ -1,0 +1,378 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshiyasu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q68705$E1AF4A51-B300-41CA-8B4F-5BAF136629D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560127"
+          },
+          "hash": "0522db49d0e1b90442cfc0ccbe0eb3564647c72f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q68705$A1B66B7B-6486-49C6-B080-3A83C22AB9BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73501",
+              "numeric-id": 73501
+            }
+          },
+          "hash": "0a21c1c4aa9a17cb4613647c18dacfe25cf03acd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68705$A17CE637-7C0E-44D1-BB37-E54AC7C2A696",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73480",
+              "numeric-id": 73480
+            }
+          },
+          "hash": "26db6878d0c7422a023ba9182fa9d814338e1de5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q68705$CAF147BE-6E26-40AA-B9DA-D61B42B182F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "前田-36"
+          },
+          "hash": "82ecf37f41a1d4b6355f768e26d38b65cac2e07e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68705$D6BA9E49-7A7D-4B67-BE7C-F117C71E6F89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68705$F52B442D-F91C-48A9-8971-BEA283ED95CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68705$4046E976-C46F-40F4-A38F-CFF2496223E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63268",
+              "numeric-id": 63268
+            }
+          },
+          "hash": "ea473a4aeea08f1311d87a73d56beb2f5a66c75a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68705$E37C379E-5FC0-4B91-A3ED-E8CE8C9A76B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68705$C50C3C16-B1ED-4976-8367-1E7B1D0B77C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1799-03-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfdaf3ead4523507d3579c16a18e41473eeb5656",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68705$F1562E1E-EDF8-4A16-A388-3A0A8FBFCCAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1859-09-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c7d2076e2e3c8b6e8138782b09d999ea6185657",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68705$529D01A7-D76F-4D1A-8DF7-DCE08AF4DF50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6729121"
+          },
+          "hash": "504c7a91b754576748cd163d615a31d043d5d7b5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68705$EC14B794-515D-43FC-AD98-552CDA537A16",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshiyasu Arms.svg"
+          },
+          "hash": "561a6928a6affc73f5f071fa7df5ff71d5542b97",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "عالم حشرات ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "entomólogu xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি পতঙ্গবিশারদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "entomòleg japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Entomologe und Naturwissenschaftler"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese entomologist"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese entomologist"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese entomologist"
+    },
+    "es": {
+      "language": "es",
+      "value": "entomólogo japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani entomoloog"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "entomologiste japonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "entomólogo xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטומולוג יפני"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代後期の大名・本草学者。越中富山藩8代藩主前田利謙次男で、富山藩10代藩主。『本草通串』『本草大疏』著。従四位下出雲守・長門守"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans entomoloog (1799-1859)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "entomolog japonez"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "entomolog japonez"
+    }
+  },
+  "id": "Q68705",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Maeda Toshiyasu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maeda Toshiyasu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshiyasu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maeda Toshiyasu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maeda Toshiyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利保"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maeda Toshiyasu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосиясу Маэда"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maeda Toshiyasu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Maeda Toshiyasu"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "前田利保"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "前田利保"
+    }
+  },
+  "lastrevid": 17480124,
+  "modified": "2025-09-16T17:20:03Z",
+  "ns": 860,
+  "pageid": 83536,
+  "sitelinks": {},
+  "title": "Item:Q68705",
+  "type": "item"
+}

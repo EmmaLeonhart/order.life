@@ -1,0 +1,513 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Galla"
+      },
+      {
+        "language": "en",
+        "value": "Neratia Galla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q61235$079C6E93-0B40-4134-B56F-4BD6D6631E9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446948"
+          },
+          "hash": "f1d64b7651477bcc1cc9c777c3741f70f88edc71",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61235$D3E2124C-1070-456A-AD2D-C9DE73F15749",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60974",
+              "numeric-id": 60974
+            }
+          },
+          "hash": "a33727853da09f605e0d6e82b74ed1884b87ff1b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$8767F2A8-FBD5-414F-AC74-6A3B20E07311",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136824",
+              "numeric-id": 136824
+            }
+          },
+          "hash": "0b6fceaf5f3d89ab04c2b276c7191f6d1e7c760b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$5977D496-0020-40C5-8BCA-1F5D1436413F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136825",
+              "numeric-id": 136825
+            }
+          },
+          "hash": "3f732f00c9b9f8d15c81c6e48bad0beb578ea6f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$76023370-D2EA-49A8-8919-20B46A5A6F76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166512",
+              "numeric-id": 166512
+            }
+          },
+          "hash": "0773134b3e39c838a30e1aeb946d3e8568197381",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$5B8E6B1F-6BC2-4290-B9E0-5B9EC1772609",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166515",
+              "numeric-id": 166515
+            }
+          },
+          "hash": "63e829ca86ffbf0adbc99df25bd49cb5f93abd78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$8315832F-5A2F-4D04-A244-5E7168BDB4EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166516",
+              "numeric-id": 166516
+            }
+          },
+          "hash": "e399f484dc00a2c1c9502f5aaef8adc990cde6ac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$32A00EA4-F450-43A4-9FFA-47FCB0C0F736",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166517",
+              "numeric-id": 166517
+            }
+          },
+          "hash": "f7fee5dada4fda001828fd457ccec20e21e35bef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$E6C7188B-81CC-4B15-B7B1-BADDF2B947FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166518",
+              "numeric-id": 166518
+            }
+          },
+          "hash": "ca9ed767cb33d3eb65f0c566adc5e8990afb27ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61235$6A2362ED-EBB5-472F-9BCA-3B7E8246EE80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61235$3A6B5CE4-0BED-488C-A01D-D4079D7CE055",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61235$EC7464CA-0E04-464E-8154-7F392A9BCD80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61301",
+              "numeric-id": 61301
+            }
+          },
+          "hash": "82c6dfb894ffb40a96f1402291db00adeb5dc51d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61235$653AA1EE-CECA-4C82-B72E-0D527E4C6F2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61499",
+              "numeric-id": 61499
+            }
+          },
+          "hash": "1f14a37168087db40306bf7a9b400259b34e2630",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q61235$9E21640C-D820-460C-B73D-6CFC805927E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61466",
+              "numeric-id": 61466
+            }
+          },
+          "hash": "1d42f0ab7cc8e33f0ab94b3fb2f7649caccbcfc5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61235$235AAD75-AD20-4EB3-9F26-50AE2E45C91C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61235$28532518-2A70-49D7-BDCC-9376EC2501B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61235$A8AD3F15-768D-41CE-ACD6-8F3BDC68FB52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0301-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "79c910db6cb94b6387f31b274ada6c2964dcd7d9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61235$2B5EF468-600E-40EA-9B94-5649F0825890",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q653221"
+          },
+          "hash": "f2abfa7dd550e84690c1a79728de97b818eb0206",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q61235$838BA0BC-C6C4-4BA5-AED7-94653030C371",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003827324679"
+          },
+          "hash": "bf288a574efe0d9be295ad7a8e680296fe2dcc69",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61235$E9ED726C-EEC4-4288-BDDF-EBF6B6400FC7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Galla Arms.svg"
+          },
+          "hash": "6c8ecf869055f0f4bea4ebe96168015613369dfe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "member of the Constantinian dynasty that ruled the Roman Empire"
+    },
+    "es": {
+      "language": "es",
+      "value": "Esposa de Julio Constancio"
+    },
+    "he": {
+      "language": "he",
+      "value": "בת לשושלת הקונסטנטינית ששלטה באימפריה הרומית"
+    },
+    "it": {
+      "language": "it",
+      "value": "esponente della dinastia costantiniana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "vrouw van Julius Constantius"
+    }
+  },
+  "id": "Q61235",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гала"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Galla"
+    },
+    "da": {
+      "language": "da",
+      "value": "Galla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάλλα (σύζυγος του Ιούλιου Κωνστάντιου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Galla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gala"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گالا (همسر ژولیوس کنستانتین)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Galla"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאלה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Galla"
+    },
+    "la": {
+      "language": "la",
+      "value": "Galla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Galla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gala"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gala"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Galla"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "加拉"
+    }
+  },
+  "lastrevid": 17470696,
+  "modified": "2025-09-16T14:59:11Z",
+  "ns": 860,
+  "pageid": 76066,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q61235",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q61235"
+    }
+  },
+  "title": "Item:Q61235",
+  "type": "item"
+}

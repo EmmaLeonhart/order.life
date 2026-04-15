@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dugu Shenshu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q62102$A09935BD-C1F4-40A9-84F3-16CB819EDCB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q62102$9AEEAF1F-00DE-4F21-8E3F-B44139FC97D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q62102$2978622B-4E16-4E96-9886-830797FD1843",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55921",
+              "numeric-id": 55921
+            }
+          },
+          "hash": "144262321250ef19fe60a46201e44617b3d50709",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q62102$284ACF6F-4152-4C95-8772-4CD6C65BAF12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q62102$E4BF232A-E19D-46A7-8BAE-B0FB842C0101",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0776-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d8c18ab8922bb47d946fbcdaa83468439a08a2a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q62102$BBECD518-4862-4DC6-A282-CEE33C1543C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0802-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd239a23892fd76945586dba899fa5fe3301b5ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q62102$4D0ACEC4-9C3E-4182-AE28-EA55A2D18556",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18871131"
+          },
+          "hash": "e1b9c448d89a79a8e8406ac7cb3b656447899040",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q62102$58FA158D-7886-4660-BA5D-580154742790",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075401843351"
+          },
+          "hash": "0c679ecf9839bd546d6ad842cf42139fbaad4a8b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q62102$7ECBBAE9-3F87-4B38-964D-85BAD72752EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dugu Shenshu Arms.svg"
+          },
+          "hash": "7541bf1f50c69f99c6727400ea07e25835f8804d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 32945"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit Tang-dynastie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "poeta"
+    }
+  },
+  "id": "Q62102",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dugu Shenshu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dugu Shenshu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dugu Shenshu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "獨孤申叔"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dugu Shenshu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dugu Shenshu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "獨孤申叔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "独孤申叔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "獨孤申叔"
+    }
+  },
+  "lastrevid": 17471854,
+  "modified": "2025-09-16T15:17:20Z",
+  "ns": 860,
+  "pageid": 76933,
+  "sitelinks": {},
+  "title": "Item:Q62102",
+  "type": "item"
+}

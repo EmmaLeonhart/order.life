@@ -1,0 +1,430 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cassius Longinus"
+      },
+      {
+        "language": "en",
+        "value": "Lucius Cassius Longinus, Consul of Rome"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q77791$3F4E0794-A17D-4C52-99FA-57A7F617F99C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735646|I00801069"
+          },
+          "hash": "2e7065c8b2df7d8b9d58fcb1198ce720bb787cf0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q77791$62AFF2CF-51A7-4437-A4DB-3AE8C7D03591",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77572",
+              "numeric-id": 77572
+            }
+          },
+          "hash": "051e09d4fb2697d7a8dd01b6710dc11a6bdcc427",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77791$B316F931-913A-49E8-9EC0-010428198D1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139668",
+              "numeric-id": 139668
+            }
+          },
+          "hash": "9b0db9f3fc3f2519657111d9a79477eecc50373d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q77791$436ABE4E-7401-4BE9-AAFB-4775E90B20E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77791$9EE248D9-B6AA-44B9-B8CF-D85205BB5954",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77791$0f1a7f71-4bc3-3ad8-384b-abe592102c05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153800",
+              "numeric-id": 153800
+            }
+          },
+          "hash": "3b66e417f1e200d14b1e40ba27fab7789c815575",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q77791$B9541950-EEDF-4462-BADD-865B87C5C7A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141569",
+              "numeric-id": 141569
+            }
+          },
+          "hash": "71773daf7897ff0d34808a9c1aca03146792a9e5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q77791$43C85F2B-FE4C-4145-A9E7-42DE2CD50F61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77958",
+              "numeric-id": 77958
+            }
+          },
+          "hash": "c764f53b777e85966553cc16c10fdc082b56b983",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q77791$C34FF14A-9247-4876-A1BC-32E6C2EFBA5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77961",
+              "numeric-id": 77961
+            }
+          },
+          "hash": "b528689926891076e62048598ac0e83b237fdfbb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77791$5A093762-5645-4609-9F2C-90A0B6A08E25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153597",
+              "numeric-id": 153597
+            }
+          },
+          "hash": "2ca4f6370863ed2ac501387ad08be5237b3a62e6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77791$B6DF4A93-EDBA-474A-BB4B-68DBE4C39023",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q77791$1EECEA23-B5E9-4152-9BE2-91A0FFD411C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77791$AA0E9FE0-01C7-4C46-9AE5-5DBFCAE075FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77791$E91C6649-C86C-4990-869E-2E8F38E16D46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1873561"
+          },
+          "hash": "7a6abe0a6ae0d675a4972bee82c5f0a7c74a47ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77791$8C3CE493-673F-4030-A192-27003DE1F709",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003024845047"
+          },
+          "hash": "d38bdbf7b887eb4593e6a78d2c2a0fc10bae0f9b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77791$B036381B-93A6-4F75-982B-B3EFC135A08B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cassius Longinus Arms.svg"
+          },
+          "hash": "9741cabeb3eb7962ae214ff5b0645262a5c902d4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Senator und Suffektkonsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "suffect consul 11 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 11"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 11"
+    },
+    "la": {
+      "language": "la",
+      "value": "consul 11"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    }
+  },
+  "id": "Q77791",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Касий Лонгин (консул 11 г.)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cassius Longinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κάσσιος Λογγίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cassius Longinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Casio Longino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cassius Longinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Casio Longino"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cassio Longino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cassius Longinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cassius Longinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cássio Longino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cássio Longino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Кассий Лонгин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Cassius Longinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Кассій Лонгін"
+    }
+  },
+  "lastrevid": 17533886,
+  "modified": "2025-09-17T06:21:25Z",
+  "ns": 860,
+  "pageid": 92622,
+  "sitelinks": {},
+  "title": "Item:Q77791",
+  "type": "item"
+}

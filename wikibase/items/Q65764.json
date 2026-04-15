@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Baoying"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q65764$F3C5CBBA-438F-4DAB-8961-39FF2ECE313E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70684",
+              "numeric-id": 70684
+            }
+          },
+          "hash": "ec3e702c50a0ff0faa16d65feac784f0f739793f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q65764$4D192FD0-7390-4374-8877-0F6D76CD92FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65764$A361E199-6ED4-46CD-916F-98CBB98FCA1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65764$55A6E9BF-25F0-42B9-9E25-D0DE153EC072",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60031",
+              "numeric-id": 60031
+            }
+          },
+          "hash": "f1c1cff8275d03fa25fcd198f73dac923c62f0a5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65764$0C08F869-F8FA-4E59-B618-E365D08D9E51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65764$83945A56-6B23-469E-9527-120540055024",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0731-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "713e1dc89469d6795d00e15bbd847c95152abd58",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65764$010B34EA-CC51-49CA-8037-583467ABDDD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45502963"
+          },
+          "hash": "b824973bc3fa93b690355fd869e041d538217068",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q65764$54FFDCD4-00FC-4D16-9CA6-FF16919F4227",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074706195846"
+          },
+          "hash": "de23fd9a7ce146d367366f8d63559899eb309274",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65764$ACDA8C27-A22F-42A9-8099-2ECCC402F72A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Baoying Arms.svg"
+          },
+          "hash": "ea9f7b9e10ed5e522a848b10db7909f09c9d8102",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172664"
+    }
+  },
+  "id": "Q65764",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Baoying"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Baoying"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Baoying"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊寶應"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Baoying"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊寶應"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨宝应"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊寶應"
+    }
+  },
+  "lastrevid": 17476304,
+  "modified": "2025-09-16T16:25:04Z",
+  "ns": 860,
+  "pageid": 80595,
+  "sitelinks": {},
+  "title": "Item:Q65764",
+  "type": "item"
+}

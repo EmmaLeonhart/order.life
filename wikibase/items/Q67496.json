@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Churen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q67496$A8695976-7B18-48C8-A551-06CA5F9C6A5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67496$15CDBD55-A72D-442F-8910-ABD5BD3FF3BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67496$D2E664A3-C3D2-4E71-A080-85B927E3C0DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61920",
+              "numeric-id": 61920
+            }
+          },
+          "hash": "31bbdcb93831639bd6098e0035b05c971c8295d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67496$641D065E-BFD0-40CD-9FD2-9B8113AD53CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q67496$89060455-1722-43DA-B30A-6F8F7834B795",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0903-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebbfcedf2d4d9093d63691bee37bbbe7c59d3345",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67496$042B05A3-AE10-4124-8DFF-B01FBF540961",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0956-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b1d52394d250e1a5e6dd097abd97c352416e08df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67496$57DEEAD0-4291-403E-A90E-32FDF79CBD40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45642878"
+          },
+          "hash": "2253a6dbcc52e1ce714338daedc2ec396379b61a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q67496$3C66BD2D-2BF0-435C-8C2B-326F23D1B51E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074733231871"
+          },
+          "hash": "1b451810e95f49a67bc50c796f4619a7495d94ca",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67496$F61427C7-6909-4010-8AB6-5AEDD26DAB8D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Churen Arms.svg"
+          },
+          "hash": "77ada8f0a7f56a4357ea6e6d963002764012b56e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 144876"
+    }
+  },
+  "id": "Q67496",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Churen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Churen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Churen"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭處仁"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Churen"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Xử Nhân"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭處仁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧处仁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭處仁"
+    }
+  },
+  "lastrevid": 17478608,
+  "modified": "2025-09-16T16:59:07Z",
+  "ns": 860,
+  "pageid": 82327,
+  "sitelinks": {},
+  "title": "Item:Q67496",
+  "type": "item"
+}

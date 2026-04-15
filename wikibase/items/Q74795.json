@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alba Silvius"
+      },
+      {
+        "language": "en",
+        "value": "Alba"
+      },
+      {
+        "language": "en",
+        "value": "Capetus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q74786$2935FFD8-63D7-446F-BFAD-F1E4B9C84601",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74777",
+              "numeric-id": 74777
+            }
+          },
+          "hash": "7841db772fd2a4bf55100d18b95d0d3cb2d8c068",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74786$54926F8C-26D7-4623-8563-16DF02E4CFFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74786",
+              "numeric-id": 74786
+            }
+          },
+          "hash": "87f3501e6f296d166220a2e45ecaec1d247a2379",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74786$78413DC2-CE3C-4631-A2F4-07947917248E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74786$7404C268-9827-4CCE-9C31-98BA14801649",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74786$D5068742-4CE8-4947-B4B4-E795B5422CA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74786",
+              "numeric-id": 74786
+            }
+          },
+          "hash": "3b53e0fd7a32b20cef789ee33a87e4b38aa6a338",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74786$5B2F1247-35FC-4229-939E-94894DC7501D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74804",
+              "numeric-id": 74804
+            }
+          },
+          "hash": "4d6060f850511a1714f12396b62b50d0fd312daf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74786$75BD748C-3C42-4DA1-83F3-7BEEA6AE9AA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74786$2D26A29D-BFD6-41F0-A09F-A21BD85107A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q647999"
+          },
+          "hash": "e3cff42dbc6ba865fbdf1f3f8e952c45e8c0ead9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74786$F8A36E8F-F941-40FE-BDB2-E3EBDC79DBA1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alba Silvius Arms.svg"
+          },
+          "hash": "c98ba46e2893438ae029a12d5a3b8361527e8346",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei d'Alba Longa"
+    },
+    "de": {
+      "language": "de",
+      "value": "mythischer König aus der römischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "sovereign"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi légendaire d'Albe la Longue"
+    },
+    "it": {
+      "language": "it",
+      "value": "leggendario re di Alba Longa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythisch soeverein van Alba Longa"
+    }
+  },
+  "id": "Q74786",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Алба"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alba Silvi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alba Silvius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άλμπα Σίλβιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alba Silvius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alba Silvius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alba Silvius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alba Silvio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルバ・シルウィウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სილვიუსი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alba Silvius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Alba Silvius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alba Silvius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Albus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альба Сильвий"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Alba"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Альба Сільвій"
+    }
+  },
+  "lastrevid": 17613700,
+  "modified": "2025-09-18T01:01:00Z",
+  "ns": 860,
+  "pageid": 89617,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74795",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74795"
+    }
+  },
+  "title": "Item:Q74786",
+  "type": "item"
+}

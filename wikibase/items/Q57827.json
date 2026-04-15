@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nagai Naotatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q57827$565F766D-9975-4442-B0E9-DA95A20BB8AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q57827$BDD53963-CC93-4257-91F7-9182855FD05A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q57827$BA8A5A15-EDEF-41B0-87D4-9BA893100190",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50349",
+              "numeric-id": 50349
+            }
+          },
+          "hash": "3d6617c9a843af04721248c6eaeae4b12d0c6650",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q57827$4DE24EC9-33C8-44F1-8B7D-B76E9445ED60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q57827$CB082D0F-2EC1-44EB-99D3-90597321F1BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1689-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa214ab80209daff388098ca32ba72994d2ea32b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q57827$DABAE142-050B-4F65-ACA5-0749F4778F5C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1706-09-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9163debf1623b8643e4a46487ceabfe5f6703b11",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q57827$3543327B-4A78-4AF8-84A3-98B2B16B5107",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11549819"
+          },
+          "hash": "ec9dcda3b3e8e356f111ceb7f122fbba34a3ff96",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q57827$10700FCF-947A-4C06-A0EE-ED4A7A058682",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nagai Naotatsu Arms.svg"
+          },
+          "hash": "09cbc95fb533f8870dff0bc2cb7d51d4fea3bd83",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q57827",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nagai Naotatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "永井直達"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наотацу Нагаи"
+    }
+  },
+  "lastrevid": 17466476,
+  "modified": "2025-09-16T13:55:46Z",
+  "ns": 860,
+  "pageid": 72658,
+  "sitelinks": {},
+  "title": "Item:Q57827",
+  "type": "item"
+}

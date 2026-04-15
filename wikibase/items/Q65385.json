@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yu Yingong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q65385$BEAF8F11-213E-459A-9A9B-ABC21F3944AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q65385$0E65676E-0625-40B4-AEF0-99FB4B8E4678",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q65385$F6FFB1C9-748A-4CA7-8F52-11BD311736EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59700",
+              "numeric-id": 59700
+            }
+          },
+          "hash": "b3c2e4f15f7b8c134ff03cba5b087e85ca744efa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q65385$A437B41E-CAEA-4512-BC99-357E9BE7FD73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q65385$84C953F6-3EBE-48CF-BC71-70E697F95641",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0811-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "30c4379e3d6d5ca5bdbe9ff402e6d35ad015be6d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q65385$2DC0FC3B-1C9A-408F-AA26-0B905EE2E936",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45709617"
+          },
+          "hash": "f92e3e462edbbb68b1e6daeb86f7df227e6ac1e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q65385$D9213198-C823-4D9A-9F4B-B5A0BD3098F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075404808836"
+          },
+          "hash": "dcbac187af47b554e14c312706a956ef0bf00a14",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q65385$D1EDC48D-0901-49C0-A455-C08301FDD32C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yu Yingong Arms.svg"
+          },
+          "hash": "06691bff644f600fb0ea0be0b71cbfc23f7da31f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 91908"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit Tang-dynastie"
+    }
+  },
+  "id": "Q65385",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yu Yingong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yu Yingong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yu Yingong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "于尹躬"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yu Yingong"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Yu Yingong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "于尹躬"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "于尹躬"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "于尹躬"
+    }
+  },
+  "lastrevid": 17475804,
+  "modified": "2025-09-16T16:17:23Z",
+  "ns": 860,
+  "pageid": 80216,
+  "sitelinks": {},
+  "title": "Item:Q65385",
+  "type": "item"
+}

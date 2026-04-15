@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zheng Shi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q81115$59ECBD62-08AB-4018-9331-FD8C41A90C7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76485",
+              "numeric-id": 76485
+            }
+          },
+          "hash": "90eee8e7fa97f0fe1a2d0a2f438b86ef24291f8f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q81115$7C48D4FA-115F-4BB0-9173-F659157F69B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76482",
+              "numeric-id": 76482
+            }
+          },
+          "hash": "0dc443387e32dc62bf507a06c3839cebff3e9158",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q81115$5807CED3-B05F-4BB7-B8AD-29A839F7DE99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q81115$2B8D6B20-DBDD-49E0-AD3C-6FC7408C5220",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q81115$0878028A-758E-4367-8C1E-E7DE89617C9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71764",
+              "numeric-id": 71764
+            }
+          },
+          "hash": "b6bfb1765cf954a57cf82a71416e6ed7e86f6b1a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q81115$3195626D-0115-45E3-9387-491173B12920",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q81115$26E359E1-22A0-4AAC-AB73-FB489E73C5C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0667-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c104a8dad40d4fa9ab350e737c568a8c31b51b39",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q81115$F2D56797-B36B-4315-9AD1-A8FB3FEA92C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0703-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d252d4a4e552d21533a3591ace8a62ed0e99764c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q81115$B057D924-22D5-499B-8AEA-15D4FA0B50C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65802956"
+          },
+          "hash": "80d511126b86071d4aa5b6139a47342ab10b0c69",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daughter of Zheng Xing Bao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鄭行寶女"
+    }
+  },
+  "id": "Q81115",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zheng Shi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zheng Shi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zheng Shi (hija de Zheng Xing Bao)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "鄭氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zheng Shi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鄭氏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "郑氏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "鄭氏"
+    }
+  },
+  "lastrevid": 17495849,
+  "modified": "2025-09-16T21:00:28Z",
+  "ns": 860,
+  "pageid": 95946,
+  "sitelinks": {},
+  "title": "Item:Q81115",
+  "type": "item"
+}

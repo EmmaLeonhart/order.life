@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Naritaka"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q63596$0513CB39-2133-4310-846A-88A3098E5176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68882",
+              "numeric-id": 68882
+            }
+          },
+          "hash": "3f0f34543087aa83a49ea4e0242cb7c43a681535",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63596$E55F3FA5-4C95-4F77-B1C6-6D495C37852F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68879",
+              "numeric-id": 68879
+            }
+          },
+          "hash": "2d185b4c4c493df837f10b8d0e4dd4898ce17e1c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63596$F7D843AF-D2C9-4B7F-8A4A-05D9D9B12BD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51953",
+              "numeric-id": 51953
+            }
+          },
+          "hash": "4193c575582471a4b8c8df0d748c8866a064e6d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q63596$DE53F55B-AC00-4B6F-B84E-2EF278BE9693",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-188"
+          },
+          "hash": "fca0f2299972a952f05f25cf827262066b19ebbe",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63596$F57AC24B-91FA-4B68-8738-523DB413565C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63596$42355BFC-FBC3-4876-9312-FF19E6BF5F47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63596$B97302B4-6EC3-4715-A463-84BFA6BC52E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68876",
+              "numeric-id": 68876
+            }
+          },
+          "hash": "de3460e3dd61d6f0aa5279be1198c39d81835c9c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63596$61B03C3B-913E-4DED-987A-5ECE440A5A32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63596$415B8195-98FC-48B8-BFE9-A04BDF76518C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1788-02-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c96c67ee137ff9e8b2138c818ce40e6684a09a6a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63596$5EA78C87-6FB9-4E0F-9B9E-058FB352A5F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1838-02-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "78bef04e59411019c7c6193480cf13021f979ce3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63596$3EBD566C-0BEC-4D17-B0CA-A821306A3B16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6788046"
+          },
+          "hash": "a1ae27809183eb00b22fec31ff23978b535f9c8d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q63596$8C7484A4-9EF2-41A1-90D7-3230E595C445",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Naritaka Arms.svg"
+          },
+          "hash": "a81622488a1ea6b7864789d2be8afe5aa1990c35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1788–1838)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo of the late Edo period; 7th lord of Tsuyama"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代後期の大名。美作津山藩5代藩主松平康哉三男で、津山藩7代藩主（5万石→10万石）。津山松平氏7代当主。従四位上左近衛中将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1788-1838)"
+    }
+  },
+  "id": "Q63596",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Naritaka"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Naritaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Naritaka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Naritaka"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماتسودایرا ناریتاکا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matsudaira Naritaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平斉孝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matsudaira Naritaka"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мацудайра Наритака"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Naritaka"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Naritaka"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平齊孝"
+    }
+  },
+  "lastrevid": 17473702,
+  "modified": "2025-09-16T15:45:49Z",
+  "ns": 860,
+  "pageid": 78427,
+  "sitelinks": {},
+  "title": "Item:Q63596",
+  "type": "item"
+}

@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yan Su"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71546$4A94A4B1-D4BE-44A1-ABD0-3A2DEC5B2304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66693",
+              "numeric-id": 66693
+            }
+          },
+          "hash": "2c8c719ecef98a5e576f8e132b1f2bcfc472e661",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71546$4E9F4682-A7FD-4181-9145-62FA9ED35539",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76287",
+              "numeric-id": 76287
+            }
+          },
+          "hash": "a7a5b36e3fea31f8c6cfd4004020823c3a5208a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71546$49560D7E-991D-4F9B-A325-0EE2A9E0D86C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71546$724D6078-5ACA-423D-9106-20EBF4B316AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q71546$3C515A65-5271-40D9-8FA0-E61F263E26EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76284",
+              "numeric-id": 76284
+            }
+          },
+          "hash": "3473d26305b3e5da7425efcd6030da23a34554e0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71546$A91003DB-0DF8-4A42-8158-E92AAD0E0FF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71546$6E9D8C5B-248E-4884-8DAF-E08EC2F63E65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0820-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b3d22aae1923ea18684c76d6c1cc8a500d5888be",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71546$8BD0C97B-3BC2-469C-B328-140B3AAA43DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45679618"
+          },
+          "hash": "98994603e13ba319e68943995973caf0df9e8fe0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71546$22029BAD-1446-47FE-8A5A-F7806A68CF01",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yan Su Arms.svg"
+          },
+          "hash": "7eed48094287a5bb6b7ceb01849f64422753ea89",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 192059"
+    }
+  },
+  "id": "Q71546",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yan Su"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yan Su"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yan Su"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "嚴肅"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yan Su"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "嚴肅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "严肃"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "嚴肅"
+    }
+  },
+  "lastrevid": 17483726,
+  "modified": "2025-09-16T18:10:48Z",
+  "ns": 860,
+  "pageid": 86377,
+  "sitelinks": {},
+  "title": "Item:Q71546",
+  "type": "item"
+}

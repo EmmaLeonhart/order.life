@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Changsun Zao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q67538$B5429136-8E38-412D-BD90-B98D127EB017",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72486",
+              "numeric-id": 72486
+            }
+          },
+          "hash": "bad0a13a55cb9440d039d1c8a7fef737320cd9c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67538$9ABF5055-445B-424B-A8E6-5D35E5294288",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72489",
+              "numeric-id": 72489
+            }
+          },
+          "hash": "dbdca489a4df8670f4f2505a863014f0e63f63de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q67538$A4C9DC55-CF3F-4727-8097-4051CFB2D7F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q67538$6B223A5E-2F91-452E-B9B9-2DD186C3495A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q67538$551DF139-BC99-4313-A5BB-91E71C69289D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61941",
+              "numeric-id": 61941
+            }
+          },
+          "hash": "fb0d4f07eaf4536987265acda5cad3346d5bd437",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q67538$4B42B697-B6FD-430E-935F-A2095A0BAE6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q67538$FCBE2518-EA4E-4989-8E35-455290A79851",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0955-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c1c4744e02351d1bbd3abb0c340d8bbbf2c97f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q67538$1F84CF0D-5593-479C-B665-EEFB9F065DCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45531792"
+          },
+          "hash": "48ed9ed9c88f9d6fd6bd1dba1fcdb3f110d5782c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q67538$C9A85BED-79C3-49C6-B737-0FA9ADF0A217",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Changsun Zao Arms.svg"
+          },
+          "hash": "6e19182a6a5cda11e1cdc8073176011f03c78d75",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 173188"
+    }
+  },
+  "id": "Q67538",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Changsun Zao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Changsun Zao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Changsun Zao"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "長孫慥"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Changsun Zao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "長孫慥"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "长孙慥"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "長孫慥"
+    }
+  },
+  "lastrevid": 17478664,
+  "modified": "2025-09-16T16:59:55Z",
+  "ns": 860,
+  "pageid": 82369,
+  "sitelinks": {},
+  "title": "Item:Q67538",
+  "type": "item"
+}

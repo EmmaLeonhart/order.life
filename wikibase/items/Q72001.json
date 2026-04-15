@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhang Lun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q72001$D76D0467-C81D-4091-A2D9-2C52EE5DF3D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72001$4E863BDA-F439-4E00-9FB4-14FC767EE3AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72001$CA8DC016-E2A1-41E6-891D-7770A9FF01D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67072",
+              "numeric-id": 67072
+            }
+          },
+          "hash": "5441521c7149d65a323d55a7c699053deaee6235",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72001$517F45B8-E0A3-4D6C-8558-988D4396871D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72001$B33E0787-C56E-40FC-93B6-DBD96F42C2F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0866-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a3a18cfacc17594a32495624c0a28dbc2c26d77",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72001$BDEC1BB5-506C-4999-9432-2B9104ECCF79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45619144"
+          },
+          "hash": "56b7024758440878d2ed9582eab2019c84b28c84",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72001$847CF742-47B1-4C45-B0C3-A9B85621E338",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhang Lun Arms.svg"
+          },
+          "hash": "634073608f33eabe7f83ce2193293536cfdb14da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 185227"
+    }
+  },
+  "id": "Q72001",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Zhang Lun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhang Lun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhang Lun"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "張論"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhang Lun"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "張論"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "张论"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "張論"
+    }
+  },
+  "lastrevid": 17484324,
+  "modified": "2025-09-16T18:19:13Z",
+  "ns": 860,
+  "pageid": 86832,
+  "sitelinks": {},
+  "title": "Item:Q72001",
+  "type": "item"
+}

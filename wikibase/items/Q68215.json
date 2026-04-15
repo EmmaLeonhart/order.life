@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Munenori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q68215$16A56F7A-F784-4ED3-8174-1DEAB55A508E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68215$A998C2FB-CB97-4D22-BEBF-284AB9FF72B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68215$E21529AD-6F1D-49D0-AD5E-703FE9A87155",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62545",
+              "numeric-id": 62545
+            }
+          },
+          "hash": "0619f1ef80ed3d471a57c7a1698aa452b5cd4a96",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68215$3FF9D0B2-E238-464C-936E-705EEC752783",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68215$85338A91-32B7-4B73-8D96-40367B5E7274",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1779-04-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9c62bf3b5f86cb4e02f1e3dc44c6aadc4b756fd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q68215$C93F2CFD-334E-40A5-A8DF-FC4B41B4071B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1844-09-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a6439de26b34e7f4fe2d71850d320629c03fec2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68215$3A26B3C4-53FD-4AFD-A2A3-308D677A2F05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380744"
+          },
+          "hash": "05bbea6b5ecefdfba541f5cf17ba7bba9ec4a314",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68215$E5716020-6917-4ED1-90BD-BB0CA8050E1E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Munenori Arms.svg"
+          },
+          "hash": "1646d2b649267832211c42e98469f1fbbbee5666",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "宮床伊達家当主"
+    }
+  },
+  "id": "Q68215",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Munenori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達宗規"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мунэнори Датэ"
+    }
+  },
+  "lastrevid": 17479564,
+  "modified": "2025-09-16T17:12:23Z",
+  "ns": 860,
+  "pageid": 83046,
+  "sitelinks": {},
+  "title": "Item:Q68215",
+  "type": "item"
+}

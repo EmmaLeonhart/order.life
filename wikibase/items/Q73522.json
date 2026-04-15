@@ -1,0 +1,559 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Inoue Kaoru"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q73522$6AF674B8-F94B-4D81-B1E2-957DD4CA5DD2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "井上-16"
+          },
+          "hash": "00e5a0071b7ef520c1a4414467fd012559dcd865",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73522$82E23ADF-0588-436F-8A76-F0A2C0549362",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73522$9E15DAA4-2FF4-495B-BDF1-077A0048166E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73522$C3325FB9-EF84-461A-ACCB-7C145FAAA777",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78283",
+              "numeric-id": 78283
+            }
+          },
+          "hash": "5d39811787c1e3c3f0f721ff596dda16d8403e20",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73522$3CD084B0-49B3-482E-931F-E5ED1BF7461D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68738",
+              "numeric-id": 68738
+            }
+          },
+          "hash": "a5283dc306ccd94882c4d53911da694b38e8e74f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73522$A473FD8A-4832-4E6B-9117-4110F6900F5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73516",
+              "numeric-id": 73516
+            }
+          },
+          "hash": "9223191c4709ac903b184ba7f3fd9b9a7fa0aa20",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73522$0B4F23D7-B8C1-4838-9BC9-F403D8582673",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73522$08A1C2A6-1F4A-465B-ADC6-1019A07011F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1836-01-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6957192b2b6f03bdf6507777e3fbc7e80c776c43",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73522$6993BAF0-85A0-460C-AC04-1C438E164C33",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1915-09-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19d4a9705ffcf15d754aaa8b2cd359d8dffb194d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73522$3D346AE5-4073-487A-AE64-ABDEAB81E3A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q493818"
+          },
+          "hash": "e4b9af62047e519ef443fbfd5e4533df51a63f00",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73522$754162D1-ED30-4AA8-B12E-22A64752C658",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Inoue Kaoru Arms.svg"
+          },
+          "hash": "3b14bf490d79984a3c400dbbeba17f2c9be6d69e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "diplomáticu xaponés (1836–1915)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský politik"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk diplomat"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Diplomat und Politiker"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιαπωνικός πολιτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese politician (1836-1915)"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese politician"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani poliitik"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دیپلمات ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Seapánach (1836-1915)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי יפני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán politikus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Politisi Jepang"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の政治家 (1836-1915)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 정치인 (1836–1915)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "japansk diplomat"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans diplomaat (1836-1915)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk diplomat"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Японский политик"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan japonez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk diplomat"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Politiko ng Hapon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon siyasetçi (1836 – 1915)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський політик"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日本幕末以及明治时代的政治人物"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本幕末以及明治時代的政治人物"
+    }
+  },
+  "id": "Q73522",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اينو كاورو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Inoue Kaoru"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Inoue Kaoru"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kaoru Inoue"
+    },
+    "da": {
+      "language": "da",
+      "value": "Inoue Kaoru"
+    },
+    "de": {
+      "language": "de",
+      "value": "Inoue Kaoru"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ινοούγιε Καορού"
+    },
+    "en": {
+      "language": "en",
+      "value": "Inoue Kaoru"
+    },
+    "es": {
+      "language": "es",
+      "value": "Inoue Kaoru"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اینوئه کائورو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Inoue Kaoru"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Inoue Kaoru"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Inoue Kaoru"
+    },
+    "id": {
+      "language": "id",
+      "value": "Inoue Kaoru"
+    },
+    "it": {
+      "language": "it",
+      "value": "Inoue Kaoru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "井上馨"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이노우에 가오루"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "井上馨"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Inoue Kaoru"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Inoue Kaoru"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Inoue Kaoru"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Inoue Kaoru"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Inoue Kaoru"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kaoru Inoue"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Inoue Kaoru"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Inoue Kaoru"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иноуэ Каору"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kaoru Inoue"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Inoue Kaoru"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Inoue Kaoru"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิโนอุเอะ คาโอรุ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Inoue Kaoru"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іноуе Каору"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Inoue Kaoru"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Inoue Kaoru"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "井上馨"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "井上馨"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "井上馨"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "井上馨"
+    }
+  },
+  "lastrevid": 17486286,
+  "modified": "2025-09-16T18:46:53Z",
+  "ns": 860,
+  "pageid": 88353,
+  "sitelinks": {},
+  "title": "Item:Q73522",
+  "type": "item"
+}

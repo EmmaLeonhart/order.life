@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Zhongyue"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q60508$F2BD75ED-AE89-4982-B093-1BC86015371C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66294",
+              "numeric-id": 66294
+            }
+          },
+          "hash": "a02e985cab237811529d24efebf0b0c5a2f0e979",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60508$B7935F19-C615-4533-871B-364F33CE76D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66297",
+              "numeric-id": 66297
+            }
+          },
+          "hash": "2bfbc9c0d243b4700e0973aaa1186c02a98f8e9b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q60508$6EB81739-23AB-432F-9093-9C7E2AFA796B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q60508$8869E453-30BC-4756-93FC-13BC44CCB87A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q60508$69569F26-B0E3-4EBE-B6B6-0EA9F711A500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53737",
+              "numeric-id": 53737
+            }
+          },
+          "hash": "fd9e7a4157f2af1eac34e923d49fad83a1438ea3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q60508$DFDA499F-8809-4904-8414-89A10C5AB9B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q60508$2B47E2B9-5A4D-4310-848A-614B7231D410",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0830-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ae2b9779354675cd0724f1c7a03ceac2506036b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q60508$E2A4276E-E99A-4DB3-B02D-37DAEDC2459E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45632972"
+          },
+          "hash": "ff0a54e8a5423883dc4f48d9174ecd63a2033e77",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q60508$63E79245-2ABC-4534-A7A9-5A963B8D4643",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074697680999"
+          },
+          "hash": "2c4df296e96eaed9f47b8f3e9c0026761a2a444d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q60508$B0B31C7C-52A5-49B5-9C32-0A15AED1E5EC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Zhongyue Arms.svg"
+          },
+          "hash": "fe2c226c673c993eb2dc92308362d03d6e23946f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180362"
+    }
+  },
+  "id": "Q60508",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Zhongyue"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Zhongyue"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Zhongyue"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛仲約"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Zhongyue"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛仲約"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛仲约"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛仲約"
+    }
+  },
+  "lastrevid": 17469728,
+  "modified": "2025-09-16T14:44:49Z",
+  "ns": 860,
+  "pageid": 75339,
+  "sitelinks": {},
+  "title": "Item:Q60508",
+  "type": "item"
+}

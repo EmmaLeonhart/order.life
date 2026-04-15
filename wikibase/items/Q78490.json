@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shinako Takahashi"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q78490$E8E8773A-21AA-4458-81B9-259C6F8E6180",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "原田-20"
+          },
+          "hash": "0767e8fd3f971a26b51760d88ab2bcfa9daa917a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78490$6FE6CFE1-2009-4622-BD87-4FA47D819C69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78490$4EECFE78-6633-471F-A331-85F1AF1F5EC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78490$52009FFF-159B-474E-B831-9689B3183BB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73766",
+              "numeric-id": 73766
+            }
+          },
+          "hash": "f9632552b3c441ea79829180e67152e7d2f3d1a6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78490$072084B0-663F-469C-9336-2BECD92751E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78490$85336D82-4428-46CE-BB0E-01384360CEBE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1865-11-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eb588c6ee3fdfd0afc1d8e8f340a0dd1cb597014",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78490$F46FEE0B-92C3-4249-8885-CFBBE90C45E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1946-05-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70541e50e5a67e2a6823ea33e90ba40d09a14125",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78490$138B4851-C523-4691-8232-B1BF3B32EB95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108780272"
+          },
+          "hash": "438c534a35dbe5d87a96f4e7d4fb2526d50b6644",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78490$A9D699E1-11EB-4FF6-BE93-521C78FA8DA5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shinako Takahashi Arms.svg"
+          },
+          "hash": "83c53132fbbd0d009dfe54a9239de004590ff964",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1865 - certain 1946"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "第20代内閣総理大臣の高橋是清の妻"
+    }
+  },
+  "id": "Q78490",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shinako Takahashi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shinako Takahashi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "高橋品子"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Shinako Takahashi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сінако Такахасі"
+    }
+  },
+  "lastrevid": 17492510,
+  "modified": "2025-09-16T20:14:23Z",
+  "ns": 860,
+  "pageid": 93321,
+  "sitelinks": {},
+  "title": "Item:Q78490",
+  "type": "item"
+}

@@ -1,0 +1,239 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q63060$E7506234-E98F-4798-B745-E8BFD5340647",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68595",
+              "numeric-id": 68595
+            }
+          },
+          "hash": "ad188a3097dbe485dd1c7ba8838c590358d7b8fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q63060$06BDAD01-F04D-408E-BFC0-CCD2DA778862",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "相馬-55"
+          },
+          "hash": "9542447d830ea5cef958294451ec3b661fc8f547",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q63060$01744112-BE00-419A-8940-9ABBE016ADFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q63060$69299560-4F09-4A0E-A924-FAEC5B723D96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q63060$AC64158C-99D4-4517-B750-26F37A23A92D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57374",
+              "numeric-id": 57374
+            }
+          },
+          "hash": "eabca9d98d51487442ab893fa05bb32c84d0ea9b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q63060$2DEA254F-1C24-4084-813B-676C72DAB4A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63048",
+              "numeric-id": 63048
+            }
+          },
+          "hash": "5857f19dfa99377ffd68b61dce0017626c8b9fd6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q63060$6AB5FCE0-5442-48FD-939F-148D7CA926A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q63060$E4CBF1B9-591A-40FA-9EFF-85B21DAC782F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1837-02-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f72607f3eb39435838822e10260c5b0f2e4c04fd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q63060$A13DFB50-89C9-480B-830C-1D1E5D6E5D0D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1870-05-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "68336b8e0d52963d4613ca24a2c1f94ee8d065c5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q63060$0E65856F-A99E-4AE5-BEB9-AE13EADF4178",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514491"
+          },
+          "hash": "3cb3e9365a141c01ee9c488c5a6928144a172de8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "9 Feb 1837 - 16 May 1870"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代後期の大名。中村藩の重臣。出羽岩崎藩8代藩主。佐竹壱岐守家8代。従五位下壱岐守、播磨守、贈従四位。相馬益胤の四男。熊川長基（中村藩士）の養子"
+    }
+  },
+  "id": "Q63060",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "佐竹義諶"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사타케 요시쓰마"
+    }
+  },
+  "lastrevid": 17473012,
+  "modified": "2025-09-16T15:34:59Z",
+  "ns": 860,
+  "pageid": 77891,
+  "sitelinks": {},
+  "title": "Item:Q63060",
+  "type": "item"
+}

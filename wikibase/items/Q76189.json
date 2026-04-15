@@ -1,0 +1,820 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Antonius Gordianus Sempronianus Romanus Africanus Augustus"
+      },
+      {
+        "language": "en",
+        "value": "Gordian I, Roman Emperor"
+      },
+      {
+        "language": "en",
+        "value": "Gordian I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q76189$BD4F83BB-D2CF-4872-9529-F8646B7E7629",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "487012"
+          },
+          "hash": "35533a6d2755664b5d7aff607995806473ad9336",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q76189$F6642636-99F4-43A6-A5C9-8F09ACE67D78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716752"
+          },
+          "hash": "143f75e295b8787f20f4e8c220f4b101e252cede",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q76189$BC43AB1E-09CE-4DFE-8A86-AF3120F2430C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75994",
+              "numeric-id": 75994
+            }
+          },
+          "hash": "5c6acdbe16baf780c21f91f7bf0cd279ee0ca85c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76189$4866F057-F52C-4D54-AA54-8D81A27B5939",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148322",
+              "numeric-id": 148322
+            }
+          },
+          "hash": "c9db32785173ef99ec02ee35b19af9f98ba1f4f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76189$E5C85573-829F-4FC8-9182-2C5FCC83AC9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148323",
+              "numeric-id": 148323
+            }
+          },
+          "hash": "842a7dbfee4e585f77df0e629cf55ea5bd6c9222",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q76189$23BB61ED-D1CD-4F09-8014-80FA640D5F39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gordianus_Sempronianus-1"
+          },
+          "hash": "cf5d82cf80401c65652628d72ceac13b2ec27cd7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76189$59E4F214-BC53-40E9-9998-22A341E31D00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76189$81CE40D4-E967-4442-865E-42318A1C927E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q76189$3C919A09-CA95-40C4-A412-A122E7CD9696",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76186",
+              "numeric-id": 76186
+            }
+          },
+          "hash": "a8ec513f089e6db6f04efa7cdc4c82dd45317d83",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76189$69A549C0-57AB-4838-BFE0-AFD42EB2488F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144400",
+              "numeric-id": 144400
+            }
+          },
+          "hash": "00bb50f2dd7255884d1c286f0e37fa4d3b578195",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76189$CEFDFF84-3BD1-4A5C-86E2-596A948F73F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76412",
+              "numeric-id": 76412
+            }
+          },
+          "hash": "7eaf98d0d4ad629bcd4474379f13890c61236041",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q76189$5FDF859A-023E-4F33-A058-C45ED8D98350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76409",
+              "numeric-id": 76409
+            }
+          },
+          "hash": "b7d28801321e574911d44cb6cac0c29f34e59976",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76189$4C07F138-963D-4AC9-A3D1-C127DE54ADB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q76189$2B2B74C0-2EEF-49BA-9367-5AD21231725B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0159-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "feca7b15731823791c7443e70e50e2ebc9876fd1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76189$8DA24A20-C9EF-4BF3-A1A9-3CFDA7E9BCCA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0238-04-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2946d2db79a19e9df1414c4301506a67936f902b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76189$BA2DDC8E-087B-4530-8F34-87E194E6A256",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1782"
+          },
+          "hash": "8caca66f04f2ad50e022d8ae61638c1c9eb7dc0c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q76189$4DBAE76D-53D8-4B69-ACDC-37CE787B529D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645859941"
+          },
+          "hash": "77eae6ebbe924e248890ae3418927047d14ef188",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q76189$F96D4636-3C99-4493-AB9B-F11F998832C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:35017"
+          },
+          "hash": "8f35ce5d098ae55cdf795bbd32dd99fdde2aee2c",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76189$B3290726-B54A-46E4-918D-329C9E62963E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gordian I, Roman Emperor Arms.svg"
+          },
+          "hash": "090fdd78f2fa84e0ad7ed7f55bcf2e32ba70f713",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76189$95C5999D-6FF1-45AE-80D7-D313F164E385",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gordian I Arms.svg"
+          },
+          "hash": "2d2073eb0cf9ab53250d1f451ef935cbda62cb73",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q76189$DA2BC948-497D-4EAE-A48C-7A800651E7ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/d587fc9c-a11f-49fb-891f-677a19e903af"
+          },
+          "hash": "85c8d6f80b92b79a7e9c158842fccd484a557f9e",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař (238)"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser vom 19. März bis 9. April 238"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (238)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain en 238"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano en 238"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "kaisar Romawi (tahun 238)"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano (r. 238)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마 제국의 26번째 공동 황제"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Oude Rome (159-238)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperador romano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император в 238 году"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsare 238"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma imparatoru"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський імператор у 238 році"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ"
+    }
+  },
+  "id": "Q76189",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جورديان الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جورديان الاول"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی قوردیان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гардыян I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гордиан I"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gordianus Iañ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gordià I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gordianus I."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gordian I"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gordian 1."
+    },
+    "de": {
+      "language": "de",
+      "value": "Gordian I."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Gordian I."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Gordianus I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γορδιανός Α'"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gordian I, Roman Emperor"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Gordian I"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gordian I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gordiano la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gordiano I"
+    },
+    "et": {
+      "language": "et",
+      "value": "Gordianus I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gordiano I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گوردیان یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gordianus I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gordien Ier"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Gordianus I"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gordiano I"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Gordian 1-sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "גורדיאנוס הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gordijan I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Gordianus római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հորդիանոս I"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gordianus I"
+    },
+    "is": {
+      "language": "is",
+      "value": "Gordianus 1."
+    },
+    "it": {
+      "language": "it",
+      "value": "Gordiano I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゴルディアヌス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გორდიანე I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고르디아누스 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gordianus I"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Gordianas I"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Гордијан I"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "गॉर्डियन पहिला"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Gordian I"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Gordianus 1-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gordian I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gordianus I"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gordian I"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Gordian I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gordian I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gordiano I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gordiano I"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gordian I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гордиан I"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Gordian I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gordijan I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gordián I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gordijan I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gordian I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гордијан I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gordianus I"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Gordian I"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิกอร์ดิอานุสที่ 1"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Gordian I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Gordianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гордіан I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "گوردیان اول"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gordianus I"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "戈尔迪安一世"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "გორდიანე I"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Gordian 1k"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "戈爾迪安一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "戈尔迪安一世"
+    }
+  },
+  "lastrevid": 17546616,
+  "modified": "2025-09-17T09:14:43Z",
+  "ns": 860,
+  "pageid": 91020,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q76189",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q76189"
+    }
+  },
+  "title": "Item:Q76189",
+  "type": "item"
+}

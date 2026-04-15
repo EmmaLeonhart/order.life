@@ -1,0 +1,558 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artavasdes"
+      },
+      {
+        "language": "en",
+        "value": "Artavasdes I, king of Media Atropatene"
+      },
+      {
+        "language": "en",
+        "value": "Artavasdes I of Media Atropatene"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72353$1B747515-4B5F-41EE-B6B0-72491BDEEA32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736588"
+          },
+          "hash": "7caa6439b367e7bf74279f0c9d74b049f06beea7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72353$A4E95D31-7A5B-400E-9D06-9AD0BB1E1048",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71766",
+              "numeric-id": 71766
+            }
+          },
+          "hash": "69e78b77848463a27d359fee2efd4e05447ee276",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$1B43BC93-34C9-4AB3-8438-4ED4EED496FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137173",
+              "numeric-id": 137173
+            }
+          },
+          "hash": "31df4a4434c7e9dabecae400ed0dd754003ccad3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$DFC5E79E-E074-4545-903D-83075E248BCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137174",
+              "numeric-id": 137174
+            }
+          },
+          "hash": "551a17330422c58d8d730928992630493ab00f6d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$0D164E81-4809-4F1D-ACED-076D152C0087",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165688",
+              "numeric-id": 165688
+            }
+          },
+          "hash": "0ef1d932089fdb4f510e8fd29b72b928a8a4a35d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$1E5B98B1-A3E1-467A-A040-6E3F6FFF4C5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165689",
+              "numeric-id": 165689
+            }
+          },
+          "hash": "c6f821b388298fbdc76069dcef5b9c528a1b60db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$928013DB-5FC1-437B-8A5B-29CFA19D6B67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165690",
+              "numeric-id": 165690
+            }
+          },
+          "hash": "84bd33e4aa4c6dd12161ae822116c1be86372e9d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72353$18B020F0-5BE6-4DF1-88EA-7E4A07FC6FE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$8461FC92-B516-4034-A25D-AD9B9DE35266",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72353$BE5BB307-3B88-4C71-B069-171C9AF8C68C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Artavasdes_I_of_Media_Atropatene_(1)"
+          },
+          "hash": "6b163a681c29271f2826a1c45283f4de5da777d3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72353$8775F708-174C-490A-A0AC-C191F5D40754",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72350",
+              "numeric-id": 72350
+            }
+          },
+          "hash": "77df49aa50a9b5b359c7f74e19ba01a9c8cf57b3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$DBE2328C-97F8-4F5A-AF48-6CAFB52A4592",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165732",
+              "numeric-id": 165732
+            }
+          },
+          "hash": "84f121d6e7abb9dcdb19f06e1e464484d08f4275",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72353$A069FE3C-4D43-4A21-9B68-157865FD1745",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165733",
+              "numeric-id": 165733
+            }
+          },
+          "hash": "3d3baa6db8fc3b7ec26592b326927f8d1ad81b56",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72353$459FC7E9-933B-4D55-B5B1-9DADB269E72F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72546",
+              "numeric-id": 72546
+            }
+          },
+          "hash": "a9891fcd3ca2a003a81eb65000f53c7458a837b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72353$2663C943-BF51-4A67-ADED-4E2A43455753",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72543",
+              "numeric-id": 72543
+            }
+          },
+          "hash": "b425c48b8883591c6546abe7472482f8fd569d28",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72353$F72E7297-FFE1-438B-BDB7-3DA72C34920E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72353$691729F9-B0FB-4968-9592-166B055DE301",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0059-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49a1b07cfb9b0a058525fafb4bfa5374417b308e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72353$B226D8FA-AADF-4BF8-815B-EAF442B223A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "92e1802ad08cbef1ae843fd7fe4139676d215111",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72353$294FA65E-A1B9-4393-9E5F-5AF00911F145",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q706206"
+          },
+          "hash": "0d5092ad5c3474a9426aa7fb9891fdab87ed5221",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72353$BF3C104B-93BF-4640-9BA9-81DAEB918B52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006970940899"
+          },
+          "hash": "18ad407f079c429950901c39708ffbc880c481d9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72353$2DF7E512-5EBF-4C9B-A41C-674EBBD438F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artavasdes I of Media Atropatene Arms.svg"
+          },
+          "hash": "4c2e6dee5e3cfdf6650035c9e88d34d8b72923e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Media Atropatene"
+    },
+    "en": {
+      "language": "en",
+      "value": "king"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Media Atropatene (r. 56-30 a.C.) e di Armenia minore (30-20 a.C.)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Medii Atropatene"
+    }
+  },
+  "id": "Q72353",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "I Artavazd"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artavasdes I de Mèdia Atropatene"
+    },
+    "da": {
+      "language": "da",
+      "value": "Artavasdes I af Atropatene"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artavasdes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρταβάσδης Α΄ της Μηδίας Ατροπατηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artavasdes I of Media Atropatene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artavasdes I de Media Atropatene"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتاوازد یکم آتورپاتکان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artavazde Ier d'Atropatène"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארטוואסדס הראשון"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մար Արտավազդ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Artavasdes I dari Media Atropatene"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artavasde I di Media Atropatene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタヴァスデス1世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artavasdes I of Media Atropatene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artawazdes I z Medii Atropatene"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artavasdes I da Média Atropatene"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artavasdes I da Média Atropatene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артавазд I (правитель Атропатены)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artavazd I od Medije Atropatene"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Artavazd I. Atropatenski"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Artavasdes I av Atropatene"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артавазд II Атропатенський"
+    }
+  },
+  "lastrevid": 17484794,
+  "modified": "2025-09-16T18:25:49Z",
+  "ns": 860,
+  "pageid": 87184,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72353",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72353"
+    }
+  },
+  "title": "Item:Q72353",
+  "type": "item"
+}

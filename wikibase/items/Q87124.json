@@ -1,0 +1,509 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Faustus Cornelius Sulla"
+      },
+      {
+        "language": "en",
+        "value": "Quaestor"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q72281$CBF9E71A-8B31-4BB6-BCB3-A0B629587AF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735991"
+          },
+          "hash": "8b3d7e990b274489b582268bd976d794243e77e4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72281$16F60EC3-7B8E-4F26-AD1C-5C029A7B6DF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71083",
+              "numeric-id": 71083
+            }
+          },
+          "hash": "e210a8443360874876077f3cc028b948a5c2657d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72281$D6231C41-919D-453F-88D9-9A0A74535FA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139748",
+              "numeric-id": 139748
+            }
+          },
+          "hash": "9c81b541f60d74d97096badcd0052305130d7165",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72281$DEB14110-7404-4190-8CCD-979AB8052153",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139747",
+              "numeric-id": 139747
+            }
+          },
+          "hash": "f2c156916d2c14c67b280b46854afb3a61b7be49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72281$D0AF9800-076E-46BC-8254-F389440F4625",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72281$D4AC6876-8C43-4D29-9591-04BD52960759",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72281$0D03B36D-15B2-442F-88A1-02DAC86AAC42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Faustus_Cornelius_Sulla_(senator)_(1)"
+          },
+          "hash": "3e0450c0ecf9baea6f73a5371fabd630d7a32f38",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72281$F058E07D-0A49-4351-A401-11E531707F52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70970",
+              "numeric-id": 70970
+            }
+          },
+          "hash": "cdffcbb98089206c07816f7f5c00d808a0d57067",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72281$8817DA11-2DCF-4CBA-BABF-949FCF7FE1D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72478",
+              "numeric-id": 72478
+            }
+          },
+          "hash": "cce19794a0a0f99f4de88c8fb9b50ec3bb689a18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72281$ED79387C-635F-4083-BAA0-077876612655",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72475",
+              "numeric-id": 72475
+            }
+          },
+          "hash": "8403df1cd2f971011d570066d693bf2d5a216d74",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72281$2A84DFCF-8928-4C70-A056-522F0CCB313A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72281$6598414F-5DC2-4CE7-8DAE-3BA296F32F61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0088-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8e95234c4bd99396673e15c0ca6789660672c43e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72281$805B9479-C806-468A-ADB9-F325F72F0EB3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0046-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f590326d83966d1151bccb63c8f016a1454f567",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72281$E6FE7067-E0B9-4269-A7FA-4765AA5B8DBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q708722"
+          },
+          "hash": "1b3533ffdfda4a2ed4f2c06b03b200c65b923e28",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72281$5038A1A0-484D-40C6-A4C8-726A30167C93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002188289008"
+          },
+          "hash": "66ca902abbf7121dca83967bc06b571773ff518a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q72281$33F59323-2077-45B6-B261-6276556AF8C5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Faustus Cornelius Sulla"
+          },
+          "hash": "4c2ba86fa691ffe2076c4a4561343777e0ac8bb8",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72281$EAC88EEA-FD9F-44D6-9E37-29420410C20C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Faustus Cornelius Sulla Arms.svg"
+          },
+          "hash": "50e960ae96287a004bdd510bb130297db033287f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q72281$314D3BCE-8228-424E-893A-72570BA93475",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/57546EF5-16AF-428A-9BFF-87F575D3113D"
+          },
+          "hash": "d278f815d616dd418fd690cfc27f938a65ab0d72",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des römischen Diktators Sulla"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of the Roman dictator Sulla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "questeur romain en 54 av. J.-C., fils de Sylla"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római arisztokrata politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Republiek (-087--045)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "polityk rzymski czasów republiki"
+    }
+  },
+  "id": "Q72281",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فاوستس كورنيليوس سولا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фауст Корнелий Сула"
+    },
+    "br": {
+      "language": "br",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Faust Corneli Sul·la"
+    },
+    "de": {
+      "language": "de",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαύστος Κορνήλιος Σύλλας (ταμίας το 54 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fausto Cornelio Sila"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fausto Cornelio Silla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ファウストゥス・コルネリウス・スッラ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파우스투스 코르넬리우스 술라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Faustus Korneliusz Sulla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fausto Cornélio Sula"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fausto Cornélio Sula"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фавст Корнелий Сулла"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Faustus Cornelius Sulla"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Faustus Sulla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фавст Корнелій Сулла"
+    }
+  },
+  "lastrevid": 17484698,
+  "modified": "2025-09-16T18:24:29Z",
+  "ns": 860,
+  "pageid": 87112,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72281",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72281"
+    }
+  },
+  "title": "Item:Q72281",
+  "type": "item"
+}
